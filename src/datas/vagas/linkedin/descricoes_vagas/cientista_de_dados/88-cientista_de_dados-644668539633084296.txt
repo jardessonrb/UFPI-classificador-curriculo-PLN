@@ -1,0 +1,147 @@
+link-https://www.linkedin.com/jobs/view/4043286154/?eBP=CwEAAAGS7jSFZBAn_dP7vahMt7tql13cXc1cq2yw3CjCVaaF2-vx1eKZJFYh_Jp6O_Rh1hRkWSksUjVp4ISEsCMP337-3jnKSDSQr6H5zVcYJczs1l5Fn3vf96jDj4AI31w5CYN9dsB03byAHtjH91HZASQpc1fuRiE6GZsXsmQCsMxzYSHNxWFDq_GaefHGz4hZkG5qfphILPItlxqDHWOu-SJyUhz3UtM5djFckejVGSOaowIH5scZ4oyhTcqcRv-ljI7w_MyhidFDEP0ZMJnIcgDS3l2VbLBFMPM5KXms49aw87HK14Wqziv_I-no6R5Ct7Ncb17U-csoSfm37AHNuud9dSxAgjWqmZTXrqRAaP20olWGy4wSriWKxPfUFeTgbamJgBbMe7STCllKdXmqsMaJ0Ynh9xExhxDLWisdCYFBBOOLGyor1g_rL59v3vA1szOK1qxF0qIEH7QbGnEzDJ3TOgNsNEXYyCBDHEcdo36vPgWeK9iSwLxvk9q4ZQTWMjFXXHw&refId=zG8L0cPSry7sLg6pAEmeJg%3D%3D&trackingId=1Tzvc3mnRO7IUgU0tmlIiQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior | Inteligência
+Sobre a vaga
+Job DescriptionA área de Produtos Digitais reúne em seu portfólio produtos de publishing (g1, ge, gshow, receitas e home daglobo.com), produtos audiovisuais (globoplay e globo filmes), canais pagos esportivos (sportv, premiere, combate) e não esportivos (globonews, multishow, GNT, viva, gloob, gloobinho, off, BIS, futura, modo viagem), disponibilizados na TV por assinatura e no globoplay + canais ao vivo. Também faz parte do portfólio o fantasy game Cartola.Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.Responsibilities and assignmentsA frente de Inteligência de Canais de Esportes tem como missão ser a força motriz por trás das decisões estratégicas dos canais esportivos Sportv, Premiere e Combate, utilizando o poder dos dados para transformar informações em oportunidades, otimizar decisões, gestão de janelas do futebol, discussão de direitos esportivos, responder demais perguntas de negócio e entender o comportamento do consumidor de esportes.Como será o seu dia a dia:Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;Defender a tomada de decisões orientada por dados, fornecendo recomendações para o time de produto;Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning para projação de base, churn, vendas além de engajamento, retenção e entendimento do comportamento dos usuários.Requirements And QualificationsDo que você precisa:Experiência comprovada como Cientista de Dados;Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;Proficiência em R ou Python e SQL para análise e modelagem de dados;Ter trabalhado com computação em nuvem (GCP);Experiência com manipulação de grandes volumes de dados;Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.Conhecimentos que te destacam:Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc);Pós-graduação com foco em Estatística/Ciência de Dados;Experiências com produtificação de modelos de Machine Learning;Inglês intermediário (escrita, leitura e conversação)Additional informationPor que vir para Globo:Vem e vamos criar histórias e tecnologias juntos.Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.Aqui, cada um faz a transformação acontecer.Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil e do mundo. #vempragloboSeguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:https://www.linkedin.com/company/globohttps://www.instagram.com/vempraglobohttps://www.youtube.com/c/VemPraGlobo/Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link:https://vempraglobo.g.globo/files/politica_de_privacidade.pdfAo prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.Process stagesStep 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Bate-Papo com RH3Bate-Papo com RHStep 4: Avaliação Técnica4Avaliação TécnicaStep 5: Bate-papo com o Gestor5Bate-papo com o GestorStep 6: Análise Final6Análise FinalStep 7: Hiring7Hiring✨somos globo✨A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.Aqui, cada um faz a transformação acontecer.Quer fazer parte dessa transformação também?#VemPraGlobo ;)
+Job Description
+
+
+
+
+
+
+
+
+
+
+
+Como será o seu dia a dia:
+
+
+
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;Defender a tomada de decisões orientada por dados, fornecendo recomendações para o time de produto;Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning para projação de base, churn, vendas além de engajamento, retenção e entendimento do comportamento dos usuários.
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;
+Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;
+Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;
+Defender a tomada de decisões orientada por dados, fornecendo recomendações para o time de produto;
+Defender a tomada de decisões orientada por dados, fornecendo recomendações para o time de produto;
+Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning para projação de base, churn, vendas além de engajamento, retenção e entendimento do comportamento dos usuários.
+Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning para projação de base, churn, vendas além de engajamento, retenção e entendimento do comportamento dos usuários.
+
+
+
+Requirements And Qualifications
+
+
+Do que você precisa:
+
+
+Experiência comprovada como Cientista de Dados;Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;Proficiência em R ou Python e SQL para análise e modelagem de dados;Ter trabalhado com computação em nuvem (GCP);Experiência com manipulação de grandes volumes de dados;Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.
+Experiência comprovada como Cientista de Dados;
+Experiência comprovada como Cientista de Dados;
+Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;
+Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;
+Proficiência em R ou Python e SQL para análise e modelagem de dados;
+Proficiência em R ou Python e SQL para análise e modelagem de dados;
+Ter trabalhado com computação em nuvem (GCP);
+Ter trabalhado com computação em nuvem (GCP);
+Experiência com manipulação de grandes volumes de dados;
+Experiência com manipulação de grandes volumes de dados;
+Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);
+Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);
+Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);
+Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.
+
+
+
+Conhecimentos que te destacam:
+
+
+
+Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc);Pós-graduação com foco em Estatística/Ciência de Dados;Experiências com produtificação de modelos de Machine Learning;Inglês intermediário (escrita, leitura e conversação)
+Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc);
+Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc);
+Pós-graduação com foco em Estatística/Ciência de Dados;
+Pós-graduação com foco em Estatística/Ciência de Dados;
+Experiências com produtificação de modelos de Machine Learning;
+Experiências com produtificação de modelos de Machine Learning;
+Inglês intermediário (escrita, leitura e conversação)
+Inglês intermediário (escrita, leitura e conversação)
+
+
+
+
+
+Por que vir para Globo:
+
+
+
+
+
+
+
+
+
+
+
+
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Bate-Papo com RH3Bate-Papo com RHStep 4: Avaliação Técnica4Avaliação TécnicaStep 5: Bate-papo com o Gestor5Bate-papo com o GestorStep 6: Análise Final6Análise FinalStep 7: Hiring7Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem2Triagem
+Step 2: Triagem2Triagem
+Step 3: Bate-Papo com RH3Bate-Papo com RH
+Step 3: Bate-Papo com RH3Bate-Papo com RH
+Step 4: Avaliação Técnica4Avaliação Técnica
+Step 4: Avaliação Técnica4Avaliação Técnica
+Step 5: Bate-papo com o Gestor5Bate-papo com o Gestor
+Step 5: Bate-papo com o Gestor5Bate-papo com o Gestor
+Step 6: Análise Final6Análise Final
+Step 6: Análise Final6Análise Final
+Step 7: Hiring7Hiring
+Step 7: Hiring7Hiring
+
+
+
+
+
+
+
+
+
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+
+
+
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+
+
+
+Aqui, cada um faz a transformação acontecer.
+
+
+
+
+

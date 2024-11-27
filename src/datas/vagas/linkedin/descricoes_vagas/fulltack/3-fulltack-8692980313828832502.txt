@@ -1,0 +1,123 @@
+link-https://www.linkedin.com/jobs/view/4052279491/?eBP=CwEAAAGS7g-URIg9QNmFnw3nPja8Fszfj5uAKll3ts-tWo_vpNuN1UTdJYO8sWv2QVzwKOer3LlpWjGiIl6CBwJ_3xGMGKFMm-wHNhBPdIyggMQigIOlf-lP0EcI8TSDUgnvxB3sZi0xqE-jyrY7l8JV2ohZcfnleFppJfxjcmDd2ZyVOBvfaI9gmAMXKyciwPPsXePYf72CcRCj18GE3ZZtfg_HkBbO1xrZ9v57oTQUpNioFiHT6Gn_dZ2egpYFDi0Hsx9GcWRfp1KzCUBnBqN99u40amPFT2-JDKgknuIJLiYaUgbMyGkEi7CLG3Rb_eOk5wFYuR9PEWx0FlDcneqPbiUl_Vyy9gtyRil9c5lVIFnvO4R-F0OVdif7oDYMrvuBdCAbUGo6656xpXegGH6vsJuLeeiWmwIhDUIHidySM_2z-73WzSfYxP4K3fsdRWXg80QzisNvdz0fsxrJABure7B1gr2veBBQ2q6B8aOKUxtkbTqRJZNq1-_s3xVNGw&refId=ZNTassECJtBZJDov0qiO4A%3D%3D&trackingId=%2BBEG9QEq19SNRAQ4KTmeJw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Java Full Stack Júnior
+Sobre a vaga
+Venha trabalhar conosco!Estamos comprometidos em transformar a gestão de obras no Brasil com soluções tecnológicas que impulsionam eficiência e qualidade no setor da construção civil. Parte do grupo Teclógica, nossa plataforma é desenhada para apoiar construtoras e incorporadoras, facilitando a comunicação entre gestores, equipes de campo e tomadores de decisão. Oferecemos ferramentas que abrangem desde o controle de segurança e acompanhamento de obras até a gestão de pós-obra.Trabalhamos de forma colaborativa e inovadora para criar soluções que realmente fazem a diferença no dia a dia das empresas do setor. São mais de 40 colaboradores, com mais de 300 clientes atendidos em diversas cidades brasileiras.Você é apaixonado por tecnologia e gosta de enfrentar desafios? Quer usar suas habilidades para criar soluções inovadoras em um ambiente que valoriza suas ideias e promove seu crescimento? Então, esta vaga deDesenvolvedor(a) Java Full Stack Júnioré para você! Trabalhe com uma equipe colaborativa, que valoriza diferentes perspectivas e oferece um espaço para você evoluir e crescer.Vem construir o futuro da tecnologia na construção junto com a gente!Como parte do nosso time, suas principais responsabilidades serão:Desenvolver novas funcionalidades e melhorias nos produtos da plataforma Mobuss;Identificar e corrigir bugs na plataforma;Provocar e manter a cultura de documentação;Contribuir na construção e manutenção de relatórios com JasperReports;Trabalhar em um ambiente colaborativo, focado em boas práticas de desenvolvimento e qualidade de código.Requisitos e Qualificações:Experiência mínima de 1 ano em desenvolvimento com a linguagem Java (J2EE/J2SE);Conhecimento com ferramentas de controle de versão (preferencialmente Git);Conhecimento sólido dos conceitos de Orientação a Objetos;Conhecimento em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou equivalente);Familiaridade em tecnologias como EJB, JPA;Familiaridade com desenvolvimento web (HTML, CSS, JavaScript ou JSF e Primefaces);Familiaridade de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;Inglês técnico.Você pode se diferenciar:Experiência prévia (mesmo que em projetos acadêmicos ou pessoais) com frameworks como JSF/Primefaces;Conhecimento no desenvolvimento de relatórios com JasperReports;Conhecimento em APIs RESTful para integração de sistemas;Formação em andamento ou recém-formado em Ciência da Computação, Engenharia de Software ou áreas correlatas.Benefícios:PPLR - Participação nos Lucros e Resultados;Vale Alimentação/Refeição;Birthday Off;Auxílio Saúde;Equipamentos de Trabalho;Modalidade híbrida de trabalho;Jornada de Trabalho Reduzida e Flexível;Banco de Horas (Opcional);Auxílio Home Office;Seguro de Vida;Auxílio Educação;Turmas de Inglês (In Company);Vale Transporte;Auxílio Creche;Ginástica Laboral;Convênio com Plano Odontológico;Convênio com Rede de Farmácias;Convênio com Rede de Cinemas;Convênio com o Sesc, entre outros;Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.Não perca essa oportunidade e venha fazer parte do nosso time.Valorizamos a inclusão, e todas as nossas vagas estão abertas a pessoas com deficiência!
+Venha trabalhar conosco!
+
+
+
+
+
+
+
+Desenvolvedor(a) Java Full Stack Júnior
+
+
+
+Vem construir o futuro da tecnologia na construção junto com a gente!
+
+
+Como parte do nosso time, suas principais responsabilidades serão:
+
+
+Desenvolver novas funcionalidades e melhorias nos produtos da plataforma Mobuss;Identificar e corrigir bugs na plataforma;Provocar e manter a cultura de documentação;Contribuir na construção e manutenção de relatórios com JasperReports;Trabalhar em um ambiente colaborativo, focado em boas práticas de desenvolvimento e qualidade de código.
+Desenvolver novas funcionalidades e melhorias nos produtos da plataforma Mobuss;
+Desenvolver novas funcionalidades e melhorias nos produtos da plataforma Mobuss;
+Identificar e corrigir bugs na plataforma;
+Identificar e corrigir bugs na plataforma;
+Provocar e manter a cultura de documentação;
+Provocar e manter a cultura de documentação;
+Contribuir na construção e manutenção de relatórios com JasperReports;
+Contribuir na construção e manutenção de relatórios com JasperReports;
+Trabalhar em um ambiente colaborativo, focado em boas práticas de desenvolvimento e qualidade de código.
+Trabalhar em um ambiente colaborativo, focado em boas práticas de desenvolvimento e qualidade de código.
+
+
+Requisitos e Qualificações:
+
+
+Experiência mínima de 1 ano em desenvolvimento com a linguagem Java (J2EE/J2SE);Conhecimento com ferramentas de controle de versão (preferencialmente Git);Conhecimento sólido dos conceitos de Orientação a Objetos;Conhecimento em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou equivalente);Familiaridade em tecnologias como EJB, JPA;Familiaridade com desenvolvimento web (HTML, CSS, JavaScript ou JSF e Primefaces);Familiaridade de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;Inglês técnico.
+Experiência mínima de 1 ano em desenvolvimento com a linguagem Java (J2EE/J2SE);
+Experiência mínima de 1 ano em desenvolvimento com a linguagem Java (J2EE/J2SE);
+Conhecimento com ferramentas de controle de versão (preferencialmente Git);
+Conhecimento com ferramentas de controle de versão (preferencialmente Git);
+Conhecimento sólido dos conceitos de Orientação a Objetos;
+Conhecimento sólido dos conceitos de Orientação a Objetos;
+Conhecimento em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou equivalente);
+Conhecimento em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou equivalente);
+Familiaridade em tecnologias como EJB, JPA;
+Familiaridade em tecnologias como EJB, JPA;
+Familiaridade com desenvolvimento web (HTML, CSS, JavaScript ou JSF e Primefaces);
+Familiaridade com desenvolvimento web (HTML, CSS, JavaScript ou JSF e Primefaces);
+Familiaridade de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;
+Familiaridade de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;
+Inglês técnico.
+Inglês técnico.
+
+
+Você pode se diferenciar:
+
+
+Experiência prévia (mesmo que em projetos acadêmicos ou pessoais) com frameworks como JSF/Primefaces;Conhecimento no desenvolvimento de relatórios com JasperReports;Conhecimento em APIs RESTful para integração de sistemas;Formação em andamento ou recém-formado em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+Experiência prévia (mesmo que em projetos acadêmicos ou pessoais) com frameworks como JSF/Primefaces;
+Experiência prévia (mesmo que em projetos acadêmicos ou pessoais) com frameworks como JSF/Primefaces;
+Conhecimento no desenvolvimento de relatórios com JasperReports;
+Conhecimento no desenvolvimento de relatórios com JasperReports;
+Conhecimento em APIs RESTful para integração de sistemas;
+Conhecimento em APIs RESTful para integração de sistemas;
+Formação em andamento ou recém-formado em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+Formação em andamento ou recém-formado em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+
+
+Benefícios:
+
+
+PPLR - Participação nos Lucros e Resultados;Vale Alimentação/Refeição;Birthday Off;Auxílio Saúde;Equipamentos de Trabalho;Modalidade híbrida de trabalho;Jornada de Trabalho Reduzida e Flexível;Banco de Horas (Opcional);Auxílio Home Office;Seguro de Vida;Auxílio Educação;Turmas de Inglês (In Company);Vale Transporte;Auxílio Creche;Ginástica Laboral;Convênio com Plano Odontológico;Convênio com Rede de Farmácias;Convênio com Rede de Cinemas;Convênio com o Sesc, entre outros;Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+PPLR - Participação nos Lucros e Resultados;
+PPLR - Participação nos Lucros e Resultados;
+Vale Alimentação/Refeição;
+Vale Alimentação/Refeição;
+Birthday Off;
+Birthday Off;
+Auxílio Saúde;
+Auxílio Saúde;
+Equipamentos de Trabalho;
+Equipamentos de Trabalho;
+Modalidade híbrida de trabalho;
+Modalidade híbrida de trabalho;
+Jornada de Trabalho Reduzida e Flexível;
+Jornada de Trabalho Reduzida e Flexível;
+Banco de Horas (Opcional);
+Banco de Horas (Opcional);
+Auxílio Home Office;
+Auxílio Home Office;
+Seguro de Vida;
+Seguro de Vida;
+Auxílio Educação;
+Auxílio Educação;
+Turmas de Inglês (In Company);
+Turmas de Inglês (In Company);
+Vale Transporte;
+Vale Transporte;
+Auxílio Creche;
+Auxílio Creche;
+Ginástica Laboral;
+Ginástica Laboral;
+Convênio com Plano Odontológico;
+Convênio com Plano Odontológico;
+Convênio com Rede de Farmácias;
+Convênio com Rede de Farmácias;
+Convênio com Rede de Cinemas;
+Convênio com Rede de Cinemas;
+Convênio com o Sesc, entre outros;
+Convênio com o Sesc, entre outros;
+Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+
+
+
+
+Valorizamos a inclusão, e todas as nossas vagas estão abertas a pessoas com deficiência!
+
+

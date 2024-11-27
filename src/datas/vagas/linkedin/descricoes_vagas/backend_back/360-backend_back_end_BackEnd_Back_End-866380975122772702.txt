@@ -1,0 +1,143 @@
+link-https://www.linkedin.com/jobs/view/4059207149/?eBP=CwEAAAGS7lInlRiVJyPt_szd37HCHDFlNBFpoGHYoYmk9ul0NgjMpiZpXatfQN9q8OR94a-NaGrZ8vphN58GQeQ4ToaQ98CDx7VirDP60lMCk2_7h06ONIJJwVf7xwiQr9kJ-J9MjMC4SNlr-T4JHQVl-eUKO7MGm13xZ8g91etpoxpxj07hljLSNJYNqRjffek1c2rgMzkyhFxuJyG0Q4pSjOnS5S9sQ5hOEu0OlSqMjw7Pl97GMnZ6W2wuKK6lz_8EDImA_MYH8VcthuJAZhW7bJYPJw5wVr98JlNvK2AOfshC-S2HNwBwVMtUUlvkMm2_Vg1tLmf8CZX0rsaJMseZ58tJeweQUMnr76pMIoarqdBMiCph_Jxj_GHEUxKJFdORuv6X0PIxcd3U5O4ir-92tS8gjsS0hRG5sZx2RDidWCGOWvoZeiz5vD7yLXzcarepQUBcp9b64tVVEslL9gG7bo0Xws3fpe1IbBlyROrzs53BlSZm20x5dKbSNtDsdqqcz5J5hV3eRg&refId=IqmtUJ2bp47v46rQJyql6A%3D%3D&trackingId=D2jeJ6H8pdiydLFPypFhLg%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Back End (Especialista - Tech Lead)
+Sobre a vaga
+#Nosso jeito de fazer história:Entre para a história de construção do maior Hub de Dados e Analytics do Brasil.Além de você contribuir diretamente neste objetivo, você estará se desenvolvendo constantemente, por meio de grandes desafios de negócio, junto a um time de alto impacto. Na Neoway, acreditamos em fazer as coisas de forma inovadora, colaborativa, responsável e com foco no cliente.Responsabilidades e atribuições:Idealizar e construir novas soluções (análise e desenvolvimento);Conceber melhorias nas arquiteturas atuais e de novas soluções;Suportar questões técnicas dos projetos, em suas diversas fases, propondo soluções, indagando caminhos. Sempre de forma crítica e construtiva;Recomendar modificações e melhorias em processos, visando a eficiência das áreas;Solucionar/encaminhar ou ainda escalar impedimentos técnicos apontados pelo time;Contribuir com o crescimento técnico do time, efetuando treinamentos, aconselhamentos (mentoria) e supervisão de pessoas desenvolvedoras menos experientes, sempre que necessário;Garantir um ambiente seguro dentro do time para que cada colaborador possa se expressar;Acompanhamento técnico das pessoas da disciplina do seu escopo de atuação através de 1:1 e PDIs;Contribuir para a produção de padrões e documentação de melhores práticas para a sua equipe e garantir que o desenvolvimento atenda a esses padrões.Requisitos e qualificações:Compreensão de arquiteturas para processamento de grandes volumes de dados (repositórios, filas, microsserviços, etc);Domínio de conceitos e boas práticas de desenvolvimento de software (da concepção à entrega, sustentação e operação, desenvolvimento orientado a testes, escrita e documentação de códigos, code review, etc);Conhecimento avançado em linguagem para back-end;Linguagens de programação (Go, NodeJS, Java, SQL);Banco de dados relacionais, não relacionais, colunares/AVRO e elásticos (PostgreSQL, MongoDB, etc);Estrutura Cloud (GCP);Pró-eficiência no desenvolvimento de: API Rest; Programação concorrente e escalável;Conhecimento nos processos de versionamento e práticas CI/CD;Experiência com práticas de Code Review e Feedback;Experiência com desenvolvimento orientado a testes;Apresentar boa comunicação, pois somos um time bastante pró ativo e com necessidade de articulação de ideias;Encarar as mudanças como oportunidades e aprender com seus erros;Facilidade em compartilhar conhecimento;Promover nossa cultura e valores;Saber como construir com outras pessoas e desfrutar do trabalho em equipe.Alguns diferenciais que estamos de olho. Mas não se preocupe caso não tenha, ajudamos você nessa parte:Conhecimento dos conceitos de Big Data, Data Lake, Metadados com as perspectiva das boas práticas e requisitos de governança de dados;Teoria e prática em qualidade de dados (Dimensões, Profiling, Data Quality Assessment);Conhecimento de infraestrutura (Terraform, Ansible);Conhecimento em schedulers (Crontab, Jenkins, Airflow, etc);Conhecimento do ecossistema de containers (Docker, Kubernetes);Conhecimento em serviços de mensageria (PubSub, SNS, Kafka);Conhecimento de BigQuery, ElasticSearch.#NeoJourney l Cardápio de Benefícios:🍲 Vale Alimentação/Refeição;🩺Plano de Assistência médica e odontológica;👨‍👩‍👦 Licença Maternidade e paternidade estendida;💳PPR (Programa de participação de resultados);🏋️‍♀️Gympass - plataforma que te dá acesso a mais de 18 mil academias no Brasil. Nas academias conveniadas são oferecidas mais de 700 modalidades esportivas;💛 Wellz - plataforma de saúde mental e bem estar, com terapia gratuita e muito mais;🙆🏽Ginástica Laboral (presencial) 1x na semana;🧘🏻Quick Massagem (presencial) 2x mês;👶🏽Auxílio Creche;🎈Day off no aniversário;🚑 Seguro de Vida;📚 Parcerias Educacionais com Faculdades e Escolas de Ensino.Mais sobre o Universo Neoway:Unimos forças com a B3, a maior potência de dados do país. Nossa meta é entrar para a história, e o capítulo deste ano é sobre acelerar.Todos e todas do time são essenciais para escrevermos este capítulo! Entendemos que as jornadas na Neoway são únicas, feitas pela soma do DNA Neoway + o potencial de cada colaborador(a).#Somos Mudança:Acreditamos na potência da diversidade. Sabemos que temos um longo caminho pela frente, por isso estamos constantemente aprendendo e criando iniciativas para fortalecer a diversidade e inclusão. E essa jornada conta com o apoio dos nossos grupos de afinidade: #NeoLadies #NeoOba e #NeoPride, todos com o propósito de traduzir nossas mudanças internas em responsabilidade como cidadãos.
+#Nosso jeito de fazer história:
+#Nosso jeito de fazer história:
+#Nosso jeito de fazer história:
+Entre para a história de construção do maior Hub de Dados e Analytics do Brasil.
+Entre para a história de construção do maior Hub de Dados e Analytics do Brasil.
+Além de você contribuir diretamente neste objetivo, você estará se desenvolvendo constantemente, por meio de grandes desafios de negócio, junto a um time de alto impacto. Na Neoway, acreditamos em fazer as coisas de forma inovadora, colaborativa, responsável e com foco no cliente.
+Além de você contribuir diretamente neste objetivo, você estará se desenvolvendo constantemente, por meio de grandes desafios de negócio, junto a um time de alto impacto. Na Neoway, acreditamos em fazer as coisas de forma inovadora, colaborativa, responsável e com foco no cliente.
+
+
+
+Responsabilidades e atribuições:
+Responsabilidades e atribuições:
+Responsabilidades e atribuições:
+Idealizar e construir novas soluções (análise e desenvolvimento);Conceber melhorias nas arquiteturas atuais e de novas soluções;Suportar questões técnicas dos projetos, em suas diversas fases, propondo soluções, indagando caminhos. Sempre de forma crítica e construtiva;Recomendar modificações e melhorias em processos, visando a eficiência das áreas;Solucionar/encaminhar ou ainda escalar impedimentos técnicos apontados pelo time;Contribuir com o crescimento técnico do time, efetuando treinamentos, aconselhamentos (mentoria) e supervisão de pessoas desenvolvedoras menos experientes, sempre que necessário;Garantir um ambiente seguro dentro do time para que cada colaborador possa se expressar;Acompanhamento técnico das pessoas da disciplina do seu escopo de atuação através de 1:1 e PDIs;Contribuir para a produção de padrões e documentação de melhores práticas para a sua equipe e garantir que o desenvolvimento atenda a esses padrões.
+Idealizar e construir novas soluções (análise e desenvolvimento);
+Idealizar e construir novas soluções (análise e desenvolvimento);
+Conceber melhorias nas arquiteturas atuais e de novas soluções;
+Conceber melhorias nas arquiteturas atuais e de novas soluções;
+Suportar questões técnicas dos projetos, em suas diversas fases, propondo soluções, indagando caminhos. Sempre de forma crítica e construtiva;
+Suportar questões técnicas dos projetos, em suas diversas fases, propondo soluções, indagando caminhos. Sempre de forma crítica e construtiva;
+Recomendar modificações e melhorias em processos, visando a eficiência das áreas;
+Recomendar modificações e melhorias em processos, visando a eficiência das áreas;
+Solucionar/encaminhar ou ainda escalar impedimentos técnicos apontados pelo time;
+Solucionar/encaminhar ou ainda escalar impedimentos técnicos apontados pelo time;
+Contribuir com o crescimento técnico do time, efetuando treinamentos, aconselhamentos (mentoria) e supervisão de pessoas desenvolvedoras menos experientes, sempre que necessário;
+Contribuir com o crescimento técnico do time, efetuando treinamentos, aconselhamentos (mentoria) e supervisão de pessoas desenvolvedoras menos experientes, sempre que necessário;
+Garantir um ambiente seguro dentro do time para que cada colaborador possa se expressar;
+Garantir um ambiente seguro dentro do time para que cada colaborador possa se expressar;
+Acompanhamento técnico das pessoas da disciplina do seu escopo de atuação através de 1:1 e PDIs;
+Acompanhamento técnico das pessoas da disciplina do seu escopo de atuação através de 1:1 e PDIs;
+Contribuir para a produção de padrões e documentação de melhores práticas para a sua equipe e garantir que o desenvolvimento atenda a esses padrões.
+Contribuir para a produção de padrões e documentação de melhores práticas para a sua equipe e garantir que o desenvolvimento atenda a esses padrões.
+
+
+
+Requisitos e qualificações:
+Requisitos e qualificações:
+Requisitos e qualificações:
+Compreensão de arquiteturas para processamento de grandes volumes de dados (repositórios, filas, microsserviços, etc);Domínio de conceitos e boas práticas de desenvolvimento de software (da concepção à entrega, sustentação e operação, desenvolvimento orientado a testes, escrita e documentação de códigos, code review, etc);Conhecimento avançado em linguagem para back-end;Linguagens de programação (Go, NodeJS, Java, SQL);Banco de dados relacionais, não relacionais, colunares/AVRO e elásticos (PostgreSQL, MongoDB, etc);Estrutura Cloud (GCP);Pró-eficiência no desenvolvimento de: API Rest; Programação concorrente e escalável;Conhecimento nos processos de versionamento e práticas CI/CD;Experiência com práticas de Code Review e Feedback;Experiência com desenvolvimento orientado a testes;Apresentar boa comunicação, pois somos um time bastante pró ativo e com necessidade de articulação de ideias;Encarar as mudanças como oportunidades e aprender com seus erros;Facilidade em compartilhar conhecimento;Promover nossa cultura e valores;Saber como construir com outras pessoas e desfrutar do trabalho em equipe.
+Compreensão de arquiteturas para processamento de grandes volumes de dados (repositórios, filas, microsserviços, etc);
+Compreensão de arquiteturas para processamento de grandes volumes de dados (repositórios, filas, microsserviços, etc);
+Domínio de conceitos e boas práticas de desenvolvimento de software (da concepção à entrega, sustentação e operação, desenvolvimento orientado a testes, escrita e documentação de códigos, code review, etc);
+Domínio de conceitos e boas práticas de desenvolvimento de software (da concepção à entrega, sustentação e operação, desenvolvimento orientado a testes, escrita e documentação de códigos, code review, etc);
+Conhecimento avançado em linguagem para back-end;
+Conhecimento avançado em linguagem para back-end;
+Linguagens de programação (Go, NodeJS, Java, SQL);
+Linguagens de programação (Go, NodeJS, Java, SQL);
+Banco de dados relacionais, não relacionais, colunares/AVRO e elásticos (PostgreSQL, MongoDB, etc);
+Banco de dados relacionais, não relacionais, colunares/AVRO e elásticos (PostgreSQL, MongoDB, etc);
+Estrutura Cloud (GCP);
+Estrutura Cloud (GCP);
+Pró-eficiência no desenvolvimento de: API Rest; Programação concorrente e escalável;
+Pró-eficiência no desenvolvimento de: API Rest; Programação concorrente e escalável;
+Conhecimento nos processos de versionamento e práticas CI/CD;
+Conhecimento nos processos de versionamento e práticas CI/CD;
+Experiência com práticas de Code Review e Feedback;
+Experiência com práticas de Code Review e Feedback;
+Experiência com desenvolvimento orientado a testes;
+Experiência com desenvolvimento orientado a testes;
+Apresentar boa comunicação, pois somos um time bastante pró ativo e com necessidade de articulação de ideias;
+Apresentar boa comunicação, pois somos um time bastante pró ativo e com necessidade de articulação de ideias;
+Encarar as mudanças como oportunidades e aprender com seus erros;
+Encarar as mudanças como oportunidades e aprender com seus erros;
+Facilidade em compartilhar conhecimento;
+Facilidade em compartilhar conhecimento;
+Promover nossa cultura e valores;
+Promover nossa cultura e valores;
+Saber como construir com outras pessoas e desfrutar do trabalho em equipe.
+Saber como construir com outras pessoas e desfrutar do trabalho em equipe.
+
+
+
+Alguns diferenciais que estamos de olho. Mas não se preocupe caso não tenha, ajudamos você nessa parte:
+Alguns diferenciais que estamos de olho. Mas não se preocupe caso não tenha, ajudamos você nessa parte:
+Alguns diferenciais que estamos de olho. Mas não se preocupe caso não tenha, ajudamos você nessa parte:
+Conhecimento dos conceitos de Big Data, Data Lake, Metadados com as perspectiva das boas práticas e requisitos de governança de dados;Teoria e prática em qualidade de dados (Dimensões, Profiling, Data Quality Assessment);Conhecimento de infraestrutura (Terraform, Ansible);Conhecimento em schedulers (Crontab, Jenkins, Airflow, etc);Conhecimento do ecossistema de containers (Docker, Kubernetes);Conhecimento em serviços de mensageria (PubSub, SNS, Kafka);Conhecimento de BigQuery, ElasticSearch.
+Conhecimento dos conceitos de Big Data, Data Lake, Metadados com as perspectiva das boas práticas e requisitos de governança de dados;
+Conhecimento dos conceitos de Big Data, Data Lake, Metadados com as perspectiva das boas práticas e requisitos de governança de dados;
+Teoria e prática em qualidade de dados (Dimensões, Profiling, Data Quality Assessment);
+Teoria e prática em qualidade de dados (Dimensões, Profiling, Data Quality Assessment);
+Conhecimento de infraestrutura (Terraform, Ansible);
+Conhecimento de infraestrutura (Terraform, Ansible);
+Conhecimento em schedulers (Crontab, Jenkins, Airflow, etc);
+Conhecimento em schedulers (Crontab, Jenkins, Airflow, etc);
+Conhecimento do ecossistema de containers (Docker, Kubernetes);
+Conhecimento do ecossistema de containers (Docker, Kubernetes);
+Conhecimento em serviços de mensageria (PubSub, SNS, Kafka);
+Conhecimento em serviços de mensageria (PubSub, SNS, Kafka);
+Conhecimento de BigQuery, ElasticSearch.
+Conhecimento de BigQuery, ElasticSearch.
+
+
+
+#NeoJourney l Cardápio de Benefícios:
+#NeoJourney l Cardápio de Benefícios:
+#NeoJourney l Cardápio de Benefícios:
+🍲 Vale Alimentação/Refeição;
+🍲 Vale Alimentação/Refeição;
+🩺Plano de Assistência médica e odontológica;
+🩺Plano de Assistência médica e odontológica;
+👨‍👩‍👦 Licença Maternidade e paternidade estendida;
+👨‍👩‍👦 Licença Maternidade e paternidade estendida;
+💳PPR (Programa de participação de resultados);
+💳PPR (Programa de participação de resultados);
+🏋️‍♀️Gympass - plataforma que te dá acesso a mais de 18 mil academias no Brasil. Nas academias conveniadas são oferecidas mais de 700 modalidades esportivas;
+🏋️‍♀️Gympass - plataforma que te dá acesso a mais de 18 mil academias no Brasil. Nas academias conveniadas são oferecidas mais de 700 modalidades esportivas;
+💛 Wellz - plataforma de saúde mental e bem estar, com terapia gratuita e muito mais;
+💛 Wellz - plataforma de saúde mental e bem estar, com terapia gratuita e muito mais;
+🙆🏽Ginástica Laboral (presencial) 1x na semana;
+🙆🏽Ginástica Laboral (presencial) 1x na semana;
+🧘🏻Quick Massagem (presencial) 2x mês;
+🧘🏻Quick Massagem (presencial) 2x mês;
+👶🏽Auxílio Creche;
+👶🏽Auxílio Creche;
+🎈Day off no aniversário;
+🎈Day off no aniversário;
+🚑 Seguro de Vida;
+🚑 Seguro de Vida;
+📚 Parcerias Educacionais com Faculdades e Escolas de Ensino.
+📚 Parcerias Educacionais com Faculdades e Escolas de Ensino.
+
+
+
+Mais sobre o Universo Neoway:
+Mais sobre o Universo Neoway:
+Mais sobre o Universo Neoway:
+Unimos forças com a B3, a maior potência de dados do país. Nossa meta é entrar para a história, e o capítulo deste ano é sobre acelerar.
+Unimos forças com a B3, a maior potência de dados do país. Nossa meta é entrar para a história, e o capítulo deste ano é sobre acelerar.
+Todos e todas do time são essenciais para escrevermos este capítulo! Entendemos que as jornadas na Neoway são únicas, feitas pela soma do DNA Neoway + o potencial de cada colaborador(a).
+Todos e todas do time são essenciais para escrevermos este capítulo! Entendemos que as jornadas na Neoway são únicas, feitas pela soma do DNA Neoway + o potencial de cada colaborador(a).
+
+
+
+#Somos Mudança:
+#Somos Mudança:
+#Somos Mudança:
+Acreditamos na potência da diversidade. Sabemos que temos um longo caminho pela frente, por isso estamos constantemente aprendendo e criando iniciativas para fortalecer a diversidade e inclusão. E essa jornada conta com o apoio dos nossos grupos de afinidade: #NeoLadies #NeoOba e #NeoPride, todos com o propósito de traduzir nossas mudanças internas em responsabilidade como cidadãos.
+Acreditamos na potência da diversidade. Sabemos que temos um longo caminho pela frente, por isso estamos constantemente aprendendo e criando iniciativas para fortalecer a diversidade e inclusão. E essa jornada conta com o apoio dos nossos grupos de afinidade: #NeoLadies #NeoOba e #NeoPride, todos com o propósito de traduzir nossas mudanças internas em responsabilidade como cidadãos.

@@ -1,0 +1,114 @@
+link-https://www.linkedin.com/jobs/view/4057203644/?eBP=CwEAAAGS7hG_NYv0MMK2Elu0YyqmG1dhBWvQS_Vx7XLn9cqA55_nJN271mZJBL1uRcUgCyf8inhweihGtwf4CX73RoWag_W3sdyuK9exhtHP4nfT_qqo7oYIpEnwVN3gBYKvrC3O9favN2i_nC9fK4skneCXhw030ETtshJYtKifePr4KWwbk_rIbMeWMPHdLsIA6RP4RtWSW15isxVDZzM2rM2XS-Mg3iqRfaV0crBGY85u_wh-KPFel5ItiBlNOeqx7-6zIO3yLqkIVedVHNaxUn-3XDDKMP5wUFbXHyIExERg44vCC6vL-c7qBnj4_O_-h9BqJ29oevTfkBDEocd8UtfvGK09pCFjx5FPkJ02PyTSw_S0NOL4_t6_Wp4uSQHIx235G3ikmM0bW3KY8yl5t1yQMvr4pESkJmvlWZ4kSuJ8PB3AEsotBrxEyW0VrT01lRQyrkHI9PCCmzScfCDebLB4a8Eop2cDzjM-yvVfPfDCUSv3VEjer24xb5JiQg&refId=itGxIrjbsIsCMJQPFLLhjw%3D%3D&trackingId=KZy%2BqKJQCH2BX2aEONFbXw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Full-Stack (Projetos IA)
+Sobre a vaga
+A Omie tem como propósito trazer prosperidade para o ecossistema empreendedor brasileiro. Por isso, buscamos por pessoas com mentalidade de crescimento, valorizando perfis que tenham capacidade de adaptação, senso colaborativo e sejam motivadas pela inovação e pelo aprendizado contínuo.Faça parte da história de uma das empresas de tecnologia que mais cresce no país! 🚀#VempraOmieResponsabilidades e atribuiçõesGerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.Requisitos e qualificaçõesConhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.Experiência com infraestrutura como código (IaC).Experiência com monitoramento de aplicações.Experiência com ferramentas de integração e deploy contínuos (CI/CD).Experiência em administração de servidores.Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;Conhecimentos em uso de APIs REST.Conhecimentos em redes.Familiaridade com DevOps e SRE.Experiência com conteinerização e ferramentas de orquestração (Kubernetes).DesejávelFormação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.Experiência em versionamento de código (GitHub).Conhecimento/experiência com a API Gateway.Conhecimento em bancos de dados SQL e NoSQL.Informações adicionaisBenefício Flexível/VR: R$ 40,00/dia útil.Auxílio-escritório e Auxílio Home office para você melhorar o seu ambiente de trabalho remoto e torná-lo ainda mais confortável.Precisa trabalhar presencialmente? Nós temos vale-transporte. E para você que vem de trem/metrô disponibilizamos um fretado na estação para deslocamento até o escritório.Plano de saúde Bradesco.Plano odontológico Amil Dental.Auxílio Farmácia.Auxílio-creche.Day off de aniversário, para você comemorar como quiser!Para manter a saúde e o bem-estar físico em dia, contamos com Apps parceiros de academias credenciadas.Para relaxar e cuidar da saúde mental, temos parcerias com plataformas de terapia e meditação online.Parceria com o SESC - Credencial PlenaDescontos exclusivos nas melhores faculdades e instituições de ensino, voltados para cursos de graduação, pós-graduação e MBA. Além de disponibilizarmos o Omie Academy gratuito para colaboradores.Parceria com cursos de English in Company.Programa de descontos em seguros.Empréstimo consignado via Ali Crédito.Swile Shop: plataforma de descontos exclusivos.Parceria com a Dell: cupons de até R$ 2.000,00.PPRL.Global Pass: benefício de viagens.Seguro de vida.
+
+
+
+
+#VempraOmie
+
+
+Responsabilidades e atribuições
+
+
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.
+Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.
+Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.
+Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.
+Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.
+Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.
+Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.
+Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+
+
+
+Requisitos e qualificações
+
+
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.Experiência com infraestrutura como código (IaC).Experiência com monitoramento de aplicações.Experiência com ferramentas de integração e deploy contínuos (CI/CD).Experiência em administração de servidores.Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;Conhecimentos em uso de APIs REST.Conhecimentos em redes.Familiaridade com DevOps e SRE.Experiência com conteinerização e ferramentas de orquestração (Kubernetes).
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.
+Experiência com infraestrutura como código (IaC).
+Experiência com infraestrutura como código (IaC).
+Experiência com monitoramento de aplicações.
+Experiência com monitoramento de aplicações.
+Experiência com ferramentas de integração e deploy contínuos (CI/CD).
+Experiência com ferramentas de integração e deploy contínuos (CI/CD).
+Experiência em administração de servidores.
+Experiência em administração de servidores.
+Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;
+Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;
+Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;
+Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;
+Conhecimentos em uso de APIs REST.
+Conhecimentos em uso de APIs REST.
+Conhecimentos em redes.
+Conhecimentos em redes.
+Familiaridade com DevOps e SRE.
+Familiaridade com DevOps e SRE.
+Experiência com conteinerização e ferramentas de orquestração (Kubernetes).
+Experiência com conteinerização e ferramentas de orquestração (Kubernetes).
+
+
+
+Desejável
+
+
+Formação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.Experiência em versionamento de código (GitHub).Conhecimento/experiência com a API Gateway.Conhecimento em bancos de dados SQL e NoSQL.
+Formação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.
+Formação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.
+Experiência em versionamento de código (GitHub).
+Experiência em versionamento de código (GitHub).
+Conhecimento/experiência com a API Gateway.
+Conhecimento/experiência com a API Gateway.
+Conhecimento em bancos de dados SQL e NoSQL.
+Conhecimento em bancos de dados SQL e NoSQL.
+
+
+
+Informações adicionais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

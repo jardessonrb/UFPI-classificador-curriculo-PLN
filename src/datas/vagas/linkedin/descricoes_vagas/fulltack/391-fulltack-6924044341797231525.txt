@@ -1,0 +1,116 @@
+link-https://www.linkedin.com/jobs/view/4063335210/?eBP=CwEAAAGS7g_Y0UAcOgiWtuKJS3_7O_Ex1cmLbDGMDaX1MluH_azpfnTde1jVsAEWe_UD3y9hcKetoxj2ba7-tM1UelL3rLrcjUEOPAKI5vpprUkr9PM_FYcfsNHUHLb_oCTdL_azoxKyEe4VcuDXYtbf8vDaIbDxNLo3UesCCtEKuD2_sasqkhkK6dod3mIxBaP4r2tav1xD9a9t2Qap4eRjdyen8lbM1F180oTPupAfUxK7iVOKssYuYd8EwNMUlKbs2Pyh_DMy3QcVclUcXeaJh__gG9_DJD9F5JqjbnhF3nVVU-BqhjomODiJpI5Q4tlCDkWXCes2BLMr8ApP2auEA4fUY9V-agENXHSUrQ9wEv604y1MyY5y_hSjVBYIu-PvsL2a3MHMv3GnTmADCQQ98db7lyL_EPyJSiDUQ2UQJByYCxLCZDnJFQvSB8QQ8NMySQDBBqwnAcyM3qfDLDL2dy8Fq1ItUe72tL1mPa3oU9ZS79R6TgBatHr5599rPPYxDKgPbag&refId=1iPyJHMmRb1HXKZB6viLgg%3D%3D&trackingId=Z7eNxKEdONa1Oh5hbZf%2F2g%3D%3D&trk=flagship3_search_srp_jobs
+
+Full Stack Software Developer - Mid Level
+Sobre a vaga
+About UsOne team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive impact to join our team.What You'll DoThis position will open opportunities to be part of a cutting-edge Team of O&G Performance KPI Solution for large O&G Operators and Drilling Contractors. You will be exposed to national and international customer needs and solutions developments to reduce costs and increase operational safety in O&G Well Construction.The day-to-dayYour day-to-day activities will include:Participate in Sprint Planning Meetings and Dailies to prioritize User Stories / Bug Fixes that need to be worked onWrite efficient, scalable, and secure code, and ensure that it meets the requirements of the projectProblem Solving and Debugging on existing and new featuresFront-End Fine-TuningDevelop E2E tests of newly developed featuresCode Review and Collaboration with the rest of the teamWhat You'll NeedRequired Education, Knowledge, Hard Skills & AbilitiesDegree in Computer Science (or similar field of study)Level of English (intermediate for reading and writing; novice for speaking);Understand about: algorithms and data structure, object orientation and SOLID principles;Familiarity with databases (Mysql, PostgreSQL, MongoDB);Functional programming and lambda empressions;Concurrency & Multithreading;Software Architecture good practices and patterns (scalability, reliability, maintainability);Solid understanding of web design and development principles;Intermediate knowledge in at least one programming language;Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;Web aplication security and authentication;Java ORM - Hibernate and JPA;Knowledge of at least one javascript framework as React;Responsive design knowleadge;Automated testing; Units, API, end to end, performance and load tests;Comfortable use of VCS (git);RESTful web API design, web services and versioning;Web performance and optimization;Comfortable with alghoritms and data structure;Previous experience with at least one programming language;Comfortable with web technologies (HTML, CSS and Javascript).What Will Help You On The JobBONUS POINTS:Interest and ability to learn other technologies and coding languages as needed;Familiarity with databases (Mysql, PostgreSQL, MongoDB);Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;Comfortable use of VCS (git);Familiarity with Linux;Basic knowledge in automated testing;Knowledge of UX (user experience) principles.EEO StatementViasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here.
+About Us
+
+
+
+
+What You'll Do
+
+
+
+
+The day-to-day
+
+
+
+
+Participate in Sprint Planning Meetings and Dailies to prioritize User Stories / Bug Fixes that need to be worked onWrite efficient, scalable, and secure code, and ensure that it meets the requirements of the projectProblem Solving and Debugging on existing and new featuresFront-End Fine-TuningDevelop E2E tests of newly developed featuresCode Review and Collaboration with the rest of the team
+Participate in Sprint Planning Meetings and Dailies to prioritize User Stories / Bug Fixes that need to be worked on
+Participate in Sprint Planning Meetings and Dailies to prioritize User Stories / Bug Fixes that need to be worked on
+Write efficient, scalable, and secure code, and ensure that it meets the requirements of the project
+Write efficient, scalable, and secure code, and ensure that it meets the requirements of the project
+Problem Solving and Debugging on existing and new features
+Problem Solving and Debugging on existing and new features
+Front-End Fine-Tuning
+Front-End Fine-Tuning
+Develop E2E tests of newly developed features
+Develop E2E tests of newly developed features
+
+Code Review and Collaboration with the rest of the team
+Code Review and Collaboration with the rest of the team
+
+
+
+What You'll Need
+
+
+
+
+Degree in Computer Science (or similar field of study)Level of English (intermediate for reading and writing; novice for speaking);Understand about: algorithms and data structure, object orientation and SOLID principles;Familiarity with databases (Mysql, PostgreSQL, MongoDB);Functional programming and lambda empressions;Concurrency & Multithreading;Software Architecture good practices and patterns (scalability, reliability, maintainability);Solid understanding of web design and development principles;Intermediate knowledge in at least one programming language;Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;Web aplication security and authentication;Java ORM - Hibernate and JPA;Knowledge of at least one javascript framework as React;Responsive design knowleadge;Automated testing; Units, API, end to end, performance and load tests;Comfortable use of VCS (git);RESTful web API design, web services and versioning;Web performance and optimization;Comfortable with alghoritms and data structure;Previous experience with at least one programming language;Comfortable with web technologies (HTML, CSS and Javascript).
+Degree in Computer Science (or similar field of study)
+Degree in Computer Science (or similar field of study)
+Level of English (intermediate for reading and writing; novice for speaking);
+Level of English (intermediate for reading and writing; novice for speaking);
+Understand about: algorithms and data structure, object orientation and SOLID principles;
+Understand about: algorithms and data structure, object orientation and SOLID principles;
+Familiarity with databases (Mysql, PostgreSQL, MongoDB);
+Familiarity with databases (Mysql, PostgreSQL, MongoDB);
+Functional programming and lambda empressions;
+Functional programming and lambda empressions;
+Concurrency & Multithreading;
+Concurrency & Multithreading;
+Software Architecture good practices and patterns (scalability, reliability, maintainability);
+Software Architecture good practices and patterns (scalability, reliability, maintainability);
+Solid understanding of web design and development principles;
+Solid understanding of web design and development principles;
+Intermediate knowledge in at least one programming language;
+Intermediate knowledge in at least one programming language;
+Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;
+Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;
+Web aplication security and authentication;
+Web aplication security and authentication;
+Java ORM - Hibernate and JPA;
+Java ORM - Hibernate and JPA;
+Knowledge of at least one javascript framework as React;
+Knowledge of at least one javascript framework as React;
+Responsive design knowleadge;
+Responsive design knowleadge;
+Automated testing; Units, API, end to end, performance and load tests;
+Automated testing; Units, API, end to end, performance and load tests;
+Comfortable use of VCS (git);
+Comfortable use of VCS (git);
+RESTful web API design, web services and versioning;
+RESTful web API design, web services and versioning;
+Web performance and optimization;
+Web performance and optimization;
+Comfortable with alghoritms and data structure;
+Comfortable with alghoritms and data structure;
+Previous experience with at least one programming language;
+Previous experience with at least one programming language;
+Comfortable with web technologies (HTML, CSS and Javascript).
+Comfortable with web technologies (HTML, CSS and Javascript).
+
+
+
+What Will Help You On The Job
+
+
+
+
+Interest and ability to learn other technologies and coding languages as needed;Familiarity with databases (Mysql, PostgreSQL, MongoDB);Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;Comfortable use of VCS (git);Familiarity with Linux;Basic knowledge in automated testing;Knowledge of UX (user experience) principles.
+Interest and ability to learn other technologies and coding languages as needed;
+Interest and ability to learn other technologies and coding languages as needed;
+Familiarity with databases (Mysql, PostgreSQL, MongoDB);
+Familiarity with databases (Mysql, PostgreSQL, MongoDB);
+Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;
+Familiarity with the HTTP protocol, JSON, Web APIs and WebSocket;
+Comfortable use of VCS (git);
+Comfortable use of VCS (git);
+Familiarity with Linux;
+Familiarity with Linux;
+Basic knowledge in automated testing;
+Basic knowledge in automated testing;
+Knowledge of UX (user experience) principles.
+Knowledge of UX (user experience) principles.
+
+
+
+
+EEO Statement
+
+
+

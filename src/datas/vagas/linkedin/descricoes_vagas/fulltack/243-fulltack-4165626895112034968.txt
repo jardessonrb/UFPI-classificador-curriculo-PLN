@@ -1,0 +1,149 @@
+link-https://www.linkedin.com/jobs/view/4048253326/?eBP=CwEAAAGS7hJNa_ALXy5Ej7wj_0bDqlvSBpP-y2zmqx_0zE69kGiIzGkmucjnoA9OH3ReyzymiM82kqP6vc9JousYsL2YOUFEgdKDEygw_m8_m0rR69b7olr6W5miuHzlPIZkbzzbLi2N_OhBGf33ijZKCj-Wf9g7NK7NfCWV_FFCckBEApwG_nqNcMKZX4ydlMEDNZI-YBzIcN-miiIZXKsAPvYg6N7EOPh6dJ5HdQQlhJhnZlBP0iEeh0H2KNdoTuv7SzJPZ6j7mJijOqhy1qQIIdHKTv0OEX3sUrr1pIAL0g5BLo2kXo3eC_2E3OyzXjdV5N8sdtRavCsHzu3szhePQDjPds2GOfUTFztC9-6NSfK-Vkfbl7bJ0UoTFvS-4ISfWZGJM1NmtnWP9jOPW1_Nxsns5jXwekQWQ2myIOn4cKHM8zgCA7OW2UJrHL9-Dv7Njksg3RBaNyWvzam0-iIBF_RR1hHG8eQN0zdjjk8NoC3f1ZX7_JDClEcDCyBJZROWyU79oUo30W_vvCe014d0DJI&refId=a6vUPSWez%2Fz1o9umXrtpDg%3D%3D&trackingId=XSgW7SzKuPAZvLbXUd%2FQ7A%3D%3D&trk=flagship3_search_srp_jobs
+
+Fullstack - Pleno/Senior
+Sobre a vaga
+Estamos em busca de umDesenvolvedor Fullstack Pleno-Sêniorpara integrar nosso time e ajudar a evoluir nossas plataformas! 🚀 Se você tem experiência em tecnologias modernas e quer trabalhar em um ambiente dinâmico, focado em IA e inovação, essa oportunidade é para você!Responsabilidades:Desenvolver e manter aplicações utilizandoNext.js,Python, ePHP/Laravel.Trabalhar com diferentes stacks, incluindoSupabase,Docker,Weaviate(banco de dados vetorial) ecPanel.Implementar novas funcionalidades e otimizar o desempenho de três ferramentas distintas, garantindo escalabilidade e alta performance.UtilizarLLMs(Large Language Models) para decompor problemas complexos e ajudar no desenvolvimento.Colaborar com a equipe para revisar arquiteturas e propor melhorias técnicas.Trabalhar diretamente com nossos times deSuper Agentes,CTOe demais stakeholders.Requisitos Técnicos:Sólida experiência comJavaScript/TypeScripte frameworks modernos comoNext.js.Proficiência emPythone criação de APIs.Experiência comPHPeLaravel.Familiaridade combancos de dados SQL, NoSQL, e vetoriais.Conhecimento emDocker,Git, ecloud hosting(Vercel, cPanel).Experiência ou interesse em trabalhar comIA, especialmenteLLMseRAG.Capacidade de resolver problemas complexos de forma eficiente e colaborativa.Diferenciais:Experiência comSupabase,Weaviatee microsserviços.Interesse por inovação e tecnologia de ponta.O que oferecemos:Ambiente colaborativo e de alto crescimento.Projetos desafiadores com tecnologias de ponta.Flexibilidade de trabalho remoto.Modelo de contratação:PJSe você busca um novo desafio e quer fazer parte de um time inovador, inscreva-se agora! 💡
+Estamos em busca de umDesenvolvedor Fullstack Pleno-Sêniorpara integrar nosso time e ajudar a evoluir nossas plataformas! 🚀 Se você tem experiência em tecnologias modernas e quer trabalhar em um ambiente dinâmico, focado em IA e inovação, essa oportunidade é para você!
+Estamos em busca de umDesenvolvedor Fullstack Pleno-Sêniorpara integrar nosso time e ajudar a evoluir nossas plataformas! 🚀 Se você tem experiência em tecnologias modernas e quer trabalhar em um ambiente dinâmico, focado em IA e inovação, essa oportunidade é para você!
+
+Desenvolvedor Fullstack Pleno-Sênior
+
+
+
+
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+Desenvolver e manter aplicações utilizandoNext.js,Python, ePHP/Laravel.Trabalhar com diferentes stacks, incluindoSupabase,Docker,Weaviate(banco de dados vetorial) ecPanel.Implementar novas funcionalidades e otimizar o desempenho de três ferramentas distintas, garantindo escalabilidade e alta performance.UtilizarLLMs(Large Language Models) para decompor problemas complexos e ajudar no desenvolvimento.Colaborar com a equipe para revisar arquiteturas e propor melhorias técnicas.Trabalhar diretamente com nossos times deSuper Agentes,CTOe demais stakeholders.
+Desenvolver e manter aplicações utilizandoNext.js,Python, ePHP/Laravel.
+Desenvolver e manter aplicações utilizandoNext.js,Python, ePHP/Laravel.
+
+Next.js
+
+Python
+
+PHP/Laravel
+Trabalhar com diferentes stacks, incluindoSupabase,Docker,Weaviate(banco de dados vetorial) ecPanel.
+Trabalhar com diferentes stacks, incluindoSupabase,Docker,Weaviate(banco de dados vetorial) ecPanel.
+
+Supabase
+
+Docker
+
+Weaviate
+
+
+cPanel
+Implementar novas funcionalidades e otimizar o desempenho de três ferramentas distintas, garantindo escalabilidade e alta performance.
+Implementar novas funcionalidades e otimizar o desempenho de três ferramentas distintas, garantindo escalabilidade e alta performance.
+UtilizarLLMs(Large Language Models) para decompor problemas complexos e ajudar no desenvolvimento.
+UtilizarLLMs(Large Language Models) para decompor problemas complexos e ajudar no desenvolvimento.
+
+LLMs
+
+Colaborar com a equipe para revisar arquiteturas e propor melhorias técnicas.
+Colaborar com a equipe para revisar arquiteturas e propor melhorias técnicas.
+Trabalhar diretamente com nossos times deSuper Agentes,CTOe demais stakeholders.
+Trabalhar diretamente com nossos times deSuper Agentes,CTOe demais stakeholders.
+
+Super Agentes
+
+CTO
+
+
+
+
+Requisitos Técnicos:
+Requisitos Técnicos:
+Requisitos Técnicos:
+Sólida experiência comJavaScript/TypeScripte frameworks modernos comoNext.js.Proficiência emPythone criação de APIs.Experiência comPHPeLaravel.Familiaridade combancos de dados SQL, NoSQL, e vetoriais.Conhecimento emDocker,Git, ecloud hosting(Vercel, cPanel).Experiência ou interesse em trabalhar comIA, especialmenteLLMseRAG.Capacidade de resolver problemas complexos de forma eficiente e colaborativa.
+Sólida experiência comJavaScript/TypeScripte frameworks modernos comoNext.js.
+Sólida experiência comJavaScript/TypeScripte frameworks modernos comoNext.js.
+
+JavaScript/TypeScript
+
+
+Next.js
+Proficiência emPythone criação de APIs.
+Proficiência emPythone criação de APIs.
+
+Python
+
+Experiência comPHPeLaravel.
+Experiência comPHPeLaravel.
+
+PHP
+
+
+Laravel
+Familiaridade combancos de dados SQL, NoSQL, e vetoriais.
+Familiaridade combancos de dados SQL, NoSQL, e vetoriais.
+
+bancos de dados SQL, NoSQL
+Conhecimento emDocker,Git, ecloud hosting(Vercel, cPanel).
+Conhecimento emDocker,Git, ecloud hosting(Vercel, cPanel).
+
+Docker
+
+Git
+
+cloud hosting
+
+Experiência ou interesse em trabalhar comIA, especialmenteLLMseRAG.
+Experiência ou interesse em trabalhar comIA, especialmenteLLMseRAG.
+
+IA
+
+LLMs
+
+
+RAG
+Capacidade de resolver problemas complexos de forma eficiente e colaborativa.
+Capacidade de resolver problemas complexos de forma eficiente e colaborativa.
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+Experiência comSupabase,Weaviatee microsserviços.Interesse por inovação e tecnologia de ponta.
+Experiência comSupabase,Weaviatee microsserviços.
+Experiência comSupabase,Weaviatee microsserviços.
+
+Supabase
+
+Weaviate
+
+Interesse por inovação e tecnologia de ponta.
+Interesse por inovação e tecnologia de ponta.
+
+
+
+O que oferecemos:
+O que oferecemos:
+O que oferecemos:
+Ambiente colaborativo e de alto crescimento.Projetos desafiadores com tecnologias de ponta.Flexibilidade de trabalho remoto.
+Ambiente colaborativo e de alto crescimento.
+Ambiente colaborativo e de alto crescimento.
+Projetos desafiadores com tecnologias de ponta.
+Projetos desafiadores com tecnologias de ponta.
+Flexibilidade de trabalho remoto.
+Flexibilidade de trabalho remoto.
+
+
+
+Modelo de contratação:
+Modelo de contratação:
+Modelo de contratação:
+PJ
+PJ
+PJ
+
+
+
+
+Se você busca um novo desafio e quer fazer parte de um time inovador, inscreva-se agora! 💡
+Se você busca um novo desafio e quer fazer parte de um time inovador, inscreva-se agora! 💡
+
+
+

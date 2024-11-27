@@ -1,0 +1,62 @@
+link-https://www.linkedin.com/jobs/view/4054909944/?eBP=CwEAAAGS7lJZ99d2U0Z4XNd_BRdVr8QiEkZYrXgj16i8r5CsFDZxn1rCIdHx0ZJDvwfnOK1nF50VQWH-oc16NDLCfMH3aAD97hcShPdt93CKA7ErUyhWpSxQuyJYw0rSlz32VYhhkUvztvHTZ-C_foMlYImOrczljG9DSiUYZ0ZR1Q3ej56H3WI-UFkNkXOakaOrrhz2-DE60s9lUSwRcIVm6gnFw_dro4f0qcvQj0_6adu3cb2-N6NniBETWe2-HtRbaPA3acpm_hc_PO0oDqnUmdlIjQrY_23BRx0ZSulSGBDhYzM4ptHpM74rY-Sg0oOnz84PoKlBjopTjquELlK2qHK4SikTJGVV1dgF-UZKbZrsRAhFpN44zVp-pJV36g_7c0GMMK-kSvunmSMyKldcsWga26Je6b3XibfPU5N5dMfLrji-3qqk12bGccL3mfhbUy9oDfveYgG1b4LPcVcN9yCrcrK51J93jNO4dKCsgVGnUEte4-fY5g&refId=4x41vHZcgLjEH3GZiClx%2Fg%3D%3D&trackingId=DxdFEUZZOoAVxw7ywbNcBg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a)| Backend | Remoto
+Sobre a vaga
+Você é apaixonado(a) por tecnologia e conhece na prática as tecnologias abaixo, não perde tempo, essa oportundiade pode ser sua!Principais ResponsabilidadesAtuar com suporte e manutenção em sistema legado (ASP/Vbscript);Realizar integração de APIs;Executar o desenvolvimento com foco em novas tecnologias para atualização de plataforma de rede social;Principais Tecnologias.NETMicrosoft SQL Server/Microsoft Azure SQLPostgreSQLNode.jsGitRequisitosExperiência minima de 2 anos com desenvolvimento;Experiência com as tecnologias mencionadas acima;Boa capacidade em gerir tempo e tarefas;Habilidade de comunicação e relacionamentoDiferenciais: ASP/Vbscript, oAuth 2.0, Websockets, GraphQL, Jira, experiência com servidores dedicados Windows (IIS) e/ou Linux (Apache), experiência com Cloud (AWS, Azure Cloud Services, Google Cloud Platform)O Que Vamos Te OferecerRemuneração fixa mensal;Day off ;Ambiente colaborativo, liberdade geográfica, autonomia e inúmeras possibildiades de crescer, junto conosco!
+
+
+Principais Responsabilidades
+
+
+Atuar com suporte e manutenção em sistema legado (ASP/Vbscript);Realizar integração de APIs;Executar o desenvolvimento com foco em novas tecnologias para atualização de plataforma de rede social;
+Atuar com suporte e manutenção em sistema legado (ASP/Vbscript);
+Atuar com suporte e manutenção em sistema legado (ASP/Vbscript);
+Realizar integração de APIs;
+Realizar integração de APIs;
+Executar o desenvolvimento com foco em novas tecnologias para atualização de plataforma de rede social;
+Executar o desenvolvimento com foco em novas tecnologias para atualização de plataforma de rede social;
+
+
+Principais Tecnologias
+
+
+.NETMicrosoft SQL Server/Microsoft Azure SQLPostgreSQLNode.jsGit
+.NET
+.NET
+Microsoft SQL Server/Microsoft Azure SQL
+Microsoft SQL Server/Microsoft Azure SQL
+PostgreSQL
+PostgreSQL
+Node.js
+Node.js
+Git
+Git
+
+
+Requisitos
+
+
+Experiência minima de 2 anos com desenvolvimento;Experiência com as tecnologias mencionadas acima;Boa capacidade em gerir tempo e tarefas;Habilidade de comunicação e relacionamento
+Experiência minima de 2 anos com desenvolvimento;
+Experiência minima de 2 anos com desenvolvimento;
+Experiência com as tecnologias mencionadas acima;
+Experiência com as tecnologias mencionadas acima;
+Boa capacidade em gerir tempo e tarefas;
+Boa capacidade em gerir tempo e tarefas;
+Habilidade de comunicação e relacionamento
+Habilidade de comunicação e relacionamento
+
+
+Diferenciais
+
+
+O Que Vamos Te Oferecer
+
+
+Remuneração fixa mensal;Day off ;Ambiente colaborativo, liberdade geográfica, autonomia e inúmeras possibildiades de crescer, junto conosco!
+Remuneração fixa mensal;
+Remuneração fixa mensal;
+Day off ;
+Day off ;
+Ambiente colaborativo, liberdade geográfica, autonomia e inúmeras possibildiades de crescer, junto conosco!
+Ambiente colaborativo, liberdade geográfica, autonomia e inúmeras possibildiades de crescer, junto conosco!

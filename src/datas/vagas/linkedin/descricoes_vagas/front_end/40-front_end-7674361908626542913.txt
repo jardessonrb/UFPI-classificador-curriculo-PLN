@@ -1,0 +1,133 @@
+link-https://www.linkedin.com/jobs/view/4038587667/?eBP=CwEAAAGS7kv1YClDuKYLEDyvWmx8MSzdDWw4ZdXiNBrQZs_DtLX76Kibly7kZ3ZRlX1zQJRZqhwr_ciYZGiFSMe4C4WTFvBKhFYxGlzYPOow3btkcahQ8xPwtFHZdF6ncBN4QpJ90SYKiphMaqOYfHHwnCKGT_GXG3nBN9N8XuUy6TH1MfMgtI1KO-Gba4solkYuqXOjlrZJapHMLg4xz_C2bOCc7ptgUvgd-I1K7O4xL5RFPPjwAvuevMs-pjnbUqri5NY5-7DsliztjibsNK9SIGlB82d44bCFbnleUkAHOqPz5BI2JplZYtP9Mu66tM52SKfT4TLqueT_hqMjeJ3sK_PXLzEOFyrslm57M57z5YVSr9BfSYy_b1xGMYQBaKpTjBlt7oEg2nNwNmCcPiFPCxj54snZ-_23qGT1nviJUWkjpkrwuW22Jf833OTK4gVeXy1MMA85MefL2yHTs7LQFEOQ1U7QeVlZBNBIIa0EIiLh7ehOgWrpKU5gM7CoJIvCUCynens&refId=YgUVrAkRv2DiwuaWY1zF5Q%3D%3D&trackingId=z8h6xiSYkn5kTTEZmmrGGg%3D%3D&trk=flagship3_search_srp_jobs
+
+Engenheiro de Software Front End Sr. (React.Js)
+Sobre a vaga
+Descrição da VagaNascemos para democratizar os serviços bancários e de pagamentos!Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.#VemProPagsResponsibilities and assignmentsTrabalhar com uma equipe altamente qualificada, construindo software de qualidade que seja escalável para um alto volume de dados e aplicações de alto risco.Liderar a equipe na concepção de todo o ciclo de vida de uma nova funcionalidade ou produto, sendo responsável pela entrega e acompanhamento.Definir a arquitetura de aplicações.Criar soluções que tornem a vida de nossos clientes mais simples e produtiva.Planejar, estimar e analisar impactos e riscos em mudanças de aplicações.Criar e acompanhar métricas de qualidade e monitoramento das aplicações desenvolvidas.Interagir com diversas áreas da Cia, com times de negócio excepcionais, em um ambiente de alto crescimento profissional.Expressar opiniões e ideias, participar de feedbacks e planejamento de carreira acompanhado de profissionais com grande experiência.Interagir com a equipe de segurança para garantir a confiabilidade da plataforma.Participar das melhorias do processo de desenvolvimento técnico do time, como Dojo e Pair Programming.Evolução no conhecimento e na carreira através do acompanhamento e suporte de profissionais mais experientes.Requirements And QualificationsFormação superior completa em Tecnologia da Informação.Experiência na criação de páginas responsivas.Domínio em desenvolvimento de aplicações web utilizando Javascript avançado (OO, herança, prototipação, design pattern, ES2015+, etc.).Domínio em CSS3 e SASS, Flexbox, Grid Layout.Domínio em arquitetura (servidor web, HTTP, BFF eNode.js).Domínio em testes automatizados utilizando Jest, Testing Library, etc.Domínio em ferramentas que garantem a qualidade do código (prettier, husky, style-lint).Domínio em versionamento de código com Git.Domínio em ferramentas de automatização de tarefas e bundles (Webpack, grunt, gulp).Experiência em ReactJS.Experiência comNext.js.Experiência com Redux.Experiência com React Hooks.Experiência com RESTful, GraphQL (Apollo Client/Server).Experiência com ferramentas de CD/CI, como Jenkins.Experiência com Clean Code.Experiência com TDD.Experiência em TypeScript.Informações AdicionaisPara se destacar nesta posição seria legal se você também tivesse:Experiência relacionada à performance (gzip, minify, etc.).Experiência relacionada à segurança (CORS, XSRF, CSP, etc.).Conhecimento em JQuery e Velocity.Vivência em metodologias ágeis e melhoria contínua.Conhecimento em testing End-to-end (Cypress, TestCafe).Experiência em Docker.Experiência com ferramentas de monitoração (Logs, APM, Browser Monitoring, etc.).SOBRE NÓSNascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia.Hojesomos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.
+Descrição da Vaga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trabalhar com uma equipe altamente qualificada, construindo software de qualidade que seja escalável para um alto volume de dados e aplicações de alto risco.Liderar a equipe na concepção de todo o ciclo de vida de uma nova funcionalidade ou produto, sendo responsável pela entrega e acompanhamento.Definir a arquitetura de aplicações.Criar soluções que tornem a vida de nossos clientes mais simples e produtiva.Planejar, estimar e analisar impactos e riscos em mudanças de aplicações.Criar e acompanhar métricas de qualidade e monitoramento das aplicações desenvolvidas.Interagir com diversas áreas da Cia, com times de negócio excepcionais, em um ambiente de alto crescimento profissional.Expressar opiniões e ideias, participar de feedbacks e planejamento de carreira acompanhado de profissionais com grande experiência.Interagir com a equipe de segurança para garantir a confiabilidade da plataforma.Participar das melhorias do processo de desenvolvimento técnico do time, como Dojo e Pair Programming.Evolução no conhecimento e na carreira através do acompanhamento e suporte de profissionais mais experientes.
+Trabalhar com uma equipe altamente qualificada, construindo software de qualidade que seja escalável para um alto volume de dados e aplicações de alto risco.
+Trabalhar com uma equipe altamente qualificada, construindo software de qualidade que seja escalável para um alto volume de dados e aplicações de alto risco.
+Liderar a equipe na concepção de todo o ciclo de vida de uma nova funcionalidade ou produto, sendo responsável pela entrega e acompanhamento.
+Liderar a equipe na concepção de todo o ciclo de vida de uma nova funcionalidade ou produto, sendo responsável pela entrega e acompanhamento.
+Definir a arquitetura de aplicações.
+Definir a arquitetura de aplicações.
+Criar soluções que tornem a vida de nossos clientes mais simples e produtiva.
+Criar soluções que tornem a vida de nossos clientes mais simples e produtiva.
+Planejar, estimar e analisar impactos e riscos em mudanças de aplicações.
+Planejar, estimar e analisar impactos e riscos em mudanças de aplicações.
+Criar e acompanhar métricas de qualidade e monitoramento das aplicações desenvolvidas.
+Criar e acompanhar métricas de qualidade e monitoramento das aplicações desenvolvidas.
+Interagir com diversas áreas da Cia, com times de negócio excepcionais, em um ambiente de alto crescimento profissional.
+Interagir com diversas áreas da Cia, com times de negócio excepcionais, em um ambiente de alto crescimento profissional.
+Expressar opiniões e ideias, participar de feedbacks e planejamento de carreira acompanhado de profissionais com grande experiência.
+Expressar opiniões e ideias, participar de feedbacks e planejamento de carreira acompanhado de profissionais com grande experiência.
+Interagir com a equipe de segurança para garantir a confiabilidade da plataforma.
+Interagir com a equipe de segurança para garantir a confiabilidade da plataforma.
+Participar das melhorias do processo de desenvolvimento técnico do time, como Dojo e Pair Programming.
+Participar das melhorias do processo de desenvolvimento técnico do time, como Dojo e Pair Programming.
+Evolução no conhecimento e na carreira através do acompanhamento e suporte de profissionais mais experientes.
+Evolução no conhecimento e na carreira através do acompanhamento e suporte de profissionais mais experientes.
+
+
+
+Requirements And Qualifications
+
+
+Formação superior completa em Tecnologia da Informação.Experiência na criação de páginas responsivas.Domínio em desenvolvimento de aplicações web utilizando Javascript avançado (OO, herança, prototipação, design pattern, ES2015+, etc.).Domínio em CSS3 e SASS, Flexbox, Grid Layout.Domínio em arquitetura (servidor web, HTTP, BFF eNode.js).Domínio em testes automatizados utilizando Jest, Testing Library, etc.Domínio em ferramentas que garantem a qualidade do código (prettier, husky, style-lint).Domínio em versionamento de código com Git.Domínio em ferramentas de automatização de tarefas e bundles (Webpack, grunt, gulp).Experiência em ReactJS.Experiência comNext.js.Experiência com Redux.Experiência com React Hooks.Experiência com RESTful, GraphQL (Apollo Client/Server).Experiência com ferramentas de CD/CI, como Jenkins.Experiência com Clean Code.Experiência com TDD.Experiência em TypeScript.
+Formação superior completa em Tecnologia da Informação.
+Formação superior completa em Tecnologia da Informação.
+Experiência na criação de páginas responsivas.
+Experiência na criação de páginas responsivas.
+Domínio em desenvolvimento de aplicações web utilizando Javascript avançado (OO, herança, prototipação, design pattern, ES2015+, etc.).
+Domínio em desenvolvimento de aplicações web utilizando Javascript avançado (OO, herança, prototipação, design pattern, ES2015+, etc.).
+Domínio em CSS3 e SASS, Flexbox, Grid Layout.
+Domínio em CSS3 e SASS, Flexbox, Grid Layout.
+Domínio em arquitetura (servidor web, HTTP, BFF eNode.js).
+Domínio em arquitetura (servidor web, HTTP, BFF eNode.js).
+
+Domínio em testes automatizados utilizando Jest, Testing Library, etc.
+Domínio em testes automatizados utilizando Jest, Testing Library, etc.
+Domínio em ferramentas que garantem a qualidade do código (prettier, husky, style-lint).
+Domínio em ferramentas que garantem a qualidade do código (prettier, husky, style-lint).
+Domínio em versionamento de código com Git.
+Domínio em versionamento de código com Git.
+Domínio em ferramentas de automatização de tarefas e bundles (Webpack, grunt, gulp).
+Domínio em ferramentas de automatização de tarefas e bundles (Webpack, grunt, gulp).
+Experiência em ReactJS.
+Experiência em ReactJS.
+Experiência comNext.js.
+Experiência comNext.js.
+
+Experiência com Redux.
+Experiência com Redux.
+Experiência com React Hooks.
+Experiência com React Hooks.
+Experiência com RESTful, GraphQL (Apollo Client/Server).
+Experiência com RESTful, GraphQL (Apollo Client/Server).
+Experiência com ferramentas de CD/CI, como Jenkins.
+Experiência com ferramentas de CD/CI, como Jenkins.
+Experiência com Clean Code.
+Experiência com Clean Code.
+Experiência com TDD.
+Experiência com TDD.
+Experiência em TypeScript.
+Experiência em TypeScript.
+
+
+
+
+Informações Adicionais
+
+
+Para se destacar nesta posição seria legal se você também tivesse:
+
+
+Experiência relacionada à performance (gzip, minify, etc.).Experiência relacionada à segurança (CORS, XSRF, CSP, etc.).Conhecimento em JQuery e Velocity.Vivência em metodologias ágeis e melhoria contínua.Conhecimento em testing End-to-end (Cypress, TestCafe).Experiência em Docker.Experiência com ferramentas de monitoração (Logs, APM, Browser Monitoring, etc.).
+Experiência relacionada à performance (gzip, minify, etc.).
+Experiência relacionada à performance (gzip, minify, etc.).
+Experiência relacionada à segurança (CORS, XSRF, CSP, etc.).
+Experiência relacionada à segurança (CORS, XSRF, CSP, etc.).
+Conhecimento em JQuery e Velocity.
+Conhecimento em JQuery e Velocity.
+Vivência em metodologias ágeis e melhoria contínua.
+Vivência em metodologias ágeis e melhoria contínua.
+Conhecimento em testing End-to-end (Cypress, TestCafe).
+Conhecimento em testing End-to-end (Cypress, TestCafe).
+Experiência em Docker.
+Experiência em Docker.
+Experiência com ferramentas de monitoração (Logs, APM, Browser Monitoring, etc.).
+Experiência com ferramentas de monitoração (Logs, APM, Browser Monitoring, etc.).
+
+
+
+
+
+
+
+
+
+
+
+
+somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento
+
+
+
+
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo.

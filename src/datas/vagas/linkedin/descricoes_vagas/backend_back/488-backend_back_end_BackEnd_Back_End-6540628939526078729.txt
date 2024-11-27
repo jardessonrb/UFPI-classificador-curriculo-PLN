@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/4054430906/?eBP=CwEAAAGS7lJZ99zK5Ahs3n75qWvp5YC27_t7tgimY_8RsMillBorP0zFK8hn_uEoC64_VeY9MEKXjwTdcWa6867bifezoH7DSgJe4MamXKyDtniTEksNQCDoFFNQpo8INIZPlt9UvevIsa8e2zZ5u0pTaVlpfYi8lPahv1SnhpxjbcgnimRHIeo6NRjapB8KK_3VjVP2rwzxi2HaeH1SooiwjQ93kAoB6HU3DUrGm4iQJSQoILmvdbE4DRaLWcHl99LogQSuf9UwmLbqXryXfvM__o0DaVROqO-ua0TiEmSXooMge_v5r0AIuM9cZg864W3uIQDAB_1YbuqCTvcWFrHa6svkiW1LvAWqRZugCVTSLsfYgJFStBuQkuvGzyYOkGs320QyvhXpc4K_pFx6Hd1Ot216JH4cj73mYr1yYl_SIQ_ab8VThIpsfvSb1lu7mOVWUnCnqoN9St4eUEgH65IuOs8_yhOTw2T07dcY_SqKgplP5j4kn24SYMqSAkiIaj3mspR-zTbANDxqDRZUDCj0Cw&refId=4x41vHZcgLjEH3GZiClx%2Fg%3D%3D&trackingId=F7cL0sYy0oE6PpQjCPBM3Q%3D%3D&trk=flagship3_search_srp_jobs
+
+AppSec / Desenvolvedor BackEnd Sênior – Java/Python/C
+Sobre a vaga
+O que você terá de responsabilidades:· Atuação como Desenvolvimento BackEnd Java, C, Pyton e Git Actions;· Atuação em processo de gestão de vulnerabilidades em aplicações (AppSec), com atuação nas correções (hands on);· Atuação em parceria com a equipe de Segurança da Informação, para corrigir/tratar as vulnerabilidades de Segurança.O que buscamos em você:· Experiência como Back-End com conhecimentos avançados em Java, C e Pyton e Git Actions;· Experiência no processo de gestão de vulnerabilidades em aplicações (AppSec);· Conhecimentos em DevSecOps e Privacidade By Default, se tiver conhecimento na ferramenta checkmarx é um diferencial;· Conhecimentos de segurança da informação em geral (Diferencial);· Tenha habilidades de resolução de problemas;· Capacidade de trabalhar em um ambiente multifuncional, rápido e colaborativo;· Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico;· Bom relacionamento inter-pessoal, vontade de aprender.O que oferecemos para você*?· Remuneração compatível com o mercado· Vale Refeição e Vale Alimentação· Plano de Saúde e Odontológico· Seguro de Vida· Previdência Privada· Horário Flexível· Day Off no Aniversário· Auxílio creche e babá (para mães ou pais)· Auxílio para filhos com deficiência· Aparelho celular e plano corporativo· E muito mais!· *de acordo com a política de elegibilidade determinada pela empresa.*Todas as nossas vagas são elegíveis para Profissionais com deficiência e incentivamos a participação crescente de mulheres na Segurança Cibernética!Valorizamos as características únicas das pessoas, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo.Se você se identifica com este desafio, a Telefónica Tech é o seu lugar #VemPraTtechAgradecemos o seu interesse!
+O que você terá de responsabilidades:
+O que você terá de responsabilidades:
+
+
+
+· Atuação como Desenvolvimento BackEnd Java, C, Pyton e Git Actions;
+· Atuação como Desenvolvimento BackEnd Java, C, Pyton e Git Actions;
+· Atuação em processo de gestão de vulnerabilidades em aplicações (AppSec), com atuação nas correções (hands on);
+· Atuação em processo de gestão de vulnerabilidades em aplicações (AppSec), com atuação nas correções (hands on);
+· Atuação em parceria com a equipe de Segurança da Informação, para corrigir/tratar as vulnerabilidades de Segurança.
+· Atuação em parceria com a equipe de Segurança da Informação, para corrigir/tratar as vulnerabilidades de Segurança.
+
+
+
+O que buscamos em você:
+O que buscamos em você:
+
+
+
+· Experiência como Back-End com conhecimentos avançados em Java, C e Pyton e Git Actions;
+· Experiência como Back-End com conhecimentos avançados em Java, C e Pyton e Git Actions;
+· Experiência no processo de gestão de vulnerabilidades em aplicações (AppSec);
+· Experiência no processo de gestão de vulnerabilidades em aplicações (AppSec);
+· Conhecimentos em DevSecOps e Privacidade By Default, se tiver conhecimento na ferramenta checkmarx é um diferencial;
+· Conhecimentos em DevSecOps e Privacidade By Default, se tiver conhecimento na ferramenta checkmarx é um diferencial;
+· Conhecimentos de segurança da informação em geral (Diferencial);
+· Conhecimentos de segurança da informação em geral (Diferencial);
+· Tenha habilidades de resolução de problemas;
+· Tenha habilidades de resolução de problemas;
+· Capacidade de trabalhar em um ambiente multifuncional, rápido e colaborativo;
+· Capacidade de trabalhar em um ambiente multifuncional, rápido e colaborativo;
+· Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico;
+· Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico;
+· Bom relacionamento inter-pessoal, vontade de aprender.
+· Bom relacionamento inter-pessoal, vontade de aprender.
+
+
+
+O que oferecemos para você*?
+O que oferecemos para você*?
+· Remuneração compatível com o mercado
+· Remuneração compatível com o mercado
+· Vale Refeição e Vale Alimentação
+· Vale Refeição e Vale Alimentação
+· Plano de Saúde e Odontológico
+· Plano de Saúde e Odontológico
+· Seguro de Vida
+· Seguro de Vida
+· Previdência Privada
+· Previdência Privada
+· Horário Flexível
+· Horário Flexível
+· Day Off no Aniversário
+· Day Off no Aniversário
+· Auxílio creche e babá (para mães ou pais)
+· Auxílio creche e babá (para mães ou pais)
+· Auxílio para filhos com deficiência
+· Auxílio para filhos com deficiência
+· Aparelho celular e plano corporativo
+· Aparelho celular e plano corporativo
+· E muito mais!
+· E muito mais!
+· *de acordo com a política de elegibilidade determinada pela empresa.
+· *de acordo com a política de elegibilidade determinada pela empresa.
+
+
+
+*Todas as nossas vagas são elegíveis para Profissionais com deficiência e incentivamos a participação crescente de mulheres na Segurança Cibernética!
+*Todas as nossas vagas são elegíveis para Profissionais com deficiência e incentivamos a participação crescente de mulheres na Segurança Cibernética!
+
+
+
+Valorizamos as características únicas das pessoas, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo.
+Valorizamos as características únicas das pessoas, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo.
+
+
+
+Se você se identifica com este desafio, a Telefónica Tech é o seu lugar #VemPraTtech
+Se você se identifica com este desafio, a Telefónica Tech é o seu lugar #VemPraTtech
+
+
+
+Agradecemos o seu interesse!
+Agradecemos o seu interesse!
+
+
+
+
+
+

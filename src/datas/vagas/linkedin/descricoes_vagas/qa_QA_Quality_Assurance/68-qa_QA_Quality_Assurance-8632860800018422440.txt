@@ -1,0 +1,92 @@
+link-https://www.linkedin.com/jobs/view/4059655695/?eBP=CwEAAAGS7kfP1MLKKoZLb3mE958YXks75HMyA1eVYF3Djch3vkk9uCiDWsGiS0TWfkklNJsb9V8ukXS7nKhZZXnG40TtnyeQVlPAs9YanBZ0KgZy4-aT77RX5OsGBhReokPOMl6quSmGWIVCTVU3Uj6fDZBPdHPbFMFmaggqyG1lWVx7XmwBRMwqodcEteOFg9_AvfGkTD6KZF_vJozSTJyQGZx9YMP7ySbLSIDLqekD4evZQ9nRhKkqJ4nbGQKv08OL8G7iiajt8FMXE5XI2_r_Z6y8ZCDZ-lEnyHnZJaQb9kC0_8bbQxnHG0sm_Bvf0MuY6nrXpKT5BPgiHU9TwDVBs1RctXj6wwvO2RHWg6fTNEQ56XQpbpEV_bZKe0ezZTsslxy-PEFCosET7YDbw6wVw5RTQijcepQ6yPcJ18Xzk_P2saWTsKT9kiHDqdTh6mKFShd_XLqgVb7LRJrkPgI42GJM4XQtF2JlxBytr7UpC6FT36t084k_iMQL6C9-n2RV&refId=tyxQQXOBSAJsa4OGZvAY7A%3D%3D&trackingId=U3KUyNbwt1iPVdG%2FpOpE0w%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance Engineer, eero QA
+Sobre a vaga
+This job is with Amazon, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. Please do not contact the recruiter directly.Descriptioneero is looking for a highly focused QA Engineer to work on critical mobile application testing projects that keep our platform running smoothly. You will help the QA team validate software releases and ensure a great customer experience.You'll work closely across multi-functional development teams to help discover, recreate, and debug issues. You will have the opportunity to contribute and grow our mobile automation code and framework for both iOS and Android.At eero we believe in encouraging career growth through on-the- job learning and skills development.Key job responsibilitiesParticipate in the software development life cycle from beginning to end.Create and execute test plans for existing products and features.Work with development teams to define testing protocols for new features as they are designed and developed.Provide additional cross- functional test support for other team membersDevelop test scenarios from requirements and ensure maximum requirement traceability.Create and maintain automation test code for released featuresProviding detailed bug reports to the Engineering Team using JIRA.Basic Qualifications4+ years of quality assurance engineering experienceExperience developing high quality test plans, test designs, test strategies, and test executionExperience testing mobile and web applications with Java and JavaScriptExperience as QA lead on medium to large sized projectsBachelor's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative fieldCombination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools.Experience working on different applications and operating systems: iOS and various flavors of AndroidExperience manually building apps onto the simulator or devices with Xcode and Android StudioAbility to work independently and within a testing teamPreferred QualificationsExperience with consumer networking hardware such as routers, switches, wireless access pointsSome level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience.Experience testing cloud APIs
+This job is with Amazon, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. Please do not contact the recruiter directly.
+This job is with Amazon, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. Please do not contact the recruiter directly.
+
+
+
+
+Description
+
+
+
+
+
+
+
+
+
+
+Participate in the software development life cycle from beginning to end.Create and execute test plans for existing products and features.Work with development teams to define testing protocols for new features as they are designed and developed.Provide additional cross- functional test support for other team membersDevelop test scenarios from requirements and ensure maximum requirement traceability.Create and maintain automation test code for released featuresProviding detailed bug reports to the Engineering Team using JIRA.
+Participate in the software development life cycle from beginning to end.
+Participate in the software development life cycle from beginning to end.
+
+Create and execute test plans for existing products and features.
+Create and execute test plans for existing products and features.
+
+Work with development teams to define testing protocols for new features as they are designed and developed.
+Work with development teams to define testing protocols for new features as they are designed and developed.
+
+Provide additional cross- functional test support for other team members
+Provide additional cross- functional test support for other team members
+
+Develop test scenarios from requirements and ensure maximum requirement traceability.
+Develop test scenarios from requirements and ensure maximum requirement traceability.
+
+Create and maintain automation test code for released features
+Create and maintain automation test code for released features
+
+Providing detailed bug reports to the Engineering Team using JIRA.
+Providing detailed bug reports to the Engineering Team using JIRA.
+
+
+
+Basic Qualifications
+
+
+4+ years of quality assurance engineering experienceExperience developing high quality test plans, test designs, test strategies, and test executionExperience testing mobile and web applications with Java and JavaScriptExperience as QA lead on medium to large sized projectsBachelor's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative fieldCombination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools.Experience working on different applications and operating systems: iOS and various flavors of AndroidExperience manually building apps onto the simulator or devices with Xcode and Android StudioAbility to work independently and within a testing team
+4+ years of quality assurance engineering experience
+4+ years of quality assurance engineering experience
+
+Experience developing high quality test plans, test designs, test strategies, and test execution
+Experience developing high quality test plans, test designs, test strategies, and test execution
+
+Experience testing mobile and web applications with Java and JavaScript
+Experience testing mobile and web applications with Java and JavaScript
+
+Experience as QA lead on medium to large sized projects
+Experience as QA lead on medium to large sized projects
+
+Bachelor's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative field
+Bachelor's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative field
+
+Combination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools.
+Combination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools.
+
+Experience working on different applications and operating systems: iOS and various flavors of Android
+Experience working on different applications and operating systems: iOS and various flavors of Android
+
+Experience manually building apps onto the simulator or devices with Xcode and Android Studio
+Experience manually building apps onto the simulator or devices with Xcode and Android Studio
+
+Ability to work independently and within a testing team
+Ability to work independently and within a testing team
+
+
+
+Preferred Qualifications
+
+
+Experience with consumer networking hardware such as routers, switches, wireless access pointsSome level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience.Experience testing cloud APIs
+Experience with consumer networking hardware such as routers, switches, wireless access points
+Experience with consumer networking hardware such as routers, switches, wireless access points
+
+Some level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience.
+Some level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience.
+
+Experience testing cloud APIs
+Experience testing cloud APIs
+

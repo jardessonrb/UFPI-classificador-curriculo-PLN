@@ -1,0 +1,167 @@
+link-https://www.linkedin.com/jobs/view/4058212321/?eBP=CwEAAAGS7jS4xrMIuPyB3vHpCZmjzOxXFxrCGBHzDdvRLbhy0pIjU_nRR4ElowJfJf974Vdx4BTBH1x_nkTCK4m3roRGj76_W4O-WObCxBImYKOObRxAPJoEYoHXgH2iEP4fdC7tO9Xzd8VIBD2PuJxJg__h-7CufGvZx2ge9CMDR8TQWDh9qkA6uXx_wqiQV18yZMSadKUUF-1ZiVWlyiawqlZew9kzghJoAT-_SeWmxREGqHlvALpVduOFE064Mj348AGkwt_RiXH1GS04LsZAt94gQtUldqvrEk3QnV-Ul0ZNsDP57RF4WRqJKKoaF7mQrrKHHN_4Q5bFfkahgGmCz5PFrHSLEKcvr-aizR0A108LfMnvLlN-MXZ0ASi2nLYDD8bHy4AYcaIqvBbMpbR2oO2MwChhPw4HKjA8gYpdbdqRmnKG8ExcxYvMnnsq_K4jYcl1C5sfdwJXMS23ZhCQvffPLnOHdXb9OiwZcMFB6DKsOs_c1WPSKxkUlrNvpw&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=4ykkyrE6iP%2FiYLzJyqWUkA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Cientista de Dados Pleno/Sênior
+Sobre a vaga
+AA3Dataé uma consultoria referência em#Dados! 🚀Temos a missão de acelerar a culturaData Drivennas organizações. Nosso foco é implantar Inteligência Estratégica e potencializar a cultura dos dados para os nossos clientes! 🎯Somos parceiros e estamos presentes no maior parque tecnológico urbano e aberto do Brasil oPorto Digital,localizado em Recife. 🌎Somoságeis,analíticoseavançadose temos uma cultura leve, horizontal e muito colaborativa! ✌️Nosso propósito é empoderar as pessoas por meio dos dados.E, por isso, buscamos parceiros que também sejam loucos por dados e apaixonados por gente! 🤩#VemSerUmEu.A3💙Responsabilidades e atribuiçõesPara ser umaPessoa Cientista de DadosnaA3buscamos alguém que mande muito bem em:Programação (Python);Experiencia com QuickSilver;Programação Orientada a Objetos;Domínio em versionamento de código;Domínio sobre o fluxo de Ciência de Dados;Conhecimento em MLOps;Domínio em Estatística;Domínio em técnicas de Machine Learning;Domínio em Modelos de Séries Temporais;Utilização de ferramentas de cloud, especialmente AWS.Requisitos e qualificaçõesO que precisamos que você tenha (requisitos):Experiência com AWS (S3, Sagemaker, Lambda, EC2, etc.) ou GCP (Google Storage, VertexAI, Cloud Functions, Google Compute Engine etc.) para armazenamento, processamento, análise de dados e treinamento de modelos em nuvem;Experiência prática com modelos de Regressão, Classificação, Recomendação, Previsão de Demandas e Análise de Anomalias;Proficiência em linguagens de programação como Python para manipulação, visualização e modelagem de dados;Experiência com modelagem de problemas com classes desbalanceadas (como prevenção de fraudes e detecção de anomalias);Conhecimento profundo de ferramentas e frameworks de Machine Learning como TensorFlow, PyTorch, Scikit-learn e Spark MLlib para desenvolvimento e implantação de modelos;Domínio de técnicas de Estatística e Matemática para análise de dados e construção de modelos preditivos e prescritivos;Domínio de SQL para consultas, criação de relatórios e dashboards (experiência com Snowflake será um diferencial);Experiência com APIs e conteinerização de aplicações (Docker).Informações adicionaisNossos benefícios:Vale Alimentação/Refeição flexível (Swile);Total Pass (academias);Vittude (atendimento psicológico online);Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;Plano Dental Amil;Maria Saúde;Seguro de Vida;Plano de saúde Pet;Participação nos Lucros e Resultados;Bônus anual;Desconto nos cursos de idioma da Open English;Parceria AWS nível Advanced;Desconto na conta de energia elétrica (operadora CEMIG);Empresa Cidadã: licenças maternidade e paternidade estendidas;Samsung EPP (descontos em todo portfólio de produtos Samsung).E mais:Home office;40 horas semanais;Dia a dia descontraído e acolhedor;Plano de carreira e acompanhamento individual;Programas internos de compartilhamento de conhecimento;Prezamos pela diversidade, liberdade, flexibilidade e autonomia!Curtiu o desafio?Estamos ansiosos para receber seu CV 🎯Um dos nossos valores é ser transparente, sempre! Por isso, é importante que saiba que avaliamos todos os CVs cadastrados e, se você tiver fit com a vaga e com nossa cultura, te convidaremos para um primeiro bate papo! 😉Mas, caso seu CV não seja selecionado dessa vez, não se preocupe! Ficaremos de olho, para futuras oportunidades. ✅
+
+A3Data
+
+#Dados
+
+
+
+
+Data Driven
+
+
+
+
+Porto Digital,
+
+
+
+
+ágeis
+
+analíticos
+
+
+avançados
+
+
+
+Nosso propósito é empoderar as pessoas por meio dos dados.
+
+
+
+#VemSerUmEu.A3
+
+
+
+Responsabilidades e atribuições
+
+
+
+Pessoa Cientista de Dados
+
+
+A3
+
+
+
+Programação (Python);Experiencia com QuickSilver;Programação Orientada a Objetos;Domínio em versionamento de código;Domínio sobre o fluxo de Ciência de Dados;Conhecimento em MLOps;Domínio em Estatística;Domínio em técnicas de Machine Learning;Domínio em Modelos de Séries Temporais;Utilização de ferramentas de cloud, especialmente AWS.
+Programação (Python);
+Programação (Python);
+Experiencia com QuickSilver;
+Experiencia com QuickSilver;
+Programação Orientada a Objetos;
+Programação Orientada a Objetos;
+Domínio em versionamento de código;
+Domínio em versionamento de código;
+Domínio sobre o fluxo de Ciência de Dados;
+Domínio sobre o fluxo de Ciência de Dados;
+Conhecimento em MLOps;
+Conhecimento em MLOps;
+Domínio em Estatística;
+Domínio em Estatística;
+Domínio em técnicas de Machine Learning;
+Domínio em técnicas de Machine Learning;
+Domínio em Modelos de Séries Temporais;
+Domínio em Modelos de Séries Temporais;
+Utilização de ferramentas de cloud, especialmente AWS.
+Utilização de ferramentas de cloud, especialmente AWS.
+
+
+
+Requisitos e qualificações
+
+
+O que precisamos que você tenha (requisitos):
+
+
+Experiência com AWS (S3, Sagemaker, Lambda, EC2, etc.) ou GCP (Google Storage, VertexAI, Cloud Functions, Google Compute Engine etc.) para armazenamento, processamento, análise de dados e treinamento de modelos em nuvem;Experiência prática com modelos de Regressão, Classificação, Recomendação, Previsão de Demandas e Análise de Anomalias;Proficiência em linguagens de programação como Python para manipulação, visualização e modelagem de dados;Experiência com modelagem de problemas com classes desbalanceadas (como prevenção de fraudes e detecção de anomalias);Conhecimento profundo de ferramentas e frameworks de Machine Learning como TensorFlow, PyTorch, Scikit-learn e Spark MLlib para desenvolvimento e implantação de modelos;Domínio de técnicas de Estatística e Matemática para análise de dados e construção de modelos preditivos e prescritivos;Domínio de SQL para consultas, criação de relatórios e dashboards (experiência com Snowflake será um diferencial);Experiência com APIs e conteinerização de aplicações (Docker).
+Experiência com AWS (S3, Sagemaker, Lambda, EC2, etc.) ou GCP (Google Storage, VertexAI, Cloud Functions, Google Compute Engine etc.) para armazenamento, processamento, análise de dados e treinamento de modelos em nuvem;
+Experiência com AWS (S3, Sagemaker, Lambda, EC2, etc.) ou GCP (Google Storage, VertexAI, Cloud Functions, Google Compute Engine etc.) para armazenamento, processamento, análise de dados e treinamento de modelos em nuvem;
+Experiência prática com modelos de Regressão, Classificação, Recomendação, Previsão de Demandas e Análise de Anomalias;
+Experiência prática com modelos de Regressão, Classificação, Recomendação, Previsão de Demandas e Análise de Anomalias;
+Proficiência em linguagens de programação como Python para manipulação, visualização e modelagem de dados;
+Proficiência em linguagens de programação como Python para manipulação, visualização e modelagem de dados;
+Experiência com modelagem de problemas com classes desbalanceadas (como prevenção de fraudes e detecção de anomalias);
+Experiência com modelagem de problemas com classes desbalanceadas (como prevenção de fraudes e detecção de anomalias);
+Conhecimento profundo de ferramentas e frameworks de Machine Learning como TensorFlow, PyTorch, Scikit-learn e Spark MLlib para desenvolvimento e implantação de modelos;
+Conhecimento profundo de ferramentas e frameworks de Machine Learning como TensorFlow, PyTorch, Scikit-learn e Spark MLlib para desenvolvimento e implantação de modelos;
+Domínio de técnicas de Estatística e Matemática para análise de dados e construção de modelos preditivos e prescritivos;
+Domínio de técnicas de Estatística e Matemática para análise de dados e construção de modelos preditivos e prescritivos;
+Domínio de SQL para consultas, criação de relatórios e dashboards (experiência com Snowflake será um diferencial);
+Domínio de SQL para consultas, criação de relatórios e dashboards (experiência com Snowflake será um diferencial);
+Experiência com APIs e conteinerização de aplicações (Docker).
+Experiência com APIs e conteinerização de aplicações (Docker).
+
+
+
+Informações adicionais
+
+
+Nossos benefícios:
+
+
+Vale Alimentação/Refeição flexível (Swile);Total Pass (academias);Vittude (atendimento psicológico online);Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;Plano Dental Amil;Maria Saúde;Seguro de Vida;Plano de saúde Pet;Participação nos Lucros e Resultados;Bônus anual;Desconto nos cursos de idioma da Open English;Parceria AWS nível Advanced;Desconto na conta de energia elétrica (operadora CEMIG);Empresa Cidadã: licenças maternidade e paternidade estendidas;Samsung EPP (descontos em todo portfólio de produtos Samsung).
+Vale Alimentação/Refeição flexível (Swile);
+Vale Alimentação/Refeição flexível (Swile);
+Total Pass (academias);
+Total Pass (academias);
+Vittude (atendimento psicológico online);
+Vittude (atendimento psicológico online);
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Dental Amil;
+Plano Dental Amil;
+Maria Saúde;
+Maria Saúde;
+Seguro de Vida;
+Seguro de Vida;
+Plano de saúde Pet;
+Plano de saúde Pet;
+Participação nos Lucros e Resultados;
+Participação nos Lucros e Resultados;
+Bônus anual;
+Bônus anual;
+Desconto nos cursos de idioma da Open English;
+Desconto nos cursos de idioma da Open English;
+Parceria AWS nível Advanced;
+Parceria AWS nível Advanced;
+Desconto na conta de energia elétrica (operadora CEMIG);
+Desconto na conta de energia elétrica (operadora CEMIG);
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Samsung EPP (descontos em todo portfólio de produtos Samsung).
+Samsung EPP (descontos em todo portfólio de produtos Samsung).
+
+
+
+E mais:
+
+
+Home office;40 horas semanais;Dia a dia descontraído e acolhedor;Plano de carreira e acompanhamento individual;Programas internos de compartilhamento de conhecimento;Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+Home office;
+Home office;
+40 horas semanais;
+40 horas semanais;
+Dia a dia descontraído e acolhedor;
+Dia a dia descontraído e acolhedor;
+Plano de carreira e acompanhamento individual;
+Plano de carreira e acompanhamento individual;
+Programas internos de compartilhamento de conhecimento;
+Programas internos de compartilhamento de conhecimento;
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+
+
+
+Curtiu o desafio?
+
+
+
+
+
+

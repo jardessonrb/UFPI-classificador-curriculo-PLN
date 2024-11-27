@@ -1,0 +1,175 @@
+link-https://www.linkedin.com/jobs/view/4043271608/?eBP=CwEAAAGS7jS4xa5GBJ9s1Xb4puDHwUggh4cJeUrO6xu-qmK6d3o2iid3IsgW2t5x70wi21lCsNYngw0-U8DdhIj0jAMwVQWxi_y8IRje31vvIX_-oMTI3fipLzZiKjACvacFY8uhcsvwojt8l--z0XTvrh0BQzgpkAkTqvO-5H3rldZ0-Vp9qRMOV9JGc_vSjYEUX2HevMTqg4KiMRS6LsPVoln5oxDEncXNT9cdbi4-4ncA-o_AK7qrkIvh4C0CBwMEFe7_ZxtvD_nZGar2xQ36Og9_Fa0jNdhXMB1ISzqrIqSTcKHj7pcCSm_fT4HWcLx__uHhohi5W5yRSgkynuLYssPs4YKiGKV_giiMrwB4xoLijFKxxn9yNmMn--COZ1cjbaFdEpgtUsznk9MRl2rBXvQjItl-gxdgQjcKhqfjMSxISja7UBUsmHaLwsqPYsrRJSKXddmdMDLPPvjPtqrJy0uvAnYzqCGtFm0puteUpwg-kJLSf7sPjx5ARTrHDE5bm9QEAixXb8i4C00&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=5Kbl%2Btnja1WfT47wd%2BQFFg%3D%3D&trk=flagship3_search_srp_jobs
+
+CIENTISTA DE DADOS SR
+Sobre a vaga
+QUEM SOMOS?Prazer, somos a Suzano!Aqui a gente acredita que inovação e sustentabilidade caminham juntas. Dessa união, nasce uma atitude plena de significado: a inovabilidade. Pautados por ela, pensamos fora da caixa e enxergamos longe para lidar com os desafios do século 21. Nós plantamos e cultivamos árvores para transformar essa matéria-prima renovável em Bioprodutos para o dia a dia de mais de 2 bilhões de pessoas. Cultivamos a vida na folha do caderno que alfabetiza as crianças, na fralda que protege os bebês, no copo de café que não prejudica o meio ambiente, em papéis absorventes e na comodidade do uso de uma embalagem sustentável.PLURALIguais e diferentes. Singulares e plurais. Acreditamos que a diversidade nos fortalece, por isso, não fazemos distinção entre candidatos seja por deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética. Aqui você pode descobrir novos desafios, novos horizontes, novos objetivos e até mais sobre si mesmo!O QUE VOCÊ VAI FAZER?Criar modelos e ensembles de modelos usando técnicas combinadas de Machine Learning, estatística e otimização para solução de problemas de negócio;Construir e gerenciar análises de múltiplas bases de dados de grande volume usando diversas ferramentas técnicas (SQL, R, Python, Excel) para criar análises fundadas com qualidade e rigor;Desenvolver modelos de otimização linear inteira, inteira mista, algoritmos evolutivos modelos utilizando técnicas de Inteligência Artificial para solução de problemas de negócio;Definir o frame do problema, suas features e a melhor forma de criar modelos para soluções de problemas;Criar ferramentas com o foco no aumento da produtividade do time em atividades críticas de Machine Learning, como pré-processamento, criação dos modelos e deploy;Interpretar resultados e gerar visualizações e conclusões de análises que construam histórias relevantes e conjunto de ações para a organização;Construir forte relacionamento com diversas áreas internas a empresa de modo a garantir entendimento compreensivo dos requisitos do negócio;Trabalhar em modelo ágil e de forma colaborativa dentro de squads;Definir junto com times de parceiros de tecnologia requisitos de Arquitetura, Segurança e Infraestrutura para garantir robustez e automação nas soluções desenvolvidas.QUEM NOS INSPIRA?Alguém que acredite em nossos valores;Com iniciativa;Perfil analítico;Que proponha ideias e soluções.O QUE A SUZANO ESPERA DE VOCÊ?Superior Completo em Engenharia, Ciências da Computação ou áreas correlatas;Experiência em ferramentas e bibliotecas de ciência de dados (Python, SQL, R, Excel);Conhecimento em pesquisa operacional e técnicas de Analytics e desenvolvimento voltados para aplicações de negócio;Curiosidade e disposição em se aprofundar nos desafios;Fortes habilidades de Comunicação (tradução do técnico em linguagem de negócio) serão considerados diferenciais;Desejável experiência com soluções em nuvem.NÓS TEMOS MUITO MAIS QUE UM PAPEL NA SUA VIDA!Cuidados da sua saúde: Plano Médico, Odonto e Seguro de Vida;VR ou Refeitório, VA para ajudar nas compras do mercado e, no final do ano, VA adicional;Sabemos que a renda fixa é importante, mas, além disso, oferecemos uma renda extra por meio do nosso Programa de Remuneração Variável (Anual);Para você se preparar para o futuro temos a Previdência privada;Praticamos o home office em áreas corporativas, a flexibilidade de horários, além do dress code casual;Para gerar e compartilhar valor disponibilizamos cursos e treinamentos E-learning em nossa plataforma digital, o UniverSuzano;Na Suzano, só é bom para nós se for bom para o mundo! Por isso, durante o ano realizamos muitas ações legais e você poderá se tornar um voluntário do nosso programa Voluntariar;Também contamos com um Clube de Descontos, com diversos parceiros, para você aproveitar!PARA A FAMÍLIAComo empresa cidadã, entendemos a importância da chegada de uma criança. Por isso, oferecemos extensão da licença paternidade para 20 dias e maternidade para 180 dias. O benefício também vale para papais e mamães que adotarem ou obtiverem a guarda judicial da criança e para casais homo afetivos;Para as mamães retornarem tranquilas ao trabalho, oferecemos um auxílio creche bem bacana.Pensando em oferecer sempre as melhores condições para nosso time e suas família, disponibilizamos um auxílio mensal em dinheiro que se aplica ao pai ou mãe que tiver sob sua guarda filho ou filha com alguma necessidade especial;Aqui seus filhos e filhos não ficam de fora, oferecemos um vale brinquedo e um kit material escolar recheado! E, se no final do ano os filhos mandarem bem na escola, reconheceremos o seu esforço por meio do nosso programa Estudar é Crescer, com um prêmio em dinheiro que poderão usar como preferir.SUZANO FAZ BEMOFaz Bemtem um cuidado especial para você, colaborador(a) e sua família, confira baixo:Tele Faz Bem: Atendimento gratuito e confidencial ao colaborador(a) Suzano e seus(as) dependentes(as) nas seguintes frentes: Apoio psicológico e de assistência social, orientação jurídica, financeira, de atividade física e nutricional;Plataforma de saúde mental – A Wellz, oferece sessões de terapia online subsidiadas pela Suzano de forma confidencial, além de várias oportunidades de auto cuidado como jornadas, diário de humor, terapia em grupo, entre outros;Plataforma de saúde física – A Wellhub é uma plataforma completa de bem estar com acesso a academias, aplicativos e aulas on-line com liberdade de escolha de atividades.Programa de gestantes – O programa “Bebê Saudável” realiza o acompanhamento gestacional através de contato telefônico e abordagens, além do recebimento de um kit personalizado.#VemSerSuzano #PlantamosOCuidado #OrgulhoEmPertencer
+QUEM SOMOS?
+QUEM SOMOS?
+QUEM SOMOS?
+
+
+
+Prazer, somos a Suzano!
+Prazer, somos a Suzano!
+Aqui a gente acredita que inovação e sustentabilidade caminham juntas. Dessa união, nasce uma atitude plena de significado: a inovabilidade. Pautados por ela, pensamos fora da caixa e enxergamos longe para lidar com os desafios do século 21. Nós plantamos e cultivamos árvores para transformar essa matéria-prima renovável em Bioprodutos para o dia a dia de mais de 2 bilhões de pessoas. Cultivamos a vida na folha do caderno que alfabetiza as crianças, na fralda que protege os bebês, no copo de café que não prejudica o meio ambiente, em papéis absorventes e na comodidade do uso de uma embalagem sustentável.
+Aqui a gente acredita que inovação e sustentabilidade caminham juntas. Dessa união, nasce uma atitude plena de significado: a inovabilidade. Pautados por ela, pensamos fora da caixa e enxergamos longe para lidar com os desafios do século 21. Nós plantamos e cultivamos árvores para transformar essa matéria-prima renovável em Bioprodutos para o dia a dia de mais de 2 bilhões de pessoas. Cultivamos a vida na folha do caderno que alfabetiza as crianças, na fralda que protege os bebês, no copo de café que não prejudica o meio ambiente, em papéis absorventes e na comodidade do uso de uma embalagem sustentável.
+
+
+
+PLURAL
+PLURAL
+PLURAL
+
+
+
+Iguais e diferentes. Singulares e plurais. Acreditamos que a diversidade nos fortalece, por isso, não fazemos distinção entre candidatos seja por deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética. Aqui você pode descobrir novos desafios, novos horizontes, novos objetivos e até mais sobre si mesmo!
+Iguais e diferentes. Singulares e plurais. Acreditamos que a diversidade nos fortalece, por isso, não fazemos distinção entre candidatos seja por deficiência, gênero, orientação sexual, raça/etnia, idade, origem, constituição familiar ou estética. Aqui você pode descobrir novos desafios, novos horizontes, novos objetivos e até mais sobre si mesmo!
+
+
+
+O QUE VOCÊ VAI FAZER?
+O QUE VOCÊ VAI FAZER?
+O QUE VOCÊ VAI FAZER?
+Criar modelos e ensembles de modelos usando técnicas combinadas de Machine Learning, estatística e otimização para solução de problemas de negócio;Construir e gerenciar análises de múltiplas bases de dados de grande volume usando diversas ferramentas técnicas (SQL, R, Python, Excel) para criar análises fundadas com qualidade e rigor;Desenvolver modelos de otimização linear inteira, inteira mista, algoritmos evolutivos modelos utilizando técnicas de Inteligência Artificial para solução de problemas de negócio;Definir o frame do problema, suas features e a melhor forma de criar modelos para soluções de problemas;Criar ferramentas com o foco no aumento da produtividade do time em atividades críticas de Machine Learning, como pré-processamento, criação dos modelos e deploy;Interpretar resultados e gerar visualizações e conclusões de análises que construam histórias relevantes e conjunto de ações para a organização;Construir forte relacionamento com diversas áreas internas a empresa de modo a garantir entendimento compreensivo dos requisitos do negócio;Trabalhar em modelo ágil e de forma colaborativa dentro de squads;Definir junto com times de parceiros de tecnologia requisitos de Arquitetura, Segurança e Infraestrutura para garantir robustez e automação nas soluções desenvolvidas.
+Criar modelos e ensembles de modelos usando técnicas combinadas de Machine Learning, estatística e otimização para solução de problemas de negócio;
+Criar modelos e ensembles de modelos usando técnicas combinadas de Machine Learning, estatística e otimização para solução de problemas de negócio;
+Construir e gerenciar análises de múltiplas bases de dados de grande volume usando diversas ferramentas técnicas (SQL, R, Python, Excel) para criar análises fundadas com qualidade e rigor;
+Construir e gerenciar análises de múltiplas bases de dados de grande volume usando diversas ferramentas técnicas (SQL, R, Python, Excel) para criar análises fundadas com qualidade e rigor;
+Desenvolver modelos de otimização linear inteira, inteira mista, algoritmos evolutivos modelos utilizando técnicas de Inteligência Artificial para solução de problemas de negócio;
+Desenvolver modelos de otimização linear inteira, inteira mista, algoritmos evolutivos modelos utilizando técnicas de Inteligência Artificial para solução de problemas de negócio;
+Definir o frame do problema, suas features e a melhor forma de criar modelos para soluções de problemas;
+Definir o frame do problema, suas features e a melhor forma de criar modelos para soluções de problemas;
+Criar ferramentas com o foco no aumento da produtividade do time em atividades críticas de Machine Learning, como pré-processamento, criação dos modelos e deploy;
+Criar ferramentas com o foco no aumento da produtividade do time em atividades críticas de Machine Learning, como pré-processamento, criação dos modelos e deploy;
+Interpretar resultados e gerar visualizações e conclusões de análises que construam histórias relevantes e conjunto de ações para a organização;
+Interpretar resultados e gerar visualizações e conclusões de análises que construam histórias relevantes e conjunto de ações para a organização;
+Construir forte relacionamento com diversas áreas internas a empresa de modo a garantir entendimento compreensivo dos requisitos do negócio;
+Construir forte relacionamento com diversas áreas internas a empresa de modo a garantir entendimento compreensivo dos requisitos do negócio;
+Trabalhar em modelo ágil e de forma colaborativa dentro de squads;
+Trabalhar em modelo ágil e de forma colaborativa dentro de squads;
+Definir junto com times de parceiros de tecnologia requisitos de Arquitetura, Segurança e Infraestrutura para garantir robustez e automação nas soluções desenvolvidas.
+Definir junto com times de parceiros de tecnologia requisitos de Arquitetura, Segurança e Infraestrutura para garantir robustez e automação nas soluções desenvolvidas.
+
+
+
+
+
+
+QUEM NOS INSPIRA?
+QUEM NOS INSPIRA?
+QUEM NOS INSPIRA?
+
+
+
+Alguém que acredite em nossos valores;Com iniciativa;Perfil analítico;Que proponha ideias e soluções.
+Alguém que acredite em nossos valores;
+Alguém que acredite em nossos valores;
+Com iniciativa;
+Com iniciativa;
+Perfil analítico;
+Perfil analítico;
+Que proponha ideias e soluções.
+Que proponha ideias e soluções.
+
+
+
+
+
+
+O QUE A SUZANO ESPERA DE VOCÊ?
+O QUE A SUZANO ESPERA DE VOCÊ?
+O QUE A SUZANO ESPERA DE VOCÊ?
+
+
+
+Superior Completo em Engenharia, Ciências da Computação ou áreas correlatas;Experiência em ferramentas e bibliotecas de ciência de dados (Python, SQL, R, Excel);Conhecimento em pesquisa operacional e técnicas de Analytics e desenvolvimento voltados para aplicações de negócio;Curiosidade e disposição em se aprofundar nos desafios;Fortes habilidades de Comunicação (tradução do técnico em linguagem de negócio) serão considerados diferenciais;Desejável experiência com soluções em nuvem.
+Superior Completo em Engenharia, Ciências da Computação ou áreas correlatas;
+Superior Completo em Engenharia, Ciências da Computação ou áreas correlatas;
+Experiência em ferramentas e bibliotecas de ciência de dados (Python, SQL, R, Excel);
+Experiência em ferramentas e bibliotecas de ciência de dados (Python, SQL, R, Excel);
+Conhecimento em pesquisa operacional e técnicas de Analytics e desenvolvimento voltados para aplicações de negócio;
+Conhecimento em pesquisa operacional e técnicas de Analytics e desenvolvimento voltados para aplicações de negócio;
+Curiosidade e disposição em se aprofundar nos desafios;
+Curiosidade e disposição em se aprofundar nos desafios;
+Fortes habilidades de Comunicação (tradução do técnico em linguagem de negócio) serão considerados diferenciais;
+Fortes habilidades de Comunicação (tradução do técnico em linguagem de negócio) serão considerados diferenciais;
+Desejável experiência com soluções em nuvem.
+Desejável experiência com soluções em nuvem.
+
+
+
+NÓS TEMOS MUITO MAIS QUE UM PAPEL NA SUA VIDA!
+NÓS TEMOS MUITO MAIS QUE UM PAPEL NA SUA VIDA!
+NÓS TEMOS MUITO MAIS QUE UM PAPEL NA SUA VIDA!
+
+
+
+Cuidados da sua saúde: Plano Médico, Odonto e Seguro de Vida;
+Cuidados da sua saúde: Plano Médico, Odonto e Seguro de Vida;
+VR ou Refeitório, VA para ajudar nas compras do mercado e, no final do ano, VA adicional;
+VR ou Refeitório, VA para ajudar nas compras do mercado e, no final do ano, VA adicional;
+Sabemos que a renda fixa é importante, mas, além disso, oferecemos uma renda extra por meio do nosso Programa de Remuneração Variável (Anual);
+Sabemos que a renda fixa é importante, mas, além disso, oferecemos uma renda extra por meio do nosso Programa de Remuneração Variável (Anual);
+Para você se preparar para o futuro temos a Previdência privada;
+Para você se preparar para o futuro temos a Previdência privada;
+Praticamos o home office em áreas corporativas, a flexibilidade de horários, além do dress code casual;
+Praticamos o home office em áreas corporativas, a flexibilidade de horários, além do dress code casual;
+Para gerar e compartilhar valor disponibilizamos cursos e treinamentos E-learning em nossa plataforma digital, o UniverSuzano;
+Para gerar e compartilhar valor disponibilizamos cursos e treinamentos E-learning em nossa plataforma digital, o UniverSuzano;
+Na Suzano, só é bom para nós se for bom para o mundo! Por isso, durante o ano realizamos muitas ações legais e você poderá se tornar um voluntário do nosso programa Voluntariar;
+Na Suzano, só é bom para nós se for bom para o mundo! Por isso, durante o ano realizamos muitas ações legais e você poderá se tornar um voluntário do nosso programa Voluntariar;
+Também contamos com um Clube de Descontos, com diversos parceiros, para você aproveitar!
+Também contamos com um Clube de Descontos, com diversos parceiros, para você aproveitar!
+
+
+
+
+
+
+PARA A FAMÍLIA
+PARA A FAMÍLIA
+PARA A FAMÍLIA
+
+
+
+Como empresa cidadã, entendemos a importância da chegada de uma criança. Por isso, oferecemos extensão da licença paternidade para 20 dias e maternidade para 180 dias. O benefício também vale para papais e mamães que adotarem ou obtiverem a guarda judicial da criança e para casais homo afetivos;
+Como empresa cidadã, entendemos a importância da chegada de uma criança. Por isso, oferecemos extensão da licença paternidade para 20 dias e maternidade para 180 dias. O benefício também vale para papais e mamães que adotarem ou obtiverem a guarda judicial da criança e para casais homo afetivos;
+Para as mamães retornarem tranquilas ao trabalho, oferecemos um auxílio creche bem bacana.
+Para as mamães retornarem tranquilas ao trabalho, oferecemos um auxílio creche bem bacana.
+Pensando em oferecer sempre as melhores condições para nosso time e suas família, disponibilizamos um auxílio mensal em dinheiro que se aplica ao pai ou mãe que tiver sob sua guarda filho ou filha com alguma necessidade especial;
+Pensando em oferecer sempre as melhores condições para nosso time e suas família, disponibilizamos um auxílio mensal em dinheiro que se aplica ao pai ou mãe que tiver sob sua guarda filho ou filha com alguma necessidade especial;
+Aqui seus filhos e filhos não ficam de fora, oferecemos um vale brinquedo e um kit material escolar recheado! E, se no final do ano os filhos mandarem bem na escola, reconheceremos o seu esforço por meio do nosso programa Estudar é Crescer, com um prêmio em dinheiro que poderão usar como preferir.
+Aqui seus filhos e filhos não ficam de fora, oferecemos um vale brinquedo e um kit material escolar recheado! E, se no final do ano os filhos mandarem bem na escola, reconheceremos o seu esforço por meio do nosso programa Estudar é Crescer, com um prêmio em dinheiro que poderão usar como preferir.
+
+
+
+SUZANO FAZ BEM
+SUZANO FAZ BEM
+SUZANO FAZ BEM
+
+
+
+OFaz Bemtem um cuidado especial para você, colaborador(a) e sua família, confira baixo:
+OFaz Bemtem um cuidado especial para você, colaborador(a) e sua família, confira baixo:
+
+Faz Bem
+Faz Bem
+
+
+
+
+Tele Faz Bem: Atendimento gratuito e confidencial ao colaborador(a) Suzano e seus(as) dependentes(as) nas seguintes frentes: Apoio psicológico e de assistência social, orientação jurídica, financeira, de atividade física e nutricional;Plataforma de saúde mental – A Wellz, oferece sessões de terapia online subsidiadas pela Suzano de forma confidencial, além de várias oportunidades de auto cuidado como jornadas, diário de humor, terapia em grupo, entre outros;Plataforma de saúde física – A Wellhub é uma plataforma completa de bem estar com acesso a academias, aplicativos e aulas on-line com liberdade de escolha de atividades.Programa de gestantes – O programa “Bebê Saudável” realiza o acompanhamento gestacional através de contato telefônico e abordagens, além do recebimento de um kit personalizado.
+Tele Faz Bem: Atendimento gratuito e confidencial ao colaborador(a) Suzano e seus(as) dependentes(as) nas seguintes frentes: Apoio psicológico e de assistência social, orientação jurídica, financeira, de atividade física e nutricional;
+Tele Faz Bem: Atendimento gratuito e confidencial ao colaborador(a) Suzano e seus(as) dependentes(as) nas seguintes frentes: Apoio psicológico e de assistência social, orientação jurídica, financeira, de atividade física e nutricional;
+Plataforma de saúde mental – A Wellz, oferece sessões de terapia online subsidiadas pela Suzano de forma confidencial, além de várias oportunidades de auto cuidado como jornadas, diário de humor, terapia em grupo, entre outros;
+Plataforma de saúde mental – A Wellz, oferece sessões de terapia online subsidiadas pela Suzano de forma confidencial, além de várias oportunidades de auto cuidado como jornadas, diário de humor, terapia em grupo, entre outros;
+Plataforma de saúde física – A Wellhub é uma plataforma completa de bem estar com acesso a academias, aplicativos e aulas on-line com liberdade de escolha de atividades.
+Plataforma de saúde física – A Wellhub é uma plataforma completa de bem estar com acesso a academias, aplicativos e aulas on-line com liberdade de escolha de atividades.
+Programa de gestantes – O programa “Bebê Saudável” realiza o acompanhamento gestacional através de contato telefônico e abordagens, além do recebimento de um kit personalizado.
+Programa de gestantes – O programa “Bebê Saudável” realiza o acompanhamento gestacional através de contato telefônico e abordagens, além do recebimento de um kit personalizado.
+
+
+
+#VemSerSuzano #PlantamosOCuidado #OrgulhoEmPertencer
+#VemSerSuzano #PlantamosOCuidado #OrgulhoEmPertencer
+#VemSerSuzano #PlantamosOCuidado #OrgulhoEmPertencer

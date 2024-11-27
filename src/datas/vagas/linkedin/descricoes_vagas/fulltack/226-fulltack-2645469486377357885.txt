@@ -1,0 +1,90 @@
+link-https://www.linkedin.com/jobs/view/4043846336/?eBP=CwEAAAGS7g-2lPTk2VzJcs0LvVHp8DxAKyVQGm4GpJEkXdCujHjT3kSwKRR7PvBwgTpmNNAKFF02msaEOAJ1dOdszeCKFmajf7yEGaEuSVMEH-LDNMKR4iBxnODq4-EEQsOE8xhJN_YiHL99xH5u5tNeC04gM5V9R47DbOfNH-OTEP6yFtGi6sHYBrFvzdFOUFX8ymNdpv8pVjbJa5vjHB6fGnQfruwTcoiY9ir_Vlp7WsNpImQUCYXgHDYs39s_CyYNBZ5vGvY5G_dkEMyOpH1NgC1bDaYJtGtlZPweRao_S9rUowmGh0tlU7z7X55SSeFwRSGJlCeoRkU6-zIyV9Ir6mnmrfWfiJ4cDhzlYiua1tD8mSa9tZ61WNnRvTqr4CauGiIrZSMQ7NBNJZuHeOdE8WSOI2RBtJFpYnXW4_kynJEuYLdHklR8B_awccrzGjh3mSQTSn0T6GTuQDHYTYsjz2NvPFxw7u8IVTXLG1elCsd3ikj_UI6XG0qe04EB8wyF5zKEuE0&refId=PKXH1xmTSoCQRkp4wX1P5A%3D%3D&trackingId=wR4HaFS7PvTlEoPJ9l1cbA%3D%3D&trk=flagship3_search_srp_jobs
+
+Engenheiro(a) de Software Fullstack JR/PL | IT Pricing&RCO
+Sobre a vaga
+Sobre a ÁreaA tecnologia no BTG vem contribuindo com as grandes transformações do banco. Para isso, investimos em tudo que há de mais novo no mercado. Nossa área é responsável pela gestão e precificação interna de diversos ativos financeiros, como Renda fixa, Renda Variável e Derivativos. Atuamos no suporte e no desenvolvimento de novos projetos, interagindo diretamente com diversos usuários do banco bem como outros times de tecnologia. Para esta vaga, temos a missão de evoluir a arquitetura e performance de nossos sistemas de precificação de ativos, que têm importância crítica para várias rotinas do banco e seus fundos administrados.No Seu Dia a DiaDesenvolvimento de novos projetos com foco em performance e escalabilidade;Entregar código em um ambiente Cloud AWS, utilizando Kubernetes;Participação de todo fluxo do projeto, desde a elaboração da arquitetura até a entrega em produção;Relacionamento próximo com as áreas de negócio e outras equipes de tecnologia;Realizar o monitoramento dos sistemas em produção.Esperamos De VocêSuperior completo em Engenharia de software, Ciências da computação ou áreas relacionadas;Experiência em desenvolvimento .NET (C#);Experiência com Angular;Conhecimento com testes unitários/integração;Conhecimento em bancos relacionais (SQL Server, MySQL, PostgreSQL);Experiência com mensageria em RabbitMQ, SQS, etc.Habilidades DiferenciaisArquitetura de software (Clean Architecture, SOLID e Microservices);NodeJS (NestJS com Typescript);Cloud AWS (EC2, S3, CloudFormation, etc), Azure DevOps, Docker e Kubernetes;Bancos não relacionais (Redis, MongoDB, etc);Conhecimentos gerais de mercado financeiro;Comunicação com usuários e levantamento de requisitos;Afinidade com matemática (Cálculo e Métodos Numéricos).BenefíciosSalário CLT.PLR Própria.PLR Bancária.Vale Alimentação e Vale Refeição.Seguro Saúde e Odontológico.Auxílio Creche.Vale Transporte.Gympass.Planos por adesão como Previdência Privada e Seguro de Vida.Programa de Apoio Pessoal.
+Sobre a Área
+
+
+
+
+No Seu Dia a Dia
+
+
+Desenvolvimento de novos projetos com foco em performance e escalabilidade;Entregar código em um ambiente Cloud AWS, utilizando Kubernetes;Participação de todo fluxo do projeto, desde a elaboração da arquitetura até a entrega em produção;Relacionamento próximo com as áreas de negócio e outras equipes de tecnologia;Realizar o monitoramento dos sistemas em produção.
+Desenvolvimento de novos projetos com foco em performance e escalabilidade;
+Desenvolvimento de novos projetos com foco em performance e escalabilidade;
+Entregar código em um ambiente Cloud AWS, utilizando Kubernetes;
+Entregar código em um ambiente Cloud AWS, utilizando Kubernetes;
+Participação de todo fluxo do projeto, desde a elaboração da arquitetura até a entrega em produção;
+Participação de todo fluxo do projeto, desde a elaboração da arquitetura até a entrega em produção;
+Relacionamento próximo com as áreas de negócio e outras equipes de tecnologia;
+Relacionamento próximo com as áreas de negócio e outras equipes de tecnologia;
+Realizar o monitoramento dos sistemas em produção.
+Realizar o monitoramento dos sistemas em produção.
+
+
+Esperamos De Você
+
+
+Superior completo em Engenharia de software, Ciências da computação ou áreas relacionadas;Experiência em desenvolvimento .NET (C#);Experiência com Angular;Conhecimento com testes unitários/integração;Conhecimento em bancos relacionais (SQL Server, MySQL, PostgreSQL);Experiência com mensageria em RabbitMQ, SQS, etc.
+Superior completo em Engenharia de software, Ciências da computação ou áreas relacionadas;
+Superior completo em Engenharia de software, Ciências da computação ou áreas relacionadas;
+Experiência em desenvolvimento .NET (C#);
+Experiência em desenvolvimento .NET (C#);
+
+Experiência com Angular;
+Experiência com Angular;
+Conhecimento com testes unitários/integração;
+Conhecimento com testes unitários/integração;
+Conhecimento em bancos relacionais (SQL Server, MySQL, PostgreSQL);
+Conhecimento em bancos relacionais (SQL Server, MySQL, PostgreSQL);
+Experiência com mensageria em RabbitMQ, SQS, etc.
+Experiência com mensageria em RabbitMQ, SQS, etc.
+
+
+Habilidades Diferenciais
+
+
+Arquitetura de software (Clean Architecture, SOLID e Microservices);NodeJS (NestJS com Typescript);Cloud AWS (EC2, S3, CloudFormation, etc), Azure DevOps, Docker e Kubernetes;Bancos não relacionais (Redis, MongoDB, etc);Conhecimentos gerais de mercado financeiro;Comunicação com usuários e levantamento de requisitos;Afinidade com matemática (Cálculo e Métodos Numéricos).
+Arquitetura de software (Clean Architecture, SOLID e Microservices);
+Arquitetura de software (Clean Architecture, SOLID e Microservices);
+NodeJS (NestJS com Typescript);
+NodeJS (NestJS com Typescript);
+Cloud AWS (EC2, S3, CloudFormation, etc), Azure DevOps, Docker e Kubernetes;
+Cloud AWS (EC2, S3, CloudFormation, etc), Azure DevOps, Docker e Kubernetes;
+Bancos não relacionais (Redis, MongoDB, etc);
+Bancos não relacionais (Redis, MongoDB, etc);
+Conhecimentos gerais de mercado financeiro;
+Conhecimentos gerais de mercado financeiro;
+Comunicação com usuários e levantamento de requisitos;
+Comunicação com usuários e levantamento de requisitos;
+
+Afinidade com matemática (Cálculo e Métodos Numéricos).
+Afinidade com matemática (Cálculo e Métodos Numéricos).
+
+
+Benefícios
+
+
+Salário CLT.PLR Própria.PLR Bancária.Vale Alimentação e Vale Refeição.Seguro Saúde e Odontológico.Auxílio Creche.Vale Transporte.Gympass.Planos por adesão como Previdência Privada e Seguro de Vida.Programa de Apoio Pessoal.
+Salário CLT.
+Salário CLT.
+PLR Própria.
+PLR Própria.
+PLR Bancária.
+PLR Bancária.
+Vale Alimentação e Vale Refeição.
+Vale Alimentação e Vale Refeição.
+Seguro Saúde e Odontológico.
+Seguro Saúde e Odontológico.
+Auxílio Creche.
+Auxílio Creche.
+Vale Transporte.
+Vale Transporte.
+Gympass.
+Gympass.
+Planos por adesão como Previdência Privada e Seguro de Vida.
+Planos por adesão como Previdência Privada e Seguro de Vida.
+Programa de Apoio Pessoal.
+Programa de Apoio Pessoal.

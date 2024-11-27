@@ -1,0 +1,88 @@
+link-https://www.linkedin.com/jobs/view/4055536262/?eBP=CwEAAAGS7g-PQ-omAou2FnufLtRJbfBmoXTA-qm8hSg_zk3NJPveeo9OIrgdNg6A8bNPyr_pTS8ETzfDvCkSI6oa8IPm_as2zHAUolU9dy4n3tcYuIpCKcv5_xqBpjMkCXAJ22M_z_XeJJjRasbhR7je6XYGd4mzthWZUgO-UmHgjDlkd-uBTa3VsAKRuBJAeC00YhnTiUt8qpqTe5ZAcrySNKVGZTv5IR2qkMyzxUWmhCjKjmEaS3FVJ5C-Kh-CTQmAOd8m6EFgPG3rsPJpbWEMXN1oItK77JhQ18QoQ4X7OT2CmKgDwMvuNN4Be22Qvv7mVzMYiJtJkv4OJ3nJYip3v5kli4fOdCDop9rD8G1qNoSFYr1CaCAQAzTObRyJ4t_dSJsGOwx9IxnGIPOFquw4e6e2kdS_Hv_JOM8iplyUcnQWj3nIbQ0ERFsmlkxDUVuvJAO8FTtWuC0s1uhK6f20VQX2vFWGYDDpCL_-YFy9l09MrmRMFYOOzWmOeTleRrdPSOge&refId=4HWb3fpr4rq7t21n2A4hZg%3D%3D&trackingId=FqktuK1GXYklL9wAPZYsuQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Banco de Talentos - Desenvolvedor(a) Fullstack Node.js e React Pleno - 100% Presencial - Rio de Janeiro - RJ
+Sobre a vaga
+IntroduçãoNEORIS é um Acelerador Digital que ajuda as empresas a entrar no futuro.Combinamos um profundo conhecimento da indústria com a mais alta expertise tecnológica do mercado para criar soluções customizadas que nos permitem superar desafios de negócios e gerar crescimento disruptivo.Temos 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Nossos clientes são de setores como Serviços Financeiros, Manufatura, Telecomunicações e Saúde. Também temos clientes em Agronegócios, Utilidades e Materiais de Construção.Somos mais de 4.000 profissionais em 11 países, incluindo México, Estados Unidos, Espanha e Argentina. Temos uma cultura de startup multicultural onde cultivamos inovação, aprendizado contínuo para criar soluções de alto valor para nossos clientes.Atualmente na NEORIS, estamos buscando um(a)Desenvolvedor(a) FullStack Pleno Node.js e React - 100% Presencial - Rio de Janeiropara ingressar em nosso time.Requisitos e QualificaçõesBack-end: Experiência com desenvolvimento de apis REST escaláveis em Node.js e seus frameworks (Nest.js/Express...)Front-end: Experiência com desenvolvimento web responsivo com React.js (Redux, Redux-toolkit ou Zustand, ciclo de vida de componentes, manipulações de estado) e seus frameworks, conhecimento de pré-processadores de CSS para estilização (Tailwindcss, Bootstrap, Material UI ou SASS).Banco de dados: Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)Cloud: Experiência em computação na nuvem e serviços cloud (AWS/Azure).Experiência com rotinas ágeis (SCRUM/Kanban)DiferenciaisExperiência prévia com mensageria (kafka/rabbitMQ)Experiência com testes unitários e suas coberturas (Jest/Supertest)Experiência com arquitetura padrão MVCConhecimentos de ferramentas de autenticação (oAuth/JWT)Vaga 100% Presencial - Centro - Rio de Janeiro.Esta vaga está aberta à aplicação de todas as pessoas - independentemente de suas características ou condições humanas quanto à etnia, gênero, orientação sexual, acessibilidade, cultural, social ou de qualquer outro fator.Todas as nossas vagas estão, e sempre estarão abertas para pessoas com deficiência (PcD)Temos o compromisso de construir um ambiente cada vez mais diverso e inclusivo.Valorizamos a Diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times.🌈OferecemosAmbiente de trabalho dinâmicoOportunidades de desenvolvimentoVale Refeição;Vale Alimentação;Previdência Privada;Plano de Saúde;Plano Odontológico;Seguro de Vida;Aulas de Inglês/Espanhol;Gympass;
+
+
+
+
+
+
+
+
+
+
+
+Desenvolvedor(a) FullStack Pleno Node.js e React - 100% Presencial - Rio de Janeiro
+
+
+
+Requisitos e Qualificações
+
+
+Back-end: Experiência com desenvolvimento de apis REST escaláveis em Node.js e seus frameworks (Nest.js/Express...)Front-end: Experiência com desenvolvimento web responsivo com React.js (Redux, Redux-toolkit ou Zustand, ciclo de vida de componentes, manipulações de estado) e seus frameworks, conhecimento de pré-processadores de CSS para estilização (Tailwindcss, Bootstrap, Material UI ou SASS).Banco de dados: Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)Cloud: Experiência em computação na nuvem e serviços cloud (AWS/Azure).Experiência com rotinas ágeis (SCRUM/Kanban)
+Back-end: Experiência com desenvolvimento de apis REST escaláveis em Node.js e seus frameworks (Nest.js/Express...)
+Back-end: Experiência com desenvolvimento de apis REST escaláveis em Node.js e seus frameworks (Nest.js/Express...)
+Front-end: Experiência com desenvolvimento web responsivo com React.js (Redux, Redux-toolkit ou Zustand, ciclo de vida de componentes, manipulações de estado) e seus frameworks, conhecimento de pré-processadores de CSS para estilização (Tailwindcss, Bootstrap, Material UI ou SASS).
+Front-end: Experiência com desenvolvimento web responsivo com React.js (Redux, Redux-toolkit ou Zustand, ciclo de vida de componentes, manipulações de estado) e seus frameworks, conhecimento de pré-processadores de CSS para estilização (Tailwindcss, Bootstrap, Material UI ou SASS).
+Banco de dados: Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)
+Banco de dados: Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)
+Cloud: Experiência em computação na nuvem e serviços cloud (AWS/Azure).
+Cloud: Experiência em computação na nuvem e serviços cloud (AWS/Azure).
+Experiência com rotinas ágeis (SCRUM/Kanban)
+Experiência com rotinas ágeis (SCRUM/Kanban)
+
+
+Diferenciais
+
+
+Experiência prévia com mensageria (kafka/rabbitMQ)Experiência com testes unitários e suas coberturas (Jest/Supertest)Experiência com arquitetura padrão MVCConhecimentos de ferramentas de autenticação (oAuth/JWT)
+Experiência prévia com mensageria (kafka/rabbitMQ)
+Experiência prévia com mensageria (kafka/rabbitMQ)
+Experiência com testes unitários e suas coberturas (Jest/Supertest)
+Experiência com testes unitários e suas coberturas (Jest/Supertest)
+Experiência com arquitetura padrão MVC
+Experiência com arquitetura padrão MVC
+Conhecimentos de ferramentas de autenticação (oAuth/JWT)
+Conhecimentos de ferramentas de autenticação (oAuth/JWT)
+
+
+Vaga 100% Presencial - Centro - Rio de Janeiro.
+
+
+Esta vaga está aberta à aplicação de todas as pessoas - independentemente de suas características ou condições humanas quanto à etnia, gênero, orientação sexual, acessibilidade, cultural, social ou de qualquer outro fator.
+
+
+Todas as nossas vagas estão, e sempre estarão abertas para pessoas com deficiência (PcD)
+
+
+Temos o compromisso de construir um ambiente cada vez mais diverso e inclusivo.
+
+
+Valorizamos a Diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times.🌈
+
+
+Oferecemos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

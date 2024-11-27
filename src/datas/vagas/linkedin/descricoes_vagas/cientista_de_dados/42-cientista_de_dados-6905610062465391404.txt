@@ -1,0 +1,100 @@
+link-https://www.linkedin.com/jobs/view/4041125381/?eBP=CwEAAAGS7jSFZXBGolVMxEmleaPTQBj59GmnC5q0PzmlPKJk2fTfzlSkQDQdBYd9HCMAHtTKjLQ2ExMCtijvRchX1bRn7NejGyjdhPFOS-Eplkf15rwa1w-jKxk4cLKx5pen3xmhoxrc3t38S-JELy9mtqvJhWGSxKk3jFwOV6cwzFNX7CH4rR92IRiFdlbqR2DsZrY64cDo-VKH7fpzYBQF-0ULbN4_EsiornZVEjxc24AEEmuWjInIuoEGNoPrjIV18t_wJWpwpriWGqqGRkhBPcMWl1EciZU8OM4a427t8-5CbQyGee5FlAFq4qQvlRuuRMaL1-67JR-PpCptpdZjybiWgzRk-Zscz8Fs9XPTCi1B3um9MQSzYS09JnLBbRBGVYMpEYD-gHI4FYHtjCtFLyhPqTPkOQyTNANzbE3Mq2F6HRmR8zbXQ9M916NecHPDhiiN0sD_fAuodwDpaTjb51JMOFe2WAVylNA-pQmxtIyGskELjlhoUh2EsAoc0sEAQ2gF&refId=zG8L0cPSry7sLg6pAEmeJg%3D%3D&trackingId=0MRgNMJ4EwEF6XDSgeLyCQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados - Machine Learning / Híbrido
+Sobre a vaga
+REQUISITOS MANDATÓRIOSEXPERIÊNCIASólida experiência em modelagem preditiva, aprendizado de máquina e manipulação de grandes volumes de dados;Mínimo de 5 anos de experiência em ciência de dados e 10 anos atuando na área de tecnologia da informação;Forte conhecimento em algoritmos de machine learning (regressão, classificação, clustering, deep learning);Algoritmos de Machine Learning:Regressão Linear, Regressão Logística, Árvores de Decisão, Florestas Aleatórias, SVM, Redes Neurais, Clustering (K-means, DBSCAN), Gradient Boosting Machines (GBM), XGBoost, LightGBM, Naive Bayes, Random Forest, Análise de Componentes Principais (PCA), Redes Bayesianas, Redes de Markov, Séries Temporais (ARIMA, Prophet);Habilidade com bibliotecas e frameworks como TensorFlow, PyTorch, Scikit-learn, XGBoost;Domínio de linguagens de programação como Python ou R;Experiência com bancos de dados SQL e NoSQL;Cloud Computing: Microsoft Azure, AWS; Notebooks: Jupyter Notebook;Conhecimento em processamento de grandes volumes de dados e ferramentas de big data (Hadoop, Spark);Habilidades Analíticas: Capacidade de transformar grandes volumes de dados em insights e de implementar modelos preditivos que resolvam problemas reais de negócios;Implementação em Produção: Experiência em colocar modelos de Machine Learning em produção e otimizá-los para escala e performanceESCOLARIDADEGraduação: superior em Administração, Engenharia, Contabilidade, Direito, Economia, Análise de Tecnologia da Informação, Administrador de Tecnologia da Informação ou áreas correlatas.Pós-graduação: relevantes em áreas de Transformação Digital, Análise de Dados, Business Intelligence ou Machine Learning ou em especialidades correlatas à função.Certificação: Ao menos uma das certificações a seguir: (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®.ATRIBUIÇÕESVocê será responsável por desenvolver e implementar algoritmos de machine learning para resolver problemas complexos, melhorar processos e gerar insights acionáveis para os negócios;Desenvolvimento de Modelos de Machine Learning: Criar, treinar e otimizar modelos de machine learning, utilizando técnicas supervisionadas e não supervisionadas, para resolver desafios de negócios e melhorar a eficiência operacional;Coleta e Limpeza de Dados: Preparar grandes conjuntos de dados estruturados e não estruturados, garantindo que estejam prontos para a aplicação de algoritmos de aprendizado de máquina;Avaliação de Modelos: Monitorar e avaliar o desempenho dos modelos através de métricas como acurácia, precisão, recall e AUC, ajustando os modelos conforme necessário para maximizar o desempenho;Implementação de Soluções em Produção: Trabalhar em estreita colaboração com engenheiros de dados para integrar os modelos de machine learning em sistemas de produção, garantindo sua escalabilidade e eficiência;Exploração e Seleção de Features: Analisar e selecionar as melhores variáveis (features) para treinar os modelos, garantindo que os algoritmos possam generalizar e prever com precisão;Visualização e Comunicação de Resultados: Traduzir os resultados dos modelos em visualizações claras e relatórios compreensíveis, permitindo que os stakeholders compreendam e tomem decisões informadas;Proposta de Melhorias e Inovações: Propor soluções inovadoras com base em machine learning para otimizar processos, reduzir custos e melhorar a performance em diferentes áreas da empresa;Pesquisa de Novas Tecnologias e Algoritmos: Manter-se atualizado com as últimas tendências em machine learning e inteligência artificial, incorporando novas técnicas e ferramentas quando aplicáveis.Sobre a CAPCONa Capco promovemos uma cultura inclusiva. Valorizamos a diversidade emtodas as suas expressões.Pensamos,em conjunto, sempre em ações diversas de inclusão e de responsabilidade socialatravés de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.Nossas oportunidades são trabalhadas para todos(as)!!!Próximos PassosSe você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+REQUISITOS MANDATÓRIOS
+
+
+EXPERIÊNCIA
+
+
+Sólida experiência em modelagem preditiva, aprendizado de máquina e manipulação de grandes volumes de dados;Mínimo de 5 anos de experiência em ciência de dados e 10 anos atuando na área de tecnologia da informação;Forte conhecimento em algoritmos de machine learning (regressão, classificação, clustering, deep learning);Algoritmos de Machine Learning:Regressão Linear, Regressão Logística, Árvores de Decisão, Florestas Aleatórias, SVM, Redes Neurais, Clustering (K-means, DBSCAN), Gradient Boosting Machines (GBM), XGBoost, LightGBM, Naive Bayes, Random Forest, Análise de Componentes Principais (PCA), Redes Bayesianas, Redes de Markov, Séries Temporais (ARIMA, Prophet);Habilidade com bibliotecas e frameworks como TensorFlow, PyTorch, Scikit-learn, XGBoost;Domínio de linguagens de programação como Python ou R;Experiência com bancos de dados SQL e NoSQL;Cloud Computing: Microsoft Azure, AWS; Notebooks: Jupyter Notebook;Conhecimento em processamento de grandes volumes de dados e ferramentas de big data (Hadoop, Spark);Habilidades Analíticas: Capacidade de transformar grandes volumes de dados em insights e de implementar modelos preditivos que resolvam problemas reais de negócios;Implementação em Produção: Experiência em colocar modelos de Machine Learning em produção e otimizá-los para escala e performance
+Sólida experiência em modelagem preditiva, aprendizado de máquina e manipulação de grandes volumes de dados;
+Sólida experiência em modelagem preditiva, aprendizado de máquina e manipulação de grandes volumes de dados;
+Mínimo de 5 anos de experiência em ciência de dados e 10 anos atuando na área de tecnologia da informação;
+Mínimo de 5 anos de experiência em ciência de dados e 10 anos atuando na área de tecnologia da informação;
+Forte conhecimento em algoritmos de machine learning (regressão, classificação, clustering, deep learning);
+Forte conhecimento em algoritmos de machine learning (regressão, classificação, clustering, deep learning);
+Algoritmos de Machine Learning:Regressão Linear, Regressão Logística, Árvores de Decisão, Florestas Aleatórias, SVM, Redes Neurais, Clustering (K-means, DBSCAN), Gradient Boosting Machines (GBM), XGBoost, LightGBM, Naive Bayes, Random Forest, Análise de Componentes Principais (PCA), Redes Bayesianas, Redes de Markov, Séries Temporais (ARIMA, Prophet);
+Algoritmos de Machine Learning:Regressão Linear, Regressão Logística, Árvores de Decisão, Florestas Aleatórias, SVM, Redes Neurais, Clustering (K-means, DBSCAN), Gradient Boosting Machines (GBM), XGBoost, LightGBM, Naive Bayes, Random Forest, Análise de Componentes Principais (PCA), Redes Bayesianas, Redes de Markov, Séries Temporais (ARIMA, Prophet);
+
+Habilidade com bibliotecas e frameworks como TensorFlow, PyTorch, Scikit-learn, XGBoost;
+Habilidade com bibliotecas e frameworks como TensorFlow, PyTorch, Scikit-learn, XGBoost;
+Domínio de linguagens de programação como Python ou R;
+Domínio de linguagens de programação como Python ou R;
+Experiência com bancos de dados SQL e NoSQL;
+Experiência com bancos de dados SQL e NoSQL;
+Cloud Computing: Microsoft Azure, AWS; Notebooks: Jupyter Notebook;
+Cloud Computing: Microsoft Azure, AWS; Notebooks: Jupyter Notebook;
+Conhecimento em processamento de grandes volumes de dados e ferramentas de big data (Hadoop, Spark);
+Conhecimento em processamento de grandes volumes de dados e ferramentas de big data (Hadoop, Spark);
+Habilidades Analíticas: Capacidade de transformar grandes volumes de dados em insights e de implementar modelos preditivos que resolvam problemas reais de negócios;
+Habilidades Analíticas: Capacidade de transformar grandes volumes de dados em insights e de implementar modelos preditivos que resolvam problemas reais de negócios;
+Implementação em Produção: Experiência em colocar modelos de Machine Learning em produção e otimizá-los para escala e performance
+Implementação em Produção: Experiência em colocar modelos de Machine Learning em produção e otimizá-los para escala e performance
+
+
+ESCOLARIDADE
+
+
+Graduação: superior em Administração, Engenharia, Contabilidade, Direito, Economia, Análise de Tecnologia da Informação, Administrador de Tecnologia da Informação ou áreas correlatas.Pós-graduação: relevantes em áreas de Transformação Digital, Análise de Dados, Business Intelligence ou Machine Learning ou em especialidades correlatas à função.Certificação: Ao menos uma das certificações a seguir: (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®.
+Graduação: superior em Administração, Engenharia, Contabilidade, Direito, Economia, Análise de Tecnologia da Informação, Administrador de Tecnologia da Informação ou áreas correlatas.
+Graduação: superior em Administração, Engenharia, Contabilidade, Direito, Economia, Análise de Tecnologia da Informação, Administrador de Tecnologia da Informação ou áreas correlatas.
+Pós-graduação: relevantes em áreas de Transformação Digital, Análise de Dados, Business Intelligence ou Machine Learning ou em especialidades correlatas à função.
+Pós-graduação: relevantes em áreas de Transformação Digital, Análise de Dados, Business Intelligence ou Machine Learning ou em especialidades correlatas à função.
+Certificação: Ao menos uma das certificações a seguir: (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®.
+Certificação: Ao menos uma das certificações a seguir: (Certificação PMI-ACP, CBPP, BPM ou Lean 6-Sigma (Black Belt) ou Certificação PMP ou PMI-ACP, Professional Scrum Master (PSM), Team Kanban Practitioner (TKP), Lean 6-Sigma (Black Belt) ou Ceritificação Oficial SAFe®.
+
+
+ATRIBUIÇÕES
+
+
+Você será responsável por desenvolver e implementar algoritmos de machine learning para resolver problemas complexos, melhorar processos e gerar insights acionáveis para os negócios;Desenvolvimento de Modelos de Machine Learning: Criar, treinar e otimizar modelos de machine learning, utilizando técnicas supervisionadas e não supervisionadas, para resolver desafios de negócios e melhorar a eficiência operacional;Coleta e Limpeza de Dados: Preparar grandes conjuntos de dados estruturados e não estruturados, garantindo que estejam prontos para a aplicação de algoritmos de aprendizado de máquina;Avaliação de Modelos: Monitorar e avaliar o desempenho dos modelos através de métricas como acurácia, precisão, recall e AUC, ajustando os modelos conforme necessário para maximizar o desempenho;Implementação de Soluções em Produção: Trabalhar em estreita colaboração com engenheiros de dados para integrar os modelos de machine learning em sistemas de produção, garantindo sua escalabilidade e eficiência;Exploração e Seleção de Features: Analisar e selecionar as melhores variáveis (features) para treinar os modelos, garantindo que os algoritmos possam generalizar e prever com precisão;Visualização e Comunicação de Resultados: Traduzir os resultados dos modelos em visualizações claras e relatórios compreensíveis, permitindo que os stakeholders compreendam e tomem decisões informadas;Proposta de Melhorias e Inovações: Propor soluções inovadoras com base em machine learning para otimizar processos, reduzir custos e melhorar a performance em diferentes áreas da empresa;Pesquisa de Novas Tecnologias e Algoritmos: Manter-se atualizado com as últimas tendências em machine learning e inteligência artificial, incorporando novas técnicas e ferramentas quando aplicáveis.
+Você será responsável por desenvolver e implementar algoritmos de machine learning para resolver problemas complexos, melhorar processos e gerar insights acionáveis para os negócios;
+Você será responsável por desenvolver e implementar algoritmos de machine learning para resolver problemas complexos, melhorar processos e gerar insights acionáveis para os negócios;
+Desenvolvimento de Modelos de Machine Learning: Criar, treinar e otimizar modelos de machine learning, utilizando técnicas supervisionadas e não supervisionadas, para resolver desafios de negócios e melhorar a eficiência operacional;
+Desenvolvimento de Modelos de Machine Learning: Criar, treinar e otimizar modelos de machine learning, utilizando técnicas supervisionadas e não supervisionadas, para resolver desafios de negócios e melhorar a eficiência operacional;
+Coleta e Limpeza de Dados: Preparar grandes conjuntos de dados estruturados e não estruturados, garantindo que estejam prontos para a aplicação de algoritmos de aprendizado de máquina;
+Coleta e Limpeza de Dados: Preparar grandes conjuntos de dados estruturados e não estruturados, garantindo que estejam prontos para a aplicação de algoritmos de aprendizado de máquina;
+Avaliação de Modelos: Monitorar e avaliar o desempenho dos modelos através de métricas como acurácia, precisão, recall e AUC, ajustando os modelos conforme necessário para maximizar o desempenho;
+Avaliação de Modelos: Monitorar e avaliar o desempenho dos modelos através de métricas como acurácia, precisão, recall e AUC, ajustando os modelos conforme necessário para maximizar o desempenho;
+Implementação de Soluções em Produção: Trabalhar em estreita colaboração com engenheiros de dados para integrar os modelos de machine learning em sistemas de produção, garantindo sua escalabilidade e eficiência;
+Implementação de Soluções em Produção: Trabalhar em estreita colaboração com engenheiros de dados para integrar os modelos de machine learning em sistemas de produção, garantindo sua escalabilidade e eficiência;
+Exploração e Seleção de Features: Analisar e selecionar as melhores variáveis (features) para treinar os modelos, garantindo que os algoritmos possam generalizar e prever com precisão;
+Exploração e Seleção de Features: Analisar e selecionar as melhores variáveis (features) para treinar os modelos, garantindo que os algoritmos possam generalizar e prever com precisão;
+Visualização e Comunicação de Resultados: Traduzir os resultados dos modelos em visualizações claras e relatórios compreensíveis, permitindo que os stakeholders compreendam e tomem decisões informadas;
+Visualização e Comunicação de Resultados: Traduzir os resultados dos modelos em visualizações claras e relatórios compreensíveis, permitindo que os stakeholders compreendam e tomem decisões informadas;
+Proposta de Melhorias e Inovações: Propor soluções inovadoras com base em machine learning para otimizar processos, reduzir custos e melhorar a performance em diferentes áreas da empresa;
+Proposta de Melhorias e Inovações: Propor soluções inovadoras com base em machine learning para otimizar processos, reduzir custos e melhorar a performance em diferentes áreas da empresa;
+Pesquisa de Novas Tecnologias e Algoritmos: Manter-se atualizado com as últimas tendências em machine learning e inteligência artificial, incorporando novas técnicas e ferramentas quando aplicáveis.
+Pesquisa de Novas Tecnologias e Algoritmos: Manter-se atualizado com as últimas tendências em machine learning e inteligência artificial, incorporando novas técnicas e ferramentas quando aplicáveis.
+
+
+Sobre a CAPCO
+
+
+Na Capco promovemos uma cultura inclusiva. Valorizamos a diversidade emtodas as suas expressões.
+
+todas as suas expressões
+
+
+
+Pensamos,em conjunto, sempre em ações diversas de inclusão e de responsabilidade socialatravés de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+em conjunto
+
+através de comitês internos geridos pela nossa comunidade interna, como os grupo de Mulheres, Pessoas Com Deficiência, Pessoas Negras, LGBTQIAPN+, Parentalidade, Gerações, entre outros.
+
+
+Nossas oportunidades são trabalhadas para todos(as)!!!
+
+
+
+
+Próximos Passos
+
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!

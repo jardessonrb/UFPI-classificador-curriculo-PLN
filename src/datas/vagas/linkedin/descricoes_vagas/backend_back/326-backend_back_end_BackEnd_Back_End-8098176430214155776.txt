@@ -1,0 +1,134 @@
+link-https://www.linkedin.com/jobs/view/4044242659/?eBP=CwEAAAGS7lKMz2uNdqCBfp8bJzI3MKkE1sBTXOSsVhsaVfY9MsePMGGBUFIZcWEP4711_BNLTvj5ZCOdLfiAyn42lN_gnNowKiVFeRgkWF5bT_uNFGkBJfKR8Q2x-6aNkSJe91UsaswUe6Qx4R-0ubKIPnpqPDNVf3wXG8n-gE2PFRoImFs4oJwx8jGSxJPxnU1jRfgEWoUuy-l-R8H6T0RKkk_4MKDGY0nGferARXnB8cUjQSJTIHyJCp9rvvoOvwGxA67cPr_Ubtiy50g48f-5DRTySVkjvnVfrOTZAJEu6bl3gaIUKM1hEb-TklQtwMGQtqBAYUgoIZCVFeb14L2kg8wfm9YH39xJwO3Sl2-umSaYhBigGCXDtPj19i1-6AKySwOxVOcce1Pdk0W3JQ_h61eVH-1F0QkJXOZz8JG-FSh8ftztM0bVc2K0GiQhH0BBm0vln9U8VcKkAVr_EC-F7SBSp6XCQ4SkraVyS-dAafmJAAq07Fqye6i2Tsw&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=HVIhRM%2FagwoqA72hQmPTlQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor JavaScript Back-end Pleno - Soluções em Gestão de Pessoas
+Sobre a vaga
+Voors é a nossa solução em Gestão de Pessoas:O Voors foi desenvolvido para ser uma solução tecnológica única de comunicação, integração e planejamento, desenhada para desenvolver e potencializar os colaboradores de uma empresa.Entre suas principais funções estão a rede social corporativa, gestão de feedbacks, análises de desempenho dos colaboradores, agenda, além disso, possibilidade de criar e guardar toda a informação de documentos necessários por times e grupos de usuários, além do processamento de folha de pagamento.O colaborador tem acesso à toda sua documentação, otimizando os processos do setor de RH na emissão de documentos.Desenvolvedor Pleno:Como Desenvolvedor Pleno - Back-end no Voors, sua missão é desenvolver e implementar soluções robustas e escaláveis que sustentem a infraestrutura tecnológica da nossa solução de Gestão de Pessoas. Você será crucial para garantir a eficiência, segurança e integridade dos dados, proporcionando uma base sólida para as funcionalidades inovadoras que potencializam os colaboradores das empresas clientes.Responsabilidades e atribuiçõesDesenvolver e implementar soluções robustas e escaláveis para o lado do servidor.Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.Requisitos e qualificaçõesExperiência comprovada como Programador Back-end ou em posição similar.Conhecimento sólido de linguagens de programação como Python ou Node.js.Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.Capacidade de projetar e implementar APIs RESTful ou GraphQL.Excelentes habilidades de resolução de problemas e análise crítica.Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.Capacidade de trabalhar de forma colaborativa em um ambiente ágil.Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.Formação em ciências da computação, engenharia de software ou áreas afins.Informações adicionaisEssa oportunidade de carreira só faz sentido para quem:É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento;Preza pela excelência, busca um código estável, confiável e de fácil manutenção;Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente;É obcecado por evolução e conhecimento;Quer ser protagonista na sua carreira profissional;Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;É organizado, realizando as atividades diárias planejadas conforme estimado;É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).Trabalhando conosco você terá acesso:Vale alimentação ou refeição - Você escolhe!Auxílio transporte;Plano de saúde;Plano odontológico;Auxílio pós graduação de 70% da mensalidade;Auxílio a cursos online;Cadastro nas plataformas educacionais Alura e DevMedia;Seguro de vida;Sendo Home Office Full Time haverá auxílio financeiro para os custos;Prêmio indicação;Eventos constantes de desenvolvimento técnico e comportamental;Gestão de carreira estruturado;Programa de análise de desempenho;Feedbacks e Plano de Desenvolvimento Individual;Programa de mentoria;Convênios com diversos estabelecimentos.Super importante:Se você atende os requisitos e vê sentido nessa oportunidade de carreira, isso é tudo o que importa. Aqui procuramos pessoas com capacidade e vontade de transformar, de serem protagonistas, independente do lugar que reside, idade, raça, cor, religião, ser PcD, identidade de gênero ou orientação sexual. Seu perfil e valores condizem com os nossos? Então venha fazer parte da VIASOFT!
+Voors é a nossa solução em Gestão de Pessoas:
+
+
+
+
+
+
+
+
+Desenvolvedor Pleno:
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.
+Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.
+Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.
+Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.
+Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.
+Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.
+Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.
+Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+
+
+
+Requisitos e qualificações
+
+
+Experiência comprovada como Programador Back-end ou em posição similar.Conhecimento sólido de linguagens de programação como Python ou Node.js.Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.Capacidade de projetar e implementar APIs RESTful ou GraphQL.Excelentes habilidades de resolução de problemas e análise crítica.Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.Capacidade de trabalhar de forma colaborativa em um ambiente ágil.Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.Formação em ciências da computação, engenharia de software ou áreas afins.
+Experiência comprovada como Programador Back-end ou em posição similar.
+Experiência comprovada como Programador Back-end ou em posição similar.
+Conhecimento sólido de linguagens de programação como Python ou Node.js.
+Conhecimento sólido de linguagens de programação como Python ou Node.js.
+Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.
+Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.
+Capacidade de projetar e implementar APIs RESTful ou GraphQL.
+Capacidade de projetar e implementar APIs RESTful ou GraphQL.
+Excelentes habilidades de resolução de problemas e análise crítica.
+Excelentes habilidades de resolução de problemas e análise crítica.
+Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.
+Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.
+Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.
+Formação em ciências da computação, engenharia de software ou áreas afins.
+Formação em ciências da computação, engenharia de software ou áreas afins.
+
+
+
+Informações adicionais
+
+
+Essa oportunidade de carreira só faz sentido para quem:
+
+
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento;Preza pela excelência, busca um código estável, confiável e de fácil manutenção;Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente;É obcecado por evolução e conhecimento;Quer ser protagonista na sua carreira profissional;Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;É organizado, realizando as atividades diárias planejadas conforme estimado;É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento;
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento;
+
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente;
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente;
+
+É obcecado por evolução e conhecimento;
+É obcecado por evolução e conhecimento;
+Quer ser protagonista na sua carreira profissional;
+Quer ser protagonista na sua carreira profissional;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+
+
+
+Trabalhando conosco você terá acesso:
+
+
+Vale alimentação ou refeição - Você escolhe!Auxílio transporte;Plano de saúde;Plano odontológico;Auxílio pós graduação de 70% da mensalidade;Auxílio a cursos online;Cadastro nas plataformas educacionais Alura e DevMedia;Seguro de vida;Sendo Home Office Full Time haverá auxílio financeiro para os custos;Prêmio indicação;Eventos constantes de desenvolvimento técnico e comportamental;Gestão de carreira estruturado;Programa de análise de desempenho;Feedbacks e Plano de Desenvolvimento Individual;Programa de mentoria;Convênios com diversos estabelecimentos.
+Vale alimentação ou refeição - Você escolhe!
+Vale alimentação ou refeição - Você escolhe!
+Auxílio transporte;
+Auxílio transporte;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio a cursos online;
+Auxílio a cursos online;
+Cadastro nas plataformas educacionais Alura e DevMedia;
+Cadastro nas plataformas educacionais Alura e DevMedia;
+
+Seguro de vida;
+Seguro de vida;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Prêmio indicação;
+Prêmio indicação;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Gestão de carreira estruturado;
+Gestão de carreira estruturado;
+Programa de análise de desempenho;
+Programa de análise de desempenho;
+Feedbacks e Plano de Desenvolvimento Individual;
+Feedbacks e Plano de Desenvolvimento Individual;
+Programa de mentoria;
+Programa de mentoria;
+Convênios com diversos estabelecimentos.
+Convênios com diversos estabelecimentos.
+
+
+
+Super importante:
+Super importante:
+
+Se você atende os requisitos e vê sentido nessa oportunidade de carreira, isso é tudo o que importa. Aqui procuramos pessoas com capacidade e vontade de transformar, de serem protagonistas, independente do lugar que reside, idade, raça, cor, religião, ser PcD, identidade de gênero ou orientação sexual. Seu perfil e valores condizem com os nossos? Então venha fazer parte da VIASOFT!

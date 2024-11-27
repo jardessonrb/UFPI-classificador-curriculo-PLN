@@ -1,0 +1,92 @@
+link-https://www.linkedin.com/jobs/view/4049838420/?eBP=CwEAAAGS7g_8n3KRRZU6sGyDfHwHyTxkPw-e1BFDDj6TjTYQAc3s70seE0DGUBw87txPsmQBR6oRshF-WMJ2gowmyCYoSmsNeY3JDoeXLJLb-_DWkr1rYFDH2A5Mtr_3u_KQqyp35AQ5rQMAvXCMo36JhL-HH72yxKRa6NTRTQRs7wxaZd41tD-tIfhalzDRbwwDV6p9tTAHopfz44Q7S1UhGzKPEwO6eMeOi6acgK38ARi60LufFdG_WFFxGiAWbi3j9uTzvF8N3mFIY_UvRQh3J3yaxjGldQrcg5mgUdeGKKzPNJBAIvpMI57xOJ4rV6qjm2M6_Az8eZACwExEYOPxM0WJV_C1xlBAj3tkHjGov5pSy_wckYf-k0zZiW-Pr_b1qOn4npy62rbilbalmKBo1j53JWTK9nrAInlyRgF8MdzFI0ni23MIppfKV5FfrWlp8FwP7FHQIGIyWVt4-3R-h60DdQG9wrdeAenTQbe5MDtn2SB6tEdMv3TAp1BMFP-2Mf6J&refId=XTINj6sIP2wfVRj2DDf8jA%3D%3D&trackingId=eKTE6Eu6cZj8O64DFf6oWg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Full Stack Cloud Engineer
+Sobre a vaga
+Company OverviewLean Tech is a rapidly expanding organization situated in Medellín, Colombia. We pride ourselves on possessing one of the most influential networks within software development and IT services for the entertainment, financial, and logistics sectors. Our corporate projections offer a multitude of opportunities for professionals to elevate their careers and experience substantial growth. Joining our team means engaging with expansive engineering teams across Latin America and the United States, contributing to cutting-edge developments in multiple industries.Currently, we are seeking a Senior Full Stack Cloud Engineer to join our team. Here are the challenges that our next warrior will face and the requirements we look for: Position Title: Full Stack Cloud EngineerSeniority: SeniorLocation: Remote Position OverviewWe are seeking an experienced Full Stack Cloud Engineer to join our dynamic team. The ideal candidate will have a strong background in AWS cloud services, full-stack development including expertise with ReactJS and Material-UI, and infrastructure as code using both AWS CDK and CloudFormation. Also is very important the expertise in .Net Development with the AWS ecosystem.Key ResponsibilitiesDesign and implement scalable, secure, and maintainable APIs using C# and AWS services, with a focus on AWS Lambda.Collaborate with front-end and back-end developers to ensure seamless integrationCollaborate with cross-functional teams to gather and analyze requirements, ensuring our solutions meet business needs and user expectationsManage data migration and storage solutions using DMS and S3Implement serverless services using AWS Lambda, leveraging both CDK and CloudFormationEnsure proper user authentication and authorization using CognitoEnsure the security of our APIs through rigorous testing and adherence to best practices in authorization and authenticationOptimize existing API architecture to improve performance and scalability, employing best practices in cloud-native developmentStay updated with the latest cloud technologies and recommend improvementsStay abreast of emerging technologies and trends in cloud computing and API development, recommending innovations that can enhance our systems and processesProvide technical guidance and mentorship to junior developers, fostering a culture of learning and growth within the teamDevelop and maintain responsive, user-friendly front-end interfaces using ReactJS, TypeScript, and Material-UI componentsCollaborate with UX/UI designers to implement consistent and visually appealing designs using MUI's theming capabilitiesOptimize MUI component usage for performance and reusability across the applicationCustomize and extend MUI components as needed to meet specific project requirementsEnsure proper integration of MUI components with the application's state management and API callsStay updated with the latest MUI releases and best practices, implementing improvements as appropriateMentor junior developers in effective use of MUI within the React ecosystemRequired Skills & ExperienceBachelor’s degree in Computer Science, Data Science, Engineering, or a related fieldStrong proficiency with .NET 6 and above framework, C# and PostgreSQLStrong proficiency in SQL and data modelation.Knowledge of some AWS technologies, especially lambda functions.Familiarity with MUI's styling solutions (e.g., styled-components, emotion)Strong communication skills with the ability to translate technical concepts to non-technical stakeholdersStrong proficiency in ReactJS and TypeScriptExperience optimizing performance of React applications using MUI componentsExtensive experience with Material-UI (MUI), including custom theming and component creationDemonstrable knowledge of responsive design principles and their implementation using MUIUnderstanding of accessibility standards and their application within MUI componentsNice to Have SkillsFamiliarity with CI/CD tools, especially GitHub ActionsFamiliarity in Python.Familiarity with CDK and CloudFormation AWS services.Understanding of security best practices in cloud environmentsWhy You Will Love Working with UsJoin a powerful tech workforce and help us change the world through technologyProfessional development opportunities with international customersCollaborative work environmentCareer path and mentorship programs that will lead to new levels.Join Lean Tech and contribute to shaping the data landscape within a dynamic and growing organization. Your skills will be honed, and your contributions will play a vital role in our continued success. Lean Tech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+
+Design and implement scalable, secure, and maintainable APIs using C# and AWS services, with a focus on AWS Lambda.Collaborate with front-end and back-end developers to ensure seamless integrationCollaborate with cross-functional teams to gather and analyze requirements, ensuring our solutions meet business needs and user expectationsManage data migration and storage solutions using DMS and S3Implement serverless services using AWS Lambda, leveraging both CDK and CloudFormationEnsure proper user authentication and authorization using CognitoEnsure the security of our APIs through rigorous testing and adherence to best practices in authorization and authenticationOptimize existing API architecture to improve performance and scalability, employing best practices in cloud-native developmentStay updated with the latest cloud technologies and recommend improvementsStay abreast of emerging technologies and trends in cloud computing and API development, recommending innovations that can enhance our systems and processesProvide technical guidance and mentorship to junior developers, fostering a culture of learning and growth within the teamDevelop and maintain responsive, user-friendly front-end interfaces using ReactJS, TypeScript, and Material-UI componentsCollaborate with UX/UI designers to implement consistent and visually appealing designs using MUI's theming capabilitiesOptimize MUI component usage for performance and reusability across the applicationCustomize and extend MUI components as needed to meet specific project requirementsEnsure proper integration of MUI components with the application's state management and API callsStay updated with the latest MUI releases and best practices, implementing improvements as appropriateMentor junior developers in effective use of MUI within the React ecosystem
+Design and implement scalable, secure, and maintainable APIs using C# and AWS services, with a focus on AWS Lambda.
+Design and implement scalable, secure, and maintainable APIs using C# and AWS services, with a focus on AWS Lambda.
+Collaborate with front-end and back-end developers to ensure seamless integration
+Collaborate with front-end and back-end developers to ensure seamless integration
+Collaborate with cross-functional teams to gather and analyze requirements, ensuring our solutions meet business needs and user expectations
+Collaborate with cross-functional teams to gather and analyze requirements, ensuring our solutions meet business needs and user expectations
+Manage data migration and storage solutions using DMS and S3
+Manage data migration and storage solutions using DMS and S3
+Implement serverless services using AWS Lambda, leveraging both CDK and CloudFormation
+Implement serverless services using AWS Lambda, leveraging both CDK and CloudFormation
+Ensure proper user authentication and authorization using Cognito
+Ensure proper user authentication and authorization using Cognito
+Ensure the security of our APIs through rigorous testing and adherence to best practices in authorization and authentication
+Ensure the security of our APIs through rigorous testing and adherence to best practices in authorization and authentication
+Optimize existing API architecture to improve performance and scalability, employing best practices in cloud-native development
+Optimize existing API architecture to improve performance and scalability, employing best practices in cloud-native development
+Stay updated with the latest cloud technologies and recommend improvements
+Stay updated with the latest cloud technologies and recommend improvements
+Stay abreast of emerging technologies and trends in cloud computing and API development, recommending innovations that can enhance our systems and processes
+Stay abreast of emerging technologies and trends in cloud computing and API development, recommending innovations that can enhance our systems and processes
+Provide technical guidance and mentorship to junior developers, fostering a culture of learning and growth within the team
+Provide technical guidance and mentorship to junior developers, fostering a culture of learning and growth within the team
+Develop and maintain responsive, user-friendly front-end interfaces using ReactJS, TypeScript, and Material-UI components
+Develop and maintain responsive, user-friendly front-end interfaces using ReactJS, TypeScript, and Material-UI components
+Collaborate with UX/UI designers to implement consistent and visually appealing designs using MUI's theming capabilities
+Collaborate with UX/UI designers to implement consistent and visually appealing designs using MUI's theming capabilities
+Optimize MUI component usage for performance and reusability across the application
+Optimize MUI component usage for performance and reusability across the application
+Customize and extend MUI components as needed to meet specific project requirements
+Customize and extend MUI components as needed to meet specific project requirements
+Ensure proper integration of MUI components with the application's state management and API calls
+Ensure proper integration of MUI components with the application's state management and API calls
+Stay updated with the latest MUI releases and best practices, implementing improvements as appropriate
+Stay updated with the latest MUI releases and best practices, implementing improvements as appropriate
+Mentor junior developers in effective use of MUI within the React ecosystem
+Mentor junior developers in effective use of MUI within the React ecosystem
+
+
+Bachelor’s degree in Computer Science, Data Science, Engineering, or a related fieldStrong proficiency with .NET 6 and above framework, C# and PostgreSQLStrong proficiency in SQL and data modelation.Knowledge of some AWS technologies, especially lambda functions.Familiarity with MUI's styling solutions (e.g., styled-components, emotion)Strong communication skills with the ability to translate technical concepts to non-technical stakeholdersStrong proficiency in ReactJS and TypeScriptExperience optimizing performance of React applications using MUI componentsExtensive experience with Material-UI (MUI), including custom theming and component creationDemonstrable knowledge of responsive design principles and their implementation using MUIUnderstanding of accessibility standards and their application within MUI components
+Bachelor’s degree in Computer Science, Data Science, Engineering, or a related field
+Bachelor’s degree in Computer Science, Data Science, Engineering, or a related field
+Strong proficiency with .NET 6 and above framework, C# and PostgreSQL
+Strong proficiency with .NET 6 and above framework, C# and PostgreSQL
+Strong proficiency in SQL and data modelation.
+Strong proficiency in SQL and data modelation.
+Knowledge of some AWS technologies, especially lambda functions.
+Knowledge of some AWS technologies, especially lambda functions.
+
+Familiarity with MUI's styling solutions (e.g., styled-components, emotion)
+Familiarity with MUI's styling solutions (e.g., styled-components, emotion)
+Strong communication skills with the ability to translate technical concepts to non-technical stakeholders
+Strong communication skills with the ability to translate technical concepts to non-technical stakeholders
+Strong proficiency in ReactJS and TypeScript
+Strong proficiency in ReactJS and TypeScript
+Experience optimizing performance of React applications using MUI components
+Experience optimizing performance of React applications using MUI components
+Extensive experience with Material-UI (MUI), including custom theming and component creation
+Extensive experience with Material-UI (MUI), including custom theming and component creation
+Demonstrable knowledge of responsive design principles and their implementation using MUI
+Demonstrable knowledge of responsive design principles and their implementation using MUI
+Understanding of accessibility standards and their application within MUI components
+Understanding of accessibility standards and their application within MUI components
+
+Familiarity with CI/CD tools, especially GitHub ActionsFamiliarity in Python.Familiarity with CDK and CloudFormation AWS services.Understanding of security best practices in cloud environments
+Familiarity with CI/CD tools, especially GitHub Actions
+Familiarity with CI/CD tools, especially GitHub Actions
+Familiarity in Python.
+Familiarity in Python.
+
+Familiarity with CDK and CloudFormation AWS services.
+Familiarity with CDK and CloudFormation AWS services.
+
+Understanding of security best practices in cloud environments
+Understanding of security best practices in cloud environments
+Join a powerful tech workforce and help us change the world through technologyProfessional development opportunities with international customersCollaborative work environmentCareer path and mentorship programs that will lead to new levels.
+Join a powerful tech workforce and help us change the world through technology
+Join a powerful tech workforce and help us change the world through technology
+Professional development opportunities with international customers
+Professional development opportunities with international customers
+Collaborative work environment
+Collaborative work environment
+Career path and mentorship programs that will lead to new levels.
+Career path and mentorship programs that will lead to new levels.
+

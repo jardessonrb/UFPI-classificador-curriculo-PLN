@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4062477237/?eBP=CwEAAAGS7keaYRqNRZ2Zzlsypv33388NDJ29DwjEjX_bc_fZmh243Ip7Z4NQJJYLM5wiC6wmMfvGF5vdI0Ldh_M6dKmgyU-CKv7nxdgj9-JdPUnDSxl43NviFo9mFXiJktIuXCNBFUUgVHbeN9mQ7Imy9B2nwQUCwwJCfI74UoxqGd9_AVD_Sp6Q8Y-DtET8di4RWevxzaPGWHVRjRfInyzTP-hqBSsb8R78vohT9mND5Lf-PfBNrVeb8srRcsuZ8PeIasZ6y8qscxhdSpj6kxy1VJulrqI5FVvqWF3J0HEPB_D0bfGQOfxE2lnuxOQRg4YXEa5zIfiwPujrIPp3RNqCM4JzM9Mo7gQ5T7YTf8RF6vTHHfQGML3Q3FykOUxRUnxBkG7Tpb689imDR0Te18C-gJUVuR1bReiEaqKnwTf16mH1WwU6JFmkkXJTxK8zIDm3PPMmmRqfYtEikN0xgAuPXseYsz97DMwfDDm36HJAAmcbA7g_9RmKLV_Trc4&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=eYDY6rRwy%2F8JRTwoTGrFbw%3D%3D&trk=flagship3_search_srp_jobs
+
+QA LEAD - VAGA AFIRMATIVA PARA MULHERES
+Sobre a vaga
+Somos o grupo educacional mais diversificado do país. Todos os dias, criamos futuros incríveis através da inovação. Colocamos a mão na massa para tirar as ideias do papel e colocá-las em prática. Enfrentamos desafios com resiliência e nos adaptamos às mudanças constantes.Por aqui, somos um time e não heróis, guiados pela vontade de fazer a diferença e conectados de um só jeito, o #JeitoCogna. Nossa relação é direta e respeitosa, e o sucesso dos nossos alunos e clientes é o nosso sucesso.Além disso, valorizamos a diversidade, porque sabemos que quanto mais diverso é o nosso repertório, mais abrangente e inclusivo seremos. Juntos impulsionamos as pessoas a construírem uma melhor versão de si! E aí, bora fazer parte da empresa líder absoluta do segmento educacional? Vem pra Cogna.Por que essa vaga é exclusiva paraMulheres?Aqui, acreditamos no respeito, na diversidade e na busca pela inclusão em todas suas frentes. Estamos comprometidos em promover a igualdade e representatividade de grupos sub-representados socialmente em todos os nossos espaços, de forma que o aumento de ações afirmativas fortaleça a construção de uma cultura mais inclusiva e que valoriza a importância da representatividade.Responsabilidades e atribuiçõesLiderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;Garantir a execução das etapas do processo definido pela área de Qualidade;Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;Monitorar, analisar e compartilhar os resultados dos testes;Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;Buscar a melhoria contínua dos processos;Gerir projetos e automatizar processos.Requisitos e qualificaçõesExperiência em planejamento, análise e execução de testes;Vivência em automação de testes frontend e backend;Habilidade de liderança técnica e destravamento de impedimentos;Experiência com a ferramenta Zephyr Scale;Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;Conhecimento de escrita de testes em BDD com Gherkin;Conhecimento em alguma linguagem de programação Java ou JavaScript;Conhecimento em alguma linguagem de script: Ruby ou Phyton;Conhecimento básico em metodologia ágil;Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;Boa comunicação para participar de reuniões técnicas com o cliente.Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.Informações adicionaisParticipação nos Lucros;Assistência Médica;Assistência Odontológica;Vale-Refeição;Seguro de Vida;Gympass;Bolsa graduação/pós-graduação;Day off de aniversário;Aqui você tem liberdade para ser como é!
+
+
+
+
+
+
+
+Mulheres?
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+Liderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;Garantir a execução das etapas do processo definido pela área de Qualidade;Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;Monitorar, analisar e compartilhar os resultados dos testes;Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;Buscar a melhoria contínua dos processos;Gerir projetos e automatizar processos.
+Liderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;
+Liderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;
+Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;
+Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;
+Garantir a execução das etapas do processo definido pela área de Qualidade;
+Garantir a execução das etapas do processo definido pela área de Qualidade;
+Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;
+Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;
+Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;
+Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;
+Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;
+Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;
+Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;
+Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;
+Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;
+Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;
+Monitorar, analisar e compartilhar os resultados dos testes;
+Monitorar, analisar e compartilhar os resultados dos testes;
+Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;
+Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;
+Buscar a melhoria contínua dos processos;
+Buscar a melhoria contínua dos processos;
+Gerir projetos e automatizar processos.
+Gerir projetos e automatizar processos.
+
+
+
+Requisitos e qualificações
+
+
+Experiência em planejamento, análise e execução de testes;Vivência em automação de testes frontend e backend;Habilidade de liderança técnica e destravamento de impedimentos;Experiência com a ferramenta Zephyr Scale;Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;Conhecimento de escrita de testes em BDD com Gherkin;Conhecimento em alguma linguagem de programação Java ou JavaScript;Conhecimento em alguma linguagem de script: Ruby ou Phyton;Conhecimento básico em metodologia ágil;Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;Boa comunicação para participar de reuniões técnicas com o cliente.Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.
+Experiência em planejamento, análise e execução de testes;
+Experiência em planejamento, análise e execução de testes;
+Vivência em automação de testes frontend e backend;
+Vivência em automação de testes frontend e backend;
+Habilidade de liderança técnica e destravamento de impedimentos;
+Habilidade de liderança técnica e destravamento de impedimentos;
+Experiência com a ferramenta Zephyr Scale;
+Experiência com a ferramenta Zephyr Scale;
+Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;
+Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;
+Conhecimento de escrita de testes em BDD com Gherkin;
+Conhecimento de escrita de testes em BDD com Gherkin;
+Conhecimento em alguma linguagem de programação Java ou JavaScript;
+Conhecimento em alguma linguagem de programação Java ou JavaScript;
+Conhecimento em alguma linguagem de script: Ruby ou Phyton;
+Conhecimento em alguma linguagem de script: Ruby ou Phyton;
+Conhecimento básico em metodologia ágil;
+Conhecimento básico em metodologia ágil;
+Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;
+Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;
+Boa comunicação para participar de reuniões técnicas com o cliente.
+Boa comunicação para participar de reuniões técnicas com o cliente.
+Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.
+Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.
+
+
+
+Informações adicionais
+
+
+Participação nos Lucros;Assistência Médica;Assistência Odontológica;Vale-Refeição;Seguro de Vida;Gympass;Bolsa graduação/pós-graduação;Day off de aniversário;Aqui você tem liberdade para ser como é!
+Participação nos Lucros;
+Participação nos Lucros;
+Assistência Médica;
+Assistência Médica;
+Assistência Odontológica;
+Assistência Odontológica;
+Vale-Refeição;
+Vale-Refeição;
+Seguro de Vida;
+Seguro de Vida;
+Gympass;
+Gympass;
+Bolsa graduação/pós-graduação;
+Bolsa graduação/pós-graduação;
+Day off de aniversário;
+Day off de aniversário;
+Aqui você tem liberdade para ser como é!
+Aqui você tem liberdade para ser como é!

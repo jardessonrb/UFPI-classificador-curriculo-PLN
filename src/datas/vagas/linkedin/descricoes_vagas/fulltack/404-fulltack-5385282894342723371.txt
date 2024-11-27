@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4066542569/?eBP=CwEAAAGS7hF3dyRxH1ebA_FUxnQEJSLhLXHKMOVo2kQKlm4E5y11Q1e3fuQjLPUer0MsBkyR8HcKVOJfv-PjrNq1YjkWXtXjmh0GMTecB27fdFWeQszshovMlmSzjBcKHftpbCGKSfTQK0GOWT8G6vYA_2LZSIRHPcU2Yjm7rDm_gn6VQX92J5jsjeKbLftXZxV1hZan0bhzS2joNuDMy7aJy-TvDMpCKMndeprPfYu4z2LvUOmKKMuJk_jlOe_irEVdZayfOsYZXH5KZLjw_khWG0YnTktfz9VfbgAzB_EouduEvfNkPTyq8T3Z8A-Rm3IQpMS6hL9LQWRNEbPN1qkbcaN7gY1C9UjyMuPYDufO0W48WYSGnWjxAj4HukMnWQO5FlX6fv2uC-r98JOsv1AiAo1TCELfBOJiczgk8WckzOkZo_qZC31SbtDTfFEsecWOQZRJ2xERcJaV4HlHL7w59uLh7sNTtQ4bE4Gi5p9himxsfpnyeYnm9Qi7s2buzadq_IJ7sfKk3748&refId=5p4inUGFGEEbdVq3zeaeSQ%3D%3D&trackingId=Sbipe39yRHz1IL36CK4GQw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Desenvolvimento de Software Sênior - FullStack
+Sobre a vaga
+Company DescriptionSomos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.Venha descobrir um mundo inesperado com a gente.Job DescriptionEstamos à procura de uma pessoa Analista de Desenvolvimento de Software Sênior, com experiência em desenvolvimento em ReactJS, Typescript e Node.js para se juntar à nossa equipe. Buscamos ampla experiência em desenvolvimento front-end utilizando as bibliotecas TypeScript e ReactJS e experiência em desenvolvimento back-end utilizando Node.js.Quais serão suas principais entregas?Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Node.js. Será um diferencial o candidato ter experiência profissional com AdonisJS, NestJS, Python e Django;Desenvolver e manter interfaces de usuário dinâmicas e responsivas usando TypeScript e ReactJS. Será um diferencial o candidato ter experiência profissional com Angular;Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;Trabalhar em estreita colaboração com designers de UX/UI e outros membros da equipe para criar experiências de usuário perfeitas;Implementar testes automatizados (por exemplo, Jest e Pytest) e realizar depuração para garantir a funcionalidade e estabilidade das aplicações;Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;Manter-se atualizado com as últimas tendências e tecnologias do setor;Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.QualificationsO que estamos buscando em você!Experiência profissional sólida em desenvolvimento com Typescript, React, Node.js;Diferencial experiência em desenvolvimento com AdonisJS, Python, Django e Angular;Experiência com sistemas de banco de dados como MongoDB e PostgreSQL;Forte compreensão de programação assíncrona e arquitetura orientada a eventos;Familiaridade com ferramentas de containerização e orquestração (por exemplo, Docker, Kubernetes);Conhecimento de sistemas de controle de versão (por exemplo, Git);Habilidade em resolver problemas complexos;Familiaridade com serviços em nuvem AWS;Boa comunicação e trabalho em equipe;Compreensão de pipelines de CI/CD (Jenkins, Codepipeline) e práticas DevOps;Experiência em cultura ágil;Inglês técnico.Additional InformationO que te oferecemos como diferencial!Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!Experian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+
+
+
+
+Job Description
+
+
+
+
+Quais serão suas principais entregas?
+
+
+
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Node.js. Será um diferencial o candidato ter experiência profissional com AdonisJS, NestJS, Python e Django;Desenvolver e manter interfaces de usuário dinâmicas e responsivas usando TypeScript e ReactJS. Será um diferencial o candidato ter experiência profissional com Angular;Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;Trabalhar em estreita colaboração com designers de UX/UI e outros membros da equipe para criar experiências de usuário perfeitas;Implementar testes automatizados (por exemplo, Jest e Pytest) e realizar depuração para garantir a funcionalidade e estabilidade das aplicações;Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;Manter-se atualizado com as últimas tendências e tecnologias do setor;Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Node.js. Será um diferencial o candidato ter experiência profissional com AdonisJS, NestJS, Python e Django;
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Node.js. Será um diferencial o candidato ter experiência profissional com AdonisJS, NestJS, Python e Django;
+Desenvolver e manter interfaces de usuário dinâmicas e responsivas usando TypeScript e ReactJS. Será um diferencial o candidato ter experiência profissional com Angular;
+Desenvolver e manter interfaces de usuário dinâmicas e responsivas usando TypeScript e ReactJS. Será um diferencial o candidato ter experiência profissional com Angular;
+Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;
+Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;
+Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;
+Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;
+Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;
+Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;
+Trabalhar em estreita colaboração com designers de UX/UI e outros membros da equipe para criar experiências de usuário perfeitas;
+Trabalhar em estreita colaboração com designers de UX/UI e outros membros da equipe para criar experiências de usuário perfeitas;
+Implementar testes automatizados (por exemplo, Jest e Pytest) e realizar depuração para garantir a funcionalidade e estabilidade das aplicações;
+Implementar testes automatizados (por exemplo, Jest e Pytest) e realizar depuração para garantir a funcionalidade e estabilidade das aplicações;
+Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;
+Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;
+Manter-se atualizado com as últimas tendências e tecnologias do setor;
+Manter-se atualizado com as últimas tendências e tecnologias do setor;
+Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+
+
+Qualifications
+
+
+O que estamos buscando em você!
+
+
+Experiência profissional sólida em desenvolvimento com Typescript, React, Node.js;Diferencial experiência em desenvolvimento com AdonisJS, Python, Django e Angular;Experiência com sistemas de banco de dados como MongoDB e PostgreSQL;Forte compreensão de programação assíncrona e arquitetura orientada a eventos;Familiaridade com ferramentas de containerização e orquestração (por exemplo, Docker, Kubernetes);Conhecimento de sistemas de controle de versão (por exemplo, Git);Habilidade em resolver problemas complexos;Familiaridade com serviços em nuvem AWS;Boa comunicação e trabalho em equipe;Compreensão de pipelines de CI/CD (Jenkins, Codepipeline) e práticas DevOps;Experiência em cultura ágil;Inglês técnico.
+Experiência profissional sólida em desenvolvimento com Typescript, React, Node.js;
+Experiência profissional sólida em desenvolvimento com Typescript, React, Node.js;
+Diferencial experiência em desenvolvimento com AdonisJS, Python, Django e Angular;
+Diferencial experiência em desenvolvimento com AdonisJS, Python, Django e Angular;
+Experiência com sistemas de banco de dados como MongoDB e PostgreSQL;
+Experiência com sistemas de banco de dados como MongoDB e PostgreSQL;
+Forte compreensão de programação assíncrona e arquitetura orientada a eventos;
+Forte compreensão de programação assíncrona e arquitetura orientada a eventos;
+Familiaridade com ferramentas de containerização e orquestração (por exemplo, Docker, Kubernetes);
+Familiaridade com ferramentas de containerização e orquestração (por exemplo, Docker, Kubernetes);
+Conhecimento de sistemas de controle de versão (por exemplo, Git);
+Conhecimento de sistemas de controle de versão (por exemplo, Git);
+Habilidade em resolver problemas complexos;
+Habilidade em resolver problemas complexos;
+Familiaridade com serviços em nuvem AWS;
+Familiaridade com serviços em nuvem AWS;
+Boa comunicação e trabalho em equipe;
+Boa comunicação e trabalho em equipe;
+Compreensão de pipelines de CI/CD (Jenkins, Codepipeline) e práticas DevOps;
+Compreensão de pipelines de CI/CD (Jenkins, Codepipeline) e práticas DevOps;
+Experiência em cultura ágil;
+Experiência em cultura ágil;
+Inglês técnico.
+Inglês técnico.
+
+
+Additional Information
+
+
+O que te oferecemos como diferencial!
+
+
+Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Ambiente em plena transformação;
+Ambiente em plena transformação;
+
+Atuação global.
+Atuação global.
+
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+
+
+
+
+

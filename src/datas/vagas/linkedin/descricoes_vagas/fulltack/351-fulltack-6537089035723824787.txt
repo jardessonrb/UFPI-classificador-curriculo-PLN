@@ -1,0 +1,116 @@
+link-https://www.linkedin.com/jobs/view/4047864251/?eBP=CwEAAAGS7hBUB3doKx8DmCTNId027jGge3-LJkEyNeNomnx-w4ekN-PMkEMcKnWRZ0s3yFYOAkrEQycvTr7efKvHvPferzUNvgpFMZL57z2ZzB9RkG1thUEbWTkzg4hrBhzM2O1dCNnH5IzLPPN3h1EyAdQbigAMnUnf1x__A68UUsJLBszLbD6rDQNga2L274mf9CTrD5F_AhIvA1l3NsWKnCi6YHRq_7LuI-blS3-uC9Vq0NJO9Z59P5btKZcptzc-mJcR4rN29ui3lgOgqDQmcLjaLPUT4VNBNpfqS1MTIt-pCAsMWPFThVy7_UJcJHYbpLhw5l_ZS3lKaqwNTsggLjZE1AAw7LvEIotDDeiOay5BfjVCWcaGiJSb51iKtl8gtImD4BanHmh1wj7mubKhU1lPrOIW_hdGPKlJjw_WQhbG50F8lH8smwBKVrAS60MpxsHYBzBn0x5pmSiDCZ0IfaSXOUNLMJ_iClTjxiox_rHMO2h_L92MIj-GQlHKoQCJB4XkrP9KMw&refId=X81o41oDRu51%2BMj0ewR3zA%3D%3D&trackingId=R5LdOf4F8tLrBEBqC3pw3A%3D%3D&trk=flagship3_search_srp_jobs
+
+Java Full Stack Developer (Angular)
+Sobre a vaga
+We are seeking a talentedJava Full Stack Developerto join our dynamic team.The ideal candidate will be proficient in Java, capable of learning new technologies swiftly, and committed to delivering high-quality, production-ready code. You will be responsible for full-cycle application development and collaborate closely with clients to integrate systems in an Agile environment.ResponsibilitiesDevelop applications from inception to completion in an Agile settingInterface with clients to understand and refine requirementsIntegrate client systems and applications seamlesslyMigrate existing systems effectivelyWrite well-structured, maintainable codeConduct thorough code reviews for team membersEnsure optimal application performance and stabilityRequirementsBachelor’s degree in Computer Science, Computer Engineering, or related fieldCompetency in Java with at least 2 years of experienceSkills in JavaScript, and Angular JSProficiency in Google App Engine, Google Cloud PlatformUnderstanding of data structures, algorithmsExpertise in OOP, design patternsFamiliarity with unit testing and popular testing/mocking frameworksDemonstrated ability to achieve 80%++ in unit test coverageSolid communication skills in English and experience in client interactionsUnderstanding of the Software Development Life Cycle (SDLC)Capability to work independently in an agile environmentNice to haveBackground in C++ for backend developmentKnowledge of Java internals such as garbage collection, JIT compilation, memory managementProficiency in SQLExperience with Google development environment: Piper, critique, borg, boq, ciderWe offerInternational projects with top brandsSupport from a personal Skill AdvisorFree licensed softwareRelocation and mobility programsAward-winning culture recognized by Glassdoor, Newsweek and LinkedInFlexible and hybrid work opportunitiesAccess to soft skills training in general communication, presenting and public speaking, diversity, equity and inclusion (DEI), cultural Intelligence, self-productivity, well-being and more.Unlimited access to the LinkedIn Learning Library, including 22,000+ coursesOver 20 language coursesAccess to internal learning platforms, EPAM University and a wide range of professional communities and competency centersUpskilling, reskilling and certification courses
+
+Java Full Stack Developer
+
+
+
+
+
+Responsibilities
+
+
+
+Develop applications from inception to completion in an Agile settingInterface with clients to understand and refine requirementsIntegrate client systems and applications seamlesslyMigrate existing systems effectivelyWrite well-structured, maintainable codeConduct thorough code reviews for team membersEnsure optimal application performance and stability
+Develop applications from inception to completion in an Agile setting
+Develop applications from inception to completion in an Agile setting
+Interface with clients to understand and refine requirements
+Interface with clients to understand and refine requirements
+Integrate client systems and applications seamlessly
+Integrate client systems and applications seamlessly
+Migrate existing systems effectively
+Migrate existing systems effectively
+Write well-structured, maintainable code
+Write well-structured, maintainable code
+Conduct thorough code reviews for team members
+Conduct thorough code reviews for team members
+Ensure optimal application performance and stability
+Ensure optimal application performance and stability
+
+
+
+Requirements
+
+
+
+Bachelor’s degree in Computer Science, Computer Engineering, or related fieldCompetency in Java with at least 2 years of experienceSkills in JavaScript, and Angular JSProficiency in Google App Engine, Google Cloud PlatformUnderstanding of data structures, algorithmsExpertise in OOP, design patternsFamiliarity with unit testing and popular testing/mocking frameworksDemonstrated ability to achieve 80%++ in unit test coverageSolid communication skills in English and experience in client interactionsUnderstanding of the Software Development Life Cycle (SDLC)Capability to work independently in an agile environment
+Bachelor’s degree in Computer Science, Computer Engineering, or related field
+Bachelor’s degree in Computer Science, Computer Engineering, or related field
+Competency in Java with at least 2 years of experience
+Competency in Java with at least 2 years of experience
+Skills in JavaScript, and Angular JS
+Skills in JavaScript, and Angular JS
+Proficiency in Google App Engine, Google Cloud Platform
+Proficiency in Google App Engine, Google Cloud Platform
+Understanding of data structures, algorithms
+Understanding of data structures, algorithms
+Expertise in OOP, design patterns
+Expertise in OOP, design patterns
+Familiarity with unit testing and popular testing/mocking frameworks
+Familiarity with unit testing and popular testing/mocking frameworks
+Demonstrated ability to achieve 80%++ in unit test coverage
+Demonstrated ability to achieve 80%++ in unit test coverage
+Solid communication skills in English and experience in client interactions
+Solid communication skills in English and experience in client interactions
+Understanding of the Software Development Life Cycle (SDLC)
+Understanding of the Software Development Life Cycle (SDLC)
+Capability to work independently in an agile environment
+Capability to work independently in an agile environment
+
+
+
+Nice to have
+
+
+
+Background in C++ for backend developmentKnowledge of Java internals such as garbage collection, JIT compilation, memory managementProficiency in SQLExperience with Google development environment: Piper, critique, borg, boq, cider
+Background in C++ for backend development
+Background in C++ for backend development
+Knowledge of Java internals such as garbage collection, JIT compilation, memory management
+Knowledge of Java internals such as garbage collection, JIT compilation, memory management
+Proficiency in SQL
+Proficiency in SQL
+Experience with Google development environment: Piper, critique, borg, boq, cider
+Experience with Google development environment: Piper, critique, borg, boq, cider
+
+
+
+We offer
+
+
+
+International projects with top brandsSupport from a personal Skill AdvisorFree licensed softwareRelocation and mobility programsAward-winning culture recognized by Glassdoor, Newsweek and LinkedInFlexible and hybrid work opportunitiesAccess to soft skills training in general communication, presenting and public speaking, diversity, equity and inclusion (DEI), cultural Intelligence, self-productivity, well-being and more.Unlimited access to the LinkedIn Learning Library, including 22,000+ coursesOver 20 language coursesAccess to internal learning platforms, EPAM University and a wide range of professional communities and competency centersUpskilling, reskilling and certification courses
+International projects with top brands
+International projects with top brands
+Support from a personal Skill Advisor
+Support from a personal Skill Advisor
+Free licensed software
+Free licensed software
+Relocation and mobility programs
+Relocation and mobility programs
+
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+
+Flexible and hybrid work opportunities
+Flexible and hybrid work opportunities
+Access to soft skills training in general communication, presenting and public speaking, diversity, equity and inclusion (DEI), cultural Intelligence, self-productivity, well-being and more.
+Access to soft skills training in general communication, presenting and public speaking, diversity, equity and inclusion (DEI), cultural Intelligence, self-productivity, well-being and more.
+
+Unlimited access to the LinkedIn Learning Library, including 22,000+ courses
+Unlimited access to the LinkedIn Learning Library, including 22,000+ courses
+
+Over 20 language courses
+Over 20 language courses
+
+Access to internal learning platforms, EPAM University and a wide range of professional communities and competency centers
+Access to internal learning platforms, EPAM University and a wide range of professional communities and competency centers
+
+Upskilling, reskilling and certification courses
+Upskilling, reskilling and certification courses
+
+
+

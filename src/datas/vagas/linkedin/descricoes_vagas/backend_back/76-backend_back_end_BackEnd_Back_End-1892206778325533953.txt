@@ -1,0 +1,157 @@
+link-https://www.linkedin.com/jobs/view/4051857230/?eBP=CwEAAAGS7lDBso5jPYWLpTIF-n_gQMeRKQv89xLbj61SMoE8YxXMJmU53tglOeGo_TTkkFKeSRiEGkCHXqNb87UC-Y90uSiGQctBb1yjrneDUeMqW5piThfbU8AUR25FLjVayaNY3BPYSgNVqmG6SZLP9Qsf5ZYFZgwd3cGVLQHx_qfbLrkSRfopMKotL0vkJhEK0jVcsUhSTotkOL45tMJ7BH7qj1geeac4iXv0i-wIk0YwZ1z7_dJ1CKocqYpQyxE4FDy4xyqrdg0OiK-W9uXOlzWN5eBwHTnuUdQ_gEob3bgfLHLZP-_bcQtvuNgomNw3VwgaIUqCO7mxpusTqkPhMOFM4qXIt4RP0HX4Qhlk961O_qXH9-uSy7i3Mg7VBKwdy8gDIb8np0ra4RhzOxGTeSFKrZ4OSrtcf3QWnphCtgP5j09QtIoaCV6qVhEVRA-jx-JJmmSkDwkD_JJfTCyLIldGxcpt0-GLlFLLYlcFu8Ud0qDic-jJcTBiIQj0N3YDmIO6&refId=C4CHndie%2BebrXgMGiFXALQ%3D%3D&trackingId=89FChi%2FGgkjsNtYZSCNw6w%3D%3D&trk=flagship3_search_srp_jobs
+
+Banco de Talentos - Backend Software Developer - Pleno e Sênior
+Sobre a vaga
+Sua carreira com liberdade e propósito 🌏NaRemessaOnline, não se trata apenas de enviar dinheiro pelo mundo. Aqui, construímos conexões que transcendem fronteiras. Somos os #DreamMakers, realizando os sonhos tanto dos clientes quanto dos nossos.Nosso segredo diário é a colaboração. Com um toque de ousadia, assumimos responsabilidades como verdadeiros donos, mantendo um respeito incrível entre nós. Isso cria um ambiente de transparência e comprometimento que garante o sucesso de cada projeto.Estamos revolucionando o cenário financeiro global e você pode fazer parte dessa jornada conosco! 😉Como vai ser o seu dia a diaAtuação com um time que preza muito por conhecimento e está sempre buscando inovação.Todos do time de engenharia participam ativamente de cerimônias ágeis e na arquitetura de soluções.Respiramos regras de negócio e somos apaixonados pelo nosso business, e usamos toda essa vontade para entregar, estruturar e modelar nossos serviços.Nos preocupamos com a coerência e coesão de nossos requisitos funcionais e não-funcionais durante todo o ciclo de desenvolvimento, usando Spikes e Slack time para garantir a qualidade e inovação de nossas entregas.Buscamos sempre criar documentação técnica e promovemos melhorias contínuas no nosso codebase, buscamos, também, novas ideias e soluções fora da caixa mesmo que para problemas simples.Entender e promover a adoção de padrões de engenharia e participar de melhorias em processos (desenvolvimento, qualidade, agilidade e infraestrutura) dentro do time.Somos uma empresa em constante melhoria e damos completa autonomia para os times não ficarem presos.E o que você precisa ter 💼Git ou um outro controle de versão;Programação Orientada a Objetos;Design Patterns;Testes automatizados;Agilidade (Scrum, Kanban, XP);Banco de dados relacionais;Design e documentação de APIs;Domain Driven Design;E o que seria legal se você tivesse 👍Vivência com NodeJS e JavaScript/ TypeScript;Familiaridade com cultura DevOps/ CI e CD, Kubernetes e Cloud (AWS ou GCP);Banco de dados não relacionais;Programação funcional;Arquitetura em camadas e/ou hexagonal;Programação concorrente;Serviços distribuídos;Mensageria (pub/sub, queue, stream).O que oferecemos 💙Modalidade de contratação CLT;Bônus: Recebimento de bônus atrelado ao cumprimento de metas organizacionais;Assistência Médica e Odontológica: Cobertura para você e seus dependentes (filhos e cônjuge) pela SulAmérica;Vale Refeição e Alimentação: Créditos flexíveis no cartão Caju, podendo ser usados como VR ou VA;Auxílio Home Office: Suporte para despesas de trabalho remoto e equipamentos periféricos;Auxílio Creche: Para mães e pais;Licenças Estendidas: Maternidade e paternidade;Auxílio Dependentes: Para dependentes com necessidades especiais;Seguro de Vida: Cobertura para você;Descontos: Em produtos da Remessa Online;Programas de Bem-Estar e Saúde: Consultas online com nutricionistas e psicólogos (parcerias com Conexa Saúde e Psicologia Viva);Programa de Apoio ao Empregado (EAP): Suporte em momentos de necessidade;Day Off de Aniversário: Folga no seu dia especial.Para desenvolver sua carreira 🚀Oferecemos oportunidades de desenvolvimento por meio de programas personalizados e acesso à plataforma Udemy. Nossos programas são projetados para aprimorar continuamente suas habilidades técnicas e comportamentais. Além disso, o Ciclo de Desenvolvimento proporciona desafios progressivos que impulsionam sua carreira.Atuação Remoto📍Para este cargo, você pode trabalhar de casa ou de onde quiser. Mas se você preferir um escritório físico, estamos localizados em São Paulo. Flexibilidade é o nosso lema! 🌍Descubra mais sobre a Remessa Online 🌍Para saber mais sobre a Remessa Online, visite nossositee siga-nos noLinkedIn. Além disso, confira as opiniões de nossos colaboradores sobre o ambiente de trabalho noGlassdoor.Venha ser #DreamMaker e junte-se ao time que está transformando sonhos globais, de pessoas e empresas, em realidade! 💙
+Sua carreira com liberdade e propósito 🌏
+Sua carreira com liberdade e propósito 🌏
+Sua carreira com liberdade e propósito 🌏
+
+
+
+NaRemessaOnline, não se trata apenas de enviar dinheiro pelo mundo. Aqui, construímos conexões que transcendem fronteiras. Somos os #DreamMakers, realizando os sonhos tanto dos clientes quanto dos nossos.
+NaRemessaOnline, não se trata apenas de enviar dinheiro pelo mundo. Aqui, construímos conexões que transcendem fronteiras. Somos os #DreamMakers, realizando os sonhos tanto dos clientes quanto dos nossos.
+
+Remessa
+
+Nosso segredo diário é a colaboração. Com um toque de ousadia, assumimos responsabilidades como verdadeiros donos, mantendo um respeito incrível entre nós. Isso cria um ambiente de transparência e comprometimento que garante o sucesso de cada projeto.
+Nosso segredo diário é a colaboração. Com um toque de ousadia, assumimos responsabilidades como verdadeiros donos, mantendo um respeito incrível entre nós. Isso cria um ambiente de transparência e comprometimento que garante o sucesso de cada projeto.
+Estamos revolucionando o cenário financeiro global e você pode fazer parte dessa jornada conosco! 😉
+Estamos revolucionando o cenário financeiro global e você pode fazer parte dessa jornada conosco! 😉
+
+
+
+Como vai ser o seu dia a dia
+Como vai ser o seu dia a dia
+Como vai ser o seu dia a dia
+Atuação com um time que preza muito por conhecimento e está sempre buscando inovação.Todos do time de engenharia participam ativamente de cerimônias ágeis e na arquitetura de soluções.Respiramos regras de negócio e somos apaixonados pelo nosso business, e usamos toda essa vontade para entregar, estruturar e modelar nossos serviços.Nos preocupamos com a coerência e coesão de nossos requisitos funcionais e não-funcionais durante todo o ciclo de desenvolvimento, usando Spikes e Slack time para garantir a qualidade e inovação de nossas entregas.Buscamos sempre criar documentação técnica e promovemos melhorias contínuas no nosso codebase, buscamos, também, novas ideias e soluções fora da caixa mesmo que para problemas simples.Entender e promover a adoção de padrões de engenharia e participar de melhorias em processos (desenvolvimento, qualidade, agilidade e infraestrutura) dentro do time.Somos uma empresa em constante melhoria e damos completa autonomia para os times não ficarem presos.
+Atuação com um time que preza muito por conhecimento e está sempre buscando inovação.
+Atuação com um time que preza muito por conhecimento e está sempre buscando inovação.
+Todos do time de engenharia participam ativamente de cerimônias ágeis e na arquitetura de soluções.
+Todos do time de engenharia participam ativamente de cerimônias ágeis e na arquitetura de soluções.
+Respiramos regras de negócio e somos apaixonados pelo nosso business, e usamos toda essa vontade para entregar, estruturar e modelar nossos serviços.
+Respiramos regras de negócio e somos apaixonados pelo nosso business, e usamos toda essa vontade para entregar, estruturar e modelar nossos serviços.
+Nos preocupamos com a coerência e coesão de nossos requisitos funcionais e não-funcionais durante todo o ciclo de desenvolvimento, usando Spikes e Slack time para garantir a qualidade e inovação de nossas entregas.
+Nos preocupamos com a coerência e coesão de nossos requisitos funcionais e não-funcionais durante todo o ciclo de desenvolvimento, usando Spikes e Slack time para garantir a qualidade e inovação de nossas entregas.
+Buscamos sempre criar documentação técnica e promovemos melhorias contínuas no nosso codebase, buscamos, também, novas ideias e soluções fora da caixa mesmo que para problemas simples.
+Buscamos sempre criar documentação técnica e promovemos melhorias contínuas no nosso codebase, buscamos, também, novas ideias e soluções fora da caixa mesmo que para problemas simples.
+Entender e promover a adoção de padrões de engenharia e participar de melhorias em processos (desenvolvimento, qualidade, agilidade e infraestrutura) dentro do time.
+Entender e promover a adoção de padrões de engenharia e participar de melhorias em processos (desenvolvimento, qualidade, agilidade e infraestrutura) dentro do time.
+Somos uma empresa em constante melhoria e damos completa autonomia para os times não ficarem presos.
+Somos uma empresa em constante melhoria e damos completa autonomia para os times não ficarem presos.
+
+
+
+E o que você precisa ter 💼
+E o que você precisa ter 💼
+E o que você precisa ter 💼
+Git ou um outro controle de versão;Programação Orientada a Objetos;Design Patterns;Testes automatizados;Agilidade (Scrum, Kanban, XP);Banco de dados relacionais;Design e documentação de APIs;Domain Driven Design;
+Git ou um outro controle de versão;
+Git ou um outro controle de versão;
+Programação Orientada a Objetos;
+Programação Orientada a Objetos;
+Design Patterns;
+Design Patterns;
+Testes automatizados;
+Testes automatizados;
+Agilidade (Scrum, Kanban, XP);
+Agilidade (Scrum, Kanban, XP);
+Banco de dados relacionais;
+Banco de dados relacionais;
+Design e documentação de APIs;
+Design e documentação de APIs;
+Domain Driven Design;
+Domain Driven Design;
+
+
+
+E o que seria legal se você tivesse 👍
+E o que seria legal se você tivesse 👍
+E o que seria legal se você tivesse 👍
+Vivência com NodeJS e JavaScript/ TypeScript;Familiaridade com cultura DevOps/ CI e CD, Kubernetes e Cloud (AWS ou GCP);Banco de dados não relacionais;Programação funcional;Arquitetura em camadas e/ou hexagonal;Programação concorrente;Serviços distribuídos;Mensageria (pub/sub, queue, stream).
+Vivência com NodeJS e JavaScript/ TypeScript;
+Vivência com NodeJS e JavaScript/ TypeScript;
+Familiaridade com cultura DevOps/ CI e CD, Kubernetes e Cloud (AWS ou GCP);
+Familiaridade com cultura DevOps/ CI e CD, Kubernetes e Cloud (AWS ou GCP);
+Banco de dados não relacionais;
+Banco de dados não relacionais;
+Programação funcional;
+Programação funcional;
+Arquitetura em camadas e/ou hexagonal;
+Arquitetura em camadas e/ou hexagonal;
+Programação concorrente;
+Programação concorrente;
+Serviços distribuídos;
+Serviços distribuídos;
+Mensageria (pub/sub, queue, stream).
+Mensageria (pub/sub, queue, stream).
+
+
+
+O que oferecemos 💙
+O que oferecemos 💙
+O que oferecemos 💙
+Modalidade de contratação CLT;Bônus: Recebimento de bônus atrelado ao cumprimento de metas organizacionais;Assistência Médica e Odontológica: Cobertura para você e seus dependentes (filhos e cônjuge) pela SulAmérica;Vale Refeição e Alimentação: Créditos flexíveis no cartão Caju, podendo ser usados como VR ou VA;Auxílio Home Office: Suporte para despesas de trabalho remoto e equipamentos periféricos;Auxílio Creche: Para mães e pais;Licenças Estendidas: Maternidade e paternidade;Auxílio Dependentes: Para dependentes com necessidades especiais;Seguro de Vida: Cobertura para você;Descontos: Em produtos da Remessa Online;Programas de Bem-Estar e Saúde: Consultas online com nutricionistas e psicólogos (parcerias com Conexa Saúde e Psicologia Viva);Programa de Apoio ao Empregado (EAP): Suporte em momentos de necessidade;Day Off de Aniversário: Folga no seu dia especial.
+Modalidade de contratação CLT;
+Modalidade de contratação CLT;
+Bônus: Recebimento de bônus atrelado ao cumprimento de metas organizacionais;
+Bônus: Recebimento de bônus atrelado ao cumprimento de metas organizacionais;
+Assistência Médica e Odontológica: Cobertura para você e seus dependentes (filhos e cônjuge) pela SulAmérica;
+Assistência Médica e Odontológica: Cobertura para você e seus dependentes (filhos e cônjuge) pela SulAmérica;
+Vale Refeição e Alimentação: Créditos flexíveis no cartão Caju, podendo ser usados como VR ou VA;
+Vale Refeição e Alimentação: Créditos flexíveis no cartão Caju, podendo ser usados como VR ou VA;
+Auxílio Home Office: Suporte para despesas de trabalho remoto e equipamentos periféricos;
+Auxílio Home Office: Suporte para despesas de trabalho remoto e equipamentos periféricos;
+Auxílio Creche: Para mães e pais;
+Auxílio Creche: Para mães e pais;
+Licenças Estendidas: Maternidade e paternidade;
+Licenças Estendidas: Maternidade e paternidade;
+Auxílio Dependentes: Para dependentes com necessidades especiais;
+Auxílio Dependentes: Para dependentes com necessidades especiais;
+Seguro de Vida: Cobertura para você;
+Seguro de Vida: Cobertura para você;
+Descontos: Em produtos da Remessa Online;
+Descontos: Em produtos da Remessa Online;
+Programas de Bem-Estar e Saúde: Consultas online com nutricionistas e psicólogos (parcerias com Conexa Saúde e Psicologia Viva);
+Programas de Bem-Estar e Saúde: Consultas online com nutricionistas e psicólogos (parcerias com Conexa Saúde e Psicologia Viva);
+Programa de Apoio ao Empregado (EAP): Suporte em momentos de necessidade;
+Programa de Apoio ao Empregado (EAP): Suporte em momentos de necessidade;
+Day Off de Aniversário: Folga no seu dia especial.
+Day Off de Aniversário: Folga no seu dia especial.
+
+
+
+
+
+
+Para desenvolver sua carreira 🚀
+Para desenvolver sua carreira 🚀
+Para desenvolver sua carreira 🚀
+Oferecemos oportunidades de desenvolvimento por meio de programas personalizados e acesso à plataforma Udemy. Nossos programas são projetados para aprimorar continuamente suas habilidades técnicas e comportamentais. Além disso, o Ciclo de Desenvolvimento proporciona desafios progressivos que impulsionam sua carreira.
+Oferecemos oportunidades de desenvolvimento por meio de programas personalizados e acesso à plataforma Udemy. Nossos programas são projetados para aprimorar continuamente suas habilidades técnicas e comportamentais. Além disso, o Ciclo de Desenvolvimento proporciona desafios progressivos que impulsionam sua carreira.
+
+
+
+Atuação Remoto📍
+Atuação Remoto📍
+Atuação Remoto📍
+Para este cargo, você pode trabalhar de casa ou de onde quiser. Mas se você preferir um escritório físico, estamos localizados em São Paulo. Flexibilidade é o nosso lema! 🌍
+Para este cargo, você pode trabalhar de casa ou de onde quiser. Mas se você preferir um escritório físico, estamos localizados em São Paulo. Flexibilidade é o nosso lema! 🌍
+
+
+
+Descubra mais sobre a Remessa Online 🌍
+Descubra mais sobre a Remessa Online 🌍
+Descubra mais sobre a Remessa Online 🌍
+Para saber mais sobre a Remessa Online, visite nossositee siga-nos noLinkedIn. Além disso, confira as opiniões de nossos colaboradores sobre o ambiente de trabalho noGlassdoor.
+Para saber mais sobre a Remessa Online, visite nossositee siga-nos noLinkedIn. Além disso, confira as opiniões de nossos colaboradores sobre o ambiente de trabalho noGlassdoor.
+
+
+
+
+
+
+
+Venha ser #DreamMaker e junte-se ao time que está transformando sonhos globais, de pessoas e empresas, em realidade! 💙
+Venha ser #DreamMaker e junte-se ao time que está transformando sonhos globais, de pessoas e empresas, em realidade! 💙
+Venha ser #DreamMaker e junte-se ao time que está transformando sonhos globais, de pessoas e empresas, em realidade! 💙

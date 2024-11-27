@@ -1,0 +1,66 @@
+link-https://www.linkedin.com/jobs/view/4035183597/?eBP=CwEAAAGS7kv1YO-0FvSW30EjnTf9FEUyd61yvHjGA9M1FHG-tFsTCi9UjYg-0JGXGG2_7vtPLamOM5Y8iyxtaWzIIVyxWnIQAEBGkUavkxqA714mfPsvUdwENOcvw0-AZpmRdgY-DWcAs37tziIGfKl4zIxBPRdJOja8vjJfqEWbkyeoW6u3djT5W1yd7yU_qOMI7Rm328hHFHWZ5TPWXhk5XBf2bmNUEjm15eqDHAUHcz0PGsMe38ET1bLfXrN_TShDiKyynpEOpsjecMhLNpwi-M7rnDPulrR_nXXYJGNsf0xHesFGt8hFQqND0c6TCb9_x0gHTGsgmbq6OhaHOuwscGRLyoUxBeSFoN0rUNWkoXtOD3vWIbmqgXvhjSvXyrMZ9AByhNDuRMyKwvGBIfjTW8cud9Tf__8me5rvRl0ZSWqdagdfR37W3MDhGXmlIFg4Bi81pihmAEw5KMKw-aAuUT2ZXmHR250p2IZEyv-gJFiAxA7X1yhhhV_Njc92C75pZGySNwGhRw&refId=YgUVrAkRv2DiwuaWY1zF5Q%3D%3D&trackingId=LfbK8S1LipWeQ%2FDD%2BB4Uaw%3D%3D&trk=flagship3_search_srp_jobs
+
+Frontend Engineer L5, eero Purchase Experience
+Sobre a vaga
+DescriptionWe are scaling the eero Purchase Experience team and are looking for a motivated and experienced front-end engineer to help us build word-class software that is scalable, highly available, maintainable, and secure. We own and power the entire lifecycle of a member state — including acquisition, customer experience, payment integration, plans and pricing, membership history, and billing for eero customers around the world. We also collaborate with Design, Marketing, and Product to host eero.com to drive sales and surface Terms of Service, product information, and promotions.Key job responsibilitiesLead projects and collaborate across engineering, security, product, design, and legal to shape our product vision.Work closely with UX designers and product managers to develop dynamic UI experiences.Enhance and optimize existing services to improve reliability, scalability, and flexibility.Own the web front-end architecture and define the tactical direction of middle-ware services.Provide mentorship to other engineers and help change development processes to increase developer productivity and project predictability.A day in the lifeAs a Front-End Engineer on the Purchase Experience team, you will have an opportunity to collaborate across Design, Product, Security, QA, Legal, Marketing, and cross-functional Engineering teams to develop customer experience that supports both B2B and B2C customers on the web. From building re-usable UI components, to integrating with cloud APIs, you will evolve our web architecture to handle continuous requests from around the world. You will be considered a technical leader on the team, working efficiently and routinely delivering solutions to complex and ambiguous problems.Basic Qualifications4+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experienceExperience using JavaScript frameworks such as angular and reactPreferred Qualifications1+ years of agile software development methodology experienceExperience with common front-end technologies such as HTML, CSS, JS, TypeScript, and NodeCompany- Amazon Servicos de Varejo do Brasil Ltda.Job ID: A2787414
+Description
+
+
+
+
+
+
+Lead projects and collaborate across engineering, security, product, design, and legal to shape our product vision.Work closely with UX designers and product managers to develop dynamic UI experiences.Enhance and optimize existing services to improve reliability, scalability, and flexibility.Own the web front-end architecture and define the tactical direction of middle-ware services.Provide mentorship to other engineers and help change development processes to increase developer productivity and project predictability.
+Lead projects and collaborate across engineering, security, product, design, and legal to shape our product vision.
+Lead projects and collaborate across engineering, security, product, design, and legal to shape our product vision.
+
+Work closely with UX designers and product managers to develop dynamic UI experiences.
+Work closely with UX designers and product managers to develop dynamic UI experiences.
+
+Enhance and optimize existing services to improve reliability, scalability, and flexibility.
+Enhance and optimize existing services to improve reliability, scalability, and flexibility.
+
+Own the web front-end architecture and define the tactical direction of middle-ware services.
+Own the web front-end architecture and define the tactical direction of middle-ware services.
+
+Provide mentorship to other engineers and help change development processes to increase developer productivity and project predictability.
+Provide mentorship to other engineers and help change development processes to increase developer productivity and project predictability.
+
+
+
+
+
+
+
+Basic Qualifications
+
+
+4+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experienceExperience using JavaScript frameworks such as angular and react
+4+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience
+4+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience
+
+3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience
+3+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience
+
+Experience using JavaScript frameworks such as angular and react
+Experience using JavaScript frameworks such as angular and react
+
+
+
+Preferred Qualifications
+
+
+1+ years of agile software development methodology experienceExperience with common front-end technologies such as HTML, CSS, JS, TypeScript, and Node
+1+ years of agile software development methodology experience
+1+ years of agile software development methodology experience
+
+Experience with common front-end technologies such as HTML, CSS, JS, TypeScript, and Node
+Experience with common front-end technologies such as HTML, CSS, JS, TypeScript, and Node
+
+
+
+
+Company
+
+
+

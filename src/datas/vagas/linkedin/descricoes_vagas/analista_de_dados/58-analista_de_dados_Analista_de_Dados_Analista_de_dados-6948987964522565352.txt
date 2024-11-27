@@ -1,0 +1,51 @@
+link-https://www.linkedin.com/jobs/view/4005079368/?eBP=CwEAAAGS7idhwR5hrtXnoR0LbWNzZ_iiQFLUvaKdi0OhUgdqGRf6wp3yTDTx2vpLFAKnCWBjeKhFgzd01Jvh-uhcvWMaias4uyr4leoudMGlbxS_CntHHilXytc5n2iYMf6DxbPo0zOqyJxyk-Gvdu3-IGnrpAAAZxHxYCQ3VI2pj97Mjjr1oKqreMYc4XY5wilt0PYqpo39N3ftZ767wlhP6csSIA57nIHM_wa4nREzi63Xx1dKBojJ5Yw8hHLFC04kZnfaCR1gTcdoGTJQMP9FeU3K-w1x4xXMFh4PSeJRcemvIUW2NjusNcHGdWMlQtFHdeTNGKTNo3KJztc6hd_nahRzoiCl1tETo-6gAxH0wrW1WU3Nom_nDS-2DWh6nSkxDxaW54mTRczOuFlKAf1G_LiPTzGVOD18gLCiDBcTfeoPfqYdaWGBk2_Lu__cvZXby-xwZGlVBrXWI8VM6lShwnRyNGzZqHoyF6TAtqSlggZPhbfQkC5DJdmHNllQ-mphzU03&refId=7wKlBSPQNZnQiB7yybej2w%3D%3D&trackingId=maPMrhdpqSEsT2%2B18r3Lhw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados Pleno (Prevenção de Perdas)
+Sobre a vaga
+About The TeamResponsável por analisar dados quantitativos e organizar dados não estruturados, transformando-os em informações relevantes que irão embasar o processo de tomada de decisão com objetivo de reduzir perdas operacionais e criando dashboards para acompanhamento de métricas estratégicas. NJob DescriptionImplementar indicadores logísticos, definir métricas e apoiar no racional de cálculo desde a base de dados até os relatórios de visualização (utilizando Power BI / Google Sheets / Excel);Criar mecanismos de relatórios escalonáveis e transparentes;Trabalhar em estreita colaboração com os times de operações logísticas com foco em prevenção de perdas, para identificar oportunidades de melhoria e implementar soluções baseadas em dados.Fornecer recomendações e orientações para melhorar a coleta, armazenamento e uso de dados.Orientar e apoiar analistas na equipe, compartilhando conhecimentos e boas práticas.Realizar levantamentos pontuais de dados para dar suporte às outras áreas;Ajudar a desenvolver insights estratégicos por meio de dados e assim encontrar oportunidades para melhorar a experiência logística e como consequência diminuir as perdas logísticas;Criar análises para identificar a causa raiz e o problema;Preparar material e participar de chamadas de operações recorrentes (para apoiar os planos de melhoria) e apresentações para a alta liderança;Ser guardião dos desenvolvimentos realizados;Realizar automação de processos com SQL/Python ou outra linguagem para coleta de dados offline.RequirementsBacharelado em Matemática, Ciência de Dados, Estatística, Engenharia, Ciência da Computação e Análise de Sistemas ou áreas correlatas.Conhecimento avançado em SQL, Excel e Power BI.Python Será considerado um diferencial.Inglês intermediário.
+About The Team
+
+
+
+
+Job Description
+
+
+Implementar indicadores logísticos, definir métricas e apoiar no racional de cálculo desde a base de dados até os relatórios de visualização (utilizando Power BI / Google Sheets / Excel);Criar mecanismos de relatórios escalonáveis e transparentes;Trabalhar em estreita colaboração com os times de operações logísticas com foco em prevenção de perdas, para identificar oportunidades de melhoria e implementar soluções baseadas em dados.Fornecer recomendações e orientações para melhorar a coleta, armazenamento e uso de dados.Orientar e apoiar analistas na equipe, compartilhando conhecimentos e boas práticas.Realizar levantamentos pontuais de dados para dar suporte às outras áreas;Ajudar a desenvolver insights estratégicos por meio de dados e assim encontrar oportunidades para melhorar a experiência logística e como consequência diminuir as perdas logísticas;Criar análises para identificar a causa raiz e o problema;Preparar material e participar de chamadas de operações recorrentes (para apoiar os planos de melhoria) e apresentações para a alta liderança;Ser guardião dos desenvolvimentos realizados;Realizar automação de processos com SQL/Python ou outra linguagem para coleta de dados offline.
+Implementar indicadores logísticos, definir métricas e apoiar no racional de cálculo desde a base de dados até os relatórios de visualização (utilizando Power BI / Google Sheets / Excel);
+Implementar indicadores logísticos, definir métricas e apoiar no racional de cálculo desde a base de dados até os relatórios de visualização (utilizando Power BI / Google Sheets / Excel);
+Criar mecanismos de relatórios escalonáveis e transparentes;
+Criar mecanismos de relatórios escalonáveis e transparentes;
+Trabalhar em estreita colaboração com os times de operações logísticas com foco em prevenção de perdas, para identificar oportunidades de melhoria e implementar soluções baseadas em dados.
+Trabalhar em estreita colaboração com os times de operações logísticas com foco em prevenção de perdas, para identificar oportunidades de melhoria e implementar soluções baseadas em dados.
+Fornecer recomendações e orientações para melhorar a coleta, armazenamento e uso de dados.
+Fornecer recomendações e orientações para melhorar a coleta, armazenamento e uso de dados.
+Orientar e apoiar analistas na equipe, compartilhando conhecimentos e boas práticas.
+Orientar e apoiar analistas na equipe, compartilhando conhecimentos e boas práticas.
+Realizar levantamentos pontuais de dados para dar suporte às outras áreas;
+Realizar levantamentos pontuais de dados para dar suporte às outras áreas;
+Ajudar a desenvolver insights estratégicos por meio de dados e assim encontrar oportunidades para melhorar a experiência logística e como consequência diminuir as perdas logísticas;
+Ajudar a desenvolver insights estratégicos por meio de dados e assim encontrar oportunidades para melhorar a experiência logística e como consequência diminuir as perdas logísticas;
+Criar análises para identificar a causa raiz e o problema;
+Criar análises para identificar a causa raiz e o problema;
+Preparar material e participar de chamadas de operações recorrentes (para apoiar os planos de melhoria) e apresentações para a alta liderança;
+Preparar material e participar de chamadas de operações recorrentes (para apoiar os planos de melhoria) e apresentações para a alta liderança;
+Ser guardião dos desenvolvimentos realizados;
+Ser guardião dos desenvolvimentos realizados;
+Realizar automação de processos com SQL/Python ou outra linguagem para coleta de dados offline.
+Realizar automação de processos com SQL/Python ou outra linguagem para coleta de dados offline.
+
+
+Requirements
+
+
+Bacharelado em Matemática, Ciência de Dados, Estatística, Engenharia, Ciência da Computação e Análise de Sistemas ou áreas correlatas.Conhecimento avançado em SQL, Excel e Power BI.Python Será considerado um diferencial.Inglês intermediário.
+Bacharelado em Matemática, Ciência de Dados, Estatística, Engenharia, Ciência da Computação e Análise de Sistemas ou áreas correlatas.
+Bacharelado em Matemática, Ciência de Dados, Estatística, Engenharia, Ciência da Computação e Análise de Sistemas ou áreas correlatas.
+Conhecimento avançado em SQL, Excel e Power BI.
+Conhecimento avançado em SQL, Excel e Power BI.
+Python Será considerado um diferencial.
+Python Será considerado um diferencial.
+
+Inglês intermediário.
+Inglês intermediário.

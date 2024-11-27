@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/3971139027/?eBP=CwEAAAGS7idYQ2_tWuERkDKRNJIA88Ei6QBVQ8T_TcxjK0xKmcm-FE-sFxJk4fo6zrfEeaCKCG6IRLeMaaS8AHFrUgMnPfCp4N18uGHRvvm0KMz79Cu3DIRJjFlzDBpQXvu4c5NxMblw2rMTdg0mv9NDLuqJUatcXgZszLk9tM8zYkvRb7DJW1FgDfp6I2RrKWLBJdkfUPcgcgv3g_-uk4BrfC1IvJfyAfpkSzZKUHlZu-LrSUFN7qu3p-1oOmqzzagPX_DZpC3UvZtWYh57LrvOGi6TgG2-qcm97dKY8wAYoXd-ywIOc7lIzC9TMycglw8PgfzitYXRLOXxbY8gDwK58D07XzAaha_Rblokj0CINP67BKM5SA-us5ZTAD1nb0_EkKRt2_rQ_N_RVKLtHFkv6nDwBnsQuKLusCyqxr7I_3um7NVssp7Vvh-RQC9541QMOvN3zZM6oltTngJj_7RnMP9Td5LPfMHhiMO_msITCRVv5UbdQWBRjFZE1yDxdiStUsdK&refId=FrFawILDsUF1VK87ZZAM1w%3D%3D&trackingId=nQpn08KYW2383%2FkYKv5%2BBw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados Sênior | Payments
+Sobre a vaga
+About The TeamSobre a ShôAqui na Shô, acreditamos que cada membro de nossa equipe é fundamental para o nosso sucesso, e que diversidade de perspectivas e vivências são essenciais para movimentar nosso negócio e impulsionar o nosso propósito de mudar o mundo para melhor.Fazer parte do nosso time é a oportunidade de se desenvolver dentro de uma cultura de muita agilidade. Se você ama assumir grandes responsabilidades e fazer o que nunca foi feito, a Shô é seu lugar. Aqui você terá grandes desafios, trabalhará em colaboração com um time diverso e contribuirá para o futuro do e-commerce no Brasil, criamos impacto positivo na vida de milhões de pessoas.Modelo de TrabalhoAdotamos um modelo de trabalho híbrido, esse modelo permite que as pessoas ajustem seu ambiente de trabalho de acordo com suas necessidades pessoais, ao mesmo tempo em que promove a colaboração e interação no escritório.Qual será a sua missãoResponsável por liderar projetos de dados de pagamentos. Mapeamento de requisitos, construção de modelagem de banco de dados e visualização de dados. Traduzir as necessidades de negócios em soluções alinhadas com as ferramentas e estratégias da plataforma de dados; além disso, é responsável por desenvolver um ambiente construtivo para que a equipe cresça e apresente seu melhor desempenho diariamente, garantindo que as metas e os objetivos da empresa sejam atingidos.Job DescriptionComo será o seu dia a diaApoiar projetos de dados, desde o mapeamento de requisitos até à modelagem de bases de dados e visualização de dados;Contribuir para a criação, documentação, manutenção, monitoramento e otimização de ferramentas de código e dados;Identificar oportunidades para melhorar a nossa plataforma ETL/ELT;Traduzir as necessidades comerciais em soluções alinhadas com as ferramentas e estratégias da plataforma de dados;Identificar pró-ativamente falhas no processo de pagamento com base em informações de dados;RequirementsO que você precisa para assumir o desafioFormação Superior em Ciências da Computação, Estatística, Engenharia e áreas relacionadasNível avançado de conhecimentos de Microsoft Office e Excel.Experiência em linguagens de programaçãoSQL avançado.SparkSQL.Python.Pyspark.Conhecimentos de ferramentas de visualização como Looker, Power BI, etc.Inglês avançadoBenefíciosAssistência médica e odontológica, estendendo-se aos dependentes;Parceira com Gympass e TotalPass;Vale Refeição/Alimentação flexível;Vale Transporte, Vale Mobilidade ou Estacionamento no local;Benefício flexível;Zenklub;Bônus anual discricionário, atrelado à performance.VEM FAZER HISTÓRIA COM A GENTE.O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡
+About The Team
+
+
+Sobre a Shô
+
+
+
+
+
+
+Modelo de Trabalho
+
+
+
+
+Qual será a sua missão
+
+
+
+
+Job Description
+
+
+Como será o seu dia a dia
+
+
+Apoiar projetos de dados, desde o mapeamento de requisitos até à modelagem de bases de dados e visualização de dados;Contribuir para a criação, documentação, manutenção, monitoramento e otimização de ferramentas de código e dados;Identificar oportunidades para melhorar a nossa plataforma ETL/ELT;Traduzir as necessidades comerciais em soluções alinhadas com as ferramentas e estratégias da plataforma de dados;Identificar pró-ativamente falhas no processo de pagamento com base em informações de dados;
+Apoiar projetos de dados, desde o mapeamento de requisitos até à modelagem de bases de dados e visualização de dados;
+Apoiar projetos de dados, desde o mapeamento de requisitos até à modelagem de bases de dados e visualização de dados;
+Contribuir para a criação, documentação, manutenção, monitoramento e otimização de ferramentas de código e dados;
+Contribuir para a criação, documentação, manutenção, monitoramento e otimização de ferramentas de código e dados;
+Identificar oportunidades para melhorar a nossa plataforma ETL/ELT;
+Identificar oportunidades para melhorar a nossa plataforma ETL/ELT;
+Traduzir as necessidades comerciais em soluções alinhadas com as ferramentas e estratégias da plataforma de dados;
+Traduzir as necessidades comerciais em soluções alinhadas com as ferramentas e estratégias da plataforma de dados;
+Identificar pró-ativamente falhas no processo de pagamento com base em informações de dados;
+Identificar pró-ativamente falhas no processo de pagamento com base em informações de dados;
+
+
+Requirements
+
+
+O que você precisa para assumir o desafio
+
+
+Formação Superior em Ciências da Computação, Estatística, Engenharia e áreas relacionadasNível avançado de conhecimentos de Microsoft Office e Excel.Experiência em linguagens de programaçãoSQL avançado.SparkSQL.Python.Pyspark.Conhecimentos de ferramentas de visualização como Looker, Power BI, etc.Inglês avançado
+Formação Superior em Ciências da Computação, Estatística, Engenharia e áreas relacionadas
+Formação Superior em Ciências da Computação, Estatística, Engenharia e áreas relacionadas
+Nível avançado de conhecimentos de Microsoft Office e Excel.
+Nível avançado de conhecimentos de Microsoft Office e Excel.
+Experiência em linguagens de programação
+Experiência em linguagens de programação
+SQL avançado.
+SQL avançado.
+SparkSQL.
+SparkSQL.
+Python.
+Python.
+Pyspark.
+Pyspark.
+Conhecimentos de ferramentas de visualização como Looker, Power BI, etc.
+Conhecimentos de ferramentas de visualização como Looker, Power BI, etc.
+Inglês avançado
+Inglês avançado
+
+
+Benefícios
+
+
+Assistência médica e odontológica, estendendo-se aos dependentes;Parceira com Gympass e TotalPass;Vale Refeição/Alimentação flexível;Vale Transporte, Vale Mobilidade ou Estacionamento no local;Benefício flexível;Zenklub;Bônus anual discricionário, atrelado à performance.
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Assistência médica e odontológica, estendendo-se aos dependentes;
+Parceira com Gympass e TotalPass;
+Parceira com Gympass e TotalPass;
+Vale Refeição/Alimentação flexível;
+Vale Refeição/Alimentação flexível;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Vale Transporte, Vale Mobilidade ou Estacionamento no local;
+Benefício flexível;
+Benefício flexível;
+Zenklub;
+Zenklub;
+Bônus anual discricionário, atrelado à performance.
+Bônus anual discricionário, atrelado à performance.
+
+
+VEM FAZER HISTÓRIA COM A GENTE.
+
+
+O QUE TE FAZ ÚNICO, NOS FAZ MELHORES! 🧡

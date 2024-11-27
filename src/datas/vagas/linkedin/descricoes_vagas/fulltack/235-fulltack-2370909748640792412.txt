@@ -1,0 +1,80 @@
+link-https://www.linkedin.com/jobs/view/4044299856/?eBP=CwEAAAGS7hTREM6ud2UDjvS8K6uA6SYY5wjEh_ANZZHzMIFLuXWVC5powZwIQXWB-w5yD4t_5UzNPVIuipqJ99TU43fjg9ikAYPyFbRxo3z-71WT0JMT0sN5-wnkhxYamBaZXKhviEFucubm8wJ0mek61r4MxRPL2tw3O0j3l-eXNPB74iEDnt1wrMB9kVJ9AaYoa0Ozkvav6HBvZXqFmr3mBMuo7mLIGmTrMbTpAfRppNbxyqUX9TNf7b4DczkblIRZdZ8RazEMYJQ7asYFTRWErKGyg53R-mwJIn8P6trMMGY-3BO64tnHTT5UuAdVzAhcFNk6bqNsWLefxAMQbMOZqUMzC6lDJJOlR8ZgVvC-uXnFw9bVbSYjUaH5PvUueKfR3K_0DP67CgwloJhkoy_IKyvz3R4QoQRxAMBKvf7G3e0loHurA69EEaWQ4pZ3OoZl5xHwGnOf-mjabkXn1AEjjoaxm5qQBKV7My-1pVfwkbqpTWZXFxnrrhQn&refId=WTS9tmvm%2F2fwuwxns%2ByFpQ%3D%3D&trackingId=S7aP3WtkXNomRDdDEBXO2w%3D%3D&trk=flagship3_search_srp_jobs
+
+Full Stack Developer Sr.
+Sobre a vaga
+Estamos em busca de um Desenvolvedor Full Stack Sênior com experiência em C# .NET Core, React, Banco de Dados SQL, Microsoft Azure e Azure DevOps. O profissional fará parte de um SQUAD e será responsável por atividades relacionadas ao levantamento de requisitos, arquitetura de solução e desenvolvimento de sistemas. A posição é para início imediato, com duração inicial de 3 meses e possibilidade de prorrogação.ResponsabilidadesParticipar do levantamento de requisitos junto aos stakeholders.Projetar e desenvolver soluções utilizando C# .NET Core e React.Implementar e gerenciar Banco de Dados SQL.Trabalhar com Microsoft Azure e Azure DevOps para integração e entrega contínua.Colaborar ativamente com a equipe em um ambiente híbrido.RequisitosExperiência sólida como Desenvolvedor Full Stack, com ênfase em C# .NET Core e React.Conhecimento em Banco de Dados SQL e em plataformas como Microsoft Azure e Azure DevOps.Habilidade para trabalhar em equipe e colaborar em projetos ágeis.Disponibilidade para início imediato.Detalhes Da PosiçãoLocal de Trabalho: Presencial em Belo Horizonte ou híbrido.Horário: Administrativo.Duração do Projeto: 3 meses, com possibilidade de prorrogação.Por que construir sua carreira na Meta?Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo. Além disso, somos uma das melhores empresas para se trabalhar no Brasil segundo o Great Place to Work e uma das 10 empresas que mais crescem no país há 3 anos consecutivos, segundo o Anuário Informática Hoje.Quais são nossos valores?Somos pessoas servindo pessoasPensamos e agimos como donosTemos gana por performanceCrescemos e aprendemos juntosBuscamos excelência e a simplicidadeTemos inovação e criatividade no nosso DNATodas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.Se identificou? Então, #VemSerMeta!
+
+
+Responsabilidades
+
+
+Participar do levantamento de requisitos junto aos stakeholders.Projetar e desenvolver soluções utilizando C# .NET Core e React.Implementar e gerenciar Banco de Dados SQL.Trabalhar com Microsoft Azure e Azure DevOps para integração e entrega contínua.Colaborar ativamente com a equipe em um ambiente híbrido.
+Participar do levantamento de requisitos junto aos stakeholders.
+Participar do levantamento de requisitos junto aos stakeholders.
+Projetar e desenvolver soluções utilizando C# .NET Core e React.
+Projetar e desenvolver soluções utilizando C# .NET Core e React.
+Implementar e gerenciar Banco de Dados SQL.
+Implementar e gerenciar Banco de Dados SQL.
+Trabalhar com Microsoft Azure e Azure DevOps para integração e entrega contínua.
+Trabalhar com Microsoft Azure e Azure DevOps para integração e entrega contínua.
+Colaborar ativamente com a equipe em um ambiente híbrido.
+Colaborar ativamente com a equipe em um ambiente híbrido.
+
+
+Requisitos
+
+
+Experiência sólida como Desenvolvedor Full Stack, com ênfase em C# .NET Core e React.Conhecimento em Banco de Dados SQL e em plataformas como Microsoft Azure e Azure DevOps.Habilidade para trabalhar em equipe e colaborar em projetos ágeis.Disponibilidade para início imediato.
+Experiência sólida como Desenvolvedor Full Stack, com ênfase em C# .NET Core e React.
+Experiência sólida como Desenvolvedor Full Stack, com ênfase em C# .NET Core e React.
+Conhecimento em Banco de Dados SQL e em plataformas como Microsoft Azure e Azure DevOps.
+Conhecimento em Banco de Dados SQL e em plataformas como Microsoft Azure e Azure DevOps.
+Habilidade para trabalhar em equipe e colaborar em projetos ágeis.
+Habilidade para trabalhar em equipe e colaborar em projetos ágeis.
+Disponibilidade para início imediato.
+Disponibilidade para início imediato.
+
+
+Detalhes Da Posição
+
+
+Local de Trabalho: Presencial em Belo Horizonte ou híbrido.Horário: Administrativo.Duração do Projeto: 3 meses, com possibilidade de prorrogação.
+Local de Trabalho: Presencial em Belo Horizonte ou híbrido.
+Local de Trabalho: Presencial em Belo Horizonte ou híbrido.
+Horário: Administrativo.
+Horário: Administrativo.
+Duração do Projeto: 3 meses, com possibilidade de prorrogação.
+Duração do Projeto: 3 meses, com possibilidade de prorrogação.
+
+
+Por que construir sua carreira na Meta?
+
+
+
+
+Quais são nossos valores?
+
+
+Somos pessoas servindo pessoasPensamos e agimos como donosTemos gana por performanceCrescemos e aprendemos juntosBuscamos excelência e a simplicidadeTemos inovação e criatividade no nosso DNA
+Somos pessoas servindo pessoas
+Somos pessoas servindo pessoas
+
+Pensamos e agimos como donos
+Pensamos e agimos como donos
+
+Temos gana por performance
+Temos gana por performance
+
+Crescemos e aprendemos juntos
+Crescemos e aprendemos juntos
+
+Buscamos excelência e a simplicidade
+Buscamos excelência e a simplicidade
+
+Temos inovação e criatividade no nosso DNA
+Temos inovação e criatividade no nosso DNA
+
+
+
+
+

@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4024729480/?eBP=CwEAAAGS7g_8n1gvq-jMRGYR9oYZ0y_ZMLfcgu6LN6XCmZFo0qd6kUPLryBZC7IkAd5nFnS1dmeNIJ776Jbro62shZgHiCyXbA3Xmk6W56NQCqli2_B-psH0fDYMbSAQglYw-JZ3XeN-zmwoPQzxS-yCVpXAjLqGnM7pg5K2I8-45myW6CIE-TA4lJPD4AfctB93pOhs5wFEzw3b2ccZ8H5mybUfhW0MWCnIkEpHlgu0zAkXuiKhZnOP5-Ok3NlvY5OCUaFt1tN2M-vq192GN-1DgkTg6bhWHUspPjGspPihPSjUYhDgjd4ccbz0oG7nY_cBvI98drQBVMdNSuh6nUu_seyEuncFn4yTGLDWIIrEELKIiwbHbtrhrdY5oTa_bMgaVqcgy27HptAYDh5y3_HFhHBJC1HYjQNrKOz9KqxYkVum2p9SUTQ3fO0USVD5t6pDypL-thWgLarnKbhQ1JOWbV33x7z0RlRl5UZZaKW_2WLAUEvTZfcAiCwiLWa-lk4c-w&refId=XTINj6sIP2wfVRj2DDf8jA%3D%3D&trackingId=w%2BJmBEqFc%2BxTpVt8DDtWsQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Fullstack (Java, JS) Developer, Brazil
+Sobre a vaga
+Responsibilities:- Expand existing software to meet customers’ changing needs;- Continue updating legacy modules with newer technologies;- Develop components and enhancements to our software, utilizing some or all the following: Java, Spring Framework, Javascript,- ReactJS, AngularJS, Elasticsearch, MongoDB, SQL, and Oracle PL/SQL;- Design, develop, test, and debug software;- Work across departments to make sure long-term development efforts correctly support the business’ goals and needs;- Participate in design and code reviews;- Build reusable components and systems;- Create technical documentation;- Guide specific implementation of overall architectural patterns and decisions;Requirements for this challenge:- Experience with Java utilizing object-oriented programming principles and design patterns;- Experience with Spring Framework or similar Java development frameworks;- Experience with Javascript;- Experience with Elasticsearch and/or MongoDB;- RDBMS familiarity – schema design, query creation, and application integration;- Self-reliant and motivated self-starter;- Excellent problem-solving and troubleshooting skills;- Project and task-oriented with a focus on details;- Clear, professional communication skills with the ability to effectively contribute to team discussions;- Solid team player;Nice to have:- Experience with multiple approaches to Agile SDLC processes;- Familiarity with ReactJS, AngularJS;- Familiarity with navigating around Linux systems;- Familiarity with Eclipse IDE;- Experience designing and building API-based systems;-Experience in the world of real estate data;Our benefits:- Health plan and dental plan;- Meal allowances;- Extended parenting leave;- Annual profit-sharing distribution;- Life insurance;- Partnership with an online mental health platform;- CI&T University;- Support Program: psychological guidance;- Partnership with online course platforms- Platform for language learning;- And many others.#MidSenior
+Responsibilities:
+Responsibilities:
+Responsibilities
+- Expand existing software to meet customers’ changing needs;
+- Expand existing software to meet customers’ changing needs;
+- Continue updating legacy modules with newer technologies;
+- Continue updating legacy modules with newer technologies;
+- Develop components and enhancements to our software, utilizing some or all the following: Java, Spring Framework, Javascript,
+- Develop components and enhancements to our software, utilizing some or all the following: Java, Spring Framework, Javascript,
+- ReactJS, AngularJS, Elasticsearch, MongoDB, SQL, and Oracle PL/SQL;
+- ReactJS, AngularJS, Elasticsearch, MongoDB, SQL, and Oracle PL/SQL;
+
+- Design, develop, test, and debug software;
+- Design, develop, test, and debug software;
+- Work across departments to make sure long-term development efforts correctly support the business’ goals and needs;
+- Work across departments to make sure long-term development efforts correctly support the business’ goals and needs;
+- Participate in design and code reviews;
+- Participate in design and code reviews;
+- Build reusable components and systems;
+- Build reusable components and systems;
+- Create technical documentation;
+- Create technical documentation;
+- Guide specific implementation of overall architectural patterns and decisions;
+- Guide specific implementation of overall architectural patterns and decisions;
+Requirements for this challenge:
+Requirements for this challenge:
+Requirements for this challenge:
+- Experience with Java utilizing object-oriented programming principles and design patterns;
+- Experience with Java utilizing object-oriented programming principles and design patterns;
+- Experience with Spring Framework or similar Java development frameworks;
+- Experience with Spring Framework or similar Java development frameworks;
+- Experience with Javascript;
+- Experience with Javascript;
+- Experience with Elasticsearch and/or MongoDB;
+- Experience with Elasticsearch and/or MongoDB;
+- RDBMS familiarity – schema design, query creation, and application integration;
+- RDBMS familiarity – schema design, query creation, and application integration;
+- Self-reliant and motivated self-starter;
+- Self-reliant and motivated self-starter;
+- Excellent problem-solving and troubleshooting skills;
+- Excellent problem-solving and troubleshooting skills;
+- Project and task-oriented with a focus on details;
+- Project and task-oriented with a focus on details;
+- Clear, professional communication skills with the ability to effectively contribute to team discussions;
+- Clear, professional communication skills with the ability to effectively contribute to team discussions;
+- Solid team player;
+- Solid team player;
+Nice to have:
+Nice to have:
+Nice to have:
+- Experience with multiple approaches to Agile SDLC processes;
+- Experience with multiple approaches to Agile SDLC processes;
+- Familiarity with ReactJS, AngularJS;
+- Familiarity with ReactJS, AngularJS;
+- Familiarity with navigating around Linux systems;
+- Familiarity with navigating around Linux systems;
+- Familiarity with Eclipse IDE;
+- Familiarity with Eclipse IDE;
+- Experience designing and building API-based systems;
+- Experience designing and building API-based systems;
+-Experience in the world of real estate data;
+-Experience in the world of real estate data;
+Our benefits:
+Our benefits:
+Our benefits:
+- Health plan and dental plan;
+- Health plan and dental plan;
+
+- Meal allowances;
+- Meal allowances;
+
+- Extended parenting leave;
+- Extended parenting leave;
+
+- Annual profit-sharing distribution;
+- Annual profit-sharing distribution;
+- Life insurance;
+- Life insurance;
+
+- Partnership with an online mental health platform;
+- Partnership with an online mental health platform;
+
+- CI&T University;
+- CI&T University;
+
+- Support Program: psychological guidance;
+- Support Program: psychological guidance;
+
+- Partnership with online course platforms
+- Partnership with online course platforms
+
+- Platform for language learning;
+- Platform for language learning;
+
+- And many others.
+- And many others.
+#MidSenior
+#MidSenior
+
+
+

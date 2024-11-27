@@ -1,0 +1,68 @@
+link-https://www.linkedin.com/jobs/view/4051272340/?eBP=CwEAAAGS7hIHz1lkEGCuqOtR0ODDvbwyXUWHz1vhJPQApVpdTrb1kR7eb-zqeVAhcmkeiq8J_LQ1BKjMTKgQoHrbunEzAFrK3F7IacX8WRkhQ_dFx8TqgHEqHyi0BSOCXGtbxXSr-0ft3FbJEqvZ2g8y-vcW8OQznqwwlzrxpzoA1BhnhrNPAjhUZUvQlJy5dqOvAXfNKujvsDbxIERE_5fcaKEHYpcRZKN-jm-e-pQ9k31Dh0ykzWLrWoP6qBwYKz4lqQtulgTgvfbcQtEEIxWs1AI2nGcDPDyXBGJRvx5L618mwGwe54ywno4Sd4LexiXWPNZfyni4hxkTJwKTDGQ8A532pUqaFtkPQbxGvSBjXoDA9Fdq5ISD2qli265-gVnvtAFnjwX0L0Ah7xoHOhNuCC1OtYM54A_ZkXgzOnKbGHM38lUxfrek5c0In_XZuytSCZiwmyzMWnIwfa3CyvrJMHz2UfmQBWqoFQRSQVYWAlwtvLvih7va1QToj6M&refId=KQLpuHCvHLn6J4PJHfDR%2Bg%3D%3D&trackingId=oLtkHzZ62tHQdgjdzNJnOA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Full-stack Pleno (Remoto)
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.ResponsabilidadesManutenção e aprimoramento contínuo da plataforma existente;Desenvolver novas funcionalidades que melhorem a experiência do usuário, utilizando Python (Flask) para o back-end e Javascript para o front-end;Colaborar com a equipe para identificar oportunidades de inovação e melhorias;Participar ativamente do processo de tomada de decisões técnicas e de produto;Contribuir para a estratégia de crescimento e escalabilidade da plataforma;Gerenciamento e otimização de bancos de dados SQL.Somos uma plataforma inovadora dedicada ao entretenimento. Estamos em busca de um desenvolvedor Fullstack pleno e com espírito empreendedor para se juntar à nossa equipe e nos ajudar a levar a experiência dos nossos usuários ao próximo nível. Buscamos um profissional que valorize essa perspectiva, com um perfil protagonista e altamente engajado.RequisitosExperiência comprovada em desenvolvimento fullstack, com foco em Python (Flask);Conhecimento sólido Javascript, HTML e CSS para construção de interfaces modernas;Experiência com bancos de dados SQL;Implantação: Experiência com Docker para containerização de aplicações;Hospedagem: Familiaridade com AWS para implementação e gerenciamento de serviços.Habilidades ObrigatóriasPythonJavaScriptHabilidades DesejáveisHTMLCSSAWSDockerA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+Responsabilidades
+
+
+Manutenção e aprimoramento contínuo da plataforma existente;Desenvolver novas funcionalidades que melhorem a experiência do usuário, utilizando Python (Flask) para o back-end e Javascript para o front-end;Colaborar com a equipe para identificar oportunidades de inovação e melhorias;Participar ativamente do processo de tomada de decisões técnicas e de produto;Contribuir para a estratégia de crescimento e escalabilidade da plataforma;Gerenciamento e otimização de bancos de dados SQL.
+Manutenção e aprimoramento contínuo da plataforma existente;
+Manutenção e aprimoramento contínuo da plataforma existente;
+Desenvolver novas funcionalidades que melhorem a experiência do usuário, utilizando Python (Flask) para o back-end e Javascript para o front-end;
+Desenvolver novas funcionalidades que melhorem a experiência do usuário, utilizando Python (Flask) para o back-end e Javascript para o front-end;
+Colaborar com a equipe para identificar oportunidades de inovação e melhorias;
+Colaborar com a equipe para identificar oportunidades de inovação e melhorias;
+Participar ativamente do processo de tomada de decisões técnicas e de produto;
+Participar ativamente do processo de tomada de decisões técnicas e de produto;
+Contribuir para a estratégia de crescimento e escalabilidade da plataforma;
+Contribuir para a estratégia de crescimento e escalabilidade da plataforma;
+Gerenciamento e otimização de bancos de dados SQL.
+Gerenciamento e otimização de bancos de dados SQL.
+
+
+
+
+Requisitos
+
+
+Experiência comprovada em desenvolvimento fullstack, com foco em Python (Flask);Conhecimento sólido Javascript, HTML e CSS para construção de interfaces modernas;Experiência com bancos de dados SQL;Implantação: Experiência com Docker para containerização de aplicações;Hospedagem: Familiaridade com AWS para implementação e gerenciamento de serviços.
+Experiência comprovada em desenvolvimento fullstack, com foco em Python (Flask);
+Experiência comprovada em desenvolvimento fullstack, com foco em Python (Flask);
+Conhecimento sólido Javascript, HTML e CSS para construção de interfaces modernas;
+Conhecimento sólido Javascript, HTML e CSS para construção de interfaces modernas;
+Experiência com bancos de dados SQL;
+Experiência com bancos de dados SQL;
+Implantação: Experiência com Docker para containerização de aplicações;
+Implantação: Experiência com Docker para containerização de aplicações;
+Hospedagem: Familiaridade com AWS para implementação e gerenciamento de serviços.
+Hospedagem: Familiaridade com AWS para implementação e gerenciamento de serviços.
+
+
+
+
+PythonJavaScript
+Python
+Python
+JavaScript
+JavaScript
+
+
+
+
+HTMLCSSAWSDocker
+HTML
+HTML
+CSS
+CSS
+AWS
+AWS
+Docker
+Docker
+
+
+
+

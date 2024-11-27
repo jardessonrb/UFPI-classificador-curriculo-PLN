@@ -1,0 +1,150 @@
+link-https://www.linkedin.com/jobs/view/4055880144/?eBP=CwEAAAGS7lGQwVr6EBzh9JwbegL4--leCMPk-zuPFqrmupkbk34gpUkxUui_j28b31xB9wbW-rfYJJkoy1MVXPkj27XLi80fQUY69Uv-iDINWZCa-tfI-rvgdkwgOE9SxmCiRHMQLPmb9LXVzNhbroFAIhqggn2qO9KUmEpxxDyst7eiGlLjJmJ2kRmayI81A1IO3yYqjGuyO9e4kJzpUJhIbh-hOfvHbbIs7ohp2_UVAqBhrgf_wq9irXNvc-n9ibaLKyY6TuG3r7ZAKbIpcgEXYzPgTrrBWuVOvmE5_ogM1WBLpqtQLaQVdZSF0OXwwkvxt8rfkFGoAClbJgsdHYZAFgfSd7U3lWXO040jK4v2nUS5vU7leaZA2uaX2A2yIFdJIqaeNRrXIMTALh7mRLpeQKZgZ7lr-_WLDhk8OcHdgOsdSlJd-IRZJCyQe9wZJSZQaDB4YqWJL5t6A8xYeYAlqYBY1y9aIMD35BuxmMdrRIXb8TMS7kTag7emU1dk4G41I0TlUPC0CwK2&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=Lr5uQt3iEPb6qhvbliAKlg%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr Backend Engineer | GOLANG
+Sobre a vaga
+SOBRE A AVENUESomos uma instituição financeira que está revolucionando o mercado de investimentos, democratizando o acesso ao mercado americano para todos os brasileiros.Você já tem uma conta na Avenue? Abre uma conta lá então pra você ver do que estamos falando 😉Hoje, contribuímos para a vida financeira global de mais de 300 mil brasileiros e estamos ampliando nosso time para seguirmos nesse crescimento exponencial. Aqui, você também pode ajudar a construir essa história e participar de um movimento que, não só financeiro, é cultural.CULTURA AVENUENão somos e nem queremos ser como a maioria das empresas do mercado financeiro. O nosso maior ativo são as nossas pessoas e investimos nos nossos colaboradores como eles investem em nós. Acreditamos em uma cultura leve e em um ambiente de colaboração para que possamos atingir nossos objetivos como um único time!Estamos em busca dos melhores talentos, das pessoas independentes e curiosas, que estão dispostas a transbordarem suas posições constantemente. Que desafiam o status quo pra conquistar seus objetivos, mas que ajam sempre de forma responsável e ética, além de entender o valor do trabalho em equipe, porque antes de sermos áreas ou times, somos a Avenue.Let’s go global together!O Time de Tecnologia:Pensa em um time de alta performance que tá crescendo muito! Esse é o time de tecnologia da Avenue. A tecnologia da Avenue é a espinha dorsal da companhia, uma vez que a área suporta toda nossa operação e permeia todas as áreas da empresa. Para que nossas operações sejam viáveis, ágeis, sem burocracia e com uma experiência genuinamente brasileira ao nosso cliente, contamos com um time super competente e engajado no desenvolvimento do nosso negócio. 1/3 dos nossos fundadores fazem parte do time de tecnologia. Estamos divididos em squads por cada linha de negócio da empresa.Estilo de trabalho:Aqui na Avenue, nós valorizamos pessoas independentes e curiosas, por isso damos autonomia e a liberdade com responsabilidade, priorizando sempre a diretriz estratégica do negócio e o remote first, o que proporciona aprendizado através dos desafios de um negócio inovador e disruptivo.Como será seu dia a dia:Em um dia normal de trabalho, você irá ajudar o nosso time de tecnologia a melhorar cada vez mais as plataformas que entregamos para todos os nossos clientes, desenvolvendo novas funcionalidades, integrações e melhorando a nossa experiência dos nossos produtos.Stack:Nosso back-end é baseado em ferramentas de código aberto e funciona como um conjunto de MicroServiços baseados em Golang;Estamos usando RabbitMQ e gRPC para comunicação;Esta posição backend suporta nosso Web App (um React / Redux & JS SPA) e nosso Mobile App (mecanismo Flutter usando WebViews para renderizar nosso Web App, que logo será totalmente nativo).Responsibilities and assignmentsDesenhar e propor a arquitetura de soluções;Entender e priorizar entregas relevantes para a Avenue;Suportar e monitorar as plataformas de seu contexto;Implementar soluções escaláveis e robustas.Requirements and qualificationsConhecimento e experiência em Golang;Desenvolvimento de serviços robustos e escaláveis;Persistência de dados utilizando MySQL, Postgres, ES e Datastore;Conhecimento sobre comunicação síncrona e assíncrona;Desenhar comunicação entre os nossos serviços utilizando RabbitMQ e gRPC;Conhecimento sobre Design Patterns e suas aplicações em Go;Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração.Additional informationBENEFÍCIOS DE SER UM FUNDADOR AVENUERegime CLT;Vale refeição e vale alimentação atrativos;Plano de saúde médico e odontológico Bradesco sem custo para colaborador, cônjuge e filhos;Seguro de vida;Gympass;Auxílio Home office (Política de work anywhere);Vale cadeira (Pra deixar seu setup top ;P);Equipamentos disponibilizados (Mac ou Dell);Incentivo educacional (reembolso para cursos, certificações e eventos);Bônus semestral (conforme regras formuladas pela Avenue);24 corretagens grátis e 50 operações com desconto no câmbio para operações de investimento no app da Avenue;USD 100,00 depositados no primeiro salário para abrir sua conta na Avenue e começar a investir!
+SOBRE A AVENUE
+SOBRE A AVENUE
+SOBRE A AVENUE
+
+
+
+Somos uma instituição financeira que está revolucionando o mercado de investimentos, democratizando o acesso ao mercado americano para todos os brasileiros.
+Somos uma instituição financeira que está revolucionando o mercado de investimentos, democratizando o acesso ao mercado americano para todos os brasileiros.
+Você já tem uma conta na Avenue? Abre uma conta lá então pra você ver do que estamos falando 😉
+Você já tem uma conta na Avenue? Abre uma conta lá então pra você ver do que estamos falando 😉
+Hoje, contribuímos para a vida financeira global de mais de 300 mil brasileiros e estamos ampliando nosso time para seguirmos nesse crescimento exponencial. Aqui, você também pode ajudar a construir essa história e participar de um movimento que, não só financeiro, é cultural.
+Hoje, contribuímos para a vida financeira global de mais de 300 mil brasileiros e estamos ampliando nosso time para seguirmos nesse crescimento exponencial. Aqui, você também pode ajudar a construir essa história e participar de um movimento que, não só financeiro, é cultural.
+
+
+
+CULTURA AVENUE
+CULTURA AVENUE
+CULTURA AVENUE
+
+
+
+Não somos e nem queremos ser como a maioria das empresas do mercado financeiro. O nosso maior ativo são as nossas pessoas e investimos nos nossos colaboradores como eles investem em nós. Acreditamos em uma cultura leve e em um ambiente de colaboração para que possamos atingir nossos objetivos como um único time!
+Não somos e nem queremos ser como a maioria das empresas do mercado financeiro. O nosso maior ativo são as nossas pessoas e investimos nos nossos colaboradores como eles investem em nós. Acreditamos em uma cultura leve e em um ambiente de colaboração para que possamos atingir nossos objetivos como um único time!
+Estamos em busca dos melhores talentos, das pessoas independentes e curiosas, que estão dispostas a transbordarem suas posições constantemente. Que desafiam o status quo pra conquistar seus objetivos, mas que ajam sempre de forma responsável e ética, além de entender o valor do trabalho em equipe, porque antes de sermos áreas ou times, somos a Avenue.
+Estamos em busca dos melhores talentos, das pessoas independentes e curiosas, que estão dispostas a transbordarem suas posições constantemente. Que desafiam o status quo pra conquistar seus objetivos, mas que ajam sempre de forma responsável e ética, além de entender o valor do trabalho em equipe, porque antes de sermos áreas ou times, somos a Avenue.
+
+
+
+Let’s go global together!
+Let’s go global together!
+
+
+
+O Time de Tecnologia:
+O Time de Tecnologia:
+O Time de Tecnologia:
+Pensa em um time de alta performance que tá crescendo muito! Esse é o time de tecnologia da Avenue. A tecnologia da Avenue é a espinha dorsal da companhia, uma vez que a área suporta toda nossa operação e permeia todas as áreas da empresa. Para que nossas operações sejam viáveis, ágeis, sem burocracia e com uma experiência genuinamente brasileira ao nosso cliente, contamos com um time super competente e engajado no desenvolvimento do nosso negócio. 1/3 dos nossos fundadores fazem parte do time de tecnologia. Estamos divididos em squads por cada linha de negócio da empresa.
+Pensa em um time de alta performance que tá crescendo muito! Esse é o time de tecnologia da Avenue. A tecnologia da Avenue é a espinha dorsal da companhia, uma vez que a área suporta toda nossa operação e permeia todas as áreas da empresa. Para que nossas operações sejam viáveis, ágeis, sem burocracia e com uma experiência genuinamente brasileira ao nosso cliente, contamos com um time super competente e engajado no desenvolvimento do nosso negócio. 1/3 dos nossos fundadores fazem parte do time de tecnologia. Estamos divididos em squads por cada linha de negócio da empresa.
+
+
+
+Estilo de trabalho:
+Estilo de trabalho:
+Estilo de trabalho:
+Aqui na Avenue, nós valorizamos pessoas independentes e curiosas, por isso damos autonomia e a liberdade com responsabilidade, priorizando sempre a diretriz estratégica do negócio e o remote first, o que proporciona aprendizado através dos desafios de um negócio inovador e disruptivo.
+Aqui na Avenue, nós valorizamos pessoas independentes e curiosas, por isso damos autonomia e a liberdade com responsabilidade, priorizando sempre a diretriz estratégica do negócio e o remote first, o que proporciona aprendizado através dos desafios de um negócio inovador e disruptivo.
+
+
+
+Como será seu dia a dia:
+Como será seu dia a dia:
+Como será seu dia a dia:
+Em um dia normal de trabalho, você irá ajudar o nosso time de tecnologia a melhorar cada vez mais as plataformas que entregamos para todos os nossos clientes, desenvolvendo novas funcionalidades, integrações e melhorando a nossa experiência dos nossos produtos.
+Em um dia normal de trabalho, você irá ajudar o nosso time de tecnologia a melhorar cada vez mais as plataformas que entregamos para todos os nossos clientes, desenvolvendo novas funcionalidades, integrações e melhorando a nossa experiência dos nossos produtos.
+
+
+
+Stack:
+Stack:
+Stack:
+Nosso back-end é baseado em ferramentas de código aberto e funciona como um conjunto de MicroServiços baseados em Golang;Estamos usando RabbitMQ e gRPC para comunicação;Esta posição backend suporta nosso Web App (um React / Redux & JS SPA) e nosso Mobile App (mecanismo Flutter usando WebViews para renderizar nosso Web App, que logo será totalmente nativo).
+Nosso back-end é baseado em ferramentas de código aberto e funciona como um conjunto de MicroServiços baseados em Golang;
+Nosso back-end é baseado em ferramentas de código aberto e funciona como um conjunto de MicroServiços baseados em Golang;
+Estamos usando RabbitMQ e gRPC para comunicação;
+Estamos usando RabbitMQ e gRPC para comunicação;
+Esta posição backend suporta nosso Web App (um React / Redux & JS SPA) e nosso Mobile App (mecanismo Flutter usando WebViews para renderizar nosso Web App, que logo será totalmente nativo).
+Esta posição backend suporta nosso Web App (um React / Redux & JS SPA) e nosso Mobile App (mecanismo Flutter usando WebViews para renderizar nosso Web App, que logo será totalmente nativo).
+Responsibilities and assignments
+Responsibilities and assignments
+Responsibilities and assignments
+
+
+
+Desenhar e propor a arquitetura de soluções;Entender e priorizar entregas relevantes para a Avenue;Suportar e monitorar as plataformas de seu contexto;Implementar soluções escaláveis e robustas.
+Desenhar e propor a arquitetura de soluções;
+Desenhar e propor a arquitetura de soluções;
+Entender e priorizar entregas relevantes para a Avenue;
+Entender e priorizar entregas relevantes para a Avenue;
+Suportar e monitorar as plataformas de seu contexto;
+Suportar e monitorar as plataformas de seu contexto;
+Implementar soluções escaláveis e robustas.
+Implementar soluções escaláveis e robustas.
+
+
+
+Requirements and qualifications
+Requirements and qualifications
+Requirements and qualifications
+
+
+
+Conhecimento e experiência em Golang;Desenvolvimento de serviços robustos e escaláveis;Persistência de dados utilizando MySQL, Postgres, ES e Datastore;Conhecimento sobre comunicação síncrona e assíncrona;Desenhar comunicação entre os nossos serviços utilizando RabbitMQ e gRPC;Conhecimento sobre Design Patterns e suas aplicações em Go;Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração.
+Conhecimento e experiência em Golang;
+Conhecimento e experiência em Golang;
+Desenvolvimento de serviços robustos e escaláveis;
+Desenvolvimento de serviços robustos e escaláveis;
+Persistência de dados utilizando MySQL, Postgres, ES e Datastore;
+Persistência de dados utilizando MySQL, Postgres, ES e Datastore;
+Conhecimento sobre comunicação síncrona e assíncrona;
+Conhecimento sobre comunicação síncrona e assíncrona;
+Desenhar comunicação entre os nossos serviços utilizando RabbitMQ e gRPC;
+Desenhar comunicação entre os nossos serviços utilizando RabbitMQ e gRPC;
+Conhecimento sobre Design Patterns e suas aplicações em Go;
+Conhecimento sobre Design Patterns e suas aplicações em Go;
+Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;
+Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;
+Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração.
+Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração.
+
+
+
+Additional information
+Additional information
+Additional information
+BENEFÍCIOS DE SER UM FUNDADOR AVENUE
+BENEFÍCIOS DE SER UM FUNDADOR AVENUE
+BENEFÍCIOS DE SER UM FUNDADOR AVENUE
+
+
+
+Regime CLT;Vale refeição e vale alimentação atrativos;Plano de saúde médico e odontológico Bradesco sem custo para colaborador, cônjuge e filhos;Seguro de vida;Gympass;Auxílio Home office (Política de work anywhere);Vale cadeira (Pra deixar seu setup top ;P);Equipamentos disponibilizados (Mac ou Dell);Incentivo educacional (reembolso para cursos, certificações e eventos);Bônus semestral (conforme regras formuladas pela Avenue);24 corretagens grátis e 50 operações com desconto no câmbio para operações de investimento no app da Avenue;USD 100,00 depositados no primeiro salário para abrir sua conta na Avenue e começar a investir!
+Regime CLT;
+Regime CLT;
+Vale refeição e vale alimentação atrativos;
+Vale refeição e vale alimentação atrativos;
+Plano de saúde médico e odontológico Bradesco sem custo para colaborador, cônjuge e filhos;
+Plano de saúde médico e odontológico Bradesco sem custo para colaborador, cônjuge e filhos;
+Seguro de vida;
+Seguro de vida;
+Gympass;
+Gympass;
+Auxílio Home office (Política de work anywhere);
+Auxílio Home office (Política de work anywhere);
+Vale cadeira (Pra deixar seu setup top ;P);
+Vale cadeira (Pra deixar seu setup top ;P);
+Equipamentos disponibilizados (Mac ou Dell);
+Equipamentos disponibilizados (Mac ou Dell);
+Incentivo educacional (reembolso para cursos, certificações e eventos);
+Incentivo educacional (reembolso para cursos, certificações e eventos);
+Bônus semestral (conforme regras formuladas pela Avenue);
+Bônus semestral (conforme regras formuladas pela Avenue);
+24 corretagens grátis e 50 operações com desconto no câmbio para operações de investimento no app da Avenue;
+24 corretagens grátis e 50 operações com desconto no câmbio para operações de investimento no app da Avenue;
+USD 100,00 depositados no primeiro salário para abrir sua conta na Avenue e começar a investir!
+USD 100,00 depositados no primeiro salário para abrir sua conta na Avenue e começar a investir!

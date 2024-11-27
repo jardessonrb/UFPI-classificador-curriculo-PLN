@@ -1,0 +1,120 @@
+link-https://www.linkedin.com/jobs/view/4034240055/?eBP=CwEAAAGS7hCsGIvvOQLicxewsubyRV1A7aCkE0S6KRtBuw5w3wuLkPmiYtaBXcskWr7yLu8O4Daqk2PAN4nFQ_uJ9zVnnpqQc-pD2e-Hr0H3XJZESxWdWbD1XCBcQcgasfvWf8iDGdcBMMpowMwIoZBPRk36Cs3MpG5vF2aia4rb_rhZSWmO_cAAnjLHtuBhUmMR0yOz6Rb0CJhlRooz4yvoqYrym_Z8gdNch6sbJwcBJvCghxRPciKsZoEis1P2AFNd8T4JpSIh6NwFGoMMKzkJp5FFPJSBXhd9HG0D3g61ZTUJD4czwcpEpl0Hpehcmvm5D6Lmvj6Vb6U7MIOOVr-vy_Ol-bRkalR3xWUV0KTA-lNHnfdLEp95ngwYC1lIEJHs4OUglNwqcBhpTgky6DczXbIMFEcVPymUmH-XUxB9R0XVVL3xIXQt5iWiMzuj97L8EEsJ6hL4MfnxxYjPvbnxVrHSWEEESTAjS_ZAeSKIB-d7dhKRCkRwLwM-5hg26OevE8y2Yv4fsxP_6kZUiw&refId=6uBrWg%2BspNhpKWMdudHZnA%3D%3D&trackingId=zNZBQ2WUvj2Pxv3NyW4b8A%3D%3D&trk=flagship3_search_srp_jobs
+
+Fullstack,  Software Architect, Brazil
+Sobre a vaga
+Buscamos pessoas localizadas no Brasil para trabalhar comoFullstack Software Architecte atuar em um projeto do ramo financeiro.Responsabilidades:- Suportar tecnicamente a equipe;- Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;- Participar da entrega e da defesa de soluções técnicas;- Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.Requisitos para este desafio:-Experiência com Cloud Azure;- Experiência com linguagens Java, springboot, Angular e NodeJs;- Experiência com cultura de qualidade (Testes unitário, funcionais e automatizados);- Experiência com cultura DevOps;- Experiência em Code-review;- Domínio em boas práticas e princípios de desenvolvimento (Clean Code e hexagonal architecture);- Experiencia em desenhos de arquitetura e diagramas (C4).Você precisa ter prática com:- Boa lógica de programação- Desenvolvimento em Java (Desejável práticas com java 17)- Sprint boot 3.x- Spock Framework para testes unitários ou boa prática com JUnit- Conhecimentos básicos de docker, Openshift- Front end Angular 12 ou superior- Conhecimento básico de Cloud - Microsoft Azure- Entendimento de Agile e de ferramentas de gerenciamento de atividades;Diferenciais:- Autonomia- Proatividade- Habilidades de comunicação e capacidade de trabalhar em equipe- Tem experiência / habilidade para ensinar pessoas- Conhecimento em Generative AI.Conhecimento em ferramenta de observabilidade, como Dynatrace;- Estruturação de backlogs técnico e refinamento de estórias;Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras#MidSenior
+Buscamos pessoas localizadas no Brasil para trabalhar comoFullstack Software Architecte atuar em um projeto do ramo financeiro.
+Buscamos pessoas localizadas no Brasil para trabalhar comoFullstack Software Architecte atuar em um projeto do ramo financeiro.
+
+Fullstack Software Architect
+
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+
+- Suportar tecnicamente a equipe;
+- Suportar tecnicamente a equipe;
+- Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;
+- Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;
+- Participar da entrega e da defesa de soluções técnicas;
+- Participar da entrega e da defesa de soluções técnicas;
+- Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.
+- Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.
+Requisitos para este desafio:
+Requisitos para este desafio:
+Requisitos para este desafio:
+-Experiência com Cloud Azure;
+-Experiência com Cloud Azure;
+
+- Experiência com linguagens Java, springboot, Angular e NodeJs;
+- Experiência com linguagens Java, springboot, Angular e NodeJs;
+- Experiência com cultura de qualidade (Testes unitário, funcionais e automatizados);
+- Experiência com cultura de qualidade (Testes unitário, funcionais e automatizados);
+- Experiência com cultura DevOps;
+- Experiência com cultura DevOps;
+- Experiência em Code-review;
+- Experiência em Code-review;
+- Domínio em boas práticas e princípios de desenvolvimento (Clean Code e hexagonal architecture);
+- Domínio em boas práticas e princípios de desenvolvimento (Clean Code e hexagonal architecture);
+- Experiencia em desenhos de arquitetura e diagramas (C4).
+- Experiencia em desenhos de arquitetura e diagramas (C4).
+Você precisa ter prática com:
+Você precisa ter prática com:
+Você precisa ter prática com:
+- Boa lógica de programação
+- Boa lógica de programação
+- Desenvolvimento em Java (Desejável práticas com java 17)
+- Desenvolvimento em Java (Desejável práticas com java 17)
+- Sprint boot 3.x
+- Sprint boot 3.x
+- Spock Framework para testes unitários ou boa prática com JUnit
+- Spock Framework para testes unitários ou boa prática com JUnit
+- Conhecimentos básicos de docker, Openshift
+- Conhecimentos básicos de docker, Openshift
+- Front end Angular 12 ou superior
+- Front end Angular 12 ou superior
+- Conhecimento básico de Cloud - Microsoft Azure
+- Conhecimento básico de Cloud - Microsoft Azure
+
+- Entendimento de Agile e de ferramentas de gerenciamento de atividades;
+- Entendimento de Agile e de ferramentas de gerenciamento de atividades;
+Diferenciais:
+Diferenciais:
+Diferenciais:
+- Autonomia
+- Autonomia
+- Proatividade
+- Proatividade
+- Habilidades de comunicação e capacidade de trabalhar em equipe
+- Habilidades de comunicação e capacidade de trabalhar em equipe
+
+- Tem experiência / habilidade para ensinar pessoas
+- Tem experiência / habilidade para ensinar pessoas
+- Conhecimento em Generative AI.
+- Conhecimento em Generative AI.
+Conhecimento em ferramenta de observabilidade, como Dynatrace;
+Conhecimento em ferramenta de observabilidade, como Dynatrace;
+- Estruturação de backlogs técnico e refinamento de estórias;
+- Estruturação de backlogs técnico e refinamento de estórias;
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Gympass
+- Gympass
+- PLR;
+- PLR;
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- CI&T University;
+- CI&T University;
+- Clube de descontos;
+- Clube de descontos;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+#MidSenior
+#MidSenior
+
+
+

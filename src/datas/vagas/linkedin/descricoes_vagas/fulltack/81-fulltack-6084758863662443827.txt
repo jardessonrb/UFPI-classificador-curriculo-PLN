@@ -1,0 +1,152 @@
+link-https://www.linkedin.com/jobs/view/4052279497/?eBP=CwEAAAGS7hCcPq2k2EdXk8KuU4bBxpUtmvLz3cWGoUIdCCa8F24JrI2RbOrlMtdkk6qtiqW5lSyNTvVbTuOmc2u-N_ekzLP2MVQ1b7vXdjMADG3g0i3HODwSpWXl-edU5wnYwLO622joW2iaj_Q6FAhM_4T3PO-V-s41i4xZbQGoIOq-MO9fxNAI6YXYX3moQxegNRoajRq4jboWVNInAg86bnzYe9gvwZj8sh41fmbDt8U-Z0ID_JH1k81mUIAbuMLkUcAh55T_pCLbPJUZCw2FqX7d4JpMI0b6P4alcIxKf1a5wkHz9vT8pyGxSzwEOtG7oZbO1KB59WJ2oGzDhyjiQSsbY7SJ2GJzmq0-1XhE59Qch1qRdbgik5QTeOo8Pi0b5VGzHI6VSBlJU2-EB3eivJh740FNWChaERts46ocYWe60kGdwjzhy9c_No886fKMxPkJTDY70mgf0Q&refId=rzPhVfZTcMOLs0QSR2drFQ%3D%3D&trackingId=kaZwg%2BWR%2BWMxS1gQWeDHHg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Java Full Stack Pleno (Vaga para a empresa Mobuss, uma empresa do Grupo Teclógica)
+Sobre a vaga
+Venha trabalhar conosco:Vaga para a empresa Mobuss, uma empresa do Grupo Teclógica.Estamos comprometidos em transformar a gestão de obras no Brasil com soluções tecnológicas que impulsionam eficiência e qualidade no setor da construção civil. Parte do grupo Teclógica, nossa plataforma é desenhada para apoiar construtoras e incorporadoras, facilitando a comunicação entre gestores, equipes de campo e tomadores de decisão. Oferecemos ferramentas que abrangem desde o controle de segurança e acompanhamento de obras até a gestão de pós-obra.Trabalhamos de forma colaborativa e inovadora para criar soluções que realmente fazem a diferença no dia a dia das empresas do setor. São mais de 40 colaboradores, com mais de 300 clientes atendidos em diversas cidades brasileiras.Se você tem experiência em desenvolvimento e busca um novo desafio onde possa utilizar suas habilidades para impactar positivamente nossos produtos, esta é a sua oportunidade! Então, esta vaga deDesenvolvedor(a) Java Full Stack Plenoé para você! Se você gosta de enfrentar desafios técnicos e busca um espaço onde seu talento possa brilhar, queremos conhecer você!Vem construir o futuro da tecnologia na construção junto com a gente!Como parte do nosso time, suas principais responsabilidades serão:Desenvolver e implementar novas funcionalidades e melhorias nos produtos da plataforma Mobuss;Escrever código limpo, testável e de fácil manutenção, focado na qualidade e nas boas práticas de programação;Identificar e corrigir problemas de desempenho, otimizando o sistema e garantindo a escalabilidade;Colaborar com o time na criação de interfaces de usuário utilizando JSF, Primefaces e outras tecnologias de front-end;Realizar revisões de código e fornecer feedback construtivo aos colegas;Provocar e manter a cultura de documentação;Participar ativamente de discussões técnicas, propondo soluções para os desafios encontrados e contribuindo para decisões de arquitetura.Requisitos e Qualificações:Experiência mínima de 2 anos em desenvolvimento Java, com sólidos conhecimentos em J2EE e JPA;Experiência no desenvolvimento front-end, incluindo JavaScript, HTML5, CSS ou frameworks como JSF/Primefaces;Experiência em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou correlatos);Experiência com controle de versão utilizando Git;Conhecimento de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;Inglês técnico.Você pode se diferenciar:Experiência em melhorias de performance e otimização de consultas;Experiência no desenvolvimento de aplicativos móveis nativos para Android, utilizando Java ou Kotlin;Experiência em desenvolvimento de APIs RESTful para integração entre sistemas;Experiência na construção e manutenção de relatórios com JasperReports;Ensino superior completo ou cursando em Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas.Benefícios:PPLR - Participação nos Lucros e Resultados;Vale Alimentação/Refeição;Birthday Off;Auxílio Saúde;Equipamentos de Trabalho;Modalidade híbrida de trabalho;Jornada de Trabalho Reduzida e Flexível;Banco de Horas (Opcional);Auxílio Home Office;Seguro de Vida;Auxílio Educação;Turmas de Inglês (In Company);Vale Transporte;Auxílio Creche;Ginástica Laboral;Convênio com Plano Odontológico;Convênio com Rede de Farmácias;Convênio com Rede de Cinemas;Convênio com o Sesc, entre outros;Benefício de academias e bem-estar com a GoGood;Benefício que oferece consultas médicas, psicológicas e outros serviços com a Clude;Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.Não perca essa oportunidade e venha fazer parte do nosso time.Valorizamos a inclusão, e todas as nossas vagas estão abertas a pessoas com deficiência!
+Venha trabalhar conosco:
+
+
+
+
+
+
+
+
+Desenvolvedor(a) Java Full Stack Pleno
+
+
+
+Vem construir o futuro da tecnologia na construção junto com a gente!
+
+
+Como parte do nosso time, suas principais responsabilidades serão:
+
+
+Desenvolver e implementar novas funcionalidades e melhorias nos produtos da plataforma Mobuss;Escrever código limpo, testável e de fácil manutenção, focado na qualidade e nas boas práticas de programação;Identificar e corrigir problemas de desempenho, otimizando o sistema e garantindo a escalabilidade;Colaborar com o time na criação de interfaces de usuário utilizando JSF, Primefaces e outras tecnologias de front-end;Realizar revisões de código e fornecer feedback construtivo aos colegas;Provocar e manter a cultura de documentação;Participar ativamente de discussões técnicas, propondo soluções para os desafios encontrados e contribuindo para decisões de arquitetura.
+Desenvolver e implementar novas funcionalidades e melhorias nos produtos da plataforma Mobuss;
+Desenvolver e implementar novas funcionalidades e melhorias nos produtos da plataforma Mobuss;
+Escrever código limpo, testável e de fácil manutenção, focado na qualidade e nas boas práticas de programação;
+Escrever código limpo, testável e de fácil manutenção, focado na qualidade e nas boas práticas de programação;
+Identificar e corrigir problemas de desempenho, otimizando o sistema e garantindo a escalabilidade;
+Identificar e corrigir problemas de desempenho, otimizando o sistema e garantindo a escalabilidade;
+Colaborar com o time na criação de interfaces de usuário utilizando JSF, Primefaces e outras tecnologias de front-end;
+Colaborar com o time na criação de interfaces de usuário utilizando JSF, Primefaces e outras tecnologias de front-end;
+Realizar revisões de código e fornecer feedback construtivo aos colegas;
+Realizar revisões de código e fornecer feedback construtivo aos colegas;
+Provocar e manter a cultura de documentação;
+Provocar e manter a cultura de documentação;
+Participar ativamente de discussões técnicas, propondo soluções para os desafios encontrados e contribuindo para decisões de arquitetura.
+Participar ativamente de discussões técnicas, propondo soluções para os desafios encontrados e contribuindo para decisões de arquitetura.
+
+
+Requisitos e Qualificações:
+
+
+Experiência mínima de 2 anos em desenvolvimento Java, com sólidos conhecimentos em J2EE e JPA;Experiência no desenvolvimento front-end, incluindo JavaScript, HTML5, CSS ou frameworks como JSF/Primefaces;Experiência em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou correlatos);Experiência com controle de versão utilizando Git;Conhecimento de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;Inglês técnico.
+Experiência mínima de 2 anos em desenvolvimento Java, com sólidos conhecimentos em J2EE e JPA;
+Experiência mínima de 2 anos em desenvolvimento Java, com sólidos conhecimentos em J2EE e JPA;
+Experiência no desenvolvimento front-end, incluindo JavaScript, HTML5, CSS ou frameworks como JSF/Primefaces;
+Experiência no desenvolvimento front-end, incluindo JavaScript, HTML5, CSS ou frameworks como JSF/Primefaces;
+Experiência em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou correlatos);
+Experiência em bancos de dados relacionais (PostgreSQL, SQLite, Oracle ou correlatos);
+Experiência com controle de versão utilizando Git;
+Experiência com controle de versão utilizando Git;
+Conhecimento de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;
+Conhecimento de padrões de projeto (MVC, MVVM, entre outros) e boas práticas de programação;
+Inglês técnico.
+Inglês técnico.
+
+
+Você pode se diferenciar:
+
+
+Experiência em melhorias de performance e otimização de consultas;Experiência no desenvolvimento de aplicativos móveis nativos para Android, utilizando Java ou Kotlin;Experiência em desenvolvimento de APIs RESTful para integração entre sistemas;Experiência na construção e manutenção de relatórios com JasperReports;Ensino superior completo ou cursando em Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas.
+Experiência em melhorias de performance e otimização de consultas;
+Experiência em melhorias de performance e otimização de consultas;
+Experiência no desenvolvimento de aplicativos móveis nativos para Android, utilizando Java ou Kotlin;
+Experiência no desenvolvimento de aplicativos móveis nativos para Android, utilizando Java ou Kotlin;
+Experiência em desenvolvimento de APIs RESTful para integração entre sistemas;
+Experiência em desenvolvimento de APIs RESTful para integração entre sistemas;
+Experiência na construção e manutenção de relatórios com JasperReports;
+Experiência na construção e manutenção de relatórios com JasperReports;
+Ensino superior completo ou cursando em Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas.
+Ensino superior completo ou cursando em Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas.
+
+
+Benefícios:
+
+
+PPLR - Participação nos Lucros e Resultados;Vale Alimentação/Refeição;Birthday Off;Auxílio Saúde;Equipamentos de Trabalho;Modalidade híbrida de trabalho;Jornada de Trabalho Reduzida e Flexível;Banco de Horas (Opcional);Auxílio Home Office;Seguro de Vida;Auxílio Educação;Turmas de Inglês (In Company);Vale Transporte;Auxílio Creche;Ginástica Laboral;Convênio com Plano Odontológico;Convênio com Rede de Farmácias;Convênio com Rede de Cinemas;Convênio com o Sesc, entre outros;Benefício de academias e bem-estar com a GoGood;Benefício que oferece consultas médicas, psicológicas e outros serviços com a Clude;Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+PPLR - Participação nos Lucros e Resultados;
+PPLR - Participação nos Lucros e Resultados;
+
+Vale Alimentação/Refeição;
+Vale Alimentação/Refeição;
+
+Birthday Off;
+Birthday Off;
+
+Auxílio Saúde;
+Auxílio Saúde;
+
+Equipamentos de Trabalho;
+Equipamentos de Trabalho;
+
+Modalidade híbrida de trabalho;
+Modalidade híbrida de trabalho;
+
+Jornada de Trabalho Reduzida e Flexível;
+Jornada de Trabalho Reduzida e Flexível;
+
+Banco de Horas (Opcional);
+Banco de Horas (Opcional);
+
+Auxílio Home Office;
+Auxílio Home Office;
+
+Seguro de Vida;
+Seguro de Vida;
+
+Auxílio Educação;
+Auxílio Educação;
+
+Turmas de Inglês (In Company);
+Turmas de Inglês (In Company);
+
+Vale Transporte;
+Vale Transporte;
+
+Auxílio Creche;
+Auxílio Creche;
+
+Ginástica Laboral;
+Ginástica Laboral;
+
+Convênio com Plano Odontológico;
+Convênio com Plano Odontológico;
+
+Convênio com Rede de Farmácias;
+Convênio com Rede de Farmácias;
+
+Convênio com Rede de Cinemas;
+Convênio com Rede de Cinemas;
+
+Convênio com o Sesc, entre outros;
+Convênio com o Sesc, entre outros;
+
+Benefício de academias e bem-estar com a GoGood;
+Benefício de academias e bem-estar com a GoGood;
+
+Benefício que oferece consultas médicas, psicológicas e outros serviços com a Clude;
+Benefício que oferece consultas médicas, psicológicas e outros serviços com a Clude;
+
+Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+Empresa Cidadã: licença maternidade e paternidade estendida + presente do bebê.
+
+
+
+
+
+Valorizamos a inclusão, e todas as nossas vagas estão abertas a pessoas com deficiência!
+
+

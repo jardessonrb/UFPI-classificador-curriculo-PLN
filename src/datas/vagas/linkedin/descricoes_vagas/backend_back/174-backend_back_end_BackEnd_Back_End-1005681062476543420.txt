@@ -1,0 +1,88 @@
+link-https://www.linkedin.com/jobs/view/4052353298/?eBP=CwEAAAGS7lH1MB2QQmwaboBdg9DsvY0g2MM8UgXq5SvFlR_ThJFHVfr_zm5bKY7i5AkhOaJcYk9onJ3EuewtHs7KKYT96D3NxxwzoRsf7diOcBtDozIv-9DhkX1qIFyxXl5A9hVMU2iOqM21_n2tQdCHYkG_RCKlqDB_JwTGo4aRTZP3y_JUiPeUwmFYuTsO4kf8f9JpfzDusfJbVVIp7y2OtPnNx5RQjO-amHpeg2bqkR4JW61FOmEmMGeFpbKElcT8pCyzI2e0oMBNsVRcQOkaRkqhfTRWZN8uVwMgof9yEdQpSZA4XMXmZuZqZNTDkVUrUKzgO-2sqFE_21jkSevRBehhbcnSbKml2ZeWzNsUOhICG_J9sg24nvj3uC2P0dU6ojk1dpWazIAbOsOOqUgbC-aEt6uQL-YtxDOkuGm_5ytjO3YwJiQrbX_wwUzz3zTcovtiJEN0HzBVbdFLZMQ&refId=8%2F37JKGFUMmMKgYC%2B%2FmUsQ%3D%3D&trackingId=rVWwhsfRIJKxNGagpJitJA%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev Backend Node.js
+Sobre a vaga
+Desenvolvedor Node.JSProcuramos um Desenvolvedor Node.js com experiência robusta e conhecimentos aprofundados em tecnologias modernas de desenvolvimento web e cloud. O candidato ideal deve ter habilidades comprovadas em Node.js e estar disposto a trabalhar em um ambiente dinâmico de tecnologia financeira, onde a inovação e a qualidade são essenciais.Sobre a Fuston:A Fuston é uma referência em Tecnologia, especializada em Outsourcing, Body Shop e Desenvolvimento de Soluções Customizadas. Atuamos estrategicamente alocando profissionais de TI em empresas de diversos portes, proporcionando soluções tecnológicas personalizadas. Nossa fábrica de software é o epicentro onde transformamos conceitos em realidade, impulsionando a inovação e a excelência.Responsabilidades:Desenvolver e manter aplicações serverless utilizando Node.js, TypeScript e JavaScript.Trabalhar com AWS, especialmente com Lambdas e AWS Sam.Desenvolver APIs robustas e eficientes.Garantir a qualidade do código através de testes unitários, de integração e E2E.Implementar e manter bancos de dados PostgreSQL e DynamoDB.Construir e gerenciar aplicações modulares usando o framework NestJs.Qualificações:Mínimo de 3 anos de experiência profissional com Node.js.Proficiência em TypeScript e JavaScript.Formação acadêmica em tecnologia, ciência da computação, engenharia de software ou áreas correlatas (ou em andamento).Conhecimento avançado em bancos de dados relacionais e não relacionais.Experiência com NestJs e frameworks modernos de desenvolvimento.Habilidades Desejáveis:Experiência com arquitetura serverless e microsserviços.Conhecimento em AWS, especialmente em serviços como Lambda, DynamoDB, Elasticache.Experiência ou conhecimento teórico em resiliência e tolerância a falhas em sistemas.Familiaridade com metodologias Ágeis de desenvolvimento.Experiência no setor financeiro é um diferencial.Conhecimento em comunicação entre microserviços, incluindo o uso de RabbitMQ, Axios, gRPC, AWS SQS, e AWS SNS.Benefícios:Vale Ifood Benefícios | Alimentação, Refeição, Auxilio Cultura ou Saldo Livre.Plano de Saúde, Odontológico (Amil) e Seguro de Vida.Flexibilidade de HorárioFérias Remunerada e Day Off E muito maisss! 🚀Detalhes: Modelo: RemotoPorque fazer parte da Fuston:Na Fuston, valorizamos a excelência profissional e pessoal. Oferecemos um ambiente inovador e colaborativo, onde pessoa contribui para o sucesso da empresa. Se você procura desafios, oportunidades de crescimento e deseja fazer parte de uma empresa comprometida com a inovação, a Fuston é o lugar certo para você!Parte superior do formulário
+
+
+
+
+Sobre a Fuston:
+
+
+
+
+
+Desenvolver e manter aplicações serverless utilizando Node.js, TypeScript e JavaScript.Trabalhar com AWS, especialmente com Lambdas e AWS Sam.Desenvolver APIs robustas e eficientes.Garantir a qualidade do código através de testes unitários, de integração e E2E.Implementar e manter bancos de dados PostgreSQL e DynamoDB.Construir e gerenciar aplicações modulares usando o framework NestJs.
+Desenvolver e manter aplicações serverless utilizando Node.js, TypeScript e JavaScript.
+Desenvolver e manter aplicações serverless utilizando Node.js, TypeScript e JavaScript.
+Trabalhar com AWS, especialmente com Lambdas e AWS Sam.
+Trabalhar com AWS, especialmente com Lambdas e AWS Sam.
+Desenvolver APIs robustas e eficientes.
+Desenvolver APIs robustas e eficientes.
+Garantir a qualidade do código através de testes unitários, de integração e E2E.
+Garantir a qualidade do código através de testes unitários, de integração e E2E.
+Implementar e manter bancos de dados PostgreSQL e DynamoDB.
+Implementar e manter bancos de dados PostgreSQL e DynamoDB.
+Construir e gerenciar aplicações modulares usando o framework NestJs.
+Construir e gerenciar aplicações modulares usando o framework NestJs.
+
+
+
+
+
+Mínimo de 3 anos de experiência profissional com Node.js.Proficiência em TypeScript e JavaScript.Formação acadêmica em tecnologia, ciência da computação, engenharia de software ou áreas correlatas (ou em andamento).Conhecimento avançado em bancos de dados relacionais e não relacionais.Experiência com NestJs e frameworks modernos de desenvolvimento.
+Mínimo de 3 anos de experiência profissional com Node.js.
+Mínimo de 3 anos de experiência profissional com Node.js.
+Proficiência em TypeScript e JavaScript.
+Proficiência em TypeScript e JavaScript.
+Formação acadêmica em tecnologia, ciência da computação, engenharia de software ou áreas correlatas (ou em andamento).
+Formação acadêmica em tecnologia, ciência da computação, engenharia de software ou áreas correlatas (ou em andamento).
+Conhecimento avançado em bancos de dados relacionais e não relacionais.
+Conhecimento avançado em bancos de dados relacionais e não relacionais.
+Experiência com NestJs e frameworks modernos de desenvolvimento.
+Experiência com NestJs e frameworks modernos de desenvolvimento.
+
+
+
+
+
+Experiência com arquitetura serverless e microsserviços.Conhecimento em AWS, especialmente em serviços como Lambda, DynamoDB, Elasticache.Experiência ou conhecimento teórico em resiliência e tolerância a falhas em sistemas.Familiaridade com metodologias Ágeis de desenvolvimento.Experiência no setor financeiro é um diferencial.Conhecimento em comunicação entre microserviços, incluindo o uso de RabbitMQ, Axios, gRPC, AWS SQS, e AWS SNS.
+Experiência com arquitetura serverless e microsserviços.
+Experiência com arquitetura serverless e microsserviços.
+Conhecimento em AWS, especialmente em serviços como Lambda, DynamoDB, Elasticache.
+Conhecimento em AWS, especialmente em serviços como Lambda, DynamoDB, Elasticache.
+Experiência ou conhecimento teórico em resiliência e tolerância a falhas em sistemas.
+Experiência ou conhecimento teórico em resiliência e tolerância a falhas em sistemas.
+Familiaridade com metodologias Ágeis de desenvolvimento.
+Familiaridade com metodologias Ágeis de desenvolvimento.
+Experiência no setor financeiro é um diferencial.
+Experiência no setor financeiro é um diferencial.
+Conhecimento em comunicação entre microserviços, incluindo o uso de RabbitMQ, Axios, gRPC, AWS SQS, e AWS SNS.
+Conhecimento em comunicação entre microserviços, incluindo o uso de RabbitMQ, Axios, gRPC, AWS SQS, e AWS SNS.
+
+
+
+
+
+Vale Ifood Benefícios | Alimentação, Refeição, Auxilio Cultura ou Saldo Livre.Plano de Saúde, Odontológico (Amil) e Seguro de Vida.Flexibilidade de HorárioFérias Remunerada e Day Off E muito maisss! 🚀Detalhes: Modelo: Remoto
+Vale Ifood Benefícios | Alimentação, Refeição, Auxilio Cultura ou Saldo Livre.
+Vale Ifood Benefícios | Alimentação, Refeição, Auxilio Cultura ou Saldo Livre.
+
+Plano de Saúde, Odontológico (Amil) e Seguro de Vida.
+Plano de Saúde, Odontológico (Amil) e Seguro de Vida.
+
+Flexibilidade de Horário
+Flexibilidade de Horário
+
+Férias Remunerada e Day Off E muito maisss! 🚀
+Férias Remunerada e Day Off E muito maisss! 🚀
+
+Detalhes: Modelo: Remoto
+Detalhes: Modelo: Remoto
+
+
+
+
+Porque fazer parte da Fuston:
+

@@ -1,0 +1,107 @@
+link-https://www.linkedin.com/jobs/view/4056706850/?eBP=CwEAAAGS7lMjysTcGgV8dp5e3_TXgiQbLFx7zc9-F9dF1vS3lN8BdIDKxAeUIwNQwutEVUREUTHKrnebDvwS3AVkg0yAkzzVOQtv24Zj3fJRgHJ4wgphuJbw9bVrj5J55TEj5rXmhgY1olFfpStL-pEDRLjsFZXt9W344kPdr7x0yA5ZpI8Hazk0TSK37gtZIfVDiqR1OL9EbdWsbh1sohyI6oJvJmoU-Y7kjBmF5MBdXGwBuNjngUAwIolrbhLAqx7bwwgLDdh9787AIlwGWHbifmc2S7EpVpSWmZGlzWk1tnVpbivUek9a8CEK2H6eRun36wpxkOUMRSTUeS8fBGGrIdRrfIRcsZCwnWrLEwzwobFUTp9TZHHEOf_yZO5n8hEPOg1xc_B1EAU9AAmM2zQrlNbWsGgfqJA4FNMvduIUuU02q7qc5M0gGgY3Y9E4JJx6thoNPG_PGXNtVIZ0LEaAz3JMMwnH3LO48sjptM0xz70YApCL2bd11UuiZc-fVMf6&refId=OQu53QYd3G51YfBB8Smbnw%3D%3D&trackingId=lyQZNL9nR%2BOlLtrCtH7iXg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) de Software Backend Sênior
+Sobre a vaga
+Como é fazer parte da equipe Seazone?Fazer parte dessa equipe significa que você ajudará a compor o time da maior empresa nacional parceira do Airbnb e uma das Top 20 Startups do LinkedIn, somando ao nosso propósito de trazer inovação e tecnologia para o mercado de aluguel por temporada com o objetivo de maximizar a rentabilidade de clientes proprietários e investidores, além de garantir uma excelente experiência ao hóspede que escolhe os imóveis Seazone como o seu destino fora de casa 🚀O que a Seazone Tecnologia faz?Esse time é um dos grandes responsáveis pelo crescimento exponencial da nossa startup, sendo dividido nas equipes de Dados, Desenvolvimento Web e Processos. Através delas, conseguimos extrair dados de diversas plataformas de locação por temporada à nível nacional, compreendendo quais são as melhores regiões para avançarmos com o nosso serviço de gestão de imóveis e para estruturarmos novos empreendimentos. Além disso, desenvolvemos e aprimoramos diariamente nosso próprio site de reservas e um sistema de administração de propriedades para que os proprietários tenham acesso em tempo real aos índices de locação do seu imóvel, assim como consiga bloquear a agenda em momentos em que ele queira utilizá-lo. Portanto, é através da tecnologia que fazemos desde a automatização de todos os nossos processos internos até a tomada de grandes decisões sobre o avanço do nosso modelo de negócio, praticando nossos valores de uso de dados, excelência, transparência e foco no cliente.Responsabilidades e atribuições💼 O que você vai fazerDefinição de Arquitetura de Sistemas e Serviços do Time WebIntegração com plataformas externasDesenvolvimento de APIs para conexão entre Backend e FrontendTestes unitários em código em nível de backendRequisitos e qualificações🔍 O que esperamos de você:Conhecimento em Python e seus frameworks (DJango, FastAPI)Conhecimento em Metodologias ÁgeisConhecimento em Cloud (AWS)Conhecimento em GithubConhecimento em Frameworks de Testes UnitáriosConhecimento em Plataformas de CI/CDConhecimento em Plataformas de monitoramento de sistemasInformações adicionaisIncentivos🍽️ Auxílio alimentação - Caju no valor de R$ 462,00;🩺 Plano de saúde após 6 meses como PJ na Seazone;💰 Fixo + Bonificação de acordo com o atingimento de metas;🚀 Avaliações semestrais com a perspectiva de crescimento;🗣️ Cultura de Feedback;🎂 Day-off de aniversário;⏸️Recesso maternidade / paternidade;💰 Bônus por indicação;✈️ Descontos em hospedagens pelo nosso site de reservas;🏝️Hospedagem em Florianópolis (SC) para o evento de comemoração do aniversário da Seazone;🖥️ Escritório disponível para coworking em Florianópolis (SC).Parcerias🏋️‍♀️ Parceria com a Gympass;📚 Parceria com Escolas de Idiomas;📓Parceria com a ACATE - descontos em mensalidades universitárias, entre outras vantagens;🧠 Parceria com a Conexa Saúde e Psicologia Viva - Telemedicina 24h;🐾Parceria com a Guapeco - Plano de Saúde Pet.Sobre a contratação💼Contrato no modelo PJ;👨‍💻Trabalho Remoto;🌴Pausa remunerada de 15 dias a cada 6 meses de contrato.
+Como é fazer parte da equipe Seazone?
+
+
+
+
+O que a Seazone Tecnologia faz?
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+💼 O que você vai fazer
+
+
+
+Definição de Arquitetura de Sistemas e Serviços do Time WebIntegração com plataformas externasDesenvolvimento de APIs para conexão entre Backend e FrontendTestes unitários em código em nível de backend
+Definição de Arquitetura de Sistemas e Serviços do Time Web
+Definição de Arquitetura de Sistemas e Serviços do Time Web
+Integração com plataformas externas
+Integração com plataformas externas
+Desenvolvimento de APIs para conexão entre Backend e Frontend
+Desenvolvimento de APIs para conexão entre Backend e Frontend
+Testes unitários em código em nível de backend
+Testes unitários em código em nível de backend
+
+
+
+Requisitos e qualificações
+
+
+🔍 O que esperamos de você:
+
+
+Conhecimento em Python e seus frameworks (DJango, FastAPI)Conhecimento em Metodologias ÁgeisConhecimento em Cloud (AWS)Conhecimento em GithubConhecimento em Frameworks de Testes UnitáriosConhecimento em Plataformas de CI/CDConhecimento em Plataformas de monitoramento de sistemas
+Conhecimento em Python e seus frameworks (DJango, FastAPI)
+Conhecimento em Python e seus frameworks (DJango, FastAPI)
+Conhecimento em Metodologias Ágeis
+Conhecimento em Metodologias Ágeis
+Conhecimento em Cloud (AWS)
+Conhecimento em Cloud (AWS)
+Conhecimento em Github
+Conhecimento em Github
+Conhecimento em Frameworks de Testes Unitários
+Conhecimento em Frameworks de Testes Unitários
+Conhecimento em Plataformas de CI/CD
+Conhecimento em Plataformas de CI/CD
+Conhecimento em Plataformas de monitoramento de sistemas
+Conhecimento em Plataformas de monitoramento de sistemas
+
+
+
+Informações adicionais
+
+
+Incentivos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parcerias
+
+
+
+
+
+
+
+
+
+
+
+
+Sobre a contratação
+
+
+
+
+
+

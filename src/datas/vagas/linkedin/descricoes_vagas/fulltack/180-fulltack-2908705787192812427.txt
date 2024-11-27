@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4059232823/?eBP=CwEAAAGS7hEA08AFXd9_lkHQkwA1V_eT2o0Wi-Tr2QYkYTRNICX67uH_Z5Piw_KR3q_sV-r6hrd9y_8s7uCluaU8zI88fhsTv6Azs2gOh5cLvhRWZ2MWNaJvAybfwU-RcZAXyhJ1KXi40H8pJZTnGvA__ISR40OOsVXeS4fpkLjDefL_BLOpxeASg8jx6Hl8Uvq9jXt7UDbfNoDw1eibaVoDG5I5eRylxxe9IYRv-W3rwYc2m0CvnozM6RRE7MFVHgTT_YsNDUd1I7hDK0qu0y4E_83A-M5JNRR0zAODmYYOTRwRYbv4SnViq3lXsLSewigQMMHXtm2KDfh6FpGA0Y71uQ27eG5QI1YIAgcvYu5LjBSvJX6HBGjOBH_vflu8ySuBFM_hbppe7LsU_xh6HZvqbXuAF7EoYHMbZxnXVHKnjNbN0LRpeG_S8g9PEb83SDnjvH9rTsIicG_OLypiv_R-mq7VXADUIwb6fdsN4A0v2k_OQMCzs2kED9zI0UP18zIVvFe16v4&refId=3YGLWg%2BYda%2B1JaFxHLGuSw%3D%3D&trackingId=AOsGqg6khvBqhMehIoTakA%3D%3D&trk=flagship3_search_srp_jobs
+
+Java Developer with gRPC Experience - Remote - Latin America
+Sobre a vaga
+About FullStackFullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, and Stanford University build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their greatest potential.We’re Most Proud OfOffering life-changing career opportunities to talented software professionals across the Americas.Building highly-skilled software development teams for hundreds of the world’s greatest companies.Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.Our 4.5-star rating on GlassDoor.Our client Net Promoter Score of 68, twice the industry average.The PositionWe're Looking To Hire a Java Developer With GRPC Experience To Join Our Team. You'll Work With Our Incredible Clients In One Of Two WaysTeam Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.What We're Looking For5+ years of professional software development experience.Advanced English is required.Successful completion of a four-year college degree is required.Meaningful experience working with Java.Hands-on experience with gRPC, including implementing and consuming gRPC services.Meaningful experience working with the Springboot framework.Experience working with PostgreSQL or traditional SQL databases.Experience designing and implementing RESTful web services using Spring MVC or similar technologies.Ability to work through new and difficult issues and contribute to libraries as needed.Ability to create and maintain continuous integration and delivery of applications.Forensic attention to detail.A positive mindset and a can-do attitude.Experience working on Agile/Scrum teams.Meaningful experience working on large, complex systems.Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.Ability to consistently work 40 hours per week.What We OfferCompetitive pay in your local currency.100% remote work.The ability to work with leading startups and Fortune 500 companies.English Classes.Ample opportunity for career advancement.Continuing education opportunities.Depending on your location other benefits may apply.FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form, which can be provided upon request during our hiring and interview process.Learn more about ourApplicants Privacy Notice.
+About FullStack
+
+
+
+
+We’re Most Proud Of
+
+
+Offering life-changing career opportunities to talented software professionals across the Americas.Building highly-skilled software development teams for hundreds of the world’s greatest companies.Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.Our 4.5-star rating on GlassDoor.Our client Net Promoter Score of 68, twice the industry average.
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Offering life-changing career opportunities to talented software professionals across the Americas.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+Our 4.5-star rating on GlassDoor.
+Our 4.5-star rating on GlassDoor.
+Our client Net Promoter Score of 68, twice the industry average.
+Our client Net Promoter Score of 68, twice the industry average.
+
+
+The Position
+
+
+
+
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Team Augmentation: You will integrate yourself directly into our client's team and work alongside their existing designers and engineers on a daily basis.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+
+What We're Looking For
+
+
+5+ years of professional software development experience.Advanced English is required.Successful completion of a four-year college degree is required.Meaningful experience working with Java.Hands-on experience with gRPC, including implementing and consuming gRPC services.Meaningful experience working with the Springboot framework.Experience working with PostgreSQL or traditional SQL databases.Experience designing and implementing RESTful web services using Spring MVC or similar technologies.Ability to work through new and difficult issues and contribute to libraries as needed.Ability to create and maintain continuous integration and delivery of applications.Forensic attention to detail.A positive mindset and a can-do attitude.Experience working on Agile/Scrum teams.Meaningful experience working on large, complex systems.Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.Ability to consistently work 40 hours per week.
+5+ years of professional software development experience.
+5+ years of professional software development experience.
+Advanced English is required.
+Advanced English is required.
+Successful completion of a four-year college degree is required.
+Successful completion of a four-year college degree is required.
+Meaningful experience working with Java.
+Meaningful experience working with Java.
+Hands-on experience with gRPC, including implementing and consuming gRPC services.
+Hands-on experience with gRPC, including implementing and consuming gRPC services.
+Meaningful experience working with the Springboot framework.
+Meaningful experience working with the Springboot framework.
+Experience working with PostgreSQL or traditional SQL databases.
+Experience working with PostgreSQL or traditional SQL databases.
+Experience designing and implementing RESTful web services using Spring MVC or similar technologies.
+Experience designing and implementing RESTful web services using Spring MVC or similar technologies.
+Ability to work through new and difficult issues and contribute to libraries as needed.
+Ability to work through new and difficult issues and contribute to libraries as needed.
+Ability to create and maintain continuous integration and delivery of applications.
+Ability to create and maintain continuous integration and delivery of applications.
+Forensic attention to detail.
+Forensic attention to detail.
+
+A positive mindset and a can-do attitude.
+A positive mindset and a can-do attitude.
+Experience working on Agile/Scrum teams.
+Experience working on Agile/Scrum teams.
+Meaningful experience working on large, complex systems.
+Meaningful experience working on large, complex systems.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them.
+Ability to consistently work 40 hours per week.
+Ability to consistently work 40 hours per week.
+
+
+What We Offer
+
+
+Competitive pay in your local currency.100% remote work.The ability to work with leading startups and Fortune 500 companies.English Classes.Ample opportunity for career advancement.Continuing education opportunities.Depending on your location other benefits may apply.
+Competitive pay in your local currency.
+Competitive pay in your local currency.
+100% remote work.
+100% remote work.
+The ability to work with leading startups and Fortune 500 companies.
+The ability to work with leading startups and Fortune 500 companies.
+English Classes.
+English Classes.
+Ample opportunity for career advancement.
+Ample opportunity for career advancement.
+Continuing education opportunities.
+Continuing education opportunities.
+Depending on your location other benefits may apply.
+Depending on your location other benefits may apply.
+
+
+
+
+

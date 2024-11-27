@@ -1,0 +1,116 @@
+link-https://www.linkedin.com/jobs/view/4034342625/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=MHXbb%2BGg0CTkTPIStXIw6Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Back End Developer
+Sobre a vaga
+Location:Brazil, Uruguay, Chile, Peru or Bolivia.Project Summary• 🚀Objective: Revolutionize fare payment systems in public transportation to simplify travel for millions globally.• 📱Platform: Develops fare collection solutions allowing ticket purchases via mobile devices, ticket machines, or bank card taps. Deployed in 250+ locations worldwide.• 🤝Integration: Partners with apps like Uber, Moovit, and Transit through a pioneering mobile ticketing SDK.• 🛠Focus Areas: Enhance fare engine calculations and backend architecture for large-scale, complex networks.• 🧑‍💻Tech Stack: Java, Kotlin, REST, AWS (DynamoDB, EC2, S3, etc.), Kafka, Terraform, and more.Project DescriptionThe project aims to revolutionize fare payment systems in public transportation, simplifying the travel experience for millions worldwide. It involves developing advanced fare collection platforms that enable users to purchase and display tickets on mobile devices, ticket machines, or by tapping bank cards. Deployed in over 250 locations globally, the platform integrates with major apps like Uber, Moovit, and Transit using an industry-first mobile ticketing SDK.The focus is on enhancing fare engine calculations and backend architecture to support complex, large-scale transportation networks. The project leverages a tech stack that includes Java, Kotlin, REST, AWS services, Kafka, and infrastructure as code tools like Terraform.The RoleAs a Backend Developer, you will play a key role in building new features across various backend services that are central to the project’s systems. The company is committed to creating an enjoyable and fulfilling environment for crafting exceptional products. Teams are self-organized, employing methodologies such as Scrum, Kanban, or a hybrid approach tailored to their specific needs. Each team includes experts in development, testing, and sometimes hardware, all working together to deliver outstanding business outcomes for clients.As the company continues to expand its fare engine calculations and architecture, this position offers an exciting opportunity to work with a wide range of technologies and programming paradigms on complex and engaging challenges.Tech Stack• Java, Kotlin• REST• Git / Gradle / Maven / Artifactory• Amazon technologies (DynamoDB, EC2, S3, SQS, Kinesis, etc.)• Kafka• Spock/Groovy for testing• Fully cloud-hosted platform with Infrastructure as Code tooling (Terraform)While expertise in every tool and framework isn’t required, the company encourages continuous learning and exploration of new technologies.Candidate Profile• Strong command of the English language, with the ability to communicate clearly and effectively in both written and spoken English.• Solid programming skills in Java or Kotlin and a quick learner of new technologies and domains.• Passion for developing quality software that operates at scale.• Ability to collaborate as part of a team that owns their software and provides input on the best approach for new features.• Openness to adopting well-supported ideas and solutions, with a constructive approach to governance.• Strong interpersonal skills to build positive relationships with colleagues and contribute to team success.• A proactive and motivated mindset to ensure projects are completed efficiently and effectively.Interview ProcessRecruiter Chat:45 min with the Hiring ManagerManager Chat:45 min chat with a Senior Engineering leader focussing on interpersonal and communication skills, as well as technical competence and problem-solving ability (this round is focused on behavioral or situational questions)Technical Interview:2 hours long which involves a mixture of technical questions and a challenge resolution
+Location:Brazil, Uruguay, Chile, Peru or Bolivia.
+Location:Brazil, Uruguay, Chile, Peru or Bolivia.
+Location:
+
+
+
+
+Project Summary
+Project Summary
+Project Summary
+• 🚀Objective: Revolutionize fare payment systems in public transportation to simplify travel for millions globally.
+• 🚀Objective: Revolutionize fare payment systems in public transportation to simplify travel for millions globally.
+
+Objective
+• 📱Platform: Develops fare collection solutions allowing ticket purchases via mobile devices, ticket machines, or bank card taps. Deployed in 250+ locations worldwide.
+• 📱Platform: Develops fare collection solutions allowing ticket purchases via mobile devices, ticket machines, or bank card taps. Deployed in 250+ locations worldwide.
+
+Platform
+• 🤝Integration: Partners with apps like Uber, Moovit, and Transit through a pioneering mobile ticketing SDK.
+• 🤝Integration: Partners with apps like Uber, Moovit, and Transit through a pioneering mobile ticketing SDK.
+
+Integration
+• 🛠Focus Areas: Enhance fare engine calculations and backend architecture for large-scale, complex networks.
+• 🛠Focus Areas: Enhance fare engine calculations and backend architecture for large-scale, complex networks.
+
+Focus Areas
+• 🧑‍💻Tech Stack: Java, Kotlin, REST, AWS (DynamoDB, EC2, S3, etc.), Kafka, Terraform, and more.
+• 🧑‍💻Tech Stack: Java, Kotlin, REST, AWS (DynamoDB, EC2, S3, etc.), Kafka, Terraform, and more.
+
+Tech Stack
+
+
+
+Project Description
+Project Description
+Project Description
+The project aims to revolutionize fare payment systems in public transportation, simplifying the travel experience for millions worldwide. It involves developing advanced fare collection platforms that enable users to purchase and display tickets on mobile devices, ticket machines, or by tapping bank cards. Deployed in over 250 locations globally, the platform integrates with major apps like Uber, Moovit, and Transit using an industry-first mobile ticketing SDK.
+The project aims to revolutionize fare payment systems in public transportation, simplifying the travel experience for millions worldwide. It involves developing advanced fare collection platforms that enable users to purchase and display tickets on mobile devices, ticket machines, or by tapping bank cards. Deployed in over 250 locations globally, the platform integrates with major apps like Uber, Moovit, and Transit using an industry-first mobile ticketing SDK.
+The focus is on enhancing fare engine calculations and backend architecture to support complex, large-scale transportation networks. The project leverages a tech stack that includes Java, Kotlin, REST, AWS services, Kafka, and infrastructure as code tools like Terraform.
+The focus is on enhancing fare engine calculations and backend architecture to support complex, large-scale transportation networks. The project leverages a tech stack that includes Java, Kotlin, REST, AWS services, Kafka, and infrastructure as code tools like Terraform.
+
+
+
+The Role
+The Role
+The Role
+As a Backend Developer, you will play a key role in building new features across various backend services that are central to the project’s systems. The company is committed to creating an enjoyable and fulfilling environment for crafting exceptional products. Teams are self-organized, employing methodologies such as Scrum, Kanban, or a hybrid approach tailored to their specific needs. Each team includes experts in development, testing, and sometimes hardware, all working together to deliver outstanding business outcomes for clients.
+As a Backend Developer, you will play a key role in building new features across various backend services that are central to the project’s systems. The company is committed to creating an enjoyable and fulfilling environment for crafting exceptional products. Teams are self-organized, employing methodologies such as Scrum, Kanban, or a hybrid approach tailored to their specific needs. Each team includes experts in development, testing, and sometimes hardware, all working together to deliver outstanding business outcomes for clients.
+As the company continues to expand its fare engine calculations and architecture, this position offers an exciting opportunity to work with a wide range of technologies and programming paradigms on complex and engaging challenges.
+As the company continues to expand its fare engine calculations and architecture, this position offers an exciting opportunity to work with a wide range of technologies and programming paradigms on complex and engaging challenges.
+
+
+
+Tech Stack
+Tech Stack
+Tech Stack
+• Java, Kotlin
+• Java, Kotlin
+• REST
+• REST
+• Git / Gradle / Maven / Artifactory
+• Git / Gradle / Maven / Artifactory
+• Amazon technologies (DynamoDB, EC2, S3, SQS, Kinesis, etc.)
+• Amazon technologies (DynamoDB, EC2, S3, SQS, Kinesis, etc.)
+• Kafka
+• Kafka
+• Spock/Groovy for testing
+• Spock/Groovy for testing
+• Fully cloud-hosted platform with Infrastructure as Code tooling (Terraform)
+• Fully cloud-hosted platform with Infrastructure as Code tooling (Terraform)
+While expertise in every tool and framework isn’t required, the company encourages continuous learning and exploration of new technologies.
+While expertise in every tool and framework isn’t required, the company encourages continuous learning and exploration of new technologies.
+
+
+
+Candidate Profile
+Candidate Profile
+Candidate Profile
+• Strong command of the English language, with the ability to communicate clearly and effectively in both written and spoken English.
+• Strong command of the English language, with the ability to communicate clearly and effectively in both written and spoken English.
+• Solid programming skills in Java or Kotlin and a quick learner of new technologies and domains.
+• Solid programming skills in Java or Kotlin and a quick learner of new technologies and domains.
+• Passion for developing quality software that operates at scale.
+• Passion for developing quality software that operates at scale.
+• Ability to collaborate as part of a team that owns their software and provides input on the best approach for new features.
+• Ability to collaborate as part of a team that owns their software and provides input on the best approach for new features.
+• Openness to adopting well-supported ideas and solutions, with a constructive approach to governance.
+• Openness to adopting well-supported ideas and solutions, with a constructive approach to governance.
+• Strong interpersonal skills to build positive relationships with colleagues and contribute to team success.
+• Strong interpersonal skills to build positive relationships with colleagues and contribute to team success.
+• A proactive and motivated mindset to ensure projects are completed efficiently and effectively.
+• A proactive and motivated mindset to ensure projects are completed efficiently and effectively.
+
+
+
+Interview Process
+Interview Process
+Interview Process
+Recruiter Chat:45 min with the Hiring ManagerManager Chat:45 min chat with a Senior Engineering leader focussing on interpersonal and communication skills, as well as technical competence and problem-solving ability (this round is focused on behavioral or situational questions)Technical Interview:2 hours long which involves a mixture of technical questions and a challenge resolution
+Recruiter Chat:45 min with the Hiring Manager
+Recruiter Chat:45 min with the Hiring Manager
+Recruiter Chat:
+
+Manager Chat:45 min chat with a Senior Engineering leader focussing on interpersonal and communication skills, as well as technical competence and problem-solving ability (this round is focused on behavioral or situational questions)
+Manager Chat:45 min chat with a Senior Engineering leader focussing on interpersonal and communication skills, as well as technical competence and problem-solving ability (this round is focused on behavioral or situational questions)
+Manager Chat:
+
+Technical Interview:2 hours long which involves a mixture of technical questions and a challenge resolution
+Technical Interview:2 hours long which involves a mixture of technical questions and a challenge resolution
+Technical Interview:
+

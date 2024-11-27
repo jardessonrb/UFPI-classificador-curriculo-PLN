@@ -1,0 +1,65 @@
+link-https://www.linkedin.com/jobs/view/4048796230/?eBP=CwEAAAGS7keaYaF46bbEKiq5cfN1D4gUBg1tM79mTM9X5rksDno3J20PaGjtPMoUTyA9KZiadq_jVhQKj0Tu39YLAqHhG8uQVuyzLJyIEjjJZNnJYkDIBaz2qH8GbyXfn7kCuiGue4biAi8YSxRNHdJs5VvcD7PqI8xRygb4PqNJkLVIYHR8o8uxgzMZxs57YPhtjO_aQquJyXv37Q0ZR1nqZINKDBxNFVoYybIur0445fG3zQRjbz4p45gU3jsGLOfSJcNt5aNNEheotVksiniRN48x9scNyRhLnLsqpAeHWmBoGWQgR1d5XMq7lnaU6ycbj5LwX-UbPZ8esy0IVG7MWuB3FIchFazQuccMsJ5L9yt7DQnc_CXOLfdvKe6ffS4zmTFv9KCGyBZHywwM1udpTiEuJ_sAhrGhIHHd0uupV8SAWyeulmnij5fv5rpfLerDO9Jzj1l470mgMyTovjmpS9Zgv_8sd-XukpvJXbW8ym_SUsiJCEmNcUQ1&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=e2ezaHmLtksFXelqBWkeAQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance
+Sobre a vaga
+Venha fazer parte do time de Tecnologia da Minha Biblioteca Católica e Lumine.tv!O pessoa Quality Assurance, é responsável por planejar, desenvolver e executar testes em aplicações com Python e Vue.js, garantindo a organização e a qualidade de Software.Se você tem um perfil analítico e preza por entregas de qualidade, esta é a sua oportunidade para compor o time do maior clube de assinatura católico do Brasil e da maior plataforma católica de filmes e séries da América Latina.Responsabilidades e atribuições:Planejar, desenvolver e executar testes automatizados e manuais em aplicações desenvolvidas com Python e Vue.js.Implementar testes de integração, end-to-end e unitários usando ferramentas como PyTest, Selenium, e Cypress.Identificar e documentar bugs, colaborando diretamente com desenvolvedores para garantir a qualidade do software.Manter a organização da documentação de testes e promover melhorias contínuas no processo de QA.Conhecimentos e habilidades:Experiência sólida em automação de testes com ferramentas voltadas para Python (PyTest, Unittest) e Vue.js (Cypress, Jest).Capacidade de organizar e priorizar tarefas de forma proativa.Conhecimento em metodologias ágeis e ferramentas como Jira.Será um diferencial se você tiver:Experiência com testes de performance e segurança.Familiaridade com integração contínua (CI/CD) para automatização de testes.Informações:Contratação PJ;Modelo de trabalho híbrido;Assinatura do Clube MBC;Assinatura do streaming Lumine.tv;Assinatura da plataforma Fé Explicada;Assinatura App. Peregrino;Day-off (Aniversário).
+
+
+
+
+
+
+Responsabilidades e atribuições:
+
+
+Planejar, desenvolver e executar testes automatizados e manuais em aplicações desenvolvidas com Python e Vue.js.Implementar testes de integração, end-to-end e unitários usando ferramentas como PyTest, Selenium, e Cypress.Identificar e documentar bugs, colaborando diretamente com desenvolvedores para garantir a qualidade do software.Manter a organização da documentação de testes e promover melhorias contínuas no processo de QA.
+Planejar, desenvolver e executar testes automatizados e manuais em aplicações desenvolvidas com Python e Vue.js.
+Planejar, desenvolver e executar testes automatizados e manuais em aplicações desenvolvidas com Python e Vue.js.
+Implementar testes de integração, end-to-end e unitários usando ferramentas como PyTest, Selenium, e Cypress.
+Implementar testes de integração, end-to-end e unitários usando ferramentas como PyTest, Selenium, e Cypress.
+Identificar e documentar bugs, colaborando diretamente com desenvolvedores para garantir a qualidade do software.
+Identificar e documentar bugs, colaborando diretamente com desenvolvedores para garantir a qualidade do software.
+Manter a organização da documentação de testes e promover melhorias contínuas no processo de QA.
+Manter a organização da documentação de testes e promover melhorias contínuas no processo de QA.
+
+
+Conhecimentos e habilidades:
+
+
+Experiência sólida em automação de testes com ferramentas voltadas para Python (PyTest, Unittest) e Vue.js (Cypress, Jest).Capacidade de organizar e priorizar tarefas de forma proativa.Conhecimento em metodologias ágeis e ferramentas como Jira.
+Experiência sólida em automação de testes com ferramentas voltadas para Python (PyTest, Unittest) e Vue.js (Cypress, Jest).
+Experiência sólida em automação de testes com ferramentas voltadas para Python (PyTest, Unittest) e Vue.js (Cypress, Jest).
+Capacidade de organizar e priorizar tarefas de forma proativa.
+Capacidade de organizar e priorizar tarefas de forma proativa.
+Conhecimento em metodologias ágeis e ferramentas como Jira.
+Conhecimento em metodologias ágeis e ferramentas como Jira.
+
+
+Será um diferencial se você tiver:
+
+
+Experiência com testes de performance e segurança.Familiaridade com integração contínua (CI/CD) para automatização de testes.
+Experiência com testes de performance e segurança.
+Experiência com testes de performance e segurança.
+Familiaridade com integração contínua (CI/CD) para automatização de testes.
+Familiaridade com integração contínua (CI/CD) para automatização de testes.
+
+
+Informações:
+
+
+Contratação PJ;Modelo de trabalho híbrido;Assinatura do Clube MBC;Assinatura do streaming Lumine.tv;Assinatura da plataforma Fé Explicada;Assinatura App. Peregrino;Day-off (Aniversário).
+Contratação PJ;
+Contratação PJ;
+Modelo de trabalho híbrido;
+Modelo de trabalho híbrido;
+Assinatura do Clube MBC;
+Assinatura do Clube MBC;
+Assinatura do streaming Lumine.tv;
+Assinatura do streaming Lumine.tv;
+Assinatura da plataforma Fé Explicada;
+Assinatura da plataforma Fé Explicada;
+Assinatura App. Peregrino;
+Assinatura App. Peregrino;
+Day-off (Aniversário).
+Day-off (Aniversário).

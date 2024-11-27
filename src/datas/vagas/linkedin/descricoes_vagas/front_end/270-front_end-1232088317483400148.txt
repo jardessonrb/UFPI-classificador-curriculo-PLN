@@ -1,0 +1,108 @@
+link-https://www.linkedin.com/jobs/view/4042678794/?eBP=CwEAAAGS7k29TqIrugDkejHqPv7pghV_njOtjMqkx3sK44nNA6ZZcVXhr4rScd4-fOo4oEJIW4-blbp0NtbnBBcw5qXNF6uY4Re2ZJoA2ftwZ78GrPMoW0m4kf-CSvfZZ2vOW35u-asDpZYboFd9S-_Y2k29nk9MQjZe3XdByIT92mrKO_HoTziSxzfloi0YUZ8L2jK8JI6hSs-Efzpz45iIgqyzGgd8CLkXEAwLyMzPlZrO8lbTptF0Vjnnmuxn5Z_ppm55pTAslzCz4cWmPg4IxA4h5MzyursVBzTAfLhVAGF7kWlGNdsIJCJkeoMr5aRcYMz9fEataZxEUZDPZeCdElNUoLXBvNQcF5eCXtzI7zOP_BioVJpFrOYQohGLjPc5e03agqYPhRswpbUItmnfrG5MkP2sQJ493mq0Kb6YMIrdzNQ-B-HEbQUnWhawWyduPJcg622FycGfnuyAAIPLR428h6BYAsS0BzeB65KCD8KmaIDSdGaU_-xiLdylUcU6oo7TNwdh&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=oIG1cW%2FLlT0nLbvI6ajWPA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Front End React (Curitiba-PR)
+Sobre a vaga
+Job DescriptionBuscamos pessoas apaixonadas por tecnologia e que acreditem que ela é uma ferramenta capaz de transformar a vida de nossos clientes! Queremos um novo talento para atuar dentro do nosso time deDesenvolvimento Plataforma ERPque nos ajude a impactar a maneira como o agronegócio brasileiro faz uso de tecnologia.Responsibilities and assignmentsA sua missão como Desenvolvedor Front-end React, será colaborar com o time de Desenvolvimento, não somente para entender o que o cliente precisa, mas também proporcionar a ele uma experiência fantástica de usabilidade e navegação nos nossos produtos;Atuar no time de Desenvolvimento Plataforma ERP (SAP), com soluções web específicas para clientes do Agronegócio;Desenvolvimento voltado à componetização;Atuar com as seguintes tecnologias: JavaScript, ReactJS, AngularJS, HTML, CSS, UX, UI;Requirements And QualificationsSuperior completo em Análise e Desenvolvimento de Sistemas, Ciência da Computação e Engenharia de Software;Experiência em ReactJS (hooks, ciclo de vida, componentes);Conhecimento em gerenciamento de estado (Redux, Context API, useContext);Domínio de JavaScript moderno (ES6+), HTML5/CSS3 e TypeScript;Domínio de Integração com APIs RESTful;Domínio de versionamento de código com GIT;DesejávelParticipação em projetos complexos e de larga escala;Ter trabalhado com metodologias ágeis (Scrum/Kanban);Ter proatividade e ter espírito de equipe.Additional informationCLTVale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);Vale transporte (sem desconto);Plano de saúde Unimed;Plano odontológico DentalUni;Seguro de vida;GymPass;TotalPass;Auxílio Educação;Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.Process stagesStep 1: Registration1RegistrationStep 2: Hiring2HiringApaixonados por tecnologia e agronegócioNa Agrotis adoramos desafios pois assim aprimoramos constantemente nosso conhecimento e formas de atuação.Temos uma crença forte nos métodos ágeis, mas somos flexíveis o suficiente para adaptá-los quando as necessidades determinam.Acreditamos firmemente que a diversidade de experiências, perspectivas e incentivos nos levará a um ambiente melhor para nossos colaboradores e consequentemente um produto melhor para nossos usuários e clientes.Prezamos acima de tudo por um time de verdade. Valorizamos relacionamentos e somos orgulhosos em promover um local de trabalho agradável com um pouco de diversão em disputadas partidas de FIFA, tênis de mesa e sinuca. Ah! Também gostamos de cerveja e muito café!Valorizamos profundamente a inovação, assim convidamos e encorajamos todos a virem fazer parte da missão de levar a transformação digital para o agronegócio.E você, também é apaixonado por tecnologia e agronegócio?Então#VemPraAgrotis
+Job Description
+
+
+
+Desenvolvimento Plataforma ERP
+
+
+
+
+
+
+
+Atuar no time de Desenvolvimento Plataforma ERP (SAP), com soluções web específicas para clientes do Agronegócio;Desenvolvimento voltado à componetização;Atuar com as seguintes tecnologias: JavaScript, ReactJS, AngularJS, HTML, CSS, UX, UI;
+Atuar no time de Desenvolvimento Plataforma ERP (SAP), com soluções web específicas para clientes do Agronegócio;
+Atuar no time de Desenvolvimento Plataforma ERP (SAP), com soluções web específicas para clientes do Agronegócio;
+Desenvolvimento voltado à componetização;
+Desenvolvimento voltado à componetização;
+Atuar com as seguintes tecnologias: JavaScript, ReactJS, AngularJS, HTML, CSS, UX, UI;
+Atuar com as seguintes tecnologias: JavaScript, ReactJS, AngularJS, HTML, CSS, UX, UI;
+
+
+Requirements And Qualifications
+
+
+Superior completo em Análise e Desenvolvimento de Sistemas, Ciência da Computação e Engenharia de Software;Experiência em ReactJS (hooks, ciclo de vida, componentes);Conhecimento em gerenciamento de estado (Redux, Context API, useContext);Domínio de JavaScript moderno (ES6+), HTML5/CSS3 e TypeScript;Domínio de Integração com APIs RESTful;Domínio de versionamento de código com GIT;
+Superior completo em Análise e Desenvolvimento de Sistemas, Ciência da Computação e Engenharia de Software;
+Superior completo em Análise e Desenvolvimento de Sistemas, Ciência da Computação e Engenharia de Software;
+Experiência em ReactJS (hooks, ciclo de vida, componentes);
+Experiência em ReactJS (hooks, ciclo de vida, componentes);
+Conhecimento em gerenciamento de estado (Redux, Context API, useContext);
+Conhecimento em gerenciamento de estado (Redux, Context API, useContext);
+Domínio de JavaScript moderno (ES6+), HTML5/CSS3 e TypeScript;
+Domínio de JavaScript moderno (ES6+), HTML5/CSS3 e TypeScript;
+Domínio de Integração com APIs RESTful;
+Domínio de Integração com APIs RESTful;
+Domínio de versionamento de código com GIT;
+Domínio de versionamento de código com GIT;
+
+
+
+Desejável
+
+
+Participação em projetos complexos e de larga escala;Ter trabalhado com metodologias ágeis (Scrum/Kanban);Ter proatividade e ter espírito de equipe.
+Participação em projetos complexos e de larga escala;
+Participação em projetos complexos e de larga escala;
+Ter trabalhado com metodologias ágeis (Scrum/Kanban);
+Ter trabalhado com metodologias ágeis (Scrum/Kanban);
+Ter proatividade e ter espírito de equipe.
+Ter proatividade e ter espírito de equipe.
+
+
+
+
+CLT
+
+
+Vale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);Vale transporte (sem desconto);Plano de saúde Unimed;Plano odontológico DentalUni;Seguro de vida;GymPass;TotalPass;Auxílio Educação;Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+Vale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);
+Vale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);
+Vale transporte (sem desconto);
+Vale transporte (sem desconto);
+Plano de saúde Unimed;
+Plano de saúde Unimed;
+Plano odontológico DentalUni;
+Plano odontológico DentalUni;
+Seguro de vida;
+Seguro de vida;
+GymPass;
+GymPass;
+TotalPass;
+TotalPass;
+Auxílio Educação;
+Auxílio Educação;
+Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Hiring2Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Hiring2Hiring
+Step 2: Hiring2Hiring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#VemPraAgrotis

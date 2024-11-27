@@ -1,0 +1,117 @@
+link-https://www.linkedin.com/jobs/view/3987137576/?eBP=CwEAAAGS7lNW-FuOgxSAJanCVGOKm2sSD61Znbk004R8-Cr4X0h6o5XwqZ7lpPJDs7SevO9LhrcJrS4PlbfkhM3-uxjPrkiKVaHIvf-kmm2H2_wN3Y0olHDNSXneqLyMLcz5WFqIH1hYxMjk0xKXsNJn5KwDk8VsjIB0c6ofmnWKqZ615whmtEfgt2h563mIL7KelulazKuuKZJWVAl0h5o54NF7tBcwg-EzZ0bTCIwYLmcO5ilPRinVZ4YlUDS9LvqrdLvL1VHCcJDrEHThxOMfrrNP5lv5QiJ3skZOFrimtm2ZfP-Y_1appWp8HpRTWIadvIKUWsfk0979Dw9qbP0joS8Syc_ud_J_DzgQxu8nw0yAkRa5tdtS-jvAaKLMRGD1peoK8TNmnisoT3E_d0AYhPxPI5RFt5PrY7f0kp26i2pZnupaGGRTPNvkLp7B2KpkiBCpxM9SsdHfJRctXVuXMQmWfsjxk2IGFk6BcU1K93UPEGY1Ft91vH8vJKRWDfFZKxjHhaU&refId=pcYUo6H8SLGigYcozUDaJg%3D%3D&trackingId=%2FRe0LA3Twx%2FKgbi61y1%2Fjw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Back End Sr - Python
+Sobre a vaga
+📚Feita de pessoas que transformam a educaçãoTodas as vagas da Arco são elegíveis para Pessoas com Deficiência.SomosArcotech, time de tecnologia daArco Educação. Desenvolvemos soluções digitais para que alunos, pais e escolas atuem em conjunto por um aprendizado mais dinâmico e efetivo.Aqui reunimos talentos que têm paixão por tecnologia e educação. Sabemos que, juntos, somos capazes de unir as duas forças para elevar a experiência de aprendizagem. Queremos ir além da inovação, nosso propósito é potencializar o impacto da educação nas pessoas, é o que nos move.Por meio de soluções de aprendizagem, estimativas e relacionamento, ajudamos as escolas a se tornarem melhores, maiores e mais encantadoras para os alunos, educadores e familiares.#VEMPRAARCO 🧡 #VEMSERTECHAgora que você já captou um pouco mais da nossa essência, vamos falar sobre a oportunidade?👉 Quais serão os seus desafios com a gente?Auxiliar o time de produtos da squad (UX designer e PM), na criação e no comportamento do produtoGarantir a viabilidade técnica das funcionalidades do produto.Implementar o backend das funcionalidades seguindo arquitetura discutida entre membros na planning.Eventualmente avaliar o possível uso de tecnologias emergentesCodificar de forma limpa e escrever os respectivos testes unitáriosColaborar com outros membros da equipe e partes interessadasRevisar código do time e avaliar se atendem os critérios funcionais, performance e segurança.👉 O Que Esperamos Que Você TenhaProficiência em PythonConhecimento avançado em DjangoDesejável conhecimentos em Java/Kotlin ou interesse em trabalhar com essas tecnologiasConhecimento em Celery, RabbitMQ, ElasticsearchConhecimento em monitoramento da aplicação (NewRelic, CloudWatch)Conhecimento de AWS (S3, EC2, Lambda) / GCP (Appengine)Conhecimento em Microsserviços, API's REST, Testes Unitários, CI / CD, Banco de dados relacionais e não relacionais, programação orientada a objetos, design patterns, SOLIDVocação para lidar com problemas complexos de arquitetura e mentorar desenvolvedores menos experientes do timeGoste de trabalhar em equipeProatividadeSede por aprendizadoCuriosidadeO que você vai encontrar na Arco, além de pessoas incríveis:🍽️ Auxílio alimentação e/ou refeição🏥 Plano de saúde e odontológico🚌 Vale transporte🤰🏽 Licença maternidade e paternidade estendida🚸 Auxílio creche para mães🏋🏻‍♀️ Cuidado com a saúde física: parceria com a Gympass📚 Incentivo à educação✈️ Desconto em passagens aéreas#MaisDiversidadeAcreditamos que em um ambiente diverso e inclusivo nossaspessoas serão mais felizes, engajadase commais chances de atingir o seu máximo potencial. Por isso, aqui na Arco, respeitamos e valorizamos a igualdade de direito, reconhecemos as singularidades e acreditamos quetodasas pessoas podem contribuir para o nosso propósito.#VemPraArco
+
+Feita de pessoas que transformam a educação
+
+
+Todas as vagas da Arco são elegíveis para Pessoas com Deficiência.
+
+
+
+
+Arcotech
+Arco Educação
+
+
+
+
+
+
+
+#VEMPRAARCO 🧡 #VEMSERTECH
+
+
+Agora que você já captou um pouco mais da nossa essência, vamos falar sobre a oportunidade?
+
+
+👉 Quais serão os seus desafios com a gente?
+
+
+Auxiliar o time de produtos da squad (UX designer e PM), na criação e no comportamento do produtoGarantir a viabilidade técnica das funcionalidades do produto.Implementar o backend das funcionalidades seguindo arquitetura discutida entre membros na planning.Eventualmente avaliar o possível uso de tecnologias emergentesCodificar de forma limpa e escrever os respectivos testes unitáriosColaborar com outros membros da equipe e partes interessadasRevisar código do time e avaliar se atendem os critérios funcionais, performance e segurança.
+Auxiliar o time de produtos da squad (UX designer e PM), na criação e no comportamento do produto
+Auxiliar o time de produtos da squad (UX designer e PM), na criação e no comportamento do produto
+
+
+Garantir a viabilidade técnica das funcionalidades do produto.
+Garantir a viabilidade técnica das funcionalidades do produto.
+Implementar o backend das funcionalidades seguindo arquitetura discutida entre membros na planning.
+Implementar o backend das funcionalidades seguindo arquitetura discutida entre membros na planning.
+Eventualmente avaliar o possível uso de tecnologias emergentes
+Eventualmente avaliar o possível uso de tecnologias emergentes
+
+Codificar de forma limpa e escrever os respectivos testes unitários
+Codificar de forma limpa e escrever os respectivos testes unitários
+
+Colaborar com outros membros da equipe e partes interessadas
+Colaborar com outros membros da equipe e partes interessadas
+
+Revisar código do time e avaliar se atendem os critérios funcionais, performance e segurança.
+Revisar código do time e avaliar se atendem os critérios funcionais, performance e segurança.
+
+
+👉 O Que Esperamos Que Você Tenha
+
+
+Proficiência em PythonConhecimento avançado em DjangoDesejável conhecimentos em Java/Kotlin ou interesse em trabalhar com essas tecnologiasConhecimento em Celery, RabbitMQ, ElasticsearchConhecimento em monitoramento da aplicação (NewRelic, CloudWatch)Conhecimento de AWS (S3, EC2, Lambda) / GCP (Appengine)Conhecimento em Microsserviços, API's REST, Testes Unitários, CI / CD, Banco de dados relacionais e não relacionais, programação orientada a objetos, design patterns, SOLIDVocação para lidar com problemas complexos de arquitetura e mentorar desenvolvedores menos experientes do timeGoste de trabalhar em equipeProatividadeSede por aprendizadoCuriosidade
+Proficiência em Python
+Proficiência em Python
+Conhecimento avançado em Django
+Conhecimento avançado em Django
+Desejável conhecimentos em Java/Kotlin ou interesse em trabalhar com essas tecnologias
+Desejável conhecimentos em Java/Kotlin ou interesse em trabalhar com essas tecnologias
+Conhecimento em Celery, RabbitMQ, Elasticsearch
+Conhecimento em Celery, RabbitMQ, Elasticsearch
+Conhecimento em monitoramento da aplicação (NewRelic, CloudWatch)
+Conhecimento em monitoramento da aplicação (NewRelic, CloudWatch)
+Conhecimento de AWS (S3, EC2, Lambda) / GCP (Appengine)
+Conhecimento de AWS (S3, EC2, Lambda) / GCP (Appengine)
+Conhecimento em Microsserviços, API's REST, Testes Unitários, CI / CD, Banco de dados relacionais e não relacionais, programação orientada a objetos, design patterns, SOLID
+Conhecimento em Microsserviços, API's REST, Testes Unitários, CI / CD, Banco de dados relacionais e não relacionais, programação orientada a objetos, design patterns, SOLID
+Vocação para lidar com problemas complexos de arquitetura e mentorar desenvolvedores menos experientes do time
+Vocação para lidar com problemas complexos de arquitetura e mentorar desenvolvedores menos experientes do time
+Goste de trabalhar em equipe
+Goste de trabalhar em equipe
+Proatividade
+Proatividade
+Sede por aprendizado
+Sede por aprendizado
+Curiosidade
+Curiosidade
+
+
+O que você vai encontrar na Arco, além de pessoas incríveis:
+
+
+🍽
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#MaisDiversidade
+
+
+
+pessoas serão mais felizes, engajadas
+
+
+mais chances de atingir o seu máximo potencial
+
+todas
+
+
+#VemPraArco

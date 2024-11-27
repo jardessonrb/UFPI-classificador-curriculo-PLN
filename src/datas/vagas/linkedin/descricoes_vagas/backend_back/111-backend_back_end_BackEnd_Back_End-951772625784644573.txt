@@ -1,0 +1,65 @@
+link-https://www.linkedin.com/jobs/view/4058942871/?eBP=CwEAAAGS7lGQwVRncZHWQbMVO62xkDnJC_V10FxZYr0nIcrX5crk1Zp83syORk47n1YJxShaTSPRZqNNRDK9s7Sm7ParoodcMHUL50ktHtzV398FyuYNxtvcO1VlDQbbAkSlbP8TubOjOknZoZmscO5EViAT27sSGemID5SSe6XRsS5zCEHe4dXsQxe3hwJJ64S0uW308OhMYUrapc2thPMMzRbPM4zXoq9P7YcLIlvkdRm_23SSkQX7fsrjeLAos5QhmIoLk5abbXkvIq0ksOhUHJ269eHOO1am1exak90SXchGELSIaYtMUTs_u8WTzCDXpdUlhgcREaxuGg98qJ3vVTaAB_0sfYdc-ujT9kQLcmmiS9aQCSHUXb-bn8j98Lxtb_vgB-LoJCNFbodKc_67vjZnknvNwtMaAemGIh50MyByJFpHai3LJE4MRmSezpJr9Cw-gvjif2wHGmgoGPEtiIWfGfubW9v7JOxE&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=Dawj7DLT53dLvUtGmIiXIA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor (a) Backend Java Pleno
+Sobre a vaga
+Buscamos desenvolvedores que queiram fazer parte do time Luizalabs.Seu papel será desenvolver aplicações que facilite e automatize funcionalidades da área de Logística. Nosso time atua no processo de armazenagem e produção de pedidos nos Centros de Distribuições.Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.Requisitos- Java (Hibernate, Spring, Maven);- NodeJs (HapiJs)- Design de APIs REST;- Desenvolvimento utilizando Banco de dados relacionais;- Construção de ambientes de build/test/deployment automatizados;- Experiência com containers (Docker, kubernetes);- Experiência em monitoramento de aplicações (Elasticsearch / Kibana / Grafana);- Experiência em desenvolver aplicações Escaláveis;- Experiência em ambientes de cloud computing- Experiência em desenvolvimento Orientado a Mensageria (RabbitMq).Diferenciais:- Experiência com desenvolvimento de front (React, etc);- Experiência com GCP.Como é o ambiente de trabalho?No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+Buscamos desenvolvedores que queiram fazer parte do time Luizalabs.
+Buscamos desenvolvedores que queiram fazer parte do time Luizalabs.
+
+Seu papel será desenvolver aplicações que facilite e automatize funcionalidades da área de Logística. Nosso time atua no processo de armazenagem e produção de pedidos nos Centros de Distribuições.
+Seu papel será desenvolver aplicações que facilite e automatize funcionalidades da área de Logística. Nosso time atua no processo de armazenagem e produção de pedidos nos Centros de Distribuições.
+
+
+
+Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.
+Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.
+
+
+
+Requisitos
+Requisitos
+Requisitos
+
+
+
+- Java (Hibernate, Spring, Maven);
+- Java (Hibernate, Spring, Maven);
+- NodeJs (HapiJs)
+- NodeJs (HapiJs)
+- Design de APIs REST;
+- Design de APIs REST;
+- Desenvolvimento utilizando Banco de dados relacionais;
+- Desenvolvimento utilizando Banco de dados relacionais;
+- Construção de ambientes de build/test/deployment automatizados;
+- Construção de ambientes de build/test/deployment automatizados;
+- Experiência com containers (Docker, kubernetes);
+- Experiência com containers (Docker, kubernetes);
+- Experiência em monitoramento de aplicações (Elasticsearch / Kibana / Grafana);
+- Experiência em monitoramento de aplicações (Elasticsearch / Kibana / Grafana);
+- Experiência em desenvolver aplicações Escaláveis;
+- Experiência em desenvolver aplicações Escaláveis;
+- Experiência em ambientes de cloud computing
+- Experiência em ambientes de cloud computing
+- Experiência em desenvolvimento Orientado a Mensageria (RabbitMq).
+- Experiência em desenvolvimento Orientado a Mensageria (RabbitMq).
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+
+
+
+- Experiência com desenvolvimento de front (React, etc);
+- Experiência com desenvolvimento de front (React, etc);
+- Experiência com GCP.
+- Experiência com GCP.
+
+
+
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.

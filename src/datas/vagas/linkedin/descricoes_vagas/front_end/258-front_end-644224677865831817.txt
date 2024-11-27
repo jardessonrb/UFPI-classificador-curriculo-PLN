@@ -1,0 +1,75 @@
+link-https://www.linkedin.com/jobs/view/4056021437/?eBP=CwEAAAGS7k2Kc6tbsbBI5hvlIWEHPT3Zr3DCIBKX2zDfpJXBB8L0lr8OSyQGM6qsonq2xatQB2pbC6-nlCkWO7BCnUGkeL0Hb9NPsvXYFQ6NAn1eTW_34lqtxEmlG4FOLGTzOd6aWsNpQx5Bg_BLk2eN-BLd426rS-2QBPAf7G738ryWOBRiIwc_0Ci8OneWsVDbcZOLU_U42dGlcS-0eHJr1Huk6d6pR8ePrhLa10Q_HSFQB18SEdofXgxkKgc296rnZ_b5WuvkL1kG3oTFaVVGDuTjIEDNPj5fcOwtOp0GekqMLB6ElX4J0OFEOwuCvANHbkUQnUfNjxoVqqjnY346KrWYWVCJimAovrh6AH90Teo0RdfeMswlKKxfgcg7h-t3dRL8j5hPEGkh0vW3GaTKzzlJf-AT01qHCHIIYbXNfeTi7iUcqke3JYK4UXJV-oVIjPF8S9isOs5CwUwvFaaiHiiu3B6o1ImhJnADUpmsOVWckaLMqqs_vrRXzRFRZw&refId=D%2B9I1EF%2BNsQzOTYhwj35GA%3D%3D&trackingId=aIedwaIoRbVfVrteaiOtdg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior FrontEnd Developer
+Sobre a vaga
+Welcome to KTO Group, where innovation meets excitement in the iGaming world. Founded in 2018 by Andreas Bardun, our mission is to revolutionise the online gaming experience. At KTO, we are not just a company; we're a game-changer, dedicated to enhancing transparency and player satisfaction in Sportsbook and Online Casino gaming. Dive into the heart of the action on our website:KTO.com. Here, we blend the thrill of sports betting with the magic of online casinos, tailored to resonate with diverse markets. Our commitment to being hyper-local ensures that every player feels right at home. Powered by our proprietary KTO Platform, we bring you cutting-edge technology that personalises our players’ journey and streamlines their experience for ultimate enjoyment. KTO is rapidly rising as a star in the LATAM region, already claiming a spot among the top 10 iGaming brands in Brazil. Our vision is bold and clear: to lead the iGaming industry in LATAM, setting new standards in trust and transparency. When you join us, you contribute towards ensuring that every play is a step towards redefining the future of iGaming.Join KTO as a Senior Frontend Developer and collaborate with our design team to create visually stunning and highly functional web applications. You will be responsible for translating wireframes and mockups into responsive and efficient web applications using ReactJS and Gatsby. If you're passionate about creating exceptional user experiences and have a strong foundation in frontend development, we want you on our team.Main ResponsibilitiesCollaborate with the design team to translate wireframes and mockups into functional web applications using ReactJS and Gatsby.Develop and maintain reusable, efficient frontend components and implement new features to meet project requirements.Integrate various data sources, such as APIs and databases, into our websites to provide dynamic content and functionality.Optimize web applications for search engine visibility and performance through techniques like image optimization, code splitting, and asset optimization.Write comprehensive tests to ensure the stability and reliability of the codebase, using tools like Jest and React Testing Library.Participate in code reviews, providing constructive feedback and ensuring code quality and best practices are maintained.Provide technical guidance and mentorship to junior developers, helping them grow and develop their skills.Experience & QualificationsProven experience in frontend development, with proficiency in ReactJS and Gatsby.Strong understanding of HTML, CSS, and JavaScript, with experience in building responsive and accessible web applications.Experience integrating data sources, such as REST APIs and databases, into frontend applications.Knowledge of web performance optimization techniques and best practices.Experience writing unit tests and familiarity with testing frameworks like Jest and React Testing Library.At KTO, diversity isn't just a buzzword – it's our strength. We're all about creating an inclusive environment where everyone feels valued and empowered. Together, we're not just working on projects – we're making a real impact in our communities. Join us in celebrating diversity and driving meaningful change!At KTO, diversity isn't just a buzzword – it's our strength. We're all about creating an inclusive environment where everyone feels valued and empowered. Together, we're not just working on projects – we're making a real impact in our communities. Join us in celebrating diversity and driving meaningful change!Participation is prohibited for:Individuals under 18 (eighteen) years of age;Public agents with duties directly related to the regulation, control, and supervision of the activity within the federative entity in whose personnel framework they perform their duties;Persons who have or may have any influence on the outcome of a real event with a sports theme subject to fixed-odds lottery betting, including:Persons holding positions as sports directors, sports coaches, trainers, and members of the technical staff;Referees of sports, referee assistants, or equivalents, sports entrepreneurs, agents or representatives of athletes and coaches, coaches or members of the technical staff;Members of the administrative or supervisory body of entities responsible for organizing competitions or sporting events;Athletes participating in competitions organized by entities within the National Sports System;Individuals diagnosed with gambling addiction, according to a diagnosis from a qualified mental health professional.
+
+
+
+
+
+Main Responsibilities
+
+
+Collaborate with the design team to translate wireframes and mockups into functional web applications using ReactJS and Gatsby.Develop and maintain reusable, efficient frontend components and implement new features to meet project requirements.Integrate various data sources, such as APIs and databases, into our websites to provide dynamic content and functionality.Optimize web applications for search engine visibility and performance through techniques like image optimization, code splitting, and asset optimization.Write comprehensive tests to ensure the stability and reliability of the codebase, using tools like Jest and React Testing Library.Participate in code reviews, providing constructive feedback and ensuring code quality and best practices are maintained.Provide technical guidance and mentorship to junior developers, helping them grow and develop their skills.
+Collaborate with the design team to translate wireframes and mockups into functional web applications using ReactJS and Gatsby.
+Collaborate with the design team to translate wireframes and mockups into functional web applications using ReactJS and Gatsby.
+Develop and maintain reusable, efficient frontend components and implement new features to meet project requirements.
+Develop and maintain reusable, efficient frontend components and implement new features to meet project requirements.
+Integrate various data sources, such as APIs and databases, into our websites to provide dynamic content and functionality.
+Integrate various data sources, such as APIs and databases, into our websites to provide dynamic content and functionality.
+Optimize web applications for search engine visibility and performance through techniques like image optimization, code splitting, and asset optimization.
+Optimize web applications for search engine visibility and performance through techniques like image optimization, code splitting, and asset optimization.
+Write comprehensive tests to ensure the stability and reliability of the codebase, using tools like Jest and React Testing Library.
+Write comprehensive tests to ensure the stability and reliability of the codebase, using tools like Jest and React Testing Library.
+Participate in code reviews, providing constructive feedback and ensuring code quality and best practices are maintained.
+Participate in code reviews, providing constructive feedback and ensuring code quality and best practices are maintained.
+Provide technical guidance and mentorship to junior developers, helping them grow and develop their skills.
+Provide technical guidance and mentorship to junior developers, helping them grow and develop their skills.
+
+
+Experience & Qualifications
+
+
+Proven experience in frontend development, with proficiency in ReactJS and Gatsby.Strong understanding of HTML, CSS, and JavaScript, with experience in building responsive and accessible web applications.Experience integrating data sources, such as REST APIs and databases, into frontend applications.Knowledge of web performance optimization techniques and best practices.Experience writing unit tests and familiarity with testing frameworks like Jest and React Testing Library.
+Proven experience in frontend development, with proficiency in ReactJS and Gatsby.
+Proven experience in frontend development, with proficiency in ReactJS and Gatsby.
+Strong understanding of HTML, CSS, and JavaScript, with experience in building responsive and accessible web applications.
+Strong understanding of HTML, CSS, and JavaScript, with experience in building responsive and accessible web applications.
+Experience integrating data sources, such as REST APIs and databases, into frontend applications.
+Experience integrating data sources, such as REST APIs and databases, into frontend applications.
+Knowledge of web performance optimization techniques and best practices.
+Knowledge of web performance optimization techniques and best practices.
+Experience writing unit tests and familiarity with testing frameworks like Jest and React Testing Library.
+Experience writing unit tests and familiarity with testing frameworks like Jest and React Testing Library.
+
+
+
+
+
+
+Participation is prohibited for:
+
+
+
+
+
+
+Persons who have or may have any influence on the outcome of a real event with a sports theme subject to fixed-odds lottery betting, including:Persons holding positions as sports directors, sports coaches, trainers, and members of the technical staff;Referees of sports, referee assistants, or equivalents, sports entrepreneurs, agents or representatives of athletes and coaches, coaches or members of the technical staff;Members of the administrative or supervisory body of entities responsible for organizing competitions or sporting events;Athletes participating in competitions organized by entities within the National Sports System;
+Persons who have or may have any influence on the outcome of a real event with a sports theme subject to fixed-odds lottery betting, including:
+Persons who have or may have any influence on the outcome of a real event with a sports theme subject to fixed-odds lottery betting, including:
+
+Persons holding positions as sports directors, sports coaches, trainers, and members of the technical staff;
+Persons holding positions as sports directors, sports coaches, trainers, and members of the technical staff;
+
+Referees of sports, referee assistants, or equivalents, sports entrepreneurs, agents or representatives of athletes and coaches, coaches or members of the technical staff;
+Referees of sports, referee assistants, or equivalents, sports entrepreneurs, agents or representatives of athletes and coaches, coaches or members of the technical staff;
+
+Members of the administrative or supervisory body of entities responsible for organizing competitions or sporting events;
+Members of the administrative or supervisory body of entities responsible for organizing competitions or sporting events;
+
+Athletes participating in competitions organized by entities within the National Sports System;
+Athletes participating in competitions organized by entities within the National Sports System;
+
+
+

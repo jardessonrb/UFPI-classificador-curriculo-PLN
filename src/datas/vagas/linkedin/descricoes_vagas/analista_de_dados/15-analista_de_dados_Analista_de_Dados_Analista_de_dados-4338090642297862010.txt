@@ -1,0 +1,148 @@
+link-https://www.linkedin.com/jobs/view/4057207030/?eBP=CwEAAAGS7ifyhTbEnAAJanpxba5S9cV2i8A09ZnL-MkQJsTHg9tlVQdV5x2EyzdtwiTbP8TXFUjTxF_ZMMeg-MATrIiFHXh0JwE1Dc9NY2wy4f1OUiNd5Y49lXSDFfevopCH53JeB-Se1jog8CeqRUrbYRYYTsOHpqIpI1nMal8-MHSLSv_6eJWA-c8YGkfiErNKijskX6eW9M-Dc34Xtb7ieCBSm0PIkoEAp5jB2qT_jPChmpvs2xWj0crGBCSzFCuvFoTmOyEg-SUOArkfbDbeZ9Xs26q_AlaZlluOXUs3JmLtjY9POpabW_P3Bw9XRL-xsg5nAtTzhVmYhdZsIkefD0virVvOH6vMs0SCg1nM29Te8BlhWbM-9zdU9dG7R7dFvNC28qBD299K4L5KsONS5T_EYyL-CKiG02a954M9C9ABEk9z6dMOXReRZClw0_Kw2d60bAoq_gqWtBhuGmfFQdcGZYNO4ucEi4jZLUb_-nI90o27OuRcswkT1Nw&refId=JhSFKZDvpXu6f5CSaDa%2BLw%3D%3D&trackingId=rpb01kxipa9hcodHLa%2BiWg%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados Pleno
+Sobre a vaga
+Estamos buscando um(a) Analista de Dados Pleno para o Time Vetta!Você atuará juntamente com um time ICT de BI atendendo de forma transversal as áreas de negócios de uma multinacional, de forma remota, sempre conectado com seus pares e colegas.VOCÊ JÁ CONHECE A VETTA?Na Vetta, acreditamos que a tecnologia e a inovação são essenciais para criar um futuro mais sustentável e eficiente para todos. Como uma empresa líder em digitalização industrial, nossas soluções estão ajudando clientes em todo o mundo a reduzir o consumo de energia, a melhorar a eficiência operacional e apoiar a transição energética através da descarbonização.Ao se juntar à nossa equipe, você terá a oportunidade de trabalhar emprojetos emocionantes e desafiadores com alguns dos maiores especialistas da indústria. Além disso, você fará parte de uma equipe dedicada em gerar um impacto positivo no mundo e em ajudar nossos clientes a alcançar seus objetivos de negócios. O Time Vetta sabe a importância do trabalho em equipe e da colaboração para alcançar resultados que atingem todo o globo – ao mesmo tempo quea carreira de cada um é transformada.Se você quer compartilhar a sua perspectiva para um mundo mais sustentável, venha ser parte do Time Vetta!💙Responsabilidades e atribuiçõesNesse time, você terá a oportunidade de:Atuar juntamente com o time ICT de BI atendendo de forma transversal as áreas de negócio e suportando os ICTs com amplo conhecimento em:Ingestão de Dados;Atuar com análise de BI em projetos do cliente no ramo automobilístico;Garantir a qualidade dos processos de cargas dos dados e das integrações;Gerar relatórios consistentes e automatizar processos documentais;Análise e levantamento de requisitos e definição de modelagem de dados;Atuar com análise de dados em projetos de consultoria.Requisitos e qualificaçõesO que esperamos de você para essa vaga:Superior Completo em Sistemas de Informação, Engenharia da Computação, Ciência da Computação ou correlatos.Conhecimento em ETL (SSIS e DataStage);Conhecimento de arquitetura Streaming e ferramentas;Desenvolvimento e manutenção de Banco de dados;Python, SQL Ansi, MySQL, Node, Java;Conhecimentos em GCP;Conhecimento de deploy e manutenção de Dags no Airflow;Conhecimento em Arquitetura de dados;Conhecimento em banco relacional e não relacional;Conhecimento em manutenção e deploy de VM’s;Implementação de técnicas de visualização de dados;Entendimento de algumas técnicas estatísticas;Conhecimento generalista de tecnologia voltada à infraestrutura;DataStudio, PowerBI ou qualquer outra ferramenta de Data Visualization.Diferencial:Inglês intermediário ou avançado.Informações adicionaisNOSSOS BENEFÍCIOS:Sendo uma empresa voltada para pessoas, buscamos sempre valorizar a nossa equipe. Ao entrar para o Time Vetta, oferecemos:Cartão Vale Alimentação e Refeição de R$32,00/dia, para ser utilizado em vários estabelecimentos de alimentação e de refeição de acordo com as suas necessidades.Auxílio home office de R$100,00/mês, além de flexibilidade no horário de trabalho.Caso trabalhe no escritório da Vetta, em Belo Horizonte, oferecemos Vale transporte.Pensando no cuidado, oferecemos Plano de saúde e Plano odontológico, com a possibilidade de inclusão dos seus dependentes.Total Pass e Vittude para que você possa cuidar, integralmente, da sua saúde ao praticar atividades físicas e ter contato com profissionais de diferentes áreas da saúde.Clube de Descontos Online – Swile Shop, com descontos em diversas redes de produtos e de serviços.Licença maternidade e paternidade estendida, para os pais e mães viverem essa fase com tranquilidade.PLR - conforme tabela do sindicato.E TEM MAIS...Day-Off de Aniversário.No Dress Code. Vista-se com o que te deixa confortável!Programa de Incentivo à Formação Contínua e Capacitação, para que você possa continuar aprendendo e compartilhando experiências.Quer indicar alguém para a Vetta? Temos Programa de Indicação de Talentos.Se interessou em fazer parte do time? Cadastre-se agora! Ficaremos felizes em ter você conosco. 💙
+Estamos buscando um(a) Analista de Dados Pleno para o Time Vetta!
+
+
+
+
+
+VOCÊ JÁ CONHECE A VETTA?
+
+
+
+
+
+
+projetos emocionantes e desafiadores com alguns dos maiores especialistas da indústria
+
+a carreira de cada um é transformada.
+
+
+Se você quer compartilhar a sua perspectiva para um mundo mais sustentável, venha ser parte do Time Vetta!
+
+
+
+Responsabilidades e atribuições
+
+
+Nesse time, você terá a oportunidade de:
+
+
+Atuar juntamente com o time ICT de BI atendendo de forma transversal as áreas de negócio e suportando os ICTs com amplo conhecimento em:
+Atuar juntamente com o time ICT de BI atendendo de forma transversal as áreas de negócio e suportando os ICTs com amplo conhecimento em:
+
+
+Ingestão de Dados;Atuar com análise de BI em projetos do cliente no ramo automobilístico;Garantir a qualidade dos processos de cargas dos dados e das integrações;Gerar relatórios consistentes e automatizar processos documentais;Análise e levantamento de requisitos e definição de modelagem de dados;Atuar com análise de dados em projetos de consultoria.
+Ingestão de Dados;
+Ingestão de Dados;
+Atuar com análise de BI em projetos do cliente no ramo automobilístico;
+Atuar com análise de BI em projetos do cliente no ramo automobilístico;
+Garantir a qualidade dos processos de cargas dos dados e das integrações;
+Garantir a qualidade dos processos de cargas dos dados e das integrações;
+Gerar relatórios consistentes e automatizar processos documentais;
+Gerar relatórios consistentes e automatizar processos documentais;
+Análise e levantamento de requisitos e definição de modelagem de dados;
+Análise e levantamento de requisitos e definição de modelagem de dados;
+Atuar com análise de dados em projetos de consultoria.
+Atuar com análise de dados em projetos de consultoria.
+
+
+
+Requisitos e qualificações
+
+
+O que esperamos de você para essa vaga:
+
+
+Superior Completo em Sistemas de Informação, Engenharia da Computação, Ciência da Computação ou correlatos.Conhecimento em ETL (SSIS e DataStage);Conhecimento de arquitetura Streaming e ferramentas;Desenvolvimento e manutenção de Banco de dados;Python, SQL Ansi, MySQL, Node, Java;Conhecimentos em GCP;Conhecimento de deploy e manutenção de Dags no Airflow;Conhecimento em Arquitetura de dados;Conhecimento em banco relacional e não relacional;Conhecimento em manutenção e deploy de VM’s;Implementação de técnicas de visualização de dados;Entendimento de algumas técnicas estatísticas;Conhecimento generalista de tecnologia voltada à infraestrutura;DataStudio, PowerBI ou qualquer outra ferramenta de Data Visualization.
+Superior Completo em Sistemas de Informação, Engenharia da Computação, Ciência da Computação ou correlatos.
+Superior Completo em Sistemas de Informação, Engenharia da Computação, Ciência da Computação ou correlatos.
+Conhecimento em ETL (SSIS e DataStage);
+Conhecimento em ETL (SSIS e DataStage);
+Conhecimento de arquitetura Streaming e ferramentas;
+Conhecimento de arquitetura Streaming e ferramentas;
+Desenvolvimento e manutenção de Banco de dados;
+Desenvolvimento e manutenção de Banco de dados;
+Python, SQL Ansi, MySQL, Node, Java;
+Python, SQL Ansi, MySQL, Node, Java;
+Conhecimentos em GCP;
+Conhecimentos em GCP;
+Conhecimento de deploy e manutenção de Dags no Airflow;
+Conhecimento de deploy e manutenção de Dags no Airflow;
+Conhecimento em Arquitetura de dados;
+Conhecimento em Arquitetura de dados;
+Conhecimento em banco relacional e não relacional;
+Conhecimento em banco relacional e não relacional;
+Conhecimento em manutenção e deploy de VM’s;
+Conhecimento em manutenção e deploy de VM’s;
+Implementação de técnicas de visualização de dados;
+Implementação de técnicas de visualização de dados;
+Entendimento de algumas técnicas estatísticas;
+Entendimento de algumas técnicas estatísticas;
+Conhecimento generalista de tecnologia voltada à infraestrutura;
+Conhecimento generalista de tecnologia voltada à infraestrutura;
+DataStudio, PowerBI ou qualquer outra ferramenta de Data Visualization.
+DataStudio, PowerBI ou qualquer outra ferramenta de Data Visualization.
+
+
+
+Diferencial:
+
+
+Inglês intermediário ou avançado.
+Inglês intermediário ou avançado.
+Inglês intermediário ou avançado.
+
+
+
+Informações adicionais
+
+
+NOSSOS BENEFÍCIOS:
+
+
+
+
+
+Cartão Vale Alimentação e Refeição de R$32,00/dia, para ser utilizado em vários estabelecimentos de alimentação e de refeição de acordo com as suas necessidades.Auxílio home office de R$100,00/mês, além de flexibilidade no horário de trabalho.Caso trabalhe no escritório da Vetta, em Belo Horizonte, oferecemos Vale transporte.Pensando no cuidado, oferecemos Plano de saúde e Plano odontológico, com a possibilidade de inclusão dos seus dependentes.Total Pass e Vittude para que você possa cuidar, integralmente, da sua saúde ao praticar atividades físicas e ter contato com profissionais de diferentes áreas da saúde.Clube de Descontos Online – Swile Shop, com descontos em diversas redes de produtos e de serviços.Licença maternidade e paternidade estendida, para os pais e mães viverem essa fase com tranquilidade.PLR - conforme tabela do sindicato.
+Cartão Vale Alimentação e Refeição de R$32,00/dia, para ser utilizado em vários estabelecimentos de alimentação e de refeição de acordo com as suas necessidades.
+Cartão Vale Alimentação e Refeição de R$32,00/dia, para ser utilizado em vários estabelecimentos de alimentação e de refeição de acordo com as suas necessidades.
+Auxílio home office de R$100,00/mês, além de flexibilidade no horário de trabalho.
+Auxílio home office de R$100,00/mês, além de flexibilidade no horário de trabalho.
+Caso trabalhe no escritório da Vetta, em Belo Horizonte, oferecemos Vale transporte.
+Caso trabalhe no escritório da Vetta, em Belo Horizonte, oferecemos Vale transporte.
+Pensando no cuidado, oferecemos Plano de saúde e Plano odontológico, com a possibilidade de inclusão dos seus dependentes.
+Pensando no cuidado, oferecemos Plano de saúde e Plano odontológico, com a possibilidade de inclusão dos seus dependentes.
+
+Total Pass e Vittude para que você possa cuidar, integralmente, da sua saúde ao praticar atividades físicas e ter contato com profissionais de diferentes áreas da saúde.
+Total Pass e Vittude para que você possa cuidar, integralmente, da sua saúde ao praticar atividades físicas e ter contato com profissionais de diferentes áreas da saúde.
+Clube de Descontos Online – Swile Shop, com descontos em diversas redes de produtos e de serviços.
+Clube de Descontos Online – Swile Shop, com descontos em diversas redes de produtos e de serviços.
+
+Licença maternidade e paternidade estendida, para os pais e mães viverem essa fase com tranquilidade.
+Licença maternidade e paternidade estendida, para os pais e mães viverem essa fase com tranquilidade.
+
+PLR - conforme tabela do sindicato.
+PLR - conforme tabela do sindicato.
+
+
+
+E TEM MAIS...
+
+
+Day-Off de Aniversário.No Dress Code. Vista-se com o que te deixa confortável!Programa de Incentivo à Formação Contínua e Capacitação, para que você possa continuar aprendendo e compartilhando experiências.Quer indicar alguém para a Vetta? Temos Programa de Indicação de Talentos.
+Day-Off de Aniversário.
+Day-Off de Aniversário.
+No Dress Code. Vista-se com o que te deixa confortável!
+No Dress Code. Vista-se com o que te deixa confortável!
+Programa de Incentivo à Formação Contínua e Capacitação, para que você possa continuar aprendendo e compartilhando experiências.
+Programa de Incentivo à Formação Contínua e Capacitação, para que você possa continuar aprendendo e compartilhando experiências.
+Quer indicar alguém para a Vetta? Temos Programa de Indicação de Talentos.
+Quer indicar alguém para a Vetta? Temos Programa de Indicação de Talentos.
+
+
+
+Se interessou em fazer parte do time? Cadastre-se agora! Ficaremos felizes em ter você conosco. 💙

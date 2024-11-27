@@ -1,0 +1,87 @@
+link-https://www.linkedin.com/jobs/view/4064283115/?eBP=CwEAAAGS7hOyvGDIN7HsAZ6OD7hAp1lHaTgp2SSKoENLxIgDuuNHlNqsO6qp-0LV-KR1CD2INOa2D1HvwJuBQpUpMaNFbla0yU145tmA7kwYn9mkAF0zZeqFQVQPTewiPG1CmgSSrMEI4OhmcI4bqJ7mxYYe51VnprQU5ZDvYITGe0ZHDqc-JrdQpuN6MNfilOILoN5j9q6symqZA5rmDPvcINB6dqzNZOsMxUw13MKxm2NdFgCgk9fXjhAvFqQq9PTVS3WjR0uE4ADx4upl2FuEV0NpcCanxr76x5zBqB0-F8glmW-WyXVn32pl0xT6wq52aPM11EPp3KQmztWfxv-5mC291DsMo49euhfG2c98oPCtMkQD3F1dTIHpn1HvXV8Rm7hNx2RXzoKcOwBS6y4giznoW_pKZAii_2l_hkuWeHLjmiMhwuBJfU-YTa8EmnIKiLx3C8bgwo7sIcXIsCDS8UUA_WINS_eqr9rwPt2XOxyCX2g26iUR4fqamd_FXZZ-YQr4aDueL5mqXMFgP3PtOxRu46w&refId=6NSr3Gytplv6ewXh4qa%2Fwg%3D%3D&trackingId=%2F7hOVGB7fggbFVvJE1fckQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Fullstack Pleno - CLT
+Sobre a vaga
+Responsabilidades e atribuiçõesEstamos em busca de um Desenvolvedor Fullstack Sênior com sólidos conhecimentos em .NET Core, React e React Native para integrar nosso time e atuar em um ambiente desafiador e inovador. O trabalho será híbrido, com atuação presencial em São Paulo, oferecendo flexibilidade e oportunidade de colaboração com nossa equipe.CompetênciasPara executar as atividades, é necessário possuir sólidos conhecimentos em:.NET CoreReact e React NativeNode.jsArquitetura de microserviçosBanco de Dados SQL ServerServiços AWS (ex: EC2, S3, Lambda)Controle de versão utilizando Git e GitLabExperiência com metodologias ágeis (Scrum, Kanban)Práticas de DevOps para automação de processos e CI/CDDesejável:Experiência no setor bancário ou financeiroConhecimentos em Angular (diferencial)AtividadesTrabalho híbrido, com base em São PauloComunicação direta e eficaz com a equipe do projeto e stakeholdersDesenvolvimento e manutenção de funcionalidades em um sistema legadoParticipação ativa nas cerimônias do Scrum, incluindo daily, planning, e retrospectivasComprometimento com a pontuação e entrega das histórias com alto padrão de qualidadeProatividade e disposição para encarar novos desafios e buscar soluções inovadorasInformações adicionaisOs desbravadores tem:Horário flexível, aqui você é responsável por se organizar;Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;No dress code, seja 100% você;Vale transporte;Vale refeição ou alimentação FLEX;Gympass;Plano odontológico Bradesco;Plano de saúde Amil;Seguro de vida;Bem estar psicológico gratuito;Brivia Academy, treinamentos para aperfeiçoamento;Bônus salarial;Associação e descontos na ANAMID.
+Responsabilidades e atribuições
+Estamos em busca de um Desenvolvedor Fullstack Sênior com sólidos conhecimentos em .NET Core, React e React Native para integrar nosso time e atuar em um ambiente desafiador e inovador. O trabalho será híbrido, com atuação presencial em São Paulo, oferecendo flexibilidade e oportunidade de colaboração com nossa equipe.
+Estamos em busca de um Desenvolvedor Fullstack Sênior com sólidos conhecimentos em .NET Core, React e React Native para integrar nosso time e atuar em um ambiente desafiador e inovador. O trabalho será híbrido, com atuação presencial em São Paulo, oferecendo flexibilidade e oportunidade de colaboração com nossa equipe.
+
+
+
+Competências
+Para executar as atividades, é necessário possuir sólidos conhecimentos em:
+Para executar as atividades, é necessário possuir sólidos conhecimentos em:
+.NET CoreReact e React NativeNode.jsArquitetura de microserviçosBanco de Dados SQL ServerServiços AWS (ex: EC2, S3, Lambda)Controle de versão utilizando Git e GitLabExperiência com metodologias ágeis (Scrum, Kanban)Práticas de DevOps para automação de processos e CI/CD
+.NET Core
+.NET Core
+React e React Native
+React e React Native
+Node.js
+Node.js
+Arquitetura de microserviços
+Arquitetura de microserviços
+Banco de Dados SQL Server
+Banco de Dados SQL Server
+Serviços AWS (ex: EC2, S3, Lambda)
+Serviços AWS (ex: EC2, S3, Lambda)
+Controle de versão utilizando Git e GitLab
+Controle de versão utilizando Git e GitLab
+Experiência com metodologias ágeis (Scrum, Kanban)
+Experiência com metodologias ágeis (Scrum, Kanban)
+Práticas de DevOps para automação de processos e CI/CD
+Práticas de DevOps para automação de processos e CI/CD
+Desejável:
+Desejável:
+Experiência no setor bancário ou financeiroConhecimentos em Angular (diferencial)
+Experiência no setor bancário ou financeiro
+Experiência no setor bancário ou financeiro
+Conhecimentos em Angular (diferencial)
+Conhecimentos em Angular (diferencial)
+Atividades
+Trabalho híbrido, com base em São PauloComunicação direta e eficaz com a equipe do projeto e stakeholdersDesenvolvimento e manutenção de funcionalidades em um sistema legadoParticipação ativa nas cerimônias do Scrum, incluindo daily, planning, e retrospectivasComprometimento com a pontuação e entrega das histórias com alto padrão de qualidadeProatividade e disposição para encarar novos desafios e buscar soluções inovadoras
+Trabalho híbrido, com base em São Paulo
+Trabalho híbrido, com base em São Paulo
+Comunicação direta e eficaz com a equipe do projeto e stakeholders
+Comunicação direta e eficaz com a equipe do projeto e stakeholders
+Desenvolvimento e manutenção de funcionalidades em um sistema legado
+Desenvolvimento e manutenção de funcionalidades em um sistema legado
+Participação ativa nas cerimônias do Scrum, incluindo daily, planning, e retrospectivas
+Participação ativa nas cerimônias do Scrum, incluindo daily, planning, e retrospectivas
+Comprometimento com a pontuação e entrega das histórias com alto padrão de qualidade
+Comprometimento com a pontuação e entrega das histórias com alto padrão de qualidade
+Proatividade e disposição para encarar novos desafios e buscar soluções inovadoras
+Proatividade e disposição para encarar novos desafios e buscar soluções inovadoras
+Informações adicionais
+Os desbravadores tem:
+Os desbravadores tem:
+Horário flexível, aqui você é responsável por se organizar;Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;No dress code, seja 100% você;Vale transporte;Vale refeição ou alimentação FLEX;Gympass;Plano odontológico Bradesco;Plano de saúde Amil;Seguro de vida;Bem estar psicológico gratuito;Brivia Academy, treinamentos para aperfeiçoamento;Bônus salarial;Associação e descontos na ANAMID.
+Horário flexível, aqui você é responsável por se organizar;
+Horário flexível, aqui você é responsável por se organizar;
+Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;
+Cultura ágil, aqui todos os desbravadores utilizam metodologias ágeis no dia a dia;
+No dress code, seja 100% você;
+No dress code, seja 100% você;
+Vale transporte;
+Vale transporte;
+Vale refeição ou alimentação FLEX;
+Vale refeição ou alimentação FLEX;
+Gympass;
+Gympass;
+Plano odontológico Bradesco;
+Plano odontológico Bradesco;
+Plano de saúde Amil;
+Plano de saúde Amil;
+Seguro de vida;
+Seguro de vida;
+Bem estar psicológico gratuito;
+Bem estar psicológico gratuito;
+Brivia Academy, treinamentos para aperfeiçoamento;
+Brivia Academy, treinamentos para aperfeiçoamento;
+Bônus salarial;
+Bônus salarial;
+Associação e descontos na ANAMID.
+Associação e descontos na ANAMID.
+
+
+

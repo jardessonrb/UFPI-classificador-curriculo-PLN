@@ -1,0 +1,97 @@
+link-https://www.linkedin.com/jobs/view/4048259352/?eBP=CwEAAAGS7lInlWE813AdmWH7AgMc7G0x_B4yz7cG4njRjnUHLqNvnjgbqmp7N9lkxyLeMzc3Q0rRqM2bb3Izi9YH0ajab2XoXQdpf-grLyyVVVDOvdHmYDoRTFTDkfZTyjfjLqnFnhlVRv5LTvmVbnRqgdQ4kVa0fWVn29dp4Fw6sXr7qRerDgEidpB8Vv5cqjfrRYP6o6zcX7Ut6mZ50z2LMmWe-eW1UTwbpG13yYtIc-GoA57iJ_QxvE8K752X9wDR77UuJWifORYq9ZOWq7vBEjb7jeTg2SMw6QcPIPi1Si2dclTcTUYB0wN2DWWuk5Ou0CNlvuC9tgE5NaLioaMqiqLKhPQ4VbCyCFXZfsmkPjWcvYLkLY-57al-1r66QF4RlxtwHNhlftRjo00h3C7ZFONrR1mSbwU9FIRvcuVGob-Nf5Tavo7tfIDkbnocE3xHQXjIYDP0q3svKVF_KPbsNPseDIcaZJ0YdUWX47jGZfAXC3Lx1U5Uw-9hAGwPFZEruK52DDYk7oIp&refId=IqmtUJ2bp47v46rQJyql6A%3D%3D&trackingId=w0KhnwsSfgASmWTHk77JJA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Back End Sênior
+Sobre a vaga
+Somos responsáveis pelaAgenda de Recebíveisno MagaluPay, uma plataforma completa que permite o gerenciamento, a antecipação e a negociação de recebíveis, que são direitos de receber valores futuros decorrentes de vendas a prazo, faturas, duplicatas ou outros compromissos financeiros.Estamos procurando pessoas apaixonadas pelo que fazem e que saibam lidar com os desafios inerentes ao dia-a-dia. Que possuam facilidade em trabalhar em equipe e que tenham o espírito de somar ao mesmo, colaborando com a disseminação de conhecimento (aprendendo e ensinando) e ajudando a construir um ambiente que valorize a constante evolução de todos.Temos como objetivo, construir produtos cada vez melhores, inovadores, rentáveis e escaláveis e com os quais as pessoas adorem trabalhar. Buscamos oferecer o melhor aos nossos clientes com recursos tecnológicos modernos. Aqui temos um lema, chamado: "Gente que Gosta de Gente!", portanto, ajuda mútua além de amplamente incentivada faz verdadeiramente parte do nosso DNA.Aqui você será responsável por:Desenvolver software aplicando as boas práticas de codificação e padrões pensando em segurança, escalabilidade e custo, evitando impactos negativos em processos já existentes;Participar junto ao time na proposta e documentação de novas features e aplicações;Refinar e planejar o desenvolvimento de tarefas junto ao time;Realizar revisões de código para garantir artefatos padronizados e de qualidade;Trabalhar com tecnologias de ponta para novos projetos, e também com mente aberta para suportar legados em tecnologias mais antigas.Para atuar nessa função, é essencial que você tenha:Proficiência em linguagens de programação Python e JavaScript;Habituado(a) a versionar seus projetos com GIT em equipe. Entender como funcionam processos de code review, merge, CI/CD etc.;Experiência no desenvolvimento de sistemas distribuídos;Experiência no desenvolvimento de aplicações utilizando cache, filas e virtualização;Experiência em troubleshooting de aplicações através do acompanhamento de logs e no uso de ferramentas de monitoramento (APM);Capacidade de transitar entre diferentes tipos de aplicações (APIs, Workers, BFFs);Conhecimento em bancos de dados relacionais como PostgreSQL / MYSQL;Experiência no desenvolvimento utilizando testes unitários e de integração;Experiência em desenhar e implementar arquiteturas de software escaláveis e eficientes;Familiaridade com práticas de DevOps, como CI/CD, gerenciamento de infraestrutura e automação;Conhecimento de frameworks e ferramentas populares (e.g., Django, FastAPI, Node.js, Kubernetes);Capacidade de escrever código limpo, seguindo as melhores práticas de design e desenvolvimento;Excelentes habilidades de comunicação para articular ideias técnicas complexas de forma clara para stakeholders técnicos e não técnicos;Habilidade para identificar problemas, encontrar soluções criativas e orientar a equipe na implementação dessas soluções;Capacidade de colaborar com equipes de produto e design para alinhar a estratégia técnica com os objetivos de negócio;Capacidade de identificar novas tecnologias e tendências que possam beneficiar a empresa.Será um diferencial se você conhecer:Banco de dados NoSQL: MongoDB, BigQuery e etc;Kubernetes / Docker;Redis / RabbitMQ;Cloud Providers: GCP / AWS.
+Somos responsáveis pelaAgenda de Recebíveisno MagaluPay, uma plataforma completa que permite o gerenciamento, a antecipação e a negociação de recebíveis, que são direitos de receber valores futuros decorrentes de vendas a prazo, faturas, duplicatas ou outros compromissos financeiros.
+Somos responsáveis pelaAgenda de Recebíveisno MagaluPay, uma plataforma completa que permite o gerenciamento, a antecipação e a negociação de recebíveis, que são direitos de receber valores futuros decorrentes de vendas a prazo, faturas, duplicatas ou outros compromissos financeiros.
+
+Agenda de Recebíveis
+
+
+
+
+
+Estamos procurando pessoas apaixonadas pelo que fazem e que saibam lidar com os desafios inerentes ao dia-a-dia. Que possuam facilidade em trabalhar em equipe e que tenham o espírito de somar ao mesmo, colaborando com a disseminação de conhecimento (aprendendo e ensinando) e ajudando a construir um ambiente que valorize a constante evolução de todos.
+Estamos procurando pessoas apaixonadas pelo que fazem e que saibam lidar com os desafios inerentes ao dia-a-dia. Que possuam facilidade em trabalhar em equipe e que tenham o espírito de somar ao mesmo, colaborando com a disseminação de conhecimento (aprendendo e ensinando) e ajudando a construir um ambiente que valorize a constante evolução de todos.
+
+
+
+Temos como objetivo, construir produtos cada vez melhores, inovadores, rentáveis e escaláveis e com os quais as pessoas adorem trabalhar. Buscamos oferecer o melhor aos nossos clientes com recursos tecnológicos modernos. Aqui temos um lema, chamado: "Gente que Gosta de Gente!", portanto, ajuda mútua além de amplamente incentivada faz verdadeiramente parte do nosso DNA.
+Temos como objetivo, construir produtos cada vez melhores, inovadores, rentáveis e escaláveis e com os quais as pessoas adorem trabalhar. Buscamos oferecer o melhor aos nossos clientes com recursos tecnológicos modernos. Aqui temos um lema, chamado: "Gente que Gosta de Gente!", portanto, ajuda mútua além de amplamente incentivada faz verdadeiramente parte do nosso DNA.
+
+
+
+Aqui você será responsável por:
+Aqui você será responsável por:
+Aqui você será responsável por:
+
+
+
+Desenvolver software aplicando as boas práticas de codificação e padrões pensando em segurança, escalabilidade e custo, evitando impactos negativos em processos já existentes;Participar junto ao time na proposta e documentação de novas features e aplicações;Refinar e planejar o desenvolvimento de tarefas junto ao time;Realizar revisões de código para garantir artefatos padronizados e de qualidade;Trabalhar com tecnologias de ponta para novos projetos, e também com mente aberta para suportar legados em tecnologias mais antigas.
+Desenvolver software aplicando as boas práticas de codificação e padrões pensando em segurança, escalabilidade e custo, evitando impactos negativos em processos já existentes;
+Desenvolver software aplicando as boas práticas de codificação e padrões pensando em segurança, escalabilidade e custo, evitando impactos negativos em processos já existentes;
+
+Participar junto ao time na proposta e documentação de novas features e aplicações;
+Participar junto ao time na proposta e documentação de novas features e aplicações;
+
+Refinar e planejar o desenvolvimento de tarefas junto ao time;
+Refinar e planejar o desenvolvimento de tarefas junto ao time;
+Realizar revisões de código para garantir artefatos padronizados e de qualidade;
+Realizar revisões de código para garantir artefatos padronizados e de qualidade;
+Trabalhar com tecnologias de ponta para novos projetos, e também com mente aberta para suportar legados em tecnologias mais antigas.
+Trabalhar com tecnologias de ponta para novos projetos, e também com mente aberta para suportar legados em tecnologias mais antigas.
+
+
+
+Para atuar nessa função, é essencial que você tenha:
+Para atuar nessa função, é essencial que você tenha:
+Para atuar nessa função, é essencial que você tenha:
+Proficiência em linguagens de programação Python e JavaScript;Habituado(a) a versionar seus projetos com GIT em equipe. Entender como funcionam processos de code review, merge, CI/CD etc.;Experiência no desenvolvimento de sistemas distribuídos;Experiência no desenvolvimento de aplicações utilizando cache, filas e virtualização;Experiência em troubleshooting de aplicações através do acompanhamento de logs e no uso de ferramentas de monitoramento (APM);Capacidade de transitar entre diferentes tipos de aplicações (APIs, Workers, BFFs);Conhecimento em bancos de dados relacionais como PostgreSQL / MYSQL;Experiência no desenvolvimento utilizando testes unitários e de integração;Experiência em desenhar e implementar arquiteturas de software escaláveis e eficientes;Familiaridade com práticas de DevOps, como CI/CD, gerenciamento de infraestrutura e automação;Conhecimento de frameworks e ferramentas populares (e.g., Django, FastAPI, Node.js, Kubernetes);Capacidade de escrever código limpo, seguindo as melhores práticas de design e desenvolvimento;Excelentes habilidades de comunicação para articular ideias técnicas complexas de forma clara para stakeholders técnicos e não técnicos;Habilidade para identificar problemas, encontrar soluções criativas e orientar a equipe na implementação dessas soluções;Capacidade de colaborar com equipes de produto e design para alinhar a estratégia técnica com os objetivos de negócio;Capacidade de identificar novas tecnologias e tendências que possam beneficiar a empresa.
+Proficiência em linguagens de programação Python e JavaScript;
+Proficiência em linguagens de programação Python e JavaScript;
+Habituado(a) a versionar seus projetos com GIT em equipe. Entender como funcionam processos de code review, merge, CI/CD etc.;
+Habituado(a) a versionar seus projetos com GIT em equipe. Entender como funcionam processos de code review, merge, CI/CD etc.;
+Experiência no desenvolvimento de sistemas distribuídos;
+Experiência no desenvolvimento de sistemas distribuídos;
+Experiência no desenvolvimento de aplicações utilizando cache, filas e virtualização;
+Experiência no desenvolvimento de aplicações utilizando cache, filas e virtualização;
+Experiência em troubleshooting de aplicações através do acompanhamento de logs e no uso de ferramentas de monitoramento (APM);
+Experiência em troubleshooting de aplicações através do acompanhamento de logs e no uso de ferramentas de monitoramento (APM);
+Capacidade de transitar entre diferentes tipos de aplicações (APIs, Workers, BFFs);
+Capacidade de transitar entre diferentes tipos de aplicações (APIs, Workers, BFFs);
+Conhecimento em bancos de dados relacionais como PostgreSQL / MYSQL;
+Conhecimento em bancos de dados relacionais como PostgreSQL / MYSQL;
+Experiência no desenvolvimento utilizando testes unitários e de integração;
+Experiência no desenvolvimento utilizando testes unitários e de integração;
+Experiência em desenhar e implementar arquiteturas de software escaláveis e eficientes;
+Experiência em desenhar e implementar arquiteturas de software escaláveis e eficientes;
+Familiaridade com práticas de DevOps, como CI/CD, gerenciamento de infraestrutura e automação;
+Familiaridade com práticas de DevOps, como CI/CD, gerenciamento de infraestrutura e automação;
+Conhecimento de frameworks e ferramentas populares (e.g., Django, FastAPI, Node.js, Kubernetes);
+Conhecimento de frameworks e ferramentas populares (e.g., Django, FastAPI, Node.js, Kubernetes);
+Capacidade de escrever código limpo, seguindo as melhores práticas de design e desenvolvimento;
+Capacidade de escrever código limpo, seguindo as melhores práticas de design e desenvolvimento;
+Excelentes habilidades de comunicação para articular ideias técnicas complexas de forma clara para stakeholders técnicos e não técnicos;
+Excelentes habilidades de comunicação para articular ideias técnicas complexas de forma clara para stakeholders técnicos e não técnicos;
+Habilidade para identificar problemas, encontrar soluções criativas e orientar a equipe na implementação dessas soluções;
+Habilidade para identificar problemas, encontrar soluções criativas e orientar a equipe na implementação dessas soluções;
+Capacidade de colaborar com equipes de produto e design para alinhar a estratégia técnica com os objetivos de negócio;
+Capacidade de colaborar com equipes de produto e design para alinhar a estratégia técnica com os objetivos de negócio;
+Capacidade de identificar novas tecnologias e tendências que possam beneficiar a empresa.
+Capacidade de identificar novas tecnologias e tendências que possam beneficiar a empresa.
+
+
+
+Será um diferencial se você conhecer:
+Será um diferencial se você conhecer:
+Será um diferencial se você conhecer:
+Banco de dados NoSQL: MongoDB, BigQuery e etc;Kubernetes / Docker;Redis / RabbitMQ;Cloud Providers: GCP / AWS.
+Banco de dados NoSQL: MongoDB, BigQuery e etc;
+Banco de dados NoSQL: MongoDB, BigQuery e etc;
+Kubernetes / Docker;
+Kubernetes / Docker;
+Redis / RabbitMQ;
+Redis / RabbitMQ;
+Cloud Providers: GCP / AWS.
+Cloud Providers: GCP / AWS.

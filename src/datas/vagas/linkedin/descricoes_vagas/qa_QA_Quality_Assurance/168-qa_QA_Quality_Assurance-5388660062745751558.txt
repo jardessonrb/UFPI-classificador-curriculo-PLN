@@ -1,0 +1,215 @@
+link-https://www.linkedin.com/jobs/view/4050363390/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=vrSOuBzlkD81CmoixsGlDQ%3D%3D&trackingId=zrY6CMyGYF2LlMyphnZcKw%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Automation Engineer
+Sobre a vaga
+OverviewWe're looking for a QA Automation Engineer. Headquartered in Los Angeles, California, Right Balance provides top-tier technology talent for innovative companies in the US. We’re in the top 50 companies to watch in LA.Engagement DetailsWhat We Do?We're the first and largest peer-to-peer marketplace for laundry. Our customers tap the app and outsource their laundry. For them, it’s life without laundry, because we hacked it out of existence. But we solve a second problem too, which is that more and more people of varying backgrounds want to work from home. Luckily, most people have an underutilized washer/dryer, which when combined with our Laundry Pro app, provides the first-ever manual labor work-from-home gig in the world. For all our users, we're a marketplace for a better life.Our ProgressPerfect product market fit drove a 100x surge in users & revenue and double-digit MoM growth over the past few years. In 2021 we scaled to 500+ markets throughout the United States. In March 2022 we closed a $10m seed round which included VC investments from Headline, Origin Ventures, Starting Line VC, Ludlow Ventures, and Clean Ventures, as well as notable angel investments from Max Mullen, co-founder of Instacart, Steven Galanis, Co-founder and CEO of Cameo, Joanna Riley, CEO and co-founder of Censia, and Rob Chesnut, Chief Ethics Officer for airbnb. Significant growth continued in 2022 and 2023.What You'll doYou won’t just “test our app”—you’ll break it, bend it, push it to its limits, and then automate it all to make sure we never let a bug slip through the cracks. Your role will be to build automated testing environments that do more than just catch mistakes—they’ll predict them before they even happen. You’ll be the hero behind the scenes, making sure that when our product hits the spotlight, it’s flawless.Architect Magic: Design, code, and maintain automated test scripts that’ll transform manual, repetitive work into efficient, error-proof systems.Break the Rules (Smartly): Challenge our developers to think ahead by running code through a gauntlet of tests that simulate the most unpredictable real-world scenarios.Team Up: Work closely with our product managers, engineers, and designers to understand the intricate details of every feature and define test strategies. Your feedback will shape how we approach quality from day one.Keep the Wheels Turning: Integrate your automated tests with our CI/CD pipeline so we can deliver fast without sacrificing an ounce of quality.See Beyond Bugs: We don’t just want someone to find issues—we want someone who anticipates problems before they even become problems. Root because analysis is your superpower.Make Us Faster, Smarter: Continuously improve our testing processes, finding new ways to automate, streamline, and ensure quality at speed.Protect the past: Perform regression testing and validate fixes for reported issues.Track defects: Identify, document, and track defects using a defect tracking tool.Please Note: This is a venture startup opportunity with the expectation of giving your best to it. There will be equity and there will be long hours, a lot of energy spent towards delivering fast, and the work / life balance will be leaning more towards work.What’s in it for youLearn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.Required QualificationsUpper-intermediate to fluent speaking and writing English. Able to have a real-time conversation.7+ years of full-time hands-on QA Automation experience.5+ years of hands-on experience automating tests for both front-end and back-end systems.3+ years of full-time hands-on Javascript / Typescript experience.Experience with common client and server testing tools (Playwright, Selenium, Cypress, Jest).Analyze test results, report findings, and recommend improvements.Participate in code reviews and provide feedback on testability and code quality.Experience with CI/CD pipelines, using tools like Jenkins or GitLab to keep things moving swiftly.The ability to see the matrix in the SDLC, understanding Agile, Scrum, and how to fit QA seamlessly into the flow.A knack for collaboration and communication—you speak both "engineer" and "non-engineer" fluently.Skills in testing mobile apps—because our users are everywhere.Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.You love to build new things. You care about innovation.Self-motivated and a desire to work in a high velocity, async environment.Work schedule that allows for a 9am Central Time standup and overlaps with Central Standard Time by 5 hours.Nice to havesExperience in performance testing, making sure our systems handle anything we throw at them.Familiarity with API testing tools like Postman or REST Assured (you love a good challenge).Knowledge of cloud environments and containers (AWS, GCP. Docker, Cloud Functions, Firebase).Bachelor’s degree in Computer Science or equivalent demonstrated ability.Frequently Asked QuestionsWhat are your typical clients?The majority of our clients are venture-backed startups at the growth stage. Usually, at this stage, the company already achieved a product-market fit and is looking to expand rapidly. That’s where we bring the best engineering practices, strong architecture, the latest technologies, and consistent processes to help companies scale.What is the length of your engagements?Most of our long-term full-time engagements last multiple years. It allows you to evolve your career with the client company taking on more responsibilities.What’s your company size?The Right Balance team is 60+ engineers going to 100+ by the end of the year. The current client size team is 141+ people. The timing is great to be a part of a rapidly growing team making meaningful contributions.What happens if the engagement is completed?Most of our engagements are long-term in nature. That said, if the current engagement is ramping down, we’ll present you with more long-term opportunities to transition into.What are your core values?Client First: we only win when our clients win. We treat client challenges as our own.Ownership: we embrace responsibility, taking on challenges, getting them to completion, and enjoying getting things done.Quality: we’re passionate about achieving quality outcomes by applying meticulous attention to detail.
+Overview
+
+
+
+
+Engagement Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Architect Magic: Design, code, and maintain automated test scripts that’ll transform manual, repetitive work into efficient, error-proof systems.Break the Rules (Smartly): Challenge our developers to think ahead by running code through a gauntlet of tests that simulate the most unpredictable real-world scenarios.Team Up: Work closely with our product managers, engineers, and designers to understand the intricate details of every feature and define test strategies. Your feedback will shape how we approach quality from day one.Keep the Wheels Turning: Integrate your automated tests with our CI/CD pipeline so we can deliver fast without sacrificing an ounce of quality.See Beyond Bugs: We don’t just want someone to find issues—we want someone who anticipates problems before they even become problems. Root because analysis is your superpower.Make Us Faster, Smarter: Continuously improve our testing processes, finding new ways to automate, streamline, and ensure quality at speed.Protect the past: Perform regression testing and validate fixes for reported issues.Track defects: Identify, document, and track defects using a defect tracking tool.
+Architect Magic: Design, code, and maintain automated test scripts that’ll transform manual, repetitive work into efficient, error-proof systems.
+Architect Magic: Design, code, and maintain automated test scripts that’ll transform manual, repetitive work into efficient, error-proof systems.
+
+
+Break the Rules (Smartly): Challenge our developers to think ahead by running code through a gauntlet of tests that simulate the most unpredictable real-world scenarios.
+Break the Rules (Smartly): Challenge our developers to think ahead by running code through a gauntlet of tests that simulate the most unpredictable real-world scenarios.
+
+
+Team Up: Work closely with our product managers, engineers, and designers to understand the intricate details of every feature and define test strategies. Your feedback will shape how we approach quality from day one.
+Team Up: Work closely with our product managers, engineers, and designers to understand the intricate details of every feature and define test strategies. Your feedback will shape how we approach quality from day one.
+
+
+Keep the Wheels Turning: Integrate your automated tests with our CI/CD pipeline so we can deliver fast without sacrificing an ounce of quality.
+Keep the Wheels Turning: Integrate your automated tests with our CI/CD pipeline so we can deliver fast without sacrificing an ounce of quality.
+
+
+See Beyond Bugs: We don’t just want someone to find issues—we want someone who anticipates problems before they even become problems. Root because analysis is your superpower.
+See Beyond Bugs: We don’t just want someone to find issues—we want someone who anticipates problems before they even become problems. Root because analysis is your superpower.
+
+
+Make Us Faster, Smarter: Continuously improve our testing processes, finding new ways to automate, streamline, and ensure quality at speed.
+Make Us Faster, Smarter: Continuously improve our testing processes, finding new ways to automate, streamline, and ensure quality at speed.
+
+
+Protect the past: Perform regression testing and validate fixes for reported issues.
+Protect the past: Perform regression testing and validate fixes for reported issues.
+
+
+Track defects: Identify, document, and track defects using a defect tracking tool.
+Track defects: Identify, document, and track defects using a defect tracking tool.
+
+
+
+
+
+
+
+What’s in it for you
+
+
+
+
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+
+
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+
+
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+
+
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+
+
+
+
+
+Required Qualifications
+
+
+
+
+Upper-intermediate to fluent speaking and writing English. Able to have a real-time conversation.7+ years of full-time hands-on QA Automation experience.5+ years of hands-on experience automating tests for both front-end and back-end systems.3+ years of full-time hands-on Javascript / Typescript experience.Experience with common client and server testing tools (Playwright, Selenium, Cypress, Jest).Analyze test results, report findings, and recommend improvements.Participate in code reviews and provide feedback on testability and code quality.Experience with CI/CD pipelines, using tools like Jenkins or GitLab to keep things moving swiftly.The ability to see the matrix in the SDLC, understanding Agile, Scrum, and how to fit QA seamlessly into the flow.A knack for collaboration and communication—you speak both "engineer" and "non-engineer" fluently.Skills in testing mobile apps—because our users are everywhere.Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.You love to build new things. You care about innovation.Self-motivated and a desire to work in a high velocity, async environment.Work schedule that allows for a 9am Central Time standup and overlaps with Central Standard Time by 5 hours.
+Upper-intermediate to fluent speaking and writing English. Able to have a real-time conversation.
+Upper-intermediate to fluent speaking and writing English. Able to have a real-time conversation.
+
+
+7+ years of full-time hands-on QA Automation experience.
+7+ years of full-time hands-on QA Automation experience.
+
+
+5+ years of hands-on experience automating tests for both front-end and back-end systems.
+5+ years of hands-on experience automating tests for both front-end and back-end systems.
+
+
+3+ years of full-time hands-on Javascript / Typescript experience.
+3+ years of full-time hands-on Javascript / Typescript experience.
+
+
+Experience with common client and server testing tools (Playwright, Selenium, Cypress, Jest).
+Experience with common client and server testing tools (Playwright, Selenium, Cypress, Jest).
+
+
+Analyze test results, report findings, and recommend improvements.
+Analyze test results, report findings, and recommend improvements.
+
+
+Participate in code reviews and provide feedback on testability and code quality.
+Participate in code reviews and provide feedback on testability and code quality.
+
+
+Experience with CI/CD pipelines, using tools like Jenkins or GitLab to keep things moving swiftly.
+Experience with CI/CD pipelines, using tools like Jenkins or GitLab to keep things moving swiftly.
+
+
+The ability to see the matrix in the SDLC, understanding Agile, Scrum, and how to fit QA seamlessly into the flow.
+The ability to see the matrix in the SDLC, understanding Agile, Scrum, and how to fit QA seamlessly into the flow.
+
+
+A knack for collaboration and communication—you speak both "engineer" and "non-engineer" fluently.
+A knack for collaboration and communication—you speak both "engineer" and "non-engineer" fluently.
+
+
+Skills in testing mobile apps—because our users are everywhere.
+Skills in testing mobile apps—because our users are everywhere.
+
+
+Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.
+Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.
+
+
+Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.
+Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.
+
+
+You love to build new things. You care about innovation.
+You love to build new things. You care about innovation.
+
+
+Self-motivated and a desire to work in a high velocity, async environment.
+Self-motivated and a desire to work in a high velocity, async environment.
+
+
+Work schedule that allows for a 9am Central Time standup and overlaps with Central Standard Time by 5 hours.
+Work schedule that allows for a 9am Central Time standup and overlaps with Central Standard Time by 5 hours.
+
+
+
+
+
+Nice to haves
+
+
+
+
+Experience in performance testing, making sure our systems handle anything we throw at them.Familiarity with API testing tools like Postman or REST Assured (you love a good challenge).Knowledge of cloud environments and containers (AWS, GCP. Docker, Cloud Functions, Firebase).Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Experience in performance testing, making sure our systems handle anything we throw at them.
+Experience in performance testing, making sure our systems handle anything we throw at them.
+
+
+Familiarity with API testing tools like Postman or REST Assured (you love a good challenge).
+Familiarity with API testing tools like Postman or REST Assured (you love a good challenge).
+
+
+Knowledge of cloud environments and containers (AWS, GCP. Docker, Cloud Functions, Firebase).
+Knowledge of cloud environments and containers (AWS, GCP. Docker, Cloud Functions, Firebase).
+
+
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

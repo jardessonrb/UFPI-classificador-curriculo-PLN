@@ -1,0 +1,96 @@
+link-https://www.linkedin.com/jobs/view/3896045445/?eBP=CwEAAAGS7g-PQ_xQhS2m-yRTlFJh475yspyexvUnADNFZ7TQdlCMqeu9cdS5LXYUEkyKj6bSwELarpzs0ArJpYVqGn5yNvNkpo1Bl9LmB_nb-dDyyunaf9TsVv-uaB5pQdhu_6suBvL02L9BR9_BvgtppccJhlUQwzStgr-0YdIPrgAfMZBaX499ZoUZucC1PJ0EhrMoNIYGQIqrVau_l0AOjGApwuUPsOWAfwFdqMUsbHSrFP0wwktqKUtrYbEYcl27a_Yc9LwqHk8RR3Px0F_mtSZSqKQ9lU_NiBddtzAcZz_Woz2af8y2AW2JD0iBD1zd_w0CF5YWBzRQ6595U18O0_boKJbXbTxnR_SA_G01KajGa2WQS8rMHxBxeQx8jCXbrfmaF3NWeINWyYJqrwKug2uyrHPIlmSdYRe8DCQKlA7YsOKQpP7-ghirxpFY8w9_JXZqiQA8ajnmGZ3TJFLB26TTqT-vlNffBThs7KKrVcMSodNDDxqe33wc8RSQDJrYkIcs2qU&refId=4HWb3fpr4rq7t21n2A4hZg%3D%3D&trackingId=38mvULS8I3Opr%2FnFxCpZ%2Fw%3D%3D&trk=flagship3_search_srp_jobs
+
+Java Full Stack Developer
+Sobre a vaga
+Since 1965, Stoneridge has designed and manufactured advanced, award-winning technologies including driveline and transmission actuation systems, vision systems, emissions control systems, safety systems, and security and monitoring systems for vehicle OEMs in the commercial vehicle, automotive, off-highway and agricultural vehicle markets. We’re focused on the areas of greatest market need – both today and tomorrow. Our core products and technologies are aligned with industry megatrends including safety and security, vehicle intelligence, fuel efficiency and emissions. Join the Stoneridge Team as we continue to build upon our strong history and reputation for quality products to deliver innovative products and systems that address a need, exceed our customers’ expectations, and motivate our team.Java Full Stack DeveloperWhat are you going to do, and what do we expect from you here?Onboard on a small development team, passionate for quality and high standardsCreate solutions for fleets, to improve their daily operations and for truck drivers to have a better day on the roadContribute to the design and architecture of new or re-engineered software/storage environments, writing specifications, diagrams, documents and implementing themWear multiple hats, playing a developer role most of the time, but also playing the roles of QA analyst, Solution Architect or even Requirements Analyst if the goal of the sprint demands for it.Be a critical thinker that is not afraid to question, suggest new features, improvements, tools and processes to take the team and the product to the next levelWhat is the background and experience you need? (This is a must!)Bachelor's degree in Computer Science, Software Engineering or related areasSolid experience as a Java software developer in an agile frameworkAnalytic thinker and systematic logic skillsAdvanced or fluent EnglishTechnical Skills And Tools Always NeededJava 8Object-oriented programmingUnit testsDesign Patterns (SOLID, DDD or Clean Architecture)MicroservicesREST-API'sSQL databases: Aurora / MySQLNo-SQL databaseQueues and message streamsFront-end (TypeScript / AngularJS)Technical Skills And Tools That May Also Be HandyDocker / KubernetesObservability notionsAWS cloud services notionsDevOps (Infrastructure notions)Mobile (Android and iOS notions)Our Eyes Will Shine If YouHad previous experiences with IoT or electronic devices connected to the cloudHad previous experience creating cloud-native solutions (AWS, Azure, GCP)Enjoy solving complex problems and sharing knowledge with peersIs constantly up to date in solutions, tools and market trends related to security, performance, and scalability.Qualificações
+
+
+Java Full Stack Developer
+
+
+What are you going to do, and what do we expect from you here?
+
+
+Onboard on a small development team, passionate for quality and high standardsCreate solutions for fleets, to improve their daily operations and for truck drivers to have a better day on the roadContribute to the design and architecture of new or re-engineered software/storage environments, writing specifications, diagrams, documents and implementing themWear multiple hats, playing a developer role most of the time, but also playing the roles of QA analyst, Solution Architect or even Requirements Analyst if the goal of the sprint demands for it.Be a critical thinker that is not afraid to question, suggest new features, improvements, tools and processes to take the team and the product to the next level
+Onboard on a small development team, passionate for quality and high standards
+Onboard on a small development team, passionate for quality and high standards
+Create solutions for fleets, to improve their daily operations and for truck drivers to have a better day on the road
+Create solutions for fleets, to improve their daily operations and for truck drivers to have a better day on the road
+Contribute to the design and architecture of new or re-engineered software/storage environments, writing specifications, diagrams, documents and implementing them
+Contribute to the design and architecture of new or re-engineered software/storage environments, writing specifications, diagrams, documents and implementing them
+Wear multiple hats, playing a developer role most of the time, but also playing the roles of QA analyst, Solution Architect or even Requirements Analyst if the goal of the sprint demands for it.
+Wear multiple hats, playing a developer role most of the time, but also playing the roles of QA analyst, Solution Architect or even Requirements Analyst if the goal of the sprint demands for it.
+Be a critical thinker that is not afraid to question, suggest new features, improvements, tools and processes to take the team and the product to the next level
+Be a critical thinker that is not afraid to question, suggest new features, improvements, tools and processes to take the team and the product to the next level
+
+
+What is the background and experience you need? (This is a must!)
+
+
+Bachelor's degree in Computer Science, Software Engineering or related areasSolid experience as a Java software developer in an agile frameworkAnalytic thinker and systematic logic skillsAdvanced or fluent English
+Bachelor's degree in Computer Science, Software Engineering or related areas
+Bachelor's degree in Computer Science, Software Engineering or related areas
+Solid experience as a Java software developer in an agile framework
+Solid experience as a Java software developer in an agile framework
+Analytic thinker and systematic logic skills
+Analytic thinker and systematic logic skills
+Advanced or fluent English
+Advanced or fluent English
+
+
+Technical Skills And Tools Always Needed
+
+
+Java 8Object-oriented programmingUnit testsDesign Patterns (SOLID, DDD or Clean Architecture)MicroservicesREST-API'sSQL databases: Aurora / MySQLNo-SQL databaseQueues and message streamsFront-end (TypeScript / AngularJS)
+Java 8
+Java 8
+Object-oriented programming
+Object-oriented programming
+Unit tests
+Unit tests
+Design Patterns (SOLID, DDD or Clean Architecture)
+Design Patterns (SOLID, DDD or Clean Architecture)
+Microservices
+Microservices
+REST-API's
+REST-API's
+SQL databases: Aurora / MySQL
+SQL databases: Aurora / MySQL
+No-SQL database
+No-SQL database
+Queues and message streams
+Queues and message streams
+Front-end (TypeScript / AngularJS)
+Front-end (TypeScript / AngularJS)
+
+
+Technical Skills And Tools That May Also Be Handy
+
+
+Docker / KubernetesObservability notionsAWS cloud services notionsDevOps (Infrastructure notions)Mobile (Android and iOS notions)
+Docker / Kubernetes
+Docker / Kubernetes
+Observability notions
+Observability notions
+AWS cloud services notions
+AWS cloud services notions
+DevOps (Infrastructure notions)
+DevOps (Infrastructure notions)
+Mobile (Android and iOS notions)
+Mobile (Android and iOS notions)
+
+
+Our Eyes Will Shine If You
+
+
+Had previous experiences with IoT or electronic devices connected to the cloudHad previous experience creating cloud-native solutions (AWS, Azure, GCP)Enjoy solving complex problems and sharing knowledge with peersIs constantly up to date in solutions, tools and market trends related to security, performance, and scalability.
+Had previous experiences with IoT or electronic devices connected to the cloud
+Had previous experiences with IoT or electronic devices connected to the cloud
+Had previous experience creating cloud-native solutions (AWS, Azure, GCP)
+Had previous experience creating cloud-native solutions (AWS, Azure, GCP)
+Enjoy solving complex problems and sharing knowledge with peers
+Enjoy solving complex problems and sharing knowledge with peers
+Is constantly up to date in solutions, tools and market trends related to security, performance, and scalability.
+Is constantly up to date in solutions, tools and market trends related to security, performance, and scalability.
+
+

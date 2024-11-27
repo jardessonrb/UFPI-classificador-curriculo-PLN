@@ -1,0 +1,136 @@
+link-https://www.linkedin.com/jobs/view/4047525885/?eBP=CwEAAAGS7k1YXGjgdwjrGsTWQIuxe3RVM7TWbE8wW4ZGjcG9q178iG_rwegT-2W4Yq1IrtMfJba4Bwo7PmXbbNHTi4H-M3MCU-PoTkyco-Qu1NrYg62KB0W24lOdB2LaSX-vjLrVG8FeBn1H1sMkhNZJYQMCbmRHZfdHBakQrVnyRJasOvu3DV69_tAc02Lb1KbMMWMdteY78zrqRw6ZYYGeP1LKAoxChUdhEGAnRKiXensU2yvHUFf6cH0P6IR3EGLye0IgF5jlhpZHSMwO-ED4haIw2h3PB89NFl_Os4nVh5gCq_8CYmY4z8EunT8SVt9yVU6nWCeuhfCc7kFZ0IjTOxZJCA8qbNY_9wX9LcyjBVDF3ffwb_EKKlEFC5PhmzLiag5Amqj6-w-X1jz8SLDsPDKHZAuaV9XUU1qsy2qkpph_sugtj5_6xLdnuhi-0LDwccCNKoMqhO1SaxYNDyggBayV2niNAP7uwjCxToYp5bqLu0GV4CqqQWoy6XQ&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=Y9SwtsUkB7t%2BlVe2zFK77A%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor FrontEnd Sênior
+Sobre a vaga
+HTML 5Conhecimento de JavaScript/Typescript Sólidos (funções, variáveis, escopos (global, local), tipos primitivos, classes)Conhecimentos em ES6.Componentização e modularização de aplicações web;Consumo de Apis REST;Stream de dados em aplicaçõesTestes UnitáriosCSSpré-processadores CSS (SASS, preferível.)styled-components (react).Boas Práticas e padrões CSS (BEM)Experiencia com algum Framework CSS de mercado como Bootstrap 4, pure, materialUI, etc.Browser developer toolsEmpacotadores/transpiladores:WebPack;ViteConhecimento de Design PatternsModule Pattern (exemplo)Container-view Pattern (exemplo)Conhecimentos em Atomic Design/Design SystemDesenvolvimento de Bibliotecas com Javascript/TypescriptPublicação de Pacotes Javascript/TypescriptExpertise em desenvolvimento de BoilerplatesExperiencia em desenvolver aplicações web do zero;Esteiras de entrega e infra para web;Técnicas (varia o nível de conhecimento de acordo com a senioridade):Gerenciamento de Estados (React).Programação ReativaBoas Práticas de UX.SEO.Design SystemEng de software (varia o nível de conhecimento de acordo com a senioridade):DockerConhecimento básico de serviços/microserviços;Versionamento de Código (git/gitflow):Governança de códigoPolyrepo/MonorepoCode Review;Metodologias Ágeis;Boas Práticas;Performance de aplicação;Escalabilidade;Manutenabilidade de Software
+HTML 5Conhecimento de JavaScript/Typescript Sólidos (funções, variáveis, escopos (global, local), tipos primitivos, classes)Conhecimentos em ES6.Componentização e modularização de aplicações web;Consumo de Apis REST;Stream de dados em aplicaçõesTestes UnitáriosCSSpré-processadores CSS (SASS, preferível.)styled-components (react).Boas Práticas e padrões CSS (BEM)Experiencia com algum Framework CSS de mercado como Bootstrap 4, pure, materialUI, etc.Browser developer toolsEmpacotadores/transpiladores:WebPack;ViteConhecimento de Design PatternsModule Pattern (exemplo)Container-view Pattern (exemplo)Conhecimentos em Atomic Design/Design SystemDesenvolvimento de Bibliotecas com Javascript/TypescriptPublicação de Pacotes Javascript/TypescriptExpertise em desenvolvimento de BoilerplatesExperiencia em desenvolver aplicações web do zero;Esteiras de entrega e infra para web;
+HTML 5
+HTML 5
+
+Conhecimento de JavaScript/Typescript Sólidos (funções, variáveis, escopos (global, local), tipos primitivos, classes)
+Conhecimento de JavaScript/Typescript Sólidos (funções, variáveis, escopos (global, local), tipos primitivos, classes)
+
+Conhecimentos em ES6.
+Conhecimentos em ES6.
+
+Componentização e modularização de aplicações web;
+Componentização e modularização de aplicações web;
+
+Consumo de Apis REST;
+Consumo de Apis REST;
+
+Stream de dados em aplicações
+Stream de dados em aplicações
+
+Testes Unitários
+Testes Unitários
+
+CSS
+CSS
+
+pré-processadores CSS (SASS, preferível.)
+pré-processadores CSS (SASS, preferível.)
+
+styled-components (react).
+styled-components (react).
+
+Boas Práticas e padrões CSS (BEM)
+Boas Práticas e padrões CSS (BEM)
+
+Experiencia com algum Framework CSS de mercado como Bootstrap 4, pure, materialUI, etc.
+Experiencia com algum Framework CSS de mercado como Bootstrap 4, pure, materialUI, etc.
+
+Browser developer tools
+Browser developer tools
+
+Empacotadores/transpiladores:
+Empacotadores/transpiladores:
+
+WebPack;
+WebPack;
+
+Vite
+Vite
+
+Conhecimento de Design Patterns
+Conhecimento de Design Patterns
+
+Module Pattern (exemplo)
+Module Pattern (exemplo)
+
+Container-view Pattern (exemplo)
+Container-view Pattern (exemplo)
+
+Conhecimentos em Atomic Design/Design System
+Conhecimentos em Atomic Design/Design System
+
+Desenvolvimento de Bibliotecas com Javascript/Typescript
+Desenvolvimento de Bibliotecas com Javascript/Typescript
+
+Publicação de Pacotes Javascript/Typescript
+Publicação de Pacotes Javascript/Typescript
+
+Expertise em desenvolvimento de Boilerplates
+Expertise em desenvolvimento de Boilerplates
+
+Experiencia em desenvolver aplicações web do zero;
+Experiencia em desenvolver aplicações web do zero;
+
+Esteiras de entrega e infra para web;
+Esteiras de entrega e infra para web;
+
+
+
+
+
+Gerenciamento de Estados (React).Programação ReativaBoas Práticas de UX.SEO.Design System
+Gerenciamento de Estados (React).
+Gerenciamento de Estados (React).
+
+Programação Reativa
+Programação Reativa
+
+Boas Práticas de UX.
+Boas Práticas de UX.
+
+SEO.
+SEO.
+
+Design System
+Design System
+
+
+
+
+DockerConhecimento básico de serviços/microserviços;Versionamento de Código (git/gitflow):Governança de códigoPolyrepo/MonorepoCode Review;Metodologias Ágeis;Boas Práticas;Performance de aplicação;Escalabilidade;Manutenabilidade de Software
+Docker
+Docker
+Conhecimento básico de serviços/microserviços;
+Conhecimento básico de serviços/microserviços;
+
+Versionamento de Código (git/gitflow):
+Versionamento de Código (git/gitflow):
+
+Governança de código
+Governança de código
+
+Polyrepo/Monorepo
+Polyrepo/Monorepo
+
+Code Review;
+Code Review;
+
+Metodologias Ágeis;
+Metodologias Ágeis;
+
+Boas Práticas;
+Boas Práticas;
+
+Performance de aplicação;
+Performance de aplicação;
+
+Escalabilidade;
+Escalabilidade;
+
+Manutenabilidade de Software
+Manutenabilidade de Software

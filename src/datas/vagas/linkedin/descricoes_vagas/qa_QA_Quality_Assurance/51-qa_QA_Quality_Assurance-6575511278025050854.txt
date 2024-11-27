@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4049858850/?eBP=CwEAAAGS7keaYcQqbkDqs4g8ekOhl4vPumOns-W61r5Z1EJlNUC89HBNCUD2osGkw3db5hM354LSBb09_ID6AcoXfXlIBX9-Idi4xFKuUIGl9mdrvya8HcHUez_ERbaPhhD6g_fvykZnRdRqV2JpwjFT_Yh0V-XLeZPqxbsvODGzEjCrnqeGJaApNF3mvE7O_-FLSlPvbo60T84hBsVIbuLfHNx7SWYHdjHPl-7HtYe4kk9bZWtENsZTOpIdU2-akr5VFX7tJ7iPwBmY2CgtG4yYqK-CWQgo5PlCPL1Oix0kz-ua5-Nso5t9YBgokIrDh2WiZWRPrSloBIRUpiJN5LWL65Sk7n7S8JC_2bwbBqjrbLaHomQc8yLzACQm1BW1KzHEjYC0nzDaUqP36vSfd4XUiSYfGXDElJyQvA00ScRyOn-M7jTtHUKJsUz-NiUMsAlun3DyNZELNMfECbbmaQG0VldPDM7c5fEgyc6HbVG-qhFgL0Od2sRe0onTDl8&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=%2B4yWVMkwdO3ZF0QgWgpdXQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Testes/QA
+Sobre a vaga
+Estamos em busca de umAnalista de Testes/QAaltamente qualificado e detalhista para integrar nosso time de desenvolvimento. O profissional será responsável por garantir a qualidade dos nossos produtos de software, assegurando que todas as funcionalidades sejam testadas de maneira eficaz e que os sistemas atendam aos requisitos estabelecidos antes de serem disponibilizados ao usuário final.Responsabilidades:Desenvolver, implementar e manter planos de teste, cenários e casos de uso com base nos requisitos do sistemaExecutar testes manuais e automatizados (unitários, de integração, de sistema, de regressão e de aceitação);Colaborar com desenvolvedores, product owners e outros membros da equipe para identificar falhas e sugerir melhorias;Analisar e reportar defeitos encontrados, documentando de forma clara e objetiva os erros e inconsistências no sistema;Garantir a conformidade dos produtos com os padrões de qualidade e boas práticas de desenvolvimento;Contribuir para a melhoria contínua dos processos de QA, sugerindo novas ferramentas e técnicas de teste;Trabalhar com metodologias ágeis, integrando-se ao fluxo contínuo de desenvolvimento e entrega;Criar e manter scripts de automação de testes para otimizar os processos de verificação;Planejamento e execução dos testes de software em diferentes ambientes;Identificação e registro de defeitos em software;Análise de resultados dos testes realizados e criação de relatórios de bugs;Colaboração com a equipe de desenvolvimento no acompanhamento dos ciclos de vida dos testes;Participação em reuniões e discussões para garantir a qualidade do software.Competências Necessárias:Formação superior em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;Experiência prévia em teste de software e garantia da qualidade;Conhecimento em ferramentas de automação de testes (Selenium, JUnit, TestNG, etc.);Experiência com testes de APIs e serviços (Postman, SoapUI, etc.);Conhecimento em metodologias ágeis (Scrum, Kanban);Experiência com controle de versão (Git);Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares;Atenção aos detalhes, senso crítico e boa comunicação.DiferenciaisCertificações em Testes de Software (ISTQB, CBTS ou similares);Experiência com BDD (Behavior-Driven Development) e TDD (Test-Driven Development);Familiaridade com ferramentas de integração contínua (Jenkins, GitLab CI/CD);Experiência com testes de performance e carga (JMeter, LoadRunner);Conhecimento em linguagens de programação (Java, Python, etc.).Experiência com testes de desenvolvimento nas Plataformas Salesforce, Monday.com, Zendesk, Zoho.
+
+Analista de Testes/QA
+
+
+
+Responsabilidades:
+
+
+Desenvolver, implementar e manter planos de teste, cenários e casos de uso com base nos requisitos do sistemaExecutar testes manuais e automatizados (unitários, de integração, de sistema, de regressão e de aceitação);Colaborar com desenvolvedores, product owners e outros membros da equipe para identificar falhas e sugerir melhorias;Analisar e reportar defeitos encontrados, documentando de forma clara e objetiva os erros e inconsistências no sistema;Garantir a conformidade dos produtos com os padrões de qualidade e boas práticas de desenvolvimento;Contribuir para a melhoria contínua dos processos de QA, sugerindo novas ferramentas e técnicas de teste;Trabalhar com metodologias ágeis, integrando-se ao fluxo contínuo de desenvolvimento e entrega;Criar e manter scripts de automação de testes para otimizar os processos de verificação;Planejamento e execução dos testes de software em diferentes ambientes;Identificação e registro de defeitos em software;Análise de resultados dos testes realizados e criação de relatórios de bugs;Colaboração com a equipe de desenvolvimento no acompanhamento dos ciclos de vida dos testes;Participação em reuniões e discussões para garantir a qualidade do software.
+Desenvolver, implementar e manter planos de teste, cenários e casos de uso com base nos requisitos do sistema
+Desenvolver, implementar e manter planos de teste, cenários e casos de uso com base nos requisitos do sistema
+
+Executar testes manuais e automatizados (unitários, de integração, de sistema, de regressão e de aceitação);
+Executar testes manuais e automatizados (unitários, de integração, de sistema, de regressão e de aceitação);
+
+Colaborar com desenvolvedores, product owners e outros membros da equipe para identificar falhas e sugerir melhorias;
+Colaborar com desenvolvedores, product owners e outros membros da equipe para identificar falhas e sugerir melhorias;
+
+Analisar e reportar defeitos encontrados, documentando de forma clara e objetiva os erros e inconsistências no sistema;
+Analisar e reportar defeitos encontrados, documentando de forma clara e objetiva os erros e inconsistências no sistema;
+
+Garantir a conformidade dos produtos com os padrões de qualidade e boas práticas de desenvolvimento;
+Garantir a conformidade dos produtos com os padrões de qualidade e boas práticas de desenvolvimento;
+
+Contribuir para a melhoria contínua dos processos de QA, sugerindo novas ferramentas e técnicas de teste;
+Contribuir para a melhoria contínua dos processos de QA, sugerindo novas ferramentas e técnicas de teste;
+
+Trabalhar com metodologias ágeis, integrando-se ao fluxo contínuo de desenvolvimento e entrega;
+Trabalhar com metodologias ágeis, integrando-se ao fluxo contínuo de desenvolvimento e entrega;
+
+Criar e manter scripts de automação de testes para otimizar os processos de verificação;
+Criar e manter scripts de automação de testes para otimizar os processos de verificação;
+
+Planejamento e execução dos testes de software em diferentes ambientes;
+Planejamento e execução dos testes de software em diferentes ambientes;
+
+Identificação e registro de defeitos em software;
+Identificação e registro de defeitos em software;
+
+Análise de resultados dos testes realizados e criação de relatórios de bugs;
+Análise de resultados dos testes realizados e criação de relatórios de bugs;
+
+Colaboração com a equipe de desenvolvimento no acompanhamento dos ciclos de vida dos testes;
+Colaboração com a equipe de desenvolvimento no acompanhamento dos ciclos de vida dos testes;
+
+Participação em reuniões e discussões para garantir a qualidade do software.
+Participação em reuniões e discussões para garantir a qualidade do software.
+
+
+
+Competências Necessárias:
+
+
+Formação superior em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;Experiência prévia em teste de software e garantia da qualidade;Conhecimento em ferramentas de automação de testes (Selenium, JUnit, TestNG, etc.);Experiência com testes de APIs e serviços (Postman, SoapUI, etc.);Conhecimento em metodologias ágeis (Scrum, Kanban);Experiência com controle de versão (Git);Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares;Atenção aos detalhes, senso crítico e boa comunicação.
+Formação superior em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;
+Formação superior em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;
+
+Experiência prévia em teste de software e garantia da qualidade;
+Experiência prévia em teste de software e garantia da qualidade;
+
+Conhecimento em ferramentas de automação de testes (Selenium, JUnit, TestNG, etc.);
+Conhecimento em ferramentas de automação de testes (Selenium, JUnit, TestNG, etc.);
+
+Experiência com testes de APIs e serviços (Postman, SoapUI, etc.);
+Experiência com testes de APIs e serviços (Postman, SoapUI, etc.);
+
+Conhecimento em metodologias ágeis (Scrum, Kanban);
+Conhecimento em metodologias ágeis (Scrum, Kanban);
+
+Experiência com controle de versão (Git);
+Experiência com controle de versão (Git);
+
+Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares;
+Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares;
+
+Atenção aos detalhes, senso crítico e boa comunicação.
+Atenção aos detalhes, senso crítico e boa comunicação.
+
+
+
+Diferenciais
+
+
+Certificações em Testes de Software (ISTQB, CBTS ou similares);Experiência com BDD (Behavior-Driven Development) e TDD (Test-Driven Development);Familiaridade com ferramentas de integração contínua (Jenkins, GitLab CI/CD);Experiência com testes de performance e carga (JMeter, LoadRunner);Conhecimento em linguagens de programação (Java, Python, etc.).Experiência com testes de desenvolvimento nas Plataformas Salesforce, Monday.com, Zendesk, Zoho.
+Certificações em Testes de Software (ISTQB, CBTS ou similares);
+Certificações em Testes de Software (ISTQB, CBTS ou similares);
+
+Experiência com BDD (Behavior-Driven Development) e TDD (Test-Driven Development);
+Experiência com BDD (Behavior-Driven Development) e TDD (Test-Driven Development);
+
+Familiaridade com ferramentas de integração contínua (Jenkins, GitLab CI/CD);
+Familiaridade com ferramentas de integração contínua (Jenkins, GitLab CI/CD);
+
+Experiência com testes de performance e carga (JMeter, LoadRunner);
+Experiência com testes de performance e carga (JMeter, LoadRunner);
+
+Conhecimento em linguagens de programação (Java, Python, etc.).
+Conhecimento em linguagens de programação (Java, Python, etc.).
+
+Experiência com testes de desenvolvimento nas Plataformas Salesforce, Monday.com, Zendesk, Zoho.
+Experiência com testes de desenvolvimento nas Plataformas Salesforce, Monday.com, Zendesk, Zoho.

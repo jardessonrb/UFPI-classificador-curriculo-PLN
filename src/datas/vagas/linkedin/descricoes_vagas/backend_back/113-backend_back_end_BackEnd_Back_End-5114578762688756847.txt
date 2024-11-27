@@ -1,0 +1,168 @@
+link-https://www.linkedin.com/jobs/view/4051176188/?eBP=CwEAAAGS7lDBsYSZoTtCXfCOlZn_wsu125NTCfc1V9_q9wolQRTJSyAtbOf_oL0RTOL7H7X2CwkF7sH4b7f9VCrjC86T2gbS-2kXULuhfxN84eUSNOcuJbB20Vup51JV_B8c-0dlACHfd9N7VxQ1neKXEfsHMWxGBfMY5qPNPveGlgZqeBPYWBpHSkUSk_-pfYrTP1wLXro5WXsvlt5mRB2KkdD4qp4z3tJKMDOPKOfT9I1HABj1wZFZpy84ZiMKtjLDULEE_EYkZ1EOAi7FAMqcqF_oBVd_Z_6TPubtEx49AZ-ICZ1pWbzTLCKC7u3EuT0gzRRFeONCgXPRwE2hNH-NYmi4HhWtrg5_nc-wEymk9jlT5A8ORYbne2Yb9RkDMPd3iud_ktQyqWLGE2a81RsEhZrbtQ_7x4Tx85V1Nlyj2fDBwiYlAXZUNq3Pehoa2W30jGp9qKRWFA2ob1B_R6AX9ihjeetWh5o7ljipn-mxRHWZO_6qHpCCdmebgQ201AiW2rSM&refId=C4CHndie%2BebrXgMGiFXALQ%3D%3D&trackingId=1soVRtcO%2FplNIsdmCCq3dQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor (a) Java Backend - Sênior
+Sobre a vaga
+Job DescriptionEstamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de Software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.Estamos com a posição deDesenvolvedor (a) Java Backend - Sêniorque envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.Responsibilities and assignmentsComo será seu dia a dia: (Atividades que vai realizar)Analisar e desenvolver em linguagem Java, incluindo a criação de micro serviços, aplicações Middleware e Orquestradores;Configuração, Build e Deploy nos ambientes;Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana);Garantia de boas práticas em segurança e compliance; eResponsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução.Requirements And QualificationsPra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)Conhecimento avançado em desenvolvimento Java utilizando J2EE;Integração de Sistemas via APIS REST, GraphQL ou SOAP;Conhecimento em Frameworks (Spring e Spring Boot);Conhecimento em Banco de Dados (Oracle, Redis, MongoDB);Comunicação via MQ (RabbitMQ, Kafta, etc.);Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais);Familiaridade com Autenticação e Autorização, incluindo Auth e JWT;Experiência com Testes Unitários, de Integração e Automações;DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory;Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação);Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift);Garantir a conformidade com as normas de segurança (incluindo OWASP e Regulatórios);Ferramentas Colaborativas, Jira e Confluence; eMetodologias Ágeis (Scrum, Kanban)Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)Conhecimento com NodeJS e Javascript;Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas;Conhecimento avançado em Design Patterns e Clean Architecture;Alto nível de analise e criação de soluções criativas e Disruptivas;Conhecimento de Soluções de Caching Distribuiído (Redis); eDisposição para atuar presencial duas vezes na semana.Soft Skills:Colaboração com Equipes Multidisciplinares e facilidade de comunicação;Capacidade de liderar tecnicamente projetos; eOrganização, Proatividade, Autonomia e foco nas entregas com Alta QualidadeAdditional informationPara esta posição oferecemos:Salário CLT Full;Vale Refeição ou Alimentação (Alelo);Vale Transporte (sempre que houver o deslocamento);Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);Assistência Médica Sulamérica;Assistência Odontológica Sulamérica;Seguro de Vida;Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);Gympass;Allya;Day Off;Premiação por indicações;Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);Oportunidade de crescimento profissional.Process stagesStep 1: Registration1RegistrationStep 2: Triagem de Perfil2Triagem de PerfilStep 3: Entrevista RH3Entrevista RHStep 4: Entrevista e Prova Técnica4Entrevista e Prova TécnicaStep 5: Entrevista Gestor5Entrevista GestorStep 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)Step 7: Carta Proposta7Carta PropostaStep 8: Hiring8HiringA Solutis é Digital!Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.Venha fazer parte do nosso time!
+Job Description
+
+
+
+
+
+Desenvolvedor (a) Java Backend - Sênior
+
+
+
+
+
+Como será seu dia a dia: (Atividades que vai realizar)
+
+
+Analisar e desenvolver em linguagem Java, incluindo a criação de micro serviços, aplicações Middleware e Orquestradores;Configuração, Build e Deploy nos ambientes;Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana);Garantia de boas práticas em segurança e compliance; eResponsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução.
+Analisar e desenvolver em linguagem Java, incluindo a criação de micro serviços, aplicações Middleware e Orquestradores;
+Analisar e desenvolver em linguagem Java, incluindo a criação de micro serviços, aplicações Middleware e Orquestradores;
+Configuração, Build e Deploy nos ambientes;
+Configuração, Build e Deploy nos ambientes;
+Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana);
+Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana);
+
+Garantia de boas práticas em segurança e compliance; e
+Garantia de boas práticas em segurança e compliance; e
+Responsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução.
+Responsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução.
+
+
+Requirements And Qualifications
+
+
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+
+
+Conhecimento avançado em desenvolvimento Java utilizando J2EE;Integração de Sistemas via APIS REST, GraphQL ou SOAP;Conhecimento em Frameworks (Spring e Spring Boot);Conhecimento em Banco de Dados (Oracle, Redis, MongoDB);Comunicação via MQ (RabbitMQ, Kafta, etc.);Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais);Familiaridade com Autenticação e Autorização, incluindo Auth e JWT;Experiência com Testes Unitários, de Integração e Automações;DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory;Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação);Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift);Garantir a conformidade com as normas de segurança (incluindo OWASP e Regulatórios);Ferramentas Colaborativas, Jira e Confluence; eMetodologias Ágeis (Scrum, Kanban)
+Conhecimento avançado em desenvolvimento Java utilizando J2EE;
+Conhecimento avançado em desenvolvimento Java utilizando J2EE;
+
+Integração de Sistemas via APIS REST, GraphQL ou SOAP;
+Integração de Sistemas via APIS REST, GraphQL ou SOAP;
+Conhecimento em Frameworks (Spring e Spring Boot);
+Conhecimento em Frameworks (Spring e Spring Boot);
+Conhecimento em Banco de Dados (Oracle, Redis, MongoDB);
+Conhecimento em Banco de Dados (Oracle, Redis, MongoDB);
+Comunicação via MQ (RabbitMQ, Kafta, etc.);
+Comunicação via MQ (RabbitMQ, Kafta, etc.);
+Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais);
+Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais);
+Familiaridade com Autenticação e Autorização, incluindo Auth e JWT;
+Familiaridade com Autenticação e Autorização, incluindo Auth e JWT;
+Experiência com Testes Unitários, de Integração e Automações;
+Experiência com Testes Unitários, de Integração e Automações;
+DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory;
+DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory;
+Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação);
+Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação);
+Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift);
+Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift);
+Garantir a conformidade com as normas de segurança (incluindo OWASP e Regulatórios);
+Garantir a conformidade com as normas de segurança (incluindo OWASP e Regulatórios);
+Ferramentas Colaborativas, Jira e Confluence; e
+Ferramentas Colaborativas, Jira e Confluence; e
+Metodologias Ágeis (Scrum, Kanban)
+Metodologias Ágeis (Scrum, Kanban)
+
+
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+
+
+Conhecimento com NodeJS e Javascript;Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas;Conhecimento avançado em Design Patterns e Clean Architecture;Alto nível de analise e criação de soluções criativas e Disruptivas;Conhecimento de Soluções de Caching Distribuiído (Redis); eDisposição para atuar presencial duas vezes na semana.
+Conhecimento com NodeJS e Javascript;
+Conhecimento com NodeJS e Javascript;
+Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas;
+Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas;
+Conhecimento avançado em Design Patterns e Clean Architecture;
+Conhecimento avançado em Design Patterns e Clean Architecture;
+Alto nível de analise e criação de soluções criativas e Disruptivas;
+Alto nível de analise e criação de soluções criativas e Disruptivas;
+
+Conhecimento de Soluções de Caching Distribuiído (Redis); e
+Conhecimento de Soluções de Caching Distribuiído (Redis); e
+Disposição para atuar presencial duas vezes na semana.
+Disposição para atuar presencial duas vezes na semana.
+
+
+Soft Skills:
+
+
+Colaboração com Equipes Multidisciplinares e facilidade de comunicação;Capacidade de liderar tecnicamente projetos; eOrganização, Proatividade, Autonomia e foco nas entregas com Alta Qualidade
+Colaboração com Equipes Multidisciplinares e facilidade de comunicação;
+Colaboração com Equipes Multidisciplinares e facilidade de comunicação;
+Capacidade de liderar tecnicamente projetos; e
+Capacidade de liderar tecnicamente projetos; e
+Organização, Proatividade, Autonomia e foco nas entregas com Alta Qualidade
+Organização, Proatividade, Autonomia e foco nas entregas com Alta Qualidade
+
+
+
+
+Para esta posição oferecemos:
+
+
+Salário CLT Full;Vale Refeição ou Alimentação (Alelo);Vale Transporte (sempre que houver o deslocamento);Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);Assistência Médica Sulamérica;Assistência Odontológica Sulamérica;Seguro de Vida;Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);Gympass;Allya;Day Off;Premiação por indicações;Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);Oportunidade de crescimento profissional.
+Salário CLT Full;
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Gympass;
+Allya;
+Allya;
+Day Off;
+Day Off;
+Premiação por indicações;
+Premiação por indicações;
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+Oportunidade de crescimento profissional.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem de Perfil2Triagem de PerfilStep 3: Entrevista RH3Entrevista RHStep 4: Entrevista e Prova Técnica4Entrevista e Prova TécnicaStep 5: Entrevista Gestor5Entrevista GestorStep 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)Step 7: Carta Proposta7Carta PropostaStep 8: Hiring8Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem de Perfil2Triagem de Perfil
+Step 2: Triagem de Perfil2Triagem de Perfil
+Step 3: Entrevista RH3Entrevista RH
+Step 3: Entrevista RH3Entrevista RH
+Step 4: Entrevista e Prova Técnica4Entrevista e Prova Técnica
+Step 4: Entrevista e Prova Técnica4Entrevista e Prova Técnica
+Step 5: Entrevista Gestor5Entrevista Gestor
+Step 5: Entrevista Gestor5Entrevista Gestor
+Step 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)
+Step 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)
+Step 7: Carta Proposta7Carta Proposta
+Step 7: Carta Proposta7Carta Proposta
+Step 8: Hiring8Hiring
+Step 8: Hiring8Hiring
+
+
+
+
+
+
+
+
+
+

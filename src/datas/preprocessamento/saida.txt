@@ -1,0 +1,113 @@
+link-https://www.linkedin.com/jobs/view/4055528947/?eBP=CwEAAAGS7kbPsjwBigm6oWT1O_zYXC04bwJ55PpTP_QdAlxcaXqc4O6scGHm4n9I1jotua9_hcrZezOca2nymoBCE-1cZdRukEa4ssCOypym-3XHBbLBI_jXh6irxQTU092NOZChUN2RSowGH7_GHw8VmXS0te7sdPxwOaCIPxxGQkbOdoqwj1NC1znkwBV4bsX8ut9qWaBQzm8sUmtR5nfxCVuLepmko8wldPd6r0vMmCOU38bWaWn1KROkZhhSYx_2j-Aq8pA7g19MEI0JOr36mqoWgsmyeLJo5ROJsQPwCzpCVLF_UjDw2YV56MM9vhCy32WDHiiwXmPtcxSWJNFWx8KQc5P9wsq1yRG_YX8CgnY3CTL4d-UueZw-vGTmpzMeApQQhd1E8TxpGqdpZwSRb-sGYh002u6EMCajSweeo9exFuVWgpIWODQLPrisiSRFnI_VOMlZ8Ego7giWvd99bQkiDPr0g-ouVUzFJ6waAUZ0MYy_59zmbzt75XGjDwXCxZZK&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=lqwel7xN3%2FV4KePnwso0XA%3D%3D&trk=flagship3_search_srp_jobs
+Analista de Testes (Quality Assurance)
+Sobre a vaga
+Job Description
+Na ISH, nosso objetivo é criar ummundo digital seguro e acolhedor
+ Estamos na vanguarda da mitigação de riscos, assegurando que a cibersegurança seja umagarantia de tranquilidadepara empresas e pessoas
+ Não é apenas uma responsabilidade, mas um compromisso que nos permitecapacitar a inovação
+Você já se imaginou trabalhando em um lugar em constante transformação digital, inovação, colaboração e crescimento
+Se sim
+ A ISH é o SEU lugar!💙O que nosmoveem direção aofuturo?Alealdadeguia nossas ações, com integridade e verdade sempre presentes
+Cuidadoé uma via de mão dupla
+ cuidamos uns dos outros para sermos cuidados
+Comproatividadee competência, o crescimento é uma realidade para quem se destaca
+Aresolutividadeé o nosso foco
+ identificamos, entendemos e solucionamos problemas com eficiência
+Oreconhecimentoé parte do nosso dia a dia, onde mérito e bom trabalho são sempre celebrados
+Amotivaçãonos move, e trabalhamos todos os dias com vontade de fazer a diferença
+Venha trilhar os caminhos da#estradaparaofuturojunto com a gente! 🚀Responsibilities and assignments
+Responsável pela automatização e padronização dos Testes
+Gerar os Planos ou Roteiros de Testes, Integrados e Unitários (podendo ou não também ser o Executor)
+Percorrer os processos implementados nas Soluções para testar as funcionalidades que são entregues pelo time de Desenvolvimento
+Produzir relatórios detalhados de seus testes, colaborando com os desenvolvedores para corrigir os defeitos o mais cedo possível
+Ter seu foco em questões de complexidade elevada, regulatórias, de Segurança e Compliance
+Requirements And Qualifications
+Ensino Superior em áreas da TI
+Experiência em Quality Assurance e Pentest
+Python intermediário
+Boas práticas de segurança de dados
+Ferramentas de teste de segurança
+Testes de SAST, DAST e IAST
+Metodologias de testes de segurança (OWASP, NIST, OSSTMM)
+Conhecimento em LGPD
+Será um diferencial
+Possuir certificações Ágeis
+Experiência com UX e UI
+Testes de hardering
+Inglês e Espanhol avançado
+Additional information
+Aqui na ISH, além dos benefícios de mercado, você tem
+💰 Previdência Privada
+🤩 Clube de Vantagens Allya
+ descontos em mais de 30
+000 parceiros
+🥳 Day Off de aniversário
+💆‍ Zenklub
+ Desconto especial para sessões de terapia com foco no desenvolvimento pessoal e bem-estar emocional
+🏋🏾 Wellhub
+ Plataforma que conecta você às diversas redes para ajudar no cuidado do seu bem-estar físico (e o de sua família)
+🤝 Programa de indicação de novos colaboradores com bônus em dinheiro
+📚 Deeplearning
+ Nossa universidade corporativa, um espaço dedicado ao desenvolvimento contínuo dos nossos colaboradores, com cursos, treinamentos e workshops voltados para o aprimoramento profissional e pessoal
+Acabou? Ainda não!Aqui você tem um ambiente descontraído, que respira inovação
+Nossa liderança é super acessível! As portas estão sempre abertas e você pode encontrá-los nos corredores da empresa
+CEOs Talks (encontros trimestrais com os nossos CEOs para um bate-papo, e te manter informado sobre o que acontece na empresa, tirar dúvidas e sugerir novas ideias)
+Lanchinho diariamente? Temos também! 😊Você vai se manter atualizado com novidades do mercado e estará sempre em contato com um time inovador
+Tá esperando o que?#vemser
+ISHProcess stages
+Step 1
+ Registration1Registration
+Step 2
+ Entrevista Técnica2Entrevista Técnica
+Step 3
+ Entrevista Comportamental3Entrevista Comportamental
+Step 4
+ Proposta salarial4Proposta salarial
+Step 5
+ Hiring5Hiring
+Venha fazer parte da ISH
+ Protegendo o mundo digital, valorizando pessoas 💙Na ISH, somos apaixonados por cibersegurança e acreditamos queproteger o mundo digital vai além da tecnologia, é sobre cuidar das pessoas
+ Todos os dias, trabalhamos para garantir a segurança de empresas, permitindo que elas cresçam em um ambiente seguro e confiável
+ Nosso objetivo é claro
+ cuidar da segurança digital para que nossos clientes possam focar no que realmente importa
+Com 26 anos de experiência e uma equipe de mais de800 colaboradores, já protegemos mais de1 milhão de ativose resolvemos mais de10 mil incidentes de segurança
+ Somos um time que cresce junto e nunca para de inovar
+Nossos reconhecimentos
+🏆 Estamos entre as melhores do mundo em cibersegurança, sendo a única brasileira no Top 22 do ranking global MSSP Alert
+🏆 Fomos reconhecidos como Empresa do Ano em 2023 pela Frost & Sullivan
+🏆 Recebemos o selo Great Place to Work (GPTW) pelo quinto ano consecutivo, além do reconhecimento Great People Mental Health, reafirmando nosso compromisso com o bem-estar dos colaboradores
+🏆 Somos destaque no setor de cibersegurança com o reconhecimento do ISG Provider Lens™, sendo referência em serviços de segurança gerenciados
+🏆 Temos a certificação Certigov, que garante as melhores práticas em compliance e vendas ao governo
+Job Description
+mundo digital seguro e acolhedor
+garantia de tranquilidade
+capacitar a inovação
+ A ISH é o SEU lugar!
+move
+futuro
+lealdade
+Cuidado
+proatividade
+resolutividade
+reconhecimento
+motivação
+#estradaparaofuturo
+Responsável pela automatização e padronização dos Testes
+Requirements And Qualifications
+Ensino Superior em áreas da TI
+#vemser
+ISH
+Step 1
+ Hiring5Hiring
+ Registration1Registration
+Step 2
+ Entrevista Técnica2Entrevista Técnica
+Step 3
+ Entrevista Comportamental3Entrevista Comportamental
+Step 4
+ Proposta salarial4Proposta salarial
+Step 5
+proteger o mundo digital vai além da tecnologia, é sobre cuidar das pessoas
+800 colaboradores
+1 milhão de ativos
+10 mil incidentes de segurança

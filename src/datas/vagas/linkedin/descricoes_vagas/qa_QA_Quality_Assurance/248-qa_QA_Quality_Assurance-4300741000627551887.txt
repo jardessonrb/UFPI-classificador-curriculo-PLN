@@ -1,0 +1,121 @@
+link-https://www.linkedin.com/jobs/view/4042976873/?eBP=CwEAAAGS7kgAGBGDnj9avAUaYBqVCx9xy-lqmFFWsF-ROqW4HMBnksYCMcwgVE2eUArclg0Mzws0_wWlpTymzBXYC7OYHhORyCbY1hnSGGXzNS6cDpR2tXq1Y2nxcFBI8suokGwX1-oMEg5cRZgMyE4YDAxSpA016krNn5uPbQgFidSNFpmsBezIoX2EitFTKNU7BQM0xU66vuSrpFZtBbUHXW0cGShvQdFwfYSibLMtTFUGMl5_Mo1Y6WfyYYBEhjYKaMzoKyqyD7o_7zO-deHhmOU7Fye9dNMdCXmIxTYyIjdcsBcYO5kJOkBE5xm2cGpnLa2tsJq7B5ujLq4ceoW5wTAAnX47xb-lRl4KdrxNRmvgjnmdBl0yNmQeXIFp1kOREbv72m_kIGt0PUTBVor-Iu0mTQMrPR1c-WmwdOFNSA7OUAHsGvVljUO4-7R58miVgTRqFEgltUtOPduH68Q0rs7sYgIF7Ogz6MgSt8CGn-cc4bZ6sR141-hpPlI&refId=nIYYNsE%2BnfA3QpgDC17OUg%3D%3D&trackingId=OX%2FubkUrLhJDwjl1a5l06g%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Engineer
+Sobre a vaga
+About UsAlways open. Our code, our culture, our opportunities. Leading open innovation without limits. We are SUSE.SUSE is a global leader in innovative, reliable and secure enterprise open source solutions, including SUSE Linux Enterprise (SLE), Rancher and NeuVector. More than 60% of the Fortune 500 rely on SUSE to power their mission-critical workloads, enabling them to innovate everywhere – from the data center to the cloud, to the edge and beyond. SUSE puts the “open” back in open source, collaborating with partners and communities to give customers the agility to tackle innovation challenges today and the freedom to evolve their strategy and solutions tomorrow.We are open in our roots and open in our approach, striving to be the most trusted open innovator in the World. Openness extends beyond our technology. Our vibrant community thrives on diversity and connectivity without borders.QA EngineerJob DescriptionSet and maintain quality standards for company products through the use of systematic processes. Develops, modifies, and executes software test strategies, plans and suites. Analyzes and writes test standards and procedures. Maintains documentation of test results to assist in debugging and modification of software. Analyzes test results to ensure existing functionality and recommends corrective action. May develop tools and environments to automate test execution. Consults with development engineers in resolution of problems.ResponsibilitiesDesigns quality assurance and test processes for portions of end-user applications, systems software, and firmware running on hardware, local, networked, and Internet-based platforms.Analyzes design and determines test scripts, coding, automation, and integration activities required based on specific objectives and established project guidelines.Executes and writes portions of testing plans, protocols, and documentation for assigned portion of application; identifies and debugs issues with code and suggests changes or improvements.Participates as a member of project team of other software quality assurance engineers and internal and outsourced development partners to develop reliable and cost-effective testing and quality assurance solutions for assigned software portion.Collaborates and communicates with internal and outsourced development partners regarding software applications design status, project progress, and issue resolution.Education And Experience RequiredBachelor's or Master's degree in Computer Science, Information Systems, or equivalent.Typically 2-4 years experience.Knowledge And SkillsUsing software quality assurance tools and processes.Software testing methodology, including execution of test plans, debugging, and testing scripts and tools.Ability to apply analytical and problem solving skills.Understanding of design for software and firmware running on multiple platform types Strong written and verbal communication skills; mastery in English and local language.Ability to effectively communicate design proposals and negotiate options.JobEngineeringWhat We OfferWe empower you to be bold, driving your career to create the future you want. We celebrate and reward your achievements.SUSE is a dynamic environment that is evolving rapidly, thus requiring agility, strong entrepreneurship and an open mind.This is a compelling opportunity for the right person to join us as we continue to scale and prosper.If you’re a big thinker, obsessed by execution and thrive in a dynamic environment in which you can tangibly create a lasting legacy, then please apply now!We give you the freedom to be yourself. You will work in a global community of unique individuals – like you – with different backgrounds, talents, skills and perspectives. A truly open community where everyone is welcome, has a voice and is encouraged to reach their full potential regardless of age, gender, race, nationality, disability, sexual orientation, religion, or any other characteristics.Sounds like the right fit for you?ClickApplyto submit your resume. A recruiter will contact you if your skills match our current or any future positions. In the meantime, stay updated on the latest SUSE news and job vacancies by joining ourTalent Community.SUSE ValuesWe are passionate about customersWe are respectful and inclusiveWe are empowered and accountableWe are trustworthy and act with integrityWe are collaborativeWe are SUSE!
+About Us
+
+
+Always open. Our code, our culture, our opportunities. Leading open innovation without limits. We are SUSE.
+
+
+
+
+
+
+
+
+Job Description
+
+
+
+
+Responsibilities
+
+
+Designs quality assurance and test processes for portions of end-user applications, systems software, and firmware running on hardware, local, networked, and Internet-based platforms.Analyzes design and determines test scripts, coding, automation, and integration activities required based on specific objectives and established project guidelines.Executes and writes portions of testing plans, protocols, and documentation for assigned portion of application; identifies and debugs issues with code and suggests changes or improvements.Participates as a member of project team of other software quality assurance engineers and internal and outsourced development partners to develop reliable and cost-effective testing and quality assurance solutions for assigned software portion.Collaborates and communicates with internal and outsourced development partners regarding software applications design status, project progress, and issue resolution.
+Designs quality assurance and test processes for portions of end-user applications, systems software, and firmware running on hardware, local, networked, and Internet-based platforms.
+Designs quality assurance and test processes for portions of end-user applications, systems software, and firmware running on hardware, local, networked, and Internet-based platforms.
+Analyzes design and determines test scripts, coding, automation, and integration activities required based on specific objectives and established project guidelines.
+Analyzes design and determines test scripts, coding, automation, and integration activities required based on specific objectives and established project guidelines.
+Executes and writes portions of testing plans, protocols, and documentation for assigned portion of application; identifies and debugs issues with code and suggests changes or improvements.
+Executes and writes portions of testing plans, protocols, and documentation for assigned portion of application; identifies and debugs issues with code and suggests changes or improvements.
+Participates as a member of project team of other software quality assurance engineers and internal and outsourced development partners to develop reliable and cost-effective testing and quality assurance solutions for assigned software portion.
+Participates as a member of project team of other software quality assurance engineers and internal and outsourced development partners to develop reliable and cost-effective testing and quality assurance solutions for assigned software portion.
+Collaborates and communicates with internal and outsourced development partners regarding software applications design status, project progress, and issue resolution.
+Collaborates and communicates with internal and outsourced development partners regarding software applications design status, project progress, and issue resolution.
+
+
+Education And Experience Required
+
+
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.Typically 2-4 years experience.
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 2-4 years experience.
+Typically 2-4 years experience.
+
+
+Knowledge And Skills
+
+
+Using software quality assurance tools and processes.Software testing methodology, including execution of test plans, debugging, and testing scripts and tools.Ability to apply analytical and problem solving skills.Understanding of design for software and firmware running on multiple platform types Strong written and verbal communication skills; mastery in English and local language.Ability to effectively communicate design proposals and negotiate options.
+Using software quality assurance tools and processes.
+Using software quality assurance tools and processes.
+Software testing methodology, including execution of test plans, debugging, and testing scripts and tools.
+Software testing methodology, including execution of test plans, debugging, and testing scripts and tools.
+Ability to apply analytical and problem solving skills.
+Ability to apply analytical and problem solving skills.
+Understanding of design for software and firmware running on multiple platform types Strong written and verbal communication skills; mastery in English and local language.
+Understanding of design for software and firmware running on multiple platform types Strong written and verbal communication skills; mastery in English and local language.
+Ability to effectively communicate design proposals and negotiate options.
+Ability to effectively communicate design proposals and negotiate options.
+
+
+Job
+
+
+
+
+What We Offer
+
+
+We empower you to be bold, driving your career to create the future you want. We celebrate and reward your achievements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sounds like the right fit for you?
+
+
+A
+pply
+
+
+Talent Community
+.
+
+
+SUSE Values
+
+
+
+We are passionate about customersWe are respectful and inclusiveWe are empowered and accountableWe are trustworthy and act with integrityWe are collaborativeWe are SUSE!
+We are passionate about customers
+We are passionate about customers
+
+We are respectful and inclusive
+We are respectful and inclusive
+
+We are empowered and accountable
+We are empowered and accountable
+
+We are trustworthy and act with integrity
+We are trustworthy and act with integrity
+
+We are collaborative
+We are collaborative
+
+We are SUSE!
+We are SUSE!
+

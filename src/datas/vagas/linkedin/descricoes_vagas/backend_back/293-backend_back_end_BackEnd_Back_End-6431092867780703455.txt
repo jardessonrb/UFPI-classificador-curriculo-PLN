@@ -1,0 +1,120 @@
+link-https://www.linkedin.com/jobs/view/4057693061/?eBP=CwEAAAGS7lH1MIez4A0swlGRqoQaVlP4VqQ3kywMxWPqS-yqJjFTI5QbLqerISS2N93R_aHR74gBkIYoQB1zwjkJOHy27L5XrYOJJKqjUzSUodicc14wzzYchvbGURrqs7RWs4Xwz9f-WJCveX3IqSE--mlqGtrb2f5p4PVHWV1PywOEqaRsDnz9o6zb-7Dcsfl51RcGFLlkmgE4kGMwiDnv8nD8lRDAOH9NyFtPHz6rIGTAgbE6wa2Mo8x2pUfqm6gOfDZUr8pyUhyZ3q7TJ8X2NeegiD04ET-aM8jHnjjmxEF0d_k5IykYoAzhniuhjmyHyxT_1tGH0f1WepMTMLKKB4JskpSWXdNU9HUn1eW_GjJi4wCbFTuiLGgltlkoEYgX-maahXiW07lGfLiEss1V7y7hQibXP5SYcDqi66a7Ln0kVVCoTSGWrnq4hk1AFUG-9ir0Ij7XbZJBbNnaLzhQKdoEcfTamuddXl1CLkAv4YN1MUc6Y19ZKzSbodA&refId=8%2F37JKGFUMmMKgYC%2B%2FmUsQ%3D%3D&trackingId=xBLNlYNjaYS3O1ul4JC7wQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Pleno JAVA
+Sobre a vaga
+Vem fazer parte do #teamfarm!Iniciamos nossa jornada em2017e, desde então, somos a empresa que mais viabilizou crédito para toda a cadeia do agronegócio. Foram mais de R$ 20 bilhões de reais desembolsados para fortalecer todo esse importante ecossistema!Nosso time, formado por#farmersde diferentes perfis, vivências e experiências, trabalha todos os dias focado em um único propósito: liderar a transformação de toda a cadeia agro — da indústria ao produtor rural — facilitando o acesso ao crédito rápido, simples e seguro.E fazemos isso do nosso jeito, com a nossa cara, a cara da Farm! O que isso significa? Colocar o cliente no centro! Ele é o foco de tudo o que fazemos, a razão do nosso negócio existir e do nosso crescimento acontecer.Além disso, somos formados por um time de#farmersque fazem nosso negócio acontecer!O agro muda o mundo. Vem fazer parte dessa transformação com a gente!Sobre essa oportunidade:Aqui na Farmtech o Desenvolver Back End é responsável pelo desenvolvimento de sistemas e aplicações Backend - JAVA, estudos de viabilidade, homologação, validação e entregas em Produção.Atividades principais:Desenvolvimento de código dentro da Squad Ágil.Realizar estudos de viabilidade técnica e econômica, levando em conta também a manutenção.Desenvolver sistemas informatizados com base nos dados coletados, que vão de encontro às regras do negócio.Acompanhar o processo de homologação dos sistemas.Realizar testes e simulações, a fim de garantir o bom funcionamento dos sistemas.Implantar e validar os sistemas no ambiente de produção.Investigar novas tecnologias para o aperfeiçoamento do sistemaHard SkillsEnsino superior completo em Tecnologia da Informação, Sistema de Informações, Engenharia de Sistemas, Ciências da Computação ou Engenharia da ComputaçãoExperiência de 02 a 04 anos na funçãoConhecimento das linguagens de programação: JavaConhecimento dos frameworks: Springoboot, SpringbatchConhecimento de arquitetura: Clean Arquitecture/BFF/MicroserviçosConhecimento e Design de APIs RESTConhecimento de banco de dados MySQL e SQL Server.Boas práticas de versionamento de código.Aptidão para melhoria contínua, e princípios de código limpo;Teste unitário e/ou de integraçãoConhecimento de metodologias Ágil (Scrum).Experiência com Cloud (AWS/Azure)Inglês TécnicoSoft SkillsFocoAgilidadeBoa comunicação e relacionamentoBom senso de priorização e organização de entregas
+Vem fazer parte do #teamfarm!
+
+
+
+2017
+
+
+
+
+#farmers
+
+
+
+
+
+
+#farmers
+
+
+
+O agro muda o mundo. Vem fazer parte dessa transformação com a gente!
+
+
+Sobre essa oportunidade:
+
+
+
+
+Atividades principais:
+
+
+Desenvolvimento de código dentro da Squad Ágil.Realizar estudos de viabilidade técnica e econômica, levando em conta também a manutenção.Desenvolver sistemas informatizados com base nos dados coletados, que vão de encontro às regras do negócio.Acompanhar o processo de homologação dos sistemas.Realizar testes e simulações, a fim de garantir o bom funcionamento dos sistemas.Implantar e validar os sistemas no ambiente de produção.Investigar novas tecnologias para o aperfeiçoamento do sistema
+Desenvolvimento de código dentro da Squad Ágil.
+Desenvolvimento de código dentro da Squad Ágil.
+Realizar estudos de viabilidade técnica e econômica, levando em conta também a manutenção.
+Realizar estudos de viabilidade técnica e econômica, levando em conta também a manutenção.
+
+Desenvolver sistemas informatizados com base nos dados coletados, que vão de encontro às regras do negócio.
+Desenvolver sistemas informatizados com base nos dados coletados, que vão de encontro às regras do negócio.
+
+Acompanhar o processo de homologação dos sistemas.
+Acompanhar o processo de homologação dos sistemas.
+
+Realizar testes e simulações, a fim de garantir o bom funcionamento dos sistemas.
+Realizar testes e simulações, a fim de garantir o bom funcionamento dos sistemas.
+
+Implantar e validar os sistemas no ambiente de produção.
+Implantar e validar os sistemas no ambiente de produção.
+
+Investigar novas tecnologias para o aperfeiçoamento do sistema
+Investigar novas tecnologias para o aperfeiçoamento do sistema
+
+
+
+Hard Skills
+
+
+Ensino superior completo em Tecnologia da Informação, Sistema de Informações, Engenharia de Sistemas, Ciências da Computação ou Engenharia da ComputaçãoExperiência de 02 a 04 anos na funçãoConhecimento das linguagens de programação: JavaConhecimento dos frameworks: Springoboot, SpringbatchConhecimento de arquitetura: Clean Arquitecture/BFF/MicroserviçosConhecimento e Design de APIs RESTConhecimento de banco de dados MySQL e SQL Server.Boas práticas de versionamento de código.Aptidão para melhoria contínua, e princípios de código limpo;Teste unitário e/ou de integraçãoConhecimento de metodologias Ágil (Scrum).Experiência com Cloud (AWS/Azure)Inglês Técnico
+Ensino superior completo em Tecnologia da Informação, Sistema de Informações, Engenharia de Sistemas, Ciências da Computação ou Engenharia da Computação
+Ensino superior completo em Tecnologia da Informação, Sistema de Informações, Engenharia de Sistemas, Ciências da Computação ou Engenharia da Computação
+
+Experiência de 02 a 04 anos na função
+Experiência de 02 a 04 anos na função
+
+Conhecimento das linguagens de programação: Java
+Conhecimento das linguagens de programação: Java
+
+Conhecimento dos frameworks: Springoboot, Springbatch
+Conhecimento dos frameworks: Springoboot, Springbatch
+
+Conhecimento de arquitetura: Clean Arquitecture/BFF/Microserviços
+Conhecimento de arquitetura: Clean Arquitecture/BFF/Microserviços
+
+Conhecimento e Design de APIs REST
+Conhecimento e Design de APIs REST
+
+Conhecimento de banco de dados MySQL e SQL Server.
+Conhecimento de banco de dados MySQL e SQL Server.
+
+Boas práticas de versionamento de código.
+Boas práticas de versionamento de código.
+
+Aptidão para melhoria contínua, e princípios de código limpo;
+Aptidão para melhoria contínua, e princípios de código limpo;
+
+Teste unitário e/ou de integração
+Teste unitário e/ou de integração
+
+Conhecimento de metodologias Ágil (Scrum).
+Conhecimento de metodologias Ágil (Scrum).
+
+Experiência com Cloud (AWS/Azure)
+Experiência com Cloud (AWS/Azure)
+
+Inglês Técnico
+Inglês Técnico
+
+
+
+Soft Skills
+
+
+FocoAgilidadeBoa comunicação e relacionamentoBom senso de priorização e organização de entregas
+Foco
+Foco
+
+Agilidade
+Agilidade
+
+Boa comunicação e relacionamento
+Boa comunicação e relacionamento
+
+Bom senso de priorização e organização de entregas
+Bom senso de priorização e organização de entregas
+

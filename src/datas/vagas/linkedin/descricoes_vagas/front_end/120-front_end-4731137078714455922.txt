@@ -1,0 +1,105 @@
+link-https://www.linkedin.com/jobs/view/4048127853/?eBP=CwEAAAGS7kzxerjHU9pejw0Qvx3o1vvSWgp-2VT3jI3dG6xRxPcPtVUKjEVqQxq5gTEuXNnZCcrBUv_UMDkvkWTt8WTzqbZYzZGqyGkW3Kns7rI-TzstdBDA5V30v_kEv5zXnC7OtWEu_BN9ZujLPqkY4LYt0EIK-l5lqTM5axJxqbDd5_PhbkxFDpt6OM-JP8KI6HZO-_ydkgQTp34KgtnO2gHTUf_MmWqmHJrcJGwpc0d5NOsQcDMHsznbeILonsVE863uvfhB261I68mt5MN2g2Fp6vfK5Q7IGCO5Quc30xuv_z0CSbMi1RaQII-MISli17WJvMZN9n5PV-tRr5fOPXphRvGSzRJ4qHS4oVssUWhyRVyaEbw9-rnekhquGUoD_x05xb6-iRBxQux5HZAeF-ATlS_t3aijRTVpS9EIzENvG-5DyPayY_eCel7lX9ebRUXf2llXutSPaMxLi9Z8TeHtqPq7hEZCZCXleZN9ZjUoXK4_EZwqD62e9Sg&refId=94gnrwbwd5H%2FUFz3Hr4KsQ%3D%3D&trackingId=EPem7T50dB8WGjtTybRUTg%3D%3D&trk=flagship3_search_srp_jobs
+
+Front End Developer
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Desenvolver Interfaces de Usuário: Construir e otimizar aplicações web responsivas que proporcionem uma experiência de usuário fluida.Garantir Compatibilidade entre Navegadores: Assegurar que as aplicações funcionem corretamente em diferentes navegadores e plataformas.Manter a Qualidade do Código: Escrever código limpo, eficiente e reutilizável, com foco em escalabilidade e performance.Implementar Melhores Práticas de Front-End: Manter-se atualizado sobre as novas tendências em tecnologias, frameworks e metodologias de front-end.Utilizar Bibliotecas de Visualização: Usar ferramentas como D3.js, Chart.js ou Plotly para construir visualizações eficazes.Otimizar a Performance Visual: Garantir que os elementos visuais sejam carregados rapidamente, especialmente com grandes volumes de dados.Colaborar com Equipes de Dados: Trabalhar com cientistas e analistas de dados para entender os requisitos e projetar visualizações adequadas.Teste e Depuração: Testar novos recursos para identificar bugs e problemas de performance, e solucionar problemas conforme surgem.Documentação: Documentar o processo de desenvolvimento, a arquitetura e os fluxos de trabalho relacionados a dados ou visualizações para referência futura.Melhores Práticas de Segurança: Implementar padrões de segurança e privacidade de dados na interface de usuário, garantindo o manuseio seguro dos dados visualizados.Estamos à procura de umDesenvolvedor Front Endtalentoso e motivado para se juntar à nossa equipe em rápido crescimento.A BlueMetrics é uma empresa de tecnologia em ascensão, especializada em soluções de data analytics, data science e inteligência artificial.Oferecemos um ambiente de trabalho desafiador e gratificante, com ótimas oportunidades de crescimento e desenvolvimento profissional.Qualificação Básica (obrigatório)Experiência comprovada de pelo menos 3 anos como Desenvolvedor Front End, construindo e otimizando aplicações web responsivas;Domínio de JavaScript, e React;Conhecimento avançado em CSS, HTML, e Angular;Experiência com modernização de aplicações;Forte orientação para resolução de problemas e otimização de desempenho;Inglês avançado (Necessário para participar de reuniões diárias com o cliente).Qualificação Adicional (Opcional)Experiência com ferramentas de Análise de Dados (Power BI, QlikView, Looker, Sisense, etc.);Conhecimento de metodologias ágeis e práticas DevOps para integração contínua e entrega contínua (CI/CD);Experiência com desenvolvimento em abiemntes em nuvem, especialmente AWS;Certificações AWS.Se você é um profissional apaixonado por tecnologia, com habilidades sólidas em Desenvolvimento Front End e um desejo de fazer parte de uma equipe em rápido crescimento, então gostaríamos de conhecê-lo!Habilidades ObrigatóriasReactJavaScriptHabilidades DesejáveisCSSPythonAWSPower BIQlikviewHTMLETLA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+Desenvolver Interfaces de Usuário: Construir e otimizar aplicações web responsivas que proporcionem uma experiência de usuário fluida.Garantir Compatibilidade entre Navegadores: Assegurar que as aplicações funcionem corretamente em diferentes navegadores e plataformas.Manter a Qualidade do Código: Escrever código limpo, eficiente e reutilizável, com foco em escalabilidade e performance.Implementar Melhores Práticas de Front-End: Manter-se atualizado sobre as novas tendências em tecnologias, frameworks e metodologias de front-end.Utilizar Bibliotecas de Visualização: Usar ferramentas como D3.js, Chart.js ou Plotly para construir visualizações eficazes.Otimizar a Performance Visual: Garantir que os elementos visuais sejam carregados rapidamente, especialmente com grandes volumes de dados.Colaborar com Equipes de Dados: Trabalhar com cientistas e analistas de dados para entender os requisitos e projetar visualizações adequadas.Teste e Depuração: Testar novos recursos para identificar bugs e problemas de performance, e solucionar problemas conforme surgem.Documentação: Documentar o processo de desenvolvimento, a arquitetura e os fluxos de trabalho relacionados a dados ou visualizações para referência futura.Melhores Práticas de Segurança: Implementar padrões de segurança e privacidade de dados na interface de usuário, garantindo o manuseio seguro dos dados visualizados.
+Desenvolver Interfaces de Usuário: Construir e otimizar aplicações web responsivas que proporcionem uma experiência de usuário fluida.
+Desenvolver Interfaces de Usuário: Construir e otimizar aplicações web responsivas que proporcionem uma experiência de usuário fluida.
+Garantir Compatibilidade entre Navegadores: Assegurar que as aplicações funcionem corretamente em diferentes navegadores e plataformas.
+Garantir Compatibilidade entre Navegadores: Assegurar que as aplicações funcionem corretamente em diferentes navegadores e plataformas.
+Manter a Qualidade do Código: Escrever código limpo, eficiente e reutilizável, com foco em escalabilidade e performance.
+Manter a Qualidade do Código: Escrever código limpo, eficiente e reutilizável, com foco em escalabilidade e performance.
+Implementar Melhores Práticas de Front-End: Manter-se atualizado sobre as novas tendências em tecnologias, frameworks e metodologias de front-end.
+Implementar Melhores Práticas de Front-End: Manter-se atualizado sobre as novas tendências em tecnologias, frameworks e metodologias de front-end.
+Utilizar Bibliotecas de Visualização: Usar ferramentas como D3.js, Chart.js ou Plotly para construir visualizações eficazes.
+Utilizar Bibliotecas de Visualização: Usar ferramentas como D3.js, Chart.js ou Plotly para construir visualizações eficazes.
+Otimizar a Performance Visual: Garantir que os elementos visuais sejam carregados rapidamente, especialmente com grandes volumes de dados.
+Otimizar a Performance Visual: Garantir que os elementos visuais sejam carregados rapidamente, especialmente com grandes volumes de dados.
+Colaborar com Equipes de Dados: Trabalhar com cientistas e analistas de dados para entender os requisitos e projetar visualizações adequadas.
+Colaborar com Equipes de Dados: Trabalhar com cientistas e analistas de dados para entender os requisitos e projetar visualizações adequadas.
+Teste e Depuração: Testar novos recursos para identificar bugs e problemas de performance, e solucionar problemas conforme surgem.
+Teste e Depuração: Testar novos recursos para identificar bugs e problemas de performance, e solucionar problemas conforme surgem.
+Documentação: Documentar o processo de desenvolvimento, a arquitetura e os fluxos de trabalho relacionados a dados ou visualizações para referência futura.
+Documentação: Documentar o processo de desenvolvimento, a arquitetura e os fluxos de trabalho relacionados a dados ou visualizações para referência futura.
+Melhores Práticas de Segurança: Implementar padrões de segurança e privacidade de dados na interface de usuário, garantindo o manuseio seguro dos dados visualizados.
+Melhores Práticas de Segurança: Implementar padrões de segurança e privacidade de dados na interface de usuário, garantindo o manuseio seguro dos dados visualizados.
+
+
+
+
+Desenvolvedor Front End
+
+
+
+
+
+
+
+Qualificação Básica (obrigatório)
+
+
+Experiência comprovada de pelo menos 3 anos como Desenvolvedor Front End, construindo e otimizando aplicações web responsivas;Domínio de JavaScript, e React;Conhecimento avançado em CSS, HTML, e Angular;Experiência com modernização de aplicações;Forte orientação para resolução de problemas e otimização de desempenho;Inglês avançado (Necessário para participar de reuniões diárias com o cliente).
+Experiência comprovada de pelo menos 3 anos como Desenvolvedor Front End, construindo e otimizando aplicações web responsivas;
+Experiência comprovada de pelo menos 3 anos como Desenvolvedor Front End, construindo e otimizando aplicações web responsivas;
+Domínio de JavaScript, e React;
+Domínio de JavaScript, e React;
+Conhecimento avançado em CSS, HTML, e Angular;
+Conhecimento avançado em CSS, HTML, e Angular;
+Experiência com modernização de aplicações;
+Experiência com modernização de aplicações;
+Forte orientação para resolução de problemas e otimização de desempenho;
+Forte orientação para resolução de problemas e otimização de desempenho;
+Inglês avançado (Necessário para participar de reuniões diárias com o cliente).
+Inglês avançado (Necessário para participar de reuniões diárias com o cliente).
+
+
+Qualificação Adicional (Opcional)
+
+
+Experiência com ferramentas de Análise de Dados (Power BI, QlikView, Looker, Sisense, etc.);Conhecimento de metodologias ágeis e práticas DevOps para integração contínua e entrega contínua (CI/CD);Experiência com desenvolvimento em abiemntes em nuvem, especialmente AWS;Certificações AWS.
+Experiência com ferramentas de Análise de Dados (Power BI, QlikView, Looker, Sisense, etc.);
+Experiência com ferramentas de Análise de Dados (Power BI, QlikView, Looker, Sisense, etc.);
+Conhecimento de metodologias ágeis e práticas DevOps para integração contínua e entrega contínua (CI/CD);
+Conhecimento de metodologias ágeis e práticas DevOps para integração contínua e entrega contínua (CI/CD);
+Experiência com desenvolvimento em abiemntes em nuvem, especialmente AWS;
+Experiência com desenvolvimento em abiemntes em nuvem, especialmente AWS;
+Certificações AWS.
+Certificações AWS.
+
+
+
+
+
+
+ReactJavaScript
+React
+React
+JavaScript
+JavaScript
+
+
+
+
+CSSPythonAWSPower BIQlikviewHTMLETL
+CSS
+CSS
+Python
+Python
+AWS
+AWS
+Power BI
+Power BI
+Qlikview
+Qlikview
+HTML
+HTML
+ETL
+ETL
+
+
+
+

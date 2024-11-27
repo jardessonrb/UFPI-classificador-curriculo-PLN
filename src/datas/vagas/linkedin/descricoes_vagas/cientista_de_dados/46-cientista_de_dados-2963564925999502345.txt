@@ -1,0 +1,38 @@
+link-https://www.linkedin.com/jobs/view/4063240988/?eBP=CwEAAAGS7jS4xdkfAttaQcJZx4R6LJ6vLRzOKsPQLmK7aw9LXhwTz4R6SzV3_f89NRZQxF-BZAy19ri4rlDh4-B7P-VAeK6qA7FspkOmKHTZBtOC68yWhvj_R8qhbCQwkTRXA7fFrRZUciC-DJSMpkjCr_3fTRxbS4cq0nn2sFjuDsZWqtfswEB3PBYVVPAEbcgIdOD04l3o4ZPU3IR5WoKM2tqowDuuOnddkd2KsJ1xJYkIyOLYb_5g3_0d7qLyK-bQCdqr9JPoociUcXzM8uuhE4e2eJhPBwENDwPTQOjTbYYaqr4rRIj_JEd-udLF7IhSrbc_sXfCkfGiCeLLnuDazVm8njA1DR85Mz8otQQ8CHPIS8NkMsAnjr6AN1-ikA_0DeTB4WdNG6dboo6juyX3UV1uwTK_q6ndudkMliYsFLhIj4jSQG3aQEnyG49rlcAp2tq9h_oeZ1DxhuLh2FGU9jLdN9H3iIPTMLIPSqLqJOduSFpreiH9Ftu38dygkiQNHzIeSTHrYx6_vzekZQ&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=EuO%2Fc66JinGvhv%2B1lX0UHw%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados SR.
+Sobre a vaga
+Requisitos:* Graduação completa em Engenharia, Estatística, Matemática, Análise de Sistemas ou áreas correlatas;Experiência com:* AWS (Glue, S3, SageMaker, Lambda, entre outros);* manipulação de dados e modelagem estatística (Python, SQL, PySpark);* ciência de dados, com foco em projeção de demanda ou previsão de vendas;* metodologias ágeis;Principais atividades:* Realizar análises exploratórias para identificar padrões e tendências que informem decisões estratégicas.* Desenvolver e implementar modelos preditivos para prever a demanda futura de produtos, considerando variáveis sazonais, tendências históricas e fatores externos.* Realizar testes e validações regulares dos modelos de demanda, ajustando-os conforme necessário para melhorar a precisão das previsões.* Identificar oportunidades de melhoria nos processos de análise e modelagem, propondo novas abordagens e tecnologias.* Orientar e apoiar membros da equipe, compartilhando conhecimentos e melhores práticas em ciência de dados.
+Requisitos:
+Requisitos:
+* Graduação completa em Engenharia, Estatística, Matemática, Análise de Sistemas ou áreas correlatas;
+* Graduação completa em Engenharia, Estatística, Matemática, Análise de Sistemas ou áreas correlatas;
+
+
+
+Experiência com:
+Experiência com:
+* AWS (Glue, S3, SageMaker, Lambda, entre outros);
+* AWS (Glue, S3, SageMaker, Lambda, entre outros);
+
+* manipulação de dados e modelagem estatística (Python, SQL, PySpark);
+* manipulação de dados e modelagem estatística (Python, SQL, PySpark);
+* ciência de dados, com foco em projeção de demanda ou previsão de vendas;
+* ciência de dados, com foco em projeção de demanda ou previsão de vendas;
+* metodologias ágeis;
+* metodologias ágeis;
+
+
+
+Principais atividades:
+Principais atividades:
+* Realizar análises exploratórias para identificar padrões e tendências que informem decisões estratégicas.
+* Realizar análises exploratórias para identificar padrões e tendências que informem decisões estratégicas.
+* Desenvolver e implementar modelos preditivos para prever a demanda futura de produtos, considerando variáveis sazonais, tendências históricas e fatores externos.
+* Desenvolver e implementar modelos preditivos para prever a demanda futura de produtos, considerando variáveis sazonais, tendências históricas e fatores externos.
+* Realizar testes e validações regulares dos modelos de demanda, ajustando-os conforme necessário para melhorar a precisão das previsões.
+* Realizar testes e validações regulares dos modelos de demanda, ajustando-os conforme necessário para melhorar a precisão das previsões.
+* Identificar oportunidades de melhoria nos processos de análise e modelagem, propondo novas abordagens e tecnologias.
+* Identificar oportunidades de melhoria nos processos de análise e modelagem, propondo novas abordagens e tecnologias.
+* Orientar e apoiar membros da equipe, compartilhando conhecimentos e melhores práticas em ciência de dados.
+* Orientar e apoiar membros da equipe, compartilhando conhecimentos e melhores práticas em ciência de dados.

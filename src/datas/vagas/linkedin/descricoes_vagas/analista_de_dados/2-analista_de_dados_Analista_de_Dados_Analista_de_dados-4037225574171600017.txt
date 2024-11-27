@@ -1,0 +1,80 @@
+link-https://www.linkedin.com/jobs/view/4063492192/?eBP=CwEAAAGS7idhwt3nv8kWNShm3JTCvXnAeIegl4i5WKUZcRy9uw-KiIv0uxYtgwe9ctJr4fHVtEDGlqWUyeCisvJS8WtIVBIhA-cF77xLmTEoFVioM2gdmM0DWKCqdCCK3SwR10FBXEgn-E6m4sUEQ2MzvLZzkmoLaSWer72iTmgbY5U-EKmonNIGKjSeNYvSlAWdcI_en-RwkuZhhsQn-hUyFQ_AwoaAAPfEnY-tqwHrJ_PGFcSAuM_YYJLE3SqigsMh59eeggIZw1whQKz6UjLiAW2zbd1jbaZcQIDN4AdFU7t8_SWH92ZUQeMb11V92UqLTrdFb6AHRxRF7_7VDKdbAQonpCBDp6FUmNubSUSbbaZAXQOHyLmLRYwR04DmREmhD8DbI4WOpzLOZXz1zi8tOHyflftaJVkML-pNlmrr8-VhQaBoOXXT1IsVT_drls_aERA9iLwfZfl6-UsYJlRKvkx_Q_g_3OrVorkElDtokTJO1t0WAoEpISlh2TAxOc9Gbt7Mb35cGA&refId=7wKlBSPQNZnQiB7yybej2w%3D%3D&trackingId=8GRi0H%2BJJs0EumDr%2FuVbrg%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de dados
+Sobre a vaga
+Nesta posição de Analista de Dados Pleno, sua missão será transformar os Dados da SX Negócios em Inteligência e Insights acionáveis, tornando a análise de dados rápida e fácil, intuitiva e útil, impactando na forma como as pessoas usam os dados para tomar decisões e gerar soluções. Você deve ser analítico, ter pensamento crítico e habilidades com Data Viz, análise de resultados, desenvolvimento de conclusões e storytelling de dados para comunicar os insights descobertos para outras equipes e/ou clientes, orientando profissionais de outras áreas.Aqui na SX temos compromissos com a equidade de oportunidades para todas as pessoas. Valorizamos as diferenças e temos um ambiente onde todos e todas são mais que bem-vindos, por isso buscamos diversidade em identidade de gênero, idade, cor e etnia, orientação afetivo-sexual, origem, pessoas com deficiência e entre outras diversidades, pois entendemos que todas as pessoas devem sonhar, crescer e realizar.Para te ajudar a entender este desafio, aqui estão algumas responsabilidades:- Realizar análises adequadas para entendimento de problemas e mapeamento de oportunidades;- Identificar e especificar problemáticas das áreas de negócio que podem ser respondidas com dados.- Identificar padrões, selecionar features e preparar dados, identificando tendências e padrões nos dados da SX Negócios que possam gerar insights para melhoria de resultados;- Criação de visualizações de dados e disponibilizar dados utilizados para as áreas de negócio para tomada de decisão;- Criação de apresentações de resultados com as informações geradas através de técnicas de visualização de dados (Data Viz);- Analisar resultados de KPIs do negócio e performance das pessoas, identificando oportunidades de melhoria na entrega de resultados;- Criar e customizar reports Adhocs, desenvolver e manter dashboards que se façam necessários;- Participar de projetos de Ciência de Dados voltados para problemáticas das áreas de negócio que podem ser respondidas com dados;- Realizar coleta (extração), pré-processamento (limpeza e tratamento) construindo Datasets para análise de dados e modelagem estatística;- Gerar insights criativos através da análise dos dados utilizando técnicas estatísticas e de modelagem;- Interagir com múltiplos stakeholders para garantir entendimento adequado dos problemas e assegurar uso das soluções de Ciência de Dados nos processos-chave;- Analisar oportunidades para disseminar a cultura de dados (Data-Driven) na empresa.Para esta oportunidade, é necessário que você:- Tenha graduação concluída ou em andamento em diferentes áreas;- Tenha conhecimento em ferramentas de BI e Data Viz;- Tenha conhecimento em SQL e Pyspark;- Tenha conhecimento básico na utilização de Python/R para aplicações de Ciência de Dados e modelos estatísticos;- Tenha conhecimento intermediário em matemática e estatística aplicados a ciência de dados;- Desejável conhecimento na ferramenta Tableau;- Possua perfil crítico, analítico e data-driven, com direcionamento à resultados, buscando o equilíbrio e tradução do técnico para o negócio;- Tenha habilidade de traduzir números em insights valiosos para o negócio através de análises profundas;- Tenha raciocínio lógico;- Aprecie desafios e se motivar por construir soluções a partir do zero;- Tenha capacidade de resolver problemas de negócio utilizando os mais diversos tipos de dados;- Seja colaborativo, disposto a aprender e a ensinar;- Tenha boas habilidades de comunicação e colaboração;- Tenha disponibilidade para atuar de forma hibrida em Rio de Janeiro, bairro Del Castilho (3 dias presenciais e 2 dias home office).
+Nesta posição de Analista de Dados Pleno, sua missão será transformar os Dados da SX Negócios em Inteligência e Insights acionáveis, tornando a análise de dados rápida e fácil, intuitiva e útil, impactando na forma como as pessoas usam os dados para tomar decisões e gerar soluções. Você deve ser analítico, ter pensamento crítico e habilidades com Data Viz, análise de resultados, desenvolvimento de conclusões e storytelling de dados para comunicar os insights descobertos para outras equipes e/ou clientes, orientando profissionais de outras áreas.
+Nesta posição de Analista de Dados Pleno, sua missão será transformar os Dados da SX Negócios em Inteligência e Insights acionáveis, tornando a análise de dados rápida e fácil, intuitiva e útil, impactando na forma como as pessoas usam os dados para tomar decisões e gerar soluções. Você deve ser analítico, ter pensamento crítico e habilidades com Data Viz, análise de resultados, desenvolvimento de conclusões e storytelling de dados para comunicar os insights descobertos para outras equipes e/ou clientes, orientando profissionais de outras áreas.
+
+
+
+Aqui na SX temos compromissos com a equidade de oportunidades para todas as pessoas. Valorizamos as diferenças e temos um ambiente onde todos e todas são mais que bem-vindos, por isso buscamos diversidade em identidade de gênero, idade, cor e etnia, orientação afetivo-sexual, origem, pessoas com deficiência e entre outras diversidades, pois entendemos que todas as pessoas devem sonhar, crescer e realizar.
+Aqui na SX temos compromissos com a equidade de oportunidades para todas as pessoas. Valorizamos as diferenças e temos um ambiente onde todos e todas são mais que bem-vindos, por isso buscamos diversidade em identidade de gênero, idade, cor e etnia, orientação afetivo-sexual, origem, pessoas com deficiência e entre outras diversidades, pois entendemos que todas as pessoas devem sonhar, crescer e realizar.
+
+
+
+Para te ajudar a entender este desafio, aqui estão algumas responsabilidades:
+Para te ajudar a entender este desafio, aqui estão algumas responsabilidades:
+
+
+
+- Realizar análises adequadas para entendimento de problemas e mapeamento de oportunidades;
+- Realizar análises adequadas para entendimento de problemas e mapeamento de oportunidades;
+- Identificar e especificar problemáticas das áreas de negócio que podem ser respondidas com dados.
+- Identificar e especificar problemáticas das áreas de negócio que podem ser respondidas com dados.
+- Identificar padrões, selecionar features e preparar dados, identificando tendências e padrões nos dados da SX Negócios que possam gerar insights para melhoria de resultados;
+- Identificar padrões, selecionar features e preparar dados, identificando tendências e padrões nos dados da SX Negócios que possam gerar insights para melhoria de resultados;
+- Criação de visualizações de dados e disponibilizar dados utilizados para as áreas de negócio para tomada de decisão;
+- Criação de visualizações de dados e disponibilizar dados utilizados para as áreas de negócio para tomada de decisão;
+- Criação de apresentações de resultados com as informações geradas através de técnicas de visualização de dados (Data Viz);
+- Criação de apresentações de resultados com as informações geradas através de técnicas de visualização de dados (Data Viz);
+- Analisar resultados de KPIs do negócio e performance das pessoas, identificando oportunidades de melhoria na entrega de resultados;
+- Analisar resultados de KPIs do negócio e performance das pessoas, identificando oportunidades de melhoria na entrega de resultados;
+- Criar e customizar reports Adhocs, desenvolver e manter dashboards que se façam necessários;
+- Criar e customizar reports Adhocs, desenvolver e manter dashboards que se façam necessários;
+- Participar de projetos de Ciência de Dados voltados para problemáticas das áreas de negócio que podem ser respondidas com dados;
+- Participar de projetos de Ciência de Dados voltados para problemáticas das áreas de negócio que podem ser respondidas com dados;
+- Realizar coleta (extração), pré-processamento (limpeza e tratamento) construindo Datasets para análise de dados e modelagem estatística;
+- Realizar coleta (extração), pré-processamento (limpeza e tratamento) construindo Datasets para análise de dados e modelagem estatística;
+- Gerar insights criativos através da análise dos dados utilizando técnicas estatísticas e de modelagem;
+- Gerar insights criativos através da análise dos dados utilizando técnicas estatísticas e de modelagem;
+- Interagir com múltiplos stakeholders para garantir entendimento adequado dos problemas e assegurar uso das soluções de Ciência de Dados nos processos-chave;
+- Interagir com múltiplos stakeholders para garantir entendimento adequado dos problemas e assegurar uso das soluções de Ciência de Dados nos processos-chave;
+- Analisar oportunidades para disseminar a cultura de dados (Data-Driven) na empresa.
+- Analisar oportunidades para disseminar a cultura de dados (Data-Driven) na empresa.
+
+
+
+Para esta oportunidade, é necessário que você:
+Para esta oportunidade, é necessário que você:
+
+
+
+- Tenha graduação concluída ou em andamento em diferentes áreas;
+- Tenha graduação concluída ou em andamento em diferentes áreas;
+- Tenha conhecimento em ferramentas de BI e Data Viz;
+- Tenha conhecimento em ferramentas de BI e Data Viz;
+- Tenha conhecimento em SQL e Pyspark;
+- Tenha conhecimento em SQL e Pyspark;
+- Tenha conhecimento básico na utilização de Python/R para aplicações de Ciência de Dados e modelos estatísticos;
+- Tenha conhecimento básico na utilização de Python/R para aplicações de Ciência de Dados e modelos estatísticos;
+- Tenha conhecimento intermediário em matemática e estatística aplicados a ciência de dados;
+- Tenha conhecimento intermediário em matemática e estatística aplicados a ciência de dados;
+- Desejável conhecimento na ferramenta Tableau;
+- Desejável conhecimento na ferramenta Tableau;
+- Possua perfil crítico, analítico e data-driven, com direcionamento à resultados, buscando o equilíbrio e tradução do técnico para o negócio;
+- Possua perfil crítico, analítico e data-driven, com direcionamento à resultados, buscando o equilíbrio e tradução do técnico para o negócio;
+- Tenha habilidade de traduzir números em insights valiosos para o negócio através de análises profundas;
+- Tenha habilidade de traduzir números em insights valiosos para o negócio através de análises profundas;
+- Tenha raciocínio lógico;
+- Tenha raciocínio lógico;
+- Aprecie desafios e se motivar por construir soluções a partir do zero;
+- Aprecie desafios e se motivar por construir soluções a partir do zero;
+- Tenha capacidade de resolver problemas de negócio utilizando os mais diversos tipos de dados;
+- Tenha capacidade de resolver problemas de negócio utilizando os mais diversos tipos de dados;
+- Seja colaborativo, disposto a aprender e a ensinar;
+- Seja colaborativo, disposto a aprender e a ensinar;
+- Tenha boas habilidades de comunicação e colaboração;
+- Tenha boas habilidades de comunicação e colaboração;
+- Tenha disponibilidade para atuar de forma hibrida em Rio de Janeiro, bairro Del Castilho (3 dias presenciais e 2 dias home office).
+- Tenha disponibilidade para atuar de forma hibrida em Rio de Janeiro, bairro Del Castilho (3 dias presenciais e 2 dias home office).

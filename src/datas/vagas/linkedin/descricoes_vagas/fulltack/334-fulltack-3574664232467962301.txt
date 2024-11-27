@@ -1,0 +1,104 @@
+link-https://www.linkedin.com/jobs/view/4039239585/?eBP=CwEAAAGS7g-PRJ5CPzAKp2qVK2NwHe0AUzipEenr2fbtbNLLfQyyyfTs7Dl2Jr_5l2xDUX4k1kFcEV9gB70i1CzB1AoLWKul1ojI9g9EDl7KXz6bsPuJ8kc6RaWJe34vb2iMfTbbf_cjYBFvE0pcfEy0Bf_64T2Fl9fmxkJJGr1IRX7q3Eq9m8XxAB4UIuzzHo9yXj5CXRQJaxvHTE0ASLPxUZpnYOamWly4fRH6V9k1H0jYFGVBTO8GsLzyOh5zsln3AeDN-2mLctKTEWs3c71nd9RbZ0R_KWrhou7EIvfJl3a8IQMZ9j0EwJYjUuesEA1nsFBEoOVzcU_VxuEW4Q36jmv8cvYz3KtYyjDQwbGhlbw7sRjkI7dO0QRRxCo-UDOugzTk34HvUuK4_bPl3r-jIKtpqfwIfQkM36Fc5tYrF_QHMys7jbRqwciFg6-CN8nPUaE7mypZXXxu&refId=4HWb3fpr4rq7t21n2A4hZg%3D%3D&trackingId=acuHZSWq4jij5330QcOBHA%3D%3D&trk=flagship3_search_srp_jobs
+
+Full Stack Engineer
+Sobre a vaga
+About CredixCredix is a FinTech company dedicated to growing businesses in Latin America. Building on our expertise, we now focus on providing a tailored Buy Now, Pay Later (BNPL) solution for B2B transactions in Brazil with our platform, CrediPay. CrediPay is created to help business grow their sales and improve their cashflow efficiency through seamless and risk-free credit offering. Sellers offer their buyers flexible payment terms at an attractive price point and receive upfront payments. We manage and protect our clients from any credit & fraud risk, letting them focus only on what matters: increased sales and profitability.Why choose Credix?Become part of a forward-thinking start-up where boldness and a commitment to excellence are paramount, and your personal and professional development is at the forefront.Work alongside a dedicated team of bright individuals driven by an Olympian mindset to excel in every aspect of our operations. Together, we aim to build with velocity, utilizing innovative embedded finance strategies to expand business operations in Latin America.Experience a close and supportive work atmosphere where collaboration thrives, wise judgment guides our decisions, and you can learn, grow, and take on meaningful responsibilities.About the jobWe are looking for someone to join the Credix Engineering team. We seek a mid/senior Full Stack Engineer with experience in NodeJS, Typescript, JavaScript, and Python. You love to tackle big problems, break them down into smaller pieces, and translate those into code. You are structured at heart, leading to excellent documentation, code maintainability, and structure.QualificationsFive years of expertise in building production-grade software platforms.Proficient in NodeJS, TypeScript, and JavaScript.Experience in Nest.Js is a big plusSolid understanding of Python.Fluent in English and Portuguese, both written and verbal.Experience with frontend frameworks such as Next.js and React.Familiar with NoSQL & key/value databases like LevelDB, MongoDB, Redis, etc.Proven track record in developing scalable, RESTful HTTP APIs.Hands-on experience with Docker and its ecosystem.Experience with CI/CD pipelines.Knowledge of Terraform and Google Cloud Platform is a plus.Strong analytical mindset combined with outstanding interpersonal and communication skills.ResponsibilitiesHelp build the core CrediPay platform, ranging from functionalities to processing payments to implementing novel ways of onboarding buyers.Contribute to developing our risk engine, laying the foundation to underwrite new buyers contextually.Contribute to the quality of our codebase, not only by coding, but also by reviewing your peer’s code & keeping a close eye on quality and automated testing.What we offerCollaboration and team spirit thrive best in an in-office environment. Our office provides a vibrant and engaging workspace where team members can connect, innovate, and grow. With access to our offices in Sao Paulo, you’ll immerse yourself in a culture of innovation and collaboration.But that’s just the beginning - here’s what else we offer:A culture of learning and experimentation: where you are encouraged to explore new ideas and technologiesCompetitive salary package: Your hard work deserves recognition, and we ensure you’re well-rewarded for your contributions.Equity stock options plan: Be a part of our journey towards success and share in the rewards.Paid holidays: Enjoy the flexibility to recharge and rejuvenateoff-sites: Awesome team building, unforgettable memories, and adventures ensured during our team off-sites.
+About Credix
+About Credix
+About Credix
+Credix is a FinTech company dedicated to growing businesses in Latin America. Building on our expertise, we now focus on providing a tailored Buy Now, Pay Later (BNPL) solution for B2B transactions in Brazil with our platform, CrediPay. CrediPay is created to help business grow their sales and improve their cashflow efficiency through seamless and risk-free credit offering. Sellers offer their buyers flexible payment terms at an attractive price point and receive upfront payments. We manage and protect our clients from any credit & fraud risk, letting them focus only on what matters: increased sales and profitability.
+Credix is a FinTech company dedicated to growing businesses in Latin America. Building on our expertise, we now focus on providing a tailored Buy Now, Pay Later (BNPL) solution for B2B transactions in Brazil with our platform, CrediPay. CrediPay is created to help business grow their sales and improve their cashflow efficiency through seamless and risk-free credit offering. Sellers offer their buyers flexible payment terms at an attractive price point and receive upfront payments. We manage and protect our clients from any credit & fraud risk, letting them focus only on what matters: increased sales and profitability.
+
+
+
+Why choose Credix?
+Why choose Credix?
+Why choose Credix?
+Become part of a forward-thinking start-up where boldness and a commitment to excellence are paramount, and your personal and professional development is at the forefront.Work alongside a dedicated team of bright individuals driven by an Olympian mindset to excel in every aspect of our operations. Together, we aim to build with velocity, utilizing innovative embedded finance strategies to expand business operations in Latin America.Experience a close and supportive work atmosphere where collaboration thrives, wise judgment guides our decisions, and you can learn, grow, and take on meaningful responsibilities.
+Become part of a forward-thinking start-up where boldness and a commitment to excellence are paramount, and your personal and professional development is at the forefront.
+Become part of a forward-thinking start-up where boldness and a commitment to excellence are paramount, and your personal and professional development is at the forefront.
+Work alongside a dedicated team of bright individuals driven by an Olympian mindset to excel in every aspect of our operations. Together, we aim to build with velocity, utilizing innovative embedded finance strategies to expand business operations in Latin America.
+Work alongside a dedicated team of bright individuals driven by an Olympian mindset to excel in every aspect of our operations. Together, we aim to build with velocity, utilizing innovative embedded finance strategies to expand business operations in Latin America.
+Experience a close and supportive work atmosphere where collaboration thrives, wise judgment guides our decisions, and you can learn, grow, and take on meaningful responsibilities.
+Experience a close and supportive work atmosphere where collaboration thrives, wise judgment guides our decisions, and you can learn, grow, and take on meaningful responsibilities.
+
+
+
+About the job
+About the job
+About the job
+We are looking for someone to join the Credix Engineering team. We seek a mid/senior Full Stack Engineer with experience in NodeJS, Typescript, JavaScript, and Python. You love to tackle big problems, break them down into smaller pieces, and translate those into code. You are structured at heart, leading to excellent documentation, code maintainability, and structure.
+We are looking for someone to join the Credix Engineering team. We seek a mid/senior Full Stack Engineer with experience in NodeJS, Typescript, JavaScript, and Python. You love to tackle big problems, break them down into smaller pieces, and translate those into code. You are structured at heart, leading to excellent documentation, code maintainability, and structure.
+
+
+
+Qualifications
+Qualifications
+Qualifications
+Five years of expertise in building production-grade software platforms.Proficient in NodeJS, TypeScript, and JavaScript.Experience in Nest.Js is a big plusSolid understanding of Python.Fluent in English and Portuguese, both written and verbal.Experience with frontend frameworks such as Next.js and React.Familiar with NoSQL & key/value databases like LevelDB, MongoDB, Redis, etc.Proven track record in developing scalable, RESTful HTTP APIs.Hands-on experience with Docker and its ecosystem.Experience with CI/CD pipelines.Knowledge of Terraform and Google Cloud Platform is a plus.Strong analytical mindset combined with outstanding interpersonal and communication skills.
+Five years of expertise in building production-grade software platforms.
+Five years of expertise in building production-grade software platforms.
+Proficient in NodeJS, TypeScript, and JavaScript.
+Proficient in NodeJS, TypeScript, and JavaScript.
+Experience in Nest.Js is a big plus
+Experience in Nest.Js is a big plus
+Solid understanding of Python.
+Solid understanding of Python.
+Fluent in English and Portuguese, both written and verbal.
+Fluent in English and Portuguese, both written and verbal.
+Experience with frontend frameworks such as Next.js and React.
+Experience with frontend frameworks such as Next.js and React.
+Familiar with NoSQL & key/value databases like LevelDB, MongoDB, Redis, etc.
+Familiar with NoSQL & key/value databases like LevelDB, MongoDB, Redis, etc.
+Proven track record in developing scalable, RESTful HTTP APIs.
+Proven track record in developing scalable, RESTful HTTP APIs.
+Hands-on experience with Docker and its ecosystem.
+Hands-on experience with Docker and its ecosystem.
+Experience with CI/CD pipelines.
+Experience with CI/CD pipelines.
+Knowledge of Terraform and Google Cloud Platform is a plus.
+Knowledge of Terraform and Google Cloud Platform is a plus.
+Strong analytical mindset combined with outstanding interpersonal and communication skills.
+Strong analytical mindset combined with outstanding interpersonal and communication skills.
+
+
+
+Responsibilities
+Responsibilities
+Responsibilities
+Help build the core CrediPay platform, ranging from functionalities to processing payments to implementing novel ways of onboarding buyers.Contribute to developing our risk engine, laying the foundation to underwrite new buyers contextually.Contribute to the quality of our codebase, not only by coding, but also by reviewing your peer’s code & keeping a close eye on quality and automated testing.
+Help build the core CrediPay platform, ranging from functionalities to processing payments to implementing novel ways of onboarding buyers.
+Help build the core CrediPay platform, ranging from functionalities to processing payments to implementing novel ways of onboarding buyers.
+Contribute to developing our risk engine, laying the foundation to underwrite new buyers contextually.
+Contribute to developing our risk engine, laying the foundation to underwrite new buyers contextually.
+Contribute to the quality of our codebase, not only by coding, but also by reviewing your peer’s code & keeping a close eye on quality and automated testing.
+Contribute to the quality of our codebase, not only by coding, but also by reviewing your peer’s code & keeping a close eye on quality and automated testing.
+
+
+
+What we offer
+What we offer
+What we offer
+Collaboration and team spirit thrive best in an in-office environment. Our office provides a vibrant and engaging workspace where team members can connect, innovate, and grow. With access to our offices in Sao Paulo, you’ll immerse yourself in a culture of innovation and collaboration.
+Collaboration and team spirit thrive best in an in-office environment. Our office provides a vibrant and engaging workspace where team members can connect, innovate, and grow. With access to our offices in Sao Paulo, you’ll immerse yourself in a culture of innovation and collaboration.
+
+
+
+But that’s just the beginning - here’s what else we offer:
+But that’s just the beginning - here’s what else we offer:
+A culture of learning and experimentation: where you are encouraged to explore new ideas and technologiesCompetitive salary package: Your hard work deserves recognition, and we ensure you’re well-rewarded for your contributions.Equity stock options plan: Be a part of our journey towards success and share in the rewards.Paid holidays: Enjoy the flexibility to recharge and rejuvenateoff-sites: Awesome team building, unforgettable memories, and adventures ensured during our team off-sites.
+A culture of learning and experimentation: where you are encouraged to explore new ideas and technologies
+A culture of learning and experimentation: where you are encouraged to explore new ideas and technologies
+A culture of learning and experimentation
+Competitive salary package: Your hard work deserves recognition, and we ensure you’re well-rewarded for your contributions.
+Competitive salary package: Your hard work deserves recognition, and we ensure you’re well-rewarded for your contributions.
+Competitive salary package
+Equity stock options plan: Be a part of our journey towards success and share in the rewards.
+Equity stock options plan: Be a part of our journey towards success and share in the rewards.
+Equity stock options plan
+Paid holidays: Enjoy the flexibility to recharge and rejuvenate
+Paid holidays: Enjoy the flexibility to recharge and rejuvenate
+Paid holidays
+off-sites: Awesome team building, unforgettable memories, and adventures ensured during our team off-sites.
+off-sites: Awesome team building, unforgettable memories, and adventures ensured during our team off-sites.
+off-sites

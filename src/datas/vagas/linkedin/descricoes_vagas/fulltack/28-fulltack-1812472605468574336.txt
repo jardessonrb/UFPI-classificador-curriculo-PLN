@@ -1,0 +1,143 @@
+link-https://www.linkedin.com/jobs/view/4062570689/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=a6vUPSWez%2Fz1o9umXrtpDg%3D%3D&trackingId=vizTIcad9WAxe056J9MDtg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Full Stack PHP
+Sobre a vaga
+Descrição da vagaCriamos produtos e soluções com o propósito de melhorar as relações entre as pessoas e negócios. Como Desenvolvedor, você contribuirá na criação de produtos digitais inovadores, a fim de que nossos clientes mantenham seu ambiente mais ético, em Compliance, sustentável (ESG) e atento aos riscos e a governança de suas empresas.Buscamos um profissional para vaga de desenvolvedor em Sustentação e Fast Track/Suporte para nossos Sistemas/Aplicações.Nesta função você irá atuar com desenvolvimento de pequenas melhorias, manutenção voltados para ambientes críticos, suporte a aplicações web e desenvolvimento de soluções para resolução de problema.Atenderá solicitações via chamados para correções de comportamentos, melhorias de erros de códigos, sustentação e desenvolvimento utilizando as melhores práticas e respeitando a arquitetura cooperativa de desenvolvimento de software.Responsabilidades e atribuiçõesInvestigar, diagnosticar e solucionar chamados das plataformas/sistema;Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;Analisar problemas dos clientes e realizar recomendações de ajustes e melhorias;Identificar oportunidades de evolução e otimização dos processos existentes;Identificar defeitos por meio de depuração de código e análise de log;Documentar processos sistêmicos e manter a base de conhecimento atualizada;Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;Perfil analítico para identificar problemas do produto suportado;Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.Requisitos e qualificaçõesObrigatórioGraduação Completa em Engenharia de Software, Ciências da Computação, Engenharia (ou áreas correlatas);Experiência em desenvolvimento de aplicações web;HTML5, CSS3, Bootstrap, JQuery, JavaScript, ReactJS;PHP e Laravel;Conhecimento em base de dados (SQL Server, PostGree SQL, MySQL);Frameworks de mercado (RabbitMQ, KeyCloack);OOP, Web Services, APIs Restfull, XML, SOA;Versionamento de código: GITConhecimento de arquitetura de aplicações e Design Patterns;Conhecimento dos processos envolvendo análise de sistemas e troubleshooting;Protagonismo (autodidata, assumir desafios, engajado) e capacidade de trabalho em equipes auto gerenciáveis;Ser proativo para atuação com senso de urgência.DesejávelConhecimentos em AWS;Conhecimentos em outras linguagens de programação (por ex.Next.JS, Java ou Python);Experiência com qualidade de codificação e boas práticas, tais como: TDD, testes unitários;Conhecimento/participação de processos ágeis de desenvolvimento com experiência em metodologia ágil Scrum, XP, Agile;Ter foco no cliente e resultado para entrega.NOSSO PACOTE DE REMUNERAÇÃO🏥 Seguro Saúde Amil: Cobertura nacional com coparticipação e extensivo aos seus dependentes diretos, garantindo a saúde de quem você ama.🦷 Seguro Dental Bradesco: Cobertura nacional com mensalidade e extensivo aos seus dependentes diretos, garantindo a saúde bucal de quem você ama (contratação opcional).💳 Cartão Eletrônico de Benefícios (Swile): Modalidade flexível para gerenciar seu saldo conforme suas preferências. Categorias incluem: refeição, alimentação, home office, entre outros.💪🏼 TotalPass: Acesso a uma variedade de atividades e estabelecimentos para promover o equilíbrio entre trabalho e lazer (contratação opcional).❤️‍🩹 Seguro de Vida: Proteção financeira para você e seus beneficiários.🚌 Vale Transporte: Conforme previsto em lei ou reembolso.Auxílio mobilidade: Reembolso de corridas por aplicativo, fretado, passagem intermunicipal ou estacionamento, facilitando seu deslocamento (caso não opte pelo VT).💰 Participação nos Lucros e Resultados (PLR): Atrelada ao cumprimento de metas, visando reconhecimento pelos esforços dedicados.📈 Auxílio para Autodesenvolvimento: Valor anual para aquisição de livros, inscrições em treinamentos ou palestras voltadas para autodesenvolvimento.🧑‍🎓 Programa de Desenvolvimento: Conforme políticas e condições de elegibilidade vigentes, investimos em seu desenvolvimento profissional. (Pós, Graduação e Cursos de Idioma)🎂 Day Off de Aniversário: Um dia de folga para tirar no dia ou ao longo do mês do seu aniversário, celebrando momentos especiais.❤️ Jornada ICTS: Bonificações por tempo de casa, casamento ou nascimento, reconhecendo importantes fases da vida.🧠 Qualidade de Vida (Eleva): Programas dedicados à saúde física e mental com suporte nutricional, psicológico, treinamento personalizado e acompanhamento especializado para gestantes.
+Descrição da vaga
+Descrição da vaga
+Descrição da vaga
+Criamos produtos e soluções com o propósito de melhorar as relações entre as pessoas e negócios. Como Desenvolvedor, você contribuirá na criação de produtos digitais inovadores, a fim de que nossos clientes mantenham seu ambiente mais ético, em Compliance, sustentável (ESG) e atento aos riscos e a governança de suas empresas.
+Criamos produtos e soluções com o propósito de melhorar as relações entre as pessoas e negócios. Como Desenvolvedor, você contribuirá na criação de produtos digitais inovadores, a fim de que nossos clientes mantenham seu ambiente mais ético, em Compliance, sustentável (ESG) e atento aos riscos e a governança de suas empresas.
+
+
+
+Buscamos um profissional para vaga de desenvolvedor em Sustentação e Fast Track/Suporte para nossos Sistemas/Aplicações.
+Buscamos um profissional para vaga de desenvolvedor em Sustentação e Fast Track/Suporte para nossos Sistemas/Aplicações.
+
+
+
+Nesta função você irá atuar com desenvolvimento de pequenas melhorias, manutenção voltados para ambientes críticos, suporte a aplicações web e desenvolvimento de soluções para resolução de problema.
+Nesta função você irá atuar com desenvolvimento de pequenas melhorias, manutenção voltados para ambientes críticos, suporte a aplicações web e desenvolvimento de soluções para resolução de problema.
+
+
+
+Atenderá solicitações via chamados para correções de comportamentos, melhorias de erros de códigos, sustentação e desenvolvimento utilizando as melhores práticas e respeitando a arquitetura cooperativa de desenvolvimento de software.
+Atenderá solicitações via chamados para correções de comportamentos, melhorias de erros de códigos, sustentação e desenvolvimento utilizando as melhores práticas e respeitando a arquitetura cooperativa de desenvolvimento de software.
+
+
+
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Investigar, diagnosticar e solucionar chamados das plataformas/sistema;Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;Analisar problemas dos clientes e realizar recomendações de ajustes e melhorias;Identificar oportunidades de evolução e otimização dos processos existentes;Identificar defeitos por meio de depuração de código e análise de log;Documentar processos sistêmicos e manter a base de conhecimento atualizada;Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;Perfil analítico para identificar problemas do produto suportado;Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.
+Investigar, diagnosticar e solucionar chamados das plataformas/sistema;
+Investigar, diagnosticar e solucionar chamados das plataformas/sistema;
+Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;
+Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;
+Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;
+Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;
+Analisar problemas dos clientes e realizar recomendações de ajustes e melhorias;
+Analisar problemas dos clientes e realizar recomendações de ajustes e melhorias;
+Identificar oportunidades de evolução e otimização dos processos existentes;
+Identificar oportunidades de evolução e otimização dos processos existentes;
+Identificar defeitos por meio de depuração de código e análise de log;
+Identificar defeitos por meio de depuração de código e análise de log;
+Documentar processos sistêmicos e manter a base de conhecimento atualizada;
+Documentar processos sistêmicos e manter a base de conhecimento atualizada;
+Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;
+Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;
+Perfil analítico para identificar problemas do produto suportado;
+Perfil analítico para identificar problemas do produto suportado;
+Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.
+Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.
+
+
+
+Requisitos e qualificações
+Requisitos e qualificações
+Requisitos e qualificações
+
+
+
+Obrigatório
+Obrigatório
+Obrigatório
+Graduação Completa em Engenharia de Software, Ciências da Computação, Engenharia (ou áreas correlatas);Experiência em desenvolvimento de aplicações web;HTML5, CSS3, Bootstrap, JQuery, JavaScript, ReactJS;PHP e Laravel;Conhecimento em base de dados (SQL Server, PostGree SQL, MySQL);Frameworks de mercado (RabbitMQ, KeyCloack);OOP, Web Services, APIs Restfull, XML, SOA;Versionamento de código: GITConhecimento de arquitetura de aplicações e Design Patterns;Conhecimento dos processos envolvendo análise de sistemas e troubleshooting;Protagonismo (autodidata, assumir desafios, engajado) e capacidade de trabalho em equipes auto gerenciáveis;Ser proativo para atuação com senso de urgência.
+Graduação Completa em Engenharia de Software, Ciências da Computação, Engenharia (ou áreas correlatas);
+Graduação Completa em Engenharia de Software, Ciências da Computação, Engenharia (ou áreas correlatas);
+Experiência em desenvolvimento de aplicações web;
+Experiência em desenvolvimento de aplicações web;
+HTML5, CSS3, Bootstrap, JQuery, JavaScript, ReactJS;
+HTML5, CSS3, Bootstrap, JQuery, JavaScript, ReactJS;
+PHP e Laravel;
+PHP e Laravel;
+Conhecimento em base de dados (SQL Server, PostGree SQL, MySQL);
+Conhecimento em base de dados (SQL Server, PostGree SQL, MySQL);
+Frameworks de mercado (RabbitMQ, KeyCloack);
+Frameworks de mercado (RabbitMQ, KeyCloack);
+OOP, Web Services, APIs Restfull, XML, SOA;
+OOP, Web Services, APIs Restfull, XML, SOA;
+Versionamento de código: GIT
+Versionamento de código: GIT
+Conhecimento de arquitetura de aplicações e Design Patterns;
+Conhecimento de arquitetura de aplicações e Design Patterns;
+Conhecimento dos processos envolvendo análise de sistemas e troubleshooting;
+Conhecimento dos processos envolvendo análise de sistemas e troubleshooting;
+Protagonismo (autodidata, assumir desafios, engajado) e capacidade de trabalho em equipes auto gerenciáveis;
+Protagonismo (autodidata, assumir desafios, engajado) e capacidade de trabalho em equipes auto gerenciáveis;
+Ser proativo para atuação com senso de urgência.
+Ser proativo para atuação com senso de urgência.
+
+
+
+Desejável
+Desejável
+Desejável
+Conhecimentos em AWS;Conhecimentos em outras linguagens de programação (por ex.Next.JS, Java ou Python);Experiência com qualidade de codificação e boas práticas, tais como: TDD, testes unitários;Conhecimento/participação de processos ágeis de desenvolvimento com experiência em metodologia ágil Scrum, XP, Agile;Ter foco no cliente e resultado para entrega.
+Conhecimentos em AWS;
+Conhecimentos em AWS;
+Conhecimentos em outras linguagens de programação (por ex.Next.JS, Java ou Python);
+Conhecimentos em outras linguagens de programação (por ex.Next.JS, Java ou Python);
+
+Experiência com qualidade de codificação e boas práticas, tais como: TDD, testes unitários;
+Experiência com qualidade de codificação e boas práticas, tais como: TDD, testes unitários;
+Conhecimento/participação de processos ágeis de desenvolvimento com experiência em metodologia ágil Scrum, XP, Agile;
+Conhecimento/participação de processos ágeis de desenvolvimento com experiência em metodologia ágil Scrum, XP, Agile;
+Ter foco no cliente e resultado para entrega.
+Ter foco no cliente e resultado para entrega.
+
+
+
+NOSSO PACOTE DE REMUNERAÇÃO
+NOSSO PACOTE DE REMUNERAÇÃO
+NOSSO PACOTE DE REMUNERAÇÃO
+
+
+
+🏥 Seguro Saúde Amil: Cobertura nacional com coparticipação e extensivo aos seus dependentes diretos, garantindo a saúde de quem você ama.
+🏥 Seguro Saúde Amil: Cobertura nacional com coparticipação e extensivo aos seus dependentes diretos, garantindo a saúde de quem você ama.
+🦷 Seguro Dental Bradesco: Cobertura nacional com mensalidade e extensivo aos seus dependentes diretos, garantindo a saúde bucal de quem você ama (contratação opcional).
+🦷 Seguro Dental Bradesco: Cobertura nacional com mensalidade e extensivo aos seus dependentes diretos, garantindo a saúde bucal de quem você ama (contratação opcional).
+💳 Cartão Eletrônico de Benefícios (Swile): Modalidade flexível para gerenciar seu saldo conforme suas preferências. Categorias incluem: refeição, alimentação, home office, entre outros.
+💳 Cartão Eletrônico de Benefícios (Swile): Modalidade flexível para gerenciar seu saldo conforme suas preferências. Categorias incluem: refeição, alimentação, home office, entre outros.
+💪🏼 TotalPass: Acesso a uma variedade de atividades e estabelecimentos para promover o equilíbrio entre trabalho e lazer (contratação opcional).
+💪🏼 TotalPass: Acesso a uma variedade de atividades e estabelecimentos para promover o equilíbrio entre trabalho e lazer (contratação opcional).
+❤️‍🩹 Seguro de Vida: Proteção financeira para você e seus beneficiários.
+❤️‍🩹 Seguro de Vida: Proteção financeira para você e seus beneficiários.
+🚌 Vale Transporte: Conforme previsto em lei ou reembolso.
+🚌 Vale Transporte: Conforme previsto em lei ou reembolso.
+Auxílio mobilidade: Reembolso de corridas por aplicativo, fretado, passagem intermunicipal ou estacionamento, facilitando seu deslocamento (caso não opte pelo VT).
+Auxílio mobilidade: Reembolso de corridas por aplicativo, fretado, passagem intermunicipal ou estacionamento, facilitando seu deslocamento (caso não opte pelo VT).
+
+💰 Participação nos Lucros e Resultados (PLR): Atrelada ao cumprimento de metas, visando reconhecimento pelos esforços dedicados.
+💰 Participação nos Lucros e Resultados (PLR): Atrelada ao cumprimento de metas, visando reconhecimento pelos esforços dedicados.
+📈 Auxílio para Autodesenvolvimento: Valor anual para aquisição de livros, inscrições em treinamentos ou palestras voltadas para autodesenvolvimento.
+📈 Auxílio para Autodesenvolvimento: Valor anual para aquisição de livros, inscrições em treinamentos ou palestras voltadas para autodesenvolvimento.
+🧑‍🎓 Programa de Desenvolvimento: Conforme políticas e condições de elegibilidade vigentes, investimos em seu desenvolvimento profissional. (Pós, Graduação e Cursos de Idioma)
+🧑‍🎓 Programa de Desenvolvimento: Conforme políticas e condições de elegibilidade vigentes, investimos em seu desenvolvimento profissional. (Pós, Graduação e Cursos de Idioma)
+🎂 Day Off de Aniversário: Um dia de folga para tirar no dia ou ao longo do mês do seu aniversário, celebrando momentos especiais.
+🎂 Day Off de Aniversário: Um dia de folga para tirar no dia ou ao longo do mês do seu aniversário, celebrando momentos especiais.
+❤️ Jornada ICTS: Bonificações por tempo de casa, casamento ou nascimento, reconhecendo importantes fases da vida.
+❤️ Jornada ICTS: Bonificações por tempo de casa, casamento ou nascimento, reconhecendo importantes fases da vida.
+🧠 Qualidade de Vida (Eleva): Programas dedicados à saúde física e mental com suporte nutricional, psicológico, treinamento personalizado e acompanhamento especializado para gestantes.
+🧠 Qualidade de Vida (Eleva): Programas dedicados à saúde física e mental com suporte nutricional, psicológico, treinamento personalizado e acompanhamento especializado para gestantes.

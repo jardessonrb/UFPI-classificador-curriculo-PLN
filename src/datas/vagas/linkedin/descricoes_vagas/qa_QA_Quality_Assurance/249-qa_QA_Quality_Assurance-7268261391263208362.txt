@@ -1,0 +1,67 @@
+link-https://www.linkedin.com/jobs/view/4006138704/?eBP=CwEAAAGS7kbPsgGMSthLuQbDjyiMLqS5mkeLnLXadTwIAlfniNCHczFT11NtClGRSGq6j-PABWimd60l0gtIC7kXyzBfl_UUqHkW26F3ea0S8IdEd-eHGqgsYfr_MxJmzZV4v1CzS0GHRZJ7UIXYxyhqdu7yfitCPweqE0J7nX3u_K2T2UHK5N2IR8ZsWqlVS92NtnHhKSgnfnFaPJ9qqtfYFTG8LMQSbdStgsp_C-JlJW-6TMLyjE1nQCR_IR5N3YZMgNI0iheGuoO4b3wxIEd5toVNwEc-xAhHYi6kzyHAxyO9Ncp6ELuKctSihhzXbXSYPM6W1cq-tcoW_9kfpo5CySzEUrVPc9a9_sRl5bWqjuvzG3Q_1qZi8pOSm-8xL1QIfL-bm4YVT4XGtwIDKyG6pGO9Ax0QdFQ0hsFZRaAwokp0dEo95e_EQkKqxEs0_nHBBKBmJF85Gwnu1JgyRnQFBvQRy-rwSAndVY0gVV8fXy5ImRNijihOj2lHRBz9NC1V2f-94BM&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=CMnYJ29hnbbH36asFwwUwQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance Analyst (Remote) - Brazil
+Sobre a vaga
+The RoleAlphaSights is looking for a self-driven Quality Assurance Analyst to join the Software Engineering Team. We are a digital business in which continuous uptime and smooth IT experience is central to our success. The role of the QA Analyst therefore represents a visible and valued opportunity to have an immediate impact. Working alongside Software Engineering and Product Management, you will focus on supporting the user experience while vetting new and innovative products and features, as well as enhancing existing ones.You will be given areas of responsibility and be expected to manage your own time. You will need to maintain a positive, problem-solving mindset, and be attracted by the challenge of delivering high quality support in a fast-paced environment. You must be proactive, creative, and enjoy interacting with other people. You will always be looking for ways to improve your own work while at the same time being committed to helping the wider team succeed. You are excited to make the most of on-the-job and classroom-based learning, and the opportunity to dive into the field of IT through exposure to a wide array of different technologies, regions, and challenges.Working largely with the teams based in the US, you will also have the opportunity to work with teams based in other offices across EMEA and Asia.What You’ll DoCreate and manage test plans, test suites, and test cases across multiple projects.Manually Test a variety of applications, tracking test execution dataProvide feedback for UI/UX improvements/enhancementsCreate and track bugs/defects throughout the software development lifecycle in JiraTroubleshoot and debug user issues with applicationsCollaborate with Development and Product teams to identify parameters, environment configs and edge casesWho You AreHave 3+ years of relevant experience in previous QA rolesAttained a Bachelor's degree, strong preference for relevant fields (Computer Science, Management Information Systems/Services, Computer Information Systems etc.)Experience within an agile environmentHave solid technical troubleshooting skills & experienceExperience with Jira, Azure DevOps or another significant bug tracking and project management systemExperience using a test management tool.Bonus Points If You HaveExperience testing APIsExperience writing codeExperience with automated testing using Selenium, Cypress, or any other frameworkLearn more about our tech organization! Don't worry if your experience or background doesn't match all of these areas, we believe a broad spectrum of experience provides great perspective on solving problems in new and innovative ways and we’d love to hear from you.Please note that unfortunately, we are unable to sponsor visas for this position. AlphaSights is an equal opportunity employer.THIS IS A REMOTE POSITION EXCLUSIVELY FOR BRAZILIAN CITIZENS.
+The Role
+
+
+
+
+
+
+
+
+What You’ll Do
+
+
+Create and manage test plans, test suites, and test cases across multiple projects.Manually Test a variety of applications, tracking test execution dataProvide feedback for UI/UX improvements/enhancementsCreate and track bugs/defects throughout the software development lifecycle in JiraTroubleshoot and debug user issues with applicationsCollaborate with Development and Product teams to identify parameters, environment configs and edge cases
+Create and manage test plans, test suites, and test cases across multiple projects.
+Create and manage test plans, test suites, and test cases across multiple projects.
+Manually Test a variety of applications, tracking test execution data
+Manually Test a variety of applications, tracking test execution data
+Provide feedback for UI/UX improvements/enhancements
+Provide feedback for UI/UX improvements/enhancements
+Create and track bugs/defects throughout the software development lifecycle in Jira
+Create and track bugs/defects throughout the software development lifecycle in Jira
+Troubleshoot and debug user issues with applications
+Troubleshoot and debug user issues with applications
+Collaborate with Development and Product teams to identify parameters, environment configs and edge cases
+Collaborate with Development and Product teams to identify parameters, environment configs and edge cases
+
+
+Who You Are
+
+
+Have 3+ years of relevant experience in previous QA rolesAttained a Bachelor's degree, strong preference for relevant fields (Computer Science, Management Information Systems/Services, Computer Information Systems etc.)Experience within an agile environmentHave solid technical troubleshooting skills & experienceExperience with Jira, Azure DevOps or another significant bug tracking and project management systemExperience using a test management tool.
+Have 3+ years of relevant experience in previous QA roles
+Have 3+ years of relevant experience in previous QA roles
+Attained a Bachelor's degree, strong preference for relevant fields (Computer Science, Management Information Systems/Services, Computer Information Systems etc.)
+Attained a Bachelor's degree, strong preference for relevant fields (Computer Science, Management Information Systems/Services, Computer Information Systems etc.)
+Experience within an agile environment
+Experience within an agile environment
+Have solid technical troubleshooting skills & experience
+Have solid technical troubleshooting skills & experience
+Experience with Jira, Azure DevOps or another significant bug tracking and project management system
+Experience with Jira, Azure DevOps or another significant bug tracking and project management system
+Experience using a test management tool.
+Experience using a test management tool.
+
+
+Bonus Points If You Have
+
+
+Experience testing APIsExperience writing codeExperience with automated testing using Selenium, Cypress, or any other framework
+Experience testing APIs
+Experience testing APIs
+Experience writing code
+Experience writing code
+Experience with automated testing using Selenium, Cypress, or any other framework
+Experience with automated testing using Selenium, Cypress, or any other framework
+
+
+
+
+
+
+THIS IS A REMOTE POSITION EXCLUSIVELY FOR BRAZILIAN CITIZENS.

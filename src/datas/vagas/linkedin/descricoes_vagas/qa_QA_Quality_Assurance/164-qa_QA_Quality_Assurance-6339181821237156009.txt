@@ -1,0 +1,125 @@
+link-https://www.linkedin.com/jobs/view/4054481836/?eBP=CwEAAAGS7kZibNYywWFyEG_fbGyUa6Iz9yLaWBExrrUFLXfQCISEWpfe3Dn942yWpQE-9ko_oNfa2GQv16QyK4xDAC1JShh_Iq5Yapz-0_x8JeDgzogupwwe1CS03yJ_-kuZ1KD7joToFy84-hZwZT3NVVhaDe0AEXz3k7j1XI4WeFeAa-yPM1AvWLUHPfFAXxTDj77JGna5aBvk0PuTw8QQ9spt0u2ID2oeuyTHea9V_Ein6V9YY4HNRNYiV5BJryaoO3c7p7c5uImmYN9XXOvEZmS4cvuHdkgnvSRGASqC9LkKCIzJwYf9Xy3paWeV4Vk989Ts_BTAhXvVVmTIAtu5feFkfX7HVYuWQZ4QphO9SgyryzM74TZM03pVtZ1lvUz36DCWzaw-vk4Aa07cOAXblZmnWvdKQbE3IWquMTCeiDkuv91IWsNURKQpJeWIJhYc7eiYYmRMUMwVahsURW6nr_9ZYFsCdEJ5QqkRv1_XHWao3MVle1joMzJnDghFu3xWU4AgSSo_3Q&refId=mxIoa6bb1wtPLR0m6yHB%2BQ%3D%3D&trackingId=z38JkiNHrC7%2BgG2tW%2FvGJw%3D%3D&trk=flagship3_search_srp_jobs
+
+Lead QA Engineer - Brazil (Contract)
+Sobre a vaga
+First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30%+ each year over the last nine years.Here you will find hard-working colleagues who come from over 20 countries. We hold ourselves to the highest standards of professionalism but also enjoy our work. Our culture and benefits are geared towards making you successful in life and comfortable at work.Your Title:Lead QA EngineerYour Location:Hybrid/Brazil HQ address - Nações Unidas 12901 - São Paulo - SP (required to go to the office two days a week)You Report To:Engineering ManagerMust be able to speak English AND Portuguese fluentlyLearn more about our awesomeEngineering teamAbout the OpportunityFirst Help Financial, voted and certified as a "Great Place to Work" by our workforce for three years in a row, is adding a new partner to our Engineering department to accommodate our remarkable growth! This individual will lead the quality and testing effort for a Scrum Team and push quality process above and beyond standards.What you will do:Your responsibilities but not limited to:Build and execute manual and automated test casesCollaborate with other team members, build a long-term quality strategy and drive the successful implementation over timeProvide expertise on the grooming, estimating, and testing of the stories in a sprintSupport scrum team in the creation of proper test casesTrack and report bugs that have been foundManage testing resources as needed to complete the sprint and overall epic goalsDevelop smoke tests, sanity tests, performance, and reliability testing as neededProvide quality metrics and expert insight into the health of the softwareUse appropriate quality tools and infrastructure to scale and manage our testing effortEnhance and improve the testing methodology for better results, increased productivity, and higher quality, becoming the QA expert in the teamWhat you bring:Demonstrate historical career stabilityProven experience as a QA Engineer with a focus on automated testing using Selenium WebDriver, TestNG, Maven, Cypress etc.4+ experience as a QA engineer in an Agile environmentBias for action shifting-left Test and Quality Advocacy during development process.Knowledge of JIRA, Automation Anywhere, TestRail, and Postman strongly preferredComputer Science degree strongly preferredKnowledge of Financial software, environments, and industry strongly preferredAbility to define a testing strategy using different tests: manual, unit, end-to-end, integration, etc.Strong understanding of software quality practices, tools, and methodologiesKnowledge of testing tools and their best application for specific needsKnowledge of testing metrics and how to use them for best results (i.e. Test Coverage, for bugs MTTF Mean time to Fix, for incidents MTTR Mean Time to Recovery, MTBF)Detail oriented, analytical, and inquisitive; big picture thinking but can be hands on.Exploratory Testing and ability to catch Edge Cases Scenarios.Ability to do impact analysisFHF Benefits...Great Perks - We offer generous salaries, competitive health and welfare benefits (medical, dental, vision, LTD/STD, Identity theft, paid parental leave and much more), paid vacation, 401(k) match, tuition reimbursement, social activities, monthly lunches, a robust employee recognition and talent development program to enhance your career with us.Culture - We are believers in maintaining a healthy work-life balance. While we work hard and care deeply about our customers and partners, we want you to have room for your family, friends, and yourself.Growth - Company growth provides unprecedented career growth. FHF's extraordinary year over year growth in revenue and new markets provides opportunity for you to establish and develop your career growth. We engage each employee to build a career plan that benefits everyone and we have a proven record of investing in you.Diversity and InclusionFHF is committed to building a culture that respects and embraces all walks of life, inclusive of gender, race, culture, age, sexual orientation, and other identities. We will make accommodations when interviewing anyone with special needs.
+First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30%+ each year over the last nine years.Here you will find hard-working colleagues who come from over 20 countries. We hold ourselves to the highest standards of professionalism but also enjoy our work. Our culture and benefits are geared towards making you successful in life and comfortable at work.
+First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30%+ each year over the last nine years.Here you will find hard-working colleagues who come from over 20 countries. We hold ourselves to the highest standards of professionalism but also enjoy our work. Our culture and benefits are geared towards making you successful in life and comfortable at work.
+
+
+
+
+
+Your Title:Lead QA Engineer
+Your Title:Lead QA Engineer
+Your Title:
+Your Title:
+
+Your Location:Hybrid/Brazil HQ address - Nações Unidas 12901 - São Paulo - SP (required to go to the office two days a week)
+Your Location:Hybrid/Brazil HQ address - Nações Unidas 12901 - São Paulo - SP (required to go to the office two days a week)
+Your Location:
+Your Location:
+
+You Report To:Engineering Manager
+You Report To:Engineering Manager
+You Report To:
+You Report To:
+
+Must be able to speak English AND Portuguese fluently
+Must be able to speak English AND Portuguese fluently
+Must be able to speak English AND Portuguese fluently
+Must be able to speak English AND Portuguese fluently
+Learn more about our awesomeEngineering team
+Learn more about our awesomeEngineering team
+Learn more about our awesome
+
+About the Opportunity
+About the Opportunity
+About the Opportunity
+First Help Financial, voted and certified as a "Great Place to Work" by our workforce for three years in a row, is adding a new partner to our Engineering department to accommodate our remarkable growth! This individual will lead the quality and testing effort for a Scrum Team and push quality process above and beyond standards.
+First Help Financial, voted and certified as a "Great Place to Work" by our workforce for three years in a row, is adding a new partner to our Engineering department to accommodate our remarkable growth! This individual will lead the quality and testing effort for a Scrum Team and push quality process above and beyond standards.
+
+What you will do:
+What you will do:
+What you will do:
+What you will do:
+Your responsibilities but not limited to:
+Your responsibilities but not limited to:
+Build and execute manual and automated test casesCollaborate with other team members, build a long-term quality strategy and drive the successful implementation over timeProvide expertise on the grooming, estimating, and testing of the stories in a sprintSupport scrum team in the creation of proper test casesTrack and report bugs that have been foundManage testing resources as needed to complete the sprint and overall epic goalsDevelop smoke tests, sanity tests, performance, and reliability testing as neededProvide quality metrics and expert insight into the health of the softwareUse appropriate quality tools and infrastructure to scale and manage our testing effortEnhance and improve the testing methodology for better results, increased productivity, and higher quality, becoming the QA expert in the team
+Build and execute manual and automated test cases
+Build and execute manual and automated test cases
+Collaborate with other team members, build a long-term quality strategy and drive the successful implementation over time
+Collaborate with other team members, build a long-term quality strategy and drive the successful implementation over time
+Provide expertise on the grooming, estimating, and testing of the stories in a sprint
+Provide expertise on the grooming, estimating, and testing of the stories in a sprint
+Support scrum team in the creation of proper test cases
+Support scrum team in the creation of proper test cases
+Track and report bugs that have been found
+Track and report bugs that have been found
+Manage testing resources as needed to complete the sprint and overall epic goals
+Manage testing resources as needed to complete the sprint and overall epic goals
+Develop smoke tests, sanity tests, performance, and reliability testing as needed
+Develop smoke tests, sanity tests, performance, and reliability testing as needed
+Provide quality metrics and expert insight into the health of the software
+Provide quality metrics and expert insight into the health of the software
+Use appropriate quality tools and infrastructure to scale and manage our testing effort
+Use appropriate quality tools and infrastructure to scale and manage our testing effort
+Enhance and improve the testing methodology for better results, increased productivity, and higher quality, becoming the QA expert in the team
+Enhance and improve the testing methodology for better results, increased productivity, and higher quality, becoming the QA expert in the team
+
+What you bring:
+What you bring:
+What you bring:
+What you bring:
+Demonstrate historical career stabilityProven experience as a QA Engineer with a focus on automated testing using Selenium WebDriver, TestNG, Maven, Cypress etc.4+ experience as a QA engineer in an Agile environmentBias for action shifting-left Test and Quality Advocacy during development process.Knowledge of JIRA, Automation Anywhere, TestRail, and Postman strongly preferredComputer Science degree strongly preferredKnowledge of Financial software, environments, and industry strongly preferredAbility to define a testing strategy using different tests: manual, unit, end-to-end, integration, etc.Strong understanding of software quality practices, tools, and methodologiesKnowledge of testing tools and their best application for specific needsKnowledge of testing metrics and how to use them for best results (i.e. Test Coverage, for bugs MTTF Mean time to Fix, for incidents MTTR Mean Time to Recovery, MTBF)Detail oriented, analytical, and inquisitive; big picture thinking but can be hands on.Exploratory Testing and ability to catch Edge Cases Scenarios.Ability to do impact analysis
+Demonstrate historical career stability
+Demonstrate historical career stability
+Proven experience as a QA Engineer with a focus on automated testing using Selenium WebDriver, TestNG, Maven, Cypress etc.
+Proven experience as a QA Engineer with a focus on automated testing using Selenium WebDriver, TestNG, Maven, Cypress etc.
+4+ experience as a QA engineer in an Agile environment
+4+ experience as a QA engineer in an Agile environment
+Bias for action shifting-left Test and Quality Advocacy during development process.
+Bias for action shifting-left Test and Quality Advocacy during development process.
+Knowledge of JIRA, Automation Anywhere, TestRail, and Postman strongly preferred
+Knowledge of JIRA, Automation Anywhere, TestRail, and Postman strongly preferred
+Computer Science degree strongly preferred
+Computer Science degree strongly preferred
+Knowledge of Financial software, environments, and industry strongly preferred
+Knowledge of Financial software, environments, and industry strongly preferred
+Ability to define a testing strategy using different tests: manual, unit, end-to-end, integration, etc.
+Ability to define a testing strategy using different tests: manual, unit, end-to-end, integration, etc.
+Strong understanding of software quality practices, tools, and methodologies
+Strong understanding of software quality practices, tools, and methodologies
+Knowledge of testing tools and their best application for specific needs
+Knowledge of testing tools and their best application for specific needs
+Knowledge of testing metrics and how to use them for best results (i.e. Test Coverage, for bugs MTTF Mean time to Fix, for incidents MTTR Mean Time to Recovery, MTBF)
+Knowledge of testing metrics and how to use them for best results (i.e. Test Coverage, for bugs MTTF Mean time to Fix, for incidents MTTR Mean Time to Recovery, MTBF)
+Detail oriented, analytical, and inquisitive; big picture thinking but can be hands on.
+Detail oriented, analytical, and inquisitive; big picture thinking but can be hands on.
+Exploratory Testing and ability to catch Edge Cases Scenarios.
+Exploratory Testing and ability to catch Edge Cases Scenarios.
+Ability to do impact analysis
+Ability to do impact analysis
+
+FHF Benefits...
+FHF Benefits...
+FHF Benefits...
+FHF Benefits...
+Great Perks - We offer generous salaries, competitive health and welfare benefits (medical, dental, vision, LTD/STD, Identity theft, paid parental leave and much more), paid vacation, 401(k) match, tuition reimbursement, social activities, monthly lunches, a robust employee recognition and talent development program to enhance your career with us.Culture - We are believers in maintaining a healthy work-life balance. While we work hard and care deeply about our customers and partners, we want you to have room for your family, friends, and yourself.Growth - Company growth provides unprecedented career growth. FHF's extraordinary year over year growth in revenue and new markets provides opportunity for you to establish and develop your career growth. We engage each employee to build a career plan that benefits everyone and we have a proven record of investing in you.
+Great Perks - We offer generous salaries, competitive health and welfare benefits (medical, dental, vision, LTD/STD, Identity theft, paid parental leave and much more), paid vacation, 401(k) match, tuition reimbursement, social activities, monthly lunches, a robust employee recognition and talent development program to enhance your career with us.
+Great Perks - We offer generous salaries, competitive health and welfare benefits (medical, dental, vision, LTD/STD, Identity theft, paid parental leave and much more), paid vacation, 401(k) match, tuition reimbursement, social activities, monthly lunches, a robust employee recognition and talent development program to enhance your career with us.
+Culture - We are believers in maintaining a healthy work-life balance. While we work hard and care deeply about our customers and partners, we want you to have room for your family, friends, and yourself.
+Culture - We are believers in maintaining a healthy work-life balance. While we work hard and care deeply about our customers and partners, we want you to have room for your family, friends, and yourself.
+
+Growth - Company growth provides unprecedented career growth. FHF's extraordinary year over year growth in revenue and new markets provides opportunity for you to establish and develop your career growth. We engage each employee to build a career plan that benefits everyone and we have a proven record of investing in you.
+Growth - Company growth provides unprecedented career growth. FHF's extraordinary year over year growth in revenue and new markets provides opportunity for you to establish and develop your career growth. We engage each employee to build a career plan that benefits everyone and we have a proven record of investing in you.
+ou.
+
+
+Diversity and Inclusion
+Diversity and Inclusion
+Diversity and Inclusion
+Diversity and Inclusion
+FHF is committed to building a culture that respects and embraces all walks of life, inclusive of gender, race, culture, age, sexual orientation, and other identities. We will make accommodations when interviewing anyone with special needs.
+FHF is committed to building a culture that respects and embraces all walks of life, inclusive of gender, race, culture, age, sexual orientation, and other identities. We will make accommodations when interviewing anyone with special needs.
+

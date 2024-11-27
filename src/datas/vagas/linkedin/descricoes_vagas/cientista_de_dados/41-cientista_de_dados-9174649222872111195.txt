@@ -1,0 +1,62 @@
+link-https://www.linkedin.com/jobs/view/4046242233/?eBP=CwEAAAGS7jUdtRAJ6Gq77sxsveaO3O-fcRJO0PH0hn1n0srw0_L1m5QGJHS1IjhPlCfDNKxDLhr5uhAsqQzG4k5e4R-RWybrYQJ2iLSC0nCOMTJGNBbXm6YcTgGTwlmoarUqiFxB4H6Iz4PeAkj0Yl9qQk1an4DfUdShCUWiGWbGg56zJJlrjkEdNCd1BfnyRZqimjfBbyNHvOs3XGHWupclMjG7TwiQk2Uj_EcFBT1XOkBvgVpFlq4dDYpzB3VOWCIjS4BxwqWIZMQZuCTI3qTKGNXSSTy21VRqDebfVnvYqxYAYvgop0EZPpuXIoGa4YCXOGTC7zWcRwzmR3CwBXS482DX-Xr-ao_W340xtu3_n2e3Dp8PWvHtvGdFOgETTtuYhcY8Q0A-Bv_Xsvg0mYQYSWjjlFx8kk8Oj9dzq9tWULI0Cl_C_IN5z1xldK7OZ8ykyK4wmK9nBG8jt3mGvXULwLkuOcMXkN6Zk_O0-ImKH-_pfc6yp3qfy90gnEWG0w&refId=0wF6uaryj8yl6vSyh5iUng%3D%3D&trackingId=u%2Fypay4QGfS35gxNzqGrlQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior - 3x presencial  - Campinas
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Desenvolver e manter scripts de scraping em Python para extrair dados de diversas fontes online;Limpar, transformar e organizar dados coletados para análise;Colaborar com equipes de engenharia e análise para integrar dados em sistemas internos;Identificar e resolver problemas relacionados à coleta de dados, garantindo a precisão e a integridade dos dados;Criar relatórios e visualizações para comunicar insights de dados a partes interessadas;Manter-se atualizado com as melhores práticas e ferramentas de scraping e análise de dadosExperiência prática com bibliotecas de scraping em Python, como BeautifulSoup, Scrapy ou Selenium;Conhecimento sólido de técnicas de limpeza e transformação de dados;Habilidade em trabalhar com grandes conjuntos de dados e realizar análises complexas;Experiência com bancos de dados relacionais e não relacionais (SQL, Mongo);Capacidade de resolver problemas de forma criativa e eficiente;Excelentes habilidades de comunicação e trabalho em equipeExperiência com ferramentas de visualização de dados (e.g., Tableau, Power BI);Conhecimento de machine learning e análise preditiva;Experiência em ambientes de big data e cloud computing.Habilidades ObrigatóriasPythonMachine learningHabilidades DesejáveisETLBigDataSQLNLPA vaga aceita trabalho remoto?Não
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PythonMachine learning
+Python
+Python
+Machine learning
+Machine learning
+
+
+
+
+ETLBigDataSQLNLP
+ETL
+ETL
+BigData
+BigData
+SQL
+SQL
+NLP
+NLP
+
+
+
+

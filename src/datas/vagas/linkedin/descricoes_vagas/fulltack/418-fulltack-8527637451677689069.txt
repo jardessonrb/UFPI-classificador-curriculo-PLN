@@ -1,0 +1,105 @@
+link-https://www.linkedin.com/jobs/view/4017086734/?eBP=CwEAAAGS7g-2lN4zd9vJ5Kzn5Q5n0PqIzaIV7QmClhnYvgtCiI39t3KvYC-Q8G5rA1cr6ogYYDjGy9xnr44c0ApNmW-ddG9dbH3FBctUq63BY4nQqJKxoBA00SwRck_IwegifoSQSs7OPOW20ChBw39KvDd0pc5J_-14z4nPP2hg0jRiKRBeFwx9dWcxgu6ougzo7NjbAyVhvox3ErCBeO3okHbaJqP4catnEg_KASOFUqXrkRDJRxA4kqW50o_GsOLiAB2A4_LvWuKdNFFZs442iI1wsuWXrA7_MCk28Zt7LxV-NfjZkl9U4mfDySVAacuFixAv_Bp8GL3qRqrQItXUDRr43kkawy0MhUzZkgV77oar3FUZvst3DrXsshiMAgk-ZYbMZnMaYqLdJw48oKaA4UoR8ipSpjBoda98c88HMVNqd6Es2VNtFGQxJvdxx9XYl8hwIdhWJLc5GAa5-Qql4VrPCFc0iFZRklxpzPTSdrL47CPpy44gr6Vg6q3XI1g0H50FIB4&refId=PKXH1xmTSoCQRkp4wX1P5A%3D%3D&trackingId=WzkvPNPm0NjuFfBurhIfbA%3D%3D&trk=flagship3_search_srp_jobs
+
+React.js/Spring Boot Fullstack Developer for E-Commerce | Senior
+Sobre a vaga
+Descrição da VagaResponsibilities and assignmentsVisão clara de todo o ciclo de desenvolvimento;Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.Requirements And QualificationsExperiência em Desenvolvimento Orientado a Objetos com Java 17+Experiência com Spring Boot, mensageria e cache;Experiência em testes unitários (jUnit);Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;Experiência em modelagem, documentação e implementação de APIs;Experiência com Git, Docker, Kubernets;Experiência com observabilidade de software;Práticas ágeis como Kanban;Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;Conhecimento em soluções Cloud (preferência - AWS);Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;Conhecimento de boas práticas de desenvolvimento;Conhecimento de bancos de dados relacionais e não relacionais;Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);Conhecimento em front-end (React, Typescript, Jest);Diferencial: Conhecimento em plataformas de e-commerce.Não possui todos os requisitos para a vaga?Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.Informações Adicionais#remote"remote"DREAM BIG WHEN IT COMES TO TECHNOLOGY. BE A COMPASSER! 🚀Compass UOL is a global technology company focused on AI-driven transformation. We are a team of 6,500 highly specialized professionals who are passionate about what they do. Together, we develop cutting-edge solutions to expand the businesses of the world’s largest companies and improve people’s lives. That’s why our selection process goes beyond technical skills. Our goal is to find unique individuals with the potential to make an extraordinary impact on our clients. We empower talent without borders and promote knowledge and opportunities in the latest market trends, driving significant results.Join us and be part of the AI-driven digital revolution in the technology universe.How Our Selection Process WorksONLINE APPLICATION Choose the opportunity that best fits your goals. Remember: having a well-detailed profile with your experiences and knowledge can make all the difference!INTERVIEWS Learn about our culture and company! During interviews, be present and do your best to share your expertise in a chronological and structured way.EVALUATION Our tests and assessments focus on finding talent with the cultural and technical fit for the position applied for.FEEDBACK Wait for our response regardless of the result! We have Gupy platform feedback certification.
+Descrição da Vaga
+
+
+
+
+Visão clara de todo o ciclo de desenvolvimento;Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.
+Visão clara de todo o ciclo de desenvolvimento;
+Visão clara de todo o ciclo de desenvolvimento;
+Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);
+Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);
+Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;
+Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;
+Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;
+Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;
+Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;
+Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;
+Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;
+Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;
+Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;
+Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;
+Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.
+Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.
+
+
+Requirements And Qualifications
+
+
+Experiência em Desenvolvimento Orientado a Objetos com Java 17+Experiência com Spring Boot, mensageria e cache;Experiência em testes unitários (jUnit);Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;Experiência em modelagem, documentação e implementação de APIs;Experiência com Git, Docker, Kubernets;Experiência com observabilidade de software;Práticas ágeis como Kanban;Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;Conhecimento em soluções Cloud (preferência - AWS);Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;Conhecimento de boas práticas de desenvolvimento;Conhecimento de bancos de dados relacionais e não relacionais;Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);Conhecimento em front-end (React, Typescript, Jest);Diferencial: Conhecimento em plataformas de e-commerce.
+Experiência em Desenvolvimento Orientado a Objetos com Java 17+
+Experiência em Desenvolvimento Orientado a Objetos com Java 17+
+Experiência com Spring Boot, mensageria e cache;
+Experiência com Spring Boot, mensageria e cache;
+Experiência em testes unitários (jUnit);
+Experiência em testes unitários (jUnit);
+Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;
+Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;
+Experiência em modelagem, documentação e implementação de APIs;
+Experiência em modelagem, documentação e implementação de APIs;
+Experiência com Git, Docker, Kubernets;
+Experiência com Git, Docker, Kubernets;
+Experiência com observabilidade de software;
+Experiência com observabilidade de software;
+Práticas ágeis como Kanban;
+Práticas ágeis como Kanban;
+Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;
+Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;
+Conhecimento em soluções Cloud (preferência - AWS);
+Conhecimento em soluções Cloud (preferência - AWS);
+Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;
+Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;
+Conhecimento de boas práticas de desenvolvimento;
+Conhecimento de boas práticas de desenvolvimento;
+Conhecimento de bancos de dados relacionais e não relacionais;
+Conhecimento de bancos de dados relacionais e não relacionais;
+Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);
+Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);
+Conhecimento em front-end (React, Typescript, Jest);
+Conhecimento em front-end (React, Typescript, Jest);
+Diferencial: Conhecimento em plataformas de e-commerce.
+Diferencial: Conhecimento em plataformas de e-commerce.
+
+
+
+
+
+
+
+Informações Adicionais
+Informações Adicionais
+Informações Adicionais
+
+
+
+
+
+
+
+
+
+
+Join us and be part of the AI-driven digital revolution in the technology universe.
+
+
+
+How Our Selection Process Works
+
+
+ONLINE APPLICATION Choose the opportunity that best fits your goals. Remember: having a well-detailed profile with your experiences and knowledge can make all the difference!INTERVIEWS Learn about our culture and company! During interviews, be present and do your best to share your expertise in a chronological and structured way.EVALUATION Our tests and assessments focus on finding talent with the cultural and technical fit for the position applied for.FEEDBACK Wait for our response regardless of the result! We have Gupy platform feedback certification.
+ONLINE APPLICATION Choose the opportunity that best fits your goals. Remember: having a well-detailed profile with your experiences and knowledge can make all the difference!
+ONLINE APPLICATION Choose the opportunity that best fits your goals. Remember: having a well-detailed profile with your experiences and knowledge can make all the difference!
+
+INTERVIEWS Learn about our culture and company! During interviews, be present and do your best to share your expertise in a chronological and structured way.
+INTERVIEWS Learn about our culture and company! During interviews, be present and do your best to share your expertise in a chronological and structured way.
+
+EVALUATION Our tests and assessments focus on finding talent with the cultural and technical fit for the position applied for.
+EVALUATION Our tests and assessments focus on finding talent with the cultural and technical fit for the position applied for.
+
+FEEDBACK Wait for our response regardless of the result! We have Gupy platform feedback certification.
+FEEDBACK Wait for our response regardless of the result! We have Gupy platform feedback certification.
+

@@ -1,0 +1,142 @@
+link-https://www.linkedin.com/jobs/view/4056930668/?eBP=CwEAAAGS7hBUB03XjZpEqbwAk9V1_K7uvXJ9sT1Bh-HiYCF9dh6I-VN5Kn03CLNOkBTWdTgnDhS92tjKuV4teLmg5yBtcqYivtliHmJtf_1Ghxe4jcxGFzGHZBEitI7ne2AcbgErRoqFSDFrWMKVMurTZap_Xpq1KI4DlCcJ2GdSvmIpVZ4X-Z1brPa16bBI6dDYIjtrXAEkM_Hj4HcECv8hQmuNUFcW4N1Bp9CbjHMe9OBSWgSZ4VRIiNtdMCfxAoJXyTDSqt3uN-0Uy3OZMnjjlIYkOcnU0TKPcUcIFz97Gi5qN7okYk_5DYod-PikY_fXiTc7ESUeGUr5GoBvq8DUN7ukeF0g6fSypun_rOg7WwLAZsHoZ2CkV2IDYZ3syP6KLaJVtrTOLS4_EZU-ple5aKxR3NvXaBFIQqFEYr_jyvtZXWiJd--KAQBMT3MIJQbtIq4jOvzRFte0RjDXgc2WSM1NUKfV9xgFf6tBELqmT_ILZvS5GlUTscshjFBQEJcQM8UA&refId=X81o41oDRu51%2BMj0ewR3zA%3D%3D&trackingId=MYsqlc8lCeGKR6VHnz%2Bk5A%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Full Stack Angular, React e Java - Sênior - São Paulo - Brasil
+Sobre a vaga
+DescriptionNa Deloitte, buscamos pessoas que queiram gerar impactos positivos todos os dias. Impulsionamos talentos para que possam se desenvolver em um ambiente colaborativo, com times diversos e que tragam energia, empoderamento, interação e conexões. O nosso crescimento é exponencial porque os talentos que recrutamos possuem os nossos valores em suas essências.Liderar o caminho, fomentar a inclusão, colaborar para mensurar impactos, servir com integridade e cuidar uns dos outros são pontos essenciais e inegociáveis para fortalecer ainda mais o nosso propósito.Você terá a oportunidade de evoluir sua carreira na maior organização de serviços profissionais do mundo atuando comoDesenvolvedor (a) Fullstackno time deCore Business Operations. Na sua rotina, você iráAtuar no end-to-end dos projetos com stacks altamente modernas, focado no desenvolvimento de uma aplicação on cloud, consumindo backlog de melhorias e implementação de novas funcionalidades.Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?Escolha seu impacto.RequirementsFormação superior em áreas relacionadas a tecnologia (Análise de Sistemas, Engenharia de Software), Engenharias, Matemática ou disciplinas afins, cursado ou cursando;Desenvolvimento Java (CDI, EJB, Hibernate, Spring boot, JPA);Desenvolvimento WEB (HTML, CSS, Javascript, JQuery, Node e Angular);Conhecimento em arquitetura de microserviços;APIs REST, Webservices, Websocket, XML, Json, Spring Framework;Experiência em controle de versionamento Git;Bancos de Dados Relacionais (Oracle) e não relacionais (MongoDB);Filas de Mensageria como SQS, RabbitMQ, MSMQFamiliaridade com ambientes de Cloud Computing, preferencialmente AWS.Requisitos obrigatórios:Conhecimentos de metodologias ágeis (Scrum e KanBan);Desenvolvimento Web Responsivo;Jira para controle de Projetos Agile;Maven;CI/CD;Jenkis;Swagger.Java;Oracle;MongoDB;BenefitsDesenvolvimento profissionalÉ claro que cuidaríamos do seu desenvolvimento aqui na Deloitte! Queremos que você alcance seus objetivos profissionais e pessoais e, por isso, contamos com Universidade Corporativa, acesso a plataformas online de aprendizado, plataforma de idiomas com mais de 7.500 conteúdos e cerca de 60 cursos divididos por nível, área de atuação, habilidades profissionais e interesses, e até uma plataforma que reúne diversas instituições de ensino, fornecendo descontos exclusivos para profissionais Deloitte e seus dependentes.Além disso, oferecemos um plano de carreira estruturado, com mentoria de profissionais da Deloitte por meio de um(a) coach, que poderá ouvir seus desafios e apoiar para que consiga evoluir tanto com habilidades técnicas, quanto com habilidades comportamentais com base na própria experiência. É ótimo ter uma pessoa mentora, não é mesmo?Cuidados com o seu bem-estarAqui na Deloitte, acreditamos que saúde e bem-estar não são apenas projetos, e sim uma mudança de cultura. Queremos que você coloque em prática todo o seu talento e desenvolva uma carreira de sucesso com a gente, com equilíbrio entre Mente, Corpo e Propósito. Para isso, contamos com mais de 30 benefícios, como:Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa!Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especialGympass para colocar os exercícios físicos em diaDia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vidaCanal de apoio psicológicoe Serviço Social(Mais) BenefíciosAssistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar*Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmenteAuxílio-internet, para apoiar no trabalho em modelo híbridoSeguro de vida*Vale refeição / alimentação*Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.Oportunidade de fazer parte de uma cultura inclusivaVocê pode ser quem realmente é com oportunidade igual de crescimento. Para reforçar esse compromisso, desenvolvemos a estratégia globalALLINcom os 8 pilares – Origens, Jovem Aprendiz, STEM, Delas, LGBT+, Inclui, No Borders e Geração 50+.Destacamos que todas as nossas vagas estão abertas ao público PcD.Esperamos você neste time!
+Description
+
+
+
+
+
+
+
+Desenvolvedor (a) Fullstack
+
+Core Business Operations
+
+
+
+Atuar no end-to-end dos projetos com stacks altamente modernas, focado no desenvolvimento de uma aplicação on cloud, consumindo backlog de melhorias e implementação de novas funcionalidades.
+Atuar no end-to-end dos projetos com stacks altamente modernas, focado no desenvolvimento de uma aplicação on cloud, consumindo backlog de melhorias e implementação de novas funcionalidades.
+Atuar no end-to-end dos projetos com stacks altamente modernas, focado no desenvolvimento de uma aplicação on cloud, consumindo backlog de melhorias e implementação de novas funcionalidades.
+
+
+
+Acreditamos na força dos talentos que preparamos. Eles transformam de fato, impactam organizações, impulsionam mais talentos e criam oportunidades. Que tal fazer parte da maior organização de serviços profissionais do mundo?Escolha seu impacto.
+
+Escolha seu impacto.
+
+
+Requirements
+
+
+Formação superior em áreas relacionadas a tecnologia (Análise de Sistemas, Engenharia de Software), Engenharias, Matemática ou disciplinas afins, cursado ou cursando;Desenvolvimento Java (CDI, EJB, Hibernate, Spring boot, JPA);Desenvolvimento WEB (HTML, CSS, Javascript, JQuery, Node e Angular);Conhecimento em arquitetura de microserviços;APIs REST, Webservices, Websocket, XML, Json, Spring Framework;Experiência em controle de versionamento Git;Bancos de Dados Relacionais (Oracle) e não relacionais (MongoDB);Filas de Mensageria como SQS, RabbitMQ, MSMQFamiliaridade com ambientes de Cloud Computing, preferencialmente AWS.
+Formação superior em áreas relacionadas a tecnologia (Análise de Sistemas, Engenharia de Software), Engenharias, Matemática ou disciplinas afins, cursado ou cursando;
+Formação superior em áreas relacionadas a tecnologia (Análise de Sistemas, Engenharia de Software), Engenharias, Matemática ou disciplinas afins, cursado ou cursando;
+Desenvolvimento Java (CDI, EJB, Hibernate, Spring boot, JPA);
+Desenvolvimento Java (CDI, EJB, Hibernate, Spring boot, JPA);
+Desenvolvimento WEB (HTML, CSS, Javascript, JQuery, Node e Angular);
+Desenvolvimento WEB (HTML, CSS, Javascript, JQuery, Node e Angular);
+Conhecimento em arquitetura de microserviços;
+Conhecimento em arquitetura de microserviços;
+APIs REST, Webservices, Websocket, XML, Json, Spring Framework;
+APIs REST, Webservices, Websocket, XML, Json, Spring Framework;
+Experiência em controle de versionamento Git;
+Experiência em controle de versionamento Git;
+Bancos de Dados Relacionais (Oracle) e não relacionais (MongoDB);
+Bancos de Dados Relacionais (Oracle) e não relacionais (MongoDB);
+Filas de Mensageria como SQS, RabbitMQ, MSMQ
+Filas de Mensageria como SQS, RabbitMQ, MSMQ
+Familiaridade com ambientes de Cloud Computing, preferencialmente AWS.
+Familiaridade com ambientes de Cloud Computing, preferencialmente AWS.
+
+
+
+Requisitos obrigatórios
+
+
+Conhecimentos de metodologias ágeis (Scrum e KanBan);Desenvolvimento Web Responsivo;Jira para controle de Projetos Agile;Maven;CI/CD;Jenkis;Swagger.Java;Oracle;MongoDB;
+Conhecimentos de metodologias ágeis (Scrum e KanBan);
+Conhecimentos de metodologias ágeis (Scrum e KanBan);
+Desenvolvimento Web Responsivo;
+Desenvolvimento Web Responsivo;
+Jira para controle de Projetos Agile;
+Jira para controle de Projetos Agile;
+Maven;
+Maven;
+CI/CD;
+CI/CD;
+Jenkis;
+Jenkis;
+Swagger.
+Swagger.
+Java;
+Java;
+Oracle;
+Oracle;
+MongoDB;
+MongoDB;
+
+
+Benefits
+
+
+Desenvolvimento profissional
+
+
+
+
+
+
+Cuidados com o seu bem-estar
+
+
+
+
+
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa!Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especialGympass para colocar os exercícios físicos em diaDia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vidaCanal de apoio psicológicoe Serviço Social
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa!
+Serviço de telemedicina para que você consiga fazer uma pré-avaliação sem precisar sair de casa!
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial
+Family Strategy: programa destinados à profissionais gestantes e futuros papais que terão todo apoio possível neste momento tão especial
+Gympass para colocar os exercícios físicos em dia
+Gympass para colocar os exercícios físicos em dia
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida
+Dia de folga no mês do seu aniversário, para celebrar uma das pessoas mais importantes de sua vida
+Canal de apoio psicológicoe Serviço Social
+Canal de apoio psicológicoe Serviço Social
+Canal de apoio psicológicoe Serviço Social
+
+
+(Mais) Benefícios
+
+
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar*Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmenteAuxílio-internet, para apoiar no trabalho em modelo híbridoSeguro de vida*Vale refeição / alimentação*Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar*
+Assistência médica e odontológica! Para que você faça check-ups e cuide de você, em primeiro lugar*
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente
+Participação nos lucros. Afinal, sem os nossos talentos, não poderíamos crescer exponencialmente
+Auxílio-internet, para apoiar no trabalho em modelo híbrido
+Auxílio-internet, para apoiar no trabalho em modelo híbrido
+Seguro de vida*
+Seguro de vida*
+Vale refeição / alimentação*
+Vale refeição / alimentação*
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+Pacote de benefícios flexíveis: você receberá pontos e poderá distribui-los entre as opções que melhor se adequam às suas necessidades de acordo com as regras do programa.
+
+
+Oportunidade de fazer parte de uma cultura inclusiva
+
+
+
+IN
+
+
+
+Destacamos que todas as nossas vagas estão abertas ao público PcD.
+
+
+
+Esperamos você neste time!

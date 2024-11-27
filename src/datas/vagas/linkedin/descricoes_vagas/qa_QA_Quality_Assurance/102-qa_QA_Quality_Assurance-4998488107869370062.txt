@@ -1,0 +1,68 @@
+link-https://www.linkedin.com/jobs/view/4029971960/?eBP=CwEAAAGS7kbPsrP2nshhZPGjoLQAfDoKN7FIchHI0JdLcVUV2mct4yYeyCKxf_cB1CCoHL5Y-wJ8--AfRj8Sn8wTIBNxWgRB2F9mv6wPeP37iHOW-4d-qmisJoKMSvlDhqsx-MbOqN2z2rORGRWpmn_O_oUlN7LZgZRMs7RFfTVpjCHLbcFwiX3TTBTtcI2YBJC_DkPL1QjRW1P2uuXd6p0aGzRYh3PgLRgVsEjRz3ajdiK9rfbbJuhsnJ3d3KO1742V8wvM98hl9VFrajBzaOkILJq8NJS9-52luB6FkjIKpuqXaQX0r_3x0COfBwFSwcb3ayIx7yVj2tIiDa3xW6FYQoegSCo4WVZJxPI4SfXavhLPVd91xpg3gxTzGEeaNd_slDiXgu3nkKp6r0kGDImWK3qW0SABpeRfdfpRx-9tA5nPizmvnZs-d3uACiTJSLdtFRVBTXmzQ7Dcd3rK41Hu3hVqZi33vfjWY-u36evTBZrvtlZUSp93irQGMrDErr9KfyNB&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=9%2BqICsr%2ByvT3O7UWCLksMQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista QA | Remoto
+Sobre a vaga
+SOBRE A CAPCOA Capco é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!ResponsabilidadesPlanejar, desenhar e executar testes automatizados e manuais para garantir a qualidade das aplicações e infraestrutura.Utilizar uma ampla gama de ferramentas de teste para detectar e documentar defeitos.Colaborar com equipes de desenvolvimento para entender os requisitos e garantir que as soluções atendam às expectativas de qualidade.Habilidades e ConhecimentosGrasduação em TI e áreas correlatas.Experiência com automação de testes e uso de diversas ferramentas de QA como Jira, ALM Octane, TestLink, HP UFT, e Azure Test Plan.Habilidade para escrever e manter scripts de teste que abranjam casos de uso complexos.Profundo entendimento dos princípios de qualidade de software e melhores práticas de teste.FerramentasExperiencia com: Azure Test Plan, Sauce Labs, Jmeter, SonarQubeConhecimentos em:ALM Octane, TestLink, HP UFT, Git, Postman, Insomnia,Jira - utilizada para rastrear bugs e gerenciar testes.DesejávelCertificações em QA, como ISTQB ou CSTE.Por Que CapcoJuntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!Próximos PassosSe você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+SOBRE A CAPCO
+
+
+
+
+
+Responsabilidades
+
+
+Planejar, desenhar e executar testes automatizados e manuais para garantir a qualidade das aplicações e infraestrutura.Utilizar uma ampla gama de ferramentas de teste para detectar e documentar defeitos.Colaborar com equipes de desenvolvimento para entender os requisitos e garantir que as soluções atendam às expectativas de qualidade.
+Planejar, desenhar e executar testes automatizados e manuais para garantir a qualidade das aplicações e infraestrutura.
+Planejar, desenhar e executar testes automatizados e manuais para garantir a qualidade das aplicações e infraestrutura.
+Utilizar uma ampla gama de ferramentas de teste para detectar e documentar defeitos.
+Utilizar uma ampla gama de ferramentas de teste para detectar e documentar defeitos.
+Colaborar com equipes de desenvolvimento para entender os requisitos e garantir que as soluções atendam às expectativas de qualidade.
+Colaborar com equipes de desenvolvimento para entender os requisitos e garantir que as soluções atendam às expectativas de qualidade.
+
+
+Habilidades e Conhecimentos
+
+
+Grasduação em TI e áreas correlatas.Experiência com automação de testes e uso de diversas ferramentas de QA como Jira, ALM Octane, TestLink, HP UFT, e Azure Test Plan.Habilidade para escrever e manter scripts de teste que abranjam casos de uso complexos.Profundo entendimento dos princípios de qualidade de software e melhores práticas de teste.
+Grasduação em TI e áreas correlatas.
+Grasduação em TI e áreas correlatas.
+Experiência com automação de testes e uso de diversas ferramentas de QA como Jira, ALM Octane, TestLink, HP UFT, e Azure Test Plan.
+Experiência com automação de testes e uso de diversas ferramentas de QA como Jira, ALM Octane, TestLink, HP UFT, e Azure Test Plan.
+Habilidade para escrever e manter scripts de teste que abranjam casos de uso complexos.
+Habilidade para escrever e manter scripts de teste que abranjam casos de uso complexos.
+Profundo entendimento dos princípios de qualidade de software e melhores práticas de teste.
+Profundo entendimento dos princípios de qualidade de software e melhores práticas de teste.
+
+
+Ferramentas
+
+
+Experiencia com: Azure Test Plan, Sauce Labs, Jmeter, SonarQubeConhecimentos em:ALM Octane, TestLink, HP UFT, Git, Postman, Insomnia,Jira - utilizada para rastrear bugs e gerenciar testes.
+Experiencia com: Azure Test Plan, Sauce Labs, Jmeter, SonarQube
+Experiencia com: Azure Test Plan, Sauce Labs, Jmeter, SonarQube
+Conhecimentos em:ALM Octane, TestLink, HP UFT, Git, Postman, Insomnia,
+Conhecimentos em:ALM Octane, TestLink, HP UFT, Git, Postman, Insomnia,
+Jira - utilizada para rastrear bugs e gerenciar testes.
+Jira - utilizada para rastrear bugs e gerenciar testes.
+
+
+Desejável
+
+
+Certificações em QA, como ISTQB ou CSTE.
+Certificações em QA, como ISTQB ou CSTE.
+Certificações em QA, como ISTQB ou CSTE.
+
+
+Por Que Capco
+
+
+
+
+Próximos Passos
+
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!

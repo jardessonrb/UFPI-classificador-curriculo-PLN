@@ -1,0 +1,89 @@
+link-https://www.linkedin.com/jobs/view/4043504926/?eBP=CwEAAAGS7lLybNlSeONnfDjrTuQw1OU-j_88lxUj_aLIkAiWv968OwLxEHa8I2BO7OIYFGXKfi4hllmsukT1jVhKx-GWcMVzKB2_Yl_akzM-055u_rHlvk3DBcd4oGCW7GedTCSaHc7AtlSyoRlYO-KQ9a9O0gg5NmFj2XTB5XmSyecP4BQBAZ9vwsbTPFTGm9t2fGoMu5jUkAkWpCSsawVpNTtJ9lZOK-EQnYfGGj0JlLbU__77_9Z1tCrrf-LeAqlJXuLx_KWo1oP1UFD_chPthBdKD1WPX6EOVDnsnmHSuuV8f1CQzWtmbSgsNmADtuy2swjnKT5xmfnamQJPUp_47DWCmz3LeSiaqieca4vzPmiAXpfTMRauSn2WwPaX_vorptZcmeo8qOnot3MrwvmZrCBAphImiDsiGBDaGk2rSMXpBO3cS_d8iwG2h0k-pPWcyBZ_HBt_9NffJKHvBtObgSwtZPMYHxk8bzCRym4m1IgBpUhfA362re6ReGM&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=kqIyYLp5RZHmmZ2HNm7FQA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back-End Sênior
+Sobre a vaga
+Conheça a genteSomos uma startup recifense apaixonada por tecnologia e dedicada ao desenvolvimento de produtos digitais inovadores. Adoramos desafios e amamos tecnologia. Essa é uma vaga para o time de Desenvolvimento Back-End e é para quem é apaixonado pelo que faz, acredita que uma solução vai muito além do código entregue e quer gerar valor para o cliente, sempre estando nas trincheiras da revolução tecnológica! Se tudo isso faz seu olho brilhar, aqui é seu lugar!Sobre a oportunidadeEstamos em busca de um Desenvolvedor Back-End Sênior para integrar nossa equipe de tecnologia.Seu papel principal será atuar no desenvolvimento de nossas APIs. O desafio é trazer soluções de forma eficiente, consistente, escalável e adaptável, sempre buscando balancear com a melhor clareza do que foi implementado.Responsabilidades principaisDesenvolvimento de APIs utilizando Node.js, Express, Sequelize e MySQL.Mentorar e ajudar outros memebros do time com suas atividades técnicas.Documentar, arquitetar e implementar soluções para problemas do produto, incluindo capacidade de delegar parte das atividades.Utilização de plataformas low-code / no-code para implementação de regras de negócioColaborar com outros membros do time e gerentes de projeto para traduzir requisitos de negócios em soluções técnicas.Garantir a eficiência, escalabilidade e adaptabilidade do código, sempre buscando a melhor clareza.Garantir a conformidade das entregas, sempre realizando testes.Manter-se atualizado(a) com as melhores práticas e tendências em desenvolvimento back-end, contribuindo para a evolução contínua da equipe e dos projetos.O candidato ideal temExperiência liderando desenvolvedores;Experiência entregando projetos de desenvolvimento complexos no prazo;Experiência sólida em desenolvimento de APIs;Experiência com Docker;Experiência com GCP (Cloud Run, Cloud Storage, Cloud SQL, BigQuery, etc.);Interesse gerenciamento de infraestruturas de nuvemInteresse em no-code / low-codeAlgum conhecimento de bibliotecas ou frameworks frontend populares, como React, Vue.js ou Angular;Capacidade de trabalhar de forma colaborativa em um ambiente ágil, adaptando-se a mudanças e prioridades em constante evolução;Excelentes habilidades de comunicação e trabalho em equipe;Proatividade e orientação a resultados;Busca constante por alta performance, superação de desafios e constante aprendizado;Muita criatividade;Paixão por tecnologia ;Fit Cultural com a Beyond;Informações adicionaisContratação CLT ou PJ.O modelo de trabalho é remoto. Cada time tem uma rotina de encontros presenciais em alguns dias da semana no escritório, que fica em Recife. Somos bem flexíveis e acreditamos que encontros presenciais são ferramentas para potencializar as equipes, e não uma forma de cobrança.Por que você deveria vir trabalhar na Beyond?Estamos potencializando a vida de pessoas nas áreas de educação, saúde, jurídica, entre outras! Sempre há um tema do seu interesse sendo desenvolvido por algum time!Crescemos juntos! Pensamos na carreira de todos a longo prazo! Por isso, temos diversas ações para investir na educação e maturidade técnica de todo nosso time - através de compra de cursos, workshops, ingressos para eventos, etc. Além disso, apresentamos planos de carreira claros e constantemente atualizados para cada um dos perfis.Aqui você vai encontrar uma grande densidade de talentos: nossos times são compostos por gente talentosíssima! É sempre uma oportunidade de estar do lado de alguém que pode te ensinar muito - e aprender também =)
+
+
+
+
+
+
+
+
+
+
+
+
+Desenvolvimento de APIs utilizando Node.js, Express, Sequelize e MySQL.Mentorar e ajudar outros memebros do time com suas atividades técnicas.Documentar, arquitetar e implementar soluções para problemas do produto, incluindo capacidade de delegar parte das atividades.Utilização de plataformas low-code / no-code para implementação de regras de negócioColaborar com outros membros do time e gerentes de projeto para traduzir requisitos de negócios em soluções técnicas.Garantir a eficiência, escalabilidade e adaptabilidade do código, sempre buscando a melhor clareza.Garantir a conformidade das entregas, sempre realizando testes.Manter-se atualizado(a) com as melhores práticas e tendências em desenvolvimento back-end, contribuindo para a evolução contínua da equipe e dos projetos.
+Desenvolvimento de APIs utilizando Node.js, Express, Sequelize e MySQL.
+Desenvolvimento de APIs utilizando Node.js, Express, Sequelize e MySQL.
+Mentorar e ajudar outros memebros do time com suas atividades técnicas.
+Mentorar e ajudar outros memebros do time com suas atividades técnicas.
+Documentar, arquitetar e implementar soluções para problemas do produto, incluindo capacidade de delegar parte das atividades.
+Documentar, arquitetar e implementar soluções para problemas do produto, incluindo capacidade de delegar parte das atividades.
+Utilização de plataformas low-code / no-code para implementação de regras de negócio
+Utilização de plataformas low-code / no-code para implementação de regras de negócio
+Colaborar com outros membros do time e gerentes de projeto para traduzir requisitos de negócios em soluções técnicas.
+Colaborar com outros membros do time e gerentes de projeto para traduzir requisitos de negócios em soluções técnicas.
+Garantir a eficiência, escalabilidade e adaptabilidade do código, sempre buscando a melhor clareza.
+Garantir a eficiência, escalabilidade e adaptabilidade do código, sempre buscando a melhor clareza.
+Garantir a conformidade das entregas, sempre realizando testes.
+Garantir a conformidade das entregas, sempre realizando testes.
+Manter-se atualizado(a) com as melhores práticas e tendências em desenvolvimento back-end, contribuindo para a evolução contínua da equipe e dos projetos.
+Manter-se atualizado(a) com as melhores práticas e tendências em desenvolvimento back-end, contribuindo para a evolução contínua da equipe e dos projetos.
+
+
+
+
+Experiência liderando desenvolvedores;Experiência entregando projetos de desenvolvimento complexos no prazo;Experiência sólida em desenolvimento de APIs;Experiência com Docker;Experiência com GCP (Cloud Run, Cloud Storage, Cloud SQL, BigQuery, etc.);Interesse gerenciamento de infraestruturas de nuvemInteresse em no-code / low-codeAlgum conhecimento de bibliotecas ou frameworks frontend populares, como React, Vue.js ou Angular;Capacidade de trabalhar de forma colaborativa em um ambiente ágil, adaptando-se a mudanças e prioridades em constante evolução;Excelentes habilidades de comunicação e trabalho em equipe;Proatividade e orientação a resultados;Busca constante por alta performance, superação de desafios e constante aprendizado;Muita criatividade;Paixão por tecnologia ;Fit Cultural com a Beyond;
+Experiência liderando desenvolvedores;
+Experiência liderando desenvolvedores;
+Experiência entregando projetos de desenvolvimento complexos no prazo;
+Experiência entregando projetos de desenvolvimento complexos no prazo;
+Experiência sólida em desenolvimento de APIs;
+Experiência sólida em desenolvimento de APIs;
+Experiência com Docker;
+Experiência com Docker;
+Experiência com GCP (Cloud Run, Cloud Storage, Cloud SQL, BigQuery, etc.);
+Experiência com GCP (Cloud Run, Cloud Storage, Cloud SQL, BigQuery, etc.);
+Interesse gerenciamento de infraestruturas de nuvem
+Interesse gerenciamento de infraestruturas de nuvem
+Interesse em no-code / low-code
+Interesse em no-code / low-code
+Algum conhecimento de bibliotecas ou frameworks frontend populares, como React, Vue.js ou Angular;
+Algum conhecimento de bibliotecas ou frameworks frontend populares, como React, Vue.js ou Angular;
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil, adaptando-se a mudanças e prioridades em constante evolução;
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil, adaptando-se a mudanças e prioridades em constante evolução;
+Excelentes habilidades de comunicação e trabalho em equipe;
+Excelentes habilidades de comunicação e trabalho em equipe;
+Proatividade e orientação a resultados;
+Proatividade e orientação a resultados;
+Busca constante por alta performance, superação de desafios e constante aprendizado;
+Busca constante por alta performance, superação de desafios e constante aprendizado;
+Muita criatividade;
+Muita criatividade;
+Paixão por tecnologia ;
+Paixão por tecnologia ;
+Fit Cultural com a Beyond;
+Fit Cultural com a Beyond;
+
+
+
+
+Contratação CLT ou PJ.O modelo de trabalho é remoto. Cada time tem uma rotina de encontros presenciais em alguns dias da semana no escritório, que fica em Recife. Somos bem flexíveis e acreditamos que encontros presenciais são ferramentas para potencializar as equipes, e não uma forma de cobrança.
+Contratação CLT ou PJ.
+Contratação CLT ou PJ.
+O modelo de trabalho é remoto. Cada time tem uma rotina de encontros presenciais em alguns dias da semana no escritório, que fica em Recife. Somos bem flexíveis e acreditamos que encontros presenciais são ferramentas para potencializar as equipes, e não uma forma de cobrança.
+O modelo de trabalho é remoto. Cada time tem uma rotina de encontros presenciais em alguns dias da semana no escritório, que fica em Recife. Somos bem flexíveis e acreditamos que encontros presenciais são ferramentas para potencializar as equipes, e não uma forma de cobrança.
+
+
+
+
+Estamos potencializando a vida de pessoas nas áreas de educação, saúde, jurídica, entre outras! Sempre há um tema do seu interesse sendo desenvolvido por algum time!Crescemos juntos! Pensamos na carreira de todos a longo prazo! Por isso, temos diversas ações para investir na educação e maturidade técnica de todo nosso time - através de compra de cursos, workshops, ingressos para eventos, etc. Além disso, apresentamos planos de carreira claros e constantemente atualizados para cada um dos perfis.Aqui você vai encontrar uma grande densidade de talentos: nossos times são compostos por gente talentosíssima! É sempre uma oportunidade de estar do lado de alguém que pode te ensinar muito - e aprender também =)
+Estamos potencializando a vida de pessoas nas áreas de educação, saúde, jurídica, entre outras! Sempre há um tema do seu interesse sendo desenvolvido por algum time!
+Estamos potencializando a vida de pessoas nas áreas de educação, saúde, jurídica, entre outras! Sempre há um tema do seu interesse sendo desenvolvido por algum time!
+Crescemos juntos! Pensamos na carreira de todos a longo prazo! Por isso, temos diversas ações para investir na educação e maturidade técnica de todo nosso time - através de compra de cursos, workshops, ingressos para eventos, etc. Além disso, apresentamos planos de carreira claros e constantemente atualizados para cada um dos perfis.
+Crescemos juntos! Pensamos na carreira de todos a longo prazo! Por isso, temos diversas ações para investir na educação e maturidade técnica de todo nosso time - através de compra de cursos, workshops, ingressos para eventos, etc. Além disso, apresentamos planos de carreira claros e constantemente atualizados para cada um dos perfis.
+Aqui você vai encontrar uma grande densidade de talentos: nossos times são compostos por gente talentosíssima! É sempre uma oportunidade de estar do lado de alguém que pode te ensinar muito - e aprender também =)
+Aqui você vai encontrar uma grande densidade de talentos: nossos times são compostos por gente talentosíssima! É sempre uma oportunidade de estar do lado de alguém que pode te ensinar muito - e aprender também =)

@@ -1,0 +1,121 @@
+link-https://www.linkedin.com/jobs/view/4054483858/?eBP=CwEAAAGS7iifiXUfBQ_b9aUodiSr3v1EatQpqT1F1-79slXSDXEwDlcif4lbVjucmOrjQwuMrzjg8Xvy6JFgiKoO4WuhMRrl65jpmsj-MrI7Yyx_FHxjsJStfwLHh1PblxE5JZT0zLkVwMojceDSm2Rsy7cFgmMv8mlpzqB3HJXcImPWUgk0qpGdpPT36Dxeo4W4tWK-4ADNokbGvX11Pm7NMXjIt38CNujB8yz8HAJ6Ni2NcmVe7xb4ZoS3xJ_8SPuIy8pQKEGdZgpcnKyneXB_uHchEQERPyybVIqrcN1R4CoXmFw0DPayRtZG5WiYwWMS17NUVNSbfslVsncXI_o9ft4VOn2aYhR37M9VpcDuyQTOJHIZ6FokUuz6bgXCsZWaBZBx04mae6ubHLJhrFthIrWdkcGBPasPeBSoeuKsgSUfmfrfNe61leqhPjtI7Tk5l9RYdB7_YKOnsfHC9LGhcLeDZOHqSydhU_f3-ZyXkW6_ar_XSamgLeM6gqkQjg&refId=XsCCXpr2hbWAH4UdFDjIfA%3D%3D&trackingId=Pu4wlTu17GAyQ9fhVdFJCg%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados (Python)
+Sobre a vaga
+O QUE É SER UM MUTANT?Quando você decide ser Mutant, você decide dar um passo diferente na sua vida e na sua carreira.Ser Mutant é aceitar ser parte de um grupo com coragem para traçar novos caminhos e ambição para chegar mais longe a cada dia.A gente não é a empresa da moda - nem faz questão de ser. Ao contrário, fazemos muito mais do que falamos. E preferimos fazer em grupo porque aqui é com todos e por todos.Estamos sempre em busca de gente talentosa e apaixonada para crescer e evoluir com a gente. Se você acredita no seu talento e consegue mostrar isso na prática, venha ser um Mutant.A gente te aguarda. 🚀Responsabilidades e atribuiçõesManipulação de grandes volumes de dados;Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados;Atuação no desenvolvimento de soluções internas;Compreender as necessidades do negocio, coletar, definir solução, analisar e documentar os requisitos.Requisitos e qualificaçõesGraduação em ciências ou engenharia da computação, Sistemas de informações ou áreas relacionadas.Obrigatório: Experiência com Big Data, Apache Spark e Airflow;Conhecimento em Data lakes: Linguagem em SQL e Python;Conhecimentos de shell script e manipulação de arquivos em ambiente linux;Diferencial: experiência com ferramentas das nuvens: EMR (aws), Dataproc (GCP), Databricks e HDInsight (Azure)Informações adicionaisO que você vai encontrar por aqui:Flexibilidade nos seus horários;Estrutura horizontal;Dress code livre;Estacionamento para bikes e patinetes (em caso de ida ao escritório);Oportunidades de crescimento cross brands;Empresa Cidadã: Nossos colaboradores tem a licença parental estendida;Benefícios:Assistência médica e odontológica;Seguro de vida;Vale-transporte;Vale-refeição e alimentação;Wellhub (Gympass);Auxílio Creche;Auxílio filhos com deficiência;Bônus por resultados;Dayoff para aniversários;Alelo Multibenefícios;Allya - parcerias e descontos no app;Além disso, incluímos também alguns benefícios com o propósito Mutant:Liberdade para ser quem você é. Incluir todos com o mesmo olhar está em nosso DNA. Aqui não fazemos distinção de gênero, raça, credo ou cor! Somos todos Mutants!Pessoas e experiências são o que nos movem. São a nossa essência e nosso propósito. Ações e programas voltados a clima, desenvolvimento e cultura;Gerar valor para pessoas e negócios. Juntos, criamos produtos digitais que impulsionam os negócios.;Fazer parte de um time sensacional, que joga junto, com uma cultura de colaboração, inovação e transformação. E o mais importante: que se diverte em toda a jornada;Trabalhar e trocar conhecimentos diários. As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas;
+O QUE É SER UM MUTANT?
+
+
+Quando você decide ser Mutant, você decide dar um passo diferente na sua vida e na sua carreira.
+
+
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+Manipulação de grandes volumes de dados;Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados;Atuação no desenvolvimento de soluções internas;Compreender as necessidades do negocio, coletar, definir solução, analisar e documentar os requisitos.
+Manipulação de grandes volumes de dados;
+Manipulação de grandes volumes de dados;
+Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados;
+Uso de tecnologias de big data e processamento paralelo distribuído de grandes volumes de dados;
+Atuação no desenvolvimento de soluções internas;
+Atuação no desenvolvimento de soluções internas;
+Compreender as necessidades do negocio, coletar, definir solução, analisar e documentar os requisitos.
+Compreender as necessidades do negocio, coletar, definir solução, analisar e documentar os requisitos.
+
+
+
+Requisitos e qualificações
+
+
+Graduação em ciências ou engenharia da computação, Sistemas de informações ou áreas relacionadas.Obrigatório: Experiência com Big Data, Apache Spark e Airflow;Conhecimento em Data lakes: Linguagem em SQL e Python;Conhecimentos de shell script e manipulação de arquivos em ambiente linux;Diferencial: experiência com ferramentas das nuvens: EMR (aws), Dataproc (GCP), Databricks e HDInsight (Azure)
+Graduação em ciências ou engenharia da computação, Sistemas de informações ou áreas relacionadas.
+Graduação em ciências ou engenharia da computação, Sistemas de informações ou áreas relacionadas.
+Obrigatório: Experiência com Big Data, Apache Spark e Airflow;
+Obrigatório: Experiência com Big Data, Apache Spark e Airflow;
+Conhecimento em Data lakes: Linguagem em SQL e Python;
+Conhecimento em Data lakes: Linguagem em SQL e Python;
+Conhecimentos de shell script e manipulação de arquivos em ambiente linux;
+Conhecimentos de shell script e manipulação de arquivos em ambiente linux;
+Diferencial: experiência com ferramentas das nuvens: EMR (aws), Dataproc (GCP), Databricks e HDInsight (Azure)
+Diferencial: experiência com ferramentas das nuvens: EMR (aws), Dataproc (GCP), Databricks e HDInsight (Azure)
+
+
+
+Informações adicionais
+
+
+O que você vai encontrar por aqui:
+
+
+Flexibilidade nos seus horários;Estrutura horizontal;Dress code livre;Estacionamento para bikes e patinetes (em caso de ida ao escritório);Oportunidades de crescimento cross brands;Empresa Cidadã: Nossos colaboradores tem a licença parental estendida;
+Flexibilidade nos seus horários;
+Flexibilidade nos seus horários;
+Estrutura horizontal;
+Estrutura horizontal;
+Dress code livre;
+Dress code livre;
+Estacionamento para bikes e patinetes (em caso de ida ao escritório);
+Estacionamento para bikes e patinetes (em caso de ida ao escritório);
+Oportunidades de crescimento cross brands;
+Oportunidades de crescimento cross brands;
+Empresa Cidadã: Nossos colaboradores tem a licença parental estendida;
+Empresa Cidadã: Nossos colaboradores tem a licença parental estendida;
+
+
+
+Benefícios:
+
+
+Assistência médica e odontológica;Seguro de vida;Vale-transporte;Vale-refeição e alimentação;Wellhub (Gympass);Auxílio Creche;Auxílio filhos com deficiência;Bônus por resultados;Dayoff para aniversários;Alelo Multibenefícios;Allya - parcerias e descontos no app;
+Assistência médica e odontológica;
+Assistência médica e odontológica;
+Seguro de vida;
+Seguro de vida;
+Vale-transporte;
+Vale-transporte;
+Vale-refeição e alimentação;
+Vale-refeição e alimentação;
+Wellhub (Gympass);
+Wellhub (Gympass);
+Auxílio Creche;
+Auxílio Creche;
+Auxílio filhos com deficiência;
+Auxílio filhos com deficiência;
+Bônus por resultados;
+Bônus por resultados;
+Dayoff para aniversários;
+Dayoff para aniversários;
+Alelo Multibenefícios;
+Alelo Multibenefícios;
+Allya - parcerias e descontos no app;
+Allya - parcerias e descontos no app;
+
+
+
+Além disso, incluímos também alguns benefícios com o propósito Mutant:
+
+
+Liberdade para ser quem você é. Incluir todos com o mesmo olhar está em nosso DNA. Aqui não fazemos distinção de gênero, raça, credo ou cor! Somos todos Mutants!Pessoas e experiências são o que nos movem. São a nossa essência e nosso propósito. Ações e programas voltados a clima, desenvolvimento e cultura;Gerar valor para pessoas e negócios. Juntos, criamos produtos digitais que impulsionam os negócios.;Fazer parte de um time sensacional, que joga junto, com uma cultura de colaboração, inovação e transformação. E o mais importante: que se diverte em toda a jornada;Trabalhar e trocar conhecimentos diários. As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas;
+Liberdade para ser quem você é. Incluir todos com o mesmo olhar está em nosso DNA. Aqui não fazemos distinção de gênero, raça, credo ou cor! Somos todos Mutants!
+Liberdade para ser quem você é. Incluir todos com o mesmo olhar está em nosso DNA. Aqui não fazemos distinção de gênero, raça, credo ou cor! Somos todos Mutants!
+
+Pessoas e experiências são o que nos movem. São a nossa essência e nosso propósito. Ações e programas voltados a clima, desenvolvimento e cultura;
+Pessoas e experiências são o que nos movem. São a nossa essência e nosso propósito. Ações e programas voltados a clima, desenvolvimento e cultura;
+
+Gerar valor para pessoas e negócios. Juntos, criamos produtos digitais que impulsionam os negócios.;
+Gerar valor para pessoas e negócios. Juntos, criamos produtos digitais que impulsionam os negócios.;
+
+Fazer parte de um time sensacional, que joga junto, com uma cultura de colaboração, inovação e transformação. E o mais importante: que se diverte em toda a jornada;
+Fazer parte de um time sensacional, que joga junto, com uma cultura de colaboração, inovação e transformação. E o mais importante: que se diverte em toda a jornada;
+
+Trabalhar e trocar conhecimentos diários. As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas;
+Trabalhar e trocar conhecimentos diários. As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas;
+

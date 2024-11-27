@@ -1,0 +1,96 @@
+link-https://www.linkedin.com/jobs/view/4066538210/?eBP=CwEAAAGS7hIqwq3-apd025i-B0d9KuLlwyTmDOi6W23z9N6KHtXsq23SGmP0cqoVIrBgr3PJZjXHwgiP2X4q7PGsu7r9b7zlAZAU9PumdgCT9gHOzu6tA_7Zy-X2SCmLagF8pTlK8WdLdK10biqyYJNU4fczgvhgLnOaPStBI8Ph0XjdXeLv1htJ2MxGP0qFi8QmYXtAk6fl4ZCuTGn2Eq_IFRxZ8gaLwkuUxEFmghS68EjA5gM09uVnz2Nd2wg90GfGkiNqxOeSEkqPGU9wwlTmKTy6rsZJS0TAPSAw-ld5PNV65OUajYpxuazEhseHHbmTZnZZEMQVC3pyp5U5Wfr5qPDn-00M9uH4VqltJlq6X8zbxBlGkhgNislMrGDw40YEmFiE9g19szOavZ34LjP2BsuGnZ6GX_JXKIoJgbmAb2pflsIJS77IGANfkpKpj_m4DnTYlBzOhpN40bL2_2tw6q8UNmGQBHgpOaT7xauWdTQKQdvDb8qnDU_qxafqc_7cMZPYpIxpq8Lc4aA_Lw&refId=jo0eZN5gl9jP517pieZBeg%3D%3D&trackingId=JWHkYIx9QXrmLAYnWDHBtw%3D%3D&trk=flagship3_search_srp_jobs
+
+Fullstack,  Software Architect, Brazil
+Sobre a vaga
+Estamos à procura de um Arquiteto de Software (Full Stack) com excelentes habilidades de comunicação e liderança. O candidato ideal atuará diretamente com a equipe, fornecendo suporte técnico e promovendo a melhoria contínua dos produtos desenvolvidos para o setor financeiro.Responsabilidades:Suportar tecnicamente a equipe;Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;Participar da entrega e da defesa de soluções técnicas;Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.Requisitos para este desafio:Experiência como Arquitetura de software;Background com Java utilizando Spring Framework e CDIConhecimento em Angular e Typescript;Participar dos refinamentos de negócio opinando sobre a complexidade das demandas e buscando simplicar demandas de acordo com o valor agregadoConduzir os refinamento Técnicos;Aplicações cloud (Azure) native e DevOps;Experiência com Microsserviços, DevSecOps, Kubernetes, automação de testes.Spock Framework para testes unitários ou boa prática com JUnitConhecimentos básicos de docker, OpenshiftProatividade e autonomia na resolução de problemas e melhorias do fluxo de trabalho;Excelentes habilidades de comunicação e capacidade de trabalho em equipe.Capacidade de capacitar e mentorar os desenvolvedores do time.Entendimento de Agile e de ferramentas de gerenciamento de atividades;Diferenciais:Conhecimento em Generative AI.Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras#MidSenior
+Estamos à procura de um Arquiteto de Software (Full Stack) com excelentes habilidades de comunicação e liderança. O candidato ideal atuará diretamente com a equipe, fornecendo suporte técnico e promovendo a melhoria contínua dos produtos desenvolvidos para o setor financeiro.
+Estamos à procura de um Arquiteto de Software (Full Stack) com excelentes habilidades de comunicação e liderança. O candidato ideal atuará diretamente com a equipe, fornecendo suporte técnico e promovendo a melhoria contínua dos produtos desenvolvidos para o setor financeiro.
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+
+Suportar tecnicamente a equipe;
+Suportar tecnicamente a equipe;
+Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;
+Cuidar, em conjunto com demais lideranças do time, do desenvolvimento técnico da equipe;
+Participar da entrega e da defesa de soluções técnicas;
+Participar da entrega e da defesa de soluções técnicas;
+Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.
+Suportar o acompanhamento de métricas e indicadores técnicos e de negócios.
+Requisitos para este desafio:
+Requisitos para este desafio:
+Requisitos para este desafio:
+Experiência como Arquitetura de software;
+Experiência como Arquitetura de software;
+Background com Java utilizando Spring Framework e CDI
+Background com Java utilizando Spring Framework e CDI
+Conhecimento em Angular e Typescript;
+Conhecimento em Angular e Typescript;
+Participar dos refinamentos de negócio opinando sobre a complexidade das demandas e buscando simplicar demandas de acordo com o valor agregado
+Participar dos refinamentos de negócio opinando sobre a complexidade das demandas e buscando simplicar demandas de acordo com o valor agregado
+Conduzir os refinamento Técnicos;
+Conduzir os refinamento Técnicos;
+Aplicações cloud (Azure) native e DevOps;
+Aplicações cloud (Azure) native e DevOps;
+Experiência com Microsserviços, DevSecOps, Kubernetes, automação de testes.
+Experiência com Microsserviços, DevSecOps, Kubernetes, automação de testes.
+Spock Framework para testes unitários ou boa prática com JUnit
+Spock Framework para testes unitários ou boa prática com JUnit
+Conhecimentos básicos de docker, Openshift
+Conhecimentos básicos de docker, Openshift
+Proatividade e autonomia na resolução de problemas e melhorias do fluxo de trabalho;
+Proatividade e autonomia na resolução de problemas e melhorias do fluxo de trabalho;
+
+Excelentes habilidades de comunicação e capacidade de trabalho em equipe.
+Excelentes habilidades de comunicação e capacidade de trabalho em equipe.
+Capacidade de capacitar e mentorar os desenvolvedores do time.
+Capacidade de capacitar e mentorar os desenvolvedores do time.
+Entendimento de Agile e de ferramentas de gerenciamento de atividades;
+Entendimento de Agile e de ferramentas de gerenciamento de atividades;
+Diferenciais:
+Diferenciais:
+Diferenciais:
+Conhecimento em Generative AI.
+Conhecimento em Generative AI.
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Gympass
+- Gympass
+- PLR;
+- PLR;
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- CI&T University;
+- CI&T University;
+- Clube de descontos;
+- Clube de descontos;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+#MidSenior
+#MidSenior
+
+
+

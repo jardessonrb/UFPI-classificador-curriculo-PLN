@@ -1,0 +1,89 @@
+link-https://www.linkedin.com/jobs/view/4061166459/?eBP=CwEAAAGS7kgAGeX41o1KjRk0SzzO_cz6UKN4qrRT5u6HACQxoSW9lwEufbe53dCiUyg_7rUH7UExRJMXnLpThZzZmQkAXOJh2lXaOs3zHphl3LJcSIEhOpSVTuvE5M8nm4P81lrfjapP6UTSx2yMGfvRo9jr0ZMRQjYZKDPMRJALAF0XFNMTckLA_eY5W0qpINRJSWXORWXiLMQq0Sd3nSDmx8vvoZpvLUqaTCjXvVvit_6ZyOk_iiPdr1q3YZXpEwZHHjKDV7fdWyejSHysrCEeFhoPVq4Qa0Uyn-dnmZ3JzQt-mgxfRTgNqnblKYGKYsIgjhIYKDR_VYt8r4AGrNx8YzDYnQdKjSfOLpjqSL_pol3FjhHZIGbwtMvAMs1XQaqoAokOBk8aG8ZFNnCzoeSxzBoDDqaqx1MIMv4bYCJs-RLtmPg7XkYiBCEGzcX7GBaHKnKtN4ffpe562anD16eJ4sGYfuePq0yTsvN20BweiHdWC9B-UwlPUW-8w19Jkg&refId=nIYYNsE%2BnfA3QpgDC17OUg%3D%3D&trackingId=dZszQw1ytbXJ7znZ4J5yKA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior QA Engineer (React Native/iOS)
+Sobre a vaga
+Checkmate is a mobile shopping app and extension loved by millions of shoppers. Founded in May 2022, we have quickly become the fastest-growing shopping platform in the US, with 1 million registered users in first year in market + #1 app in the app store shopping season each year + Series A lead by Google Ventures. We are trusted to save consumers favourite items from across the web, discover products they truly want, and find deals from their favourite brands. Checkmate is so much more than just a shopping app; we are building the future of consumer identity and adtech.Backed by industry-leading investors such as GV, Pinterest's ex-President, Paris Hilton, The Chainsmokers, Fuel Capital, F7 Ventures, Blackbird Ventures, Susa Ventures, Wischoff Ventures, and more, Checkmate is poised to continue to disrupt the online shopping industry.Role OverviewWe are seeking a Senior QA Engineer with a focus on consumer React Native iOS application and iOS Safari browser extension, based in Brazil, with fluent English proficiency.In this role, you will be critical in ensuring the quality and performance of our React Native iOS app and iOS Safari browser extension used by millions of consumers worldwide.You'll be responsible with reviewing the existing QA pipeline and designing and developing any new system to help automate and improve our existing systems. This could include introducing new E2E testing flows, visual testing or whatever you think would help us move fast and keep regressions low.As we scale rapidly, your contributions will help us deliver a seamless and reliable experience for our users. You will work closely with cross-functional teams, including product managers, designers, and engineers, to maintain the high standards our customers expect.ResponsibilitiesDevelop, implement, and maintain robust test plans, test cases, and automation strategies for our React Native app and iOS Safari browser extensionPerform manual and automated testing to identify issues and ensure high-quality releasesCollaborate with developers and product teams to identify, document, and resolve bugsDrive continuous improvement of QA processes to ensure efficient, reliable, and scalable testingEnsure that the user experience is flawless across various iOS devices and screen sizesContribute to performance and stress testing, ensuring our app scales efficiently as we growRequirements5+ years of React Native or iOS experienceExperience with testing iOS apps and browser extensionsSolid understanding of mobile app testing frameworks and tools (Xcode, React Native, metro, etc)Strong proficiency in creating test scripts, writing test cases, and reporting bugsStrong analytical skills and attention to detailExcellent English communication skills, both written and verbalNice to Have:Familiarity with CI/CD pipelines for mobile applicationsExperience in eCommerce or adtech platformsBenefitsCompetitive salary + stock allocationHealthcareGym membership4 weeks PTO and health daysCompany retreats 🏝- California March 2025 is our next one!Additional benefitsWe are committed to inclusion across race, culture, ethnicity, gender, sex, sexuality, religion, and ability. At any stage you may highlight ways in which we can tailor the interview process to meet your needs. If you are passionate about reshaping the future of e-commerce and have a track record of building awesome products we invite you to join us on our exciting journey at Checkmate.
+
+
+
+
+Role Overview
+
+
+
+
+
+
+
+
+
+
+Responsibilities
+
+
+Develop, implement, and maintain robust test plans, test cases, and automation strategies for our React Native app and iOS Safari browser extensionPerform manual and automated testing to identify issues and ensure high-quality releasesCollaborate with developers and product teams to identify, document, and resolve bugsDrive continuous improvement of QA processes to ensure efficient, reliable, and scalable testingEnsure that the user experience is flawless across various iOS devices and screen sizesContribute to performance and stress testing, ensuring our app scales efficiently as we grow
+Develop, implement, and maintain robust test plans, test cases, and automation strategies for our React Native app and iOS Safari browser extension
+Develop, implement, and maintain robust test plans, test cases, and automation strategies for our React Native app and iOS Safari browser extension
+Perform manual and automated testing to identify issues and ensure high-quality releases
+Perform manual and automated testing to identify issues and ensure high-quality releases
+Collaborate with developers and product teams to identify, document, and resolve bugs
+Collaborate with developers and product teams to identify, document, and resolve bugs
+Drive continuous improvement of QA processes to ensure efficient, reliable, and scalable testing
+Drive continuous improvement of QA processes to ensure efficient, reliable, and scalable testing
+Ensure that the user experience is flawless across various iOS devices and screen sizes
+Ensure that the user experience is flawless across various iOS devices and screen sizes
+Contribute to performance and stress testing, ensuring our app scales efficiently as we grow
+Contribute to performance and stress testing, ensuring our app scales efficiently as we grow
+
+
+
+Requirements
+
+
+5+ years of React Native or iOS experienceExperience with testing iOS apps and browser extensionsSolid understanding of mobile app testing frameworks and tools (Xcode, React Native, metro, etc)Strong proficiency in creating test scripts, writing test cases, and reporting bugsStrong analytical skills and attention to detailExcellent English communication skills, both written and verbal
+5+ years of React Native or iOS experience
+5+ years of React Native or iOS experience
+Experience with testing iOS apps and browser extensions
+Experience with testing iOS apps and browser extensions
+Solid understanding of mobile app testing frameworks and tools (Xcode, React Native, metro, etc)
+Solid understanding of mobile app testing frameworks and tools (Xcode, React Native, metro, etc)
+Strong proficiency in creating test scripts, writing test cases, and reporting bugs
+Strong proficiency in creating test scripts, writing test cases, and reporting bugs
+Strong analytical skills and attention to detail
+Strong analytical skills and attention to detail
+Excellent English communication skills, both written and verbal
+Excellent English communication skills, both written and verbal
+
+
+
+Nice to Have:
+
+
+
+Familiarity with CI/CD pipelines for mobile applicationsExperience in eCommerce or adtech platforms
+Familiarity with CI/CD pipelines for mobile applications
+Familiarity with CI/CD pipelines for mobile applications
+Experience in eCommerce or adtech platforms
+Experience in eCommerce or adtech platforms
+
+
+
+Benefits
+
+
+Competitive salary + stock allocationHealthcareGym membership4 weeks PTO and health daysCompany retreats 🏝- California March 2025 is our next one!Additional benefits
+Competitive salary + stock allocation
+Competitive salary + stock allocation
+Healthcare
+Healthcare
+Gym membership
+Gym membership
+4 weeks PTO and health days
+4 weeks PTO and health days
+Company retreats 🏝- California March 2025 is our next one!
+Company retreats 🏝- California March 2025 is our next one!
+
+Additional benefits
+Additional benefits
+
+

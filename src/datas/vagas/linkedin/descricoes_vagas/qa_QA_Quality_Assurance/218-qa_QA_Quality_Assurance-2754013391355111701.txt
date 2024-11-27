@@ -1,0 +1,78 @@
+link-https://www.linkedin.com/jobs/view/4042706395/?eBP=CwEAAAGS7kdnx-DUWpyIIar0quippJgSQ8jw_tWY9MYwmBzWkFOupDJeXGEzol5TA6KlDaWU6L1k_qPQiVxA0IuSaDHy-9BqwZaQXbdj_LqOU_Q_TeLlkSMKoYoS-WrOlygEhGN1vAiDKBVnMcO5X6RWZJmBsuREIoxnQTQeUYXzeWls7478MDUiiDJxT1bLX8TAT3RXBY5V9HcVxG9GS1KX8V8C8RxNQsItD-c6cBzghce4QH7BgQivuEiOU8fDl5yfsPWKc-_0l9gkTv_6YDCxbzFl9fX-EhKkGITQ0SxRY42psYO0QldYcI0i1B-teX2F0Z4sn2Z-maL6tnkqzu4RImoU55A7osft234SDy7kM90W08zG1q6Fx4UOrnXJs-WdlfHOyiitSCBcWL3NXkDemOzyRERkaJTlEMRpDG_V8Kqf3fPBWwgFDTvsaz6pArQyjuSZIVpsJmjSt7aWgID9Zhn8NNESc4ef_2n5vmxNt3l6eXmziECyd9zJTD4&refId=eCZ4TSmLf1xAg4vlx7lWtA%3D%3D&trackingId=IuI2dMef%2BqYxAfZlQLe7ow%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Sênior
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Vaga para QA Sênior, responsável por garantir a qualidade dos produtos desenvolvidos pela equipe, criando e executando planos de teste manuais e automatizados, realizar a apresentação das funcionalidades entregues e testadas na Sprint Review. Irá trabalhar diretamente com os desenvolvedores e POs, garantindo que cada nova funcionalidade seja testada de acordo com os padrões de qualidade. Buscamos alguém proativo, detalhista e com paixão por entregar software confiável e de alta performance.RequisitosExperiência em planejamento, execução e automação de testes de softwareConhecimento avançado em técnicas de testes e melhores práticas de QAExperiência em automação de testes com ferramentas como Selenium, Cypress, etc.Experiência com bancos de dados para validação de dados em testesExperiência em metodologias ágeis e trabalho colaborativo com times de desenvolvimentoDiferenciaisExperiência em testes de performance e cargaExperiência com ferramentas de monitoramento de qualidade de softwareConhecimento em segurança de software e práticas de testes de segurançaExperiência com processos de CI/CD em ambientes de testeExperiência em ambientes de nuvem (AWS, Azure ou GCP)Habilidades ObrigatóriasTestes automatizadosTestes FuncionaisHabilidades DesejáveisContinuous Integration/Deployment(CI/CD)SCRUMJIRAPostmanSwaggerA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+Requisitos
+
+
+Experiência em planejamento, execução e automação de testes de softwareConhecimento avançado em técnicas de testes e melhores práticas de QAExperiência em automação de testes com ferramentas como Selenium, Cypress, etc.Experiência com bancos de dados para validação de dados em testesExperiência em metodologias ágeis e trabalho colaborativo com times de desenvolvimento
+Experiência em planejamento, execução e automação de testes de software
+Experiência em planejamento, execução e automação de testes de software
+
+Conhecimento avançado em técnicas de testes e melhores práticas de QA
+Conhecimento avançado em técnicas de testes e melhores práticas de QA
+
+Experiência em automação de testes com ferramentas como Selenium, Cypress, etc.
+Experiência em automação de testes com ferramentas como Selenium, Cypress, etc.
+
+Experiência com bancos de dados para validação de dados em testes
+Experiência com bancos de dados para validação de dados em testes
+
+Experiência em metodologias ágeis e trabalho colaborativo com times de desenvolvimento
+Experiência em metodologias ágeis e trabalho colaborativo com times de desenvolvimento
+
+
+
+Diferenciais
+
+
+Experiência em testes de performance e cargaExperiência com ferramentas de monitoramento de qualidade de softwareConhecimento em segurança de software e práticas de testes de segurançaExperiência com processos de CI/CD em ambientes de testeExperiência em ambientes de nuvem (AWS, Azure ou GCP)
+Experiência em testes de performance e carga
+Experiência em testes de performance e carga
+
+Experiência com ferramentas de monitoramento de qualidade de software
+Experiência com ferramentas de monitoramento de qualidade de software
+
+Conhecimento em segurança de software e práticas de testes de segurança
+Conhecimento em segurança de software e práticas de testes de segurança
+
+Experiência com processos de CI/CD em ambientes de teste
+Experiência com processos de CI/CD em ambientes de teste
+
+Experiência em ambientes de nuvem (AWS, Azure ou GCP)
+Experiência em ambientes de nuvem (AWS, Azure ou GCP)
+
+
+
+
+
+Testes automatizadosTestes Funcionais
+Testes automatizados
+Testes automatizados
+Testes Funcionais
+Testes Funcionais
+
+
+
+
+Continuous Integration/Deployment(CI/CD)SCRUMJIRAPostmanSwagger
+Continuous Integration/Deployment(CI/CD)
+Continuous Integration/Deployment(CI/CD)
+SCRUM
+SCRUM
+JIRA
+JIRA
+Postman
+Postman
+Swagger
+Swagger
+
+
+
+

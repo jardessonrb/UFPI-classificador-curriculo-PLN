@@ -1,0 +1,135 @@
+link-https://www.linkedin.com/jobs/view/4059638664/?eBP=CwEAAAGS7k29TgNM_RipX_pU0UryLE7lk_6WwhKMQBEXZYnhdMoZvU0Cx0NAW29p5wGiTOohK2AHL2ypAqAUNM4ownZM1vnffKZCvi5TV6Xp_2aJMK_V-qglL0hLY3nTSKcbkpgnrsf8T3i733Xr7upAULqrw-rb4myB8oGqKJluz_4eorvreQiKVVGr05uU12793-TH2tRSCZK1zdzqz1ev5xC8idmhPTJfBK27dqI0UgR_LunnlljChHU2Y-2ostLejROsv6RFlkamqRHP4u3DrCzexbdGRYtHlWuokYen5ZKBBFI2MMg-cGEdpBe10MBqcgKmIzApBsGN2SNM-8OV4lLEfH6RT08bri1rBu2qF91V4WZrAknDqGjItkdb_hajk-HNkc_NS_I4y7SRCFOmJHszVCw6aWFzlCtL-VLFgnGuFxOXiH0lIcjDycYjsGBOFIo8qThu2-OOTnfXOZDRx-bAwq4RjnU9oWAKtkGwgNui0u1Cz69SpOmD6pbnVrgw&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=%2BogYdt5zifmzp1EDYFO5jw%3D%3D&trk=flagship3_search_srp_jobs
+
+DESENVOLVEDOR FRONT -END PLENO ( REACT E VTEX) - Centro de Distribuição OBA Hortifruti Sumaré
+Sobre a vaga
+Job DescriptionQuer trabalhar em uma empresafeita por gente, onde você terá chance para se desenvolver e mostrar o seu melhor?Então essaoportunidade é para você!#VemproobaResponsibilities and assignmentsDesenvolver e manter interfaces de usuário com foco em React e VTEX.Colaborar com times de design e backend para criar soluções funcionais e eficientes.Garantir a compatibilidade cross-browser e responsividade das aplicações.Participar do planejamento, estimativas e discussões técnicas dos projetos.Manter-se atualizado com as melhores práticas de desenvolvimento front-end e novas tecnologias.Identificar e corrigir problemas de performance e bugs em aplicações existentes.Contribuir para a documentação do código e processos de desenvolvimento.Requirements And QualificationsSuperior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação, ou áreas relacionadas.Experiência em desenvolvimento front-end, com ênfase em React, VTEX e VTEX IO.Conhecimento TécnicoProficiência em React.js, incluindo Hooks, Context API e Redux.Experiência com desenvolvimento em VTEX IO.Conhecimento sólido de HTML5, CSS3 e JavaScript (ES6+).Experiência com ferramentas de versionamento de código, como Git.Conhecimento em integração de APIs RESTful.Familiaridade com metodologias ágeis (Scrum, Kanban).Será DiferencialExperiência com outras plataformas de e-commerce.Conhecimento em Node.js e SSR (Server-Side Rendering) com Next.js.Experiência em CI/CD e automação de testes.Conhecimento em SEO e melhores práticas de acessibilidade.Additional informationPlano Médico;Plano Odontológico opcional (Uniodonto);Flash Benefícios Flex R$ 290,00;Vale Transporte;Fretado;Descontos em Produtos New Value;Telemedicina e Telepsicologia (Docway) Gratuito;Refeição no Local;Convênio com Farmácias (Univers);Compras com Desconto em Folha;20% de Desconto em Hortifruti da Rede Oba;Convênio com SESC;Seguro de Vida;Wellhub ( Gympass);Empréstimo Consignado.Horário: segunda a sexta, das 08h00 às 17h48.Process stagesStep 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista com RH3Entrevista com RHStep 4: Entrevista com Gestor4Entrevista com GestorStep 5: Hiring5HiringVenha Descobrir o Frescor de Cada Dia!Com mais de 40 anos de história, somos uma das maiores redes de hortifrúti do país. São mais de 60 lojas distribuídas pelas estados de São Paulo, Goiás e Distrito Federal, que oferecem produtos frescos e não perecíveis, vindos direto do fornecedor e importados.Nosso objetivo é levar o frescor e produtos de qualidade para nossos clientes, priorizando o relacionamento, garantindo o equilíbrio perfeito entre o sabor e saúde para a vida das pessoas.Somos uma empresa feita por gente, acreditamos no potencial e damos oportunidade para que nossos colaboradores se desenvolvam e mostrem o seu melhor.
+Job Description
+
+
+
+feita por gente
+
+
+oportunidade é para você!
+
+
+
+#Vemprooba
+
+
+
+
+Desenvolver e manter interfaces de usuário com foco em React e VTEX.Colaborar com times de design e backend para criar soluções funcionais e eficientes.Garantir a compatibilidade cross-browser e responsividade das aplicações.Participar do planejamento, estimativas e discussões técnicas dos projetos.Manter-se atualizado com as melhores práticas de desenvolvimento front-end e novas tecnologias.Identificar e corrigir problemas de performance e bugs em aplicações existentes.Contribuir para a documentação do código e processos de desenvolvimento.
+Desenvolver e manter interfaces de usuário com foco em React e VTEX.
+Desenvolver e manter interfaces de usuário com foco em React e VTEX.
+Colaborar com times de design e backend para criar soluções funcionais e eficientes.
+Colaborar com times de design e backend para criar soluções funcionais e eficientes.
+Garantir a compatibilidade cross-browser e responsividade das aplicações.
+Garantir a compatibilidade cross-browser e responsividade das aplicações.
+Participar do planejamento, estimativas e discussões técnicas dos projetos.
+Participar do planejamento, estimativas e discussões técnicas dos projetos.
+Manter-se atualizado com as melhores práticas de desenvolvimento front-end e novas tecnologias.
+Manter-se atualizado com as melhores práticas de desenvolvimento front-end e novas tecnologias.
+Identificar e corrigir problemas de performance e bugs em aplicações existentes.
+Identificar e corrigir problemas de performance e bugs em aplicações existentes.
+Contribuir para a documentação do código e processos de desenvolvimento.
+Contribuir para a documentação do código e processos de desenvolvimento.
+
+
+Requirements And Qualifications
+
+
+
+
+
+
+Conhecimento Técnico
+
+
+Proficiência em React.js, incluindo Hooks, Context API e Redux.Experiência com desenvolvimento em VTEX IO.Conhecimento sólido de HTML5, CSS3 e JavaScript (ES6+).Experiência com ferramentas de versionamento de código, como Git.Conhecimento em integração de APIs RESTful.Familiaridade com metodologias ágeis (Scrum, Kanban).
+Proficiência em React.js, incluindo Hooks, Context API e Redux.
+Proficiência em React.js, incluindo Hooks, Context API e Redux.
+Experiência com desenvolvimento em VTEX IO.
+Experiência com desenvolvimento em VTEX IO.
+Conhecimento sólido de HTML5, CSS3 e JavaScript (ES6+).
+Conhecimento sólido de HTML5, CSS3 e JavaScript (ES6+).
+Experiência com ferramentas de versionamento de código, como Git.
+Experiência com ferramentas de versionamento de código, como Git.
+Conhecimento em integração de APIs RESTful.
+Conhecimento em integração de APIs RESTful.
+Familiaridade com metodologias ágeis (Scrum, Kanban).
+Familiaridade com metodologias ágeis (Scrum, Kanban).
+
+
+Será Diferencial
+
+
+Experiência com outras plataformas de e-commerce.Conhecimento em Node.js e SSR (Server-Side Rendering) com Next.js.Experiência em CI/CD e automação de testes.Conhecimento em SEO e melhores práticas de acessibilidade.
+Experiência com outras plataformas de e-commerce.
+Experiência com outras plataformas de e-commerce.
+Conhecimento em Node.js e SSR (Server-Side Rendering) com Next.js.
+Conhecimento em Node.js e SSR (Server-Side Rendering) com Next.js.
+Experiência em CI/CD e automação de testes.
+Experiência em CI/CD e automação de testes.
+Conhecimento em SEO e melhores práticas de acessibilidade.
+Conhecimento em SEO e melhores práticas de acessibilidade.
+
+
+
+
+Plano Médico;Plano Odontológico opcional (Uniodonto);Flash Benefícios Flex R$ 290,00;Vale Transporte;Fretado;Descontos em Produtos New Value;Telemedicina e Telepsicologia (Docway) Gratuito;Refeição no Local;Convênio com Farmácias (Univers);Compras com Desconto em Folha;20% de Desconto em Hortifruti da Rede Oba;Convênio com SESC;Seguro de Vida;Wellhub ( Gympass);Empréstimo Consignado.Horário: segunda a sexta, das 08h00 às 17h48.
+Plano Médico;
+Plano Médico;
+Plano Odontológico opcional (Uniodonto);
+Plano Odontológico opcional (Uniodonto);
+Flash Benefícios Flex R$ 290,00;
+Flash Benefícios Flex R$ 290,00;
+Vale Transporte;
+Vale Transporte;
+Fretado;
+Fretado;
+Descontos em Produtos New Value;
+Descontos em Produtos New Value;
+Telemedicina e Telepsicologia (Docway) Gratuito;
+Telemedicina e Telepsicologia (Docway) Gratuito;
+Refeição no Local;
+Refeição no Local;
+Convênio com Farmácias (Univers);
+Convênio com Farmácias (Univers);
+Compras com Desconto em Folha;
+Compras com Desconto em Folha;
+20% de Desconto em Hortifruti da Rede Oba;
+20% de Desconto em Hortifruti da Rede Oba;
+Convênio com SESC;
+Convênio com SESC;
+Seguro de Vida;
+Seguro de Vida;
+Wellhub ( Gympass);
+Wellhub ( Gympass);
+Empréstimo Consignado.
+Empréstimo Consignado.
+Horário: segunda a sexta, das 08h00 às 17h48.
+Horário: segunda a sexta, das 08h00 às 17h48.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista com RH3Entrevista com RHStep 4: Entrevista com Gestor4Entrevista com GestorStep 5: Hiring5Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem2Triagem
+Step 2: Triagem2Triagem
+Step 3: Entrevista com RH3Entrevista com RH
+Step 3: Entrevista com RH3Entrevista com RH
+Step 4: Entrevista com Gestor4Entrevista com Gestor
+Step 4: Entrevista com Gestor4Entrevista com Gestor
+Step 5: Hiring5Hiring
+Step 5: Hiring5Hiring
+
+
+
+
+
+
+
+

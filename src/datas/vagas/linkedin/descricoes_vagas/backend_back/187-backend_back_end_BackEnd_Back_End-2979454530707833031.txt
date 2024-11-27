@@ -1,0 +1,92 @@
+link-https://www.linkedin.com/jobs/view/4046596937/?eBP=CwEAAAGS7lKMzw8vq2KCampm7H8Z7Va_ItYgOK1H5uUlttrDPcUCS2G_ylW88i5GWOE6xToNiV6hpzF8XzyZSo4oAXXJrOs1KhRFG2VrrMaX3vULOGPC2TonzvEtaBRt9MEXZzxl2pYX2yDcMp8FnTwp6Btl533VFwI3zuuFYwKl7gHPvQMiYzTc-OxtFKltAtegb62EsL3uIcnk_vfot_LYVlPgI7bLHxMOGT2bSp66TCr4-x8Xk9OvQrLj3kOkGaHpT0yhLahZvEJ6-TMLBI_WvWdKGes31k0D7pdjt_xIM5LJowOvWaojxbBpYWgmktB7alPXpqZeHUZshZsNFaUaeedDGjWWMo2l7x3kuAYpv4Uk2hmcJtSajpJbK2jW2QCraZbGTjT4mqR_RrcEGIV4cVig_SAi-3IHRn6JJDbbf_9t21gOyzkDdTtbSpLSS7CZ4n0CUsmHYEUNuW5bCepPFOEf58q5Z7-JkTNQZuiC_eyM6X-3dXQ9mCa3&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=w1q1pZZ6yYidR4fT%2F0sCPg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back-End Python Pleno (413440) - REMOTE
+Sobre a vaga
+Responsabilidades da OportunidadeManter, estender e propor melhorias em nossas APIs internas e sistemas;Manter a comunicação com stakeholders sobre o andamento dos produtos;Mentorar e auxiliar os desenvolvedores JRs.Requisitos3+ anos de experiência em alguma linguagem;Python é a linguagem que usamos na nossa stack;Django e Django Rest Framework;Testes Unitários e TDD;Git e ferramentas de colaboração de código (Github, Gitlab, Bitbucket, etc);Construção, manutenção e consumo de APIs RESTful;Experiência com metodologias ágeis (Scrum, Kanban, etc);Bancos de Dados relacional e não-relacional;Boas habilidades de comunicação (oral e escrita).DiferencialExperiência com Arquitetura Serverless;Vivência com cultura DevOps;Vivência com alguma Cloud (AWS, GCP, Azure, DigitalOcean, etc);Inglês técnico para leitura de documentação;Participação de comunidades/projetos Open Source;Familiaridade com conceitos de SOLID, Clean Architecture, Clean Code.Competências ComportamentaisBoas habilidades de comunicação (oral e escrita);Proatividade;Trabalho em equipe.Observações e/ou Benefícios Adicionais🩺Reembolso Convênio Médico🏋️‍♀️Gympass;📚Plataforma de cursos Refuturiza;🧠MaisCare (auxílio saúde mental no valor de R$200,00);💰Bonificação conforme as metas anuais;🎂Day-off no mês de aniversário;🌍 Cartão de TODOS (cartão que dá desconto em farmácias, cursos e ainda tem cashback).🏖️Férias remuneradas
+Responsabilidades da Oportunidade
+
+
+Manter, estender e propor melhorias em nossas APIs internas e sistemas;Manter a comunicação com stakeholders sobre o andamento dos produtos;Mentorar e auxiliar os desenvolvedores JRs.
+Manter, estender e propor melhorias em nossas APIs internas e sistemas;
+Manter, estender e propor melhorias em nossas APIs internas e sistemas;
+Manter a comunicação com stakeholders sobre o andamento dos produtos;
+Manter a comunicação com stakeholders sobre o andamento dos produtos;
+Mentorar e auxiliar os desenvolvedores JRs.
+Mentorar e auxiliar os desenvolvedores JRs.
+
+
+Requisitos
+
+
+3+ anos de experiência em alguma linguagem;Python é a linguagem que usamos na nossa stack;Django e Django Rest Framework;Testes Unitários e TDD;Git e ferramentas de colaboração de código (Github, Gitlab, Bitbucket, etc);Construção, manutenção e consumo de APIs RESTful;Experiência com metodologias ágeis (Scrum, Kanban, etc);Bancos de Dados relacional e não-relacional;Boas habilidades de comunicação (oral e escrita).
+3+ anos de experiência em alguma linguagem;
+3+ anos de experiência em alguma linguagem;
+Python é a linguagem que usamos na nossa stack;
+Python é a linguagem que usamos na nossa stack;
+Django e Django Rest Framework;
+Django e Django Rest Framework;
+Testes Unitários e TDD;
+Testes Unitários e TDD;
+Git e ferramentas de colaboração de código (Github, Gitlab, Bitbucket, etc);
+Git e ferramentas de colaboração de código (Github, Gitlab, Bitbucket, etc);
+Construção, manutenção e consumo de APIs RESTful;
+Construção, manutenção e consumo de APIs RESTful;
+Experiência com metodologias ágeis (Scrum, Kanban, etc);
+Experiência com metodologias ágeis (Scrum, Kanban, etc);
+Bancos de Dados relacional e não-relacional;
+Bancos de Dados relacional e não-relacional;
+Boas habilidades de comunicação (oral e escrita).
+Boas habilidades de comunicação (oral e escrita).
+
+
+Diferencial
+
+
+Experiência com Arquitetura Serverless;Vivência com cultura DevOps;Vivência com alguma Cloud (AWS, GCP, Azure, DigitalOcean, etc);Inglês técnico para leitura de documentação;Participação de comunidades/projetos Open Source;Familiaridade com conceitos de SOLID, Clean Architecture, Clean Code.
+Experiência com Arquitetura Serverless;
+Experiência com Arquitetura Serverless;
+Vivência com cultura DevOps;
+Vivência com cultura DevOps;
+Vivência com alguma Cloud (AWS, GCP, Azure, DigitalOcean, etc);
+Vivência com alguma Cloud (AWS, GCP, Azure, DigitalOcean, etc);
+Inglês técnico para leitura de documentação;
+Inglês técnico para leitura de documentação;
+Participação de comunidades/projetos Open Source;
+Participação de comunidades/projetos Open Source;
+Familiaridade com conceitos de SOLID, Clean Architecture, Clean Code.
+Familiaridade com conceitos de SOLID, Clean Architecture, Clean Code.
+
+
+Competências Comportamentais
+
+
+Boas habilidades de comunicação (oral e escrita);Proatividade;Trabalho em equipe.
+Boas habilidades de comunicação (oral e escrita);
+Boas habilidades de comunicação (oral e escrita);
+
+Proatividade;
+Proatividade;
+
+Trabalho em equipe.
+Trabalho em equipe.
+
+
+Observações e/ou Benefícios Adicionais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

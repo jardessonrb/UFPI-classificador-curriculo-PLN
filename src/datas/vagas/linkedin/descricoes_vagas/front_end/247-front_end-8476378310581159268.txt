@@ -1,0 +1,64 @@
+link-https://www.linkedin.com/jobs/view/4059990868/?eBP=CwEAAAGS7kzxeghAv0w2fS-Yp4ukDo2sjqyHG3CzjG9Nq_x8tLd86CBqc_o-qChGh6B5d9GYBJnbqzMFdhnbM5omceyzhpJESkRNS8C-sWIZXJQhd_qmHwFE8EmAVyqlbyVvdmoVJPQQbkXBsDx6FgQukUefINJ7-F6qgUsL7GLTBmIVDbEnONfPwlA2_XebLuJ-2mVkVvjEYG5jw3FqRCb4C178lD0A6jUk7NXtIabuejaHGkcKku03FLKMnGKVi1g0rMV0pfyMtw3jiInxKNo2BEy77SnP_dVSxLC5MaFunBxbN-g0yvMANa7jeFyapnZ-UoyJS9hkiORvSmpaMsAEoFOye3bk8HCFpueXg_DMEcJdZe-ADXL1IgIlyTY8fXk-5CHOlHa5krW5glsTWoxXnj_MnWWWVQ5fPWebxtsAdCuddRTkqSTKkSVSsZmL9wD4V0WvC9f-GVHHN-AmiYmAxN9mewcR2DfeqpkCbpe-YzYba8KCwPCjk_U7cxI&refId=94gnrwbwd5H%2FUFz3Hr4KsQ%3D%3D&trackingId=vJXxCVDCMvRfGEwZJ6EYeg%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev Front End
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+Sobre a vagaNosso cliente apoia diversas empresas no Brasil e no mundo desenvolvendo soluções tecnológicas, apoiando a gestão da manutenção e de ativos de alto padrão de qualidade, inovação e eficiência busca um Desenvolvedor (a) Front End ReactQUAIS SERÃO SUAS RESPONSABILIDADES NESTE DESAFIO?Desenvolver interfaces de usuário dinâmicas e responsivas utilizando React.Consumir APIs utilizando Axios, garantindo a integração eficiente com o backend.Colaborar de perto com a equipe de backend e designers, garantindo a coesão e funcionalidadedo produto.Implementar e gerenciar WebSockets para comunicação em tempo real.Otimizar a gestão de memória do navegador para garantir uma experiência de usuário suave eeficiente.Participar de discussões de design e arquitetura, oferecendo e recebendo feedback construtivo.Trabalhar em equipe de forma eficaz, comunicando-se claramente e contribuindo para umambiente colaborativo.QUALIFICAÇÕES EXIGIDASExperiência comprovada com React e consumo de APIs utilizando Axios.Experiência prévia em iniciar e desenvolver sistemas do zero.Familiaridade com WebSockets e otimização de memória no navegador.Experiência com sistemas grandes, como ERPs.Habilidade de comunicação clara e eficaz.Capacidade de trabalhar bem em equipe, sendo receptivo a feedbacks e discussões técnicas.Proatividade e interesse em aprender e se adaptar a novas tecnologias e metodologias.Diferenciais:Conhecimento em ferramentas de gerenciamento de estado como Redux.Experiência com TypeScript.Familiaridade com práticas de DevOps e CI/CD.Experiência prévia em ambientes ágeis.MODELO DE CONTRATAÇÃO E REMUNERAÇÃOModelo de contratação é PJ com férias remuneradas.??Código do Projeto: 8Para ter sucesso em processos seletivos:Acompanhe o nosso canal no Youtube:?? Para mais informações, contateRaphael Carriço - ******^ ´()?^?Estamos conduzindo uma pesquisa anônima para entender como foi a sua experiência ao ser desligada(o) do seu trabalho e a sua percepção do papel do RH nesse momento.Preencha a pesquisa:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Para ter sucesso em processos seletivos:
+Para ter sucesso em processos seletivos:
+Para ter sucesso em processos seletivos:
+
+
+
+
+
+
+Preencha a pesquisa:
+Preencha a pesquisa:
+Preencha a pesquisa:

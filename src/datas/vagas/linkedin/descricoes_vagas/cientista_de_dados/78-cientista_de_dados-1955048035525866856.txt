@@ -1,0 +1,100 @@
+link-https://www.linkedin.com/jobs/view/4048041197/?eBP=CwEAAAGS7jS4xbx3bgFgNLxuYVGRuMj007FFalFDXnoISUZe0apHpM2T_GkTqVdTSaAAXdJdWBrLL8pe982IwmH6IusJvM2hJUs_bDqARe4k-oWiR0mSO4lfpfLLeI3uYq8UcoQs16wHfOpf88fV8m9zZXE47iFcGbnQ5SchO5vnFCNcvakOXku01fseukKPKFtvFBW6VESY9RX2uM5Z-1sCf7sj9sb8uCoMEKMMaJsVgnd6DmnCdR6pg_0wlF6rCE8Xj14QsHeJ1gclVO-ZkuknAe0-ihAGgRc3BofVz2R3jZB6NYC4wX06CAY-HUb3cZgOxZFh5O2g0614GHbVFri1NCl-f6YEi3DA7-ja2vXokf7daABUvwzlsLeK6I9lUwiVco0z_mZMxHJ-99w-cofeijqq_fF59lQOYN2j6h4GN6VufCWp-rmYGYAG31chcXIdP0SKIjBnCSkEWnlVkmJTXrJEQEDtuv-ZyFHouSzVl5eVpdfD-XP4iVFV24fo6bDusPY&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=eou%2BCYbtKBzOjjxziAIzKQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados
+Sobre a vaga
+UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E#VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Esta posição é para a área de dados aqui da Lumini e consiste em desenvolver projetos específicos para atender à realidade de companhias de diferentes tamanhos e realidades.Curtiu? Inscreva-se na vaga!Responsabilidades e atribuiçõesCientista de dados para atuar em uma equipe multidisciplinar focada em consultoria para novos clientes, com o objetivo de entrega de valor em projetos curtos de ML e GenIA, principalmente PoCs (Provas de Conceito) e prototipação.Requisitos e qualificaçõesExperiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;Análise e modelagem de dados para Machine Learning;Treinamento e avaliação modelos de Machine Learning e LLM customizados;Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;Implantar pipelines de MLOps em ambientes produtivos;Conhecimento em ferramentas de dados AWS, principalmente bedrock;Conhecimento em Python e bibliotecas.Informações adicionaisModalidade de Trabalho:100% Home Office;Contratação:CLT;Horário de Atuação:Horário comercial.Benefícios CLT:Cartão Flex - Vale refeição ou alimentação (R$31,25/dia);Vale Refeição ou alimentação nas férias;Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos excepcionais);Auxílio Home-Office (R$180,00 por mês);Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;Assistência médica – Amil – 100% custeado pela empresa;Benefício Gympass (Wellhub);Day-Off de aniversário;Bonificação de aniversário;Seguro de Vida;Assistência Funeral;Parcerias com Universidades (FIAP, UNIP);Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).Importante:Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.
+
+#VemSerLuminiIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+Requisitos e qualificações
+
+
+Experiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;Análise e modelagem de dados para Machine Learning;Treinamento e avaliação modelos de Machine Learning e LLM customizados;Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;Implantar pipelines de MLOps em ambientes produtivos;Conhecimento em ferramentas de dados AWS, principalmente bedrock;Conhecimento em Python e bibliotecas.
+Experiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;
+Experiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;
+Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;
+Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;
+Análise e modelagem de dados para Machine Learning;
+Análise e modelagem de dados para Machine Learning;
+Treinamento e avaliação modelos de Machine Learning e LLM customizados;
+Treinamento e avaliação modelos de Machine Learning e LLM customizados;
+Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;
+Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;
+Implantar pipelines de MLOps em ambientes produtivos;
+Implantar pipelines de MLOps em ambientes produtivos;
+Conhecimento em ferramentas de dados AWS, principalmente bedrock;
+Conhecimento em ferramentas de dados AWS, principalmente bedrock;
+Conhecimento em Python e bibliotecas.
+Conhecimento em Python e bibliotecas.
+
+
+
+Informações adicionais
+
+
+Modalidade de Trabalho:
+
+
+
+Contratação:
+
+
+
+Horário de Atuação:
+
+
+
+Benefícios CLT:
+
+
+
+Cartão Flex - Vale refeição ou alimentação (R$31,25/dia);Vale Refeição ou alimentação nas férias;Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos excepcionais);Auxílio Home-Office (R$180,00 por mês);Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;Assistência médica – Amil – 100% custeado pela empresa;Benefício Gympass (Wellhub);Day-Off de aniversário;Bonificação de aniversário;Seguro de Vida;Assistência Funeral;Parcerias com Universidades (FIAP, UNIP);Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).
+Cartão Flex - Vale refeição ou alimentação (R$31,25/dia);
+Cartão Flex - Vale refeição ou alimentação (R$31,25/dia);
+Vale Refeição ou alimentação nas férias;
+Vale Refeição ou alimentação nas férias;
+Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos excepcionais);
+Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos excepcionais);
+Auxílio Home-Office (R$180,00 por mês);
+Auxílio Home-Office (R$180,00 por mês);
+Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;
+Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;
+Assistência médica – Amil – 100% custeado pela empresa;
+Assistência médica – Amil – 100% custeado pela empresa;
+Benefício Gympass (Wellhub);
+Benefício Gympass (Wellhub);
+Day-Off de aniversário;
+Day-Off de aniversário;
+Bonificação de aniversário;
+Bonificação de aniversário;
+Seguro de Vida;
+Seguro de Vida;
+Assistência Funeral;
+Assistência Funeral;
+Parcerias com Universidades (FIAP, UNIP);
+Parcerias com Universidades (FIAP, UNIP);
+Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).
+Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).
+
+
+
+Importante:
+

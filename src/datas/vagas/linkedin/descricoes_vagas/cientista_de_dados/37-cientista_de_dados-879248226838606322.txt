@@ -1,0 +1,113 @@
+link-https://www.linkedin.com/jobs/view/4057665289/?eBP=CwEAAAGS7jSFZQOyrXe47J5gex4Szq3oV1aBGEF279T3MMFJQKJUWKhTbrGZAHbZesHG2w9lzjZBjJ_v9OyB8WqaK8qVMNMro5RUZYeMx9XvNEUqnKZU4AEU8CEsG_QGZg705gcaM7v8NEo13T0m51C0zhqmaMueeZ2WIQSaEKZJULzRsrSMw66TFZhNAQDNhotXNVn2K4Ei5SfID883Ue4ube6l-BWbiRQx7I27DRKkCqrkkrmNYBZREQEl4VC2SfnEnp7HqNKRrr1KoePA3Ck6nOWrDolV7RXM17JofTUj4Y4p2SS-TA0rKKIYon74M9e2KhXCkuzCWjk15-E-yvmLSgiSwakqycemXH5WRV8q8NjXlxjgKSEvRZ-RAq5u1jM1e34YB-plBh6Ih7J6BiOLay2vppilXCPu_-ozxceDd2AQInxp6cXqRpuPPk6Wq1YQky5_fLWPqEtE8P6Ut14VeCM2NFqBX5yVXAOStcWdfFG93gE048B-uS5Nds-TxWcUHW4vMFs&refId=zG8L0cPSry7sLg6pAEmeJg%3D%3D&trackingId=i1ynq4b3Ak5rIfF4heFjZg%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados | AB InBev (Bees)
+Sobre a vaga
+Remoto | CLT | PlenoSobre a AB InBevA AB InBev é a cervejeira líder global e uma das cinco maiores empresas de produtos de consumo do mundo, com mais de 500 marcas de cerveja. Estamos presentes nos principais mercados da América do Norte, América Latina, Europa, Ásia e África, sempre buscando inovação e excelência.Sobre o ABI Growth GroupCriado em 2022, o Growth Group unifica as nossas equipes business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution e Marketing. Ao reunir funções tecnológicas e comerciais globais, o Growth Group permite-nos tirar o máximo partido dos dados e impulsionar a transformação digital e o crescimento orgânico da AB InBev em todo o mundo. Para além de apoiar marcas de cerveja bem conhecidas a nível mundial, como a Corona, a Budweiser e a Michelob Ultra, o Growth Group é a casa de um conjunto robusto de produtos digitais, incluindo a nossa plataforma de comércio digital B2B BEES, os serviços de entrega a pedido Ze Delivery e TaDa Delivery.Sua missão como Data Scientist:Como parte da equipe de Data Personalization no Bees, você será o arquiteto de soluções para desafios de negócios complexos em áreas como otimização de portfólio, recomendações, personalização, promoções, segmentação, imputação e descoberta de insights. Estamos buscando um profissional com:Formação: Bacharelado em áreas como Matemática, Física, Ciências da Computação ou áreas correlatas (com um diferencial se você tiver um mestrado ou doutorado).Domínio do inglês:nível avançado para conversação (sua liderança direta está nos EUA!)Habilidades Técnicas: Capacidade de colaborar em projetos do início ao fim, demonstrando domínio de algoritmos avançados em machine e deep learning e conhecimento prático de plataformas de cloud (Azure, Databricks) para aplicações de ML.Programação: Proficiência em Python/PySpark, ferramentas de colaboração e CI/CD como GitHub. Experiência com workflows de automação também é importante.O que você vai fazer:Inovação: Colaborar com membros da equipe para analisar conjuntos de dados complexos e implementar algoritmos de machine learning e deep learning para diversas aplicações.Atualização Contínua: Manter-se à frente das últimas inovações em algoritmos de machine learning e deep learning para resolver problemas complexos de negócios.Utilização de Cloud: Domínio em plataformas como Azure, Databricks e Spark para processar e analisar dados em larga escala.Automação e Programação: Utilizar Python/PySpark para tarefas de manipulação, análise e modelagem de dados e implemente fluxos de trabalho de automação para aumentar a produtividade.Colaboração: Trabalhar em estreita colaboração com engenheiros de dados, analistas de Business Intelligence, stakeholders e gerentes de produto para entender as necessidades dos projetos e entregar soluções de alta qualidade com uma abordagem ágil.O que oferecemos:Trabalho remoto ou híbrido em São Paulo ou Campinas (3x por semana) - você precisa estar no estado de SP, ok?Bônus de Performance e de AssiduidadeBônus de incentivo a longa permanênciaPlano de Previdência PrivadaVale AlimentaçãoSeguro de Saúde, Dental e de VidaDescontos em Medicamentos e Produtos AmbevParcerias de bem-estar: WellHub, Clube BenSubsídios para Creche e Material EscolarPlataformas de Treinamento e IdiomasVale TransporteVenha transformar o amanhã com o BEES! 🚀
+Remoto | CLT | Pleno
+Remoto | CLT | Pleno
+Remoto | CLT | Pleno
+
+
+
+Sobre a AB InBev
+Sobre a AB InBev
+Sobre a AB InBev
+A AB InBev é a cervejeira líder global e uma das cinco maiores empresas de produtos de consumo do mundo, com mais de 500 marcas de cerveja. Estamos presentes nos principais mercados da América do Norte, América Latina, Europa, Ásia e África, sempre buscando inovação e excelência.
+A AB InBev é a cervejeira líder global e uma das cinco maiores empresas de produtos de consumo do mundo, com mais de 500 marcas de cerveja. Estamos presentes nos principais mercados da América do Norte, América Latina, Europa, Ásia e África, sempre buscando inovação e excelência.
+
+
+
+Sobre o ABI Growth Group
+Sobre o ABI Growth Group
+Sobre o ABI Growth Group
+Criado em 2022, o Growth Group unifica as nossas equipes business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution e Marketing. Ao reunir funções tecnológicas e comerciais globais, o Growth Group permite-nos tirar o máximo partido dos dados e impulsionar a transformação digital e o crescimento orgânico da AB InBev em todo o mundo. Para além de apoiar marcas de cerveja bem conhecidas a nível mundial, como a Corona, a Budweiser e a Michelob Ultra, o Growth Group é a casa de um conjunto robusto de produtos digitais, incluindo a nossa plataforma de comércio digital B2B BEES, os serviços de entrega a pedido Ze Delivery e TaDa Delivery.
+Criado em 2022, o Growth Group unifica as nossas equipes business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution e Marketing. Ao reunir funções tecnológicas e comerciais globais, o Growth Group permite-nos tirar o máximo partido dos dados e impulsionar a transformação digital e o crescimento orgânico da AB InBev em todo o mundo. Para além de apoiar marcas de cerveja bem conhecidas a nível mundial, como a Corona, a Budweiser e a Michelob Ultra, o Growth Group é a casa de um conjunto robusto de produtos digitais, incluindo a nossa plataforma de comércio digital B2B BEES, os serviços de entrega a pedido Ze Delivery e TaDa Delivery.
+
+
+
+Sua missão como Data Scientist:
+Sua missão como Data Scientist:
+Sua missão como Data Scientist:
+Como parte da equipe de Data Personalization no Bees, você será o arquiteto de soluções para desafios de negócios complexos em áreas como otimização de portfólio, recomendações, personalização, promoções, segmentação, imputação e descoberta de insights. Estamos buscando um profissional com:
+Como parte da equipe de Data Personalization no Bees, você será o arquiteto de soluções para desafios de negócios complexos em áreas como otimização de portfólio, recomendações, personalização, promoções, segmentação, imputação e descoberta de insights. Estamos buscando um profissional com:
+Formação: Bacharelado em áreas como Matemática, Física, Ciências da Computação ou áreas correlatas (com um diferencial se você tiver um mestrado ou doutorado).Domínio do inglês:nível avançado para conversação (sua liderança direta está nos EUA!)Habilidades Técnicas: Capacidade de colaborar em projetos do início ao fim, demonstrando domínio de algoritmos avançados em machine e deep learning e conhecimento prático de plataformas de cloud (Azure, Databricks) para aplicações de ML.Programação: Proficiência em Python/PySpark, ferramentas de colaboração e CI/CD como GitHub. Experiência com workflows de automação também é importante.
+Formação: Bacharelado em áreas como Matemática, Física, Ciências da Computação ou áreas correlatas (com um diferencial se você tiver um mestrado ou doutorado).
+Formação: Bacharelado em áreas como Matemática, Física, Ciências da Computação ou áreas correlatas (com um diferencial se você tiver um mestrado ou doutorado).
+Formação
+Domínio do inglês:nível avançado para conversação (sua liderança direta está nos EUA!)
+Domínio do inglês:nível avançado para conversação (sua liderança direta está nos EUA!)
+Domínio do inglês:
+
+Habilidades Técnicas: Capacidade de colaborar em projetos do início ao fim, demonstrando domínio de algoritmos avançados em machine e deep learning e conhecimento prático de plataformas de cloud (Azure, Databricks) para aplicações de ML.
+Habilidades Técnicas: Capacidade de colaborar em projetos do início ao fim, demonstrando domínio de algoritmos avançados em machine e deep learning e conhecimento prático de plataformas de cloud (Azure, Databricks) para aplicações de ML.
+Habilidades Técnicas
+Programação: Proficiência em Python/PySpark, ferramentas de colaboração e CI/CD como GitHub. Experiência com workflows de automação também é importante.
+Programação: Proficiência em Python/PySpark, ferramentas de colaboração e CI/CD como GitHub. Experiência com workflows de automação também é importante.
+Programação
+
+
+
+O que você vai fazer:
+O que você vai fazer:
+O que você vai fazer:
+Inovação: Colaborar com membros da equipe para analisar conjuntos de dados complexos e implementar algoritmos de machine learning e deep learning para diversas aplicações.Atualização Contínua: Manter-se à frente das últimas inovações em algoritmos de machine learning e deep learning para resolver problemas complexos de negócios.Utilização de Cloud: Domínio em plataformas como Azure, Databricks e Spark para processar e analisar dados em larga escala.Automação e Programação: Utilizar Python/PySpark para tarefas de manipulação, análise e modelagem de dados e implemente fluxos de trabalho de automação para aumentar a produtividade.Colaboração: Trabalhar em estreita colaboração com engenheiros de dados, analistas de Business Intelligence, stakeholders e gerentes de produto para entender as necessidades dos projetos e entregar soluções de alta qualidade com uma abordagem ágil.
+Inovação: Colaborar com membros da equipe para analisar conjuntos de dados complexos e implementar algoritmos de machine learning e deep learning para diversas aplicações.
+Inovação: Colaborar com membros da equipe para analisar conjuntos de dados complexos e implementar algoritmos de machine learning e deep learning para diversas aplicações.
+Inovação
+Atualização Contínua: Manter-se à frente das últimas inovações em algoritmos de machine learning e deep learning para resolver problemas complexos de negócios.
+Atualização Contínua: Manter-se à frente das últimas inovações em algoritmos de machine learning e deep learning para resolver problemas complexos de negócios.
+Atualização Contínua
+Utilização de Cloud: Domínio em plataformas como Azure, Databricks e Spark para processar e analisar dados em larga escala.
+Utilização de Cloud: Domínio em plataformas como Azure, Databricks e Spark para processar e analisar dados em larga escala.
+Utilização de Cloud
+Automação e Programação: Utilizar Python/PySpark para tarefas de manipulação, análise e modelagem de dados e implemente fluxos de trabalho de automação para aumentar a produtividade.
+Automação e Programação: Utilizar Python/PySpark para tarefas de manipulação, análise e modelagem de dados e implemente fluxos de trabalho de automação para aumentar a produtividade.
+Automação e Programação
+Colaboração: Trabalhar em estreita colaboração com engenheiros de dados, analistas de Business Intelligence, stakeholders e gerentes de produto para entender as necessidades dos projetos e entregar soluções de alta qualidade com uma abordagem ágil.
+Colaboração: Trabalhar em estreita colaboração com engenheiros de dados, analistas de Business Intelligence, stakeholders e gerentes de produto para entender as necessidades dos projetos e entregar soluções de alta qualidade com uma abordagem ágil.
+Colaboração
+
+
+
+O que oferecemos:
+O que oferecemos:
+O que oferecemos:
+Trabalho remoto ou híbrido em São Paulo ou Campinas (3x por semana) - você precisa estar no estado de SP, ok?Bônus de Performance e de AssiduidadeBônus de incentivo a longa permanênciaPlano de Previdência PrivadaVale AlimentaçãoSeguro de Saúde, Dental e de VidaDescontos em Medicamentos e Produtos AmbevParcerias de bem-estar: WellHub, Clube BenSubsídios para Creche e Material EscolarPlataformas de Treinamento e IdiomasVale Transporte
+Trabalho remoto ou híbrido em São Paulo ou Campinas (3x por semana) - você precisa estar no estado de SP, ok?
+Trabalho remoto ou híbrido em São Paulo ou Campinas (3x por semana) - você precisa estar no estado de SP, ok?
+Trabalho remoto ou híbrido em São Paulo ou Campinas (3x por semana) - você precisa estar no estado de SP, ok?
+Bônus de Performance e de Assiduidade
+Bônus de Performance e de Assiduidade
+Bônus de Performance e de Assiduidade
+Bônus de incentivo a longa permanência
+Bônus de incentivo a longa permanência
+Bônus de incentivo a longa permanência
+Plano de Previdência Privada
+Plano de Previdência Privada
+Plano de Previdência Privada
+Vale Alimentação
+Vale Alimentação
+Vale Alimentação
+Seguro de Saúde, Dental e de Vida
+Seguro de Saúde, Dental e de Vida
+Seguro de Saúde, Dental e de Vida
+Descontos em Medicamentos e Produtos Ambev
+Descontos em Medicamentos e Produtos Ambev
+Descontos em Medicamentos e Produtos Ambev
+Parcerias de bem-estar: WellHub, Clube Ben
+Parcerias de bem-estar: WellHub, Clube Ben
+Parcerias de bem-estar: WellHub, Clube Ben
+Subsídios para Creche e Material Escolar
+Subsídios para Creche e Material Escolar
+Subsídios para Creche e Material Escolar
+Plataformas de Treinamento e Idiomas
+Plataformas de Treinamento e Idiomas
+Plataformas de Treinamento e Idiomas
+Vale Transporte
+Vale Transporte
+Vale Transporte
+
+
+
+Venha transformar o amanhã com o BEES! 🚀
+Venha transformar o amanhã com o BEES! 🚀

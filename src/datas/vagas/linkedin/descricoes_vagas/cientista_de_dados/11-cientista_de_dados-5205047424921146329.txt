@@ -1,0 +1,171 @@
+link-https://www.linkedin.com/jobs/view/4058212349/?eBP=CwEAAAGS7jTqlfelwhu1iNTHoJUKVU8XZrArPAkKORTUcisjIyXFfoYlIUmuQcQ2tieA12aqd6TC_0HVS-OUf1OsQ1qATaBLObIA5L5iBqzMu6Q9_88wcny-bCFGhr4He7bUwqwq1Q3t04_hmV0-ZhpEidr775Vdfbdo3JA6bY7aZBCeeLax18kz_q4azSue9lS1noOE95mF4mopPpFpc_0EF7jZ2CIBjtjSnwsRL70jlVTKrEyl_bCq8viLsMY8XzQiDHq540p4WimZIMb1uRtajqTpKGnxQpi9hd05KaQCOOUyIrrSAA-PUne2PoKtTLXFJLSo21aAivIpGqtn38I_vvE5VWxtiU4urL2ub_EDRyNNAElNCC7Hs-KgwgnxrFiYkCfRADL-77V6Y8gGtW1lJ4ELRlYPZN8nbxbsTIv4cfKldl8ANpaoXMF-_JFbWaB5ojcslz7l5NXFddCHhaMecDkoZudgsrGI1vK0qLq4jDUHuOObknuvrEIu&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=Wy3o5PCxWuWrmWBBGNUL3w%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Cientista de Dados Sênior (NLP / LLM)
+Sobre a vaga
+AA3Dataé uma consultoria de dados, referência em#Dados! 🚀Somos, em nossa essência, aceleradores da cultura Data Driven nas organizações. Nosso foco é implantar Inteligência Estratégica e potencializar a cultura dos dados para os nossos clientes! 🎯Somoságeis,analíticoseavançadose temos uma cultura leve, horizontal e muito colaborativa! ✌️Nosso propósito é empoderar as pessoas por meio dos dados.E, por isso, buscamos parceiros que também sejam loucos por dados e apaixonados por gente! 🤩#VemSerUmEu.A3💙Responsabilidades e atribuiçõesPara ser umaPessoa Cientista de DadosnaA3buscamos alguém que:Conheça das técnicas e documentos para levantamento de requisitos e especificações;Saiba lidar com alto volume de dados de diversas fontes diferentes;Realize análises exploratórias dos dados;Selecione e implante técnicas e algoritmos de Machine Learning ou IA para resolução dos problemas selecionados;Resolva problemas de negócios usando técnicas orientadas por dados;Tenha uma sólida compreensão de estatística, incluindo testes e distribuições;Esteja sempre atualizado(a) sobre técnicas analíticas, como machine learning, deep learning e Processamento de Linguagem Natural;Trabalhe adotando metodologias ágeis de desenvolvimento e entregas;Desenvolva e reporte relatórios para justificar as técnicas adotadas;Entenda de Negócios e seja focado em entregas de valor para os clientes.Requisitos e qualificaçõesO que precisamos que você tenha (requisitos):Experiência com Large Language Models (LLM's)Domínio em técnicas de NLP;Domínio em Python e Programação Orientada a Objeto (POO);Experiência com desenvolvimento de APIs;Domínio em Versionamento de Código;Experiência com Manipulação de Dados;Conhecimento Avançado em estatística e técnicas de machine learning (supervisionado e não supervisionado);Excelente comunicação verbal, com facilidade para lidar diariamente com pessoas de Negócio;Também ficaremos felizes caso tenha (diferencial):Conhecimento avançado em nuvem (AWS, GCP ou Azure)Experiência com Spark (Python ou Scala);Experiência com SQL;Informações adicionaisNossos benefícios:Vale Alimentação/Refeição flexível (Swile);Total Pass (academias);Vittude (atendimento psicológico online);Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;Plano Dental Amil;Maria Saúde;Seguro de Vida;Plano de saúde Pet;Participação nos Lucros e Resultados;Bônus anual;Desconto nos cursos de idioma da Open English;Parceria AWS nível Advanced;Desconto na conta de energia elétrica (operadora CEMIG);Empresa Cidadã: licenças maternidade e paternidade estendidas;Samsung EPP (descontos em todo portfólio de produtos Samsung).E mais:100% home office;40 horas semanais;Dia a dia descontraído e acolhedor;Plano de carreira e acompanhamento individual;Programas internos de compartilhamento de conhecimento;Prezamos pela diversidade, liberdade, flexibilidade e autonomia!Curtiu o desafio?Estamos ansiosos para receber seu CV 🎯Um dos nossos valores é ser transparente, sempre! Por isso, é importante que saiba que avaliamos todos os CVs cadastrados e, se você tiver fit com a vaga e com nossa cultura, te convidaremos para um primeiro bate papo! 😉Mas, caso seu CV não seja selecionado dessa vez, não se preocupe! Ficaremos de olho, para futuras oportunidades. ✅
+
+A3Data
+
+#Dados
+
+
+
+
+
+
+ágeis
+
+analíticos
+
+
+avançados
+
+
+
+Nosso propósito é empoderar as pessoas por meio dos dados.
+
+
+
+#VemSerUmEu.A3
+
+
+Responsabilidades e atribuições
+
+
+
+Pessoa Cientista de Dados
+
+
+A3
+
+
+
+Conheça das técnicas e documentos para levantamento de requisitos e especificações;Saiba lidar com alto volume de dados de diversas fontes diferentes;Realize análises exploratórias dos dados;Selecione e implante técnicas e algoritmos de Machine Learning ou IA para resolução dos problemas selecionados;Resolva problemas de negócios usando técnicas orientadas por dados;Tenha uma sólida compreensão de estatística, incluindo testes e distribuições;Esteja sempre atualizado(a) sobre técnicas analíticas, como machine learning, deep learning e Processamento de Linguagem Natural;Trabalhe adotando metodologias ágeis de desenvolvimento e entregas;Desenvolva e reporte relatórios para justificar as técnicas adotadas;Entenda de Negócios e seja focado em entregas de valor para os clientes.
+Conheça das técnicas e documentos para levantamento de requisitos e especificações;
+Conheça das técnicas e documentos para levantamento de requisitos e especificações;
+Saiba lidar com alto volume de dados de diversas fontes diferentes;
+Saiba lidar com alto volume de dados de diversas fontes diferentes;
+Realize análises exploratórias dos dados;
+Realize análises exploratórias dos dados;
+Selecione e implante técnicas e algoritmos de Machine Learning ou IA para resolução dos problemas selecionados;
+Selecione e implante técnicas e algoritmos de Machine Learning ou IA para resolução dos problemas selecionados;
+Resolva problemas de negócios usando técnicas orientadas por dados;
+Resolva problemas de negócios usando técnicas orientadas por dados;
+Tenha uma sólida compreensão de estatística, incluindo testes e distribuições;
+Tenha uma sólida compreensão de estatística, incluindo testes e distribuições;
+Esteja sempre atualizado(a) sobre técnicas analíticas, como machine learning, deep learning e Processamento de Linguagem Natural;
+Esteja sempre atualizado(a) sobre técnicas analíticas, como machine learning, deep learning e Processamento de Linguagem Natural;
+Trabalhe adotando metodologias ágeis de desenvolvimento e entregas;
+Trabalhe adotando metodologias ágeis de desenvolvimento e entregas;
+Desenvolva e reporte relatórios para justificar as técnicas adotadas;
+Desenvolva e reporte relatórios para justificar as técnicas adotadas;
+Entenda de Negócios e seja focado em entregas de valor para os clientes.
+Entenda de Negócios e seja focado em entregas de valor para os clientes.
+
+
+
+Requisitos e qualificações
+
+
+O que precisamos que você tenha (requisitos):
+
+
+Experiência com Large Language Models (LLM's)Domínio em técnicas de NLP;Domínio em Python e Programação Orientada a Objeto (POO);Experiência com desenvolvimento de APIs;Domínio em Versionamento de Código;Experiência com Manipulação de Dados;Conhecimento Avançado em estatística e técnicas de machine learning (supervisionado e não supervisionado);Excelente comunicação verbal, com facilidade para lidar diariamente com pessoas de Negócio;
+Experiência com Large Language Models (LLM's)
+Experiência com Large Language Models (LLM's)
+Domínio em técnicas de NLP;
+Domínio em técnicas de NLP;
+Domínio em Python e Programação Orientada a Objeto (POO);
+Domínio em Python e Programação Orientada a Objeto (POO);
+Experiência com desenvolvimento de APIs;
+Experiência com desenvolvimento de APIs;
+Domínio em Versionamento de Código;
+Domínio em Versionamento de Código;
+Experiência com Manipulação de Dados;
+Experiência com Manipulação de Dados;
+Conhecimento Avançado em estatística e técnicas de machine learning (supervisionado e não supervisionado);
+Conhecimento Avançado em estatística e técnicas de machine learning (supervisionado e não supervisionado);
+Excelente comunicação verbal, com facilidade para lidar diariamente com pessoas de Negócio;
+Excelente comunicação verbal, com facilidade para lidar diariamente com pessoas de Negócio;
+
+
+
+Também ficaremos felizes caso tenha (diferencial):
+
+
+Conhecimento avançado em nuvem (AWS, GCP ou Azure)Experiência com Spark (Python ou Scala);Experiência com SQL;
+Conhecimento avançado em nuvem (AWS, GCP ou Azure)
+Conhecimento avançado em nuvem (AWS, GCP ou Azure)
+Experiência com Spark (Python ou Scala);
+Experiência com Spark (Python ou Scala);
+Experiência com SQL;
+Experiência com SQL;
+
+
+
+Informações adicionais
+
+
+Nossos benefícios:
+
+
+Vale Alimentação/Refeição flexível (Swile);Total Pass (academias);Vittude (atendimento psicológico online);Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;Plano Dental Amil;Maria Saúde;Seguro de Vida;Plano de saúde Pet;Participação nos Lucros e Resultados;Bônus anual;Desconto nos cursos de idioma da Open English;Parceria AWS nível Advanced;Desconto na conta de energia elétrica (operadora CEMIG);Empresa Cidadã: licenças maternidade e paternidade estendidas;Samsung EPP (descontos em todo portfólio de produtos Samsung).
+Vale Alimentação/Refeição flexível (Swile);
+Vale Alimentação/Refeição flexível (Swile);
+Total Pass (academias);
+Total Pass (academias);
+Vittude (atendimento psicológico online);
+Vittude (atendimento psicológico online);
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Saúde SulAmérica- 100% subsidiado para você Eu.A3;
+Plano Dental Amil;
+Plano Dental Amil;
+Maria Saúde;
+Maria Saúde;
+Seguro de Vida;
+Seguro de Vida;
+Plano de saúde Pet;
+Plano de saúde Pet;
+Participação nos Lucros e Resultados;
+Participação nos Lucros e Resultados;
+Bônus anual;
+Bônus anual;
+Desconto nos cursos de idioma da Open English;
+Desconto nos cursos de idioma da Open English;
+Parceria AWS nível Advanced;
+Parceria AWS nível Advanced;
+Desconto na conta de energia elétrica (operadora CEMIG);
+Desconto na conta de energia elétrica (operadora CEMIG);
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Empresa Cidadã: licenças maternidade e paternidade estendidas;
+Samsung EPP (descontos em todo portfólio de produtos Samsung).
+Samsung EPP (descontos em todo portfólio de produtos Samsung).
+
+
+
+E mais:
+
+
+100% home office;40 horas semanais;Dia a dia descontraído e acolhedor;Plano de carreira e acompanhamento individual;Programas internos de compartilhamento de conhecimento;Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+100% home office;
+100% home office;
+40 horas semanais;
+40 horas semanais;
+Dia a dia descontraído e acolhedor;
+Dia a dia descontraído e acolhedor;
+Plano de carreira e acompanhamento individual;
+Plano de carreira e acompanhamento individual;
+Programas internos de compartilhamento de conhecimento;
+Programas internos de compartilhamento de conhecimento;
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+Prezamos pela diversidade, liberdade, flexibilidade e autonomia!
+
+
+
+Curtiu o desafio?
+
+
+
+
+
+

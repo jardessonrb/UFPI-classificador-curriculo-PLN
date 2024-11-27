@@ -1,0 +1,109 @@
+link-https://www.linkedin.com/jobs/view/4052465760/?eBP=CwEAAAGS7jUdtmVhJSrpDkSHwaSGB_MvJ5xhPmCgmRz75mdKhVTof3UqxFx4gMvRxY2A_VKxu3CLLRRWuGtFlSO2CkJBfpZ25sca-y5Rc9p5KYdonNr_mY_vI_oYg2Atdf5to7sBxvfi_xA9wDxzQOpv2o7jz1pp-UgmxgfDTEyoioz2Jwgo9t-NyahwjYnE0PBw7lrEXA4NQBUWG0ejNJe6UW1JnchKLunqNglmt8PswzcO_nbWQmCmrLeOa7sCD4E_2QUtx7T-VYwyAINXhwAPJrsWGJe0NtyWCoGq3k9ZgchAdQBi8t9F_yxKsKJiHeTWgSr_w7d6CFCHt2VHF-QM-xpQ7efZrydKqcgHCPCly53sySStE7XPX5JVyKNjm44MaRgwkL_ITkybg-HnzooB_NwQuQBOBpJnG5bhOc130vT4j_6FxGB_vG6cZux4BFsVNouhIieXmvhITjjKXfRkxSxvGqo5NpgCLoCTDgd8y4oGRMbLVO2F5wgm9bG0aoVsh6E&refId=0wF6uaryj8yl6vSyh5iUng%3D%3D&trackingId=GhV0ELClN6eqgreFwhLydQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista De Dados
+Sobre a vaga
+Esta oportunidade é para atuação no formato híbrido, com atuação presencial 3-4x na semana, na Barra da Tijuca, Rio de Janeiro.Atividades:Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados para identificar padrões, tendências e insights que suportem a tomada de decisões estratégicas.Desenvolver modelos preditivos e algoritmos de machine learning para resolver problemas complexos de negócios, melhorando a eficiência e otimizando processos.Colaborar com stakeholders de diferentes áreas para entender suas necessidades de dados e criar soluções que atendam às suas demandas.Implementar soluções de data science utilizando linguagens de programação como Python, R e frameworks como TensorFlow, Scikit-learn ou PyTorch.Realizar análises exploratórias de dados (EDA) e criar relatórios visuais que comuniquem de forma clara os insights e resultados obtidos.Garantir a qualidade dos dados e a integridade dos modelos desenvolvidos, ajustando-os conforme necessário para maximizar sua precisão e utilidade.Acompanhar as tendências e avanços nas áreas de ciência de dados, inteligência artificial e machine learning para trazer inovações para a empresa.Trabalhar em estreita colaboração com equipes de engenharia de dados e analistas de BI para integrar soluções de dados nos sistemas e processos da empresa.Requisitos:Graduação em Ciência da Computação, Estatística, Matemática, Engenharia ou áreas relacionadas.Necessário experiência com IA generativaExperiência em ciência de dados, machine learning ou áreas correlatas.Conhecimento profundo de técnicas estatísticas e de modelagem, algoritmos de machine learning e mineração de dados.Proficiência em linguagens de programação como Python ou R, além de experiência com SQL.Experiência com big data e ferramentas de processamento distribuído (ex.: Hadoop, Spark).Conhecimento de visualização de dados utilizando ferramentas como Power BI, Tableau ou Matplotlib/Seaborn.Fluência em inglês; conhecimentos adicionais em outros idiomas são um diferencial.Competências:Habilidade de trabalhar com grandes conjuntos de dados e encontrar insights que agreguem valor ao negócio.Capacidade analítica excepcional e forte orientação para a resolução de problemas.Boa comunicação e habilidade de traduzir resultados técnicos em linguagem de negócios.Proatividade e vontade de aprender novas técnicas e ferramentas.Excelentes habilidades de colaboração e trabalho em equipe.Capacidade de priorizar e gerenciar múltiplos projetos simultaneamente.Diferenciais:Experiência com deep learning e redes neurais.Certificações em Data Science ou Machine Learning.Experiência em empresas de tecnologia ou consultoria com foco em projetos de dados e IA.Familiaridade com metodologias ágeis e DevOps aplicados a projetos de dados.Conheça o Programa + Dadoteca:Plano de SaúdeVA ou VRGympassZenklubIncentivo financeiro para curso de idiomasIncentivo financeiro para certificações MicrosoftIfood benefícios
+
+
+
+
+Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados para identificar padrões, tendências e insights que suportem a tomada de decisões estratégicas.Desenvolver modelos preditivos e algoritmos de machine learning para resolver problemas complexos de negócios, melhorando a eficiência e otimizando processos.Colaborar com stakeholders de diferentes áreas para entender suas necessidades de dados e criar soluções que atendam às suas demandas.Implementar soluções de data science utilizando linguagens de programação como Python, R e frameworks como TensorFlow, Scikit-learn ou PyTorch.Realizar análises exploratórias de dados (EDA) e criar relatórios visuais que comuniquem de forma clara os insights e resultados obtidos.Garantir a qualidade dos dados e a integridade dos modelos desenvolvidos, ajustando-os conforme necessário para maximizar sua precisão e utilidade.Acompanhar as tendências e avanços nas áreas de ciência de dados, inteligência artificial e machine learning para trazer inovações para a empresa.Trabalhar em estreita colaboração com equipes de engenharia de dados e analistas de BI para integrar soluções de dados nos sistemas e processos da empresa.
+Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados para identificar padrões, tendências e insights que suportem a tomada de decisões estratégicas.
+Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados para identificar padrões, tendências e insights que suportem a tomada de decisões estratégicas.
+Desenvolver modelos preditivos e algoritmos de machine learning para resolver problemas complexos de negócios, melhorando a eficiência e otimizando processos.
+Desenvolver modelos preditivos e algoritmos de machine learning para resolver problemas complexos de negócios, melhorando a eficiência e otimizando processos.
+Colaborar com stakeholders de diferentes áreas para entender suas necessidades de dados e criar soluções que atendam às suas demandas.
+Colaborar com stakeholders de diferentes áreas para entender suas necessidades de dados e criar soluções que atendam às suas demandas.
+Implementar soluções de data science utilizando linguagens de programação como Python, R e frameworks como TensorFlow, Scikit-learn ou PyTorch.
+Implementar soluções de data science utilizando linguagens de programação como Python, R e frameworks como TensorFlow, Scikit-learn ou PyTorch.
+Realizar análises exploratórias de dados (EDA) e criar relatórios visuais que comuniquem de forma clara os insights e resultados obtidos.
+Realizar análises exploratórias de dados (EDA) e criar relatórios visuais que comuniquem de forma clara os insights e resultados obtidos.
+Garantir a qualidade dos dados e a integridade dos modelos desenvolvidos, ajustando-os conforme necessário para maximizar sua precisão e utilidade.
+Garantir a qualidade dos dados e a integridade dos modelos desenvolvidos, ajustando-os conforme necessário para maximizar sua precisão e utilidade.
+Acompanhar as tendências e avanços nas áreas de ciência de dados, inteligência artificial e machine learning para trazer inovações para a empresa.
+Acompanhar as tendências e avanços nas áreas de ciência de dados, inteligência artificial e machine learning para trazer inovações para a empresa.
+Trabalhar em estreita colaboração com equipes de engenharia de dados e analistas de BI para integrar soluções de dados nos sistemas e processos da empresa.
+Trabalhar em estreita colaboração com equipes de engenharia de dados e analistas de BI para integrar soluções de dados nos sistemas e processos da empresa.
+
+
+
+
+
+Graduação em Ciência da Computação, Estatística, Matemática, Engenharia ou áreas relacionadas.Necessário experiência com IA generativaExperiência em ciência de dados, machine learning ou áreas correlatas.Conhecimento profundo de técnicas estatísticas e de modelagem, algoritmos de machine learning e mineração de dados.Proficiência em linguagens de programação como Python ou R, além de experiência com SQL.Experiência com big data e ferramentas de processamento distribuído (ex.: Hadoop, Spark).Conhecimento de visualização de dados utilizando ferramentas como Power BI, Tableau ou Matplotlib/Seaborn.Fluência em inglês; conhecimentos adicionais em outros idiomas são um diferencial.
+Graduação em Ciência da Computação, Estatística, Matemática, Engenharia ou áreas relacionadas.
+Graduação em Ciência da Computação, Estatística, Matemática, Engenharia ou áreas relacionadas.
+Necessário experiência com IA generativa
+Necessário experiência com IA generativa
+Experiência em ciência de dados, machine learning ou áreas correlatas.
+Experiência em ciência de dados, machine learning ou áreas correlatas.
+Conhecimento profundo de técnicas estatísticas e de modelagem, algoritmos de machine learning e mineração de dados.
+Conhecimento profundo de técnicas estatísticas e de modelagem, algoritmos de machine learning e mineração de dados.
+Proficiência em linguagens de programação como Python ou R, além de experiência com SQL.
+Proficiência em linguagens de programação como Python ou R, além de experiência com SQL.
+Experiência com big data e ferramentas de processamento distribuído (ex.: Hadoop, Spark).
+Experiência com big data e ferramentas de processamento distribuído (ex.: Hadoop, Spark).
+Conhecimento de visualização de dados utilizando ferramentas como Power BI, Tableau ou Matplotlib/Seaborn.
+Conhecimento de visualização de dados utilizando ferramentas como Power BI, Tableau ou Matplotlib/Seaborn.
+Fluência em inglês; conhecimentos adicionais em outros idiomas são um diferencial.
+Fluência em inglês; conhecimentos adicionais em outros idiomas são um diferencial.
+
+
+
+
+
+Habilidade de trabalhar com grandes conjuntos de dados e encontrar insights que agreguem valor ao negócio.Capacidade analítica excepcional e forte orientação para a resolução de problemas.Boa comunicação e habilidade de traduzir resultados técnicos em linguagem de negócios.Proatividade e vontade de aprender novas técnicas e ferramentas.Excelentes habilidades de colaboração e trabalho em equipe.Capacidade de priorizar e gerenciar múltiplos projetos simultaneamente.
+Habilidade de trabalhar com grandes conjuntos de dados e encontrar insights que agreguem valor ao negócio.
+Habilidade de trabalhar com grandes conjuntos de dados e encontrar insights que agreguem valor ao negócio.
+Capacidade analítica excepcional e forte orientação para a resolução de problemas.
+Capacidade analítica excepcional e forte orientação para a resolução de problemas.
+Boa comunicação e habilidade de traduzir resultados técnicos em linguagem de negócios.
+Boa comunicação e habilidade de traduzir resultados técnicos em linguagem de negócios.
+Proatividade e vontade de aprender novas técnicas e ferramentas.
+Proatividade e vontade de aprender novas técnicas e ferramentas.
+Excelentes habilidades de colaboração e trabalho em equipe.
+Excelentes habilidades de colaboração e trabalho em equipe.
+Capacidade de priorizar e gerenciar múltiplos projetos simultaneamente.
+Capacidade de priorizar e gerenciar múltiplos projetos simultaneamente.
+
+
+
+
+
+Experiência com deep learning e redes neurais.Certificações em Data Science ou Machine Learning.Experiência em empresas de tecnologia ou consultoria com foco em projetos de dados e IA.Familiaridade com metodologias ágeis e DevOps aplicados a projetos de dados.
+Experiência com deep learning e redes neurais.
+Experiência com deep learning e redes neurais.
+Certificações em Data Science ou Machine Learning.
+Certificações em Data Science ou Machine Learning.
+Experiência em empresas de tecnologia ou consultoria com foco em projetos de dados e IA.
+Experiência em empresas de tecnologia ou consultoria com foco em projetos de dados e IA.
+Familiaridade com metodologias ágeis e DevOps aplicados a projetos de dados.
+Familiaridade com metodologias ágeis e DevOps aplicados a projetos de dados.
+
+
+
+Conheça o Programa + Dadoteca:
+
+
+Plano de SaúdeVA ou VRGympassZenklubIncentivo financeiro para curso de idiomasIncentivo financeiro para certificações MicrosoftIfood benefícios
+Plano de Saúde
+Plano de Saúde
+
+VA ou VR
+VA ou VR
+
+Gympass
+Gympass
+
+Zenklub
+Zenklub
+
+Incentivo financeiro para curso de idiomas
+Incentivo financeiro para curso de idiomas
+
+Incentivo financeiro para certificações Microsoft
+Incentivo financeiro para certificações Microsoft
+
+Ifood benefícios
+Ifood benefícios
+
+

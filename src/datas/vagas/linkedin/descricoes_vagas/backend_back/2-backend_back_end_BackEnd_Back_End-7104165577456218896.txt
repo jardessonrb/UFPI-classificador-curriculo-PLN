@@ -1,0 +1,39 @@
+link-https://www.linkedin.com/jobs/view/4043365011/?eBP=CwEAAAGS7lLybHcn5C54Omujn_O7EpLPp8L0H1rfUM8IZm0Yp0KozGwqzf4s6ElW8_3qXj2Rzei37PBiuRu_DkPsrn4JDfnhnQGR-Q6SiuTOw8egpcgm3XUX9LeqiUATv0hL4Ou9gJokcN3GyjtyFgazbsIdcHbRxLtJYWhSKqqHSvjqyncch7xByJmDGKWLWPRYikcAzwR3sTUIYzZYjeG--qBKeACXOlnf5SJypky2V4jQlBw5FLUaC4osVXwRcp6Sim1bkI02IkuB7eCO0RpTFyP55YtsttBtHNo8VTejqe1l8l9bURzM_YuNEWXovjvm8DizBEtHSU6MHipua3kT7_Z-822A74xxRrkHT7hYjOgaYYfcmTS8-TC48aovuy5kFYge4-8lvm_PNryd-rAMlZ5MrMxd5X4eOpKUaR14QRo2LfYkwW1mIZbiIMA1ap0C9NyQUdbJ945Iwt2fALmpHApGr5PARqnMdVQmqD7cxXsM9bpnKOLcEhyIOYE4bhsA&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=9IKcVPDP5VrmJBKPWLc2Gg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back-End - (Porto Alegre/RS)
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+Vaga de Desenvolvedor Back-End - (Porto Alegre/RS) em Rio Grande do Sul. A combinar. Período Integral. Efetivo – CLT Área e especialização profissional: Informática, TI, Telecomunicações - Programador / Desenvolvedor Nível hierárquico: Especialista Local de trabalho: Porto Alegre, RS Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Atividades: Manutenção e aprimoramento do backend do site da empresa, garantindo alta disponibilidade e performance. Colaborar com a equipe de desenvolvimento para integração das aplicações. Implementar melhores práticas de código e segurança, incluindo revisões de código e testes automatizados. Utilizar Azure DevOps para integração e entrega contínua (CI/CD). Trabalhar em conjunto com a equipe de infraestrutura para garantir a escalabilidade e segurança dos serviços na nuvem Azure. Participar ativamente das fases de planejamento, design, desenvolvimento e lançamento de novos recursos.Conhecimentos NecessáriosExperiência com desenvolvimento backend em .NET 6 C.Conhecimentos básicos de frontend, incluindo NextJS.Requisitos EsperadosConhecimento prático com Azure, incluindo Application Gateway, API Management, Azure SQL Database, Azure Redis, e Azure Storage.Experiência com WebAPI REST e Azure FunctionsInformações AdicionaisLocal de trabalho: A posição é para nossa equipe de Tecnologia da Informação, na sede da imobiliária (Agência Carlos Gomes - Porto Alegre). Temos opções flexíveis de trabalho, incluindo presencial e híbrido.Jornada de trabalho: De Segunda à Sexta 08:30hs às 17:45hs (com 1h de intervalo);OBS.: Envie seu currículo, junto de um portfólio ou exemplos de projetos anteriores, para nosso portal de carreiras. Inclua uma carta de apresentação explicando como suas experiências anteriores e suas habilidades se alinham com os requisitos da vaga. Benefícios adicionais: Assistência médica, Auxílio creche, Auxílio farmácia, Seguro de Vida, Vale-alimentação, Vale-transporte
+
+
+Conhecimentos Necessários
+
+
+Experiência com desenvolvimento backend em .NET 6 C.Conhecimentos básicos de frontend, incluindo NextJS.
+Experiência com desenvolvimento backend em .NET 6 C.
+Experiência com desenvolvimento backend em .NET 6 C.
+
+Conhecimentos básicos de frontend, incluindo NextJS.
+Conhecimentos básicos de frontend, incluindo NextJS.
+
+
+
+Requisitos Esperados
+
+
+Conhecimento prático com Azure, incluindo Application Gateway, API Management, Azure SQL Database, Azure Redis, e Azure Storage.Experiência com WebAPI REST e Azure Functions
+Conhecimento prático com Azure, incluindo Application Gateway, API Management, Azure SQL Database, Azure Redis, e Azure Storage.
+Conhecimento prático com Azure, incluindo Application Gateway, API Management, Azure SQL Database, Azure Redis, e Azure Storage.
+
+Experiência com WebAPI REST e Azure Functions
+Experiência com WebAPI REST e Azure Functions
+
+
+
+Informações Adicionais
+
+
+
+
+
+

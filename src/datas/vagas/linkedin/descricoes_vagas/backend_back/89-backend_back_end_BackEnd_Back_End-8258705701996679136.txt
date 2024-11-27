@@ -1,0 +1,38 @@
+link-https://www.linkedin.com/jobs/view/4044930977/?eBP=CwEAAAGS7lGQwUIMP3Ot4FSxk_o0cpAjJAk6JUL8sYPymz9a_Xh5kzRGA7aMbwdWxwaT_KHwqpg9aeIDQRTSkvQrMR76yi-7fztupPybIpliwlhVA174l7c1Rc-L_iDPbGvacm_g3iyveBmqrBkOcmdc9VFPpzsqVCm3tiSDEPwA7QzFJZRcFdyQro1V7vQybMqxGSlzB7Ia1u-pLfNsggR2ydhzSRXBGD2l3uzEoZcoYvzX0P-dYIHhtGxdnUHSxc8sdjU89aT4YyxGKhmpvpNRSC8jPQMy1-JYJh9xqfzr_1Mlmf7IW_U9kdHBiU9pFIORrNxdeDt64p6Pbry0Slc1-54fWgfq0wZZEsTJfB7GpWggMmZvXdkh1707RA0dPF8MUVIjLE9qQjnS-MZOL8OFI-GkhyDWdeUaMztIZH_CQg-w6rQePJivZ5Cc0k6Cm5tioMHyoFYCnMQUHgub_XACCeE-VKugk3WuCgDccF4knOAr3CBHRN7GrHl1IK4s3rdyh4Ds_obSFQ&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=u%2B9F1sIpV3vcIwzQgwoCNw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Back-end Sênior - Tribo B2B
+Sobre a vaga
+Requisitos:- Experiência com linguagens de programação modernas voltadas a APIs (preferencialmente Python)- Padrões: Arquitetura, Design e Microsserviços- Qualidade de software/Boas práticas- Habilidade de trabalhar autonomamente- Habilidade em modelagem de dados- Testes automatizados: integração, unidadeDiferenciais:- Conhecimento avançado em Python e seus principais frameworks, como Flask, FastAPI e Django- Conhecimento de K8s- Experiência em arquitetura com resiliência, escalabilidade, elasticidade, processos assíncronos, mensageria e sistemas em tempo real- Monitoramento e telemetria- Experiência com AWS e GCP- Experiência em sistemas clientes de serviços financeiros
+Requisitos:
+Requisitos:
+Requisitos:
+- Experiência com linguagens de programação modernas voltadas a APIs (preferencialmente Python)
+- Experiência com linguagens de programação modernas voltadas a APIs (preferencialmente Python)
+- Padrões: Arquitetura, Design e Microsserviços
+- Padrões: Arquitetura, Design e Microsserviços
+- Qualidade de software/Boas práticas
+- Qualidade de software/Boas práticas
+- Habilidade de trabalhar autonomamente
+- Habilidade de trabalhar autonomamente
+- Habilidade em modelagem de dados
+- Habilidade em modelagem de dados
+- Testes automatizados: integração, unidade
+- Testes automatizados: integração, unidade
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+- Conhecimento avançado em Python e seus principais frameworks, como Flask, FastAPI e Django
+- Conhecimento avançado em Python e seus principais frameworks, como Flask, FastAPI e Django
+- Conhecimento de K8s
+- Conhecimento de K8s
+- Experiência em arquitetura com resiliência, escalabilidade, elasticidade, processos assíncronos, mensageria e sistemas em tempo real
+- Experiência em arquitetura com resiliência, escalabilidade, elasticidade, processos assíncronos, mensageria e sistemas em tempo real
+- Monitoramento e telemetria
+- Monitoramento e telemetria
+- Experiência com AWS e GCP
+- Experiência com AWS e GCP
+- Experiência em sistemas clientes de serviços financeiros
+- Experiência em sistemas clientes de serviços financeiros

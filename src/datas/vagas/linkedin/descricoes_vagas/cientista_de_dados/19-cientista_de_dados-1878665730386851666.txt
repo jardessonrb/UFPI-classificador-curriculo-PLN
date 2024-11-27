@@ -1,0 +1,121 @@
+link-https://www.linkedin.com/jobs/view/4040137422/?eBP=CwEAAAGS7jSAoDSfdguWzmrYXsSnyYgYcUtsBZKR-Bq0-v8Oonm2tEjSPhvynURvE8zImeofHaTu8I-tcwqQ1Bh18_7GGsEt6-SXFsxIxCMa-jF8v4_a7mQapz68RNfc63z8si_JXP3NAi6gK-GLaE6eCpsy1Rc155n9i9nYFF2Y6AYzLT9KgWNWsfmgCBnpZ-F4VbKXA1uxo8kqBhquBYFDq_UVRfGXnkb-UJG4xl3DmIyXuQbmEOMugD0jnxWfM1xAeJf3r-hwYq5_D8cXaEu_dcoVsxiomNNSnpka8KVG6BpuJXbNfciHUFLvjG_V8-XQuQ92UoEselcS3pLk0tFL9HN4KqFqrL0YqVdkKGIDPoQWUusFbg0I6iwX96qCKbm5eH-UPYFuPj8qXrhejtRSlQmeK8umSlVVQ8GYpgVEYpOh33QlaG8sxEXlJT7OsAi9nLJzOnS-pjM-6Vvl8K03MgAJk4NLvB1rw-0svcbr44QIhZFur_NCl7TuIwxkaZdwh2HcyXiepdyD&refId=s1zHu1Q34E0hJG9ffd%2Bv7g%3D%3D&trackingId=z7Lau%2B5C6sZ0yCptGFEa%2BQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de dados
+Sobre a vaga
+As a Data Scientist you will apply computational and statistical methods to sample, analyze and interpret data, design and implement machine learning models and create end-to-end data products. From conception to deployment, your work will help us address and solve essential, technically challenging game business problems. In this role, you will interact and work across multi-disciplinary teams, such as game design, art, engineering and marketing.ResponsibilitiesIdentify and define key challenges and opportunities in our games and data products;Identify and define KPIs and metrics to track the success of different data products;Translate informal requirements to formal specification (using mathematical, computational language);Given a problem definition, search for an appropriate solution, considering the complexity, resource, priority and available time;Sample and analyze large datasets to derive meaningful conclusions and actionable insights;Collaborate with the Data Engineering team to develop and deploy high value data products aligned with our company strategy;Communicate solutions effectively and educate team members on computational and statistical methods to foster a data-driven culture;Research, experiment, design and prototype new technologies to create proof-of-concepts, and implement these technologies gracefully.Requirements3+ years of experience working as a data scientist, data analyst, or equivalent experience;Advanced knowledge of scientific methods, probability, statistics, and statistical methods;Fundamental knowledge of machine learning methods;Proficiency in programming with Python and SQL, experience with version control (Git);Proficiency with scientific computing tools and libraries, such as jupyter notebook, numpy, scipy, pandas, matplotlib, scikit-learn;Experience with cloud computing platforms (AWS);Clear and effective communication skills, both written and spoken, especially for non-technical audiences;Ability to work both independently and collaboratively in a team;Proactive drive to improve our games and your personal knowledge and skills;Comfortable working in a fast-paced, dynamic, and challenging environment;Curiosity, determination and a delight in learning new knowledge and skills to solve problems and overcome limits;Intellectual honesty to know your own limitations and unknowns;Excellent team player.Nice-to-haveKnowledge of game development, game design, game programming, especially video games;Knowledge of software engineering, complex systems;Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;Experience with machine learning system deployment at scale in a production environment.Knowledge of game development, game design, game programming, especially video games;Knowledge of software engineering, complex systems;Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;Experience with machine learning system deployment at scale in a production environment.le for data analysts.Skills RequirementsDid you like the job description? Feel free to apply even if you don't have all the requirements, we are looking for passionate people willing to learn and grow (:What we offer- Competitive remuneration- Flexible benefits- Health and Dental Insurance- Profit Sharing- Career development support- Casual environment as well as the dress code- A space for resting moments, full of snacks, fruits, and drinks.About FanateeFanatee is a mobile gaming startup founded in 2013. Since then, our goal has been to enable people to play our games anytime, anywhere. We believe that quality is the key to success. Our creative processes are well planned and carefully detailed, and our talent lies in turning great ideas into great businesses: our games hit over 250M downloads worldwide. We believe that a diverse work environment contributes to an increasingly responsible society that values differences. Our dream allows us to do what we love the most: work with talented, passionate people and give them the opportunity to achieve goals as big as they can dream of. If you want to share this ride with us and join a lightweight, fun and focused environment that breathes innovation and game culture, apply now!
+As a Data Scientist you will apply computational and statistical methods to sample, analyze and interpret data, design and implement machine learning models and create end-to-end data products. From conception to deployment, your work will help us address and solve essential, technically challenging game business problems. In this role, you will interact and work across multi-disciplinary teams, such as game design, art, engineering and marketing.
+As a Data Scientist you will apply computational and statistical methods to sample, analyze and interpret data, design and implement machine learning models and create end-to-end data products. From conception to deployment, your work will help us address and solve essential, technically challenging game business problems. In this role, you will interact and work across multi-disciplinary teams, such as game design, art, engineering and marketing.
+
+
+
+Responsibilities
+Responsibilities
+Responsibilities
+Identify and define key challenges and opportunities in our games and data products;
+Identify and define key challenges and opportunities in our games and data products;
+Identify and define KPIs and metrics to track the success of different data products;
+Identify and define KPIs and metrics to track the success of different data products;
+Translate informal requirements to formal specification (using mathematical, computational language);
+Translate informal requirements to formal specification (using mathematical, computational language);
+Given a problem definition, search for an appropriate solution, considering the complexity, resource, priority and available time;
+Given a problem definition, search for an appropriate solution, considering the complexity, resource, priority and available time;
+Sample and analyze large datasets to derive meaningful conclusions and actionable insights;
+Sample and analyze large datasets to derive meaningful conclusions and actionable insights;
+Collaborate with the Data Engineering team to develop and deploy high value data products aligned with our company strategy;
+Collaborate with the Data Engineering team to develop and deploy high value data products aligned with our company strategy;
+Communicate solutions effectively and educate team members on computational and statistical methods to foster a data-driven culture;
+Communicate solutions effectively and educate team members on computational and statistical methods to foster a data-driven culture;
+Research, experiment, design and prototype new technologies to create proof-of-concepts, and implement these technologies gracefully.
+Research, experiment, design and prototype new technologies to create proof-of-concepts, and implement these technologies gracefully.
+
+
+
+Requirements
+Requirements
+Requirements
+3+ years of experience working as a data scientist, data analyst, or equivalent experience;Advanced knowledge of scientific methods, probability, statistics, and statistical methods;Fundamental knowledge of machine learning methods;Proficiency in programming with Python and SQL, experience with version control (Git);Proficiency with scientific computing tools and libraries, such as jupyter notebook, numpy, scipy, pandas, matplotlib, scikit-learn;Experience with cloud computing platforms (AWS);Clear and effective communication skills, both written and spoken, especially for non-technical audiences;Ability to work both independently and collaboratively in a team;Proactive drive to improve our games and your personal knowledge and skills;Comfortable working in a fast-paced, dynamic, and challenging environment;Curiosity, determination and a delight in learning new knowledge and skills to solve problems and overcome limits;Intellectual honesty to know your own limitations and unknowns;Excellent team player.
+3+ years of experience working as a data scientist, data analyst, or equivalent experience;
+3+ years of experience working as a data scientist, data analyst, or equivalent experience;
+Advanced knowledge of scientific methods, probability, statistics, and statistical methods;
+Advanced knowledge of scientific methods, probability, statistics, and statistical methods;
+Fundamental knowledge of machine learning methods;
+Fundamental knowledge of machine learning methods;
+Proficiency in programming with Python and SQL, experience with version control (Git);
+Proficiency in programming with Python and SQL, experience with version control (Git);
+Proficiency with scientific computing tools and libraries, such as jupyter notebook, numpy, scipy, pandas, matplotlib, scikit-learn;
+Proficiency with scientific computing tools and libraries, such as jupyter notebook, numpy, scipy, pandas, matplotlib, scikit-learn;
+Experience with cloud computing platforms (AWS);
+Experience with cloud computing platforms (AWS);
+Clear and effective communication skills, both written and spoken, especially for non-technical audiences;
+Clear and effective communication skills, both written and spoken, especially for non-technical audiences;
+Ability to work both independently and collaboratively in a team;
+Ability to work both independently and collaboratively in a team;
+Proactive drive to improve our games and your personal knowledge and skills;
+Proactive drive to improve our games and your personal knowledge and skills;
+Comfortable working in a fast-paced, dynamic, and challenging environment;
+Comfortable working in a fast-paced, dynamic, and challenging environment;
+Curiosity, determination and a delight in learning new knowledge and skills to solve problems and overcome limits;
+Curiosity, determination and a delight in learning new knowledge and skills to solve problems and overcome limits;
+Intellectual honesty to know your own limitations and unknowns;
+Intellectual honesty to know your own limitations and unknowns;
+Excellent team player.
+Excellent team player.
+
+
+
+Nice-to-have
+Nice-to-have
+Nice-to-have
+Knowledge of game development, game design, game programming, especially video games;Knowledge of software engineering, complex systems;Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;Experience with machine learning system deployment at scale in a production environment.Knowledge of game development, game design, game programming, especially video games;Knowledge of software engineering, complex systems;Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;Experience with machine learning system deployment at scale in a production environment.le for data analysts.
+Knowledge of game development, game design, game programming, especially video games;
+Knowledge of game development, game design, game programming, especially video games;
+Knowledge of software engineering, complex systems;
+Knowledge of software engineering, complex systems;
+Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;
+Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;
+Experience with machine learning system deployment at scale in a production environment.
+Experience with machine learning system deployment at scale in a production environment.
+Knowledge of game development, game design, game programming, especially video games;
+Knowledge of game development, game design, game programming, especially video games;
+Knowledge of software engineering, complex systems;
+Knowledge of software engineering, complex systems;
+Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;
+Proficiency in statically typed programming languages, such as C, C++, C#, Java, Scala, etc;
+Experience with machine learning system deployment at scale in a production environment.le for data analysts.
+Experience with machine learning system deployment at scale in a production environment.le for data analysts.
+
+
+
+Skills Requirements
+Skills Requirements
+Skills Requirements
+Did you like the job description? Feel free to apply even if you don't have all the requirements, we are looking for passionate people willing to learn and grow (:
+Did you like the job description? Feel free to apply even if you don't have all the requirements, we are looking for passionate people willing to learn and grow (:
+
+
+
+What we offer
+What we offer
+What we offer
+- Competitive remuneration
+- Competitive remuneration
+- Flexible benefits
+- Flexible benefits
+- Health and Dental Insurance
+- Health and Dental Insurance
+- Profit Sharing
+- Profit Sharing
+- Career development support
+- Career development support
+- Casual environment as well as the dress code
+- Casual environment as well as the dress code
+- A space for resting moments, full of snacks, fruits, and drinks.
+- A space for resting moments, full of snacks, fruits, and drinks.
+
+
+
+About Fanatee
+About Fanatee
+About Fanatee
+Fanatee is a mobile gaming startup founded in 2013. Since then, our goal has been to enable people to play our games anytime, anywhere. We believe that quality is the key to success. Our creative processes are well planned and carefully detailed, and our talent lies in turning great ideas into great businesses: our games hit over 250M downloads worldwide. We believe that a diverse work environment contributes to an increasingly responsible society that values differences. Our dream allows us to do what we love the most: work with talented, passionate people and give them the opportunity to achieve goals as big as they can dream of. If you want to share this ride with us and join a lightweight, fun and focused environment that breathes innovation and game culture, apply now!
+Fanatee is a mobile gaming startup founded in 2013. Since then, our goal has been to enable people to play our games anytime, anywhere. We believe that quality is the key to success. Our creative processes are well planned and carefully detailed, and our talent lies in turning great ideas into great businesses: our games hit over 250M downloads worldwide. We believe that a diverse work environment contributes to an increasingly responsible society that values differences. Our dream allows us to do what we love the most: work with talented, passionate people and give them the opportunity to achieve goals as big as they can dream of. If you want to share this ride with us and join a lightweight, fun and focused environment that breathes innovation and game culture, apply now!

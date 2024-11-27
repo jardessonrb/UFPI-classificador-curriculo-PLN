@@ -1,0 +1,104 @@
+link-https://www.linkedin.com/jobs/view/4060171676/?eBP=CwEAAAGS7k1YXMLhhTJi-CVYrVJCicjLfI2F_Pf1OaIZISFDPnKiW3YfnEychiKHruX3UDCnp-O4yCeyerjg2fNSkh8JAYe1og6KlThuIzmwxaKbHi__r4ae_tQbyo3JB1uPyLI0gt2_BjQwzOB-QdD0COCYNTx3GU1tyKhf3FPGTnkqR4RLQR6WZy2yxjKMDUbz4PcAmJ4u8PN0BB-Xe8wOlUUtl0PcPmmlxNgyoUPO2bE_zgHMomlD0uKKOJ2KTmmKaNj_J7rc7OH_O-vjBpyfPNRSc9gOZbTUVdJtSRtBijVjM4iyXDUSPanN4CmteaaGey3T7BkxvfWuf00aTlinYrlI5_6VLvuIA3350fCvc1cx3UhDXB5SpCc62b0p2xZQH08iCCR0h_SgTgd_dAOZDeGzhjQmY6-k91Xy0fKEmyYeNyuSybRTnAC614kqKgH6Gh-7n5EyUswn9Kdmbn4aQ2yJsAqjJExmNn--M_Uwrg-OOOlmt6D_MrSqQjvgGml4Uec&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=CklEPgK7E98bNIouYQns%2Fw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Frontend (Angular) - Sênior
+Sobre a vaga
+Buscando projetos inovadores?Então vem com a Mollica IT e encontre a oportunidade certa pra dar match!Qual Será a Sua MissãoDesenvolver e implementar juntamente aos times de Lean e arquitetura base o framework plataforma de hospedagem;Desenvolver e implementar juntamente aos times de integração e Lean, os padrões de desenvolvimento que as squads de delivery terão que seguir;Demais rotinas da área.📌 Em caso de dúvidas, entre em contato comselecao@mollicait.comO Que Você Precisa TerObrigatório experiência profissional comprovada em desenvolvimento utilizando Angular 16;Obrigatório experiência no desenvolvimento e arquitetura de aplicações utilizando Microfrontend;Experiência com versões anteriores do Angular 16 e adaptabilidade a novas versões;Experiência com JavaScript, TypeScript, Node.js;Experiência em Recursos dentro do Angular, sabe utilizar bem RgxJs, CSS, Sass;Experiência com HTTP Interceptor e demais formas de consumos de serviços;Experiência com HTML, CSS (Pré-processadores - Sass, Less, Stylus);Experiência com desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System;Conhecimentos em integrações e com backend com Java (Spring Boot);Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário;Conhecimentos em segurança de aplicações web (OAuth, JWT etc.);Familiaridade com metodologias ágeis (Scrum, Kanban);Experiência com Integrações com APIs.DiferencialConhecimentos em ferramentas de CI/CD e versionamento de código (GitHub, GitLab CI e Jenkins);Conhecimentos em ferramentas de monitoramento e log (ELK Stack, Prometheus);Experiência no segmento bancário, seguros ou similares;Espanhol intermediário (será apenas um diferencial).✔️Plano de Saúde subsidiado pela empresa para o titular (com coparticipação - Plano apartamento)✔️Opção de inclusão de dependentes no Plano de Saúde com desconto em folha e valor reduzido (com coparticipação)✔️Assistência Odontológica 100% subsidiado pela empresa para colaborador e dependentes✔️Vale Refeição ou Alimentação (R$ 29,00/dia)✔️Vale Transporte (opcional conforme CLT)✔️Fretado saindo das estações de Alphaville e Giovani Gronchi (Cenesp)✔️Gympass (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 29,90 descontado em folha de pagamento)✔️Opção de inclusão de dependentes no Gympass (até 03 dependentes - pago via cartão de crédito)✔️Parcerias com grandes marcas de consumo✔️Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas✔️Seguro de vida em grupoContratação:CLTPrazo:IndeterminadoLocal: São Paulo - SP - Atuação em modelo Híbrido (Bairro: Interlagos - zona sul), com atuação presencial entre 2 a 3 dias na semana
+
+
+
+
+Qual Será a Sua Missão
+
+
+Desenvolver e implementar juntamente aos times de Lean e arquitetura base o framework plataforma de hospedagem;Desenvolver e implementar juntamente aos times de integração e Lean, os padrões de desenvolvimento que as squads de delivery terão que seguir;Demais rotinas da área.
+Desenvolver e implementar juntamente aos times de Lean e arquitetura base o framework plataforma de hospedagem;
+Desenvolver e implementar juntamente aos times de Lean e arquitetura base o framework plataforma de hospedagem;
+Desenvolver e implementar juntamente aos times de integração e Lean, os padrões de desenvolvimento que as squads de delivery terão que seguir;
+Desenvolver e implementar juntamente aos times de integração e Lean, os padrões de desenvolvimento que as squads de delivery terão que seguir;
+Demais rotinas da área.
+Demais rotinas da área.
+
+
+
+selecao@mollicait.com
+
+
+O Que Você Precisa Ter
+
+
+Obrigatório experiência profissional comprovada em desenvolvimento utilizando Angular 16;Obrigatório experiência no desenvolvimento e arquitetura de aplicações utilizando Microfrontend;Experiência com versões anteriores do Angular 16 e adaptabilidade a novas versões;Experiência com JavaScript, TypeScript, Node.js;Experiência em Recursos dentro do Angular, sabe utilizar bem RgxJs, CSS, Sass;Experiência com HTTP Interceptor e demais formas de consumos de serviços;Experiência com HTML, CSS (Pré-processadores - Sass, Less, Stylus);Experiência com desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System;Conhecimentos em integrações e com backend com Java (Spring Boot);Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário;Conhecimentos em segurança de aplicações web (OAuth, JWT etc.);Familiaridade com metodologias ágeis (Scrum, Kanban);Experiência com Integrações com APIs.
+Obrigatório experiência profissional comprovada em desenvolvimento utilizando Angular 16;
+Obrigatório experiência profissional comprovada em desenvolvimento utilizando Angular 16;
+Obrigatório experiência no desenvolvimento e arquitetura de aplicações utilizando Microfrontend;
+Obrigatório experiência no desenvolvimento e arquitetura de aplicações utilizando Microfrontend;
+
+Experiência com versões anteriores do Angular 16 e adaptabilidade a novas versões;
+Experiência com versões anteriores do Angular 16 e adaptabilidade a novas versões;
+Experiência com JavaScript, TypeScript, Node.js;
+Experiência com JavaScript, TypeScript, Node.js;
+Experiência em Recursos dentro do Angular, sabe utilizar bem RgxJs, CSS, Sass;
+Experiência em Recursos dentro do Angular, sabe utilizar bem RgxJs, CSS, Sass;
+Experiência com HTTP Interceptor e demais formas de consumos de serviços;
+Experiência com HTTP Interceptor e demais formas de consumos de serviços;
+Experiência com HTML, CSS (Pré-processadores - Sass, Less, Stylus);
+Experiência com HTML, CSS (Pré-processadores - Sass, Less, Stylus);
+Experiência com desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System;
+Experiência com desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System;
+Conhecimentos em integrações e com backend com Java (Spring Boot);
+Conhecimentos em integrações e com backend com Java (Spring Boot);
+Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário;
+Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário;
+Conhecimentos em segurança de aplicações web (OAuth, JWT etc.);
+Conhecimentos em segurança de aplicações web (OAuth, JWT etc.);
+Familiaridade com metodologias ágeis (Scrum, Kanban);
+Familiaridade com metodologias ágeis (Scrum, Kanban);
+Experiência com Integrações com APIs.
+Experiência com Integrações com APIs.
+
+
+Diferencial
+
+
+Conhecimentos em ferramentas de CI/CD e versionamento de código (GitHub, GitLab CI e Jenkins);Conhecimentos em ferramentas de monitoramento e log (ELK Stack, Prometheus);Experiência no segmento bancário, seguros ou similares;Espanhol intermediário (será apenas um diferencial).
+Conhecimentos em ferramentas de CI/CD e versionamento de código (GitHub, GitLab CI e Jenkins);
+Conhecimentos em ferramentas de CI/CD e versionamento de código (GitHub, GitLab CI e Jenkins);
+Conhecimentos em ferramentas de monitoramento e log (ELK Stack, Prometheus);
+Conhecimentos em ferramentas de monitoramento e log (ELK Stack, Prometheus);
+Experiência no segmento bancário, seguros ou similares;
+Experiência no segmento bancário, seguros ou similares;
+Espanhol intermediário (será apenas um diferencial).
+Espanhol intermediário (será apenas um diferencial).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contratação:
+
+
+
+Prazo:
+
+
+
+Local

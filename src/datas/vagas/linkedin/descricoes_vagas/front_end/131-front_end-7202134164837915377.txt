@@ -1,0 +1,135 @@
+link-https://www.linkedin.com/jobs/view/4042904928/?eBP=CwEAAAGS7k0khooIWsb6Q_YUJRKwiUI6ApmHIhQP_-fa6Exxy2S6XTs-kuJlvDY7B2_UizCVvjxqWPG7AJueBKwFuF9VV3n9sGx44wF8e_be4W8bAXvjpXLBzyFNiVGaxYP-r92-W_tym0aMlfASLEX00MqZGgkT7hj2qxNDvWLFRYp-fwooFhdg7J8KxW9rOTUFvIkgCnmKmZrV62OBqIoLps_ld54fpVnRe_glx-QGZosc1y6GvMG9gmyxy_GvpR2vmoFyO2VSrl-UsAsmWY4YLjIOCPVCDO55aTNuHxO64R1-9mtFlQR6hQK8Amsyba0BDK7AQY-6-k-6QJcQQY5dl3x5zDE7YfEE1NIShubkJI_Xg14H8lGGx_5da9Sj2wfGO31w3mHZ8wcp6Qd1VOhBP0sWan0i0QMQxLeznfntC2KC5rJusoNxSyKbMY7dt-eI9_Fbz_hc4wSVjrVdWxSdZqx92UWX_218XoAfNtKV5lmyt-Cgdrbo1NUA2A_ztyub&refId=3Skfr98sEUX%2FjHdibph8TQ%3D%3D&trackingId=ItFEW684LmVFHcBtwDDZxg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Front End Developer [react]
+Sobre a vaga
+Quem somos:A Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.Os DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado.Muitos desafios, aprendizado e crescimento esperam você na DWS Brazil!#vemserumDWSianeEstamos em busca de uma Pessoa Desenvolvedora Senior em React.js para apoiar no desenvolvimento Front end de nossas soluções.Responsabilidades e atribuiçõesVocê será responsável por:Projetar e desenvolver o front end de páginas web e suas aplicações, utilizando Javascript (react);Fazer a manutenção de códigos em banco já existente, através de testes e correção de erros;Compor os times com expertise em desenvolvimento front end;Auxiliar o time nas rampas técnicas em atividades de alta complexidade;Realizar a manutenção de códigos, através de testes e correção de erros;Apoiar a integração com o back end do sistema;Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio;Documentar todo o processo de desenvolvimento do código;Criar relatórios de status e possíveis problemas para o Project Manager;Participar de reuniões técnicas e cerimônias do projeto.Requisitos e qualificaçõesPara essa posição, é importante que você tenha:Experiência em tecnologias como HTML, Javascript e Typescript;Experiência em frameworks de Front end, React, Next.JS;Experiências nas bibliotecas Redux, Flux e Hooks;Aplicação de testes unitários, Clean Code e Clean Architecture;Familiaridade com desenvolvimento ágil;Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.Para essa posição, é importante que você tenha:Conhecimentos em AEM (Adobe Experience Manager)Informações adicionaisAqui você vai encontrar (Nossos benefícios):Todo o equipamento necessário para seu trabalho (notebook e periféricos);Plano de saúde e odontológico;Seguro de vida;Mental health program;Anywhere office - flexibilidade para trabalhar de onde precisar;VR/VA (cartão de benefícios Flash);Auxílio home office (cartão de benefícios Flash);Auxílio mobilidade (cartão de benefícios Flash);Programa de mentoria para desenvolvimento e acompanhamento de carreira;Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;Aulas de inglês com professor particular;Awesomeness Committee - envio de mimos temáticos e exclusivos;Gympass;Horário flexível (40h semanais);Day off no dia do aniversário;Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;Atuação 100% remota ou híbrida (a sua escolha).
+Quem somos:
+
+
+
+
+
+
+
+
+vemserumDWSiane
+
+
+
+
+Responsabilidades e atribuições
+
+
+Você será responsável por:
+
+
+Projetar e desenvolver o front end de páginas web e suas aplicações, utilizando Javascript (react);Fazer a manutenção de códigos em banco já existente, através de testes e correção de erros;Compor os times com expertise em desenvolvimento front end;Auxiliar o time nas rampas técnicas em atividades de alta complexidade;Realizar a manutenção de códigos, através de testes e correção de erros;Apoiar a integração com o back end do sistema;Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio;Documentar todo o processo de desenvolvimento do código;Criar relatórios de status e possíveis problemas para o Project Manager;Participar de reuniões técnicas e cerimônias do projeto.
+Projetar e desenvolver o front end de páginas web e suas aplicações, utilizando Javascript (react);
+Projetar e desenvolver o front end de páginas web e suas aplicações, utilizando Javascript (react);
+
+Fazer a manutenção de códigos em banco já existente, através de testes e correção de erros;
+Fazer a manutenção de códigos em banco já existente, através de testes e correção de erros;
+
+Compor os times com expertise em desenvolvimento front end;
+Compor os times com expertise em desenvolvimento front end;
+Auxiliar o time nas rampas técnicas em atividades de alta complexidade;
+Auxiliar o time nas rampas técnicas em atividades de alta complexidade;
+Realizar a manutenção de códigos, através de testes e correção de erros;
+Realizar a manutenção de códigos, através de testes e correção de erros;
+Apoiar a integração com o back end do sistema;
+Apoiar a integração com o back end do sistema;
+Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;
+Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;
+Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio;
+Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio;
+Documentar todo o processo de desenvolvimento do código;
+Documentar todo o processo de desenvolvimento do código;
+
+Criar relatórios de status e possíveis problemas para o Project Manager;
+Criar relatórios de status e possíveis problemas para o Project Manager;
+Participar de reuniões técnicas e cerimônias do projeto.
+Participar de reuniões técnicas e cerimônias do projeto.
+
+
+
+Requisitos e qualificações
+
+
+Para essa posição, é importante que você tenha:
+
+
+
+Experiência em tecnologias como HTML, Javascript e Typescript;Experiência em frameworks de Front end, React, Next.JS;Experiências nas bibliotecas Redux, Flux e Hooks;Aplicação de testes unitários, Clean Code e Clean Architecture;Familiaridade com desenvolvimento ágil;Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.
+Experiência em tecnologias como HTML, Javascript e Typescript;
+Experiência em tecnologias como HTML, Javascript e Typescript;
+Experiência em frameworks de Front end, React, Next.JS;
+Experiência em frameworks de Front end, React, Next.JS;
+Experiências nas bibliotecas Redux, Flux e Hooks;
+Experiências nas bibliotecas Redux, Flux e Hooks;
+Aplicação de testes unitários, Clean Code e Clean Architecture;
+Aplicação de testes unitários, Clean Code e Clean Architecture;
+Familiaridade com desenvolvimento ágil;
+Familiaridade com desenvolvimento ágil;
+Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.
+Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.
+
+
+
+Para essa posição, é importante que você tenha:
+
+
+
+Conhecimentos em AEM (Adobe Experience Manager)
+Conhecimentos em AEM (Adobe Experience Manager)
+Conhecimentos em AEM (Adobe Experience Manager)
+
+
+
+Informações adicionais
+
+
+Aqui você vai encontrar (Nossos benefícios):
+
+
+Todo o equipamento necessário para seu trabalho (notebook e periféricos);Plano de saúde e odontológico;Seguro de vida;Mental health program;Anywhere office - flexibilidade para trabalhar de onde precisar;VR/VA (cartão de benefícios Flash);Auxílio home office (cartão de benefícios Flash);Auxílio mobilidade (cartão de benefícios Flash);Programa de mentoria para desenvolvimento e acompanhamento de carreira;Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;Aulas de inglês com professor particular;Awesomeness Committee - envio de mimos temáticos e exclusivos;Gympass;Horário flexível (40h semanais);Day off no dia do aniversário;Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;Atuação 100% remota ou híbrida (a sua escolha).
+Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+Plano de saúde e odontológico;
+Plano de saúde e odontológico;
+Seguro de vida;
+Seguro de vida;
+Mental health program;
+Mental health program;
+Anywhere office - flexibilidade para trabalhar de onde precisar;
+Anywhere office - flexibilidade para trabalhar de onde precisar;
+VR/VA (cartão de benefícios Flash);
+VR/VA (cartão de benefícios Flash);
+Auxílio home office (cartão de benefícios Flash);
+Auxílio home office (cartão de benefícios Flash);
+Auxílio mobilidade (cartão de benefícios Flash);
+Auxílio mobilidade (cartão de benefícios Flash);
+Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+Aulas de inglês com professor particular;
+Aulas de inglês com professor particular;
+
+Awesomeness Committee - envio de mimos temáticos e exclusivos;
+Awesomeness Committee - envio de mimos temáticos e exclusivos;
+
+Gympass;
+Gympass;
+
+Horário flexível (40h semanais);
+Horário flexível (40h semanais);
+
+Day off no dia do aniversário;
+Day off no dia do aniversário;
+
+Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+
+Atuação 100% remota ou híbrida (a sua escolha).
+Atuação 100% remota ou híbrida (a sua escolha).
+

@@ -1,0 +1,64 @@
+link-https://www.linkedin.com/jobs/view/4055116569/?eBP=CwEAAAGS7lHBTdLMB1yUeiXbWci69Q4CWym7611D2LB0V4f4ZJfgExba2qccDik6De7D2RuBpgUxYZS1jBULNUqWtZjJDSs4CkD1L_biSkoQzy0I9Y7TFYciHuj-maL0ugMmrl8wPraIVfwJK1PpI_8TC2dsowQIWWjApL7c4pO9TftH0o25jkLLKb4XhfybXo-zsvMQp38wyotOF7r8Dicf82uzrfJ_SskUxDFvcCUB7mkWnb1LlCb48AZ5cpeCE0MOWGekuG7DyOGNEdMVxeqEaPDltStxZ2BZvC6y_1zRKu4Wumh3Et0XUP8dHVBuaAH_ORXY6Hev7Gke2LXePc8x7bzzyIVe_XUSE7-W8Pm9XUnyxhSxqNQYTT6FhHCEm0UYZPvSie9hFbQzxHweOEb5k2HoV9tDS48M-NJamqgaLuUdLfeKUSGhEV0ihUof7DsMrxQMhrxK0p2PbmHwehDZlabahZ48nF1qgaWdgSSZ_DFntzwTWxZTLAPH4aJhW91e5k6hU1E&refId=5gdV5KlKgrkviwqoRiIR9Q%3D%3D&trackingId=RJYuKxl8d6SgbNYdG4DpRA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Back-end Sênior - Ecommerce Magalu
+Sobre a vaga
+Manter sistemas de alta disponibilidade e confiabilidade envolvendo: desenvolvimento de software, criação de ferramentas e automação para facilitar operações confiáveis.Garantir que os sistemas sejam escaláveis e tenham um bom desempenho envolvendo: otimização de código, seleção de ferramentas apropriadas e arquiteturas que suportam o crescimento e demanda dos sistemas.Desenvolver e implementar sistemas de monitoramento e diagnóstico para identificar problemas e antecipar possíveis falhas nos sistemas. Isso pode incluir a criação de ferramentas para monitoramento em tempo real, métricas e logs.Responder a incidentes e problemas operacionais críticos, identificando suas causas e desenvolvendo soluções para prevenir sua recorrência.Trabalhar em estreita colaboração com diferentes equipes, como desenvolvimento de software, operações, segurança e outras áreas, para garantir a confiabilidade, segurança e a escalabilidade dos sistemas.RequisitosExperiência em Python;Experiência em Node;Experiência em CI/CD;Experiência com a metodologia Kanban;Conhecimento em ferramentas de controle de versionamento Git e metodologias de versionamento Gitflow;Conhecimento em Mensagerias(KAFKA, SQS, PUB/SUB);Conhecimento de bases de dados SQL/NoSQL (SqlServer, MongoDB e MySQL);Conhecimento em containers com Docker e Kubernetes;Conhecimento de ferramentas de monitoria como Grafana, OpenTelemetry.Conhecimento das funcionalidades básicas de cloud, preferencialmente em Google Cloud Computing (GCP).Requisitos (Soft skills)Gostar de Analisar e Resolver problemas;Ser comprometido, pró ativo e colaborativo;Buscar sempre o desenvolvimento pessoal e da equipeDiferencialReact;Experiência em monitoramento de aplicações (Elasticsearch, Kibana);
+Manter sistemas de alta disponibilidade e confiabilidade envolvendo: desenvolvimento de software, criação de ferramentas e automação para facilitar operações confiáveis.Garantir que os sistemas sejam escaláveis e tenham um bom desempenho envolvendo: otimização de código, seleção de ferramentas apropriadas e arquiteturas que suportam o crescimento e demanda dos sistemas.Desenvolver e implementar sistemas de monitoramento e diagnóstico para identificar problemas e antecipar possíveis falhas nos sistemas. Isso pode incluir a criação de ferramentas para monitoramento em tempo real, métricas e logs.Responder a incidentes e problemas operacionais críticos, identificando suas causas e desenvolvendo soluções para prevenir sua recorrência.Trabalhar em estreita colaboração com diferentes equipes, como desenvolvimento de software, operações, segurança e outras áreas, para garantir a confiabilidade, segurança e a escalabilidade dos sistemas.
+Manter sistemas de alta disponibilidade e confiabilidade envolvendo: desenvolvimento de software, criação de ferramentas e automação para facilitar operações confiáveis.
+Manter sistemas de alta disponibilidade e confiabilidade envolvendo: desenvolvimento de software, criação de ferramentas e automação para facilitar operações confiáveis.
+Garantir que os sistemas sejam escaláveis e tenham um bom desempenho envolvendo: otimização de código, seleção de ferramentas apropriadas e arquiteturas que suportam o crescimento e demanda dos sistemas.
+Garantir que os sistemas sejam escaláveis e tenham um bom desempenho envolvendo: otimização de código, seleção de ferramentas apropriadas e arquiteturas que suportam o crescimento e demanda dos sistemas.
+Desenvolver e implementar sistemas de monitoramento e diagnóstico para identificar problemas e antecipar possíveis falhas nos sistemas. Isso pode incluir a criação de ferramentas para monitoramento em tempo real, métricas e logs.
+Desenvolver e implementar sistemas de monitoramento e diagnóstico para identificar problemas e antecipar possíveis falhas nos sistemas. Isso pode incluir a criação de ferramentas para monitoramento em tempo real, métricas e logs.
+Responder a incidentes e problemas operacionais críticos, identificando suas causas e desenvolvendo soluções para prevenir sua recorrência.
+Responder a incidentes e problemas operacionais críticos, identificando suas causas e desenvolvendo soluções para prevenir sua recorrência.
+Trabalhar em estreita colaboração com diferentes equipes, como desenvolvimento de software, operações, segurança e outras áreas, para garantir a confiabilidade, segurança e a escalabilidade dos sistemas.
+Trabalhar em estreita colaboração com diferentes equipes, como desenvolvimento de software, operações, segurança e outras áreas, para garantir a confiabilidade, segurança e a escalabilidade dos sistemas.
+
+
+
+Requisitos
+Requisitos
+Requisitos
+
+
+
+Experiência em Python;Experiência em Node;Experiência em CI/CD;Experiência com a metodologia Kanban;Conhecimento em ferramentas de controle de versionamento Git e metodologias de versionamento Gitflow;Conhecimento em Mensagerias(KAFKA, SQS, PUB/SUB);Conhecimento de bases de dados SQL/NoSQL (SqlServer, MongoDB e MySQL);Conhecimento em containers com Docker e Kubernetes;Conhecimento de ferramentas de monitoria como Grafana, OpenTelemetry.Conhecimento das funcionalidades básicas de cloud, preferencialmente em Google Cloud Computing (GCP).Requisitos (Soft skills)Gostar de Analisar e Resolver problemas;Ser comprometido, pró ativo e colaborativo;Buscar sempre o desenvolvimento pessoal e da equipe
+Experiência em Python;
+Experiência em Python;
+Experiência em Node;
+Experiência em Node;
+Experiência em CI/CD;
+Experiência em CI/CD;
+Experiência com a metodologia Kanban;
+Experiência com a metodologia Kanban;
+Conhecimento em ferramentas de controle de versionamento Git e metodologias de versionamento Gitflow;
+Conhecimento em ferramentas de controle de versionamento Git e metodologias de versionamento Gitflow;
+Conhecimento em Mensagerias(KAFKA, SQS, PUB/SUB);
+Conhecimento em Mensagerias(KAFKA, SQS, PUB/SUB);
+Conhecimento de bases de dados SQL/NoSQL (SqlServer, MongoDB e MySQL);
+Conhecimento de bases de dados SQL/NoSQL (SqlServer, MongoDB e MySQL);
+Conhecimento em containers com Docker e Kubernetes;
+Conhecimento em containers com Docker e Kubernetes;
+Conhecimento de ferramentas de monitoria como Grafana, OpenTelemetry.
+Conhecimento de ferramentas de monitoria como Grafana, OpenTelemetry.
+Conhecimento das funcionalidades básicas de cloud, preferencialmente em Google Cloud Computing (GCP).
+Conhecimento das funcionalidades básicas de cloud, preferencialmente em Google Cloud Computing (GCP).
+Requisitos (Soft skills)
+Requisitos (Soft skills)
+Gostar de Analisar e Resolver problemas;
+Gostar de Analisar e Resolver problemas;
+Ser comprometido, pró ativo e colaborativo;
+Ser comprometido, pró ativo e colaborativo;
+Buscar sempre o desenvolvimento pessoal e da equipe
+Buscar sempre o desenvolvimento pessoal e da equipe
+
+
+
+Diferencial
+Diferencial
+React;Experiência em monitoramento de aplicações (Elasticsearch, Kibana);
+React;
+React;
+Experiência em monitoramento de aplicações (Elasticsearch, Kibana);
+Experiência em monitoramento de aplicações (Elasticsearch, Kibana);

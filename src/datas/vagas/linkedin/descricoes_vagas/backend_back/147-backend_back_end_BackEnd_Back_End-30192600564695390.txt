@@ -1,0 +1,171 @@
+link-https://www.linkedin.com/jobs/view/4055013494/?eBP=CwEAAAGS7lFacqdj4LB2BPMQ3u9aF45aHemm-wBqWGf4yQRjuIqenQl5AkUXoQy06sLyJQPpKqE7bh_PBquxJFZQ408QJq4jATFkBCta5ItRkms_5BSjAXjUa4fnwcNi2gUb7vx03-7RmC26lMhaZJVSR0LhkqKoTYuhh0zjnvMAnW6MbKNIqdMHMvskB72GGS8lOCKNBG5HKIsQPY1s6bdaueBQxc5Cem7jiqpI0h-L1XDrjKDDL8BffwUMPyXyp0sigg5cwWdAzNdGi2tG5c4KZNBQtmwBmBBRhwpdEZ7O6bCHX5a5nNXCKUtwAHl0P3T5K_GENIikh8FQOqQD3dFqgjhhPopg2EXbUQw-1r32yMDJL8rfXXdcuPlfSHNNJXVuRQ_n0Jk7FMkoYTM0R86B7vCbDGOh397edH0ghkOMX7nMOWnv2uLCVm4BTodXNM8O6vBvax4qm2ZcLJWnsYI&refId=ocO7in370N5JAi0cnRi6Tg%3D%3D&trackingId=ktc4K%2BC7FdVk3ZKIwsxEKw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa desenvolvera backend java
+Sobre a vaga
+Por que ser zupper?Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.E por que fazemos tudo isso?Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como polos de tecnologia de qualidade.Ah, e não podemos esquecer: na Zup acreditamos na ! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbridoO que você fará por aquiCodificar, desenvolver e implementar sistemas;Criar e desenvolver APIs;Realizar correções e testes;Participar da elaboração de requisitos;Propor melhorias nos processos diários;Compartilhar conhecimentos e colaborar com outras pessoas desenvolvedoras.O que esperamos que você saibaJava/KotlinArquitetura de MicrosserviçosAPI RestfullCloud Computing (AWS: ECS/EKS/EC2/S3/SQS/API Gateway/Lambda)Orientação a ObjetosOrientação a Eventos (Kafka, Kinesis) e Mensageria (SQS/MQ Series/Active MQ/RabbitMQ)Persistência (SQL/NoSQL)GitObservability (logging, métricas, tracing, dashboards, alertas, monitoramento)Dados Qualidade (tem QA no time, mas é importante ter noções)Padrões e boas práticas de código: (SOLID, Clean Code, Clean Arch, DDD, Unit Test)O que te oferecemosAqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.Carreira aceleradaTrabalhe de onde quiserHorários flexíveisAuxílio Educação para cursosProgramas internos de educação e aceleraçãoPlataforma de cursos gratuitosWebinars internos semanaisFerramenta própria e exclusiva de desenvolvimento de carreiraSite interno de carreiraNúcleo interno P&DFrameworks para liderança: treinamentos e ferramentasFeedbacks 1o1 semanaisGuildas internas e outros grupos de estudo e interesseSaúde e Bem-estarGympassPlano saúdePlano odontológicoTerapia online gratuitaCAZ – Central de Atendimento aos zuppersLicença maternidade de 180 diasLicença paternidade de 90 diasConforto financeiroVale Refeição e AlimentaçãoSeguro de vidaVale transporteSubsídio para home officeAuxílio crecheAuxílio Plano telefônicoParticipação em Lucros e Resultado (PLR)Programa de indicaçãoHave fun and relax - para quem for aos escritóriosHappy hours e festas com shows e atraçõesChopp liberadoVídeo-gameSalas temáticasRefeitóriosCozinhas equipadasÁreas de descompressãoLanches, snacks, frutas, chás e caféDress Code livre
+Por que ser zupper?
+
+
+
+
+
+
+E por que fazemos tudo isso?
+
+
+
+
+
+
+O que você fará por aqui
+
+
+Codificar, desenvolver e implementar sistemas;Criar e desenvolver APIs;Realizar correções e testes;Participar da elaboração de requisitos;Propor melhorias nos processos diários;Compartilhar conhecimentos e colaborar com outras pessoas desenvolvedoras.
+Codificar, desenvolver e implementar sistemas;
+Codificar, desenvolver e implementar sistemas;
+Criar e desenvolver APIs;
+Criar e desenvolver APIs;
+Realizar correções e testes;
+Realizar correções e testes;
+Participar da elaboração de requisitos;
+Participar da elaboração de requisitos;
+Propor melhorias nos processos diários;
+Propor melhorias nos processos diários;
+Compartilhar conhecimentos e colaborar com outras pessoas desenvolvedoras.
+Compartilhar conhecimentos e colaborar com outras pessoas desenvolvedoras.
+
+
+
+O que esperamos que você saiba
+
+
+Java/KotlinArquitetura de MicrosserviçosAPI RestfullCloud Computing (AWS: ECS/EKS/EC2/S3/SQS/API Gateway/Lambda)Orientação a ObjetosOrientação a Eventos (Kafka, Kinesis) e Mensageria (SQS/MQ Series/Active MQ/RabbitMQ)Persistência (SQL/NoSQL)GitObservability (logging, métricas, tracing, dashboards, alertas, monitoramento)Dados Qualidade (tem QA no time, mas é importante ter noções)Padrões e boas práticas de código: (SOLID, Clean Code, Clean Arch, DDD, Unit Test)
+Java/Kotlin
+Java/Kotlin
+Arquitetura de Microsserviços
+Arquitetura de Microsserviços
+API Restfull
+API Restfull
+Cloud Computing (AWS: ECS/EKS/EC2/S3/SQS/API Gateway/Lambda)
+Cloud Computing (AWS: ECS/EKS/EC2/S3/SQS/API Gateway/Lambda)
+Orientação a Objetos
+Orientação a Objetos
+Orientação a Eventos (Kafka, Kinesis) e Mensageria (SQS/MQ Series/Active MQ/RabbitMQ)
+Orientação a Eventos (Kafka, Kinesis) e Mensageria (SQS/MQ Series/Active MQ/RabbitMQ)
+Persistência (SQL/NoSQL)
+Persistência (SQL/NoSQL)
+Git
+Git
+Observability (logging, métricas, tracing, dashboards, alertas, monitoramento)
+Observability (logging, métricas, tracing, dashboards, alertas, monitoramento)
+Dados Qualidade (tem QA no time, mas é importante ter noções)
+Dados Qualidade (tem QA no time, mas é importante ter noções)
+Padrões e boas práticas de código: (SOLID, Clean Code, Clean Arch, DDD, Unit Test)
+Padrões e boas práticas de código: (SOLID, Clean Code, Clean Arch, DDD, Unit Test)
+
+
+O que te oferecemos
+
+
+
+
+Carreira acelerada
+
+
+Trabalhe de onde quiserHorários flexíveisAuxílio Educação para cursosProgramas internos de educação e aceleraçãoPlataforma de cursos gratuitosWebinars internos semanaisFerramenta própria e exclusiva de desenvolvimento de carreiraSite interno de carreiraNúcleo interno P&DFrameworks para liderança: treinamentos e ferramentasFeedbacks 1o1 semanaisGuildas internas e outros grupos de estudo e interesse
+Trabalhe de onde quiser
+Trabalhe de onde quiser
+
+Horários flexíveis
+Horários flexíveis
+Auxílio Educação para cursos
+Auxílio Educação para cursos
+Programas internos de educação e aceleração
+Programas internos de educação e aceleração
+Plataforma de cursos gratuitos
+Plataforma de cursos gratuitos
+Webinars internos semanais
+Webinars internos semanais
+
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Site interno de carreira
+Site interno de carreira
+Núcleo interno P&D
+Núcleo interno P&D
+Frameworks para liderança: treinamentos e ferramentas
+Frameworks para liderança: treinamentos e ferramentas
+Feedbacks 1o1 semanais
+Feedbacks 1o1 semanais
+Guildas internas e outros grupos de estudo e interesse
+Guildas internas e outros grupos de estudo e interesse
+
+
+Saúde e Bem-estar
+
+
+GympassPlano saúdePlano odontológicoTerapia online gratuitaCAZ – Central de Atendimento aos zuppersLicença maternidade de 180 diasLicença paternidade de 90 dias
+Gympass
+Gympass
+Plano saúde
+Plano saúde
+Plano odontológico
+Plano odontológico
+Terapia online gratuita
+Terapia online gratuita
+CAZ – Central de Atendimento aos zuppers
+CAZ – Central de Atendimento aos zuppers
+
+Licença maternidade de 180 dias
+Licença maternidade de 180 dias
+Licença paternidade de 90 dias
+Licença paternidade de 90 dias
+
+
+Conforto financeiro
+
+
+Vale Refeição e AlimentaçãoSeguro de vidaVale transporteSubsídio para home officeAuxílio crecheAuxílio Plano telefônicoParticipação em Lucros e Resultado (PLR)Programa de indicação
+Vale Refeição e Alimentação
+Vale Refeição e Alimentação
+Seguro de vida
+Seguro de vida
+Vale transporte
+Vale transporte
+Subsídio para home office
+Subsídio para home office
+
+Auxílio creche
+Auxílio creche
+Auxílio Plano telefônico
+Auxílio Plano telefônico
+
+Participação em Lucros e Resultado (PLR)
+Participação em Lucros e Resultado (PLR)
+Programa de indicação
+Programa de indicação
+
+
+Have fun and relax - para quem for aos escritórios
+
+
+
+Happy hours e festas com shows e atraçõesChopp liberadoVídeo-gameSalas temáticasRefeitóriosCozinhas equipadasÁreas de descompressãoLanches, snacks, frutas, chás e caféDress Code livre
+Happy hours e festas com shows e atrações
+Happy hours e festas com shows e atrações
+Chopp liberado
+Chopp liberado
+Vídeo-game
+Vídeo-game
+Salas temáticas
+Salas temáticas
+Refeitórios
+Refeitórios
+Cozinhas equipadas
+Cozinhas equipadas
+Áreas de descompressão
+Áreas de descompressão
+Lanches, snacks, frutas, chás e café
+Lanches, snacks, frutas, chás e café
+Dress Code livre
+Dress Code livre

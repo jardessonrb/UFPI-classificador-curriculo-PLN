@@ -1,0 +1,79 @@
+link-https://www.linkedin.com/jobs/view/4024723070/?eBP=CwEAAAGS7lO-eA6WLjx43VW33NWdNBYT_m-eT0zG-TG9sQbWjwTc9G7-agIn22XNIgmbhKtkMQtPcjPp-v_tKEIMylywaOlY8Yn6qEJxSu_mXhfnz07ZV1bD9rZNQtnOuNMbSIwbtPODfoXlirrNq9Dx6V3i9x_gLHvOwOv7-4gPXtnxl9YaSbZZcHnPsestpXRR2tJtItXwOAXBPut7NOPzBosYlkMJ8N1ESLSI5SOicSDm3GUmTYiFUJGVkcIGr9TkxbdeeapZVK23wa5VAH88hUQAsypfWnbbgEbDA1AisO2SZvisOq9ltFsreh7mT0qImVwOiAVqwaXuJq3qR515aSha7xlXnFS5mkrhFuv2jxwS9kNfTcj3D4fTrI9WNpVEONi6AVqxOpGIKcc8pxv11XTypzfOGB28Sk531xEK1HNc-1Zpd9YuP2mGFXDbSirsE_-6mVOmE-pRriLtAmB2FAcFZx-c50hBTt9K&refId=gOLyzg02egHiqpqO0MnwNQ%3D%3D&trackingId=BYjNO1Sr7nDuyDpsxUxpgA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Back-end Engineer - Java
+Sobre a vaga
+We are looking for a highly experiencedSenior Back-end Engineer - Javato join our team.The ideal candidate will be responsible for developing and maintaining distributed systems that seamlessly integrate with our larger data and services ecosystem. This role will require a deep understanding of Java and related technologies, as well as the ability to work collaboratively in an Agile environment.ResponsibilitiesWork with onsite/customer team members and stakeholders to develop distributed systemsTake full ownership of the SDLC, including conception, build, deployment, and ongoing production operational supportCollaborate in a true Agile environment, taking responsibility for deployment, testing, quality, monitoring, and operational excellenceStrive for continuous improvement in code quality and engineering practicesAnticipate system/application challenges and propose effective solutionsContribute to story sizing, work estimates, and implementation processesEnsure a quality user experience by reviewing user stories for well-defined acceptance criteria and thorough test coverageParticipate in design and code reviews to ensure quality and testability of feature codeImplement build, deployment, and test automation to enable continuous deliveryAdjust positively to quickly changing priorities and shifting goalsRequirementsProven experience building distributed systemsProficiency in Java and JUnitExperience with TDD and BDD testing frameworks such as Cucumber-JVMStrong knowledge of Spring and Spring BootExperience with Document DB technologies such as MongoDB or DynamoDBExpertise in developing and integrating REST APIsExperience with Kafka and event-driven servicesFamiliarity with GraphQLUnderstanding of authentication mechanisms like JWT and OAuthHands-on experience with cloud platformsFluent English communication skills at a B2+ levelNice to haveAdditional experience with other cloud servicesContributions to open-source projects related to Java or back-end systems
+
+Senior Back-end Engineer - Java
+
+
+
+
+
+Responsibilities
+
+
+
+Work with onsite/customer team members and stakeholders to develop distributed systemsTake full ownership of the SDLC, including conception, build, deployment, and ongoing production operational supportCollaborate in a true Agile environment, taking responsibility for deployment, testing, quality, monitoring, and operational excellenceStrive for continuous improvement in code quality and engineering practicesAnticipate system/application challenges and propose effective solutionsContribute to story sizing, work estimates, and implementation processesEnsure a quality user experience by reviewing user stories for well-defined acceptance criteria and thorough test coverageParticipate in design and code reviews to ensure quality and testability of feature codeImplement build, deployment, and test automation to enable continuous deliveryAdjust positively to quickly changing priorities and shifting goals
+Work with onsite/customer team members and stakeholders to develop distributed systems
+Work with onsite/customer team members and stakeholders to develop distributed systems
+Take full ownership of the SDLC, including conception, build, deployment, and ongoing production operational support
+Take full ownership of the SDLC, including conception, build, deployment, and ongoing production operational support
+Collaborate in a true Agile environment, taking responsibility for deployment, testing, quality, monitoring, and operational excellence
+Collaborate in a true Agile environment, taking responsibility for deployment, testing, quality, monitoring, and operational excellence
+Strive for continuous improvement in code quality and engineering practices
+Strive for continuous improvement in code quality and engineering practices
+Anticipate system/application challenges and propose effective solutions
+Anticipate system/application challenges and propose effective solutions
+Contribute to story sizing, work estimates, and implementation processes
+Contribute to story sizing, work estimates, and implementation processes
+Ensure a quality user experience by reviewing user stories for well-defined acceptance criteria and thorough test coverage
+Ensure a quality user experience by reviewing user stories for well-defined acceptance criteria and thorough test coverage
+Participate in design and code reviews to ensure quality and testability of feature code
+Participate in design and code reviews to ensure quality and testability of feature code
+Implement build, deployment, and test automation to enable continuous delivery
+Implement build, deployment, and test automation to enable continuous delivery
+Adjust positively to quickly changing priorities and shifting goals
+Adjust positively to quickly changing priorities and shifting goals
+
+
+
+Requirements
+
+
+
+Proven experience building distributed systemsProficiency in Java and JUnitExperience with TDD and BDD testing frameworks such as Cucumber-JVMStrong knowledge of Spring and Spring BootExperience with Document DB technologies such as MongoDB or DynamoDBExpertise in developing and integrating REST APIsExperience with Kafka and event-driven servicesFamiliarity with GraphQLUnderstanding of authentication mechanisms like JWT and OAuthHands-on experience with cloud platformsFluent English communication skills at a B2+ level
+Proven experience building distributed systems
+Proven experience building distributed systems
+Proficiency in Java and JUnit
+Proficiency in Java and JUnit
+Experience with TDD and BDD testing frameworks such as Cucumber-JVM
+Experience with TDD and BDD testing frameworks such as Cucumber-JVM
+Strong knowledge of Spring and Spring Boot
+Strong knowledge of Spring and Spring Boot
+Experience with Document DB technologies such as MongoDB or DynamoDB
+Experience with Document DB technologies such as MongoDB or DynamoDB
+Expertise in developing and integrating REST APIs
+Expertise in developing and integrating REST APIs
+Experience with Kafka and event-driven services
+Experience with Kafka and event-driven services
+Familiarity with GraphQL
+Familiarity with GraphQL
+Understanding of authentication mechanisms like JWT and OAuth
+Understanding of authentication mechanisms like JWT and OAuth
+Hands-on experience with cloud platforms
+Hands-on experience with cloud platforms
+Fluent English communication skills at a B2+ level
+Fluent English communication skills at a B2+ level
+
+
+
+Nice to have
+
+
+
+Additional experience with other cloud servicesContributions to open-source projects related to Java or back-end systems
+Additional experience with other cloud services
+Additional experience with other cloud services
+Contributions to open-source projects related to Java or back-end systems
+Contributions to open-source projects related to Java or back-end systems

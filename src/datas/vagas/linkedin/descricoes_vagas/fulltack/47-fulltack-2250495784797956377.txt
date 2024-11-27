@@ -1,0 +1,35 @@
+link-https://www.linkedin.com/jobs/view/4057942042/?eBP=CwEAAAGS7hSu3TaA4dz1s-CBZ-uWGOmUPofLQmOiNtnuen_G5lFd1QVkvnXuf4CphdOBGs25XMZ6y2eKXLX0C8e_yoiWiN7-vNQQtAp960uq1KFNE9Bdg9XpL2IyxNaEKvYVRWZgrQPaUf_uBJhw92pWXraSMITm7VPkxDmAIIZC7nPWn6i2SNLEBaMcmehIKAIXJ9wMIjWeI6hA2SyHmIQlcdZ50qSkIPGw0h3b0QYu-g7Yz7UdPPuhlZ1aqcdwdJSXtgiEmEsVx-LzXlWGNgfrs3c8VZq9J2tw2Wrkay3Z_kllzTL5iIN95uAiXWusCCIzrj5XOaTMhnzpr76jLbaC7Wyuu13likRYjA9wjkycFFJl9umRXigcczCrHEcbp0kNuNEmFHv67qEcpF5WhVnsdm_qITy-h0a5kttt-xnCgrHxD4FZY3dRdg4HzccZeweRgg78FheU_s4tJdXqbKbXzvuRlywff1GUhXI-Ww9KGAORzEA-aTD3urcjqxI&refId=zn1YKOq15uclpRN3fS%2FMkw%3D%3D&trackingId=AeF%2B0AVVAHMXN3vM6BMnxQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Full Stack Sênior - SP
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+O profissional atuará como desenvolvedor Full Stack, realizando integrações, via API com o Salesforce e com outros sistemas como AWS, On Base, SAP, etc. Desenvolver Teste Unitário e Teste Integrados. Realizar desenvolvimento e manutenção de componentes de framework de desenvolvimento (acesso a dados, logs) e mensageria. Experiência com desenvolvimento de aplicações Cloud (AWS), Web API, REST, JSON. React, Java, Node. js e C#, Lambda, SQL, criação de Databases (Querys, Procedures, Triggers e Jobs). Competência em levantamento de requisitos e desenvolvimento de novas soluções de integração. análise e correção de bugs de integração de dados já existentes. Habilidade para analisar e otimizar operações e fluxos de integrações já existentes. Habilidade em criar uma documentação com linguagem clara, capaz de gerar registros compreensíveis e acessíveis de diferentes públicos para futuros entendimento e/ou manutenções de tudo que foi desenvolvido/integrado. SOQL-Linguagem de consulta de objeto do Salesforce. Linguagem de programação LWC (Salesforce). Facebook Business. Genesys-soluções para URA. Azure DevOps. Buscamos profissional com experiência em desenvolvimento Full Stack para atuar em um de nossos clientes localizado em São Paulo.Formação AcadêmicaNão informadoSalárioA combinarCargoProgramadorEmpresaVisionnaireDesenvolvimento de softwares.RamoInformática/ Tecnologia(CB)
+
+
+Formação Acadêmica
+
+
+
+
+Salário
+
+
+
+
+Cargo
+
+
+
+
+Empresa
+
+
+
+
+
+
+Ramo
+
+
+
+

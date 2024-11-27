@@ -1,0 +1,96 @@
+link-https://www.linkedin.com/jobs/view/4062761754/?eBP=CwEAAAGS7lEpOEKp12uv5CkpcApLLLVlcuM_SB2xGYDW0dsco09fZBK1gyxi7wnBcrgszN4vUNmnJLTTcFtzkoJEEPRRxqppigM4ZjNMANc3MNdgjnyuJpEDnZKbx0LpyLUZt8fGZuBrNVufdwu5lrj5FRm45xgqCStCIx3EU_y6s_91uX8mcHakDmWlxqiXVp1dVysq1fPD9QAXuA1N5Bnmu9NW_qryzyutOvOuRWQjYJK6XpdeS0cr3wSCvBTMR6MCZ7ipyejKOQQQY_TRSFUgV-kzgqZRdNunYUg3p7jS4pAKs5UT3D5GmiHl6aaOJx7_CRJRTLW0aZrxDc8T5uJUSnOaQNA8AB3J0_b3tWAgVbDZH7_pAbN3OvjloSlPtUhAEoYpQFECuc3dJRyYB7SzOt6HOwsWDv7nQhSjt-bppQvJIghjNbGBW2_GkAYXA5bmu69iHVTu3IDnevZRqx-UvTK76UqqXf67k2faUwjdy0WTYivYKvtCYofArO-ZDrt6dxbcY617XA&refId=eh%2FTpMOgCXQEh1qs5ZCfcA%3D%3D&trackingId=ifb7neXikKIRKHagBehCAQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Python Backend Developer / R + D - Remote Work
+Sobre a vaga
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.Python Backend Developer / R + D at BairesDevWe are looking for outstanding Python Backend Developers to join BairesDev Research & Development Team (R&D).Our R&D team is an essential part of our technology solutions that drive millions in revenue every year, so we only hire the best of the best.Within the team you’ll find many different challenges: Data analysis, Machine Learning, Desktop, and web developments are some of the most relevant right now, but in order to drive innovation, you’ll notice that new things are coming up every day!The R&D area is undoubtedly the most interesting and challenging area of the entire company, and although BairesDev is conformed of really talented people in general, here you will find professionals with extensive experience and also intellectual and creative levels, far above average.We want people to enjoy the trip. Are you ready?What You Will Do:- Create automation systems and tools to configure, monitor, and orchestrate data infrastructure and pipelines.- Create data integration services to help onboard new customers as quickly as possible.- Maintain ongoing reliability, performance, and support of the data infrastructure, providing solutions based on application needs and anticipated growth.Here’s what we are looking for:- 4+ years of practical experience in Python and Django development.- Experience in development with object-oriented programming is desirable.- 3 years of development using other programming languages.- Good skills with XML and relational databases (Oracle / MS SQL / MySQL).- Strong professional experience working with large data structures (including XML) and algorithms.- Advanced English level.How we do make your work (and your life) easier:- 100% remote work (from anywhere).- Excellent compensation in USD or your local currency if preferred- Hardware and software setup for you to work from home.- Flexible hours: create your own schedule.- Paid parental leaves, vacations, and national holidays.- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.Apply now and become part of a global team where your unique talents can truly thrive!
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+
+
+Python Backend Developer / R + D at BairesDev
+Python Backend Developer / R + D at BairesDev
+
+
+
+We are looking for outstanding Python Backend Developers to join BairesDev Research & Development Team (R&D).
+We are looking for outstanding Python Backend Developers to join BairesDev Research & Development Team (R&D).
+Our R&D team is an essential part of our technology solutions that drive millions in revenue every year, so we only hire the best of the best.
+Our R&D team is an essential part of our technology solutions that drive millions in revenue every year, so we only hire the best of the best.
+Within the team you’ll find many different challenges: Data analysis, Machine Learning, Desktop, and web developments are some of the most relevant right now, but in order to drive innovation, you’ll notice that new things are coming up every day!
+Within the team you’ll find many different challenges: Data analysis, Machine Learning, Desktop, and web developments are some of the most relevant right now, but in order to drive innovation, you’ll notice that new things are coming up every day!
+The R&D area is undoubtedly the most interesting and challenging area of the entire company, and although BairesDev is conformed of really talented people in general, here you will find professionals with extensive experience and also intellectual and creative levels, far above average.
+The R&D area is undoubtedly the most interesting and challenging area of the entire company, and although BairesDev is conformed of really talented people in general, here you will find professionals with extensive experience and also intellectual and creative levels, far above average.
+We want people to enjoy the trip. Are you ready?
+We want people to enjoy the trip. Are you ready?
+
+
+
+What You Will Do:
+What You Will Do:
+
+
+
+- Create automation systems and tools to configure, monitor, and orchestrate data infrastructure and pipelines.
+- Create automation systems and tools to configure, monitor, and orchestrate data infrastructure and pipelines.
+- Create data integration services to help onboard new customers as quickly as possible.
+- Create data integration services to help onboard new customers as quickly as possible.
+- Maintain ongoing reliability, performance, and support of the data infrastructure, providing solutions based on application needs and anticipated growth.
+- Maintain ongoing reliability, performance, and support of the data infrastructure, providing solutions based on application needs and anticipated growth.
+
+
+
+Here’s what we are looking for:
+Here’s what we are looking for:
+
+
+
+- 4+ years of practical experience in Python and Django development.
+- 4+ years of practical experience in Python and Django development.
+- Experience in development with object-oriented programming is desirable.
+- Experience in development with object-oriented programming is desirable.
+- 3 years of development using other programming languages.
+- 3 years of development using other programming languages.
+- Good skills with XML and relational databases (Oracle / MS SQL / MySQL).
+- Good skills with XML and relational databases (Oracle / MS SQL / MySQL).
+- Strong professional experience working with large data structures (including XML) and algorithms.
+- Strong professional experience working with large data structures (including XML) and algorithms.
+- Advanced English level.
+- Advanced English level.
+
+
+
+How we do make your work (and your life) easier:
+How we do make your work (and your life) easier:
+
+
+
+- 100% remote work (from anywhere).
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+
+
+Apply now and become part of a global team where your unique talents can truly thrive!
+Apply now and become part of a global team where your unique talents can truly thrive!

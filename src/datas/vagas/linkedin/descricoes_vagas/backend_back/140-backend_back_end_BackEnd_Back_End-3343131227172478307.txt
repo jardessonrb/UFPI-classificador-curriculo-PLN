@@ -1,0 +1,56 @@
+link-https://www.linkedin.com/jobs/view/4053642246/?eBP=CwEAAAGS7lEpOCTkFg3_cs_HV6_34223aEOdK0AL8uBEeIqzgqQWw5sVIqfebFKCbEdbg4stotzj6n2JXGb2eITzfkUP79Dqo4ozg8q0tcfVY_USJ26dQX2L7TSkhjqWZq5Z5ddwIzC8tvzj-tW5WcK0luMHjq-xIgquE6oRdn86bUOAI54b6FBvQcyRCkr2DgnWQMtgYiNI6xU9SOYk726ERRfGYE94QzKa2r6Xynuy6Vf0tC6G8KApCXU1jd669F0lCsOqunbmpWpzTwVm4412imCgwDt3x_So1M9GPcYLkuaeR-DZL9R-cM9ybOJAl4NPKXtOCJTuXJ1d_pWnyfI0ohlAFYOcmXo5m0vt4DKl6tTWJ7aH5tBvYapRdBpeskcWUxOWObK5MURK4GQrjTBgGDmaEd4iKhqqjjAGR8ASFoHRVkjNmoWMvGC6w__aKh7QGg_p2Ss1dAnuqyvF1C0suW_UH6d2Dn_72M4yPzhDo1C2h_fTLaYzzvRgVnsG79V4PgQ&refId=eh%2FTpMOgCXQEh1qs5ZCfcA%3D%3D&trackingId=ovunmBmNIcLYeDLRaHLOBQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back End
+Sobre a vaga
+Estamos em busca de um(a) talentoso(a)Desenvolvedor(a) Back-Endpara integrar nosso time na Brintell, uma empresa focada em soluções tecnológicas de ponta. O(a) candidato(a) ideal terá a oportunidade de contribuir para o desenvolvimento de sistemas robustos e escaláveis, colaborando ativamente na criação de soluções inovadoras no campo de inteligência artificial e gestão de dados.Responsabilidades:Planejar, arquitetar e desenvolver soluções back-end para integrar de forma fluida o front-end e outros componentes do sistema.Desenvolver APIs eficientes, escaláveis e seguras para apoiar as demandas de negócio e facilitar a integração de dados entre plataformas.Identificar e resolver falhas e gargalos de desempenho no servidor, garantindo alta disponibilidade e performance.Colaborar estreitamente com equipes multidisciplinares para entrega contínua de melhorias e novas funcionalidades.Implementar boas práticas de segurança e desenvolvimento, com foco em conformidade regulatória e proteção de dados.Requisitos:Experiência com linguagens de programação como Python, Java, Node.js, C# ou outras utilizadas no back-end.Sólido conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB).Familiaridade com frameworks como Django, Spring, Express ou ASP.NET.Entendimento de arquitetura de software como microsserviços, SOA e design modular.Forte capacidade de resolução de problemas e excelente comunicação em equipe.Diferenciais:Conhecimento em autenticação e autorização (OAuth, JWT).Experiência com ferramentas e práticas DevOps, incluindo CI/CD.Familiaridade com tecnologias de contêinerização (Docker, Kubernetes).Contribuições em projetos de código aberto ou envolvimento com a comunidade técnica.Certificações em desenvolvimento back-end ou plataformas relacionadas.
+
+Desenvolvedor(a) Back-End
+
+
+
+Responsabilidades
+
+
+Planejar, arquitetar e desenvolver soluções back-end para integrar de forma fluida o front-end e outros componentes do sistema.Desenvolver APIs eficientes, escaláveis e seguras para apoiar as demandas de negócio e facilitar a integração de dados entre plataformas.Identificar e resolver falhas e gargalos de desempenho no servidor, garantindo alta disponibilidade e performance.Colaborar estreitamente com equipes multidisciplinares para entrega contínua de melhorias e novas funcionalidades.Implementar boas práticas de segurança e desenvolvimento, com foco em conformidade regulatória e proteção de dados.
+Planejar, arquitetar e desenvolver soluções back-end para integrar de forma fluida o front-end e outros componentes do sistema.
+Planejar, arquitetar e desenvolver soluções back-end para integrar de forma fluida o front-end e outros componentes do sistema.
+Desenvolver APIs eficientes, escaláveis e seguras para apoiar as demandas de negócio e facilitar a integração de dados entre plataformas.
+Desenvolver APIs eficientes, escaláveis e seguras para apoiar as demandas de negócio e facilitar a integração de dados entre plataformas.
+Identificar e resolver falhas e gargalos de desempenho no servidor, garantindo alta disponibilidade e performance.
+Identificar e resolver falhas e gargalos de desempenho no servidor, garantindo alta disponibilidade e performance.
+Colaborar estreitamente com equipes multidisciplinares para entrega contínua de melhorias e novas funcionalidades.
+Colaborar estreitamente com equipes multidisciplinares para entrega contínua de melhorias e novas funcionalidades.
+Implementar boas práticas de segurança e desenvolvimento, com foco em conformidade regulatória e proteção de dados.
+Implementar boas práticas de segurança e desenvolvimento, com foco em conformidade regulatória e proteção de dados.
+
+
+Requisitos
+
+
+Experiência com linguagens de programação como Python, Java, Node.js, C# ou outras utilizadas no back-end.Sólido conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB).Familiaridade com frameworks como Django, Spring, Express ou ASP.NET.Entendimento de arquitetura de software como microsserviços, SOA e design modular.Forte capacidade de resolução de problemas e excelente comunicação em equipe.
+Experiência com linguagens de programação como Python, Java, Node.js, C# ou outras utilizadas no back-end.
+Experiência com linguagens de programação como Python, Java, Node.js, C# ou outras utilizadas no back-end.
+Sólido conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB).
+Sólido conhecimento em bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB).
+Familiaridade com frameworks como Django, Spring, Express ou ASP.NET.
+Familiaridade com frameworks como Django, Spring, Express ou ASP.NET.
+Entendimento de arquitetura de software como microsserviços, SOA e design modular.
+Entendimento de arquitetura de software como microsserviços, SOA e design modular.
+Forte capacidade de resolução de problemas e excelente comunicação em equipe.
+Forte capacidade de resolução de problemas e excelente comunicação em equipe.
+
+
+Diferenciais
+
+
+Conhecimento em autenticação e autorização (OAuth, JWT).Experiência com ferramentas e práticas DevOps, incluindo CI/CD.Familiaridade com tecnologias de contêinerização (Docker, Kubernetes).Contribuições em projetos de código aberto ou envolvimento com a comunidade técnica.Certificações em desenvolvimento back-end ou plataformas relacionadas.
+Conhecimento em autenticação e autorização (OAuth, JWT).
+Conhecimento em autenticação e autorização (OAuth, JWT).
+Experiência com ferramentas e práticas DevOps, incluindo CI/CD.
+Experiência com ferramentas e práticas DevOps, incluindo CI/CD.
+Familiaridade com tecnologias de contêinerização (Docker, Kubernetes).
+Familiaridade com tecnologias de contêinerização (Docker, Kubernetes).
+Contribuições em projetos de código aberto ou envolvimento com a comunidade técnica.
+Contribuições em projetos de código aberto ou envolvimento com a comunidade técnica.
+Certificações em desenvolvimento back-end ou plataformas relacionadas.
+Certificações em desenvolvimento back-end ou plataformas relacionadas.

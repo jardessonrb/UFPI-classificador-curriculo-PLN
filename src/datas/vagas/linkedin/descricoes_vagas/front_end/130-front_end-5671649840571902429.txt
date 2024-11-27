@@ -1,0 +1,100 @@
+link-https://www.linkedin.com/jobs/view/4058103275/?eBP=CwEAAAGS7kyMtBxqamArodxYq9MvvI3Qjj0PMK-rmWfNO5wEnPyI2MNaw8cnOGT5VQlMyeSDdxgotoCZP7vTph2j_GJ68vvt2OSAHAT5abbmlejGWkMrQEqhb3U2Ezbr6P1cHhwr51uTKiDM46eQ9mwi5D_ZTEM2kNRnp04zirbTViM3r7Nbo8_1UrNN-Rch_xfQchi9XcaR7YMhnXRXYyxeqEl5kcaPoKVQWsmh1T40wkoqp2RvGbwipIlZqa4CFdakf4HXlbBpA4S3vI5509uwPUIZYi0zMBJSz8YQdoRbPgshjeUm-ugjyur9pCesSBHfEeEb-EopdTuTy7Q1JqnrTJxFIagYWHZ7gAzu18J-L0Cuq8dKlh8y5ej9dWNvwZMeJ6AvnV-rNIT3KIKfb3uyT65km44kaC3KZ68RlkYLU4hiW-4oLwnsKydl-H80J-OEEhTr3Mjy0zWWj35PZmKBTHwNG7LqsiNrtMCp_exSigjc9kvZXGFdPYObuaF4WrL0&refId=rurZIBIMBTASSFbiOg8ffQ%3D%3D&trackingId=Jomr%2BAm0c0TLTWWSkjMOkg%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Frontend React Sênior
+Sobre a vaga
+Estamos buscando uma pessoa que ouse protagonizar com a gente.💜Responsabilidades e AtribuiçõesContribuirá em projetos financeiros, no desenvolvimento front-end, sendo responsável por implementar interfaces dinâmicas e responsivas utilizando ReactJS, HTML, CSS, e CSS-in-Js;Aplicar conhecimentos avançados em JavaScript para manipulação de DOM, utilização de funções assíncronas, iteradores e integração com APIs REST;Desenvolver componentes reutilizáveis em React, utilizando hooks e gerenciando corretamente o estado e o ciclo de vida das aplicações;Escrever código tipado e robusto utilizando TypeScript, aprimorando a manutenção e a escalabilidade da aplicação;Gerenciar repositórios e pipelines de CI/CD utilizando GitLab e Github Actions para garantir a entrega contínua e automatizada de funcionalidades;Implementar e executar testes unitários e de integração, assegurando a qualidade e confiabilidade das funcionalidades desenvolvidas;Monitorar a performance das aplicações utilizando ferramentas como Dynatrace, garantindo a escalabilidade e a performance;Participar de ciclos de desenvolvimento ágil (Scrum, Kanban), colaborando para a definição de boas práticas de UX e usabilidade;Trabalhar com soluções escaláveis em ambientes de Cloud, como AWS ou Azure, gerenciando dependências e processos de CI/CD.Requisitos e QualificaçõesSólidos conhecimentos em ReactJS, pois será a referência do time na tecnologia.Sólidos conhecimentos de HTML, CSS e CSS-in-Js;Experiência com construção de interfaces responsivas;Sólidos conhecimentos de JavaScript (manipulação da DOM, funções assíncronas, iteradores);Sólidos conhecimentos acerca dos paradigmas do React.js (JSX, hooks, estado e ciclo de vida);Conhecimentos de e/ou experiência com TypeScript.Conhecimento em integração e consumo de informações via APIs REST;Conhecimento em ferramentas de controle de versão (GitLab);Conhecimento e experiência com testes (unitário, integração e afins).DesejávelConhecimento em metodologias ágeis (Scrum, Kanban etc.).Noções acerca de UI/UX, princípios de usabilidade e do design de interfaces;Experiência com banco de dados relacional (Oracle);não tenho experiência, estudos ainda não aprofundadoExperiência no gerenciamento de dependências e CI/CD;Conhecimento em Cloud (Azure, AWS, Huawei);Experiência com aplicações escaláveis;Conhecimentos de e/ou experiência com TypeScript.Dynatrace ou ferramenta de monitoramento;Github Actions;Informações AdicionaisPara sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas.Quer mais bem-estar? Oferecemos Gympass e Zenklub (com duas sessões gratuitas por mês) para você cuidar da sua saúde física e mental.Quando bater aquela fome, utilize nosso benefício de alimentação Caju para fazer compras em qualquer supermercado ou restaurante.Ama viajar? Aqui temos o Férias & Co, um benefício que te ajuda a viabilizar aquela viagem dos sonhos.Tem filhos? Conte com o auxílio creche.Família crescendo? Temos o MomCare, um incentivo monetário flexível pós licença maternidade para as novas mamães datunianas.Para deixar seu ambiente de trabalho com a sua cara, conte com o nosso auxílio home office.Quer investir no seu desenvolvimento profissional? Temos parcerias com várias instituições de ensino de renome para oferecer a você descontos que podem chegar a 70% em cursos de graduação, pós-graduação, MBAs, idiomas e muito mais!Para conhecer todos os nossos benefícios, acesse a home da nossa página de carreiras.💜
+Estamos buscando uma pessoa que ouse protagonizar com a gente.
+
+
+
+Responsabilidades e Atribuições
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requisitos e Qualificações
+
+
+Sólidos conhecimentos em ReactJS, pois será a referência do time na tecnologia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Desejável
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Informações Adicionais
+
+
+Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas.Quer mais bem-estar? Oferecemos Gympass e Zenklub (com duas sessões gratuitas por mês) para você cuidar da sua saúde física e mental.Quando bater aquela fome, utilize nosso benefício de alimentação Caju para fazer compras em qualquer supermercado ou restaurante.Ama viajar? Aqui temos o Férias & Co, um benefício que te ajuda a viabilizar aquela viagem dos sonhos.Tem filhos? Conte com o auxílio creche.Família crescendo? Temos o MomCare, um incentivo monetário flexível pós licença maternidade para as novas mamães datunianas.Para deixar seu ambiente de trabalho com a sua cara, conte com o nosso auxílio home office.Quer investir no seu desenvolvimento profissional? Temos parcerias com várias instituições de ensino de renome para oferecer a você descontos que podem chegar a 70% em cursos de graduação, pós-graduação, MBAs, idiomas e muito mais!
+Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas.
+Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas.
+Quer mais bem-estar? Oferecemos Gympass e Zenklub (com duas sessões gratuitas por mês) para você cuidar da sua saúde física e mental.
+Quer mais bem-estar? Oferecemos Gympass e Zenklub (com duas sessões gratuitas por mês) para você cuidar da sua saúde física e mental.
+Quando bater aquela fome, utilize nosso benefício de alimentação Caju para fazer compras em qualquer supermercado ou restaurante.
+Quando bater aquela fome, utilize nosso benefício de alimentação Caju para fazer compras em qualquer supermercado ou restaurante.
+Ama viajar? Aqui temos o Férias & Co, um benefício que te ajuda a viabilizar aquela viagem dos sonhos.
+Ama viajar? Aqui temos o Férias & Co, um benefício que te ajuda a viabilizar aquela viagem dos sonhos.
+Tem filhos? Conte com o auxílio creche.
+Tem filhos? Conte com o auxílio creche.
+Família crescendo? Temos o MomCare, um incentivo monetário flexível pós licença maternidade para as novas mamães datunianas.
+Família crescendo? Temos o MomCare, um incentivo monetário flexível pós licença maternidade para as novas mamães datunianas.
+Para deixar seu ambiente de trabalho com a sua cara, conte com o nosso auxílio home office.
+Para deixar seu ambiente de trabalho com a sua cara, conte com o nosso auxílio home office.
+Quer investir no seu desenvolvimento profissional? Temos parcerias com várias instituições de ensino de renome para oferecer a você descontos que podem chegar a 70% em cursos de graduação, pós-graduação, MBAs, idiomas e muito mais!
+Quer investir no seu desenvolvimento profissional? Temos parcerias com várias instituições de ensino de renome para oferecer a você descontos que podem chegar a 70% em cursos de graduação, pós-graduação, MBAs, idiomas e muito mais!
+
+
+
+Para conhecer todos os nossos benefícios, acesse a home da nossa página de carreiras.

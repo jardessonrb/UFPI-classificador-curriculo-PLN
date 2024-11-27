@@ -1,0 +1,116 @@
+link-https://www.linkedin.com/jobs/view/4029273944/?eBP=CwEAAAGS7kwmQpzE-aL8ZOLrY9LCS6z_vsrfu1xYQefv7PHPjjoPqz6xybjAWilH1mDyjBD5PFJ3nx1Yp55RcJdLFjfFtuqe-QrsZEhBwDGRTHt556W-Ov0Oqo9xbW8JNzfE30oxga_vAIpDDPJ4THCsLGb5c0vMnASNDcNUlMM7S5wfKfna8LzIVgLDEikM9UtWgPD2akFaX1VMncLd7IL4-npaVl4A0pH0uOOIeU9eSGGusrzWOntY88-ne4-NkpKza5CmADzu5lx1E164A-aAoOUzuaG87twx30vvpW2Q1EmRus0RRjeMqiYzPAI5_tHd0aDYezMfuE4HUyrQ-1LCYKoVHsBAkMvTZs14oeC_yNtnglF7tzrxgU9xCMbdJ68gNF-ffn3aNfhSTAoCbl1vy-xiuktW3YooMS4HRZUSPCIr73j5KflGB0UMJzHQjG2ni1wqy47lmNTn0CzcEuglHABJ89XkAY-jv0jXfwAoC0KdTjg-1YrNs_MINhVB1kL7GLZy6wc&refId=hO00h6DowsyUjLPjVUV30Q%3D%3D&trackingId=%2BK9hU3eXz6ipuT25pVvr3w%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Desenvolvimento de Software FrontEnd - Vaga Afirmativa Para Mulheres
+Sobre a vaga
+Company DescriptionSomos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.Venha descobrir um mundo inesperado com a gente.Job DescriptionEstamos em busca de uma Desenvolvedora Frontend Sênior com vasta experiência em Angular para integrar nossa equipe. A candidata será responsável por desenvolver e manter aplicações web escaláveis, além de colaborar com outras equipes para garantir a melhor experiência para nossos usuários.ResponsabilidadesDesenvolver interfaces de usuário ricas e interativas utilizando Angular (versões mais recentes).Garantir a alta qualidade do código, utilizando as melhores práticas de desenvolvimento frontend.Colaborar com equipes de design e backend para criar soluções completas e integradas.Otimizar aplicações para máxima velocidade e escalabilidade.Realizar code reviews e mentoria de desenvolvedores juniores e plenos.Manter-se atualizado com as últimas tendências e tecnologias do mercado.QualificationsRequisitos:Experiência mínima de 5 anos em desenvolvimento frontend.Expertise comprovada em Angular 14+ (versões mais recentes).Proficiência em HTML5, CSS3 e JavaScript/TypeScript.Experiência com consumo de APIs RESTful.Conhecimento em ferramentas de versionamento de código, como Git.Experiência com testes unitários e end-to-end (Jasmine, Karma).Forte compreensão de UX/UI e atenção aos detalhes.Experiência com metodologias ágeis (Scrum, Kanban).DiferenciaisExperiência com metodologias ágeis (Scrum, Kanban).Conhecimento em DevOps e CI/CD.Experiência com outras frameworks ou bibliotecas de frontend, como React ou Vue.js.Additional InformationO que te oferecemos como diferencial!Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!Experian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+
+
+
+
+Job Description
+
+
+
+
+Responsabilidades
+
+
+Desenvolver interfaces de usuário ricas e interativas utilizando Angular (versões mais recentes).Garantir a alta qualidade do código, utilizando as melhores práticas de desenvolvimento frontend.Colaborar com equipes de design e backend para criar soluções completas e integradas.Otimizar aplicações para máxima velocidade e escalabilidade.Realizar code reviews e mentoria de desenvolvedores juniores e plenos.Manter-se atualizado com as últimas tendências e tecnologias do mercado.
+Desenvolver interfaces de usuário ricas e interativas utilizando Angular (versões mais recentes).
+Desenvolver interfaces de usuário ricas e interativas utilizando Angular (versões mais recentes).
+
+Garantir a alta qualidade do código, utilizando as melhores práticas de desenvolvimento frontend.
+Garantir a alta qualidade do código, utilizando as melhores práticas de desenvolvimento frontend.
+
+Colaborar com equipes de design e backend para criar soluções completas e integradas.
+Colaborar com equipes de design e backend para criar soluções completas e integradas.
+
+Otimizar aplicações para máxima velocidade e escalabilidade.
+Otimizar aplicações para máxima velocidade e escalabilidade.
+
+Realizar code reviews e mentoria de desenvolvedores juniores e plenos.
+Realizar code reviews e mentoria de desenvolvedores juniores e plenos.
+
+Manter-se atualizado com as últimas tendências e tecnologias do mercado.
+Manter-se atualizado com as últimas tendências e tecnologias do mercado.
+
+
+
+Qualifications
+
+
+
+
+Experiência mínima de 5 anos em desenvolvimento frontend.Expertise comprovada em Angular 14+ (versões mais recentes).Proficiência em HTML5, CSS3 e JavaScript/TypeScript.Experiência com consumo de APIs RESTful.Conhecimento em ferramentas de versionamento de código, como Git.Experiência com testes unitários e end-to-end (Jasmine, Karma).Forte compreensão de UX/UI e atenção aos detalhes.Experiência com metodologias ágeis (Scrum, Kanban).
+Experiência mínima de 5 anos em desenvolvimento frontend.
+Experiência mínima de 5 anos em desenvolvimento frontend.
+
+Expertise comprovada em Angular 14+ (versões mais recentes).
+Expertise comprovada em Angular 14+ (versões mais recentes).
+
+Proficiência em HTML5, CSS3 e JavaScript/TypeScript.
+Proficiência em HTML5, CSS3 e JavaScript/TypeScript.
+
+Experiência com consumo de APIs RESTful.
+Experiência com consumo de APIs RESTful.
+
+Conhecimento em ferramentas de versionamento de código, como Git.
+Conhecimento em ferramentas de versionamento de código, como Git.
+
+Experiência com testes unitários e end-to-end (Jasmine, Karma).
+Experiência com testes unitários e end-to-end (Jasmine, Karma).
+
+Forte compreensão de UX/UI e atenção aos detalhes.
+Forte compreensão de UX/UI e atenção aos detalhes.
+
+Experiência com metodologias ágeis (Scrum, Kanban).
+Experiência com metodologias ágeis (Scrum, Kanban).
+
+
+
+Diferenciais
+
+
+Experiência com metodologias ágeis (Scrum, Kanban).Conhecimento em DevOps e CI/CD.Experiência com outras frameworks ou bibliotecas de frontend, como React ou Vue.js.
+Experiência com metodologias ágeis (Scrum, Kanban).
+Experiência com metodologias ágeis (Scrum, Kanban).
+
+Conhecimento em DevOps e CI/CD.
+Conhecimento em DevOps e CI/CD.
+
+Experiência com outras frameworks ou bibliotecas de frontend, como React ou Vue.js.
+Experiência com outras frameworks ou bibliotecas de frontend, como React ou Vue.js.
+
+
+
+Additional Information
+
+
+O que te oferecemos como diferencial!
+
+
+Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Ambiente em plena transformação;
+Ambiente em plena transformação;
+
+Atuação global.
+Atuação global.
+
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+
+
+
+
+

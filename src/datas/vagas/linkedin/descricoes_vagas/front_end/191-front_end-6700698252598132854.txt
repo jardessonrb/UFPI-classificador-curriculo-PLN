@@ -1,0 +1,181 @@
+link-https://www.linkedin.com/jobs/view/4054419316/?eBP=CwEAAAGS7kv1YJW_OHs6_qOL9kJuzaRfMpe7eFB-fQoIpVsP_GL3OEXViF3S2QAYdnBm13ZUsAXNUMt4IPnYcHs5gAIzKw1kCpvhm_bn9DJTWR4NiCNk6OWfdVxvQ-ksHg0i9Xe3KMKlfOHUu1kdiWISDnwidnPdxw-JFNeYNxRR8KE8FN1kCL6AkEZiFsbh_qrRBLk85Q3KwzKNbnN1hFYadAy12tiHu4RQ040-iKgubICopdoXRnplyXmmBK7stAu8hE9IY21hGIsDFbsSsc_sh6uRWts4U3eUUCThoEgLvHG22n2sGFEtYNzluJl7JIKBm9nOsbXgjIRHJCu8uKSPwgnmgoQekGzEndL5_STro3UmzqqlNFcEkW1F4RGdK8aX6cP6iZ8PQmFyu1SKVigYjFOTsRi-PvSpFcWSwDNP8w84K-GbOvB3_tyv0y10osFZWhH0cR_F3yYbrVRf87JHMLz3V3tCOlPJceGb4d-vLOyUvGN61CeevucRwiBoSXD5Vd264lA&refId=YgUVrAkRv2DiwuaWY1zF5Q%3D%3D&trackingId=0AzO04rVMs9T4t9mo1lTfA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Frontend Engineer - Brazil
+Sobre a vaga
+Who you are:You’re a software engineer with at least 5 years commercial experienceYou have a genuine enthusiasm for software engineering and take no greater pleasure than finding the right solution to the problem at hand and making practical tradeoffsYou are excited about contributing to a product that can drive positive change to the lives of millions of people around the worldYou have strong ownership mindset - “you build it, you run it”You’re eager to continuously learn, grow and step out of your comfort zoneThe idea of working in a successful, high growth startup in a fast paced role excites youWhat you will do:Develop beautiful & reliable web applicationsDevelop and maintain high-performance, secure, and scalable web applications for our own customer facing and internal products, systems and data platforms, and e-commerce capabilities using modern frameworks;Collaborate with the design/product team on improving user experience;Develop extensible platforms and architectures that make it possible to quickly and efficiently launch new products and lines of business;Actively improve the way we build front-end services and pave the road to solve new challenges;Evolve a Design System that leverages work of all Product and Tech teams.Drive impact in a team environmentYou’ll work with other software engineers, designers, QAs, product managers, business stakeholders and domain expertsYou’ll drive impact and own your work end2end - from scoping & planning, architectural design decisions, implementation and testing, to production deployment and operations.Job requirements:At least 5 years of commercial experience as a software engineer or equivalent.Knowledge of JavaScript, TypeScript, HTML, CSS, and building beautiful and responsive UIs;Solid knowledge of frontend design patternsExperience with modern JavaScript frameworks and tooling.Experience with TDD and testable code - unit / integration / performance testingGreat verbal and written communication skills and the ability to explain complex ideas in a simple way to non-engineering teammates.Excellent English skills (verbal and written) are essentialAbility to zoom in and out - be comfortable with getting into the relevant low-level details while also making the optimal tradeoffs for achieving the “big picture” goals.An eye for user behaviour and design and attention to detailOther skills you might have:A degree in CS or equivalent is a plusExperience developing and scaling high-performance, responsive user interfacesExperience with web performance optimization techniques with a strong focus on Core Web Vitals and SEO;Experience writing integration and e2e tests;Experience building and testing accessible applications;Experience in implementing in practices concepts of A/B Testing and Progressive Rollout of features to production;Have built or contributed to a Design System used by many different teams;Experienced with cloud computing platforms such as AWS or GCP;Practical experience with CI/CD and IaC (Infrastructure-as-code)BENEFITSCompetitive salary based on experience, PJ modelRemote, hybrid, and flexible work; with office options in São Paulo and Rio de JaneiroStock options plan (company participation)Meal and transportation compensations30 days holidays and parental leave, with flexible working policiesGympassEnglish classesInternational exposure with direct interactions with the UK teamOff-site meetings with the team for strategic alignment and team integrationA fun and friendly work environment with a highly motivated teamABOUT MANUALMANUAL delivers healthcare at scale thanks to its comprehensive digital clinic. Our ambition is to extend the healthy years of lives for a large part of the population in the UK, Brazil, and beyond focusing on life-impeding conditions like hormonal imbalance, obesity and hair loss.MANUAL has steadily grown since inception and is now serving 500k+ patients, across 2 geographies. We are centralising the diagnosis, custom medications, doctor specialist services, behavioural change and fully vertically integrated management of the treatment journey, under one roof and consumer brand.We’re destigmatising how people approach their health by offering easy access to diagnostics, a holistic range of treatments, ongoing care and medical advice, as well as a community to help proactively improve one’s health and wellbeing. A place that didn't exist until now.Innovating on healthcare delivery, MANUAL provides patients with engaging treatment plans generating superior clinical outcomes: 90%+ of patients see an improvement in their Quality of Life (QoL) within 6 months. Our ambition is to extend the healthy years of lifespan for a big part of the population in the UK, Brazil and beyond.After a $30 million Series A round, we are on a mission to build one of the most impactful teams in the healthcare space. We are looking for incredibly ambitious, entrepreneurial, driven and fun people to join us as we accelerate our growth and expansion. This is an exciting time to join the UK’s fastest-growing healthtech and help supercharge our mission.Websites:https://www.manual.co/https://www.joinvoy.com/EQUAL EMPLOYMENT OPPORTUNITYMenwell Limited, trading as MANUAL, is an Equal Opportunities Employer. We are committed to equal employment opportunities regardless of gender and gender reassignment, age, disability, race, religion or belief, sex and sexual orientation, pregnancy and maternity, marriage and civil partnership. We base all our employment decisions on merit, job requirements and business needs. This applies to all decisions related to hiring, training, remuneration, promotion and discipline.We believe that a diverse and inclusive workforce is essential to our success. We are committed to creating an environment where everyone feels welcomed, valued and respected, regardless of their background, identity or beliefs. We believe that Inclusion, Diversity, Equity and Accessibility (IDEA) is essential to our ability to offer the best possible health outcomes to our patients and customers.
+Who you are:
+Who you are:
+Who you are:
+You’re a software engineer with at least 5 years commercial experienceYou have a genuine enthusiasm for software engineering and take no greater pleasure than finding the right solution to the problem at hand and making practical tradeoffsYou are excited about contributing to a product that can drive positive change to the lives of millions of people around the worldYou have strong ownership mindset - “you build it, you run it”You’re eager to continuously learn, grow and step out of your comfort zoneThe idea of working in a successful, high growth startup in a fast paced role excites you
+You’re a software engineer with at least 5 years commercial experience
+You’re a software engineer with at least 5 years commercial experience
+You have a genuine enthusiasm for software engineering and take no greater pleasure than finding the right solution to the problem at hand and making practical tradeoffs
+You have a genuine enthusiasm for software engineering and take no greater pleasure than finding the right solution to the problem at hand and making practical tradeoffs
+You are excited about contributing to a product that can drive positive change to the lives of millions of people around the world
+You are excited about contributing to a product that can drive positive change to the lives of millions of people around the world
+You have strong ownership mindset - “you build it, you run it”
+You have strong ownership mindset - “you build it, you run it”
+you build it, you run it
+You’re eager to continuously learn, grow and step out of your comfort zone
+You’re eager to continuously learn, grow and step out of your comfort zone
+The idea of working in a successful, high growth startup in a fast paced role excites you
+The idea of working in a successful, high growth startup in a fast paced role excites you
+
+
+
+What you will do:
+What you will do:
+What you will do:
+Develop beautiful & reliable web applications
+Develop beautiful & reliable web applications
+Develop beautiful & reliable web applications
+Develop and maintain high-performance, secure, and scalable web applications for our own customer facing and internal products, systems and data platforms, and e-commerce capabilities using modern frameworks;Collaborate with the design/product team on improving user experience;Develop extensible platforms and architectures that make it possible to quickly and efficiently launch new products and lines of business;Actively improve the way we build front-end services and pave the road to solve new challenges;Evolve a Design System that leverages work of all Product and Tech teams.
+Develop and maintain high-performance, secure, and scalable web applications for our own customer facing and internal products, systems and data platforms, and e-commerce capabilities using modern frameworks;
+Develop and maintain high-performance, secure, and scalable web applications for our own customer facing and internal products, systems and data platforms, and e-commerce capabilities using modern frameworks;
+Collaborate with the design/product team on improving user experience;
+Collaborate with the design/product team on improving user experience;
+Develop extensible platforms and architectures that make it possible to quickly and efficiently launch new products and lines of business;
+Develop extensible platforms and architectures that make it possible to quickly and efficiently launch new products and lines of business;
+Actively improve the way we build front-end services and pave the road to solve new challenges;
+Actively improve the way we build front-end services and pave the road to solve new challenges;
+Evolve a Design System that leverages work of all Product and Tech teams.
+Evolve a Design System that leverages work of all Product and Tech teams.
+Drive impact in a team environment
+Drive impact in a team environment
+Drive impact in a team environment
+You’ll work with other software engineers, designers, QAs, product managers, business stakeholders and domain expertsYou’ll drive impact and own your work end2end - from scoping & planning, architectural design decisions, implementation and testing, to production deployment and operations.
+You’ll work with other software engineers, designers, QAs, product managers, business stakeholders and domain experts
+You’ll work with other software engineers, designers, QAs, product managers, business stakeholders and domain experts
+You’ll drive impact and own your work end2end - from scoping & planning, architectural design decisions, implementation and testing, to production deployment and operations.
+You’ll drive impact and own your work end2end - from scoping & planning, architectural design decisions, implementation and testing, to production deployment and operations.
+
+
+
+Job requirements:
+Job requirements:
+Job requirements:
+At least 5 years of commercial experience as a software engineer or equivalent.Knowledge of JavaScript, TypeScript, HTML, CSS, and building beautiful and responsive UIs;Solid knowledge of frontend design patternsExperience with modern JavaScript frameworks and tooling.Experience with TDD and testable code - unit / integration / performance testingGreat verbal and written communication skills and the ability to explain complex ideas in a simple way to non-engineering teammates.Excellent English skills (verbal and written) are essentialAbility to zoom in and out - be comfortable with getting into the relevant low-level details while also making the optimal tradeoffs for achieving the “big picture” goals.An eye for user behaviour and design and attention to detail
+At least 5 years of commercial experience as a software engineer or equivalent.
+At least 5 years of commercial experience as a software engineer or equivalent.
+Knowledge of JavaScript, TypeScript, HTML, CSS, and building beautiful and responsive UIs;
+Knowledge of JavaScript, TypeScript, HTML, CSS, and building beautiful and responsive UIs;
+Solid knowledge of frontend design patterns
+Solid knowledge of frontend design patterns
+Experience with modern JavaScript frameworks and tooling.
+Experience with modern JavaScript frameworks and tooling.
+Experience with TDD and testable code - unit / integration / performance testing
+Experience with TDD and testable code - unit / integration / performance testing
+Great verbal and written communication skills and the ability to explain complex ideas in a simple way to non-engineering teammates.
+Great verbal and written communication skills and the ability to explain complex ideas in a simple way to non-engineering teammates.
+Excellent English skills (verbal and written) are essential
+Excellent English skills (verbal and written) are essential
+Excellent English skills (verbal and written) are essential
+Ability to zoom in and out - be comfortable with getting into the relevant low-level details while also making the optimal tradeoffs for achieving the “big picture” goals.
+Ability to zoom in and out - be comfortable with getting into the relevant low-level details while also making the optimal tradeoffs for achieving the “big picture” goals.
+An eye for user behaviour and design and attention to detail
+An eye for user behaviour and design and attention to detail
+
+
+
+Other skills you might have:
+Other skills you might have:
+Other skills you might have:
+A degree in CS or equivalent is a plusExperience developing and scaling high-performance, responsive user interfacesExperience with web performance optimization techniques with a strong focus on Core Web Vitals and SEO;Experience writing integration and e2e tests;Experience building and testing accessible applications;Experience in implementing in practices concepts of A/B Testing and Progressive Rollout of features to production;Have built or contributed to a Design System used by many different teams;Experienced with cloud computing platforms such as AWS or GCP;Practical experience with CI/CD and IaC (Infrastructure-as-code)
+A degree in CS or equivalent is a plus
+A degree in CS or equivalent is a plus
+Experience developing and scaling high-performance, responsive user interfaces
+Experience developing and scaling high-performance, responsive user interfaces
+Experience with web performance optimization techniques with a strong focus on Core Web Vitals and SEO;
+Experience with web performance optimization techniques with a strong focus on Core Web Vitals and SEO;
+Experience writing integration and e2e tests;
+Experience writing integration and e2e tests;
+Experience building and testing accessible applications;
+Experience building and testing accessible applications;
+Experience in implementing in practices concepts of A/B Testing and Progressive Rollout of features to production;
+Experience in implementing in practices concepts of A/B Testing and Progressive Rollout of features to production;
+Have built or contributed to a Design System used by many different teams;
+Have built or contributed to a Design System used by many different teams;
+Experienced with cloud computing platforms such as AWS or GCP;
+Experienced with cloud computing platforms such as AWS or GCP;
+Practical experience with CI/CD and IaC (Infrastructure-as-code)
+Practical experience with CI/CD and IaC (Infrastructure-as-code)
+
+
+
+
+
+
+BENEFITS
+BENEFITS
+BENEFITS
+Competitive salary based on experience, PJ modelRemote, hybrid, and flexible work; with office options in São Paulo and Rio de JaneiroStock options plan (company participation)Meal and transportation compensations30 days holidays and parental leave, with flexible working policiesGympassEnglish classesInternational exposure with direct interactions with the UK teamOff-site meetings with the team for strategic alignment and team integrationA fun and friendly work environment with a highly motivated team
+Competitive salary based on experience, PJ model
+Competitive salary based on experience, PJ model
+Remote, hybrid, and flexible work; with office options in São Paulo and Rio de Janeiro
+Remote, hybrid, and flexible work; with office options in São Paulo and Rio de Janeiro
+Stock options plan (company participation)
+Stock options plan (company participation)
+Meal and transportation compensations
+Meal and transportation compensations
+30 days holidays and parental leave, with flexible working policies
+30 days holidays and parental leave, with flexible working policies
+Gympass
+Gympass
+English classes
+English classes
+International exposure with direct interactions with the UK team
+International exposure with direct interactions with the UK team
+Off-site meetings with the team for strategic alignment and team integration
+Off-site meetings with the team for strategic alignment and team integration
+A fun and friendly work environment with a highly motivated team
+A fun and friendly work environment with a highly motivated team
+
+
+
+ABOUT MANUAL
+ABOUT MANUAL
+ABOUT MANUAL
+MANUAL delivers healthcare at scale thanks to its comprehensive digital clinic. Our ambition is to extend the healthy years of lives for a large part of the population in the UK, Brazil, and beyond focusing on life-impeding conditions like hormonal imbalance, obesity and hair loss.
+MANUAL delivers healthcare at scale thanks to its comprehensive digital clinic. Our ambition is to extend the healthy years of lives for a large part of the population in the UK, Brazil, and beyond focusing on life-impeding conditions like hormonal imbalance, obesity and hair loss.
+
+
+
+MANUAL has steadily grown since inception and is now serving 500k+ patients, across 2 geographies. We are centralising the diagnosis, custom medications, doctor specialist services, behavioural change and fully vertically integrated management of the treatment journey, under one roof and consumer brand.
+MANUAL has steadily grown since inception and is now serving 500k+ patients, across 2 geographies. We are centralising the diagnosis, custom medications, doctor specialist services, behavioural change and fully vertically integrated management of the treatment journey, under one roof and consumer brand.
+
+
+
+We’re destigmatising how people approach their health by offering easy access to diagnostics, a holistic range of treatments, ongoing care and medical advice, as well as a community to help proactively improve one’s health and wellbeing. A place that didn't exist until now.
+We’re destigmatising how people approach their health by offering easy access to diagnostics, a holistic range of treatments, ongoing care and medical advice, as well as a community to help proactively improve one’s health and wellbeing. A place that didn't exist until now.
+
+
+
+Innovating on healthcare delivery, MANUAL provides patients with engaging treatment plans generating superior clinical outcomes: 90%+ of patients see an improvement in their Quality of Life (QoL) within 6 months. Our ambition is to extend the healthy years of lifespan for a big part of the population in the UK, Brazil and beyond.
+Innovating on healthcare delivery, MANUAL provides patients with engaging treatment plans generating superior clinical outcomes: 90%+ of patients see an improvement in their Quality of Life (QoL) within 6 months. Our ambition is to extend the healthy years of lifespan for a big part of the population in the UK, Brazil and beyond.
+
+
+
+After a $30 million Series A round, we are on a mission to build one of the most impactful teams in the healthcare space. We are looking for incredibly ambitious, entrepreneurial, driven and fun people to join us as we accelerate our growth and expansion. This is an exciting time to join the UK’s fastest-growing healthtech and help supercharge our mission.
+After a $30 million Series A round, we are on a mission to build one of the most impactful teams in the healthcare space. We are looking for incredibly ambitious, entrepreneurial, driven and fun people to join us as we accelerate our growth and expansion. This is an exciting time to join the UK’s fastest-growing healthtech and help supercharge our mission.
+
+
+
+Websites:
+Websites:
+https://www.manual.co/
+https://www.manual.co/
+https://www.joinvoy.com/
+https://www.joinvoy.com/
+
+
+
+EQUAL EMPLOYMENT OPPORTUNITY
+EQUAL EMPLOYMENT OPPORTUNITY
+EQUAL EMPLOYMENT OPPORTUNITY
+Menwell Limited, trading as MANUAL, is an Equal Opportunities Employer. We are committed to equal employment opportunities regardless of gender and gender reassignment, age, disability, race, religion or belief, sex and sexual orientation, pregnancy and maternity, marriage and civil partnership. We base all our employment decisions on merit, job requirements and business needs. This applies to all decisions related to hiring, training, remuneration, promotion and discipline.
+Menwell Limited, trading as MANUAL, is an Equal Opportunities Employer. We are committed to equal employment opportunities regardless of gender and gender reassignment, age, disability, race, religion or belief, sex and sexual orientation, pregnancy and maternity, marriage and civil partnership. We base all our employment decisions on merit, job requirements and business needs. This applies to all decisions related to hiring, training, remuneration, promotion and discipline.
+
+
+
+We believe that a diverse and inclusive workforce is essential to our success. We are committed to creating an environment where everyone feels welcomed, valued and respected, regardless of their background, identity or beliefs. We believe that Inclusion, Diversity, Equity and Accessibility (IDEA) is essential to our ability to offer the best possible health outcomes to our patients and customers.
+We believe that a diverse and inclusive workforce is essential to our success. We are committed to creating an environment where everyone feels welcomed, valued and respected, regardless of their background, identity or beliefs. We believe that Inclusion, Diversity, Equity and Accessibility (IDEA) is essential to our ability to offer the best possible health outcomes to our patients and customers.
