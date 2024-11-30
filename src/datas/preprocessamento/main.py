@@ -1,25 +1,28 @@
 import os
 import re
+import emoji
+from classificador import ClassificadorTopico
+import json
 
 caminho_script = os.path.dirname(os.path.abspath(__file__))
-
-def buscar_arquivo(nome_arquivo: str) -> list[str]:
+def buscar_arquivo(pasta: str, nome_arquivo: str) -> list[str]:
+    caminho = os.path.join(caminho_script, pasta)
     linhas = []
-    with open(os.path.join(caminho_script, nome_arquivo), mode='r', encoding='utf-8') as arquivo:
+    with open(os.path.join(caminho, nome_arquivo), mode='r', encoding='utf-8') as arquivo:
         linhas = [linha.strip() for linha in arquivo.readlines()]
     return linhas
 
-def escrever_texto(arquivo: list[str]) -> None:
-    caminho_arquivo = os.path.join(caminho_script, "saida.txt")
+def escrever_texto(pasta: str, arquivo: list[str]) -> None:
+    caminho_arquivo = os.path.join(f'{caminho_script}/{pasta}', "saida.txt")
     with open(caminho_arquivo, "w", encoding="utf-8") as arquivo_saida:
         for linha in limpar_linhas_em_branco(arquivo):
             arquivo_saida.write(f'{linha}\n')
 
 def limpar_linhas_em_branco(arquivo: list[str]) -> list[str]:
-    return [linha for linha in arquivo if linha.strip()] 
+    return [linha.strip() for linha in arquivo if linha.strip() != ""] 
 
 def split_linha(linha: str, caracter: str) -> list[str]:
-    return linha.split(caracter)
+    return [f'{linha}{caracter}' for linha in linha.split(caracter)]
 
 def remover_linhas_duplicadas(arquivo: list[str]) -> list[str]:
     linhas = []
@@ -29,7 +32,7 @@ def remover_linhas_duplicadas(arquivo: list[str]) -> list[str]:
     return linhas
 
 def expandir_textos_separando_por_pontuacao(arquivo: list[str]) -> list[str]:
-    separadores = [';', '.', ':']
+    separadores = [';', '.', ':', '!']
     linhas = arquivo
     for caracter in separadores:
         linhas = expandir_texto(arquivo = linhas, caracter = caracter)
@@ -37,7 +40,7 @@ def expandir_textos_separando_por_pontuacao(arquivo: list[str]) -> list[str]:
 
 def expandir_texto(arquivo: list[str], caracter: str) -> list[str]:
     linhas_expandidas = []
-    linhas_expandidas.extend(arquivo[0:3])
+    linhas_expandidas.extend(arquivo[0:3]) #Pega as 3 primeiras linhas do arquivo com link, nome, linha em branco
     for i, linha in enumerate(arquivo):
         if i > 1:
             if caracter in linha:
@@ -72,10 +75,49 @@ def print_l(arquivo: list[str]) -> None:
     for l in arquivo:
         print(l)
 
+def remover_emojis(arquivo: list[str]):
+   linhas = []
+   for linha in arquivo:
+       linhas.append(emoji.replace_emoji(linha, replace=''))
+   return linhas
+
+def eliminar_linhas_sem_palavras(arquivo: list[str]) -> list[str] :
+    return [linha for linha in arquivo if re.search(r'[a-zA-Z]', linha)]
+
+def extruturar_json(arquivo: list[str], topicos: dict) -> dict:
+    vaga_json: dict = {}
+    vaga_json['link']  = arquivo[0][5:]
+    vaga_json['cargo'] = arquivo[1]
+    linha_topico = [int(valor['n_linha']) for chave, valor in topicos.items()]
+    for index, (chave, valor) in enumerate(topicos.items()):
+        if index + 1 >= len(linha_topico):
+            vaga_json[chave] = arquivo[linha_topico[index] + 1:]
+            break
+        proximo_topico = linha_topico[index + 1]
+        sub_list = arquivo[linha_topico[index] + 1: proximo_topico]
+        vaga_json[chave] = sub_list
+    return vaga_json
+
+def salvar_dicionario_como_json(pasta, origem, dicionario):
+    caminho_arquivo = os.path.join(f'{caminho_script}/{pasta}', f"saida_{origem}.json")
+    with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
+        json.dump(dicionario, arquivo, ensure_ascii=False, indent=4)
+
 if __name__ == "__main__":
-    linhas = buscar_arquivo(nome_arquivo="exemplo_entrada.txt")
-    sem_linhas_vazias = limpar_linhas_em_branco(linhas)
-    linhas_expandidas = expandir_textos_separando_por_pontuacao(sem_linhas_vazias)
-    sem_linhas_duplicadas = remover_linhas_duplicadas(linhas_expandidas)
-    separar_palavras_case_dif = separar_palavras_cases_diferentes(sem_linhas_duplicadas)
-    escrever_texto(separar_palavras_case_dif)
+    pasta = "teste"
+    linhas = buscar_arquivo(pasta, nome_arquivo="exemplo_entrada.txt")
+    linhas = expandir_textos_separando_por_pontuacao(linhas)
+    linhas = separar_palavras_cases_diferentes(linhas)
+    linhas = remover_linhas_duplicadas(linhas)
+    linhas = remover_emojis(linhas)
+    linhas = limpar_linhas_em_branco(linhas)
+    linhas = eliminar_linhas_sem_palavras(linhas)
+    escrever_texto(pasta, linhas)
+
+    classificador = ClassificadorTopico()
+    for index, linha in enumerate(linhas):
+        classificador.classificar_linha(linha, index)
+
+    topicos: dict = dict(sorted(classificador.get_dict_topicos().items(), key=lambda item: item[1]["n_linha"]))
+    vaga_json = extruturar_json(linhas, topicos)
+    salvar_dicionario_como_json("vaga_json", pasta, vaga_json)
