@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer, util
 from typing import List, Dict
 
 class ClassificadorTopico:
-    TOPICOS_NOMEADOS: dict[int, str] = {
+    GRUPO_TOPICOS: dict[int, str] = {
         1: "EXPERIENCIAS_PROFISSIONAIS",
         2: "REQUISITOS_QUALIFICACOES",
         3: "DESCRICAO_VAGA",
@@ -45,7 +45,6 @@ class ClassificadorTopico:
         indice_topico = similaridades.argmax().item()
         topico_mais_proximo = self.topicos_buscados[indice_topico]
         similaridade = similaridades[0][indice_topico].item()
-        
 
         if similaridade > self.similaridade_minima:  # Limite ajustável
             self.topicos_encontrados[linha] = {'n_linha': numero_linha, 'topico_similar':  topico_mais_proximo}
@@ -53,3 +52,6 @@ class ClassificadorTopico:
 
     def get_dict_topicos(self) -> dict:
         return self.topicos_encontrados
+    
+    def limpar_topicos_encontrados(self) -> None:
+        self.topicos_encontrados.clear()
