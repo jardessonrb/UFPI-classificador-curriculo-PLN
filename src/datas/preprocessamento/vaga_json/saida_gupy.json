@@ -1,13 +1,13 @@
 {
-    "link": "vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6NzY0MTQyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+    "link": "https://solutis.gupy.io/job/eyJqb2JJZCI6NzY0MTQyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
     "cargo": "DESENVOLVEDOR BACK END JAVA SÊNIOR",
-    "DESCRIÇÃO DA VAGA": [
+    "DESCRICAO_VAGA": [
         "Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de Software para impactar pessoas, clientes e sociedade.",
         "Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.",
         "Estamos com a posição de Desenvolvedor(a) Backend Java 11+ (AWS/Mensageria) SR que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos.",
         "Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade."
     ],
-    "RESPONSABILIDADES E ATRIBUIÇÕES": [
+    "RESPONSABILIDADES_ATRIBUICOES": [
         "Como será seu dia a dia:",
         "(Atividades que vai realizar):",
         "Produzir soluções técnicas simples e eficientes, com base no backlog de produtos priorizado e nos padrões de qualidade determinados;",
@@ -15,7 +15,7 @@
         "Realizar os testes necessários para garantir a qualidade da entrega;",
         "Aprendizado contínuo em tópicos relacionados à excelência técnica e nos produtos da BD de Cash."
     ],
-    "REQUISITOS E QUALIFICAÇÕES": [
+    "REQUISITOS_QUALIFICACOES": [
         "Pra mandar bem nessa oportunidade você precisa manjar das tecnologias:",
         "(Conhecimentos técnicos obrigatórios):",
         "Java 11;",
@@ -42,7 +42,7 @@
         "Resiliência",
         "Ser apaixonado por tecnologia;"
     ],
-    "INFORMAÇÕES ADICIONAIS": [
+    "INFORMACOES_ADICIONAIS": [
         "Para esta posição oferecemos:",
         "Salário CLT Full;",
         "Vale Refeição ou Alimentação (Alelo);",
@@ -60,7 +60,7 @@
         "Evento da galera voltado para troca de conhecimento);.",
         "Oportunidade de crescimento profissional."
     ],
-    "ETAPAS DO PROCESSO": [
+    "ETAPAS_PROCESSO": [
         "Etapa 1:",
         "Cadastro1Cadastro:",
         "Cadastro:",
