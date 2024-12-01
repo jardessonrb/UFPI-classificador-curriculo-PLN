@@ -3,6 +3,7 @@ import re
 import emoji
 from classificador import ClassificadorTopico
 import json
+from collections import defaultdict
 
 caminho_script = os.path.dirname(os.path.abspath(__file__))
 def buscar_arquivo(pasta: str, nome_arquivo: str) -> list[str]:
@@ -85,17 +86,28 @@ def eliminar_linhas_sem_palavras(arquivo: list[str]) -> list[str] :
     return [linha for linha in arquivo if re.search(r'[a-zA-Z]', linha)]
 
 def extruturar_json(arquivo: list[str], topicos: dict) -> dict:
-    vaga_json: dict = {}
+    vaga_json: dict = defaultdict(list[str])
     vaga_json['link']  = arquivo[0][5:]
     vaga_json['cargo'] = arquivo[1]
     linha_topico = [int(valor['n_linha']) for chave, valor in topicos.items()]
     for index, (chave, valor) in enumerate(topicos.items()):
+        grupo_topico: int = int(valor["topico_similar"]["grupo"])
         if index + 1 >= len(linha_topico):
-            vaga_json[chave] = arquivo[linha_topico[index] + 1:]
+
+            if ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico] in vaga_json:
+                vaga_json[ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico]].extend(arquivo[linha_topico[index] + 1:])
+            else:
+                vaga_json[ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico]] = arquivo[linha_topico[index] + 1:]
             break
+        
         proximo_topico = linha_topico[index + 1]
         sub_list = arquivo[linha_topico[index] + 1: proximo_topico]
-        vaga_json[chave] = sub_list
+        if ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico] in vaga_json:
+            vaga_json[ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico]].extend(sub_list)
+        else:
+            vaga_json[ClassificadorTopico.TOPICOS_NOMEADOS[grupo_topico]] = sub_list
+
+
     return vaga_json
 
 def salvar_dicionario_como_json(pasta, origem, dicionario):
@@ -119,5 +131,6 @@ if __name__ == "__main__":
         classificador.classificar_linha(linha, index)
 
     topicos: dict = dict(sorted(classificador.get_dict_topicos().items(), key=lambda item: item[1]["n_linha"]))
+    # print(topicos)
     vaga_json = extruturar_json(linhas, topicos)
     salvar_dicionario_como_json("vaga_json", pasta, vaga_json)
