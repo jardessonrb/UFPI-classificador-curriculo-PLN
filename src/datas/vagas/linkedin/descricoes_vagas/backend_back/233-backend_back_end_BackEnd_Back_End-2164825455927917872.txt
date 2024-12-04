@@ -1,0 +1,46 @@
+link-https://www.linkedin.com/jobs/view/4053641406/?eBP=CwEAAAGS7lO-eLG8M866DyvG14lvIibs_-45BUnTGSwSuKaY3p_wcLxibM-cQJM1aciLvfYtH79TkFrSigSNgN7T3AvPZ1hnBC4-EfS2rJTsyicgo7puH0k6Rq8_hcC3l3l-31Ekimvezq2SqlFp5SaVx_6PfwwveLzU5-weKnsWVw_K0hEVFAL_nNUu2PNFRde-LJjlNC9w-iddj8wD9b6HbXaw_nge5syZXBH47-oeJZdUf0R-vE8v0KUuY6QKBMSq88Yj-h3lxadhyPLak9m5YIKsCMEb-XAATnUPAK6eyafCqZQVf8-W7Fo_PNSF2ceqzdsnVuI19WHNlmg-e8vh--xEDEgB9-CPSQtkr52nTSoMm9o9y0pozIizlUQmsKuxWvUfHhwoaFB94jf_EDFhVGTYezCjsbqmCgik1KvAWBklYcZayVrlAXbk5issigIXC4N95p8O9GZ5u1qyQ9Xo7bL0R_q53-pHGiuHOwOOxMWT1woP1ghD3TVDXE4&refId=gOLyzg02egHiqpqO0MnwNQ%3D%3D&trackingId=LtUw80NDmb4cQIPfvZ0hwQ%3D%3D&trk=flagship3_search_srp_jobs
+
+DESENVOLVEDOR BACK END SÊNIOR - PHP
+Sobre a vaga
+Conhecimento em JavaScript, TypeScript, NodeJs e NestJs;Experiência em modelagem e implementação de bancos de dados SQL;Experiência com banco de dados NoSQL - MongoDb;Habilidade em desenvolver microserviços e em implementar APIs;Experiência com padrões de arquitetura e codigo (TDD, MVC, clean e SOLID);Experiência com CI/CD EM Github Actions / Bitbucket pipelines;Experiência com microsserviços e arquitetura de aplicativos distribuídos, como containers (ECS/ECR) e Kubernetes (EKS);Experiência com testes automatizados;Experiência práticas de segurança, como autenticação, autorização e proteção contra vulnerabilidades;Utilização de serviços de mensagens assíncronas como Pub/SubHabilidades de comunicação com time;Experiência com metodologias ágeis de desenvolvimento de software;Experiência com cloud computing (AWS, Azure, Google Cloud) e infraestrutura como código.MODELO DE TRABALHO: HIBRIDO (3x) na semana estar alocado na empresa.
+Conhecimento em JavaScript, TypeScript, NodeJs e NestJs;Experiência em modelagem e implementação de bancos de dados SQL;Experiência com banco de dados NoSQL - MongoDb;Habilidade em desenvolver microserviços e em implementar APIs;Experiência com padrões de arquitetura e codigo (TDD, MVC, clean e SOLID);Experiência com CI/CD EM Github Actions / Bitbucket pipelines;Experiência com microsserviços e arquitetura de aplicativos distribuídos, como containers (ECS/ECR) e Kubernetes (EKS);Experiência com testes automatizados;Experiência práticas de segurança, como autenticação, autorização e proteção contra vulnerabilidades;Utilização de serviços de mensagens assíncronas como Pub/SubHabilidades de comunicação com time;Experiência com metodologias ágeis de desenvolvimento de software;Experiência com cloud computing (AWS, Azure, Google Cloud) e infraestrutura como código.
+Conhecimento em JavaScript, TypeScript, NodeJs e NestJs;
+Conhecimento em JavaScript, TypeScript, NodeJs e NestJs;
+Experiência em modelagem e implementação de bancos de dados SQL;
+Experiência em modelagem e implementação de bancos de dados SQL;
+
+Experiência com banco de dados NoSQL - MongoDb;
+Experiência com banco de dados NoSQL - MongoDb;
+
+Habilidade em desenvolver microserviços e em implementar APIs;
+Habilidade em desenvolver microserviços e em implementar APIs;
+
+Experiência com padrões de arquitetura e codigo (TDD, MVC, clean e SOLID);
+Experiência com padrões de arquitetura e codigo (TDD, MVC, clean e SOLID);
+
+Experiência com CI/CD EM Github Actions / Bitbucket pipelines;
+Experiência com CI/CD EM Github Actions / Bitbucket pipelines;
+
+Experiência com microsserviços e arquitetura de aplicativos distribuídos, como containers (ECS/ECR) e Kubernetes (EKS);
+Experiência com microsserviços e arquitetura de aplicativos distribuídos, como containers (ECS/ECR) e Kubernetes (EKS);
+
+Experiência com testes automatizados;
+Experiência com testes automatizados;
+
+Experiência práticas de segurança, como autenticação, autorização e proteção contra vulnerabilidades;
+Experiência práticas de segurança, como autenticação, autorização e proteção contra vulnerabilidades;
+
+Utilização de serviços de mensagens assíncronas como Pub/Sub
+Utilização de serviços de mensagens assíncronas como Pub/Sub
+
+Habilidades de comunicação com time;
+Habilidades de comunicação com time;
+
+Experiência com metodologias ágeis de desenvolvimento de software;
+Experiência com metodologias ágeis de desenvolvimento de software;
+
+Experiência com cloud computing (AWS, Azure, Google Cloud) e infraestrutura como código.
+Experiência com cloud computing (AWS, Azure, Google Cloud) e infraestrutura como código.
+
+
+

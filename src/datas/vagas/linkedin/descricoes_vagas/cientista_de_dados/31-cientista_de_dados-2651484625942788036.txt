@@ -1,0 +1,127 @@
+link-https://www.linkedin.com/jobs/view/4052389707/?eBP=CwEAAAGS7jTqlcNne69fofIuuIt4unWNSl1THfDrDa3PJDUGohcOeGuaVsbg8Y_IelaQTiAArgdKp3cbhChDAayDRRD3gIQXY4OxdjvBB6MoSCLrie3NcF2FGCXHkKOyxkvMS7HVsz-n38qhecpVvvAtkIDzpLe5U0Guxj8pY_JFJFw4-cQSeIKPYES9hagC3C1tfVdk7WEYWSdEYpzkCwqNDU_BhLDBu-_yDNDhjit0m2HyWQgGj3fb7LtdgZjTjNTRzelBhWrg2IHiz1T6ewzriBBxnoiIDfaIgMk9JPT8_YnLABuZa2HeoBYSbXMdaRYWNBsY2iKUu7gsBE3q2ntz_ihwl87uulxHUTktGaZ4KhEdkTICIrN6gmasBlhBwUkKn-FEeDhbW8_Ft0L8KG5N_AcCt0aiB8lutEDQH1rZr6BIqZq6HISiQSQxUfn1WDaTzNjugzPe1QSvSRm1mhBPyaBU_lu45OzMai0SxDvbytjzJj7WH3nagVR4-6MFKA&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=wLbfAbCXEGwEOSB5RuHG5A%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados - Deep Learning
+Sobre a vaga
+Atividades:Desenvolver e implementar modelos de deep learning voltados para processamento de imagens, reconhecimento de padrões, e inteligência artificial generativa, aplicando técnicas como redes neurais convolucionais (CNNs) e transformers.Desenvolver soluções para reconhecimento óptico de caracteres (OCR), utilizando modelos avançados de machine learning e deep learning, com foco na automação da extração de dados de documentos e imagens.Explorar e aplicar algoritmos de IA generativa (ex.: GANs, diffusion models) para geração de imagens e outros conteúdos, conforme as necessidades dos projetos.Colaborar com equipes de dados e engenharia para integrar soluções de deep learning e IA generativa em fluxos de trabalho e pipelines de dados da empresa.Realizar análises exploratórias e experimentação com novos frameworks, ferramentas e técnicas para otimizar e aprimorar a performance dos modelos de OCR e deep learning.Monitorar e ajustar os modelos implementados, garantindo a melhoria contínua em termos de precisão, eficiência e escalabilidade.Documentar o processo de desenvolvimento e os resultados, além de comunicar de maneira clara os insights e avanços técnicos aos stakeholders da empresa.Manter-se atualizado com as últimas pesquisas e tendências em deep learning, IA generativa e processamento de imagem, aplicando essas inovações em projetos práticos.Requisitos:Graduação em Ciência da Computação, Engenharia, Estatística, Matemática ou áreas relacionadas.Experiência com desenvolvimento de modelos de deep learning, com foco em visão computacional, OCR e IA generativa.Sólidos conhecimentos em frameworks de deep learning como TensorFlow, PyTorch ou Keras.Experiência com desenvolvimento de redes neurais convolucionais (CNNs), redes neurais recorrentes (RNNs) e transformers.Proficiência em linguagens de programação como Python, com forte foco em bibliotecas e pacotes de deep learning (ex.: OpenCV, Tesseract, Hugging Face).Conhecimento em pipelines de dados, otimização de modelos e implementação de soluções em produção (ex.: Docker, Kubernetes).Familiaridade com cloud computing (AWS, Azure, Google Cloud) e serviços relacionados ao treinamento e deployment de modelos de IA.Fluência em inglês; outros idiomas são um diferencial.Competências:Excelentes habilidades analíticas e de resolução de problemas complexos.Capacidade de trabalhar com grandes volumes de dados não estruturados, extraindo insights e gerando soluções escaláveis.Forte orientação para a inovação e aplicação de novas tecnologias.Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.Atenção a detalhes e foco em qualidade e performance dos modelos.Boa comunicação e capacidade de traduzir termos técnicos para públicos não técnicos.Diferenciais:Experiência com redes generativas adversariais (GANs) e IA generativa aplicada à criação de conteúdos.Certificações em machine learning, deep learning ou IA (ex.: Google Professional Machine Learning Engineer, Deep Learning Specialization).Experiência em projetos de automação com reconhecimento de documentos e dados textuais via OCR.Conhecimento em linguagens de programação adicionais e práticas DevOps voltadas à inteligência artificial.Conheça o Programa + Dadoteca:GympassZenklubIncentivo financeiro para curso de idiomasIncentivo financeiro para certificações MicrosoftIfood benefícios
+
+
+Desenvolver e implementar modelos de deep learning voltados para processamento de imagens, reconhecimento de padrões, e inteligência artificial generativa, aplicando técnicas como redes neurais convolucionais (CNNs) e transformers.Desenvolver soluções para reconhecimento óptico de caracteres (OCR), utilizando modelos avançados de machine learning e deep learning, com foco na automação da extração de dados de documentos e imagens.Explorar e aplicar algoritmos de IA generativa (ex.: GANs, diffusion models) para geração de imagens e outros conteúdos, conforme as necessidades dos projetos.Colaborar com equipes de dados e engenharia para integrar soluções de deep learning e IA generativa em fluxos de trabalho e pipelines de dados da empresa.Realizar análises exploratórias e experimentação com novos frameworks, ferramentas e técnicas para otimizar e aprimorar a performance dos modelos de OCR e deep learning.Monitorar e ajustar os modelos implementados, garantindo a melhoria contínua em termos de precisão, eficiência e escalabilidade.Documentar o processo de desenvolvimento e os resultados, além de comunicar de maneira clara os insights e avanços técnicos aos stakeholders da empresa.Manter-se atualizado com as últimas pesquisas e tendências em deep learning, IA generativa e processamento de imagem, aplicando essas inovações em projetos práticos.
+Desenvolver e implementar modelos de deep learning voltados para processamento de imagens, reconhecimento de padrões, e inteligência artificial generativa, aplicando técnicas como redes neurais convolucionais (CNNs) e transformers.
+Desenvolver e implementar modelos de deep learning voltados para processamento de imagens, reconhecimento de padrões, e inteligência artificial generativa, aplicando técnicas como redes neurais convolucionais (CNNs) e transformers.
+
+Desenvolver soluções para reconhecimento óptico de caracteres (OCR), utilizando modelos avançados de machine learning e deep learning, com foco na automação da extração de dados de documentos e imagens.
+Desenvolver soluções para reconhecimento óptico de caracteres (OCR), utilizando modelos avançados de machine learning e deep learning, com foco na automação da extração de dados de documentos e imagens.
+
+Explorar e aplicar algoritmos de IA generativa (ex.: GANs, diffusion models) para geração de imagens e outros conteúdos, conforme as necessidades dos projetos.
+Explorar e aplicar algoritmos de IA generativa (ex.: GANs, diffusion models) para geração de imagens e outros conteúdos, conforme as necessidades dos projetos.
+
+Colaborar com equipes de dados e engenharia para integrar soluções de deep learning e IA generativa em fluxos de trabalho e pipelines de dados da empresa.
+Colaborar com equipes de dados e engenharia para integrar soluções de deep learning e IA generativa em fluxos de trabalho e pipelines de dados da empresa.
+
+Realizar análises exploratórias e experimentação com novos frameworks, ferramentas e técnicas para otimizar e aprimorar a performance dos modelos de OCR e deep learning.
+Realizar análises exploratórias e experimentação com novos frameworks, ferramentas e técnicas para otimizar e aprimorar a performance dos modelos de OCR e deep learning.
+
+Monitorar e ajustar os modelos implementados, garantindo a melhoria contínua em termos de precisão, eficiência e escalabilidade.
+Monitorar e ajustar os modelos implementados, garantindo a melhoria contínua em termos de precisão, eficiência e escalabilidade.
+
+Documentar o processo de desenvolvimento e os resultados, além de comunicar de maneira clara os insights e avanços técnicos aos stakeholders da empresa.
+Documentar o processo de desenvolvimento e os resultados, além de comunicar de maneira clara os insights e avanços técnicos aos stakeholders da empresa.
+
+Manter-se atualizado com as últimas pesquisas e tendências em deep learning, IA generativa e processamento de imagem, aplicando essas inovações em projetos práticos.
+Manter-se atualizado com as últimas pesquisas e tendências em deep learning, IA generativa e processamento de imagem, aplicando essas inovações em projetos práticos.
+
+
+
+
+
+
+Graduação em Ciência da Computação, Engenharia, Estatística, Matemática ou áreas relacionadas.Experiência com desenvolvimento de modelos de deep learning, com foco em visão computacional, OCR e IA generativa.Sólidos conhecimentos em frameworks de deep learning como TensorFlow, PyTorch ou Keras.Experiência com desenvolvimento de redes neurais convolucionais (CNNs), redes neurais recorrentes (RNNs) e transformers.Proficiência em linguagens de programação como Python, com forte foco em bibliotecas e pacotes de deep learning (ex.: OpenCV, Tesseract, Hugging Face).Conhecimento em pipelines de dados, otimização de modelos e implementação de soluções em produção (ex.: Docker, Kubernetes).Familiaridade com cloud computing (AWS, Azure, Google Cloud) e serviços relacionados ao treinamento e deployment de modelos de IA.Fluência em inglês; outros idiomas são um diferencial.
+Graduação em Ciência da Computação, Engenharia, Estatística, Matemática ou áreas relacionadas.
+Graduação em Ciência da Computação, Engenharia, Estatística, Matemática ou áreas relacionadas.
+
+Experiência com desenvolvimento de modelos de deep learning, com foco em visão computacional, OCR e IA generativa.
+Experiência com desenvolvimento de modelos de deep learning, com foco em visão computacional, OCR e IA generativa.
+
+Sólidos conhecimentos em frameworks de deep learning como TensorFlow, PyTorch ou Keras.
+Sólidos conhecimentos em frameworks de deep learning como TensorFlow, PyTorch ou Keras.
+
+Experiência com desenvolvimento de redes neurais convolucionais (CNNs), redes neurais recorrentes (RNNs) e transformers.
+Experiência com desenvolvimento de redes neurais convolucionais (CNNs), redes neurais recorrentes (RNNs) e transformers.
+
+Proficiência em linguagens de programação como Python, com forte foco em bibliotecas e pacotes de deep learning (ex.: OpenCV, Tesseract, Hugging Face).
+Proficiência em linguagens de programação como Python, com forte foco em bibliotecas e pacotes de deep learning (ex.: OpenCV, Tesseract, Hugging Face).
+
+Conhecimento em pipelines de dados, otimização de modelos e implementação de soluções em produção (ex.: Docker, Kubernetes).
+Conhecimento em pipelines de dados, otimização de modelos e implementação de soluções em produção (ex.: Docker, Kubernetes).
+
+Familiaridade com cloud computing (AWS, Azure, Google Cloud) e serviços relacionados ao treinamento e deployment de modelos de IA.
+Familiaridade com cloud computing (AWS, Azure, Google Cloud) e serviços relacionados ao treinamento e deployment de modelos de IA.
+
+Fluência em inglês; outros idiomas são um diferencial.
+Fluência em inglês; outros idiomas são um diferencial.
+
+
+
+
+
+
+Excelentes habilidades analíticas e de resolução de problemas complexos.Capacidade de trabalhar com grandes volumes de dados não estruturados, extraindo insights e gerando soluções escaláveis.Forte orientação para a inovação e aplicação de novas tecnologias.Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.Atenção a detalhes e foco em qualidade e performance dos modelos.Boa comunicação e capacidade de traduzir termos técnicos para públicos não técnicos.
+Excelentes habilidades analíticas e de resolução de problemas complexos.
+Excelentes habilidades analíticas e de resolução de problemas complexos.
+
+Capacidade de trabalhar com grandes volumes de dados não estruturados, extraindo insights e gerando soluções escaláveis.
+Capacidade de trabalhar com grandes volumes de dados não estruturados, extraindo insights e gerando soluções escaláveis.
+
+Forte orientação para a inovação e aplicação de novas tecnologias.
+Forte orientação para a inovação e aplicação de novas tecnologias.
+
+Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.
+Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.
+
+Atenção a detalhes e foco em qualidade e performance dos modelos.
+Atenção a detalhes e foco em qualidade e performance dos modelos.
+
+Boa comunicação e capacidade de traduzir termos técnicos para públicos não técnicos.
+Boa comunicação e capacidade de traduzir termos técnicos para públicos não técnicos.
+
+
+
+
+
+
+Experiência com redes generativas adversariais (GANs) e IA generativa aplicada à criação de conteúdos.Certificações em machine learning, deep learning ou IA (ex.: Google Professional Machine Learning Engineer, Deep Learning Specialization).Experiência em projetos de automação com reconhecimento de documentos e dados textuais via OCR.Conhecimento em linguagens de programação adicionais e práticas DevOps voltadas à inteligência artificial.
+Experiência com redes generativas adversariais (GANs) e IA generativa aplicada à criação de conteúdos.
+Experiência com redes generativas adversariais (GANs) e IA generativa aplicada à criação de conteúdos.
+
+Certificações em machine learning, deep learning ou IA (ex.: Google Professional Machine Learning Engineer, Deep Learning Specialization).
+Certificações em machine learning, deep learning ou IA (ex.: Google Professional Machine Learning Engineer, Deep Learning Specialization).
+
+Experiência em projetos de automação com reconhecimento de documentos e dados textuais via OCR.
+Experiência em projetos de automação com reconhecimento de documentos e dados textuais via OCR.
+
+Conhecimento em linguagens de programação adicionais e práticas DevOps voltadas à inteligência artificial.
+Conhecimento em linguagens de programação adicionais e práticas DevOps voltadas à inteligência artificial.
+
+
+
+
+Conheça o Programa + Dadoteca:
+
+
+
+GympassZenklubIncentivo financeiro para curso de idiomasIncentivo financeiro para certificações MicrosoftIfood benefícios
+Gympass
+Gympass
+
+Zenklub
+Zenklub
+
+Incentivo financeiro para curso de idiomas
+Incentivo financeiro para curso de idiomas
+
+Incentivo financeiro para certificações Microsoft
+Incentivo financeiro para certificações Microsoft
+
+Ifood benefícios
+Ifood benefícios
+

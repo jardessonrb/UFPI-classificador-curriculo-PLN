@@ -1,0 +1,205 @@
+link-https://www.linkedin.com/jobs/view/4052463680/?eBP=CwEAAAGS7g_Y0dqs5ufOlq5CmdNogsWZcjKwkY21lS-eLSnUo8lfrBt9nGUrxI8yaT2psKKIGEBALCNlxiPI_oUJ_5QMjRjcyJNB4ikNtKp6DWc0AzFkZjVY_MZzgG7mTTY9aVRTspXAz8rCJa2MqIV0x59vUhqLyesLIhGXvbLUDEpyqgYRlas6vL7ExhpQK5SYqwJPYdUHtPcTh2a0B4_4ftQwfJBvaPvfqm1wU4IQMSxzeV0QDwTb_edQ0k9hLFGqWbPP_0K_tOd1KEUDTB7zipO18ugMcx_ur-YiB99ctFm923CbaKTBABg0yjy7UfD2VmWaaB_25oXSEpgO4nwy6VT7Oz4Xi30NuKTyg5z2Zsq0b4O08eersLs8rIkH90FWAim7nVCEZcEjFKKLom0efn_wk2P0nyviijdJMtu51Ig-emAbt35TrxguXxR6tnmK8e9f2HJzeKyfW07Pkyl6_IAlLfUmXgUSWoLBfBOfY_ccSwQZky-rqLMmkw3udcam2q3x&refId=1iPyJHMmRb1HXKZB6viLgg%3D%3D&trackingId=ZFs3cmG4lTAIB0WOPd69pg%3D%3D&trk=flagship3_search_srp_jobs
+
+Profissional de Desenvolvimento Fullstack Sênior (.Net e Fullstack)
+Sobre a vaga
+Job DescriptionA primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresaglobal.Quer fazer parte dessa história e transformar ideias e sonhos em realidade?#VemPraRadixResponsibilities and assignmentsBuscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina, .Como Profisisonal de Desenvolvimento Fullstack você vai:Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues;Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação;Realizar a manutenção de sistemas e aplicações;Requirements And QualificationsPara essa vaga, você deve ter:C# .Net Core 8TypeScript (Angular 17, PWA)MongoDBPostgreSQLAdaptado(a) à metodologia ágil e suas cerimôniasConhecer boas práticas de desenvolvimento de software, padrões de projetos e ciclo de vida de aplicaçãoBoa comunicaçãoHabilidade de negociação e autogestãoDesejável:Desenvolvimento de testes funcionaisQualidade de Código (SonarQube)SAST (Checkmarx)DAST (Acunetix)Additional informationModelo de trabalho: CLTRegime de contratação: RemotoBenefícios:Plano de Saúde + OdontológicoMédico da empresaGympass (+3 dependentes)Auxílio creche até 3 anosLicença maternidade e paternidade estendidasAuxílio home officeVR e/ou VADay off de aniversárioUniversidade CorporativaConvênio com instituições de ensino e cursos de idiomaPrograma de treinamentos internosPlano de Incentivos atrelado à avaliação de Desempenho.A Radix está sempre no topo das Melhores Empresas para se trabalhar porque:Temos profissionais comprometidos, dedicados, curiosos e inovadores.O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção.Temos um ambiente diverso, que valoriza equidade e inclusão.Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil.Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis.Curtiu?#VemPraRadixProcess stagesStep 1: Registration1RegistrationStep 2: Análise de currículo2Análise de currículoStep 3: Entrevista com Gente e Gestão3Entrevista com Gente e GestãoStep 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da VagaStep 5: Carta Proposta5Carta PropostaStep 6: Hiring6HiringUma empresa global, movida à inovação e desafios 🚀Presente em mais de25 países, a Radix conectapessoas, oportunidades, projetosenegóciosno mundo todo. Nós criamos e transformamos conhecimento em resultados.Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemosserviços e soluções tecnológicasatendendo os mais variadossetores da indústria.Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos.A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras.Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.Vem com a gente se conectar ao seu futuro, #VemSerRadix.
+Job Description
+
+
+
+global
+
+
+
+
+
+
+
+
+
+
+
+
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues;Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação;Realizar a manutenção de sistemas e aplicações;
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;
+Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues;
+Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues;
+Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação;
+Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação;
+Realizar a manutenção de sistemas e aplicações;
+Realizar a manutenção de sistemas e aplicações;
+
+
+Requirements And Qualifications
+
+
+Para essa vaga, você deve ter:
+
+
+C# .Net Core 8TypeScript (Angular 17, PWA)MongoDBPostgreSQLAdaptado(a) à metodologia ágil e suas cerimôniasConhecer boas práticas de desenvolvimento de software, padrões de projetos e ciclo de vida de aplicaçãoBoa comunicaçãoHabilidade de negociação e autogestão
+C# .Net Core 8
+C# .Net Core 8
+
+TypeScript (Angular 17, PWA)
+TypeScript (Angular 17, PWA)
+
+MongoDB
+MongoDB
+
+PostgreSQL
+PostgreSQL
+
+Adaptado(a) à metodologia ágil e suas cerimônias
+Adaptado(a) à metodologia ágil e suas cerimônias
+
+Conhecer boas práticas de desenvolvimento de software, padrões de projetos e ciclo de vida de aplicação
+Conhecer boas práticas de desenvolvimento de software, padrões de projetos e ciclo de vida de aplicação
+
+Boa comunicação
+Boa comunicação
+
+Habilidade de negociação e autogestão
+Habilidade de negociação e autogestão
+
+
+
+Desejável:
+
+
+Desenvolvimento de testes funcionaisQualidade de Código (SonarQube)SAST (Checkmarx)DAST (Acunetix)
+Desenvolvimento de testes funcionais
+Desenvolvimento de testes funcionais
+
+Qualidade de Código (SonarQube)
+Qualidade de Código (SonarQube)
+
+SAST (Checkmarx)
+SAST (Checkmarx)
+
+DAST (Acunetix)
+DAST (Acunetix)
+
+
+
+
+
+Modelo de trabalho: CLTRegime de contratação: Remoto
+Modelo de trabalho: CLT
+Modelo de trabalho: CLT
+
+Regime de contratação: Remoto
+Regime de contratação: Remoto
+
+
+
+Benefícios:
+
+
+Plano de Saúde + OdontológicoMédico da empresaGympass (+3 dependentes)Auxílio creche até 3 anosLicença maternidade e paternidade estendidasAuxílio home officeVR e/ou VADay off de aniversárioUniversidade CorporativaConvênio com instituições de ensino e cursos de idiomaPrograma de treinamentos internosPlano de Incentivos atrelado à avaliação de Desempenho.
+Plano de Saúde + Odontológico
+Plano de Saúde + Odontológico
+
+Médico da empresa
+Médico da empresa
+
+Gympass (+3 dependentes)
+Gympass (+3 dependentes)
+
+Auxílio creche até 3 anos
+Auxílio creche até 3 anos
+
+Licença maternidade e paternidade estendidas
+Licença maternidade e paternidade estendidas
+
+Auxílio home office
+Auxílio home office
+
+VR e/ou VA
+VR e/ou VA
+
+Day off de aniversário
+Day off de aniversário
+
+Universidade Corporativa
+Universidade Corporativa
+
+Convênio com instituições de ensino e cursos de idioma
+Convênio com instituições de ensino e cursos de idioma
+
+Programa de treinamentos internos
+Programa de treinamentos internos
+
+Plano de Incentivos atrelado à avaliação de Desempenho.
+Plano de Incentivos atrelado à avaliação de Desempenho.
+
+
+
+A Radix está sempre no topo das Melhores Empresas para se trabalhar porque:
+
+
+Temos profissionais comprometidos, dedicados, curiosos e inovadores.O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção.Temos um ambiente diverso, que valoriza equidade e inclusão.Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil.Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis.
+Temos profissionais comprometidos, dedicados, curiosos e inovadores.
+Temos profissionais comprometidos, dedicados, curiosos e inovadores.
+
+O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção.
+O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção.
+
+Temos um ambiente diverso, que valoriza equidade e inclusão.
+Temos um ambiente diverso, que valoriza equidade e inclusão.
+
+Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil.
+Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil.
+
+Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis.
+Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis.
+
+
+
+
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Análise de currículo2Análise de currículoStep 3: Entrevista com Gente e Gestão3Entrevista com Gente e GestãoStep 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da VagaStep 5: Carta Proposta5Carta PropostaStep 6: Hiring6Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Análise de currículo2Análise de currículo
+Step 2: Análise de currículo2Análise de currículo
+Step 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Step 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Step 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Step 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Step 5: Carta Proposta5Carta Proposta
+Step 5: Carta Proposta5Carta Proposta
+Step 6: Hiring6Hiring
+Step 6: Hiring6Hiring
+
+
+
+
+
+25 países
+pessoas, oportunidades, projetos
+
+
+negócios
+
+
+
+
+
+serviços e soluções tecnológicas
+
+
+setores da indústria.
+
+
+
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere
+
+
+
+

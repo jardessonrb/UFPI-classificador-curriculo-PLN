@@ -1,0 +1,254 @@
+link-https://www.linkedin.com/jobs/view/4052356490/?eBP=CwEAAAGS7kbPsiK1XXbgmEHvKUPaWrG8YWFQwiLgzHp-VcXt0pEG6h1BEzhIdzS2k6JCLAsbtCnGM99dfoz21VWDk3e-S11DGP42x1x_7Hj0BYMM4-jnzMkcmYll_2Hkr7mT5OqDWb-TzDweu2W6-X-RaPpCcbffbuP5BNa4pS8H6BPN0hZKHbHEnjz8Sks1Qf1eJbt4apsAPspfo4FPUnXi1_ScVstN9JCbyVAXL7aUljjgrPmNwLDs7qWN7qERO5v_kKp3A-Gtph1tNdeZGBHcdy0sYNEbqgXxHScDRQzdHtBKkpOQMaemRAl_R4egRVUsj4vQ1NGZH_9NSCxEeqXG-Fe-yuVeSTv_inyISG_7svdPTgRhhVKZspALh-7ZMKdhM13DH2aTPyFQGggj4xDnLfiem_Hh88SPNWZWUN63Bw_3yPPLsnxbd4MTLr1GP8Nt3kzRmcAUcMzUpSYBLRC7GnX8pJEEC4QlRvC_GgO7VBjMh3X1_9g7GbMyPQuL0IBr7CTVtzg&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=RsO%2FAEw%2BuWZOMwrnYwlTzQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Líder Técnico de QA Sênior
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.Somos globais, somos GPTW.🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!Que tal se juntar a nós e se tornar um(a) #FourTalent?Então se liga nessa oportunidade incrível: 👇RequisitosConhecimento TécnicoExperiência comprovada em liderança tecnica de QA e capacitação técnica de pessoas.Fortes conhecimentos e experiência prática com as seguintes ferramentas/tecnologias:CypressKarateSeleniumJenkinsGitPythonRobot FrameworkSonarQubeK6JavaJavaScriptExperiência com metodologias ágeis (Scrum, Kanban) e integração contínua/entrega contínua (CI/CD).Excelentes habilidades em depuração e resolução de problemas.Capacidade de comunicar-se efetivamente com equipes interdisciplinares.Experiência em criar e manter pipelines de CI/CD, especialmente com Jenkins.Proficiência em controle de versão com Git.Experiência em testes de API e microserviços.Sólida compreensão das melhores práticas de desenvolvimento de software e testes.Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).3. Integração Contínua e Entrega Contínua (CI/CD)Configuração de Pipelines:Configurar e manter pipelines de CI/CD para garantir que os testes automatizados sejam executados automaticamente em cada commit ou build.Integração com Ferramentas de CI:Integrar os testes automatizados com ferramentas de CI como Jenkins, GitLab CI, Travis CI, ou CircleCI.4. Testes de Desempenho e CargaAutomação de Testes de Desempenho:Criar e manter scripts de automação para testes de desempenho e carga utilizando ferramentas como K6 e JMeterAnálise de Resultados:Analisar os resultados dos testes de desempenho e carga para identificar gargalos e áreas de melhoria.5. Integração de IACapacidade de integrar ferramentas de IA no processo de QA para otimizar a detecção de bugs e prever falhas potenciais.Experiência com frameworks e bibliotecas de IA para automação de testes.6. Automação de Testes:Conhecimento em ferramentas de automação de testes modernas que incorporam IA.Habilidade para desenvolver scripts automáticos usando linguagens de programação como Cypress, Python, Java ou JavaScript.7. Análise de Dados:Capacidade de usar ferramentas de análise de dados para interpretar os resultados dos testes e alimentar o processo de tomada de decisão.Experiência com SQL/JSON e ferramentas para manipular e analisar massa de dados.8. Revisão de Código e Melhores Práticas (quando necessário)Revisão de Código de Testes:Revisar o código dos testes automatizados escritos por outros membros da equipe para garantir a qualidade e a aderência às melhores práticas.Mentoria e Treinamento:Mentorar e treinar membros juniores da equipe em práticas de automação de testes e qualidade de software.9. Monitoramento e Reporting· Monitoramento contínuo dos sistemas e a criação de relatórios inteligentes.10. Planejamento e Estratégia de TestesPlanejamento de Testes:Participar do planejamento de testes e da definição de estratégias de automação junto com outras partes interessadas.Cobertura de Testes:Garantir que a automação cubra as áreas críticas do sistema e maximize a assertividade dos testes, estabelecendo cenários que garantam a cobertura necessária conforme negócio e critérios de aceite.11. Colaboração e ComunicaçãoTrabalho em Equipe:Colaborar estreitamente com desenvolvedores, gerentes de produto e outros membros da equipe de QA para alinhar os esforços de automação de testes com os objetivos do projeto.Relatórios de Qualidade:Criar e apresentar relatórios de qualidade que destacam os resultados dos testes automatizados e as áreas que necessitam de atenção.12. DiferenciaisCertificações relevantes na área de testes e QA.Experiência com testes de segurança e conformidade.Experiência em desenvolvimento de sistemasResponsabilidadeLiderar tecnicamente as atividades de QA, fornecendo orientação técnica e suporte.Desenvolver e implementar estratégias eficazes de teste automatizados funcionais e não funcionais e manual.Criar, revisar e otimizar casos de teste e scripts de automação.Gerenciar e executar testes de integração, sistema, regressão e desempenho.Colaborar com equipes de desenvolvimento para garantir a integração contínua e a entrega contínua (CI/CD).Analisar os resultados dos testes, identificar bugs e trabalhar em estreita colaboração com os desenvolvedores para solucioná-los.Definir e monitorar métricas de qualidade para avaliar a eficácia dos testes.Manter a documentação dos processos e práticas de teste.Participar de reuniões técnicas e colaborar com diversas partes interessadas.Propor e implementar melhorias contínuas técnicas e de processo para aumentar a eficiência da equipe.E temos o Clube da Four que oferece ótimas vantagens!👇🩺 Assistência médica;🍲 VR e VA flexível;🏋️ Gympass e Wellz;⚽ Parceria com o SESC;🍣 Descontos em restaurantes;📚 Descontos em cursos técnicos e de ensinos superior;🧠 Descontos em escolas e plataformas de idiomas.E aí, aceita o desafio? Então conclua sua inscrição e #VemSerFoursys! Boa sorte! 🍀
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+
+
+
+Somos globais, somos GPTW.
+Somos globais, somos GPTW.
+
+
+
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+Então se liga nessa oportunidade incrível: 👇
+Então se liga nessa oportunidade incrível: 👇
+
+
+
+Requisitos
+Requisitos
+Requisitos
+Conhecimento Técnico
+Conhecimento Técnico
+Conhecimento Técnico
+Experiência comprovada em liderança tecnica de QA e capacitação técnica de pessoas.Fortes conhecimentos e experiência prática com as seguintes ferramentas/tecnologias:CypressKarateSeleniumJenkinsGitPythonRobot FrameworkSonarQubeK6JavaJavaScriptExperiência com metodologias ágeis (Scrum, Kanban) e integração contínua/entrega contínua (CI/CD).Excelentes habilidades em depuração e resolução de problemas.Capacidade de comunicar-se efetivamente com equipes interdisciplinares.Experiência em criar e manter pipelines de CI/CD, especialmente com Jenkins.Proficiência em controle de versão com Git.Experiência em testes de API e microserviços.Sólida compreensão das melhores práticas de desenvolvimento de software e testes.Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).
+Experiência comprovada em liderança tecnica de QA e capacitação técnica de pessoas.
+Experiência comprovada em liderança tecnica de QA e capacitação técnica de pessoas.
+
+Fortes conhecimentos e experiência prática com as seguintes ferramentas/tecnologias:
+Fortes conhecimentos e experiência prática com as seguintes ferramentas/tecnologias:
+
+Cypress
+Cypress
+
+Karate
+Karate
+
+Selenium
+Selenium
+
+Jenkins
+Jenkins
+
+Git
+Git
+
+Python
+Python
+
+Robot Framework
+Robot Framework
+
+SonarQube
+SonarQube
+
+K6
+K6
+
+Java
+Java
+
+JavaScript
+JavaScript
+
+Experiência com metodologias ágeis (Scrum, Kanban) e integração contínua/entrega contínua (CI/CD).
+Experiência com metodologias ágeis (Scrum, Kanban) e integração contínua/entrega contínua (CI/CD).
+Excelentes habilidades em depuração e resolução de problemas.
+Excelentes habilidades em depuração e resolução de problemas.
+Capacidade de comunicar-se efetivamente com equipes interdisciplinares.
+Capacidade de comunicar-se efetivamente com equipes interdisciplinares.
+Experiência em criar e manter pipelines de CI/CD, especialmente com Jenkins.
+Experiência em criar e manter pipelines de CI/CD, especialmente com Jenkins.
+Proficiência em controle de versão com Git.
+Proficiência em controle de versão com Git.
+Experiência em testes de API e microserviços.
+Experiência em testes de API e microserviços.
+Sólida compreensão das melhores práticas de desenvolvimento de software e testes.
+Sólida compreensão das melhores práticas de desenvolvimento de software e testes.
+Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).
+Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).
+3. Integração Contínua e Entrega Contínua (CI/CD)
+3. Integração Contínua e Entrega Contínua (CI/CD)
+3. Integração Contínua e Entrega Contínua (CI/CD)
+Configuração de Pipelines:Configurar e manter pipelines de CI/CD para garantir que os testes automatizados sejam executados automaticamente em cada commit ou build.Integração com Ferramentas de CI:Integrar os testes automatizados com ferramentas de CI como Jenkins, GitLab CI, Travis CI, ou CircleCI.
+Configuração de Pipelines:Configurar e manter pipelines de CI/CD para garantir que os testes automatizados sejam executados automaticamente em cada commit ou build.
+Configuração de Pipelines:Configurar e manter pipelines de CI/CD para garantir que os testes automatizados sejam executados automaticamente em cada commit ou build.
+Configuração de Pipelines:
+
+Integração com Ferramentas de CI:Integrar os testes automatizados com ferramentas de CI como Jenkins, GitLab CI, Travis CI, ou CircleCI.
+Integração com Ferramentas de CI:Integrar os testes automatizados com ferramentas de CI como Jenkins, GitLab CI, Travis CI, ou CircleCI.
+Integração com Ferramentas de CI:
+
+4. Testes de Desempenho e Carga
+4. Testes de Desempenho e Carga
+4. Testes de Desempenho e Carga
+Automação de Testes de Desempenho:Criar e manter scripts de automação para testes de desempenho e carga utilizando ferramentas como K6 e JMeterAnálise de Resultados:Analisar os resultados dos testes de desempenho e carga para identificar gargalos e áreas de melhoria.
+Automação de Testes de Desempenho:Criar e manter scripts de automação para testes de desempenho e carga utilizando ferramentas como K6 e JMeter
+Automação de Testes de Desempenho:Criar e manter scripts de automação para testes de desempenho e carga utilizando ferramentas como K6 e JMeter
+Automação de Testes de Desempenho:
+
+Análise de Resultados:Analisar os resultados dos testes de desempenho e carga para identificar gargalos e áreas de melhoria.
+Análise de Resultados:Analisar os resultados dos testes de desempenho e carga para identificar gargalos e áreas de melhoria.
+Análise de Resultados:
+
+5. Integração de IA
+5. Integração de IA
+5. Integração de IA
+Capacidade de integrar ferramentas de IA no processo de QA para otimizar a detecção de bugs e prever falhas potenciais.Experiência com frameworks e bibliotecas de IA para automação de testes.
+Capacidade de integrar ferramentas de IA no processo de QA para otimizar a detecção de bugs e prever falhas potenciais.
+Capacidade de integrar ferramentas de IA no processo de QA para otimizar a detecção de bugs e prever falhas potenciais.
+Experiência com frameworks e bibliotecas de IA para automação de testes.
+Experiência com frameworks e bibliotecas de IA para automação de testes.
+6. Automação de Testes:
+6. Automação de Testes:
+6. Automação de Testes:
+Conhecimento em ferramentas de automação de testes modernas que incorporam IA.Habilidade para desenvolver scripts automáticos usando linguagens de programação como Cypress, Python, Java ou JavaScript.
+Conhecimento em ferramentas de automação de testes modernas que incorporam IA.
+Conhecimento em ferramentas de automação de testes modernas que incorporam IA.
+
+Habilidade para desenvolver scripts automáticos usando linguagens de programação como Cypress, Python, Java ou JavaScript.
+Habilidade para desenvolver scripts automáticos usando linguagens de programação como Cypress, Python, Java ou JavaScript.
+
+7. Análise de Dados:
+7. Análise de Dados:
+7. Análise de Dados:
+Capacidade de usar ferramentas de análise de dados para interpretar os resultados dos testes e alimentar o processo de tomada de decisão.Experiência com SQL/JSON e ferramentas para manipular e analisar massa de dados.
+Capacidade de usar ferramentas de análise de dados para interpretar os resultados dos testes e alimentar o processo de tomada de decisão.
+Capacidade de usar ferramentas de análise de dados para interpretar os resultados dos testes e alimentar o processo de tomada de decisão.
+Experiência com SQL/JSON e ferramentas para manipular e analisar massa de dados.
+Experiência com SQL/JSON e ferramentas para manipular e analisar massa de dados.
+
+
+
+8. Revisão de Código e Melhores Práticas (quando necessário)
+8. Revisão de Código e Melhores Práticas (quando necessário)
+8. Revisão de Código e Melhores Práticas (quando necessário)
+Revisão de Código de Testes:Revisar o código dos testes automatizados escritos por outros membros da equipe para garantir a qualidade e a aderência às melhores práticas.Mentoria e Treinamento:Mentorar e treinar membros juniores da equipe em práticas de automação de testes e qualidade de software.
+Revisão de Código de Testes:Revisar o código dos testes automatizados escritos por outros membros da equipe para garantir a qualidade e a aderência às melhores práticas.
+Revisão de Código de Testes:Revisar o código dos testes automatizados escritos por outros membros da equipe para garantir a qualidade e a aderência às melhores práticas.
+Revisão de Código de Testes:
+
+Mentoria e Treinamento:Mentorar e treinar membros juniores da equipe em práticas de automação de testes e qualidade de software.
+Mentoria e Treinamento:Mentorar e treinar membros juniores da equipe em práticas de automação de testes e qualidade de software.
+Mentoria e Treinamento:
+
+9. Monitoramento e Reporting
+9. Monitoramento e Reporting
+9. Monitoramento e Reporting
+· Monitoramento contínuo dos sistemas e a criação de relatórios inteligentes.
+· Monitoramento contínuo dos sistemas e a criação de relatórios inteligentes.
+10. Planejamento e Estratégia de Testes
+10. Planejamento e Estratégia de Testes
+10. Planejamento e Estratégia de Testes
+Planejamento de Testes:Participar do planejamento de testes e da definição de estratégias de automação junto com outras partes interessadas.Cobertura de Testes:Garantir que a automação cubra as áreas críticas do sistema e maximize a assertividade dos testes, estabelecendo cenários que garantam a cobertura necessária conforme negócio e critérios de aceite.
+Planejamento de Testes:Participar do planejamento de testes e da definição de estratégias de automação junto com outras partes interessadas.
+Planejamento de Testes:Participar do planejamento de testes e da definição de estratégias de automação junto com outras partes interessadas.
+Planejamento de Testes:
+
+Cobertura de Testes:Garantir que a automação cubra as áreas críticas do sistema e maximize a assertividade dos testes, estabelecendo cenários que garantam a cobertura necessária conforme negócio e critérios de aceite.
+Cobertura de Testes:Garantir que a automação cubra as áreas críticas do sistema e maximize a assertividade dos testes, estabelecendo cenários que garantam a cobertura necessária conforme negócio e critérios de aceite.
+Cobertura de Testes:
+
+11. Colaboração e Comunicação
+11. Colaboração e Comunicação
+11. Colaboração e Comunicação
+Trabalho em Equipe:Colaborar estreitamente com desenvolvedores, gerentes de produto e outros membros da equipe de QA para alinhar os esforços de automação de testes com os objetivos do projeto.Relatórios de Qualidade:Criar e apresentar relatórios de qualidade que destacam os resultados dos testes automatizados e as áreas que necessitam de atenção.
+Trabalho em Equipe:Colaborar estreitamente com desenvolvedores, gerentes de produto e outros membros da equipe de QA para alinhar os esforços de automação de testes com os objetivos do projeto.
+Trabalho em Equipe:Colaborar estreitamente com desenvolvedores, gerentes de produto e outros membros da equipe de QA para alinhar os esforços de automação de testes com os objetivos do projeto.
+Trabalho em Equipe:
+
+Relatórios de Qualidade:Criar e apresentar relatórios de qualidade que destacam os resultados dos testes automatizados e as áreas que necessitam de atenção.
+Relatórios de Qualidade:Criar e apresentar relatórios de qualidade que destacam os resultados dos testes automatizados e as áreas que necessitam de atenção.
+Relatórios de Qualidade:
+
+12. Diferenciais
+12. Diferenciais
+12. Diferenciais
+Certificações relevantes na área de testes e QA.Experiência com testes de segurança e conformidade.Experiência em desenvolvimento de sistemas
+Certificações relevantes na área de testes e QA.
+Certificações relevantes na área de testes e QA.
+
+Experiência com testes de segurança e conformidade.
+Experiência com testes de segurança e conformidade.
+
+Experiência em desenvolvimento de sistemas
+Experiência em desenvolvimento de sistemas
+
+
+
+
+
+
+
+Responsabilidade
+Responsabilidade
+Responsabilidade
+Liderar tecnicamente as atividades de QA, fornecendo orientação técnica e suporte.Desenvolver e implementar estratégias eficazes de teste automatizados funcionais e não funcionais e manual.Criar, revisar e otimizar casos de teste e scripts de automação.Gerenciar e executar testes de integração, sistema, regressão e desempenho.Colaborar com equipes de desenvolvimento para garantir a integração contínua e a entrega contínua (CI/CD).Analisar os resultados dos testes, identificar bugs e trabalhar em estreita colaboração com os desenvolvedores para solucioná-los.Definir e monitorar métricas de qualidade para avaliar a eficácia dos testes.Manter a documentação dos processos e práticas de teste.Participar de reuniões técnicas e colaborar com diversas partes interessadas.Propor e implementar melhorias contínuas técnicas e de processo para aumentar a eficiência da equipe.
+Liderar tecnicamente as atividades de QA, fornecendo orientação técnica e suporte.
+Liderar tecnicamente as atividades de QA, fornecendo orientação técnica e suporte.
+Desenvolver e implementar estratégias eficazes de teste automatizados funcionais e não funcionais e manual.
+Desenvolver e implementar estratégias eficazes de teste automatizados funcionais e não funcionais e manual.
+Criar, revisar e otimizar casos de teste e scripts de automação.
+Criar, revisar e otimizar casos de teste e scripts de automação.
+Gerenciar e executar testes de integração, sistema, regressão e desempenho.
+Gerenciar e executar testes de integração, sistema, regressão e desempenho.
+Colaborar com equipes de desenvolvimento para garantir a integração contínua e a entrega contínua (CI/CD).
+Colaborar com equipes de desenvolvimento para garantir a integração contínua e a entrega contínua (CI/CD).
+Analisar os resultados dos testes, identificar bugs e trabalhar em estreita colaboração com os desenvolvedores para solucioná-los.
+Analisar os resultados dos testes, identificar bugs e trabalhar em estreita colaboração com os desenvolvedores para solucioná-los.
+Definir e monitorar métricas de qualidade para avaliar a eficácia dos testes.
+Definir e monitorar métricas de qualidade para avaliar a eficácia dos testes.
+Manter a documentação dos processos e práticas de teste.
+Manter a documentação dos processos e práticas de teste.
+Participar de reuniões técnicas e colaborar com diversas partes interessadas.
+Participar de reuniões técnicas e colaborar com diversas partes interessadas.
+Propor e implementar melhorias contínuas técnicas e de processo para aumentar a eficiência da equipe.
+Propor e implementar melhorias contínuas técnicas e de processo para aumentar a eficiência da equipe.
+
+
+
+
+
+
+E temos o Clube da Four que oferece ótimas vantagens!👇
+E temos o Clube da Four que oferece ótimas vantagens!👇
+🩺 Assistência médica;
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+🧠 Descontos em escolas e plataformas de idiomas.
+
+
+
+E aí, aceita o desafio? Então conclua sua inscrição e #VemSerFoursys! Boa sorte! 🍀
+E aí, aceita o desafio? Então conclua sua inscrição e #VemSerFoursys! Boa sorte! 🍀
+E aí, aceita o desafio? Então conclua sua inscrição e #VemSerFoursys! Boa sorte! 🍀

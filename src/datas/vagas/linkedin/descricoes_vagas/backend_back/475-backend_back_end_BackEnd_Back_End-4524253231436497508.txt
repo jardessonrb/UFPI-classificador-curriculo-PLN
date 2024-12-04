@@ -1,0 +1,181 @@
+link-https://www.linkedin.com/jobs/view/4063510795/?eBP=CwEAAAGS7lRXJTF_FdvyURhjoFWgtI5Mzw9jNx9Jm_yxXeNEaUaW90hBpsnvfcBIAj7xfGxP39hkkhP0MmZlrFyyHuzerFLGcDjQVrQ3zznzK68PKgiuhBoeQHeHiMQ58f6iBsBnNq534uVDQ7NFNNTQ3UYUJgVLvwTOfFgPRQ2nHnLUhaHwpRSluZE76Hjnue7xDcfG-w3lPIX7ar1lJCUJyVoanmam5fJsbzbNGRLv2twW_Kv6PwjBDTyDNTQ0dFzVfMObQLao7GRwuyWaL8it-lXQv09JdZVeOQP9BVl9M7KatuSZBsA8oqW0IFaw7yFBpkH14tiaS7EU05iZLtlFv4L9fP26Mrpb9feL2VaJM01tGteMwT2nqFVFPlLX6UzO3NjRu_xVyAMC6aClcBsfCJoo72-Zr7gV4lI8Veep2rtWkxs98HzH6mh5qAJSTSAEI_VpccQi4xq61rA29T3cUi-ZSmx9cyxDKXCLH-3cFsJ2sVXzODrKSvTc0DjKXNRa&refId=s5jUkbs6cIRFs7ysf%2FzN%2BA%3D%3D&trackingId=%2BATpTA47yRgoDa6RR9DA%2BQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Lead Backend Engineer (Typescript & AWS)
+Sobre a vaga
+OverviewWe are hiring a Lead Backend Engineer (Typescript & AWS). Headquartered in Los Angeles, California, Right Balance provides top-tier technology talent for innovative companies in the US. We’re in the top 50 companies to watch in LA.Engagement DetailsWe started with the mission of bringing a simple payment experience to the text space. Over the past five years we’ve continued to innovate on what a simple payment conversation really is. Our platform manages the mission critical task of billing and payments on behalf of our partners and customers, removing the burden of investing in additional resources, infrastructure, and a customer management web portal. It also provides the 70% of consumers who live paycheck to paycheck the power to authorize bill payments quickly and on their terms. Located in Southern California, we're located in the heart of Silicon Beach, the second largest technology hub in the world. We are a lean startup resourced and managed by a group of experienced technical and business professionals.The Role We’re looking for a versatile and skilled Tech Lead who excels in TypeScript and AWS, with a balance of hands-on coding expertise and leadership capabilities. In this role, you’ll be responsible for guiding the technical direction of projects, mentoring developers, and building robust backend solutions. Experience with AI is a significant advantage, as we’re increasingly exploring innovative AI-driven solutions. This position is a 50/50 split between hands-on development and leadership responsibilities.Key ResponsibilitiesLead and mentor a team of developers, providing guidance in technical architecture, best practices, and TypeScript/AWS development.Write, review, and optimize TypeScript code for performance, scalability, and maintainability.Oversee AWS infrastructure design, deployment, and management, ensuring alignment with business goals.Collaborate closely with product management and other stakeholders to define project scope, timelines, and technical requirements.Foster a culture of knowledge sharing, innovation, and continuous improvement within the team.Stay current on AI trends and technologies, assessing potential applications to enhance our products and services.Location Remote from any country Must be available to work until 12pm Pacific Time (later would be great)What’s in it for youLearn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.Required QualificationsAdvanced speaking and writing English. Able to have a real-time conversation.6+ years of full-time hands-on Software Development experience.3+ years of full-time hands-on Tech Lead experience.4+ years of full-time hands-on Backend API Javascript/Typescript experience.4+ years of full-time hands-on AWS experience.3+ years of full-time hands-on Serverless experience.Demonstrated experience in technical leadership or mentorship roles.Proficiency in core AWS services and a strong understanding of cloud architecture and infrastructure.Solid understanding of RESTful APIs, microservices, and serverless architectures.Excellent problem-solving, decision-making, and interpersonal skills.Effective communicator with a talent for translating technical information into actionable guidance.Nice to havesExperience with AI/ML frameworks and AI-driven applications.Familiarity with front-end technologies (e.g., Vue) for occasional cross-functional collaborations.Hands-on experience with DevOps practices, CI/CD pipelines, and cloud security best practices.Bachelor’s degree in Computer Science or equivalent demonstrated ability.Frequently Asked QuestionsWhat are your typical clients?The majority of our clients are venture-backed startups at the growth stage. Usually, at this stage, the company already achieved a product-market fit and is looking to expand rapidly. That’s where we bring the best engineering practices, strong architecture, the latest technologies, and consistent processes to help companies scale.What is the length of your engagements?Most of our long-term full-time engagements last multiple years. It allows you to evolve your career with the client company taking on more responsibilities.What’s your company size?The Right Balance team is 60+ engineers going to 100+ by the end of the year. The current client size team is 32+ people. The timing is great to be a part of a rapidly growing team making meaningful contributions.What happens if the engagement is completed?Most of our engagements are long-term in nature. That said, if the current engagement is ramping down, we’ll present you with more long-term opportunities to transition into.What are your core values?Client First: we only win when our clients win. We treat client challenges as our own.Ownership: we embrace responsibility, taking on challenges, getting them to completion, and enjoying getting things done.Quality: we’re passionate about achieving quality outcomes by applying meticulous attention to detail.
+Overview
+
+
+
+
+Engagement Details
+
+
+
+
+
+
+
+
+
+
+Lead and mentor a team of developers, providing guidance in technical architecture, best practices, and TypeScript/AWS development.Write, review, and optimize TypeScript code for performance, scalability, and maintainability.Oversee AWS infrastructure design, deployment, and management, ensuring alignment with business goals.Collaborate closely with product management and other stakeholders to define project scope, timelines, and technical requirements.Foster a culture of knowledge sharing, innovation, and continuous improvement within the team.Stay current on AI trends and technologies, assessing potential applications to enhance our products and services.
+Lead and mentor a team of developers, providing guidance in technical architecture, best practices, and TypeScript/AWS development.
+Lead and mentor a team of developers, providing guidance in technical architecture, best practices, and TypeScript/AWS development.
+
+
+Write, review, and optimize TypeScript code for performance, scalability, and maintainability.
+Write, review, and optimize TypeScript code for performance, scalability, and maintainability.
+
+
+Oversee AWS infrastructure design, deployment, and management, ensuring alignment with business goals.
+Oversee AWS infrastructure design, deployment, and management, ensuring alignment with business goals.
+
+
+Collaborate closely with product management and other stakeholders to define project scope, timelines, and technical requirements.
+Collaborate closely with product management and other stakeholders to define project scope, timelines, and technical requirements.
+
+
+Foster a culture of knowledge sharing, innovation, and continuous improvement within the team.
+Foster a culture of knowledge sharing, innovation, and continuous improvement within the team.
+
+
+Stay current on AI trends and technologies, assessing potential applications to enhance our products and services.
+Stay current on AI trends and technologies, assessing potential applications to enhance our products and services.
+
+
+
+
+
+
+
+What’s in it for you
+
+
+
+
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+
+
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+
+
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+
+
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+
+
+
+
+
+Required Qualifications
+
+
+
+
+Advanced speaking and writing English. Able to have a real-time conversation.6+ years of full-time hands-on Software Development experience.3+ years of full-time hands-on Tech Lead experience.4+ years of full-time hands-on Backend API Javascript/Typescript experience.4+ years of full-time hands-on AWS experience.3+ years of full-time hands-on Serverless experience.Demonstrated experience in technical leadership or mentorship roles.Proficiency in core AWS services and a strong understanding of cloud architecture and infrastructure.Solid understanding of RESTful APIs, microservices, and serverless architectures.Excellent problem-solving, decision-making, and interpersonal skills.Effective communicator with a talent for translating technical information into actionable guidance.
+Advanced speaking and writing English. Able to have a real-time conversation.
+Advanced speaking and writing English. Able to have a real-time conversation.
+
+
+6+ years of full-time hands-on Software Development experience.
+6+ years of full-time hands-on Software Development experience.
+
+
+3+ years of full-time hands-on Tech Lead experience.
+3+ years of full-time hands-on Tech Lead experience.
+
+
+4+ years of full-time hands-on Backend API Javascript/Typescript experience.
+4+ years of full-time hands-on Backend API Javascript/Typescript experience.
+
+
+4+ years of full-time hands-on AWS experience.
+4+ years of full-time hands-on AWS experience.
+
+
+3+ years of full-time hands-on Serverless experience.
+3+ years of full-time hands-on Serverless experience.
+
+
+Demonstrated experience in technical leadership or mentorship roles.
+Demonstrated experience in technical leadership or mentorship roles.
+
+
+Proficiency in core AWS services and a strong understanding of cloud architecture and infrastructure.
+Proficiency in core AWS services and a strong understanding of cloud architecture and infrastructure.
+
+
+Solid understanding of RESTful APIs, microservices, and serverless architectures.
+Solid understanding of RESTful APIs, microservices, and serverless architectures.
+
+
+Excellent problem-solving, decision-making, and interpersonal skills.
+Excellent problem-solving, decision-making, and interpersonal skills.
+
+
+Effective communicator with a talent for translating technical information into actionable guidance.
+Effective communicator with a talent for translating technical information into actionable guidance.
+
+
+
+
+
+Nice to haves
+
+
+
+
+Experience with AI/ML frameworks and AI-driven applications.Familiarity with front-end technologies (e.g., Vue) for occasional cross-functional collaborations.Hands-on experience with DevOps practices, CI/CD pipelines, and cloud security best practices.Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Experience with AI/ML frameworks and AI-driven applications.
+Experience with AI/ML frameworks and AI-driven applications.
+
+
+Familiarity with front-end technologies (e.g., Vue) for occasional cross-functional collaborations.
+Familiarity with front-end technologies (e.g., Vue) for occasional cross-functional collaborations.
+
+
+Hands-on experience with DevOps practices, CI/CD pipelines, and cloud security best practices.
+Hands-on experience with DevOps practices, CI/CD pipelines, and cloud security best practices.
+
+
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

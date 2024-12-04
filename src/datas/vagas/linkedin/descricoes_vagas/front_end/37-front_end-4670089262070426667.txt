@@ -1,0 +1,77 @@
+link-https://www.linkedin.com/jobs/view/4060285655/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=3Skfr98sEUX%2FjHdibph8TQ%3D%3D&trackingId=hFZaNxhOnLrGIYGtqVjT1A%3D%3D&trk=flagship3_search_srp_jobs
+
+Desarrollador de front-end
+Sobre a vaga
+Coderio_is an award-winning nearshore software development and staffing company based in the U.S. and Latin America in 2018 and since then till now we help our clients create their dream projects.We choose our engineers after several technology tests to assure their knowledge and expertise.This is why we still work with Top companies all around the world.We are not only cost-effective, we also work with agile methodologies and in the best time-zones.Our rock is the Outsourcing services and Staff Augmentation services and our best offer for you, the Experts Delivery Squad.We provide end to end projects, from web development, mobile applications, UX/UI design, QA Automation and Project Management.For our outcomes, we were selected by the Buenos Aires City Government and the French Embassy as one of the best software companies in Argentina.http://coderio.coWhat we are looking forSr. Front-end EngineerKey Responsibilities:Work with Next.js and React to build and maintain dynamic, high-performance web applications.Navigate complex Babel configurations and various mono repo technologies.Use and integrate Tailwind CSS and ShadCN (pre-styled Radix and Tailwind components) to create seamless UIs.Collaborate with designers using Figma and manage front-end state with modern tools like Zustand (no Redux).Implement React Server Components and corresponding server functions/actions.Utilize React Query (TanStack Query) for efficient data fetching without Redux.Preference for candidates experienced with OpenAPI or gRPC for client-side consumption.Required Skills: Next.js 15, React 19 Tailwind CSS, Radix UI, ShadCN/UI Babel, Mono repo architecture Zustand for state management, React Query Experience working from Figma Familiarity with server components and API integrationsTanStack Query gRPC React Server Components - server functions/actionsEnglish Advanced✅100% remote✅Pay in USD✅Flex time✅Additional #vacation week
+Coderio_is an award-winning nearshore software development and staffing company based in the U.S. and Latin America in 2018 and since then till now we help our clients create their dream projects.
+Coderio_is an award-winning nearshore software development and staffing company based in the U.S. and Latin America in 2018 and since then till now we help our clients create their dream projects.
+Coderio_
+
+We choose our engineers after several technology tests to assure their knowledge and expertise.
+We choose our engineers after several technology tests to assure their knowledge and expertise.
+This is why we still work with Top companies all around the world.
+This is why we still work with Top companies all around the world.
+We are not only cost-effective, we also work with agile methodologies and in the best time-zones.
+We are not only cost-effective, we also work with agile methodologies and in the best time-zones.
+Our rock is the Outsourcing services and Staff Augmentation services and our best offer for you, the Experts Delivery Squad.
+Our rock is the Outsourcing services and Staff Augmentation services and our best offer for you, the Experts Delivery Squad.
+We provide end to end projects, from web development, mobile applications, UX/UI design, QA Automation and Project Management.
+We provide end to end projects, from web development, mobile applications, UX/UI design, QA Automation and Project Management.
+For our outcomes, we were selected by the Buenos Aires City Government and the French Embassy as one of the best software companies in Argentina.
+For our outcomes, we were selected by the Buenos Aires City Government and the French Embassy as one of the best software companies in Argentina.
+http://coderio.co
+http://coderio.co
+
+
+
+What we are looking forSr. Front-end Engineer
+What we are looking forSr. Front-end Engineer
+What we are looking for
+
+
+
+
+Key Responsibilities:
+Key Responsibilities:
+
+Work with Next.js and React to build and maintain dynamic, high-performance web applications.
+Work with Next.js and React to build and maintain dynamic, high-performance web applications.
+
+Navigate complex Babel configurations and various mono repo technologies.
+Navigate complex Babel configurations and various mono repo technologies.
+
+Use and integrate Tailwind CSS and ShadCN (pre-styled Radix and Tailwind components) to create seamless UIs.
+Use and integrate Tailwind CSS and ShadCN (pre-styled Radix and Tailwind components) to create seamless UIs.
+Collaborate with designers using Figma and manage front-end state with modern tools like Zustand (no Redux).
+Collaborate with designers using Figma and manage front-end state with modern tools like Zustand (no Redux).
+
+Implement React Server Components and corresponding server functions/actions.
+Implement React Server Components and corresponding server functions/actions.
+
+Utilize React Query (TanStack Query) for efficient data fetching without Redux.
+Utilize React Query (TanStack Query) for efficient data fetching without Redux.
+
+Preference for candidates experienced with OpenAPI or gRPC for client-side consumption.
+Preference for candidates experienced with OpenAPI or gRPC for client-side consumption.
+
+Required Skills: Next.js 15, React 19 Tailwind CSS, Radix UI, ShadCN/UI Babel, Mono repo architecture Zustand for state management, React Query Experience working from Figma Familiarity with server components and API integrations
+Required Skills: Next.js 15, React 19 Tailwind CSS, Radix UI, ShadCN/UI Babel, Mono repo architecture Zustand for state management, React Query Experience working from Figma Familiarity with server components and API integrations
+TanStack Query gRPC React Server Components - server functions/actions
+TanStack Query gRPC React Server Components - server functions/actions
+
+
+
+English Advanced
+English Advanced
+English Advanced
+
+
+
+✅100% remote
+✅100% remote
+✅Pay in USD
+✅Pay in USD
+✅Flex time
+✅Flex time
+✅Additional #vacation week
+✅Additional #vacation week

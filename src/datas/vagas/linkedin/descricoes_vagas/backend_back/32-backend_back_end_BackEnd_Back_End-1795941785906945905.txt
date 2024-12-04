@@ -1,0 +1,35 @@
+link-https://www.linkedin.com/jobs/view/4057920023/?eBP=CwEAAAGS7lKMz3j7faA8Yr580nQ92qGaNbVqj7XEONuOkhMtm_E42daFs3AewnPaUZBveRjseGLRrG2p-pLFsJEVmahIyEXrUIYmQLOtmISoHZ9X3to_S17rP2AhDNnhTrciu5x-C4lwNsOvPrr20r2g--IiQ8sak_3_ewxihSlLwhkp2t1IwuWqmimq_5ybauEIxTmdK6-LLGZkLiWzXeZfKk_0EiGEk701Ensy14KpuReqh81868SAF1kfDVwfz5AmaGVSI24gkB1VmKTBYsaAMFuSiKPgLXBgZrj8cS9I_pYCZe21p3lLxQBDcOp3rfv8GYonldLyObDmXYH2NA2rLK3pSUj2Blj4y99QmtV8YDqLWGZVt77BUmKo1Ls_p1p00SrKCZFTA0-2o7X5qnukkP0NBQ1i-KGIBvoVl7dMg--0BMlIBHmEOWzXBxkdHW3LLtXAnKJA7aBg9jbSnVPvDQ3GwPmhmfzOYQl-vY5vmdaI3JYoD1IAW6HMB1g&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=mk8xqSsfExdnRfHad%2BIflw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend - Integrações ERP e APIs - MG
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+Sobre a SIMASLOG A SIMASLOG Soluções em logística e armazém geral planeja, implementa e controla de maneira eficiente o fluxo e a armazenagem de produtos da sua empresa, bem como os serviços e informações associados, cobrindo desde o ponto de origem até o ponto de consumo através de uma frota moderna e versátil. DESCRIÇÃO DO CARGO: Desenvolver APIs que permitem a comunicação entre sistemas ERP e outras aplicações, garantir a precisão e segurança dos dados trocados, e otimizar o desempenho das integrações para suportar grandes volumes de dados. Além disso, fornecer suporte técnico, mantendo a documentação detalhada e colaborar com outras equipes para atender às necessidades do negócio. Desenvolver e manter integrações entre o sistema SILT da Senior e sistemas de clientes. Projetar, implementar e gerenciar APIs para facilitar a comunicação entre sistemas internos e externos. Trabalhar em colaboração com a equipe de desenvolvimento para garantir que as integrações atendam aos requisitos do cliente e às especificações do projeto. Realizar análises de sistemas para identificar e resolver problemas de integração. Desenvolver e manter documentação técnica e procedimentos para integrações e APIs. Auxiliar na venda da solução para clientes, fornecendo suporte técnico e apresentando a solução de forma clara e eficaz. Necessário: Experiência em desenvolvimento backend com foco em integração de ERP. Conhecimento em alguns seguintes sistemas ERP: SAP, SAP R/3, SAP HANA, Totvs, DataSul, Oracle, e soluções da Senior. Conhecimento em desenvolvimento de APIs (RESTful, SOAP, etc. ), Experiência em pelo menos uma linguagem de programação backend, com flexibilidade quanto à linguagem escolhida PHP 8 (Laravel), Java (Spring boot 3), Python (Django), Node. js. Experiência em trabalhar com bancos de dados relacionais e não relacionais. Capacidade de entender e mapear fluxos de trabalho de sistemas de ERP e requisitos de integração. Experiência em análise e resolução de problemas técnicos complexos. Boa comunicação e habilidades interpessoais para interagir com clientes e equipes internas. Benefícios: Assistência médica e odontológica, estendendo-se aos dependentes. Vale Alimentação. Vale Transporte. Horário: 08h às 17h48 com 1h12 de almoço. VEM FAZER HISTÓRIA COM A GENTE.Formação AcadêmicaNão informadoSalárioA combinarCargoProgramadorEmpresaSimas LogísticaAtua com armazéns gerais, transporte rodoviário de carga, depósitos de mercadorias para terceiros, guarda-móveis.RamoLogística/Armazéns(CB)
+
+
+Formação Acadêmica
+
+
+
+
+Salário
+
+
+
+
+Cargo
+
+
+
+
+Empresa
+
+
+
+
+
+
+Ramo
+
+
+
+

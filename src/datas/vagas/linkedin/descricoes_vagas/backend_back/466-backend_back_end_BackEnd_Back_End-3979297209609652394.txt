@@ -1,0 +1,68 @@
+link-https://www.linkedin.com/jobs/view/4062478507/?eBP=CwEAAAGS7lCK8V1IaIHo33kO6dkdcbD9rXGeKU4XrSb5iM4mQsss6oNizdwRco_P67gi6QrE0sc72h0EOegRwS5HUUD9gjjNRZ8Gbw6om6we-JR0QZYRgw-6IKiBzdO-nkJcqE1ofmf41z5F7BtjUE5IKgXDnbFIv5ejMFi7vh1gZ8JIkzglN6QlgDfWPkgWF52dQhDRhDgfdt4AvTQTdsbyJ9KZrGykgpYbY2c7tvTHA9MgvSUE-o-lJuYigUOwyh3kIEhtE0BtWIZz9YBS8RboYSFmHnBzuUHqHTULNfmZzsLjOc6SkEYer_GKY96kYMJGXudoWaFTydijkrjh_HpvqJEeOFr7CPJxAb8d65SAma4S1HknijXBRRB2KT7dZHZuXrH7J6ueMRidEJ2YL49wP-Q9VfVKBd4pvfop4w_mGGmf_rolSaCIR8PKuZxZ9GjJKjP551QFBDWzGHeNPbJgk6NahHP7tKo1BS3YJ3fDiBC4BBJxpcvHdJc71QoYeM_Q9qqo3gsF8_w9rtndsMKoNVNZ0Q&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=qNAz4mm3%2FXaxNNjeBtLGIg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedora Backend Java/Node Junior (Afirmativa para Mulheres)
+Sobre a vaga
+Buscamos desenvolvedoras que queiram fazer parte do time Luizalabs.Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.Requisitos:Esperamos que este profissional, tenha experiência como júnior com:- Java e/ou NodeJs;- Banco de dados relacional (MSSQL, MySQL, Oracle);- Git, Gitlab;- Testes Unitários- RestfulDiferenciais:Se você conhecer ou tiver experiência com algum dos itens abaixo é melhor ainda:- Containers (Docker)- Conhecimento de mensagerias (RabbitMQ, Kafka, SQN/SNS, Pub/Sub)- Conhecimento em metodologia ágeis;- Clean Code;- Padrões de ProjetoComo é o ambiente de trabalho?No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+Buscamos desenvolvedoras que queiram fazer parte do time Luizalabs.
+Buscamos desenvolvedoras que queiram fazer parte do time Luizalabs.
+
+
+
+Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.
+Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.
+
+
+
+Requisitos:
+Requisitos:
+Requisitos:
+
+
+
+Esperamos que este profissional, tenha experiência como júnior com:
+Esperamos que este profissional, tenha experiência como júnior com:
+
+
+
+- Java e/ou NodeJs;
+- Java e/ou NodeJs;
+- Banco de dados relacional (MSSQL, MySQL, Oracle);
+- Banco de dados relacional (MSSQL, MySQL, Oracle);
+- Git, Gitlab;
+- Git, Gitlab;
+- Testes Unitários
+- Testes Unitários
+- Restful
+- Restful
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+
+
+
+Se você conhecer ou tiver experiência com algum dos itens abaixo é melhor ainda:
+Se você conhecer ou tiver experiência com algum dos itens abaixo é melhor ainda:
+
+
+
+- Containers (Docker)
+- Containers (Docker)
+- Conhecimento de mensagerias (RabbitMQ, Kafka, SQN/SNS, Pub/Sub)
+- Conhecimento de mensagerias (RabbitMQ, Kafka, SQN/SNS, Pub/Sub)
+- Conhecimento em metodologia ágeis;
+- Conhecimento em metodologia ágeis;
+- Clean Code;
+- Clean Code;
+- Padrões de Projeto
+- Padrões de Projeto
+
+
+
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.

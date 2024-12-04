@@ -1,0 +1,161 @@
+link-https://www.linkedin.com/jobs/view/4060163383/?eBP=CwEAAAGS7jUdtZn12J54UF9Y66zBSdgGZ7vJ9yyX8lvOCGSaMFuqr1Gf5iiLppLykOeAxXX_TYavlZnpp5_C3nLgXOVBaGlYewWo5sI2WNHZ48Rhf3-k8gUt8MoUtps56YU--P7coS5jQPcCASzN4-_ZmTVB-l0DvbmkneIopW0HHf4XhfDDDwrRUk98jzqvogBp4hP0cg5mftAOL-JgOuoCzfzKGj2JpAyH9mDShL8hPM44Kcv3w-vm9zPWrVg4-iNeEZV-I0EqGliB2rocU_T7oVCKL87CkFeE7lvSbPQZS1jzQ5QsShk2HdOsjEaX4UyWiFiqNO-Z_ypJ0HjMhvAjg034VEh-0yPulKfXbfP0h_MreiGYW-_dT8p0NQqx__FxGBkXGMWnghx3_OieFhvi2eU1Qr7zUl6Q5Byvzi52vf2a_BANENgZQc2btO5l3QFHDb4-C46RxrsADxau7enzjKxaSSlbMUn0eAbezQ_52BUeFr7tSGFYbAKDMnrf_g&refId=0wF6uaryj8yl6vSyh5iUng%3D%3D&trackingId=WEbF4Ui9KTBriUr6DB2aWQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sr - ML e Otimização
+Sobre a vaga
+Por que trabalhar na Rentcars?Somos a maior plataforma de locação de veículos da América Latina e um dos maiores players mundiais do setor. Desde 2009, conectamos nossos clientes às melhores opções de carros para alugar.Hoje, estamos presentes em mais de 160 países! Somos parceiros das melhores e maiores locadoras, em mais de 5 mil cidades e 20 mil pontos de retirada em todo o mundo.Com sedes em Curitiba (PR) e em Amsterdã (na Holanda), somos globais e focados em excelência e inovação! Também somos Great Place to Work®, e certificados pelo B-Corp, o que reforça nosso compromisso com a sustentabilidade, diversidade e cuidado com nossos Renties - como chamamos nossos colaboradores.Procurando uma oportunidade de se desenvolver e ter uma jornada profissional incrível, com benefícios que se adaptam ao seu estilo de vida? Confira esta e acompanhe o processo seletivo.Você Ficará Responsável PorConduzir projetos inovadores em inteligência artificial e ciência de dados, desenvolvendo algoritmos que influenciam decisões estratégicas e operacionais.Aplicar conhecimentos em Machine Learning e otimização para criar soluções de recomendação de produtos, otimização de marketing, forecasting, pricing, clustering e análises de demandas comerciais.Projetar e implementar soluções complexas de ciência de dados para resolver problemas de negócios em colaboração com equipes de diversas áreas.Criar e aperfeiçoar algoritmos de Machine Learning e métodos avançados para atender às necessidades da organização.Liderar a implementação de modelos de Machine Learning em produção, garantindo a robustez e a eficácia das soluções.Promover práticas de MLOps para assegurar o monitoramento, automação e gestão pós-lançamento dos modelos.Trabalhar em estreita colaboração com equipes de negócios e tecnologia para desenvolver soluções que suportem a tomada de decisões e a estratégia organizacional.Atuar como ponto de contato para alinhar objetivos de dados com as necessidades do negócio, garantindo uma comunicação eficaz e resultados aplicáveis.O que esperamos de você (experiências, soft e hard skills):Graduação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins (Mestrado ou Doutorado são diferenciais).Necessário conhecimento em meta-heurísticas (algoritmos genéticos, simulated annealing, etc.), algoritmos determinísticos, programação dinâmica e outras técnicas de otimização aplicadas a problemas reais.Já ter implementado projetos de Ciência de Dados em Pricing é um diferencial.Inglês avançado.Experiência comprovada em plataformas/ambientes de Machine Learning, como: Scikit-learn, PyTorch, Amazon SageMaker, TensorFlow, Keras, etc.Experiência em MLOps, com conhecimento em Docker, CI/CD, pipelines e automação de deploy em ambientes de produção.Experiência com aplicações práticas de Machine Learning, incluindo técnicas de regressão, classificação, árvores de decisão, clustering, redes neurais, modelos Bayesianos e algoritmos de recomendação.Proficiência em Python e SQL.Experiência com mineração de dados e mineração de texto.Familiaridade com grandes volumes de dados e fluxos de trabalho de análise de dados.Experiência no desenvolvimento e entrega de projetos de aprendizado de máquina de ponta a ponta, desde a exploração de dados e definição de problemas até o deploy e monitoramento em produção.Familiaridade com tecnologia em nuvem e ambientes distribuídos, como AWS, Azure ou Google Cloud.Conhecimento em IA generativa é um diferencial.Fortes habilidades de comunicação e a capacidade de traduzir métodos e resultados complexos para diferentes públicos, tanto técnicos quanto não técnicos.Capacidade de construir relacionamentos com stakeholders de negócios para entender e traduzir suas necessidades em soluções de dados.Histórico comprovado de gestão pós-lançamento de modelos, com acompanhamento de desempenho e ajustes para maximizar os resultados.Conhecer metodologia CRISP-DM.A gente sabe que cada pessoa precisa de liberdade para fazer suas escolhas, por isso nosso programa de benefícios é flexível! Chamamos ele, carinhosamente, de Beneflex, e funciona assim: você tem alguns benefícios base, sem custo, e pontos para distribuir entre as opções que melhor te atendem!Benefícios Base(sem custo) Plano de saúde Unimed sem mensalidades para titular e dependentes, somente coparticipação (regional);(sem custo) Seguro de vida;(sem custo) Vale-refeição ou vale-alimentação (R$34,87 por dia trabalhado), sem descontos, com possibilidade de complementação;Opção por vale-transporte, com desconto de 3%.Amplie Suas Possibilidades ComMeu Pet Club, plano de saúde pet;Plano odontológico (Metlife), podendo incluir dependentes;Gympass para se exercitar e movimentar o corpo;VIK, app gamificado para estimular a prática de atividade física;InvestPass para auxiliar na organização financeira;Vale cultura, para turbinar seus momentos de lazer!Outros Benefícios, Válidos Para Todos Os RentiesRentieScholarship, auxílio financeiro para estudos (graduação, pós-graduação, idiomas ou certificações);Learning Rocks, plataforma com foco no desenvolvimento de soft skills;Udemy, plataforma de ensino para hard skills;Bônus anual atrelado a metas, management by objectives (MBO);Day Off de aniversário;Sem dress-code;Kit maternidade para gestantes, licença-maternidade estendida (6 meses) e auxílio de R$ 800 no mês de nascimento do bebê;Keiken, aplicativo de saúde e bem-estar, com assistência psicológica;RentieHunter, programa interno de indicações.Para Quem Está Na Sede, PresencialmenteFrutas frescas todos os dias;Máquina de café e chá à disposição;Espaços de descompressão (ping-pong, videogame, etc.);Happy hours e outras celebrações.Gostou?! Inscreva-se agora em nosso banco de talentos e acompanhe as novidades pelo e-mail - nossa principal ferramenta de comunicação. Atente-se às mensagens, você receberá atualizações periódicas.RENTCARS WITHOUT BARRIERSValorizamos a diversidade e oferecemos oportunidades iguais para todas as pessoas que se candidatam às nossas vagas, independente de raça, gênero, orientação sexual, aparência, nacionalidade, religião, idade, deficiências físicas e mentais, estado civil ou ideologia política.
+Por que trabalhar na Rentcars?
+
+
+
+
+
+
+
+
+
+
+Você Ficará Responsável Por
+
+
+Conduzir projetos inovadores em inteligência artificial e ciência de dados, desenvolvendo algoritmos que influenciam decisões estratégicas e operacionais.Aplicar conhecimentos em Machine Learning e otimização para criar soluções de recomendação de produtos, otimização de marketing, forecasting, pricing, clustering e análises de demandas comerciais.Projetar e implementar soluções complexas de ciência de dados para resolver problemas de negócios em colaboração com equipes de diversas áreas.Criar e aperfeiçoar algoritmos de Machine Learning e métodos avançados para atender às necessidades da organização.Liderar a implementação de modelos de Machine Learning em produção, garantindo a robustez e a eficácia das soluções.Promover práticas de MLOps para assegurar o monitoramento, automação e gestão pós-lançamento dos modelos.Trabalhar em estreita colaboração com equipes de negócios e tecnologia para desenvolver soluções que suportem a tomada de decisões e a estratégia organizacional.Atuar como ponto de contato para alinhar objetivos de dados com as necessidades do negócio, garantindo uma comunicação eficaz e resultados aplicáveis.
+Conduzir projetos inovadores em inteligência artificial e ciência de dados, desenvolvendo algoritmos que influenciam decisões estratégicas e operacionais.
+Conduzir projetos inovadores em inteligência artificial e ciência de dados, desenvolvendo algoritmos que influenciam decisões estratégicas e operacionais.
+Aplicar conhecimentos em Machine Learning e otimização para criar soluções de recomendação de produtos, otimização de marketing, forecasting, pricing, clustering e análises de demandas comerciais.
+Aplicar conhecimentos em Machine Learning e otimização para criar soluções de recomendação de produtos, otimização de marketing, forecasting, pricing, clustering e análises de demandas comerciais.
+Projetar e implementar soluções complexas de ciência de dados para resolver problemas de negócios em colaboração com equipes de diversas áreas.
+Projetar e implementar soluções complexas de ciência de dados para resolver problemas de negócios em colaboração com equipes de diversas áreas.
+Criar e aperfeiçoar algoritmos de Machine Learning e métodos avançados para atender às necessidades da organização.
+Criar e aperfeiçoar algoritmos de Machine Learning e métodos avançados para atender às necessidades da organização.
+Liderar a implementação de modelos de Machine Learning em produção, garantindo a robustez e a eficácia das soluções.
+Liderar a implementação de modelos de Machine Learning em produção, garantindo a robustez e a eficácia das soluções.
+Promover práticas de MLOps para assegurar o monitoramento, automação e gestão pós-lançamento dos modelos.
+Promover práticas de MLOps para assegurar o monitoramento, automação e gestão pós-lançamento dos modelos.
+Trabalhar em estreita colaboração com equipes de negócios e tecnologia para desenvolver soluções que suportem a tomada de decisões e a estratégia organizacional.
+Trabalhar em estreita colaboração com equipes de negócios e tecnologia para desenvolver soluções que suportem a tomada de decisões e a estratégia organizacional.
+Atuar como ponto de contato para alinhar objetivos de dados com as necessidades do negócio, garantindo uma comunicação eficaz e resultados aplicáveis.
+Atuar como ponto de contato para alinhar objetivos de dados com as necessidades do negócio, garantindo uma comunicação eficaz e resultados aplicáveis.
+
+
+
+O que esperamos de você (experiências, soft e hard skills):
+
+
+Graduação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins (Mestrado ou Doutorado são diferenciais).Necessário conhecimento em meta-heurísticas (algoritmos genéticos, simulated annealing, etc.), algoritmos determinísticos, programação dinâmica e outras técnicas de otimização aplicadas a problemas reais.Já ter implementado projetos de Ciência de Dados em Pricing é um diferencial.Inglês avançado.Experiência comprovada em plataformas/ambientes de Machine Learning, como: Scikit-learn, PyTorch, Amazon SageMaker, TensorFlow, Keras, etc.Experiência em MLOps, com conhecimento em Docker, CI/CD, pipelines e automação de deploy em ambientes de produção.Experiência com aplicações práticas de Machine Learning, incluindo técnicas de regressão, classificação, árvores de decisão, clustering, redes neurais, modelos Bayesianos e algoritmos de recomendação.Proficiência em Python e SQL.Experiência com mineração de dados e mineração de texto.Familiaridade com grandes volumes de dados e fluxos de trabalho de análise de dados.Experiência no desenvolvimento e entrega de projetos de aprendizado de máquina de ponta a ponta, desde a exploração de dados e definição de problemas até o deploy e monitoramento em produção.Familiaridade com tecnologia em nuvem e ambientes distribuídos, como AWS, Azure ou Google Cloud.Conhecimento em IA generativa é um diferencial.Fortes habilidades de comunicação e a capacidade de traduzir métodos e resultados complexos para diferentes públicos, tanto técnicos quanto não técnicos.Capacidade de construir relacionamentos com stakeholders de negócios para entender e traduzir suas necessidades em soluções de dados.Histórico comprovado de gestão pós-lançamento de modelos, com acompanhamento de desempenho e ajustes para maximizar os resultados.Conhecer metodologia CRISP-DM.
+Graduação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins (Mestrado ou Doutorado são diferenciais).
+Graduação em Ciência da Computação, Engenharia, Matemática, Estatística ou áreas afins (Mestrado ou Doutorado são diferenciais).
+Necessário conhecimento em meta-heurísticas (algoritmos genéticos, simulated annealing, etc.), algoritmos determinísticos, programação dinâmica e outras técnicas de otimização aplicadas a problemas reais.
+Necessário conhecimento em meta-heurísticas (algoritmos genéticos, simulated annealing, etc.), algoritmos determinísticos, programação dinâmica e outras técnicas de otimização aplicadas a problemas reais.
+Já ter implementado projetos de Ciência de Dados em Pricing é um diferencial.
+Já ter implementado projetos de Ciência de Dados em Pricing é um diferencial.
+Inglês avançado.
+Inglês avançado.
+Experiência comprovada em plataformas/ambientes de Machine Learning, como: Scikit-learn, PyTorch, Amazon SageMaker, TensorFlow, Keras, etc.
+Experiência comprovada em plataformas/ambientes de Machine Learning, como: Scikit-learn, PyTorch, Amazon SageMaker, TensorFlow, Keras, etc.
+Experiência em MLOps, com conhecimento em Docker, CI/CD, pipelines e automação de deploy em ambientes de produção.
+Experiência em MLOps, com conhecimento em Docker, CI/CD, pipelines e automação de deploy em ambientes de produção.
+Experiência com aplicações práticas de Machine Learning, incluindo técnicas de regressão, classificação, árvores de decisão, clustering, redes neurais, modelos Bayesianos e algoritmos de recomendação.
+Experiência com aplicações práticas de Machine Learning, incluindo técnicas de regressão, classificação, árvores de decisão, clustering, redes neurais, modelos Bayesianos e algoritmos de recomendação.
+Proficiência em Python e SQL.
+Proficiência em Python e SQL.
+Experiência com mineração de dados e mineração de texto.
+Experiência com mineração de dados e mineração de texto.
+Familiaridade com grandes volumes de dados e fluxos de trabalho de análise de dados.
+Familiaridade com grandes volumes de dados e fluxos de trabalho de análise de dados.
+Experiência no desenvolvimento e entrega de projetos de aprendizado de máquina de ponta a ponta, desde a exploração de dados e definição de problemas até o deploy e monitoramento em produção.
+Experiência no desenvolvimento e entrega de projetos de aprendizado de máquina de ponta a ponta, desde a exploração de dados e definição de problemas até o deploy e monitoramento em produção.
+Familiaridade com tecnologia em nuvem e ambientes distribuídos, como AWS, Azure ou Google Cloud.
+Familiaridade com tecnologia em nuvem e ambientes distribuídos, como AWS, Azure ou Google Cloud.
+Conhecimento em IA generativa é um diferencial.
+Conhecimento em IA generativa é um diferencial.
+Fortes habilidades de comunicação e a capacidade de traduzir métodos e resultados complexos para diferentes públicos, tanto técnicos quanto não técnicos.
+Fortes habilidades de comunicação e a capacidade de traduzir métodos e resultados complexos para diferentes públicos, tanto técnicos quanto não técnicos.
+Capacidade de construir relacionamentos com stakeholders de negócios para entender e traduzir suas necessidades em soluções de dados.
+Capacidade de construir relacionamentos com stakeholders de negócios para entender e traduzir suas necessidades em soluções de dados.
+Histórico comprovado de gestão pós-lançamento de modelos, com acompanhamento de desempenho e ajustes para maximizar os resultados.
+Histórico comprovado de gestão pós-lançamento de modelos, com acompanhamento de desempenho e ajustes para maximizar os resultados.
+Conhecer metodologia CRISP-DM.
+Conhecer metodologia CRISP-DM.
+
+
+
+
+
+Benefícios Base
+
+
+(sem custo) Plano de saúde Unimed sem mensalidades para titular e dependentes, somente coparticipação (regional);(sem custo) Seguro de vida;(sem custo) Vale-refeição ou vale-alimentação (R$34,87 por dia trabalhado), sem descontos, com possibilidade de complementação;Opção por vale-transporte, com desconto de 3%.
+(sem custo) Plano de saúde Unimed sem mensalidades para titular e dependentes, somente coparticipação (regional);
+(sem custo) Plano de saúde Unimed sem mensalidades para titular e dependentes, somente coparticipação (regional);
+(sem custo) Seguro de vida;
+(sem custo) Seguro de vida;
+(sem custo) Vale-refeição ou vale-alimentação (R$34,87 por dia trabalhado), sem descontos, com possibilidade de complementação;
+(sem custo) Vale-refeição ou vale-alimentação (R$34,87 por dia trabalhado), sem descontos, com possibilidade de complementação;
+Opção por vale-transporte, com desconto de 3%.
+Opção por vale-transporte, com desconto de 3%.
+
+
+
+Amplie Suas Possibilidades Com
+
+
+Meu Pet Club, plano de saúde pet;Plano odontológico (Metlife), podendo incluir dependentes;Gympass para se exercitar e movimentar o corpo;VIK, app gamificado para estimular a prática de atividade física;InvestPass para auxiliar na organização financeira;Vale cultura, para turbinar seus momentos de lazer!
+Meu Pet Club, plano de saúde pet;
+Meu Pet Club, plano de saúde pet;
+Plano odontológico (Metlife), podendo incluir dependentes;
+Plano odontológico (Metlife), podendo incluir dependentes;
+Gympass para se exercitar e movimentar o corpo;
+Gympass para se exercitar e movimentar o corpo;
+VIK, app gamificado para estimular a prática de atividade física;
+VIK, app gamificado para estimular a prática de atividade física;
+InvestPass para auxiliar na organização financeira;
+InvestPass para auxiliar na organização financeira;
+Vale cultura, para turbinar seus momentos de lazer!
+Vale cultura, para turbinar seus momentos de lazer!
+
+
+
+Outros Benefícios, Válidos Para Todos Os Renties
+
+
+RentieScholarship, auxílio financeiro para estudos (graduação, pós-graduação, idiomas ou certificações);Learning Rocks, plataforma com foco no desenvolvimento de soft skills;Udemy, plataforma de ensino para hard skills;Bônus anual atrelado a metas, management by objectives (MBO);Day Off de aniversário;Sem dress-code;Kit maternidade para gestantes, licença-maternidade estendida (6 meses) e auxílio de R$ 800 no mês de nascimento do bebê;Keiken, aplicativo de saúde e bem-estar, com assistência psicológica;RentieHunter, programa interno de indicações.
+RentieScholarship, auxílio financeiro para estudos (graduação, pós-graduação, idiomas ou certificações);
+RentieScholarship, auxílio financeiro para estudos (graduação, pós-graduação, idiomas ou certificações);
+Learning Rocks, plataforma com foco no desenvolvimento de soft skills;
+Learning Rocks, plataforma com foco no desenvolvimento de soft skills;
+Udemy, plataforma de ensino para hard skills;
+Udemy, plataforma de ensino para hard skills;
+Bônus anual atrelado a metas, management by objectives (MBO);
+Bônus anual atrelado a metas, management by objectives (MBO);
+Day Off de aniversário;
+Day Off de aniversário;
+Sem dress-code;
+Sem dress-code;
+Kit maternidade para gestantes, licença-maternidade estendida (6 meses) e auxílio de R$ 800 no mês de nascimento do bebê;
+Kit maternidade para gestantes, licença-maternidade estendida (6 meses) e auxílio de R$ 800 no mês de nascimento do bebê;
+Keiken, aplicativo de saúde e bem-estar, com assistência psicológica;
+Keiken, aplicativo de saúde e bem-estar, com assistência psicológica;
+RentieHunter, programa interno de indicações.
+RentieHunter, programa interno de indicações.
+
+
+
+Para Quem Está Na Sede, Presencialmente
+
+
+Frutas frescas todos os dias;Máquina de café e chá à disposição;Espaços de descompressão (ping-pong, videogame, etc.);Happy hours e outras celebrações.
+Frutas frescas todos os dias;
+Frutas frescas todos os dias;
+Máquina de café e chá à disposição;
+Máquina de café e chá à disposição;
+Espaços de descompressão (ping-pong, videogame, etc.);
+Espaços de descompressão (ping-pong, videogame, etc.);
+Happy hours e outras celebrações.
+Happy hours e outras celebrações.
+
+
+
+
+
+RENTCARS WITHOUT BARRIERS
+
+

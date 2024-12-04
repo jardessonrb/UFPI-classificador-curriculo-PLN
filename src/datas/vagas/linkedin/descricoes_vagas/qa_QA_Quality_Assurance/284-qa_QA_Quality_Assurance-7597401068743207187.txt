@@ -1,0 +1,163 @@
+link-https://www.linkedin.com/jobs/view/4042270546/?eBP=CwEAAAGS7kcA97TKPbPUSXRMFDW1eo1AFr6uZhy-H31buvnEbf2IdXYclBEb_bG97ISaoOzsVK4fdTjt1ApD0dz3DmLpIM2N7I_9QRI0u2lpJSCh01I5RG-Tk14mCx5ibWZlc4AjV4jqXX3BV8bN-_Hgq1FNgJ4-MQketBZJnSab5aWbFG2sp44Zm9rgw26DPEd791TIfxHlymanizZxUQ1CsOtenPzdpnNEt9gwigIz5zvnYjvBWCV1MLB5N8-gKRC8OBsBl7r4T4xqf-RyAknufg6ekEAkOuM6WytDHQvcdWPCjS2c4msIzbgmqrK-Wv9X4UuwqifyHF889QCLQRArYONSR6kEXD0UBf0kWUnLL4Zf4oxawFlEILWlqK4wZyTMQOFVTF18kL75b91dBQJRu4t1PhfdP2UKXytUcpTDKwIKgBX4h0k5Jb1n4MKWt2nXgTqukdmuw-Yud8aBkmk&refId=eQnApuPERD5zpy03fDxE3A%3D%3D&trackingId=Ig2NTLKhAXY3TEiG00fSuQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Testes (QA) Junior/Pleno - Vaga também para PCD
+Sobre a vaga
+Aqui na Agrotools é assim…A cada dia, um novo desafio surge, um novo projeto inovador começa.Somos ousados para buscar superar nossos objetivos e crescer exponencialmente.Entregamos resultados de excelência, comprometidos em atingir um crescimento sustentável e rentável.Nós acertamos e erramos como equipe e crescemos com a empresa.Assumimos riscos, valorizamos a experimentação e incentivamos fazer coisas que nunca foram feitas antes.Adaptação e aprendizado contínuo é como vamos sobreviver e prosperar juntos.Caminhamos unidos na mesma direção para alcançar nosso propósito.Sabemos que a força da Agrotools está na experiência e conhecimento de cada Agrotooler de forma combinada e que nossos melhores resultados são produzidos quando atuamos de forma integrada e colaborativa.Aqui você vai ser quem você é... Afinal, nossa gente é o que nos torna únicos!Na Agrotools nós sonhamos grande!Junte-se a nós para construir e fazer parte dessa história!#VenhaSerUmAgrotoolerResponsabilidades e atribuiçõesRealização de testes em projetos;Criação de scripts para Automatização de testes;Criação de report detalhado;Criação de gráficos de acompanhamento;Compartilhamento de conhecimento para equipe a partir de apresentações;Elaborar estimativas para projetos de testes;Validação dos sistemas para garantir a qualidade da entrega;Ser responsável por atividades de modelagem e execução de testes funcionais e automação de testes, de acordo com a metodologia e framework definidos;Conduzir todas as atividades relacionadas a testes e reportar status;Buscar soluções para agregar valor aos processos de qualidade;Organizar e controlar demandas de Testes para Fábrica de testes;Criação / Manutenção de planos de testes.Requisitos e qualificaçõesExperiência profissional em área de testes e qualidade de software;Criação e validação de casos de testes;Utilização do Azure Devops;Conhecimento em Testes Exploratórios.Conhecimento em Testes Regressivos.Conhecimento em Testes Automatizados.Criação / Manutenção de planos de testes.Informações adicionaisInformações adicionais:Queremos que sua história naAgrotoolsseja marcada por experiências únicas.Aqui o nosso regime de contratação é pela CLT epreparamos umconjunto de benefícios para você!Confira o que oferecemos para sua saúde ficar em dia e o bem-estar lá em cima!🩺Saúde é o que interessa e priorizamos a sua! Pensando nisso, oferecemos o convênio médicoBradesco Saúde, com cobertura nacional;🦷 E como sabemos que a vida fica mais alegre com sorrisos, você também pode ter o convênio odontológicoBradesco Dental;🙏🏻Queremos estar sempre por perto, dando suporte até em momentos mais desafiadores. Conte comseguro de vida e assistência funeral;🏋🏻‍♀️Para o seu bem-estar ser completo, escolha aquela atividade que mais te deixa feliz noGympass.Alimentação ou refeição? Você divide como quiser!😋 Temos oCartão Flash, para você decidir onde e como usar. Seja alimentação ou refeição, no seu mercado preferido ou naquele restaurante especial.Vem decolar com a Agrotools!🚀 Seja o protagonista da sua jornada profissional! Oferecemos oportunidades integradas a umplano de carreiraque identifica seus talentos e destaca o melhor que há em você;🎓 Queremos seu desenvolvimento a todo vapor. Por isso, temosparceria com instituições de ensino.De conforto nós entendemos!💻 Aquela área de trabalho remoto bem equipada fica por nossa conta. Enviamos para você notebook, mouse, mousepad e fone de ouvido;✌🏻 Alô, descansinho! Todo esforço deve ser recompensado, não é? Por isso, nós trabalhamos combanco de horas a cada 6 meses, de modo flexível e acordado;🏡 Também temauxílio home officemensal de R$ 100 esperando por você.👶🏻 Hey, papais!! Não se preocupa com a logística da creche, a gente tá aqui pra ajudar, oferecemos umauxilio crecheno valor de R$ 250;🎈 Quem quer se preocupar com compromissos quando pode estar celebrando a própria existência, né? Que tal pegar um dia útil do mês de seu aniversário e curtir com zero responsabilidades;👊🏼É aquilo né, gente boa só conhece gente boa! Então, bora indicar quem você conhece? Além de indicar novos talentos para uma AgTech, você ainda ganha R$400,00.
+Aqui na Agrotools é assim…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#VenhaSerUmAgrotooler
+
+
+Responsabilidades e atribuições
+
+
+Realização de testes em projetos;Criação de scripts para Automatização de testes;Criação de report detalhado;Criação de gráficos de acompanhamento;Compartilhamento de conhecimento para equipe a partir de apresentações;Elaborar estimativas para projetos de testes;Validação dos sistemas para garantir a qualidade da entrega;Ser responsável por atividades de modelagem e execução de testes funcionais e automação de testes, de acordo com a metodologia e framework definidos;Conduzir todas as atividades relacionadas a testes e reportar status;Buscar soluções para agregar valor aos processos de qualidade;Organizar e controlar demandas de Testes para Fábrica de testes;Criação / Manutenção de planos de testes.
+Realização de testes em projetos;
+Realização de testes em projetos;
+Criação de scripts para Automatização de testes;
+Criação de scripts para Automatização de testes;
+Criação de report detalhado;
+Criação de report detalhado;
+Criação de gráficos de acompanhamento;
+Criação de gráficos de acompanhamento;
+Compartilhamento de conhecimento para equipe a partir de apresentações;
+Compartilhamento de conhecimento para equipe a partir de apresentações;
+Elaborar estimativas para projetos de testes;
+Elaborar estimativas para projetos de testes;
+Validação dos sistemas para garantir a qualidade da entrega;
+Validação dos sistemas para garantir a qualidade da entrega;
+Ser responsável por atividades de modelagem e execução de testes funcionais e automação de testes, de acordo com a metodologia e framework definidos;
+Ser responsável por atividades de modelagem e execução de testes funcionais e automação de testes, de acordo com a metodologia e framework definidos;
+Conduzir todas as atividades relacionadas a testes e reportar status;
+Conduzir todas as atividades relacionadas a testes e reportar status;
+Buscar soluções para agregar valor aos processos de qualidade;
+Buscar soluções para agregar valor aos processos de qualidade;
+Organizar e controlar demandas de Testes para Fábrica de testes;
+Organizar e controlar demandas de Testes para Fábrica de testes;
+Criação / Manutenção de planos de testes.
+Criação / Manutenção de planos de testes.
+
+
+
+Requisitos e qualificações
+
+
+Experiência profissional em área de testes e qualidade de software;Criação e validação de casos de testes;Utilização do Azure Devops;Conhecimento em Testes Exploratórios.Conhecimento em Testes Regressivos.Conhecimento em Testes Automatizados.Criação / Manutenção de planos de testes.
+Experiência profissional em área de testes e qualidade de software;
+Experiência profissional em área de testes e qualidade de software;
+Criação e validação de casos de testes;
+Criação e validação de casos de testes;
+Utilização do Azure Devops;
+Utilização do Azure Devops;
+Conhecimento em Testes Exploratórios.
+Conhecimento em Testes Exploratórios.
+Conhecimento em Testes Regressivos.
+Conhecimento em Testes Regressivos.
+Conhecimento em Testes Automatizados.
+Conhecimento em Testes Automatizados.
+Criação / Manutenção de planos de testes.
+Criação / Manutenção de planos de testes.
+
+
+
+Informações adicionais
+
+
+Informações adicionais:
+
+
+
+
+Agrotools
+
+
+
+Aqui o nosso regime de contratação é pela CLT e
+
+conjunto de benefícios para você!
+
+
+
+
+Confira o que oferecemos para sua saúde ficar em dia e o bem-estar lá em cima!
+
+
+
+Bradesco Saúde
+
+
+
+Bradesco Dental
+
+
+
+seguro de vida e assistência funeral
+
+
+
+Gympass
+
+
+Alimentação ou refeição? Você divide como quiser!
+
+
+
+Cartão Flash
+
+
+Vem decolar com a Agrotools!
+
+
+
+plano de carreira
+
+
+
+
+parceria com instituições de ensino
+
+
+De conforto nós entendemos!
+
+
+
+
+
+banco de horas a cada 6 meses
+
+
+
+auxílio home office
+
+
+
+
+auxilio creche
+
+
+
+
+

@@ -1,0 +1,137 @@
+link-https://www.linkedin.com/jobs/view/4058548098/?eBP=CwEAAAGS7jSAoL35o1etfhH1b4vwzZyum_qgWpdzAXWZHlCjoXBVpwOObfLzCN-Y5RiPkLD7jDPqahwbPTsngwVFbGtr6mkwTrR5N-f7cvcYNrg25jowNA3nu1YIak95Sbt9qQ8VqxpEdUIvRlJZhCx2vCHBa-5ulHC6qkZqdqqWwn7ra5pqocAZLDhTzay9VSmQiRRE2PrYwZuLxTS5YI9-VIcfXwKKx824H7mjUAnH4Jt38JKPZqKinfqk9iG5Eef_wpUlXRuEcGNFgnL-1YOX9pNZUwEWTQHOt13q_KbHdosCe-adcZJ7iOrXWEMB2NsHzdgcpqpEjk_afJ16DGHaZqG9SWmN8UghSVbdKZPHzT784kD0Robfb1csLfYlnRcEsrJEMOem-IqSJd4-FHdRMFcXZmdkdhmXnTZbmneJ7uEo2WqqrU0pksE51hvzl4jGR7_2reUel8gwujnqX4QQWxVPnXMWLIGwN4S0LzGQqag27DRHKWVulmIKNM0xTVoONZldV1Tr5A&refId=s1zHu1Q34E0hJG9ffd%2Bv7g%3D%3D&trackingId=BYieHCWfmOkvc3N642k82w%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Pleno - Talend (Híbrido)
+Sobre a vaga
+Um time que faz parte da mudançaAbraçamos o poder da mudança para criar valor e sucesso compartilhado para nossos clientes, funcionários, acionistas, parceiros e comunidades. Contamos com a maior rede mundial de centros de tecnologia avançada e operações inteligentes.Provocamos a mudança no mercadoTrabalhamos juntos mundo afora para fazer um mundo de diferenças. A Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança. Ao combinar experiência incomparável e habilidades especializadas em mais de 40 setores, oferecemos serviços em Estratégia e Consultoria, Tecnologia, Operações, Industry X e a Accenture Song.Ao trabalharmos juntos, a mudança se torna a fonte de progresso mais dinâmica e poderosa que você tem. Somos mais de 738mil pessoas, presentes em mais de 120 países, engajados em fazer inovação todos os dias e transformar o mundo em um lugar melhor para as pessoas.Junte-se a nós - SongJunte-se a nós e dê vida a ideias ousadas de maior impacto através do potencial ilimitado de criatividade, tecnologia e inteligência. Nosso time está repleto de designers, criadores e estrategistas ousados, curiosos e imaginativos que tornam as marcas relevantes para hoje e amanhã. Trabalhe para encontrar novas maneiras de moldar e entregar o propósito da marca por meio de ideias inovadoras que impactam toda a experiência do cliente. Colabore para construir e compartilhar insights valiosos para preencher os espaços em branco com ideias criativas.O que você vai fazer no seu dia a dia:Extrair dados de várias fontes (bases de dados, APIs, arquivos etc.) e realizar a limpeza e transformação para análise;Realizar análises exploratórias para identificar padrões, tendências e avaliar a qualidade dos dados;Desenvolver, treinar e validar modelos estatísticos e de machine learning para prever resultados futuros ou comportamentos (por exemplo: de vendas, de investimento, de histórico de compras de clientes e jornadas de consumo, de preço de produtos e serviços, de concorrência).Monitorar o desempenho dos modelos implementados e indicadores de negócio, buscando oportunidades e melhorias de processos e resultados;Colaborar com engenheiros de dados, analistas de negócios e lideranças do projeto para entender as necessidades de dados e fornecer soluções baseadas em dados.Além disso, é desejável:Proficiência em linguagens de programação como Python, R, SQL, etc.Experiência com bibliotecas e frameworks de machine learning (TensorFlow, PyTorch, Scikit-Learn, etc.)Conhecimento em bancos de dados relacionais e não relacionais.Familiaridade com ferramentas de visualização de dados (Tableau, Power BI, Matplotlib, etc.)Benefícios:Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);Assistência Odontológica;Vale Refeição ou Alimentação sem desconto;Seguro de vida;Previdência Privada;Gympass;Opção de compra de ações da empresa com descontoDesconto Farmácia*Auxílio Creche*Parceria com escola de idiomas*Licença Maternidade e Paternidade EstendidaPPR*Conforme política vigenteLocalidade da vaga:São PauloBuscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico, com excelência na entrega e inovação presentes em seu dia a dia.Valorizamos competências independentemente de raça, idade, gênero, orientação sexual, credo, deficiência e convicção política. A diversidade das nossas pessoas é o que nos permite cumprir a promessa da tecnologia e da criatividade humana.Reconhecemos as características únicas dos indivíduos, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo.
+Um time que faz parte da mudança
+
+
+
+
+Provocamos a mudança no mercado
+
+
+
+
+
+
+Junte-se a nós - Song
+
+
+
+
+O que você vai fazer no seu dia a dia:
+
+
+
+Extrair dados de várias fontes (bases de dados, APIs, arquivos etc.) e realizar a limpeza e transformação para análise;
+Extrair dados de várias fontes (bases de dados, APIs, arquivos etc.) e realizar a limpeza e transformação para análise;
+
+
+Realizar análises exploratórias para identificar padrões, tendências e avaliar a qualidade dos dados;
+Realizar análises exploratórias para identificar padrões, tendências e avaliar a qualidade dos dados;
+
+
+Desenvolver, treinar e validar modelos estatísticos e de machine learning para prever resultados futuros ou comportamentos (por exemplo: de vendas, de investimento, de histórico de compras de clientes e jornadas de consumo, de preço de produtos e serviços, de concorrência).
+Desenvolver, treinar e validar modelos estatísticos e de machine learning para prever resultados futuros ou comportamentos (por exemplo: de vendas, de investimento, de histórico de compras de clientes e jornadas de consumo, de preço de produtos e serviços, de concorrência).
+
+
+Monitorar o desempenho dos modelos implementados e indicadores de negócio, buscando oportunidades e melhorias de processos e resultados;
+Monitorar o desempenho dos modelos implementados e indicadores de negócio, buscando oportunidades e melhorias de processos e resultados;
+
+
+Colaborar com engenheiros de dados, analistas de negócios e lideranças do projeto para entender as necessidades de dados e fornecer soluções baseadas em dados.
+Colaborar com engenheiros de dados, analistas de negócios e lideranças do projeto para entender as necessidades de dados e fornecer soluções baseadas em dados.
+
+
+
+Além disso, é desejável:
+
+
+
+Proficiência em linguagens de programação como Python, R, SQL, etc.
+Proficiência em linguagens de programação como Python, R, SQL, etc.
+
+
+Experiência com bibliotecas e frameworks de machine learning (TensorFlow, PyTorch, Scikit-Learn, etc.)
+Experiência com bibliotecas e frameworks de machine learning (TensorFlow, PyTorch, Scikit-Learn, etc.)
+
+
+Conhecimento em bancos de dados relacionais e não relacionais.
+Conhecimento em bancos de dados relacionais e não relacionais.
+
+
+Familiaridade com ferramentas de visualização de dados (Tableau, Power BI, Matplotlib, etc.)
+Familiaridade com ferramentas de visualização de dados (Tableau, Power BI, Matplotlib, etc.)
+
+
+
+Benefícios:
+
+
+
+Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);
+Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);
+
+
+Assistência Odontológica;
+Assistência Odontológica;
+
+
+Vale Refeição ou Alimentação sem desconto;
+Vale Refeição ou Alimentação sem desconto;
+
+
+Seguro de vida;
+Seguro de vida;
+
+
+Previdência Privada;
+Previdência Privada;
+
+
+Gympass;
+Gympass;
+
+
+Opção de compra de ações da empresa com desconto
+Opção de compra de ações da empresa com desconto
+
+
+Desconto Farmácia*
+Desconto Farmácia*
+
+
+Auxílio Creche*
+Auxílio Creche*
+
+
+Parceria com escola de idiomas*
+Parceria com escola de idiomas*
+
+
+Licença Maternidade e Paternidade Estendida
+Licença Maternidade e Paternidade Estendida
+
+
+PPR*
+PPR*
+
+
+Conforme política vigente
+Conforme política vigente
+
+
+
+Localidade da vaga:
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+link-https://www.linkedin.com/jobs/view/4056872314/?eBP=CwEAAAGS7jTqlaXHUGJlzp2DUsfy3yzl3XJ0-6JQPp3fmxPgwg1TAF_CsoUS4aa4EFOLNfThh3UWtm5z5SxjDLW12DnlQOgfhnXNvtAd_Ba5DmGzw7_QEIu94Tyq8fdl44RRKRh0-0RNRzEajQGAhKL8nJofQgfj15bzElyDan6WuAG2y27ZPbhYXamZg5jXo6S4jIo8LrOxFdNIv1r2WNqYaYd4hGyUWk-Ao_tCw2McI4Vgg5JmgShhCiVRSfPtQA139AXAQKuTh3X5MsJiQrUxy_ppAbbucMGFxDDQsESOZBI5FQ5GgYKkqN6OwERPtvNsl3CMN3AGeKjo3Y-iEvrBvNjXOLO3Nn6Fl9NbKrZ3ddH9w-JCOQ_1V3a4ODp2PE5l1n4sNQycmFSHzUGx3sUelL_0iBOSUpE0qFDhVDJGuddZvf9qm6-_5FuUjrx5SRK8eQs7DDseHnpOfSEI1hiovwM47P4kNcJXgsbPgU3tfh03WlfPojnov9WO13o&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=Kb7OdDhVZZCRxkHlfnwWug%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Cientista de Dados Sênior
+Sobre a vaga
+Somos inspired by tech powered by people. Por isso, precisamos de pessoas apaixonados por desafios e com sede de aprendizado contínuo.Buscamos por novos makers para sonharem com a gente, que enxerguem além do óbvio e que estejam prontos para se juntar a nós nessa jornada de transformação e crescimento. Estamos expandindo nossos horizontes e buscamos pessoas que compartilhem dessa mesma paixão pela tecnologia e pelo aprendizado contínuo. Se você se encaixa nesse perfil, venha fazer parte do nosso time!RESPONSABILIDADESDesenvolver e implementar modelos de machine learning para resolver problemas de negócios;Analisar grandes volumes de dados e extrair insights acionáveis;Trabalhar em colaboração com equipes de produto e engenharia para integrar soluções de dados;Mentorar e orientar membros da equipe.REQUISITOS E QUALIFICAÇÕESGraduação em Estatística, Matemática, Ciência da Computação, Engenharias ou área relacionada;Experiência em Data Science;Proficiência em Python e bibliotecas como Pandas, Scikit-learn e TensorFlow;Experiência com SQL e bancos de dados relacionais;Experiência em ferramentas AWS, como Redshift, Airflow, Glue, Sagemaker, entre outras;Habilidade em visualização de dados com ferramentas como Power BI;Pensamento crítico e habilidades analíticas;Capacidade de trabalhar de forma independente e em equipe;Interesse em aprendizado contínuo e atualização sobre novas tecnologias.
+
+
+
+
+
+
+Desenvolver e implementar modelos de machine learning para resolver problemas de negócios;Analisar grandes volumes de dados e extrair insights acionáveis;Trabalhar em colaboração com equipes de produto e engenharia para integrar soluções de dados;Mentorar e orientar membros da equipe.
+Desenvolver e implementar modelos de machine learning para resolver problemas de negócios;
+Desenvolver e implementar modelos de machine learning para resolver problemas de negócios;
+Analisar grandes volumes de dados e extrair insights acionáveis;
+Analisar grandes volumes de dados e extrair insights acionáveis;
+Trabalhar em colaboração com equipes de produto e engenharia para integrar soluções de dados;
+Trabalhar em colaboração com equipes de produto e engenharia para integrar soluções de dados;
+Mentorar e orientar membros da equipe.
+Mentorar e orientar membros da equipe.
+
+
+
+
+Graduação em Estatística, Matemática, Ciência da Computação, Engenharias ou área relacionada;Experiência em Data Science;Proficiência em Python e bibliotecas como Pandas, Scikit-learn e TensorFlow;Experiência com SQL e bancos de dados relacionais;Experiência em ferramentas AWS, como Redshift, Airflow, Glue, Sagemaker, entre outras;Habilidade em visualização de dados com ferramentas como Power BI;Pensamento crítico e habilidades analíticas;Capacidade de trabalhar de forma independente e em equipe;Interesse em aprendizado contínuo e atualização sobre novas tecnologias.
+Graduação em Estatística, Matemática, Ciência da Computação, Engenharias ou área relacionada;
+Graduação em Estatística, Matemática, Ciência da Computação, Engenharias ou área relacionada;
+Experiência em Data Science;
+Experiência em Data Science;
+Proficiência em Python e bibliotecas como Pandas, Scikit-learn e TensorFlow;
+Proficiência em Python e bibliotecas como Pandas, Scikit-learn e TensorFlow;
+Experiência com SQL e bancos de dados relacionais;
+Experiência com SQL e bancos de dados relacionais;
+Experiência em ferramentas AWS, como Redshift, Airflow, Glue, Sagemaker, entre outras;
+Experiência em ferramentas AWS, como Redshift, Airflow, Glue, Sagemaker, entre outras;
+Habilidade em visualização de dados com ferramentas como Power BI;
+Habilidade em visualização de dados com ferramentas como Power BI;
+Pensamento crítico e habilidades analíticas;
+Pensamento crítico e habilidades analíticas;
+Capacidade de trabalhar de forma independente e em equipe;
+Capacidade de trabalhar de forma independente e em equipe;
+Interesse em aprendizado contínuo e atualização sobre novas tecnologias.
+Interesse em aprendizado contínuo e atualização sobre novas tecnologias.

@@ -1,0 +1,158 @@
+link-https://www.linkedin.com/jobs/view/4054423019/?eBP=CwEAAAGS7idhwvaejcVCjS6XZ_kQ4E7pNbnqMJV2eRk6azl6OFtZadRN46UG_U_vx4U40-GK6m7zARUJmyXlcXP9ZwiVVn2WhO10AXYuSaX8YJxnbNmz-MwMkfuZxmeXjObXugL7mMCrrGQf7LGEE4-T-Plp-bzblnTRc_FBgpmUii6jAYU7sPkdEqGhwoHwJ4D3z_VIyieU53xx-RVdSJAQV-7domY2C1ZrJ5LkhGWnhWYhwVOrvV21hETMRWl22xyCfgX8yflAEBkSQy4o5GZLKUdynKyDhauw8hME8Foc9u2CBWCI9twPVfD5XKnnObTg0Fvl3UfAvJsGRy0IqseDYNYSxst7eW_Qzn7aDvjnWDb4udooIK697jhZJtx2zByevHYs6Q2Je2rRUN29wrsRp9NPGSkQbhy8Cux-G9FxIwO9Ms6gI5V5MyUqPGdmwKTv1jlhMmvcmDzuJ0qHj9xVKBDWjsvzk9cOiLv38OrP5LugTcIPUv-ZHguTjPTauTGegxVh7zF7P84Y&refId=7wKlBSPQNZnQiB7yybej2w%3D%3D&trackingId=JcGIW8K4jyXBSETyZMzn8w%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados - PCD
+Sobre a vaga
+Job DescriptionComo é a área:Realizar Desenvolvimento e modelagem de dados para construção de dashboards e análises para vários setores.Desenvolver reports e auxiliar na governança dos dados;Extrair insights de bases de dados ajudando a traduzir em visualização/dashboards, metricas e objetivos;Responsibilities and assignmentsComo Será o Seu Dia a DiaCriar análise de dados e estatísticas para extrair conclusões e recomendações através da criação de reports, dashboards e apresentações baseado em sua maioria em dados estruturados e com alta complexidade afim gerar ações para a melhoria de resultados e processos da companhia.Requirements And QualificationsPara este desafio, você precisa ter:Ensino Médio completoEnsino Superior CompletoConhecimento avançado em Excel e noções de VBAConhecimento sólido em SQLGrande capacidade de desenvolvimento de visualização de dados em PowerPoint e dashboards em ferramentas de BI Self-service BI como Qlik Sense, PowerBI.Ter noção de manipulação de dados com ferramentas de ETL como Pentaho.Capacidade de colaboração e compreensão de necessidades.Grande capacidade de comunicação e escrita (data storytelling);Conhecimento sólido em SQL, R e Python;Ser capaz de manipular dados com ferramentas de ETL como Pentaho;Compreensão básica de desenho experimental e conhecimento intermediario de métodos estatísticos.Capacidade de construir modelos para detectar anomalias e padrões.Conhecimento básico sobre as melhores práticas de limpeza de dados.Conhecimento analítico para detecção de anomalias, análise de séries temporais, classificação etc.Conhecimento em processos de Descoberta de Dados (KDD)Você Se Destaca Se TiverSuperior em Matemática, Economia, Estatística, Engenharia, Ciência da Computação ou áreas afinsAdditional informationModelo de trabalho presencial para São José dos Campos / SP.BenefíciosSeguro de VidaConvênio MédicoConvênio OdontológicoBenefício VacinaBenefício FarmáciaGympassCartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)Refeitório na empresaAuxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)PLR (Participação de Lucros e Resultados)Previdência PrivadaCooperativaEMpower (plataforma interna de treinamento e desenvolvimento)Precisa de suporte com a plataforma Gupy? Acesse o link abaixo:Página Central de Suporte ao CandidatoSite dedicado a guiar e orientar a pessoa candidata sobre todas as ferramentas:https://support-candidates.gupy.io/hc/pt-brProcess stagesStep 1: Registration1RegistrationStep 2: Triagem (Screening)2Triagem (Screening)Step 3: Análise de Documentação3Análise de DocumentaçãoStep 4: Análise de Perfil (Talent Acquisition)4Análise de Perfil (Talent Acquisition)Step 5: Entrevista com o Time5Entrevista com o TimeStep 6: Finalistas6FinalistasStep 7: Hiring7HiringQUEREMOS QUE VOCÊ VOE CADA VEZ MAIS ALTOSomos uma das maiores empresas aeroespaciais do mundo graças à dedicação de pessoas que possuem uma paixão genuína por superar o impossível. Foi assim desde o início e seguimos norteados pelo desejo de encontrar pessoas que vivem pelo desafio.Nascemos do sonho de transformar o Brasil em um país com a mais alta tecnologia. Quando tudo parecia impossível, sonhamos alto e nossos profissionais fizeram a companhia alcançar novas altitudes. Não há outra maneira de descrever o que nos impulsiona: Desafiar, Criar e Superar.O nosso sonho continua e acreditamos que todo mundo tem potencial para fazer a diferença. Por isso, cada vez mais, buscamos construir times diversos, que sejam representativos e valorizem a história e as singularidades de todas as pessoas, para que elas possam viver os seus sonhos junto com a gente.Aqui, todos têm oportunidade para crescer, se desenvolver e voar alto. Estamos atentos às etapas da vida profissional e aos diferentes momentos de carreira de todas as pessoas, oferecendoprogramas educacionais e projetos especiais. Além disso, temos frequente oportunidade de integração cultural em âmbito global e desenvolvimento pessoal para a evolução de carreira.Conheça nossos programas e as vagas abertas no Brasil e no mundo. Todas as posições estão disponíveis para pessoas que desejam desafiar o impossível, independentemente de orientação afetivo-sexual, identidade de gênero, raça, etnia e idade, sejam elas pessoas com ou sem deficiência. Aqui o foco está na parceria para trabalharmos em busca dos resultados como um só time, no desenvolvimento das pessoas com conversas abertas e honestas e na possibilidade de aprender a resolver problemas complexos de forma simples, sempre com paixão em fazer a diferença.Venha fazer parte da Embraer!
+Job Description
+
+
+Como é a área:
+
+
+Realizar Desenvolvimento e modelagem de dados para construção de dashboards e análises para vários setores.Desenvolver reports e auxiliar na governança dos dados;Extrair insights de bases de dados ajudando a traduzir em visualização/dashboards, metricas e objetivos;
+Realizar Desenvolvimento e modelagem de dados para construção de dashboards e análises para vários setores.
+Realizar Desenvolvimento e modelagem de dados para construção de dashboards e análises para vários setores.
+
+Desenvolver reports e auxiliar na governança dos dados;
+Desenvolver reports e auxiliar na governança dos dados;
+
+Extrair insights de bases de dados ajudando a traduzir em visualização/dashboards, metricas e objetivos;
+Extrair insights de bases de dados ajudando a traduzir em visualização/dashboards, metricas e objetivos;
+
+
+
+
+
+Como Será o Seu Dia a Dia
+
+
+Criar análise de dados e estatísticas para extrair conclusões e recomendações através da criação de reports, dashboards e apresentações baseado em sua maioria em dados estruturados e com alta complexidade afim gerar ações para a melhoria de resultados e processos da companhia.
+Criar análise de dados e estatísticas para extrair conclusões e recomendações através da criação de reports, dashboards e apresentações baseado em sua maioria em dados estruturados e com alta complexidade afim gerar ações para a melhoria de resultados e processos da companhia.
+Criar análise de dados e estatísticas para extrair conclusões e recomendações através da criação de reports, dashboards e apresentações baseado em sua maioria em dados estruturados e com alta complexidade afim gerar ações para a melhoria de resultados e processos da companhia.
+
+
+Requirements And Qualifications
+
+
+Para este desafio, você precisa ter:
+
+
+Ensino Médio completoEnsino Superior CompletoConhecimento avançado em Excel e noções de VBAConhecimento sólido em SQLGrande capacidade de desenvolvimento de visualização de dados em PowerPoint e dashboards em ferramentas de BI Self-service BI como Qlik Sense, PowerBI.Ter noção de manipulação de dados com ferramentas de ETL como Pentaho.Capacidade de colaboração e compreensão de necessidades.Grande capacidade de comunicação e escrita (data storytelling);Conhecimento sólido em SQL, R e Python;Ser capaz de manipular dados com ferramentas de ETL como Pentaho;Compreensão básica de desenho experimental e conhecimento intermediario de métodos estatísticos.Capacidade de construir modelos para detectar anomalias e padrões.Conhecimento básico sobre as melhores práticas de limpeza de dados.Conhecimento analítico para detecção de anomalias, análise de séries temporais, classificação etc.Conhecimento em processos de Descoberta de Dados (KDD)
+Ensino Médio completo
+Ensino Médio completo
+
+Ensino Superior Completo
+Ensino Superior Completo
+Conhecimento avançado em Excel e noções de VBA
+Conhecimento avançado em Excel e noções de VBA
+Conhecimento sólido em SQL
+Conhecimento sólido em SQL
+Grande capacidade de desenvolvimento de visualização de dados em PowerPoint e dashboards em ferramentas de BI Self-service BI como Qlik Sense, PowerBI.
+Grande capacidade de desenvolvimento de visualização de dados em PowerPoint e dashboards em ferramentas de BI Self-service BI como Qlik Sense, PowerBI.
+Ter noção de manipulação de dados com ferramentas de ETL como Pentaho.
+Ter noção de manipulação de dados com ferramentas de ETL como Pentaho.
+Capacidade de colaboração e compreensão de necessidades.
+Capacidade de colaboração e compreensão de necessidades.
+Grande capacidade de comunicação e escrita (data storytelling);
+Grande capacidade de comunicação e escrita (data storytelling);
+Conhecimento sólido em SQL, R e Python;
+Conhecimento sólido em SQL, R e Python;
+Ser capaz de manipular dados com ferramentas de ETL como Pentaho;
+Ser capaz de manipular dados com ferramentas de ETL como Pentaho;
+Compreensão básica de desenho experimental e conhecimento intermediario de métodos estatísticos.
+Compreensão básica de desenho experimental e conhecimento intermediario de métodos estatísticos.
+Capacidade de construir modelos para detectar anomalias e padrões.
+Capacidade de construir modelos para detectar anomalias e padrões.
+Conhecimento básico sobre as melhores práticas de limpeza de dados.
+Conhecimento básico sobre as melhores práticas de limpeza de dados.
+Conhecimento analítico para detecção de anomalias, análise de séries temporais, classificação etc.
+Conhecimento analítico para detecção de anomalias, análise de séries temporais, classificação etc.
+Conhecimento em processos de Descoberta de Dados (KDD)
+Conhecimento em processos de Descoberta de Dados (KDD)
+
+
+Você Se Destaca Se Tiver
+
+
+Superior em Matemática, Economia, Estatística, Engenharia, Ciência da Computação ou áreas afins
+Superior em Matemática, Economia, Estatística, Engenharia, Ciência da Computação ou áreas afins
+Superior em Matemática, Economia, Estatística, Engenharia, Ciência da Computação ou áreas afins
+
+
+
+
+
+
+Benefícios
+
+
+Seguro de VidaConvênio MédicoConvênio OdontológicoBenefício VacinaBenefício FarmáciaGympassCartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)Refeitório na empresaAuxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)PLR (Participação de Lucros e Resultados)Previdência PrivadaCooperativaEMpower (plataforma interna de treinamento e desenvolvimento)
+Seguro de Vida
+Seguro de Vida
+Convênio Médico
+Convênio Médico
+
+Convênio Odontológico
+Convênio Odontológico
+Benefício Vacina
+Benefício Vacina
+Benefício Farmácia
+Benefício Farmácia
+
+Gympass
+Gympass
+Cartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)
+Cartão Multibenefícios (para modelo de trabalho Híbrido ou 100% remoto)
+Refeitório na empresa
+Refeitório na empresa
+Auxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)
+Auxílio Home Office (para modelo de trabalho Híbrido ou 100% remoto)
+PLR (Participação de Lucros e Resultados)
+PLR (Participação de Lucros e Resultados)
+Previdência Privada
+Previdência Privada
+Cooperativa
+Cooperativa
+EMpower (plataforma interna de treinamento e desenvolvimento)
+EMpower (plataforma interna de treinamento e desenvolvimento)
+
+
+
+
+
+
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem (Screening)2Triagem (Screening)Step 3: Análise de Documentação3Análise de DocumentaçãoStep 4: Análise de Perfil (Talent Acquisition)4Análise de Perfil (Talent Acquisition)Step 5: Entrevista com o Time5Entrevista com o TimeStep 6: Finalistas6FinalistasStep 7: Hiring7Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem (Screening)2Triagem (Screening)
+Step 2: Triagem (Screening)2Triagem (Screening)
+Step 3: Análise de Documentação3Análise de Documentação
+Step 3: Análise de Documentação3Análise de Documentação
+Step 4: Análise de Perfil (Talent Acquisition)4Análise de Perfil (Talent Acquisition)
+Step 4: Análise de Perfil (Talent Acquisition)4Análise de Perfil (Talent Acquisition)
+Step 5: Entrevista com o Time5Entrevista com o Time
+Step 5: Entrevista com o Time5Entrevista com o Time
+Step 6: Finalistas6Finalistas
+Step 6: Finalistas6Finalistas
+Step 7: Hiring7Hiring
+Step 7: Hiring7Hiring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

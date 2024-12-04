@@ -1,0 +1,67 @@
+link-https://www.linkedin.com/jobs/view/4040340754/?eBP=CwEAAAGS7jTqlHj1CnyE6yp194APzAN0dB1heGdK1Ngguh6Ha-9MUq6sZHfa57xLxlkKWCTzjJ4hoFjCxO8Xz4YBxxjQMgeecMwuZwqdhOzXDB1PW3VYepIn19Z2EsGnutfGKjHremrTyJO1ZUj-8IRuqWZDVbzjI6RJIiU2pyDht3Dk-yLiNcUkMy8BzP8Vzn3UoFAG5djIAKBy73p82Fn27RkF9WTrWlsPW4a-4kjbPkMbbsNkD6lBwgX2p9ERLQljEcURPqdnQ_EOiMA1epMYCNsPvqz8r_YfymF1JmQXj035qgrC-As98QX7wr61EI3aVoTpVzjUDbDsjSduuBzTHaXdzUc8yyupBp1YsNCCnPPsK3c9rZSeZ0SbVais-okBl8x2GVjZyaRmKMj-hAdUotxL1-emun_ZQhyO0PTX_0omW2LBaAp96w0KQT3rEyRBYQdwGhy819rXXBKZAwO2y6ZBnwb0pQhxKZitf8j4Z-o5It89EFzg5k5n&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=DQY44IS3PQwf6%2BEq3U%2FjeA%3D%3D&trk=flagship3_search_srp_jobs
+
+CIENTISTA DE DADOS - TI
+Sobre a vaga
+CONHEÇA A EMPRESA CONTRATANTE:"Segmento sigiloso"PRINCIPAIS ATIVIDADES:Coleta e Pré-processamento de Dados: Obter dados de diversas fontes e realizar limpeza e transformação para garantir que sejam adequados para análise.Análise Exploratória: Explorar e visualizar dados para identificar padrões, tendências e anomalias, ajudando a formular hipóteses e direcionar análises mais profundas.Modelagem e Algoritmos: Desenvolver e implementar modelos estatísticos e algoritmos de machine learning para prever resultados, classificar informações ou identificar agrupamentos.Interpretação de Resultados: Traduzir os resultados da análise em insights práticos, que possam ser utilizados para tomada de decisões estratégicas.Comunicação: Apresentar resultados de forma clara e acessível para diferentes públicos, incluindo stakeholders não técnicos, utilizando visualizações e relatórios.Colaboração: Trabalhar em equipe com outros profissionais, como engenheiros de dados, analistas e líderes de negócios, para alinhar projetos às necessidades da organização.Atualização Contínua: Manter-se atualizado sobre novas ferramentas, tecnologias e técnicas em ciência de dados e análise de dados.REQUISITOS:Programar (como Python ou R), estatística, manipulação de dados (SQL, pandas), e visualização de dados (matplotlib, Tableau).Experiência com bancos de dados relacionais e não-relacionais;Desejável conhecimento em técnicas de IA generativa e Filtragem Colaborativa;Experiência em Data Lake;Domínio de Python e suas bibliotecas para ciência de dados (pandas, NumPy, scikit-learn, etc.)Experiência com ferramentas e plataformas de data science e AI (como Hadoop, TensorFlow, PyTorch, IBM Watson Studio, Keras, Caffe, ChatGPT, Gemini, Copilot, Llama, Azure ML, etc)FORMAÇÃO:Superior completo em: Ciência da Computação: Foca em programação, algoritmos e sistemas ou Engenharia: Especialmente Engenharia da Computação ou Engenharia de Dados.BENEFÍCIOS:Plano de saúde, VA, VT e PPR.HORÁRIO:Segunda à Sexta-feira.LOCAL DE TRABALHO:Camboriú/SCFORMA DE CONTRATAÇÃO:CLT
+CONHEÇA A EMPRESA CONTRATANTE:
+
+
+"Segmento sigiloso
+
+
+PRINCIPAIS ATIVIDADES:
+
+
+Coleta e Pré-processamento de Dados: Obter dados de diversas fontes e realizar limpeza e transformação para garantir que sejam adequados para análise.Análise Exploratória: Explorar e visualizar dados para identificar padrões, tendências e anomalias, ajudando a formular hipóteses e direcionar análises mais profundas.Modelagem e Algoritmos: Desenvolver e implementar modelos estatísticos e algoritmos de machine learning para prever resultados, classificar informações ou identificar agrupamentos.Interpretação de Resultados: Traduzir os resultados da análise em insights práticos, que possam ser utilizados para tomada de decisões estratégicas.Comunicação: Apresentar resultados de forma clara e acessível para diferentes públicos, incluindo stakeholders não técnicos, utilizando visualizações e relatórios.Colaboração: Trabalhar em equipe com outros profissionais, como engenheiros de dados, analistas e líderes de negócios, para alinhar projetos às necessidades da organização.Atualização Contínua: Manter-se atualizado sobre novas ferramentas, tecnologias e técnicas em ciência de dados e análise de dados.
+Coleta e Pré-processamento de Dados: Obter dados de diversas fontes e realizar limpeza e transformação para garantir que sejam adequados para análise.
+Coleta e Pré-processamento de Dados: Obter dados de diversas fontes e realizar limpeza e transformação para garantir que sejam adequados para análise.
+Análise Exploratória: Explorar e visualizar dados para identificar padrões, tendências e anomalias, ajudando a formular hipóteses e direcionar análises mais profundas.
+Análise Exploratória: Explorar e visualizar dados para identificar padrões, tendências e anomalias, ajudando a formular hipóteses e direcionar análises mais profundas.
+Modelagem e Algoritmos: Desenvolver e implementar modelos estatísticos e algoritmos de machine learning para prever resultados, classificar informações ou identificar agrupamentos.
+Modelagem e Algoritmos: Desenvolver e implementar modelos estatísticos e algoritmos de machine learning para prever resultados, classificar informações ou identificar agrupamentos.
+Interpretação de Resultados: Traduzir os resultados da análise em insights práticos, que possam ser utilizados para tomada de decisões estratégicas.
+Interpretação de Resultados: Traduzir os resultados da análise em insights práticos, que possam ser utilizados para tomada de decisões estratégicas.
+Comunicação: Apresentar resultados de forma clara e acessível para diferentes públicos, incluindo stakeholders não técnicos, utilizando visualizações e relatórios.
+Comunicação: Apresentar resultados de forma clara e acessível para diferentes públicos, incluindo stakeholders não técnicos, utilizando visualizações e relatórios.
+Colaboração: Trabalhar em equipe com outros profissionais, como engenheiros de dados, analistas e líderes de negócios, para alinhar projetos às necessidades da organização.
+Colaboração: Trabalhar em equipe com outros profissionais, como engenheiros de dados, analistas e líderes de negócios, para alinhar projetos às necessidades da organização.
+Atualização Contínua: Manter-se atualizado sobre novas ferramentas, tecnologias e técnicas em ciência de dados e análise de dados.
+Atualização Contínua: Manter-se atualizado sobre novas ferramentas, tecnologias e técnicas em ciência de dados e análise de dados.
+
+
+REQUISITOS:
+
+
+Programar (como Python ou R), estatística, manipulação de dados (SQL, pandas), e visualização de dados (matplotlib, Tableau).Experiência com bancos de dados relacionais e não-relacionais;Desejável conhecimento em técnicas de IA generativa e Filtragem Colaborativa;Experiência em Data Lake;Domínio de Python e suas bibliotecas para ciência de dados (pandas, NumPy, scikit-learn, etc.)Experiência com ferramentas e plataformas de data science e AI (como Hadoop, TensorFlow, PyTorch, IBM Watson Studio, Keras, Caffe, ChatGPT, Gemini, Copilot, Llama, Azure ML, etc)
+Programar (como Python ou R), estatística, manipulação de dados (SQL, pandas), e visualização de dados (matplotlib, Tableau).
+Programar (como Python ou R), estatística, manipulação de dados (SQL, pandas), e visualização de dados (matplotlib, Tableau).
+Experiência com bancos de dados relacionais e não-relacionais;
+Experiência com bancos de dados relacionais e não-relacionais;
+Desejável conhecimento em técnicas de IA generativa e Filtragem Colaborativa;
+Desejável conhecimento em técnicas de IA generativa e Filtragem Colaborativa;
+Experiência em Data Lake;
+Experiência em Data Lake;
+Domínio de Python e suas bibliotecas para ciência de dados (pandas, NumPy, scikit-learn, etc.)
+Domínio de Python e suas bibliotecas para ciência de dados (pandas, NumPy, scikit-learn, etc.)
+Experiência com ferramentas e plataformas de data science e AI (como Hadoop, TensorFlow, PyTorch, IBM Watson Studio, Keras, Caffe, ChatGPT, Gemini, Copilot, Llama, Azure ML, etc)
+Experiência com ferramentas e plataformas de data science e AI (como Hadoop, TensorFlow, PyTorch, IBM Watson Studio, Keras, Caffe, ChatGPT, Gemini, Copilot, Llama, Azure ML, etc)
+
+
+FORMAÇÃO:
+
+
+
+BENEFÍCIOS:
+
+
+
+HORÁRIO:
+
+
+
+LOCAL DE TRABALHO:
+
+
+
+FORMA DE CONTRATAÇÃO:
+

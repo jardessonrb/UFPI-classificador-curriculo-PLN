@@ -1,0 +1,176 @@
+link-https://www.linkedin.com/jobs/view/4016845352/?eBP=CwEAAAGS7k29TkRjIoM0_zmWHAfndNjCC7Hc4yQ6KlAftKo6Nc60DdL5IoIIwc4R-olXxQmFSP8J__KR27cr4U2j79W4tnR3Lw2jeIHY5hNrtDt9U36nKMBn1Ko5AHprYfClSGKLDkq4_XC1ufTV0ZEQojQK9uU0OwZ8oXQI8o0yoFZPdZ2vbckVLh7vBn-AhQbnfBMSTncwaemucyDPr7AXXQ3UI8XusNbCICGd7Y_rGGlbMsictKFZFmeHjiyuktUWDh_awJ9wBYa5PaPxzrKcTzhycfiaeJFYG8d74C6ReHH9MlczbW2O8ccy-zOzCfCf91-6KXjwrqG1QUYGDepF6rjev0anQ6E2YKmBfBhjfG5AmiDySAc3JFczxWptlGVrKJPvOPg5kJ55IBcl14BNW2iNHL8rWWvMCiZBn9QFK-epei-PU1JUOWOasJ7Fj6RCg7R2lA9FhvsomsQp7ldNIWQ4MApg-E7UXODd&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=GE7EswHfY5zyvG3UAKrAVg%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev. FrontEnd (Angular) - Sênior
+Sobre a vaga
+Job DescriptionEstamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.Estamos com a posição deDev. FrontEnd (Angular) - Sêniorque envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.Então, se você entende que este é o caminho em direção aos seus sonhos, movido por projetos desafiadores, uma carreira bem desenvolvida e o propósito de impactar uns aos outros, todos os dias: venha fazer parte deste vasto mundo Solutis.Responsibilities and assignmentsComo será seu dia a dia: (Atividades que vai realizar)Desenvolvimento e manutenção de código seguindo as especificações, normas, padrões e prazos estabelecidos;Utilizando linguagem de programação baixa plataforma, análise de requisitos e elaboração de projetos lógico e físico;Supervisionar e direcionar equipe a melhores soluções e métodos a serem utilizados.Acompanhamento, supervisão técnica, implantações e suporte a cliente;Analise e desenvolvimento de sistemas, incluindo a criação de micro serviços, testes automatizados, aplicações middleware e orquestradores; ePrever questões envolvendo performance e confiabilidade das aplicações, atuando em soluções.Requirements And QualificationsPra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)HTML/CSS;JavaScript;Typescript;Sass;REST / Swagger / OpenAPI;Git;Testes Unitários;Jasmine+Karma;Arquitetura Micro Front-End;Angular 7+;Swagger;Restfull;Autenticação/JWT;CI/CD (Jenkins); eNPM.Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)Java 17+;BFF (Back For Front);Certificações Técnicas (AWS); eDisposição para atuar presencial duas vezes na semana.O que não abrimos mão: (Soft Skills)Mindset focado em construir soluções criativas;Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;Ser apaixonado por tecnologia;Comprometimento em um ambiente voltado a entregas de alta colaboração;Bom raciocínio lógico, facilidade de aprendizado e proatividade; eVivência com leitura e interpretação de documentação técnica.Additional informationPara esta posição oferecemos:Salário CLT Full;Vale Refeição ou Alimentação (Alelo);Vale Transporte (sempre que houver o deslocamento);Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);Assistência Médica Sulamérica;Assistência Odontológica Sulamérica;Seguro de Vida;Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);Gympass;Allya;Day Off;Premiação por indicações;Inside Out (Ocorre todas as quartas-feiras. Evento da galera voltado para troca de conhecimento);Oportunidade de crescimento profissional.Process stagesStep 1: Registration1RegistrationStep 2: Triagem de Perfil2Triagem de PerfilStep 3: Entrevista RH3Entrevista RHStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Teste Técnico (opcional)5Teste Técnico (opcional)Step 6: Entrevista Gestor6Entrevista GestorStep 7: Entrevista com Cliente (opcional)7Entrevista com Cliente (opcional)Step 8: Carta Proposta8Carta PropostaStep 9: Hiring9HiringA Solutis é Digital!Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.Venha fazer parte do nosso time!
+Job Description
+
+
+
+
+
+Dev. FrontEnd (Angular) - Sênior
+
+
+
+
+
+
+
+Como será seu dia a dia: (Atividades que vai realizar)
+
+
+Desenvolvimento e manutenção de código seguindo as especificações, normas, padrões e prazos estabelecidos;Utilizando linguagem de programação baixa plataforma, análise de requisitos e elaboração de projetos lógico e físico;Supervisionar e direcionar equipe a melhores soluções e métodos a serem utilizados.Acompanhamento, supervisão técnica, implantações e suporte a cliente;Analise e desenvolvimento de sistemas, incluindo a criação de micro serviços, testes automatizados, aplicações middleware e orquestradores; ePrever questões envolvendo performance e confiabilidade das aplicações, atuando em soluções.
+Desenvolvimento e manutenção de código seguindo as especificações, normas, padrões e prazos estabelecidos;
+Desenvolvimento e manutenção de código seguindo as especificações, normas, padrões e prazos estabelecidos;
+Utilizando linguagem de programação baixa plataforma, análise de requisitos e elaboração de projetos lógico e físico;
+Utilizando linguagem de programação baixa plataforma, análise de requisitos e elaboração de projetos lógico e físico;
+Supervisionar e direcionar equipe a melhores soluções e métodos a serem utilizados.
+Supervisionar e direcionar equipe a melhores soluções e métodos a serem utilizados.
+Acompanhamento, supervisão técnica, implantações e suporte a cliente;
+Acompanhamento, supervisão técnica, implantações e suporte a cliente;
+Analise e desenvolvimento de sistemas, incluindo a criação de micro serviços, testes automatizados, aplicações middleware e orquestradores; e
+Analise e desenvolvimento de sistemas, incluindo a criação de micro serviços, testes automatizados, aplicações middleware e orquestradores; e
+Prever questões envolvendo performance e confiabilidade das aplicações, atuando em soluções.
+Prever questões envolvendo performance e confiabilidade das aplicações, atuando em soluções.
+
+
+Requirements And Qualifications
+
+
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+
+
+HTML/CSS;JavaScript;Typescript;Sass;REST / Swagger / OpenAPI;Git;Testes Unitários;Jasmine+Karma;Arquitetura Micro Front-End;Angular 7+;Swagger;Restfull;Autenticação/JWT;CI/CD (Jenkins); eNPM.
+HTML/CSS;
+HTML/CSS;
+JavaScript;
+JavaScript;
+Typescript;
+Typescript;
+Sass;
+Sass;
+
+REST / Swagger / OpenAPI;
+REST / Swagger / OpenAPI;
+Git;
+Git;
+Testes Unitários;
+Testes Unitários;
+Jasmine+Karma;
+Jasmine+Karma;
+Arquitetura Micro Front-End;
+Arquitetura Micro Front-End;
+Angular 7+;
+Angular 7+;
+Swagger;
+Swagger;
+Restfull;
+Restfull;
+Autenticação/JWT;
+Autenticação/JWT;
+CI/CD (Jenkins); e
+CI/CD (Jenkins); e
+NPM.
+NPM.
+
+
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+
+
+Java 17+;BFF (Back For Front);Certificações Técnicas (AWS); eDisposição para atuar presencial duas vezes na semana.
+Java 17+;
+Java 17+;
+BFF (Back For Front);
+BFF (Back For Front);
+Certificações Técnicas (AWS); e
+Certificações Técnicas (AWS); e
+Disposição para atuar presencial duas vezes na semana.
+Disposição para atuar presencial duas vezes na semana.
+
+
+O que não abrimos mão: (Soft Skills)
+
+
+Mindset focado em construir soluções criativas;Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;Ser apaixonado por tecnologia;Comprometimento em um ambiente voltado a entregas de alta colaboração;Bom raciocínio lógico, facilidade de aprendizado e proatividade; eVivência com leitura e interpretação de documentação técnica.
+Mindset focado em construir soluções criativas;
+Mindset focado em construir soluções criativas;
+Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;
+Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;
+Ser apaixonado por tecnologia;
+Ser apaixonado por tecnologia;
+Comprometimento em um ambiente voltado a entregas de alta colaboração;
+Comprometimento em um ambiente voltado a entregas de alta colaboração;
+Bom raciocínio lógico, facilidade de aprendizado e proatividade; e
+Bom raciocínio lógico, facilidade de aprendizado e proatividade; e
+Vivência com leitura e interpretação de documentação técnica.
+Vivência com leitura e interpretação de documentação técnica.
+
+
+
+
+Para esta posição oferecemos:
+
+
+Salário CLT Full;Vale Refeição ou Alimentação (Alelo);Vale Transporte (sempre que houver o deslocamento);Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);Assistência Médica Sulamérica;Assistência Odontológica Sulamérica;Seguro de Vida;Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);Gympass;Allya;Day Off;Premiação por indicações;Inside Out (Ocorre todas as quartas-feiras. Evento da galera voltado para troca de conhecimento);Oportunidade de crescimento profissional.
+Salário CLT Full;
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Gympass;
+Allya;
+Allya;
+Day Off;
+Day Off;
+Premiação por indicações;
+Premiação por indicações;
+Inside Out (Ocorre todas as quartas-feiras. Evento da galera voltado para troca de conhecimento);
+Inside Out (Ocorre todas as quartas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+Oportunidade de crescimento profissional.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem de Perfil2Triagem de PerfilStep 3: Entrevista RH3Entrevista RHStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Teste Técnico (opcional)5Teste Técnico (opcional)Step 6: Entrevista Gestor6Entrevista GestorStep 7: Entrevista com Cliente (opcional)7Entrevista com Cliente (opcional)Step 8: Carta Proposta8Carta PropostaStep 9: Hiring9Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem de Perfil2Triagem de Perfil
+Step 2: Triagem de Perfil2Triagem de Perfil
+Step 3: Entrevista RH3Entrevista RH
+Step 3: Entrevista RH3Entrevista RH
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 5: Teste Técnico (opcional)5Teste Técnico (opcional)
+Step 5: Teste Técnico (opcional)5Teste Técnico (opcional)
+Step 6: Entrevista Gestor6Entrevista Gestor
+Step 6: Entrevista Gestor6Entrevista Gestor
+Step 7: Entrevista com Cliente (opcional)7Entrevista com Cliente (opcional)
+Step 7: Entrevista com Cliente (opcional)7Entrevista com Cliente (opcional)
+Step 8: Carta Proposta8Carta Proposta
+Step 8: Carta Proposta8Carta Proposta
+Step 9: Hiring9Hiring
+Step 9: Hiring9Hiring
+
+
+
+
+
+
+
+
+
+

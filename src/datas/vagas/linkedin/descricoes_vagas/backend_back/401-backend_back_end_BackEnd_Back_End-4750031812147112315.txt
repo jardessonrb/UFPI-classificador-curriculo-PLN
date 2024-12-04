@@ -1,0 +1,186 @@
+link-https://www.linkedin.com/jobs/view/4043549428/?eBP=CwEAAAGS7lLybEMGTfP786VN5GWdXBy95DFUzQVxOFc8Hs-ZdRKqeSi8qHVtQLkBXKatb7r6h2LLL2LSnfHpd4yQOLLZ0rK6Ha2yzomyemFzp6qhluOJfgnY2JCcsR-SUwdnW6UMGHJPqI3CNl_gjnet1jmghRhrXbkgP0uH17jGcK77fOBINeOyXp4QBHlwbJ8uP62MS-jlpMhqXU98E0M_apIApPFGSvIqTDVa4RTy-71ahq-rH4IE37FGhc3cZR6JrgnlPG9mjiw5wDcwu7bsv5MQbjyx279wHNNcuK5-DAgiGQM2IsTgeBdgMObOVP1Qvf2xVhkU9xO1DsBFR49ls3puV_dwoBEm41cxgAQcNHMwgy6eAMQK1IhAuJI0tESxcsHrKSR-tvLYDFg1heJI4dphEdwEVk41UUYZh4RCSUCZHg6B5ktGKqyRi31BFohDBFVqjzDF94bT4cm8dWy8g817J9Z71bCaWZIbRiS468gHIgTih6MwcLvY1rnHSg&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=q326r3J7N0w%2B8mbVhZcniw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Back-End Java Sênior
+Sobre a vaga
+Por que ser zupper?Vamos direto ao ponto: o que oferecemos é um ambiente de crescimento exponencial. Mais do que palavras bonitas, isso significa que oferecemos todas as oportunidades para que você possa protagonizar sua evolução e todo o suporte necessário.Como protagonismo sem apoio não gera desenvolvimento acelerado, além de oportunidades, cada zupper tem um plano de desenvolvimento de carreira, acompanhamento próximo por uma pessoa do time de People e acesso a uma plataforma proprietária que tangibiliza o sentimento de progresso.E por que fazemos tudo isso?Porque acreditamos que somente um ambiente de crescimento exponencial vai nos fazer chegar aonde queremos: usar a tecnologia para transformar a vida de pessoas, potencializar talentos desperdiçados por falta de acesso e posicionar regiões desprivilegiadas como pólos de tecnologia de qualidade.Ah, e não podemos esquecer: na Zup acreditamos na ! Com isso, zuppers podem trabalhar de onde quiserem, seja home office, em nossos escritórios ou em um modelo híbridoO que você fará por aquiDesenvolver e manter APIs REST e microserviços com Java e Spring Boot.Colaborar com a equipe, compartilhando conhecimentos e melhores práticas.Participar do planejamento, desenvolvimento, revisão de código e implementação.Implementar soluções para atender requisitos técnicos e de negócios.Garantir a qualidade do software por meio de testes automatizados e manuais.O que esperamos que você saibaExperiência com Java, Spring Boot, Hibernate e JPA.Conhecimento em Maven e controle de versão com Git.Familiaridade com Eclipse ou IntelliJ.Experiência com bancos de dados SQL e NoSQL.Capacidade de trabalho em equipe.O que seria muito legal se você soubesseExperiência com microserviços.Conhecimento em outras tecnologias backend.Habilidade para gerenciar múltiplas tarefas.Adaptabilidade a novas tecnologias.Inglês intermediário ou avançado.O que te oferecemosAqui não é só a sua carreira que importa, queremos que você tenha saúde e bem estar físico e mental para a melhor jornada de experiência profissional e pessoal da sua vida.Carreira aceleradaTrabalhe de onde quiserHorários flexíveisAuxílio Educação para cursosProgramas internos de educação e aceleraçãoPlataforma de cursos gratuitosWebinars internos semanaisFerramenta própria e exclusiva de desenvolvimento de carreiraSite interno de carreiraNúcleo interno P&DFrameworks para liderança: treinamentos e ferramentasFeedbacks 1o1 semanaisGuildas internas e outros grupos de estudo e interesseSaúde e Bem-estarGympassPlano saúdePlano odontológicoPrimeCare: assistência médica disponível 24 por 7Terapia online gratuitaMeditação guiadaYoga conteúdos e práticasAlongamentoGinástica laboralCAZ – Central de Atendimento aos zuppersLicença maternidade de 180 diasLicença paternidade de 20 diasConforto financeiroVale Refeição e AlimentaçãoSeguro de vidaVale transporteSubsídio para home officeAuxílio crecheAuxílio Plano telefônicoParticipação em Lucros e Resultado (PLR)Programa de indicaçãoHave fun and relaxHappy hours e festas com shows e atraçõesChopp liberado*Vídeo-game*Salas temáticas*Refeitórios*Cozinhas equipadas*Áreas de descompressão*Lanches, snacks, frutas, chás e café*Dress Code livre*(para quem for aos escritórios)
+Por que ser zupper?
+
+
+
+
+
+
+E por que fazemos tudo isso?
+
+
+
+
+
+
+O que você fará por aqui
+
+
+Desenvolver e manter APIs REST e microserviços com Java e Spring Boot.Colaborar com a equipe, compartilhando conhecimentos e melhores práticas.Participar do planejamento, desenvolvimento, revisão de código e implementação.Implementar soluções para atender requisitos técnicos e de negócios.Garantir a qualidade do software por meio de testes automatizados e manuais.
+Desenvolver e manter APIs REST e microserviços com Java e Spring Boot.
+Desenvolver e manter APIs REST e microserviços com Java e Spring Boot.
+Colaborar com a equipe, compartilhando conhecimentos e melhores práticas.
+Colaborar com a equipe, compartilhando conhecimentos e melhores práticas.
+Participar do planejamento, desenvolvimento, revisão de código e implementação.
+Participar do planejamento, desenvolvimento, revisão de código e implementação.
+Implementar soluções para atender requisitos técnicos e de negócios.
+Implementar soluções para atender requisitos técnicos e de negócios.
+Garantir a qualidade do software por meio de testes automatizados e manuais.
+Garantir a qualidade do software por meio de testes automatizados e manuais.
+
+
+O que esperamos que você saiba
+
+
+Experiência com Java, Spring Boot, Hibernate e JPA.Conhecimento em Maven e controle de versão com Git.Familiaridade com Eclipse ou IntelliJ.Experiência com bancos de dados SQL e NoSQL.Capacidade de trabalho em equipe.
+Experiência com Java, Spring Boot, Hibernate e JPA.
+Experiência com Java, Spring Boot, Hibernate e JPA.
+Conhecimento em Maven e controle de versão com Git.
+Conhecimento em Maven e controle de versão com Git.
+Familiaridade com Eclipse ou IntelliJ.
+Familiaridade com Eclipse ou IntelliJ.
+Experiência com bancos de dados SQL e NoSQL.
+Experiência com bancos de dados SQL e NoSQL.
+Capacidade de trabalho em equipe.
+Capacidade de trabalho em equipe.
+
+
+O que seria muito legal se você soubesse
+
+
+Experiência com microserviços.Conhecimento em outras tecnologias backend.Habilidade para gerenciar múltiplas tarefas.Adaptabilidade a novas tecnologias.Inglês intermediário ou avançado.
+Experiência com microserviços.
+Experiência com microserviços.
+Conhecimento em outras tecnologias backend.
+Conhecimento em outras tecnologias backend.
+Habilidade para gerenciar múltiplas tarefas.
+Habilidade para gerenciar múltiplas tarefas.
+Adaptabilidade a novas tecnologias.
+Adaptabilidade a novas tecnologias.
+Inglês intermediário ou avançado.
+Inglês intermediário ou avançado.
+
+
+O que te oferecemos
+
+
+
+
+Carreira acelerada
+
+
+Trabalhe de onde quiserHorários flexíveisAuxílio Educação para cursosProgramas internos de educação e aceleraçãoPlataforma de cursos gratuitosWebinars internos semanaisFerramenta própria e exclusiva de desenvolvimento de carreiraSite interno de carreiraNúcleo interno P&DFrameworks para liderança: treinamentos e ferramentasFeedbacks 1o1 semanaisGuildas internas e outros grupos de estudo e interesse
+Trabalhe de onde quiser
+Trabalhe de onde quiser
+
+Horários flexíveis
+Horários flexíveis
+Auxílio Educação para cursos
+Auxílio Educação para cursos
+Programas internos de educação e aceleração
+Programas internos de educação e aceleração
+Plataforma de cursos gratuitos
+Plataforma de cursos gratuitos
+Webinars internos semanais
+Webinars internos semanais
+
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Ferramenta própria e exclusiva de desenvolvimento de carreira
+Site interno de carreira
+Site interno de carreira
+Núcleo interno P&D
+Núcleo interno P&D
+Frameworks para liderança: treinamentos e ferramentas
+Frameworks para liderança: treinamentos e ferramentas
+Feedbacks 1o1 semanais
+Feedbacks 1o1 semanais
+Guildas internas e outros grupos de estudo e interesse
+Guildas internas e outros grupos de estudo e interesse
+
+
+Saúde e Bem-estar
+
+
+GympassPlano saúdePlano odontológicoPrimeCare: assistência médica disponível 24 por 7Terapia online gratuitaMeditação guiadaYoga conteúdos e práticasAlongamentoGinástica laboralCAZ – Central de Atendimento aos zuppersLicença maternidade de 180 diasLicença paternidade de 20 dias
+Gympass
+Gympass
+Plano saúde
+Plano saúde
+Plano odontológico
+Plano odontológico
+PrimeCare: assistência médica disponível 24 por 7
+PrimeCare: assistência médica disponível 24 por 7
+Terapia online gratuita
+Terapia online gratuita
+Meditação guiada
+Meditação guiada
+Yoga conteúdos e práticas
+Yoga conteúdos e práticas
+Alongamento
+Alongamento
+
+Ginástica laboral
+Ginástica laboral
+
+CAZ – Central de Atendimento aos zuppers
+CAZ – Central de Atendimento aos zuppers
+
+Licença maternidade de 180 dias
+Licença maternidade de 180 dias
+Licença paternidade de 20 dias
+Licença paternidade de 20 dias
+
+
+Conforto financeiro
+
+
+Vale Refeição e AlimentaçãoSeguro de vidaVale transporteSubsídio para home officeAuxílio crecheAuxílio Plano telefônicoParticipação em Lucros e Resultado (PLR)Programa de indicação
+Vale Refeição e Alimentação
+Vale Refeição e Alimentação
+Seguro de vida
+Seguro de vida
+Vale transporte
+Vale transporte
+Subsídio para home office
+Subsídio para home office
+
+Auxílio creche
+Auxílio creche
+Auxílio Plano telefônico
+Auxílio Plano telefônico
+
+Participação em Lucros e Resultado (PLR)
+Participação em Lucros e Resultado (PLR)
+Programa de indicação
+Programa de indicação
+
+
+Have fun and relax
+
+
+
+Happy hours e festas com shows e atraçõesChopp liberado*Vídeo-game*Salas temáticas*Refeitórios*Cozinhas equipadas*Áreas de descompressão*Lanches, snacks, frutas, chás e café*Dress Code livre*(para quem for aos escritórios)
+Happy hours e festas com shows e atrações
+Happy hours e festas com shows e atrações
+Chopp liberado*
+Chopp liberado*
+Vídeo-game*
+Vídeo-game*
+Salas temáticas*
+Salas temáticas*
+Refeitórios*
+Refeitórios*
+Cozinhas equipadas*
+Cozinhas equipadas*
+Áreas de descompressão*
+Áreas de descompressão*
+Lanches, snacks, frutas, chás e café*
+Lanches, snacks, frutas, chás e café*
+Dress Code livre*
+Dress Code livre*
+(para quem for aos escritórios)
+(para quem for aos escritórios)

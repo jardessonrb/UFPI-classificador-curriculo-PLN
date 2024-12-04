@@ -1,0 +1,79 @@
+link-https://www.linkedin.com/jobs/view/4055854084/?eBP=CwEAAAGS7jTqlX3cVzNQ_SKNuHLDgKtKCknAfh7yj7hc5uyOns4Pn6FgUIazEMPjIHViviD7Ejcfsk_Y9vcH7tSzKF6bUT3UY8szgblY-M_32xd9pomZBslc-PK_lkEPxcX9jWo3-pxTrmyS8___9yXoyQPcQGz1KJ_oMrC1FhUZYtWYD1Ix7ftejBr-Tx2pRpwem_LvQRevSChAaKKdKSYg_Re-PLnivbriukmcXBIOyXbLOR9lxYqoQh1-G9P59tUyOX2OEEs-av0_0uvCasWBxfQ5nXsY2Y7V22j5o4mYs1DAMcQVsPzH8I3i4wIGBiOSGnunIUlf7sfLfncoxZxIENUL0HN8iEqMWUgNFUcfl5BEX7a7JSWoGpx2bgGBdNv-Hvd3f2TbhpZwWgZE3e4n6tqq2fKDoYTK_xwSvT82lpvNTnrsP1S-5y2GpV54IdgDcJ6wFLnqEATYN_BeyrS3zTydahODBtLEKwNG_TWrSxmqWLNJwnth3wZR6EI&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=YNmCRKQi5Q6Lqzwqj%2F4Uyg%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior
+Sobre a vaga
+Cientista de Dados Sênior - Deep LearningSobre a PicselA Picsel é uma empresa de inovação tecnológica no setor agrícola, especializada em simplificar e aprimorar a análise de risco agrícola através do uso de inteligência artificial e imagens de satélite. Desde nosso início em 2020, criamos soluções ágeis que integram tecnologias avançadas para facilitar a cotação, contratação, monitoramento e regulação de sinistros agrícolas de forma completamente digital. Estamos em busca de um profissional altamente qualificado para integrar nossa equipe de desenvolvimento e nos ajudar a impulsionar ainda mais nossas soluções.ResponsabilidadesDesenvolvimento de Modelos de Deep Learning: Implementar e treinar modelos de deep learning voltados para a análise e processamento de grandes volumes de imagens de satélite, com foco em aplicações agrícolas.Manipulação e Pré-processamento de Dados: Trabalhar com dados massivos de sensoriamento remoto, incluindo a manipulação de dados geoespaciais para alimentar os modelos de IA.Pesquisa e Desenvolvimento: Contribuir para a concepção e implementação de novas soluções baseadas em deep learning para melhorar o monitoramento agrícola, detecção de padrões e análise preditiva.Colaboração Multidisciplinar: Interagir com equipes de geoprocessamento, ciência de dados, e desenvolvimento de software para garantir a integração eficiente dos modelos em nossa plataforma de seguros.Comunicação de Resultados: Apresentar insights técnicos e recomendações baseados em dados de maneira clara e eficaz para stakeholders internos e externos.Exploração de Novas Tecnologias: Avaliar e integrar novas técnicas de deep learning e ferramentas de geoprocessamento que possam aprimorar o desempenho e a acurácia dos modelos da Picsel.RequisitosFormação:Doutorado em Ciência de Dados, Computação, Engenharia ou áreas correlatas, ou experiência mínima de 5 anos após a graduação na área de Estatística e/ou Ciência de Dados.Experiência:Sólida experiência no uso de técnicas de deep learning aplicadas ao processamento de imagens, preferencialmente em ambientes agrícolas.Experiência com uso de imagens de satélite (ex: Sentinel-2, Landsat).Habilidades Técnicas:Proficiência em Python e bibliotecas voltadas para deep learning, como TensorFlow, Keras, PyTorch, entre outras.Experiência com Redes Neurais Convolucionais (CNNs) aplicadas à análise de imagens e detecção de padrões em dados geoespaciais.Diferenciais:Conhecimento em análise de dados agrícolas, incluindo detecção de mudanças em culturas, estimativas de produtividade e saúde da vegetação.Experiência em infraestrutura de nuvem (AWS, Google Cloud etc.) e processamento de dados massivos de imagens.Perfil:Proatividade, foco em resultados e habilidade de trabalhar de forma colaborativa em equipes multidisciplinares.Capacidade de comunicar de forma clara os insights derivados de grandes volumes de dados.O Que OferecemosImpacto Direto: Fazer parte de projetos de grande impacto no setor agrícola, ajudando a criar soluções inovadoras que afetam positivamente a vida de muitos produtores.Ambiente Colaborativo: Trabalhar em uma equipe multidisciplinar de alto nível que utiliza as melhores práticas e ferramentas de ciência de dados e geoprocessamento.Desenvolvimento Profissional: Oportunidades de aprendizado contínuo, desenvolvimento pessoal e técnico, com a chance de estar na vanguarda da inovação tecnológica no agronegócio.
+Cientista de Dados Sênior - Deep Learning
+
+
+Sobre a Picsel
+
+
+
+
+Responsabilidades
+
+
+Desenvolvimento de Modelos de Deep Learning: Implementar e treinar modelos de deep learning voltados para a análise e processamento de grandes volumes de imagens de satélite, com foco em aplicações agrícolas.Manipulação e Pré-processamento de Dados: Trabalhar com dados massivos de sensoriamento remoto, incluindo a manipulação de dados geoespaciais para alimentar os modelos de IA.Pesquisa e Desenvolvimento: Contribuir para a concepção e implementação de novas soluções baseadas em deep learning para melhorar o monitoramento agrícola, detecção de padrões e análise preditiva.Colaboração Multidisciplinar: Interagir com equipes de geoprocessamento, ciência de dados, e desenvolvimento de software para garantir a integração eficiente dos modelos em nossa plataforma de seguros.Comunicação de Resultados: Apresentar insights técnicos e recomendações baseados em dados de maneira clara e eficaz para stakeholders internos e externos.Exploração de Novas Tecnologias: Avaliar e integrar novas técnicas de deep learning e ferramentas de geoprocessamento que possam aprimorar o desempenho e a acurácia dos modelos da Picsel.
+Desenvolvimento de Modelos de Deep Learning: Implementar e treinar modelos de deep learning voltados para a análise e processamento de grandes volumes de imagens de satélite, com foco em aplicações agrícolas.
+Desenvolvimento de Modelos de Deep Learning: Implementar e treinar modelos de deep learning voltados para a análise e processamento de grandes volumes de imagens de satélite, com foco em aplicações agrícolas.
+Manipulação e Pré-processamento de Dados: Trabalhar com dados massivos de sensoriamento remoto, incluindo a manipulação de dados geoespaciais para alimentar os modelos de IA.
+Manipulação e Pré-processamento de Dados: Trabalhar com dados massivos de sensoriamento remoto, incluindo a manipulação de dados geoespaciais para alimentar os modelos de IA.
+Pesquisa e Desenvolvimento: Contribuir para a concepção e implementação de novas soluções baseadas em deep learning para melhorar o monitoramento agrícola, detecção de padrões e análise preditiva.
+Pesquisa e Desenvolvimento: Contribuir para a concepção e implementação de novas soluções baseadas em deep learning para melhorar o monitoramento agrícola, detecção de padrões e análise preditiva.
+Colaboração Multidisciplinar: Interagir com equipes de geoprocessamento, ciência de dados, e desenvolvimento de software para garantir a integração eficiente dos modelos em nossa plataforma de seguros.
+Colaboração Multidisciplinar: Interagir com equipes de geoprocessamento, ciência de dados, e desenvolvimento de software para garantir a integração eficiente dos modelos em nossa plataforma de seguros.
+Comunicação de Resultados: Apresentar insights técnicos e recomendações baseados em dados de maneira clara e eficaz para stakeholders internos e externos.
+Comunicação de Resultados: Apresentar insights técnicos e recomendações baseados em dados de maneira clara e eficaz para stakeholders internos e externos.
+Exploração de Novas Tecnologias: Avaliar e integrar novas técnicas de deep learning e ferramentas de geoprocessamento que possam aprimorar o desempenho e a acurácia dos modelos da Picsel.
+Exploração de Novas Tecnologias: Avaliar e integrar novas técnicas de deep learning e ferramentas de geoprocessamento que possam aprimorar o desempenho e a acurácia dos modelos da Picsel.
+
+
+Requisitos
+
+
+Formação:Doutorado em Ciência de Dados, Computação, Engenharia ou áreas correlatas, ou experiência mínima de 5 anos após a graduação na área de Estatística e/ou Ciência de Dados.Experiência:Sólida experiência no uso de técnicas de deep learning aplicadas ao processamento de imagens, preferencialmente em ambientes agrícolas.Experiência com uso de imagens de satélite (ex: Sentinel-2, Landsat).Habilidades Técnicas:Proficiência em Python e bibliotecas voltadas para deep learning, como TensorFlow, Keras, PyTorch, entre outras.Experiência com Redes Neurais Convolucionais (CNNs) aplicadas à análise de imagens e detecção de padrões em dados geoespaciais.Diferenciais:Conhecimento em análise de dados agrícolas, incluindo detecção de mudanças em culturas, estimativas de produtividade e saúde da vegetação.Experiência em infraestrutura de nuvem (AWS, Google Cloud etc.) e processamento de dados massivos de imagens.Perfil:Proatividade, foco em resultados e habilidade de trabalhar de forma colaborativa em equipes multidisciplinares.Capacidade de comunicar de forma clara os insights derivados de grandes volumes de dados.
+Formação:
+Formação:
+Doutorado em Ciência de Dados, Computação, Engenharia ou áreas correlatas, ou experiência mínima de 5 anos após a graduação na área de Estatística e/ou Ciência de Dados.
+Doutorado em Ciência de Dados, Computação, Engenharia ou áreas correlatas, ou experiência mínima de 5 anos após a graduação na área de Estatística e/ou Ciência de Dados.
+Doutorado em Ciência de Dados, Computação, Engenharia ou áreas correlatas, ou experiência mínima de 5 anos após a graduação na área de Estatística e/ou Ciência de Dados.
+Experiência:
+Experiência:
+Sólida experiência no uso de técnicas de deep learning aplicadas ao processamento de imagens, preferencialmente em ambientes agrícolas.Experiência com uso de imagens de satélite (ex: Sentinel-2, Landsat).
+Sólida experiência no uso de técnicas de deep learning aplicadas ao processamento de imagens, preferencialmente em ambientes agrícolas.
+Sólida experiência no uso de técnicas de deep learning aplicadas ao processamento de imagens, preferencialmente em ambientes agrícolas.
+Experiência com uso de imagens de satélite (ex: Sentinel-2, Landsat).
+Experiência com uso de imagens de satélite (ex: Sentinel-2, Landsat).
+Habilidades Técnicas:
+Habilidades Técnicas:
+Proficiência em Python e bibliotecas voltadas para deep learning, como TensorFlow, Keras, PyTorch, entre outras.Experiência com Redes Neurais Convolucionais (CNNs) aplicadas à análise de imagens e detecção de padrões em dados geoespaciais.
+Proficiência em Python e bibliotecas voltadas para deep learning, como TensorFlow, Keras, PyTorch, entre outras.
+Proficiência em Python e bibliotecas voltadas para deep learning, como TensorFlow, Keras, PyTorch, entre outras.
+Experiência com Redes Neurais Convolucionais (CNNs) aplicadas à análise de imagens e detecção de padrões em dados geoespaciais.
+Experiência com Redes Neurais Convolucionais (CNNs) aplicadas à análise de imagens e detecção de padrões em dados geoespaciais.
+Diferenciais:
+Diferenciais:
+Conhecimento em análise de dados agrícolas, incluindo detecção de mudanças em culturas, estimativas de produtividade e saúde da vegetação.Experiência em infraestrutura de nuvem (AWS, Google Cloud etc.) e processamento de dados massivos de imagens.
+Conhecimento em análise de dados agrícolas, incluindo detecção de mudanças em culturas, estimativas de produtividade e saúde da vegetação.
+Conhecimento em análise de dados agrícolas, incluindo detecção de mudanças em culturas, estimativas de produtividade e saúde da vegetação.
+Experiência em infraestrutura de nuvem (AWS, Google Cloud etc.) e processamento de dados massivos de imagens.
+Experiência em infraestrutura de nuvem (AWS, Google Cloud etc.) e processamento de dados massivos de imagens.
+Perfil:
+Perfil:
+Proatividade, foco em resultados e habilidade de trabalhar de forma colaborativa em equipes multidisciplinares.Capacidade de comunicar de forma clara os insights derivados de grandes volumes de dados.
+Proatividade, foco em resultados e habilidade de trabalhar de forma colaborativa em equipes multidisciplinares.
+Proatividade, foco em resultados e habilidade de trabalhar de forma colaborativa em equipes multidisciplinares.
+Capacidade de comunicar de forma clara os insights derivados de grandes volumes de dados.
+Capacidade de comunicar de forma clara os insights derivados de grandes volumes de dados.
+
+O Que Oferecemos
+
+
+Impacto Direto: Fazer parte de projetos de grande impacto no setor agrícola, ajudando a criar soluções inovadoras que afetam positivamente a vida de muitos produtores.Ambiente Colaborativo: Trabalhar em uma equipe multidisciplinar de alto nível que utiliza as melhores práticas e ferramentas de ciência de dados e geoprocessamento.Desenvolvimento Profissional: Oportunidades de aprendizado contínuo, desenvolvimento pessoal e técnico, com a chance de estar na vanguarda da inovação tecnológica no agronegócio.
+Impacto Direto: Fazer parte de projetos de grande impacto no setor agrícola, ajudando a criar soluções inovadoras que afetam positivamente a vida de muitos produtores.
+Impacto Direto: Fazer parte de projetos de grande impacto no setor agrícola, ajudando a criar soluções inovadoras que afetam positivamente a vida de muitos produtores.
+Ambiente Colaborativo: Trabalhar em uma equipe multidisciplinar de alto nível que utiliza as melhores práticas e ferramentas de ciência de dados e geoprocessamento.
+Ambiente Colaborativo: Trabalhar em uma equipe multidisciplinar de alto nível que utiliza as melhores práticas e ferramentas de ciência de dados e geoprocessamento.
+Desenvolvimento Profissional: Oportunidades de aprendizado contínuo, desenvolvimento pessoal e técnico, com a chance de estar na vanguarda da inovação tecnológica no agronegócio.
+Desenvolvimento Profissional: Oportunidades de aprendizado contínuo, desenvolvimento pessoal e técnico, com a chance de estar na vanguarda da inovação tecnológica no agronegócio.

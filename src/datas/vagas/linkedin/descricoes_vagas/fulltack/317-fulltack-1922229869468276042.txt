@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/4061916570/?eBP=CwEAAAGS7g-URMVShN7RtSi6kShUt6qAxfLg5XY6ngtUlMQH3C-9PfsUYNNV4lx-Zhmjjy9uikPPg-njnVjvANnH8IRca-xV-8cQsBBO1eeOnVJI-p_D15g8nhOxbM44i2qaIPGItLm8-T_D95xSWMTen5z6l4A5ilT2cAkTsbB7-UKjlD6o0fxYiTtzG1Z7z4qoSo03ztoSSBG-Bv8l5LPLW-L9xfWytqmT9QJVWVE8RKV2xwJ5g76bCmgHr2sAm1LiLYtsfypKhupnmp8jXb7pSA5SvJTOfPrbDSCYtLlwQzI1U-DI0gxSHz9bk7fJAhcoah66B0dvBKGzmGjP9pP90BZln4IduS-8KnAtTxU0w4-SrQPy6DyjU9MRofcaLy8rLUYQRyvqAxISOzRoc98YOac-rARDY6HAsXGE1Z02_l3IcjQcMZAyBT_fh_VVbXVd-CMib-2HenRw-nIZLtNBFI753O0RoThJZ-E2rTSPUQ7ehu49WWYFDvpuacaUCgFqyQB8Hobmbg&refId=ZNTassECJtBZJDov0qiO4A%3D%3D&trackingId=0Kneopr7cxskTrHbuEthGw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Desenvolvimento de Software Fullstack
+Sobre a vaga
+Company DescriptionSomos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.Venha descobrir um mundo inesperado com a gente.Job DescriptionVocê será responsável por:Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Java, Spring Boot.Eventualmente desenvolver e manter aplicações web em Angular;Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;Manter-se atualizado com as últimas tendências e tecnologias do setor;Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.QualificationsO que estamos buscando em você?Experiência em soluções em microsservices, conteinerizados (Docker) e orquestrados (Kubernetes).Experiência prática em desenvolvimento de aplicações modernas (APIs) e websites/plataformas.Ter experiência em pelo menos uma das stacks abaixo:Java 11+/Spring BootTeste unitário (JUnit + Mockito)Teste de Performance (JMeter)Banco da dados (MongoDB/DocumentDB e MySQL)Angular 15+ / (Desejável)React / Next JSTer conhecimento em ferramentas de mensageria e eventos - RabbitMQ e Kafka;Conhecimento dos principais modelos e padrões de arquitetura de aplicações – DDD, BDD, Microfrontends, Design Patterns, SOLID, Service Mesh, Enterprise Integration Patterns;Boa capacidade de planejamento, organização e documentação.Additional InformationO que te oferecemos como diferencial!Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!Experian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+
+
+
+
+Job Description
+
+
+Você será responsável por:
+
+
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Java, Spring Boot.Eventualmente desenvolver e manter aplicações web em Angular;Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;Manter-se atualizado com as últimas tendências e tecnologias do setor;Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Java, Spring Boot.
+Projetar, desenvolver e manter aplicações e micros serviços do lado do servidor usando Java, Spring Boot.
+Eventualmente desenvolver e manter aplicações web em Angular;
+Eventualmente desenvolver e manter aplicações web em Angular;
+Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;
+Escrever código limpo, manutenível e eficiente, seguindo as melhores práticas e padrões de codificação;
+Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;
+Desenvolver e integrar APIs RESTful, garantindo alta performance e capacidade de resposta às requisições do front-end;
+Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;
+Projetar e otimizar esquemas de banco de dados, consultas e transações para performance e escalabilidade;
+Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;
+Produzir documentação técnica para apoiar o desenvolvimento contínuo e a manutenção das aplicações;
+Manter-se atualizado com as últimas tendências e tecnologias do setor;
+Manter-se atualizado com as últimas tendências e tecnologias do setor;
+Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+Fornecer orientação técnica à equipe de desenvolvimento, promovendo melhores práticas e ajudando a resolver problemas e complexos.
+
+
+Qualifications
+
+
+O que estamos buscando em você?
+
+
+Experiência em soluções em microsservices, conteinerizados (Docker) e orquestrados (Kubernetes).Experiência prática em desenvolvimento de aplicações modernas (APIs) e websites/plataformas.Ter experiência em pelo menos uma das stacks abaixo:Java 11+/Spring BootTeste unitário (JUnit + Mockito)Teste de Performance (JMeter)Banco da dados (MongoDB/DocumentDB e MySQL)Angular 15+ / (Desejável)React / Next JSTer conhecimento em ferramentas de mensageria e eventos - RabbitMQ e Kafka;Conhecimento dos principais modelos e padrões de arquitetura de aplicações – DDD, BDD, Microfrontends, Design Patterns, SOLID, Service Mesh, Enterprise Integration Patterns;Boa capacidade de planejamento, organização e documentação.
+Experiência em soluções em microsservices, conteinerizados (Docker) e orquestrados (Kubernetes).
+Experiência em soluções em microsservices, conteinerizados (Docker) e orquestrados (Kubernetes).
+Experiência prática em desenvolvimento de aplicações modernas (APIs) e websites/plataformas.
+Experiência prática em desenvolvimento de aplicações modernas (APIs) e websites/plataformas.
+Ter experiência em pelo menos uma das stacks abaixo:
+Ter experiência em pelo menos uma das stacks abaixo:
+Java 11+/Spring Boot
+Java 11+/Spring Boot
+Teste unitário (JUnit + Mockito)
+Teste unitário (JUnit + Mockito)
+Teste de Performance (JMeter)
+Teste de Performance (JMeter)
+Banco da dados (MongoDB/DocumentDB e MySQL)
+Banco da dados (MongoDB/DocumentDB e MySQL)
+Angular 15+ / (Desejável)
+Angular 15+ / (Desejável)
+React / Next JS
+React / Next JS
+Ter conhecimento em ferramentas de mensageria e eventos - RabbitMQ e Kafka;
+Ter conhecimento em ferramentas de mensageria e eventos - RabbitMQ e Kafka;
+Conhecimento dos principais modelos e padrões de arquitetura de aplicações – DDD, BDD, Microfrontends, Design Patterns, SOLID, Service Mesh, Enterprise Integration Patterns;
+Conhecimento dos principais modelos e padrões de arquitetura de aplicações – DDD, BDD, Microfrontends, Design Patterns, SOLID, Service Mesh, Enterprise Integration Patterns;
+Boa capacidade de planejamento, organização e documentação.
+Boa capacidade de planejamento, organização e documentação.
+
+
+Additional Information
+
+
+O que te oferecemos como diferencial!
+
+
+Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Ambiente em plena transformação;
+Ambiente em plena transformação;
+
+Atuação global.
+Atuação global.
+
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+
+
+
+
+

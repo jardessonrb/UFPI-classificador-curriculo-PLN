@@ -1,0 +1,16 @@
+{
+    "link": null,
+    "cargo": "Descrição",
+    "DESCRICAO_VAGA": [
+        "Descrição",
+        "Profissional realizará testes e análises de falhas de software para sistemas automotivos.",
+        "Bem como, vai realizar report de evolução das atividades e gerir planos de ação."
+    ],
+    "REQUISITOS_QUALIFICACOES": [
+        "Graduação em Tecnologias Automotivas ou Engenharias Eletrônica, Elétrica, Mecatrônica, Computação, Ciência da Computação.",
+        "Experiência em sistemas eletrônicos embarcados desenvolvidos em linguagem C/C++.",
+        "Inglês intermediário (leitura/escrita).",
+        "Experiências desejáveis:",
+        "Área automotiva, conhecimento em ferramentas da Vector como CANalyser, CANoe.:"
+    ]
+}

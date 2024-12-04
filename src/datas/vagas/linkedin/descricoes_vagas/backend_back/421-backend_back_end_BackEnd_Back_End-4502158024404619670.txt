@@ -1,0 +1,97 @@
+link-https://www.linkedin.com/jobs/view/3996509427/?eBP=CwEAAAGS7lD1Uq1gRk0kgPtOAmw5tRcESU6Hc4KH1KrVdmenm2DZZhQHvtcNYB4JVkPRAvGl6HIYpxw9Gr5rB4FUbBzungRWLUHQFDYHK6MSPfCShzF5ijmApEadl4kRigjJyUFsxL4un8kRA6s-Q6wMSkwVduJUmKpKGXTleBebMrNL7XMtEusLk_y_DIx-A43pxUoN_flenuVY-S2eep04nT4ivVshco_CQCVv_Jvx9EGTEBVEF0nha9gq9h_zGrMnvfBY-AYuLcT50ZH0IUku1cxqpDiXHCgGLnVoCzW59BkvagsIcG2zjdoi85H6EWDpTDdk-ypeUbnhm1_T-S8tO7qUyXRFMusjaYbzTs4SQXepind4C4qmk_s5TPVJEGn8V3Vmd4DOZTlvOFKuDI5rEcH5Pf0QpyKasIKn1d7S3v1QAce3E5LP0XuYX-3HqdvlcxQNIz1iJET1UW797T7hz0-uPvC97KuAnxetppTNV-tCKkbjjznvaaZQis_mj2BrgY7C&refId=iFoNm80mDkJh%2FNl7uvG14w%3D%3D&trackingId=nczNLWj3Bm05VQdS890zjg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Developer
+Sobre a vaga
+Ebury is a hyper-growth FinTech firm, named in 2021 as one of the top 15 European Fintechs to work for by AltFi. We offer a range of products including FX risk management, trade finance, currency accounts, international payments and API integration.Senior Backend DeveloperSão Paulo Office - Hybrid working: 4 days in the office, 1 day working from homeWe are looking for professionals who are connected to new trends and who combine analytical skills with an entrepreneurial mindset:Develop software with enthusiasm and collaboratively;We are constantly learning! Making mistakes is part of the evolution process;We are product-oriented and designed by multidisciplinary teams;We value a work environment that stimulates creativity and well-being.We are looking for aBackend Developerwho is aligned with the technological stack that we use. If you don't have a perfect match, don't worry, we value diverse knowledge and you will certainly learn a lot from our team.Responsibilities And DutiesMultidisciplinary teams focused on product;Agile methodology with TDD and BDD practices;Scalable architecture focused on microservices;Microservices written in Golang;Automated tests written in Python;Cloud-based Continuous Integration and Deployment;Cloud architecture automation;Data persistence;Immutable infrastructure with containers managed via container.Requirements And QualificationsContributions to open-source projects are a plus;Experience with distributed systems using GRPC, Rest, Messaging, and different protocols;Knowledge and experience with databases such as SQL Server, Firestore, DataStore, DynamoDB, Postgres, and Mongodb;Familiarity with cloud computing services (AWS, Google Cloud Platform);Proficiency in Languages: Golang, Java, Node, and Python; Previous experience in teams using agile methodology;Experience in team structures with product (PO, PM, etc.);Knowledge and interest in the financial market.At Ebury Bank we value diversity in all its forms and are committed to creating an inclusive environment. All of our vacancies are open and eligible for people with disabilities.About UsEbury is a FinTech success story, positioned among the fastest-growing international companies in its sector.Founded in 2009, we are headquartered in London and have more than 1700 staff with a presence in more than 25 countries worldwide. Cultural diversity is part of what makes Ebury a special place to be. From Sao Paulo to Dubai, Bucharest to Toronto, we enjoy sharing team experiences and celebrating success across the Ebury family.Hard work pays off: in 2019, Ebury received a £350 million investment from Banco Santander and has won internationally recognised awards including Financial Times: 1000 Europe's Fastest-Growing Companies.None of this would have been possible without our proudest achievement: our great people. Enthusiastic, innovative and collaborative teams, always ready to disrupt and revolutionise the fast-paced FinTech sector.We believe in inclusion. We stand against discrimination in all forms and have no tolerance for the intolerance of differences that makes us a modern and successful organisation. At Ebury, you can be whoever you want to be and still feel a sense of belonging no matter your story because we want you and your uniqueness to help write our future.Please submit your application on the careers website directly, uploading your CV / resume in English.
+
+
+Senior Backend Developer
+
+
+São Paulo Office - Hybrid working: 4 days in the office, 1 day working from home
+
+
+We are looking for professionals who are connected to new trends and who combine analytical skills with an entrepreneurial mindset:
+
+
+Develop software with enthusiasm and collaboratively;We are constantly learning! Making mistakes is part of the evolution process;We are product-oriented and designed by multidisciplinary teams;We value a work environment that stimulates creativity and well-being.
+Develop software with enthusiasm and collaboratively;
+Develop software with enthusiasm and collaboratively;
+We are constantly learning! Making mistakes is part of the evolution process;
+We are constantly learning! Making mistakes is part of the evolution process;
+We are product-oriented and designed by multidisciplinary teams;
+We are product-oriented and designed by multidisciplinary teams;
+We value a work environment that stimulates creativity and well-being.
+We value a work environment that stimulates creativity and well-being.
+
+
+
+Backend Developer
+
+
+
+Responsibilities And Duties
+
+
+Multidisciplinary teams focused on product;Agile methodology with TDD and BDD practices;Scalable architecture focused on microservices;Microservices written in Golang;Automated tests written in Python;Cloud-based Continuous Integration and Deployment;Cloud architecture automation;Data persistence;Immutable infrastructure with containers managed via container.
+Multidisciplinary teams focused on product;
+Multidisciplinary teams focused on product;
+Agile methodology with TDD and BDD practices;
+Agile methodology with TDD and BDD practices;
+Scalable architecture focused on microservices;
+Scalable architecture focused on microservices;
+Microservices written in Golang;
+Microservices written in Golang;
+Automated tests written in Python;
+Automated tests written in Python;
+Cloud-based Continuous Integration and Deployment;
+Cloud-based Continuous Integration and Deployment;
+Cloud architecture automation;
+Cloud architecture automation;
+Data persistence;
+Data persistence;
+Immutable infrastructure with containers managed via container.
+Immutable infrastructure with containers managed via container.
+
+
+Requirements And Qualifications
+
+
+Contributions to open-source projects are a plus;Experience with distributed systems using GRPC, Rest, Messaging, and different protocols;Knowledge and experience with databases such as SQL Server, Firestore, DataStore, DynamoDB, Postgres, and Mongodb;Familiarity with cloud computing services (AWS, Google Cloud Platform);Proficiency in Languages: Golang, Java, Node, and Python; Previous experience in teams using agile methodology;Experience in team structures with product (PO, PM, etc.);Knowledge and interest in the financial market.
+Contributions to open-source projects are a plus;
+Contributions to open-source projects are a plus;
+Experience with distributed systems using GRPC, Rest, Messaging, and different protocols;
+Experience with distributed systems using GRPC, Rest, Messaging, and different protocols;
+Knowledge and experience with databases such as SQL Server, Firestore, DataStore, DynamoDB, Postgres, and Mongodb;
+Knowledge and experience with databases such as SQL Server, Firestore, DataStore, DynamoDB, Postgres, and Mongodb;
+Familiarity with cloud computing services (AWS, Google Cloud Platform);
+Familiarity with cloud computing services (AWS, Google Cloud Platform);
+Proficiency in Languages: Golang, Java, Node, and Python; Previous experience in teams using agile methodology;
+Proficiency in Languages: Golang, Java, Node, and Python; Previous experience in teams using agile methodology;
+Experience in team structures with product (PO, PM, etc.);
+Experience in team structures with product (PO, PM, etc.);
+Knowledge and interest in the financial market.
+Knowledge and interest in the financial market.
+
+
+At Ebury Bank we value diversity in all its forms and are committed to creating an inclusive environment. All of our vacancies are open and eligible for people with disabilities.
+
+
+About Us
+
+
+Ebury is a FinTech success story, positioned among the fastest-growing international companies in its sector.
+
+
+
+
+
+
+
+
+We believe in inclusion. We stand against discrimination in all forms and have no tolerance for the intolerance of differences that makes us a modern and successful organisation. At Ebury, you can be whoever you want to be and still feel a sense of belonging no matter your story because we want you and your uniqueness to help write our future.
+
+
+Please submit your application on the careers website directly, uploading your CV / resume in English.
+
+

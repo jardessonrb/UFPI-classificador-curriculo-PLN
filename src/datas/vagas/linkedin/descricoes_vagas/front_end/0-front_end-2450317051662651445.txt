@@ -1,0 +1,192 @@
+link-https://www.linkedin.com/jobs/view/4058536199/?eBP=CwEAAAGS7kzxeuLxkW3TzRpRgCtfuuo0d4wJB5C2yZxmLPwjVWQc59XyakskMb_FT-BjBbTXref2SEdIDqzjyD7VzUvKk2dCHI1H8MO2M2ZJXi5oS4W5CVUvKgSX6owDSJa2QCqtiSk6u5uN2D-GZVkN1_TwXzKXaCkTpKCjoEI1aO3AOGArRmjsiovA7OhhEEYOKQMTmPtskOQXdFU6Dk_5Kw7qwlSK9AnqZM1gxnpEXfD3zy07BsmmUVTDc4QcVmzpAe1Rrl08Nrq5Oh4z8efrKGrzCTSMxmB5sfJc-5Z3uRKXbATt4VvAORZBi3OKxoU242526djt4SwvrvD0woP03B0W1_pVNgrv-JYy9qdh5pubqxKpuV920BnN-2xcJGtl7dbr6qVlsg5zTXvI48O9-bU2FKTCNENMVdJhe43xO_Aimqm-wFGtBAORMbFWttBnvHD9b5mjL_RjcLH0xkNVnKFAtiAHBVq2zDbgzPfuARtqg8u0Hq_nIv2BJAXuDA&refId=94gnrwbwd5H%2FUFz3Hr4KsQ%3D%3D&trackingId=%2FWjMe0SmsmLAHpb46irXWw%3D%3D&trk=flagship3_search_srp_jobs
+
+Arquiteto Front End
+Sobre a vaga
+Um time que faz parte da mudançaAbraçamos o poder da mudança para criar valor e sucesso compartilhado para nossos clientes, funcionários, acionistas, parceiros e comunidades. Contamos com a maior rede mundial de centros de tecnologia avançada e operações inteligentes.Provocamos a mudança no mercadoTrabalhamos juntos mundo afora para fazer um mundo de diferenças. A Accenture é uma empresa global de serviços profissionais líder em soluções para digital, nuvem e segurança. Ao combinar experiência incomparável e habilidades especializadas em mais de 40 setores, oferecemos serviços em Estratégia e Consultoria, Tecnologia, Operações, Industry X e a Accenture Song.Ao trabalharmos juntos, a mudança se torna a fonte de progresso mais dinâmica e poderosa que você tem. Somos mais de 738mil pessoas, presentes em mais de 120 países, engajados em fazer inovação todos os dias e transformar o mundo em um lugar melhor para as pessoas.Junte-se a nós - SongJunte-se a nós e dê vida a ideias ousadas de maior impacto através do potencial ilimitado de criatividade, tecnologia e inteligência. Nosso time está repleto de designers, criadores e estrategistas ousados, curiosos e imaginativos que tornam as marcas relevantes para hoje e amanhã. Trabalhe para encontrar novas maneiras de moldar e entregar o propósito da marca por meio de ideias inovadoras que impactam toda a experiência do cliente. Colabore para construir e compartilhar insights valiosos para preencher os espaços em branco com ideias criativas.Profissional fará parte do time de arquitetura e desenvolvimento de canais digitais da Accenture Song. Para tal oportunidade, é buscado:Sólida experiência em desenho de arquitetura de aplicação e desenvolvimento web, com um foco especial em microfrontends, será um diferencial ferramentas de CMS.ResponsabilidadesProjetar e implementar arquiteturas web escaláveis e de alta performance.Desenvolver e gerenciar soluções de microfrontends para melhorar a modularidade e a manutenção do código.Colaborar com equipes de desenvolvimento, design e produto para garantir a melhor experiência do usuário.Identificar e implementar melhorias contínuas na arquitetura web.Garantir a conformidade com as melhores práticas de segurança e desempenho.Fornecer orientação técnica e mentoria para a equipe de desenvolvimento.RequisitosExperiência comprovada como Arquiteto Front End/Web ou em um cargo similar.Conhecimento profundo de microfrontends e sua implementação.Conhecimento em práticas de segurança web, como OWASP, criptografia e autenticação.Habilidade para identificar gargalos de desempenho e otimizar aplicações web para alta performance.Experiência em integração com APIs RESTful, GraphQL e outros serviços externos.Experiência comprovada em frameworks modernos de desenvolvimento web (especialmente React/Next.js).Habilidade para resolver problemas complexos e apresentar soluções inovadoras.Excelentes habilidades de comunicação e trabalho em equipe.DiferencialIntegrar e gerenciar ferramentas de CMS para facilitar a criação e a gestão de conteúdo.Experiência com ferramentas de CMS e abordagem headless.Desejável conhecimento em integração com ferramentas de martech.Benefícios:Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);Assistência Odontológica;Vale Refeição ou Alimentação sem desconto;Seguro de vida;Previdência Privada;Gympass;Opção de compra de ações da empresa com descontoDesconto Farmácia*Auxílio Creche*Parceria com escola de idiomas*Licença Maternidade e Paternidade EstendidaPPR*Conforme política vigenteBuscamos perfis que estejam alinhados aos valores da empresa, entusiastas em trabalhar em um ambiente colaborativo e dinâmico, com excelência na entrega e inovação presentes em seu dia a dia.Valorizamos competências independentemente de raça, idade, gênero, orientação sexual, credo, deficiência e convicção política. A diversidade das nossas pessoas é o que nos permite cumprir a promessa da tecnologia e da criatividade humana.Reconhecemos as características únicas dos indivíduos, respeitamos as diferenças e investimos em um ambiente cada vez mais inclusivo.
+Um time que faz parte da mudança
+
+
+
+
+Provocamos a mudança no mercado
+
+
+
+
+
+
+Junte-se a nós - Song
+
+
+
+
+
+
+
+
+
+Responsabilidades
+
+
+
+Projetar e implementar arquiteturas web escaláveis e de alta performance.
+Projetar e implementar arquiteturas web escaláveis e de alta performance.
+
+
+
+Desenvolver e gerenciar soluções de microfrontends para melhorar a modularidade e a manutenção do código.
+Desenvolver e gerenciar soluções de microfrontends para melhorar a modularidade e a manutenção do código.
+
+
+
+Colaborar com equipes de desenvolvimento, design e produto para garantir a melhor experiência do usuário.
+Colaborar com equipes de desenvolvimento, design e produto para garantir a melhor experiência do usuário.
+
+
+
+Identificar e implementar melhorias contínuas na arquitetura web.
+Identificar e implementar melhorias contínuas na arquitetura web.
+
+
+
+Garantir a conformidade com as melhores práticas de segurança e desempenho.
+Garantir a conformidade com as melhores práticas de segurança e desempenho.
+
+
+
+Fornecer orientação técnica e mentoria para a equipe de desenvolvimento.
+Fornecer orientação técnica e mentoria para a equipe de desenvolvimento.
+
+
+
+
+Requisitos
+
+
+
+Experiência comprovada como Arquiteto Front End/Web ou em um cargo similar.
+Experiência comprovada como Arquiteto Front End/Web ou em um cargo similar.
+
+
+
+Conhecimento profundo de microfrontends e sua implementação.
+Conhecimento profundo de microfrontends e sua implementação.
+
+
+
+Conhecimento em práticas de segurança web, como OWASP, criptografia e autenticação.
+Conhecimento em práticas de segurança web, como OWASP, criptografia e autenticação.
+
+
+
+Habilidade para identificar gargalos de desempenho e otimizar aplicações web para alta performance.
+Habilidade para identificar gargalos de desempenho e otimizar aplicações web para alta performance.
+
+
+
+Experiência em integração com APIs RESTful, GraphQL e outros serviços externos.
+Experiência em integração com APIs RESTful, GraphQL e outros serviços externos.
+
+
+
+Experiência comprovada em frameworks modernos de desenvolvimento web (especialmente React/Next.js).
+Experiência comprovada em frameworks modernos de desenvolvimento web (especialmente React/Next.js).
+
+
+
+Habilidade para resolver problemas complexos e apresentar soluções inovadoras.
+Habilidade para resolver problemas complexos e apresentar soluções inovadoras.
+
+
+
+Excelentes habilidades de comunicação e trabalho em equipe.
+Excelentes habilidades de comunicação e trabalho em equipe.
+
+
+
+
+Diferencial
+
+
+
+Integrar e gerenciar ferramentas de CMS para facilitar a criação e a gestão de conteúdo.
+Integrar e gerenciar ferramentas de CMS para facilitar a criação e a gestão de conteúdo.
+
+
+
+Experiência com ferramentas de CMS e abordagem headless.
+Experiência com ferramentas de CMS e abordagem headless.
+
+
+
+Desejável conhecimento em integração com ferramentas de martech.
+Desejável conhecimento em integração com ferramentas de martech.
+
+
+
+
+Benefícios:
+
+
+
+
+Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);
+Assistência Médica - 100% subsidiada pela empresa (titular e dependentes);
+
+
+Assistência Odontológica;
+Assistência Odontológica;
+
+
+Vale Refeição ou Alimentação sem desconto;
+Vale Refeição ou Alimentação sem desconto;
+
+
+Seguro de vida;
+Seguro de vida;
+
+
+Previdência Privada;
+Previdência Privada;
+
+
+Gympass;
+Gympass;
+
+
+Opção de compra de ações da empresa com desconto
+Opção de compra de ações da empresa com desconto
+
+
+Desconto Farmácia*
+Desconto Farmácia*
+
+
+
+Auxílio Creche*
+Auxílio Creche*
+
+
+
+Parceria com escola de idiomas*
+Parceria com escola de idiomas*
+
+
+
+Licença Maternidade e Paternidade Estendida
+Licença Maternidade e Paternidade Estendida
+
+
+PPR*
+PPR*
+
+
+Conforme política vigente
+Conforme política vigente
+
+
+
+
+
+
+

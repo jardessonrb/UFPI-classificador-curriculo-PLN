@@ -1,0 +1,220 @@
+link-https://www.linkedin.com/jobs/view/4063359367/?eBP=CwEAAAGS7lMjysA1hc5P0Fmnioa5zuk3LJj4_j4YxhRmvXavdb1HxOhQz339D5rCMWMsEgUoIxip1utwjGTnzuDx9enK3zw4KQyn0hYEJpdaeNbNoSdO0RIm31aXe0FRNrU2jVBhUuliVyPbsiDhnQ-RVf63pxbLZIw56CZR4elgXHJ_xVzDnBplfaNkGqBjAwzzqQWpy3yw8tbjGapr63oWAkMjHIyeMgpm5owiv1WQr1_6yGFhmiWAdCxsaPHCeiLbJA1knCG0hvD0s4xAo7tS1PgJFJDxWXJzsUSzxG5Wybuvji_Oatil7tVn9XJn5p1Togzh324lKlQU1JkCvSU2ZHJasE1Dt7cuSEn9n1lcoIsmf1y43gTgqf_AgmaXg8k-tahAawxj82DYxJZO_RTK-r-ocYJkxtgJQpu0fy6ZxLUPrLjeOeCEE5FdgYHCu5kFZxlep6_CahV8AUeLn5_fHuOyvtpC_ulVo1zFOLsEUUfA0f_Rdi5lBIa0ZH4NqghO&refId=OQu53QYd3G51YfBB8Smbnw%3D%3D&trackingId=su%2FvLEFmFftTBEZHxdjPAQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend III .Net (Venda Direta)
+Sobre a vaga
+Job DescriptionUm dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES,Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Responsibilities and assignmentsConheça o time de VD+VD+ é um sistema robusto que centraliza e gerencia informações sobre produtos (SKU), clientes, fornecedores, lojas, centros de distribuição, estoques, preços e muito mais. Controlando os níveis de estoque em toda a cadeia, desde os Centros de Distribuição até as Lojas, com informações sobre localização, lotes, validade, movimentação e reposição. Recebendo pedidos de diferentes canais (lojas, e-commerce, revendedoras), separando, emitindo notas fiscais e encaminhando para expedição. Realiza o planejamento e monitoramento das entregas, definindo rotas, modalidades de transporte e rastreando as entregas em tempo real.Como será o seu dia a dia?Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;Contribuir com soluções que sejam consistentes com os objetivos da área;Expor sua perspectiva técnica em discussões e contribui na tomada de decisão.Requirements And QualificationsPara isso, você precisa ter ou saber:.NET Framework & .NET 8: Desenvolvimento de aplicações utilizando .NET Framework 4.8/ASP.NETe migração para .NET 8;Microsserviços & Clean Architecture: Migração de sistemas monolíticos para arquiteturas de microsserviços utilizando Clean Architecture;SQL Server & ORMs: Modelagem e consulta de dados em SQL Server, com experiência em Entity Framework e Dapper;Testes Unitários & DDD: Aplicação de Domain-Driven Design (DDD) e garantia da qualidade do código através de testes unitários com xUnit;Gitflow, Docker & Kubernetes: Utilização de Gitflow para versionamento de código e implementação de pipelines CI/CD com Docker e Kubernetes;Cloud & Minimal APIs: Desenvolvimento e deploy de aplicações “cloud-first” em Azure ou AWS, utilizando Minimal APIs;Estrutura de Dados: Domínio de estruturas de dados para desenvolvimento de soluções eficientes e otimizadas.Additional informationNOSSOS BENEFÍCIOSJá falamos que o Grupo Boticário é omelhoremaiorecossistema de beleza, né?E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios*que permite uma vida mais equilibrada e completa:Aqui, sua Saúde é prioridadePlano médico e odontológicoAuxílio medicamentosVale saúde para familiaresSessões de psicoterapia gratuitasTelemedicina e 2ª opinião médicaVacina da gripe e HPV gratuitasProgramas de cuidado com a saúdePara cuidar da sua AlimentaçãoVale refeição ou restaurante local (conforme modelo de trabalho)Vale alimentaçãoVale alimentação de NatalGarantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vidaPlano de academias e estúdios de atividade físicaAuxílio home office (modelos de trabalho híbrido e remoto)Plano de saúde para petsDay off de aniversárioDesconto de até 40% em nossos produtosAssociação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)Programa de viagens e hospedagensPara a Família, nosso bem mais preciosoAuxílio educação infantilCrédito nutrição infantilAuxílio babáAuxílio material escolarOrientação jurídica, psicológica e socialApoio para país atípicosLicença parental estendida (180 dias para mães e 120 dias para pais)Mobilidade para sua jornada presencialVale Transporte e Estacionamento (modelos híbrido e presencial)Seguridade para proteção e tranquilidade financeiraSeguro de VidaApoio ao falecimento de paisPrevidência PrivadaEmpréstimos consignadosOs pacotes de benefícios são configurados conforme regras de elegibilidade.Process stagesStep 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e SeleçãoStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Entrevista com Liderança5Entrevista com LiderançaStep 6: Entrevista Interface6Entrevista InterfaceStep 7: Carta Oferta7Carta OfertaStep 8: Processo Admissional8Processo AdmissionalStep 9: Hiring9HiringGrupo BoticárioDe uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.Vem fazer beleza com a gente!
+Job Description
+
+
+
+
+
+
+
+
+
+Conheça o time de VD+
+
+
+
+
+Como será o seu dia a dia?
+
+
+
+Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;Contribuir com soluções que sejam consistentes com os objetivos da área;Expor sua perspectiva técnica em discussões e contribui na tomada de decisão.
+Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;
+Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;
+Contribuir com soluções que sejam consistentes com os objetivos da área;
+Contribuir com soluções que sejam consistentes com os objetivos da área;
+Expor sua perspectiva técnica em discussões e contribui na tomada de decisão.
+Expor sua perspectiva técnica em discussões e contribui na tomada de decisão.
+
+
+
+Requirements And Qualifications
+
+
+Para isso, você precisa ter ou saber:
+
+
+
+.NET Framework & .NET 8: Desenvolvimento de aplicações utilizando .NET Framework 4.8/ASP.NETe migração para .NET 8;Microsserviços & Clean Architecture: Migração de sistemas monolíticos para arquiteturas de microsserviços utilizando Clean Architecture;SQL Server & ORMs: Modelagem e consulta de dados em SQL Server, com experiência em Entity Framework e Dapper;Testes Unitários & DDD: Aplicação de Domain-Driven Design (DDD) e garantia da qualidade do código através de testes unitários com xUnit;Gitflow, Docker & Kubernetes: Utilização de Gitflow para versionamento de código e implementação de pipelines CI/CD com Docker e Kubernetes;Cloud & Minimal APIs: Desenvolvimento e deploy de aplicações “cloud-first” em Azure ou AWS, utilizando Minimal APIs;Estrutura de Dados: Domínio de estruturas de dados para desenvolvimento de soluções eficientes e otimizadas.
+.NET Framework & .NET 8: Desenvolvimento de aplicações utilizando .NET Framework 4.8/ASP.NETe migração para .NET 8;
+.NET Framework & .NET 8: Desenvolvimento de aplicações utilizando .NET Framework 4.8/ASP.NETe migração para .NET 8;
+
+Microsserviços & Clean Architecture: Migração de sistemas monolíticos para arquiteturas de microsserviços utilizando Clean Architecture;
+Microsserviços & Clean Architecture: Migração de sistemas monolíticos para arquiteturas de microsserviços utilizando Clean Architecture;
+SQL Server & ORMs: Modelagem e consulta de dados em SQL Server, com experiência em Entity Framework e Dapper;
+SQL Server & ORMs: Modelagem e consulta de dados em SQL Server, com experiência em Entity Framework e Dapper;
+Testes Unitários & DDD: Aplicação de Domain-Driven Design (DDD) e garantia da qualidade do código através de testes unitários com xUnit;
+Testes Unitários & DDD: Aplicação de Domain-Driven Design (DDD) e garantia da qualidade do código através de testes unitários com xUnit;
+Gitflow, Docker & Kubernetes: Utilização de Gitflow para versionamento de código e implementação de pipelines CI/CD com Docker e Kubernetes;
+Gitflow, Docker & Kubernetes: Utilização de Gitflow para versionamento de código e implementação de pipelines CI/CD com Docker e Kubernetes;
+Cloud & Minimal APIs: Desenvolvimento e deploy de aplicações “cloud-first” em Azure ou AWS, utilizando Minimal APIs;
+Cloud & Minimal APIs: Desenvolvimento e deploy de aplicações “cloud-first” em Azure ou AWS, utilizando Minimal APIs;
+Estrutura de Dados: Domínio de estruturas de dados para desenvolvimento de soluções eficientes e otimizadas.
+Estrutura de Dados: Domínio de estruturas de dados para desenvolvimento de soluções eficientes e otimizadas.
+
+
+
+
+
+NOSSOS BENEFÍCIOS
+
+
+
+melhor
+
+
+maior
+
+
+
+*
+
+
+
+
+Aqui, sua Saúde é prioridadePlano médico e odontológicoAuxílio medicamentosVale saúde para familiaresSessões de psicoterapia gratuitasTelemedicina e 2ª opinião médicaVacina da gripe e HPV gratuitasProgramas de cuidado com a saúdePara cuidar da sua AlimentaçãoVale refeição ou restaurante local (conforme modelo de trabalho)Vale alimentaçãoVale alimentação de NatalGarantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vidaPlano de academias e estúdios de atividade físicaAuxílio home office (modelos de trabalho híbrido e remoto)Plano de saúde para petsDay off de aniversárioDesconto de até 40% em nossos produtosAssociação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)Programa de viagens e hospedagensPara a Família, nosso bem mais preciosoAuxílio educação infantilCrédito nutrição infantilAuxílio babáAuxílio material escolarOrientação jurídica, psicológica e socialApoio para país atípicosLicença parental estendida (180 dias para mães e 120 dias para pais)Mobilidade para sua jornada presencialVale Transporte e Estacionamento (modelos híbrido e presencial)Seguridade para proteção e tranquilidade financeiraSeguro de VidaApoio ao falecimento de paisPrevidência PrivadaEmpréstimos consignadosOs pacotes de benefícios são configurados conforme regras de elegibilidade.
+Aqui, sua Saúde é prioridade
+Aqui, sua Saúde é prioridade
+Plano médico e odontológico
+Plano médico e odontológico
+
+Auxílio medicamentos
+Auxílio medicamentos
+
+Vale saúde para familiares
+Vale saúde para familiares
+
+Sessões de psicoterapia gratuitas
+Sessões de psicoterapia gratuitas
+
+Telemedicina e 2ª opinião médica
+Telemedicina e 2ª opinião médica
+
+Vacina da gripe e HPV gratuitas
+Vacina da gripe e HPV gratuitas
+
+Programas de cuidado com a saúde
+Programas de cuidado com a saúde
+
+Para cuidar da sua Alimentação
+Para cuidar da sua Alimentação
+Vale refeição ou restaurante local (conforme modelo de trabalho)
+Vale refeição ou restaurante local (conforme modelo de trabalho)
+
+Vale alimentação
+Vale alimentação
+
+Vale alimentação de Natal
+Vale alimentação de Natal
+
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+Plano de academias e estúdios de atividade física
+Plano de academias e estúdios de atividade física
+
+Auxílio home office (modelos de trabalho híbrido e remoto)
+Auxílio home office (modelos de trabalho híbrido e remoto)
+
+Plano de saúde para pets
+Plano de saúde para pets
+
+Day off de aniversário
+Day off de aniversário
+
+Desconto de até 40% em nossos produtos
+Desconto de até 40% em nossos produtos
+
+Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+
+Programa de viagens e hospedagens
+Programa de viagens e hospedagens
+
+Para a Família, nosso bem mais precioso
+Para a Família, nosso bem mais precioso
+Auxílio educação infantil
+Auxílio educação infantil
+
+Crédito nutrição infantil
+Crédito nutrição infantil
+
+Auxílio babá
+Auxílio babá
+
+Auxílio material escolar
+Auxílio material escolar
+
+Orientação jurídica, psicológica e social
+Orientação jurídica, psicológica e social
+
+Apoio para país atípicos
+Apoio para país atípicos
+
+Licença parental estendida (180 dias para mães e 120 dias para pais)
+Licença parental estendida (180 dias para mães e 120 dias para pais)
+
+Mobilidade para sua jornada presencial
+Mobilidade para sua jornada presencial
+Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Vale Transporte e Estacionamento (modelos híbrido e presencial)
+
+Seguridade para proteção e tranquilidade financeira
+Seguridade para proteção e tranquilidade financeira
+Seguro de Vida
+Seguro de Vida
+
+Apoio ao falecimento de pais
+Apoio ao falecimento de pais
+
+Previdência Privada
+Previdência Privada
+
+Empréstimos consignados
+Empréstimos consignados
+
+Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e SeleçãoStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Entrevista com Liderança5Entrevista com LiderançaStep 6: Entrevista Interface6Entrevista InterfaceStep 7: Carta Oferta7Carta OfertaStep 8: Processo Admissional8Processo AdmissionalStep 9: Hiring9Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem2Triagem
+Step 2: Triagem2Triagem
+Step 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção
+Step 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 5: Entrevista com Liderança5Entrevista com Liderança
+Step 5: Entrevista com Liderança5Entrevista com Liderança
+Step 6: Entrevista Interface6Entrevista Interface
+Step 6: Entrevista Interface6Entrevista Interface
+Step 7: Carta Oferta7Carta Oferta
+Step 7: Carta Oferta7Carta Oferta
+Step 8: Processo Admissional8Processo Admissional
+Step 8: Processo Admissional8Processo Admissional
+Step 9: Hiring9Hiring
+Step 9: Hiring9Hiring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

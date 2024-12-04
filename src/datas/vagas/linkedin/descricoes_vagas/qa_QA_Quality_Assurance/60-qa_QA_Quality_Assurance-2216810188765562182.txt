@@ -1,0 +1,91 @@
+link-https://www.linkedin.com/jobs/view/4058087035/?eBP=CwEAAAGS7kdnxyXCHM_dl2GkqWe70IzyTFLkXqT8C3vK8h2k0y_NYet-JiufAME1saIYpXatHKrI1vWWvZfKfkrF8dnflI8_duAzeWVl4ArYPp0SI79IdHoLeENYbJCAaYZLUgUj7MbDDkF8aA43gWA4gO3OoWZS6HGKxPdavmE-Wyb91AV1QxAsU1X62s2u25sVirnUduYO3-Vhk5apC1DXJrxesh9fkwFoMJhMKOCFCOcKTH64g0Z2LMrzcJEFrnV1wfXS92yvty_jDA7Xh2OvXBf9jbtBaVugtDDxSZglJpQca5W4yYyytz2iDh7DfkL1XdAX7kJM2hu7X7_CVy-A7yTxSw0KiFvo-RarmQwcwjcd0PvjOKoy26tttPwBbpRdcR5aUdy2soyhunaFSsg-_COJbetH5bYOrc5cXYSEutLnAtJ2Jp-fLo7ITCyvT4DrgL0ItL26V4d9dqOr2Cloyl1FVxzI12U-EiRRo5bh_IIUi0fXynkFA-CvkCQ&refId=eCZ4TSmLf1xAg4vlx7lWtA%3D%3D&trackingId=5AtNo2p4QA8XLcUksDjBrQ%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Leader (Remote)
+Sobre a vaga
+Olá!A Aggrandize surgiu em 2015 e se consolidou como um dos maiores grupos de TI, sendo referência de mercado através de clientes satisfeitos e um ambiente de trabalho inclusivo, colaborativo e humanizado. Consideramos como pilares aadaptabilidade, colaboração, foco no cliente e visão de dono.Foram com esses direcionadores, visão e valores que crescemos e nos consolidamos em um provedor prime e especialista em serviços de Infraestrutura, Integração e Desenvolvimento de software. Existimos para engrandecer pessoas e negócios e seguimos dando o nosso melhor paraINCREASE THE POWER OF YOUR BUSINESS.Agora que você conhece a cultura Aggrandize, saiba mais sobre a oportunidade:Descrição:Prestação de Serviços em planejamento e execução de planos de testes e scripts, interagindo com vários squads para validar os casos de teste com base nos requisitos de qualidade, recomendando alterações nas diretrizes de qualidade, em ambientes on-premisses e Cloud, na Aggrandize e seus clientes.Responsabilidades:Desenvolver e executar planos de teste para garantir que todos os objetivos sejam atendidos;Implementar e monitorar scripts de teste para avaliar a funcionalidade, confiabilidade, desempenho e qualidade do serviço ou produto;Identificar e corrigir defeitos no processo de produção;Recomendar, implementar e monitorar ações preventivas e corretivas para garantir que os padrões de garantia de qualidade sejam alcançados;Compilar e analisar dados estatísticos;Certificar de que as expectativas do usuário sejam atendidas durante o processo de teste;Elaborar políticas e procedimentos de garantia de qualidade;Investigar reclamações de clientes e problemas de produtos;Garantir a conformidade contínua com os requisitos regulatórios de qualidade e do setor.Hard Skills:Experiência como liderança de equipes de QA;Conhecimento avançado em TDD e BDD;Experiência com ferramentas de automação de testes (Selenium);Familiaridade com Gherkin e Cucumber;Experiência em desenvolvimento com Java e Node.js;Conhecimento em ferramentas de gerenciamento de testes (Azure Test Plans ou Testmo);Experiência com análise de código utilizando SonarQube.Soft Skills:Excelentes habilidades de comunicação, tanto escrita quanto verbal;Forte capacidade analítica e de resolução de problemas;Atenção meticulosa aos detalhes;Adaptabilidade;Colaboração;Visão de Dono;Foco no Cliente
+
+
+
+adaptabilidade, colaboração, foco no cliente e visão de dono.
+
+
+
+INCREASE THE POWER OF YOUR BUSINESS.
+
+
+
+Agora que você conhece a cultura Aggrandize, saiba mais sobre a oportunidade:
+
+
+Descrição:
+
+
+
+
+
+Responsabilidades:
+
+
+
+Desenvolver e executar planos de teste para garantir que todos os objetivos sejam atendidos;Implementar e monitorar scripts de teste para avaliar a funcionalidade, confiabilidade, desempenho e qualidade do serviço ou produto;Identificar e corrigir defeitos no processo de produção;Recomendar, implementar e monitorar ações preventivas e corretivas para garantir que os padrões de garantia de qualidade sejam alcançados;Compilar e analisar dados estatísticos;Certificar de que as expectativas do usuário sejam atendidas durante o processo de teste;Elaborar políticas e procedimentos de garantia de qualidade;Investigar reclamações de clientes e problemas de produtos;Garantir a conformidade contínua com os requisitos regulatórios de qualidade e do setor.
+Desenvolver e executar planos de teste para garantir que todos os objetivos sejam atendidos;
+Desenvolver e executar planos de teste para garantir que todos os objetivos sejam atendidos;
+Implementar e monitorar scripts de teste para avaliar a funcionalidade, confiabilidade, desempenho e qualidade do serviço ou produto;
+Implementar e monitorar scripts de teste para avaliar a funcionalidade, confiabilidade, desempenho e qualidade do serviço ou produto;
+
+Identificar e corrigir defeitos no processo de produção;
+Identificar e corrigir defeitos no processo de produção;
+Recomendar, implementar e monitorar ações preventivas e corretivas para garantir que os padrões de garantia de qualidade sejam alcançados;
+Recomendar, implementar e monitorar ações preventivas e corretivas para garantir que os padrões de garantia de qualidade sejam alcançados;
+Compilar e analisar dados estatísticos;
+Compilar e analisar dados estatísticos;
+Certificar de que as expectativas do usuário sejam atendidas durante o processo de teste;
+Certificar de que as expectativas do usuário sejam atendidas durante o processo de teste;
+Elaborar políticas e procedimentos de garantia de qualidade;
+Elaborar políticas e procedimentos de garantia de qualidade;
+Investigar reclamações de clientes e problemas de produtos;
+Investigar reclamações de clientes e problemas de produtos;
+Garantir a conformidade contínua com os requisitos regulatórios de qualidade e do setor.
+Garantir a conformidade contínua com os requisitos regulatórios de qualidade e do setor.
+
+
+Hard Skills:
+
+
+
+Experiência como liderança de equipes de QA;Conhecimento avançado em TDD e BDD;Experiência com ferramentas de automação de testes (Selenium);Familiaridade com Gherkin e Cucumber;Experiência em desenvolvimento com Java e Node.js;Conhecimento em ferramentas de gerenciamento de testes (Azure Test Plans ou Testmo);Experiência com análise de código utilizando SonarQube.
+Experiência como liderança de equipes de QA;
+Experiência como liderança de equipes de QA;
+Conhecimento avançado em TDD e BDD;
+Conhecimento avançado em TDD e BDD;
+Experiência com ferramentas de automação de testes (Selenium);
+Experiência com ferramentas de automação de testes (Selenium);
+Familiaridade com Gherkin e Cucumber;
+Familiaridade com Gherkin e Cucumber;
+Experiência em desenvolvimento com Java e Node.js;
+Experiência em desenvolvimento com Java e Node.js;
+Conhecimento em ferramentas de gerenciamento de testes (Azure Test Plans ou Testmo);
+Conhecimento em ferramentas de gerenciamento de testes (Azure Test Plans ou Testmo);
+Experiência com análise de código utilizando SonarQube.
+Experiência com análise de código utilizando SonarQube.
+
+
+
+Soft Skills:
+
+
+Excelentes habilidades de comunicação, tanto escrita quanto verbal;Forte capacidade analítica e de resolução de problemas;Atenção meticulosa aos detalhes;Adaptabilidade;Colaboração;Visão de Dono;Foco no Cliente
+Excelentes habilidades de comunicação, tanto escrita quanto verbal;
+Excelentes habilidades de comunicação, tanto escrita quanto verbal;
+Forte capacidade analítica e de resolução de problemas;
+Forte capacidade analítica e de resolução de problemas;
+Atenção meticulosa aos detalhes;
+Atenção meticulosa aos detalhes;
+Adaptabilidade;
+Adaptabilidade;
+Colaboração;
+Colaboração;
+Visão de Dono;
+Visão de Dono;
+Foco no Cliente
+Foco no Cliente

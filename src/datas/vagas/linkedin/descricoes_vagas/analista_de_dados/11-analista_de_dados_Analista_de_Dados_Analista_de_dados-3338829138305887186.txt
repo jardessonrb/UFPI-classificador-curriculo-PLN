@@ -1,0 +1,35 @@
+link-https://www.linkedin.com/jobs/view/4060608902/?eBP=CwEAAAGS7ihJdRAYReg39KmsGhA34qqvxp1AjfY9Aq35JQ2nYc_dgYsAUMow53FrRG89oBG57g5fhUsOGA0QjQlEMTTTEp7fGv4kkIUdXabVfYhzHCvAfLlpQAjXxg4FrOxapjUpVr4rR2zgIotEPZhIyQa62yK6abXgV-RkYWZpihS4DMUk4pszHxosOamEWhxnq_rHJ9D7t0qaBHDJH3iySRe0BD7tUur2j21prs4h6XHAqrHufnr0EOUz6wxT0ukfZV1_kX5uN_rVftrXQZZBVxxewYjy6mKqUlaHSs7hkiRL8i2vlIaewTNIrG7YvWcYUdwir8790i7HpmqH_Ci2FyTbgKt_1y2VMVF2yswJi6aojWTn_BjiKuEk1Uhu8LcMsbIoBcgVIxlSrUCOrashT5J5RrvhTPtPpST-AXlDLd7mVZrhS5pAH3sQQ86ZgmUHbhUWoLY9u8mhLrbnj1Fy-FE4NXpLiXnzhqNQEPNWjW9ys7kclyGp7Cpy4G-guA&refId=356PUInPSbtTQYKpkVt%2BHQ%3D%3D&trackingId=4sc5JtKX4ZmKvROZmnEvhA%3D%3D&trk=flagship3_search_srp_jobs
+
+ANALISTA DE DADOS - SP
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+: Entender o básico de aplicações web distribuídas e arquitetura de microsserviços hospedadas em nuvem, para saber quais métricas são importantes serem monitoradas para saber a saúde das aplicações. Saber o básico da sintaxe de consultas do CloudWatch Logs Insights, pois a maioria das aplicações (se não, todas) puxam métricas dessa forma. Saber o básico da sintaxe de SQL, em especial o dialeto do PostgreSQL, para métricas da saúde do negócio (por exemplo, do fluxo de propostas). Ter proficiência na criação de dashboards e alertas no Grafana, com foco em métricas de aplicações web. Desejável: Conhecer ou ter experiência em outros protocolos ou tecnologias de observabilidade (por exemplo, OpenTelemetry), para que possamos pensar em uma solução escalável a longo prazo. Conhecer ferramentas como Grafana Tempo, Loki, Prometheus Desejável-ter atuado com previdência privada Perfil comportamental Colaborativo (trabalho em equipe) Comprometido Boa comunicação Criativo Organizado Fácil adaptação em situações adversas.Formação AcadêmicaNão informadoSalárioA combinarCargoProgramadorEmpresaEwave do BrasilDesenvolvimento de softwares.RamoInformática/ Tecnologia(CB)
+
+
+Formação Acadêmica
+
+
+
+
+Salário
+
+
+
+
+Cargo
+
+
+
+
+Empresa
+
+
+
+
+
+
+Ramo
+
+
+
+

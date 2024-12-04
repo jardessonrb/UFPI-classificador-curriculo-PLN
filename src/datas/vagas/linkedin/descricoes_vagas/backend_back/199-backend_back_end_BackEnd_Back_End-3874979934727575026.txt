@@ -1,0 +1,142 @@
+link-https://www.linkedin.com/jobs/view/4046103382/?eBP=CwEAAAGS7lO-eBUYToUOwjoswUHjTpRU2qsee4btlG4Ix9tCoRvgofJlUiEEOJL_66EDues40EvxOBbnJ12JuHFihDMjllRO5oIKncLujH-uX9OQIF0468O-JKzmhGkklefiOHG0lhcnf64IfG0OqFxnUZoYA4Jp35xfeIgoQX_ReSmiIzPBVN6fJwgDavkzsQkeoS4_QT-8tEdsUltcUWh8CUchMmUFw0pL1cX_Rx7HlQWg9I0RNIpBaUJheME7XYHEXOpHUGbeHMafXZPYpvSxJ8BnWfbztliTRZZZ8tqR3N3VW0-wzA_WWoIULJH0sink26DzG3RFilsaNjfFF-gaXN94qjkbj-_DrOzz-q4RttkCwlE2Tjpc3Qd3Df5P4gsIOwxhnkbq_l8NSx8ho0nlYoNE8aQLCNuuc-vM17NEqHYnbxNfqle0W69CSU5nLvpOBmEeTaZiVks1gYYDV6l_thGJU9kiVHaitY7oXFhjeWp5B1AvBmq_Xe_zl1CacQ&refId=gOLyzg02egHiqpqO0MnwNQ%3D%3D&trackingId=kBcPIAaCSMNxjyep0GKJ%2Fw%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer
+Sobre a vaga
+Join Us to Shape the Digital World. We’re passionate about delivering cutting-edge technology to some of the world’s top startups and companies, powered by diverse and empowered teams of technologists eager to drive change. As a female-led organization, we are committed to creating a safe, inclusive space where everyone, regardless of their background, is treated with respect and equity.We value people with strong technical skills who are collaborative, curious, results-driven, and take ownership. We embrace people who want to be themselves, enjoy daily flexibility, and are eager to grow, learn, and make a difference wherever the opportunity arises.If this resonates with you, we encourage you to apply for the role ofSenior Backend Engineer. We're seeking exceptional talent to work on immersive client projects that will challenge and hone your skills.Technical SkillsJava: 10 years, v17Framework: 5 years Spring with Boot and SecurityDatabases: 10 years MySql (MariaDB) accessed via straight SQL with Spring’s JdbcTemplateTesting: JUnitAPI Development: Yes, for the most partCloud: DigitalOcean dropletsServices Security and Server Operations: Spring Authentication.Key ResponsibilitiesDesign and develop back-end systems including:Integration ServicesMaster Data ServicesServices Security and Server OperationsServices ArchitectureCollaborate with colleagues across departments to understand requirements and translate them into technical solutionsWrite clean, maintainable, and well-documented codeImplement best practices for secure development and operationUses and becomes proficient with tools used by the Development Department. These include Jira, Confluence, ZenDesk, Teams, Subversion and OneNote.Troubleshoot and resolve technical issuesContinuously learn and stay up to date with the latest technologiesDesign, code and debug applications in various software languages.Complete, unit test and commit cases to repository by the code complete date.Support with the development, collaboration and knowledge sharing with other membersQualificationsBS C&BA (MIS) or BS Engineering or equivalent level of experienceSignificant, demonstrated experience as a back-end developer, fully competent in designing and developing back-end systemsStrong understanding of object-oriented design, relational database design, and service-oriented architectureProven competency in Java, Linux, and SQLFamiliarity with dynamic website concepts (e.g., HTTP requests/responses)Excellent problem-solving and analytical skillsStrong communication and collaboration skillsAbility to work independently and manage multiple priorities, whilst achieving project deadlinesSoft SkillsExcellent problem-solving skills with the ability to navigate complex technical systems.Strong communication skills, capable of articulating ideas and solutions to diverse audiences.Provide hands-on technical expertise, guiding the team through complex technical challenges.Communicate effectively with both technical and non-technical stakeholders to convey ideas and solutions clearly.Collaborate with the engineering team to support microservice architecture.Ability to hit the ground running, demonstrating proactivity and independence in managing tasks.Collaborative mindset with a willingness to work closely with cross-functional teamsTeam Communication: Facilitate effective communication within and across teams, ensuring seamless coordination with other engineering groups and stakeholders.A happy team makes a huge difference, that's why we provide:Payment in USD or your local currencyA truly flexible work scheduleAn excellent Non-working pay days policyPerformance BonusLearning BudgetAn opportunity for you to help create change in the industryAnd more!Athenaworksis an inclusive safe organization that only considers your technical ability, work experience, ability to collaborate, capacity to grow to the next level of your career, and ability to deliver great work. This means that we also embrace/welcome self-taught people as well! We will NEVER consider any other personal or professional aspects of your life. We hope that you choose to have a conversation with us today and find out what makes us different from any company that you have experienced.
+
+
+
+
+
+
+
+
+Senior Backend Engineer
+
+
+Technical Skills
+
+
+Java: 10 years, v17Framework: 5 years Spring with Boot and SecurityDatabases: 10 years MySql (MariaDB) accessed via straight SQL with Spring’s JdbcTemplateTesting: JUnitAPI Development: Yes, for the most partCloud: DigitalOcean dropletsServices Security and Server Operations: Spring Authentication.
+Java: 10 years, v17
+Java: 10 years, v17
+Framework: 5 years Spring with Boot and Security
+Framework: 5 years Spring with Boot and Security
+Databases: 10 years MySql (MariaDB) accessed via straight SQL with Spring’s JdbcTemplate
+Databases: 10 years MySql (MariaDB) accessed via straight SQL with Spring’s JdbcTemplate
+Testing: JUnit
+Testing: JUnit
+API Development: Yes, for the most part
+API Development: Yes, for the most part
+Cloud: DigitalOcean droplets
+Cloud: DigitalOcean droplets
+Services Security and Server Operations: Spring Authentication.
+Services Security and Server Operations: Spring Authentication.
+
+
+Key Responsibilities
+
+
+Design and develop back-end systems including:Integration ServicesMaster Data ServicesServices Security and Server OperationsServices ArchitectureCollaborate with colleagues across departments to understand requirements and translate them into technical solutionsWrite clean, maintainable, and well-documented codeImplement best practices for secure development and operationUses and becomes proficient with tools used by the Development Department. These include Jira, Confluence, ZenDesk, Teams, Subversion and OneNote.Troubleshoot and resolve technical issuesContinuously learn and stay up to date with the latest technologiesDesign, code and debug applications in various software languages.Complete, unit test and commit cases to repository by the code complete date.Support with the development, collaboration and knowledge sharing with other members
+Design and develop back-end systems including:
+Design and develop back-end systems including:
+Integration Services
+Integration Services
+Master Data Services
+Master Data Services
+Services Security and Server Operations
+Services Security and Server Operations
+Services Architecture
+Services Architecture
+Collaborate with colleagues across departments to understand requirements and translate them into technical solutions
+Collaborate with colleagues across departments to understand requirements and translate them into technical solutions
+Write clean, maintainable, and well-documented code
+Write clean, maintainable, and well-documented code
+Implement best practices for secure development and operation
+Implement best practices for secure development and operation
+Uses and becomes proficient with tools used by the Development Department. These include Jira, Confluence, ZenDesk, Teams, Subversion and OneNote.
+Uses and becomes proficient with tools used by the Development Department. These include Jira, Confluence, ZenDesk, Teams, Subversion and OneNote.
+Troubleshoot and resolve technical issues
+Troubleshoot and resolve technical issues
+Continuously learn and stay up to date with the latest technologies
+Continuously learn and stay up to date with the latest technologies
+Design, code and debug applications in various software languages.
+Design, code and debug applications in various software languages.
+Complete, unit test and commit cases to repository by the code complete date.
+Complete, unit test and commit cases to repository by the code complete date.
+Support with the development, collaboration and knowledge sharing with other members
+Support with the development, collaboration and knowledge sharing with other members
+
+
+Qualifications
+
+
+BS C&BA (MIS) or BS Engineering or equivalent level of experienceSignificant, demonstrated experience as a back-end developer, fully competent in designing and developing back-end systemsStrong understanding of object-oriented design, relational database design, and service-oriented architectureProven competency in Java, Linux, and SQLFamiliarity with dynamic website concepts (e.g., HTTP requests/responses)Excellent problem-solving and analytical skillsStrong communication and collaboration skillsAbility to work independently and manage multiple priorities, whilst achieving project deadlines
+BS C&BA (MIS) or BS Engineering or equivalent level of experience
+BS C&BA (MIS) or BS Engineering or equivalent level of experience
+Significant, demonstrated experience as a back-end developer, fully competent in designing and developing back-end systems
+Significant, demonstrated experience as a back-end developer, fully competent in designing and developing back-end systems
+Strong understanding of object-oriented design, relational database design, and service-oriented architecture
+Strong understanding of object-oriented design, relational database design, and service-oriented architecture
+Proven competency in Java, Linux, and SQL
+Proven competency in Java, Linux, and SQL
+Familiarity with dynamic website concepts (e.g., HTTP requests/responses)
+Familiarity with dynamic website concepts (e.g., HTTP requests/responses)
+Excellent problem-solving and analytical skills
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+Strong communication and collaboration skills
+Ability to work independently and manage multiple priorities, whilst achieving project deadlines
+Ability to work independently and manage multiple priorities, whilst achieving project deadlines
+
+
+Soft Skills
+
+
+Excellent problem-solving skills with the ability to navigate complex technical systems.Strong communication skills, capable of articulating ideas and solutions to diverse audiences.Provide hands-on technical expertise, guiding the team through complex technical challenges.Communicate effectively with both technical and non-technical stakeholders to convey ideas and solutions clearly.Collaborate with the engineering team to support microservice architecture.Ability to hit the ground running, demonstrating proactivity and independence in managing tasks.Collaborative mindset with a willingness to work closely with cross-functional teamsTeam Communication: Facilitate effective communication within and across teams, ensuring seamless coordination with other engineering groups and stakeholders.
+Excellent problem-solving skills with the ability to navigate complex technical systems.
+Excellent problem-solving skills with the ability to navigate complex technical systems.
+Strong communication skills, capable of articulating ideas and solutions to diverse audiences.
+Strong communication skills, capable of articulating ideas and solutions to diverse audiences.
+Provide hands-on technical expertise, guiding the team through complex technical challenges.
+Provide hands-on technical expertise, guiding the team through complex technical challenges.
+Communicate effectively with both technical and non-technical stakeholders to convey ideas and solutions clearly.
+Communicate effectively with both technical and non-technical stakeholders to convey ideas and solutions clearly.
+Collaborate with the engineering team to support microservice architecture.
+Collaborate with the engineering team to support microservice architecture.
+Ability to hit the ground running, demonstrating proactivity and independence in managing tasks.
+Ability to hit the ground running, demonstrating proactivity and independence in managing tasks.
+Collaborative mindset with a willingness to work closely with cross-functional teams
+Collaborative mindset with a willingness to work closely with cross-functional teams
+Team Communication: Facilitate effective communication within and across teams, ensuring seamless coordination with other engineering groups and stakeholders.
+Team Communication: Facilitate effective communication within and across teams, ensuring seamless coordination with other engineering groups and stakeholders.
+
+
+
+
+Payment in USD or your local currencyA truly flexible work scheduleAn excellent Non-working pay days policyPerformance BonusLearning BudgetAn opportunity for you to help create change in the industryAnd more!
+Payment in USD or your local currency
+Payment in USD or your local currency
+
+A truly flexible work schedule
+A truly flexible work schedule
+
+An excellent Non-working pay days policy
+An excellent Non-working pay days policy
+
+Performance Bonus
+Performance Bonus
+
+Learning Budget
+Learning Budget
+
+An opportunity for you to help create change in the industry
+An opportunity for you to help create change in the industry
+
+And more!
+And more!
+
+
+
+Athenaworks
+

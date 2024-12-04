@@ -1,0 +1,130 @@
+link-https://www.linkedin.com/jobs/view/4049333303/?eBP=CwEAAAGS7jTqlYaTpygcq4AO7hotLeT3olyO3ZQ5_-Z0Ps2s3tJX6jkxbytYFiHFy533vBJzkzQTjrUslwrrVodhkY6sA5jJYfQ_D91dmcKHatrTC1c3q7PEAvSbTHMLslQyABPwEqVGBqnYo62OUPKsU0Tp2FbT_gJ2m0vFmxTNkpY0HGZ6BEkjMogGiZYT69ShVehlsAKShZoRh9l4hMcBtKC8z3V2N6x0gpVFjj1vvqjZR0XPTZkTCUGr7p2X8Ej1YkPyWbUzL0oubPL4IlAFXhfYG4S5rlMvcvGXeIq2TsCvqrvgxwCJANvqEtwb1jQ3ibTsZT-Wjc6dnuK6Cjd4O5k0uK0eoAUWS2PpDZVmU5mfER2ml67HX2KgUO1dZ4ib2uLtlUxzgLxyVnSLA1EsfUtFsbccNRIsf9XN-KaqR2Ngax_uJoZUhHQh2U9qpVLDb0Cyj4UQs8-_7vdpB6Eqg8F9a_kKu2uurApmHzmcGqG7WCrubTUUzC2O&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=BplotI5llUrWibPPmXCErA%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior
+Sobre a vaga
+Estamos em busca de pessoas fascinadas por criar um futuro melhor, que sejam inquietas, tenham coragem para desafiar o comum, que valorizem a diversidade de ideias e acreditem no potencial transformador da colaboração verdadeira.Se você se identifica conosco, te convidamos a se juntar a nós na busca por um mundo profuso de novas inteligências.SOBRE A VAGAPara esta posição, esperamos que você seja capaz de:Liderar times de cientistas de dados em projetos complexos, orientando e mentorando;Propor e implementar estratégias para melhorar processos e práticas de ciência de dados;Liderar e coordenar esforços de pesquisa e desenvolvimento para promover a inovação, participando de projetos que visem desenvolver novas abordagens e soluções inovadoras;Facilitar a comunicação entre diferentes áreas e alavancar o potencial das equipes multidisciplinares;Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados;Identificar padrões e tendências em conjuntos de dados para fornecer insights acionáveis;Desenvolver modelos utilizando técnicas de Inteligência Artificial (preferencialmente em Python), passando pela coleta e tratamento dos dados, engenharia de features e modelagem (de estatística até deep learning ou outras técnicas contemporâneas);Desenvolver em ambiente Linux;Projetar, construir e testar modelos de aprendizado de máquina e IA;Implementar algoritmos de aprendizado supervisionado e não supervisionado;Otimizar modelos para melhorar a performance e eficiência;Decidir quando um modelo está pronto para ser implantado em produção e como monitorá-lo;Encapsular modelos em APIs fáceis de usar, robustas e bem documentadas;Lidar com clientes e parceiros para levantar requisitos técnicos, especificar a arquitetura dos modelos de inteligência artificial mais apropriada, identificar limitações dos métodos existentes e apresentar resultados;Criar visualizações que elucidem suas decisões e qualidade;Participar em projetos de pesquisa para desenvolver novas abordagens e soluções inovadoras;Utilizar ferramentas open-source e bibliotecas desenvolvidas tanto pela comunidade quanto pela Kunumi;Trabalhar em estreita colaboração com equipes multidisciplinares, incluindo engenheiros de software, desenvolvedores e pesquisadores;Manter-se atualizado com as últimas tendências e avanços em ciência de dados e IA.Conhecimento e Habilidades NecessáriasExperiência sólida com liderança técnica;Proficiência em linguagens de programação como Python, R, SQL e bibliotecas de aprendizado de máquina (TensorFlow, PyTorch, Scikit-Learn).Experiência com ferramentas de visualização de dados (Tableau, Matplotlib, Seaborn).Familiaridade com big data e tecnologias de armazenamento de dados (Hadoop, Spark, NoSQL).Experiencia em aplicação de métodos estatísticos e algoritmos de aprendizado de máquina para resolver problemas reais.LOCAL DE TRABALHORemotoDisponibilidade para viagensSOBRE A KUNUMINa Kunumi, a curiosidade é nossa força motriz na busca incansável por conhecimento e pela coragem de desafiar o convencional. Acreditamos que a diversidade de pensamentos e perspectivas é fundamental para criar soluções únicas e impactantes.Nossa cultura é pautada pela valorização das pessoas, do cuidado com o legado que deixamos e pela constante busca por resultados elegantes em meio a desafios complexos. Aqui, cada voz é ouvida, cada ideia é valorizada e cada conquista é celebrada em conjunto.Somos agentes de mudança que almejam promover uma transformação positiva na sociedade por meio da Inteligência Artificial. Acreditamos no potencial humano e na capacidade de atuar como catalisadores para um futuro mais equilibrado.BENEFÍCIOSCultura dinâmica, diversa e focada no crescimento conjunto;Trabalho em ambiente remoto com horário flexível;Suporte home-office (ajuda de custo, cadeira, headphones, laptop , entre outros);Plano de saúde premium e dental para você e seus dependentes, sem mensalidade;Alimentação (cartão flexível);Licença parental estendidaAssistência a Filhos;Auxílio para Filhos(as) com Deficiência;Seguro de Vida;Programas de promoção à Saúde - mental, física e emocionalRecesso remunerado de final de anoSexta light mensalSOBRE O PROCESSODepois de enviar sua inscrição, você receberá um email de confirmação.Acreditamos que a diversidade promove a criatividade e acelera resultados positivos, portanto, consideramos todos os candidatos não somente pela qualificação técnica, mas também como nos complementa como grupo.Conheça a nossa Política de Tratamento de Dados de Candidatos
+Estamos em busca de pessoas fascinadas por criar um futuro melhor, que sejam inquietas, tenham coragem para desafiar o comum, que valorizem a diversidade de ideias e acreditem no potencial transformador da colaboração verdadeira.
+
+
+
+
+
+SOBRE A VAGA
+
+
+
+
+Liderar times de cientistas de dados em projetos complexos, orientando e mentorando;Propor e implementar estratégias para melhorar processos e práticas de ciência de dados;Liderar e coordenar esforços de pesquisa e desenvolvimento para promover a inovação, participando de projetos que visem desenvolver novas abordagens e soluções inovadoras;Facilitar a comunicação entre diferentes áreas e alavancar o potencial das equipes multidisciplinares;Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados;Identificar padrões e tendências em conjuntos de dados para fornecer insights acionáveis;Desenvolver modelos utilizando técnicas de Inteligência Artificial (preferencialmente em Python), passando pela coleta e tratamento dos dados, engenharia de features e modelagem (de estatística até deep learning ou outras técnicas contemporâneas);Desenvolver em ambiente Linux;Projetar, construir e testar modelos de aprendizado de máquina e IA;Implementar algoritmos de aprendizado supervisionado e não supervisionado;Otimizar modelos para melhorar a performance e eficiência;Decidir quando um modelo está pronto para ser implantado em produção e como monitorá-lo;Encapsular modelos em APIs fáceis de usar, robustas e bem documentadas;Lidar com clientes e parceiros para levantar requisitos técnicos, especificar a arquitetura dos modelos de inteligência artificial mais apropriada, identificar limitações dos métodos existentes e apresentar resultados;Criar visualizações que elucidem suas decisões e qualidade;Participar em projetos de pesquisa para desenvolver novas abordagens e soluções inovadoras;Utilizar ferramentas open-source e bibliotecas desenvolvidas tanto pela comunidade quanto pela Kunumi;Trabalhar em estreita colaboração com equipes multidisciplinares, incluindo engenheiros de software, desenvolvedores e pesquisadores;Manter-se atualizado com as últimas tendências e avanços em ciência de dados e IA.
+Liderar times de cientistas de dados em projetos complexos, orientando e mentorando;
+Liderar times de cientistas de dados em projetos complexos, orientando e mentorando;
+Propor e implementar estratégias para melhorar processos e práticas de ciência de dados;
+Propor e implementar estratégias para melhorar processos e práticas de ciência de dados;
+
+Liderar e coordenar esforços de pesquisa e desenvolvimento para promover a inovação, participando de projetos que visem desenvolver novas abordagens e soluções inovadoras;
+Liderar e coordenar esforços de pesquisa e desenvolvimento para promover a inovação, participando de projetos que visem desenvolver novas abordagens e soluções inovadoras;
+Facilitar a comunicação entre diferentes áreas e alavancar o potencial das equipes multidisciplinares;
+Facilitar a comunicação entre diferentes áreas e alavancar o potencial das equipes multidisciplinares;
+Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados;
+Coletar, processar e analisar grandes volumes de dados estruturados e não estruturados;
+Identificar padrões e tendências em conjuntos de dados para fornecer insights acionáveis;
+Identificar padrões e tendências em conjuntos de dados para fornecer insights acionáveis;
+Desenvolver modelos utilizando técnicas de Inteligência Artificial (preferencialmente em Python), passando pela coleta e tratamento dos dados, engenharia de features e modelagem (de estatística até deep learning ou outras técnicas contemporâneas);
+Desenvolver modelos utilizando técnicas de Inteligência Artificial (preferencialmente em Python), passando pela coleta e tratamento dos dados, engenharia de features e modelagem (de estatística até deep learning ou outras técnicas contemporâneas);
+Desenvolver em ambiente Linux;
+Desenvolver em ambiente Linux;
+Projetar, construir e testar modelos de aprendizado de máquina e IA;
+Projetar, construir e testar modelos de aprendizado de máquina e IA;
+Implementar algoritmos de aprendizado supervisionado e não supervisionado;
+Implementar algoritmos de aprendizado supervisionado e não supervisionado;
+Otimizar modelos para melhorar a performance e eficiência;
+Otimizar modelos para melhorar a performance e eficiência;
+Decidir quando um modelo está pronto para ser implantado em produção e como monitorá-lo;
+Decidir quando um modelo está pronto para ser implantado em produção e como monitorá-lo;
+Encapsular modelos em APIs fáceis de usar, robustas e bem documentadas;
+Encapsular modelos em APIs fáceis de usar, robustas e bem documentadas;
+Lidar com clientes e parceiros para levantar requisitos técnicos, especificar a arquitetura dos modelos de inteligência artificial mais apropriada, identificar limitações dos métodos existentes e apresentar resultados;
+Lidar com clientes e parceiros para levantar requisitos técnicos, especificar a arquitetura dos modelos de inteligência artificial mais apropriada, identificar limitações dos métodos existentes e apresentar resultados;
+Criar visualizações que elucidem suas decisões e qualidade;
+Criar visualizações que elucidem suas decisões e qualidade;
+Participar em projetos de pesquisa para desenvolver novas abordagens e soluções inovadoras;
+Participar em projetos de pesquisa para desenvolver novas abordagens e soluções inovadoras;
+Utilizar ferramentas open-source e bibliotecas desenvolvidas tanto pela comunidade quanto pela Kunumi;
+Utilizar ferramentas open-source e bibliotecas desenvolvidas tanto pela comunidade quanto pela Kunumi;
+Trabalhar em estreita colaboração com equipes multidisciplinares, incluindo engenheiros de software, desenvolvedores e pesquisadores;
+Trabalhar em estreita colaboração com equipes multidisciplinares, incluindo engenheiros de software, desenvolvedores e pesquisadores;
+Manter-se atualizado com as últimas tendências e avanços em ciência de dados e IA.
+Manter-se atualizado com as últimas tendências e avanços em ciência de dados e IA.
+
+
+Conhecimento e Habilidades Necessárias
+
+
+Experiência sólida com liderança técnica;Proficiência em linguagens de programação como Python, R, SQL e bibliotecas de aprendizado de máquina (TensorFlow, PyTorch, Scikit-Learn).Experiência com ferramentas de visualização de dados (Tableau, Matplotlib, Seaborn).Familiaridade com big data e tecnologias de armazenamento de dados (Hadoop, Spark, NoSQL).Experiencia em aplicação de métodos estatísticos e algoritmos de aprendizado de máquina para resolver problemas reais.
+Experiência sólida com liderança técnica;
+Experiência sólida com liderança técnica;
+Proficiência em linguagens de programação como Python, R, SQL e bibliotecas de aprendizado de máquina (TensorFlow, PyTorch, Scikit-Learn).
+Proficiência em linguagens de programação como Python, R, SQL e bibliotecas de aprendizado de máquina (TensorFlow, PyTorch, Scikit-Learn).
+Experiência com ferramentas de visualização de dados (Tableau, Matplotlib, Seaborn).
+Experiência com ferramentas de visualização de dados (Tableau, Matplotlib, Seaborn).
+Familiaridade com big data e tecnologias de armazenamento de dados (Hadoop, Spark, NoSQL).
+Familiaridade com big data e tecnologias de armazenamento de dados (Hadoop, Spark, NoSQL).
+Experiencia em aplicação de métodos estatísticos e algoritmos de aprendizado de máquina para resolver problemas reais.
+Experiencia em aplicação de métodos estatísticos e algoritmos de aprendizado de máquina para resolver problemas reais.
+
+
+LOCAL DE TRABALHO
+
+
+
+
+
+
+SOBRE A KUNUMI
+
+
+
+
+
+
+Somos agentes de mudança que almejam promover uma transformação positiva na sociedade por meio da Inteligência Artificial. Acreditamos no potencial humano e na capacidade de atuar como catalisadores para um futuro mais equilibrado.
+
+
+BENEFÍCIOS
+
+
+Cultura dinâmica, diversa e focada no crescimento conjunto;Trabalho em ambiente remoto com horário flexível;Suporte home-office (ajuda de custo, cadeira, headphones, laptop , entre outros);Plano de saúde premium e dental para você e seus dependentes, sem mensalidade;Alimentação (cartão flexível);Licença parental estendidaAssistência a Filhos;Auxílio para Filhos(as) com Deficiência;Seguro de Vida;Programas de promoção à Saúde - mental, física e emocionalRecesso remunerado de final de anoSexta light mensal
+Cultura dinâmica, diversa e focada no crescimento conjunto;
+Cultura dinâmica, diversa e focada no crescimento conjunto;
+Trabalho em ambiente remoto com horário flexível;
+Trabalho em ambiente remoto com horário flexível;
+Suporte home-office (ajuda de custo, cadeira, headphones, laptop , entre outros);
+Suporte home-office (ajuda de custo, cadeira, headphones, laptop , entre outros);
+Plano de saúde premium e dental para você e seus dependentes, sem mensalidade;
+Plano de saúde premium e dental para você e seus dependentes, sem mensalidade;
+Alimentação (cartão flexível);
+Alimentação (cartão flexível);
+Licença parental estendida
+Licença parental estendida
+Assistência a Filhos;
+Assistência a Filhos;
+Auxílio para Filhos(as) com Deficiência;
+Auxílio para Filhos(as) com Deficiência;
+Seguro de Vida;
+Seguro de Vida;
+Programas de promoção à Saúde - mental, física e emocional
+Programas de promoção à Saúde - mental, física e emocional
+Recesso remunerado de final de ano
+Recesso remunerado de final de ano
+Sexta light mensal
+Sexta light mensal
+
+
+SOBRE O PROCESSO
+
+
+Depois de enviar sua inscrição, você receberá um email de confirmação.
+
+
+
+
+

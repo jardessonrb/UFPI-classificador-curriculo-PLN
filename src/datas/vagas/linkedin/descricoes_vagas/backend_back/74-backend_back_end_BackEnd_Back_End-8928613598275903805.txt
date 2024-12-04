@@ -1,0 +1,105 @@
+link-https://www.linkedin.com/jobs/view/4065530535/?eBP=CwEAAAGS7lOKayEkTWJBvLjyfd7YqE_3vImCKwcrzuAGURYoL3hPg3ox8xJn0DQw1O-EC5762_kDudoH2lB5L02R95vW-7vsmADOGUtd7mG0m41V2J9XlME9xJ40dcBlctxBdBLf6RofbAUFjr_3dAzoeFaZnks7t0M6v-eye7Y0vILiYfcpM8fVZvTjymNdYOwJcmoCztqpYK-g4o5r5tmoUzH9WU06AnYbiAevsljQXmKUEscBr5mvzo2Mm8puUkUePfsNaU9Ue8Tjl1pTqlw3HberzCoY3pMxPNgTOFgw3Z6UFu2bPhsrUQ6RRMvM59ZtlFRn_6T1NhpZnMCtSeV2a45JCBt_YV8C_yxXGh_piKv__H7prUgWMOBwJfVh8GBaMBoN3NKQ_-PIsapVRFOpcC10WDXeog2JAauuOuJfuv1_kjm3B-Ki5VJLSCwoQZFZjA5_LgwboAX8A3gTFOJ6tyB88vTUMGQavuQjiDy2pBJ4_fxdmuHhnAib2mzGEU9bticfudbkqV9uN8sIzbZ8&refId=vxzRdgWLAlHAeIKnYcrvfg%3D%3D&trackingId=nLFIaI9l%2FofTCf92AxaiBA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Back end Java Pl
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.Somos globais, somos GPTW.🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe.#VemSerFoursys!Que tal se juntar a nós e se tornar um(a) #FourTalent?Então se liga nessa oportunidade incrível: 👇ResponsabilidadesResponsável por endereçar no detalhe as funcionalidades em desenvolvimento que podem concorrer entre si e definir a estratégia caso a caso e as oportunidades de reutilização e unificação de esforços.Conhecimentos TécnicosExperiência em linguagem de programação Java -Mandatório;Conhecer Banco de Dados (Ex.: SQL, DB2, Oracle, SyBase);Desenvolvimento micro serviços Java, usando Liberty+JAX-RS ou SpringbootConhecer design patterns de integração, composição e comunicação de micro serviços (eventos, filas);Experiência em Log/trace (ELK/Dynatrace) Conhecimento de APIs/Swagger, Banco de dados oracle e Mongo DB;Framework JSF;JavaScript/JQuery;Java Swing (TF);Java Web com Spring utilizando Java 7;Mentalidade voltada para metodos Ágeis (SCRUM).Formato de Trabalho:Híbrido 2-3 vezes na semana em Alphaville/SP.E temos também o Clube da Four que oferece ótimas vantagens! 👇🩺 Assistência médica;🍲 VR e VA flexível;🏋️ Gympass e Wellz;⚽ Parceria com o SESC;🍣 Descontos em restaurantes;📚 Descontos em cursos técnicos e de ensinos superior;🧠 Descontos em escolas e plataformas de idiomas.E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+
+
+
+Somos globais, somos GPTW.
+Somos globais, somos GPTW.
+
+
+
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe.#VemSerFoursys!
+🌈‍👵 ♿️👩🏾 Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe.#VemSerFoursys!
+
+#VemSerFoursys!
+
+
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?Então se liga nessa oportunidade incrível: 👇
+Que tal se juntar a nós e se tornar um(a) #FourTalent?Então se liga nessa oportunidade incrível: 👇
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+
+
+
+
+Responsabilidades
+Responsabilidades
+Responsabilidades
+
+
+
+Responsável por endereçar no detalhe as funcionalidades em desenvolvimento que podem concorrer entre si e definir a estratégia caso a caso e as oportunidades de reutilização e unificação de esforços.
+Responsável por endereçar no detalhe as funcionalidades em desenvolvimento que podem concorrer entre si e definir a estratégia caso a caso e as oportunidades de reutilização e unificação de esforços.
+Responsável por endereçar no detalhe as funcionalidades em desenvolvimento que podem concorrer entre si e definir a estratégia caso a caso e as oportunidades de reutilização e unificação de esforços.
+
+
+
+Conhecimentos Técnicos
+Conhecimentos Técnicos
+Conhecimentos Técnicos
+
+
+
+Experiência em linguagem de programação Java -Mandatório;Conhecer Banco de Dados (Ex.: SQL, DB2, Oracle, SyBase);Desenvolvimento micro serviços Java, usando Liberty+JAX-RS ou SpringbootConhecer design patterns de integração, composição e comunicação de micro serviços (eventos, filas);Experiência em Log/trace (ELK/Dynatrace) Conhecimento de APIs/Swagger, Banco de dados oracle e Mongo DB;Framework JSF;JavaScript/JQuery;Java Swing (TF);Java Web com Spring utilizando Java 7;Mentalidade voltada para metodos Ágeis (SCRUM).
+Experiência em linguagem de programação Java -Mandatório;
+Experiência em linguagem de programação Java -Mandatório;
+
+Mandatório;
+Conhecer Banco de Dados (Ex.: SQL, DB2, Oracle, SyBase);
+Conhecer Banco de Dados (Ex.: SQL, DB2, Oracle, SyBase);
+Desenvolvimento micro serviços Java, usando Liberty+JAX-RS ou Springboot
+Desenvolvimento micro serviços Java, usando Liberty+JAX-RS ou Springboot
+Conhecer design patterns de integração, composição e comunicação de micro serviços (eventos, filas);
+Conhecer design patterns de integração, composição e comunicação de micro serviços (eventos, filas);
+Experiência em Log/trace (ELK/Dynatrace) Conhecimento de APIs/Swagger, Banco de dados oracle e Mongo DB;
+Experiência em Log/trace (ELK/Dynatrace) Conhecimento de APIs/Swagger, Banco de dados oracle e Mongo DB;
+Framework JSF;
+Framework JSF;
+JavaScript/JQuery;
+JavaScript/JQuery;
+Java Swing (TF);
+Java Swing (TF);
+Java Web com Spring utilizando Java 7;
+Java Web com Spring utilizando Java 7;
+Mentalidade voltada para metodos Ágeis (SCRUM).
+Mentalidade voltada para metodos Ágeis (SCRUM).
+
+
+
+Formato de Trabalho:
+Formato de Trabalho:
+Formato de Trabalho:
+
+
+
+Híbrido 2-3 vezes na semana em Alphaville/SP.
+Híbrido 2-3 vezes na semana em Alphaville/SP.
+
+
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+🩺 Assistência médica;
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+🧠 Descontos em escolas e plataformas de idiomas.
+
+
+
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀

@@ -1,0 +1,63 @@
+link-https://www.linkedin.com/jobs/view/4051940135/?eBP=CwEAAAGS7hSI8z2UFgCxinb20MKuU-kBp9q69IDZ1Y4F2reWKlJfZGAdVNWxqx3qyGWcM8vOVRZ7RHEJmbt8nabvT36pf4w1Lz3wvLggGHnzVFB0_X1U0e0eLylv6EFBISSaqfCfPY6Hxre-ptRSCrV2lshH0UMJ8cWeVhjJfS-MHktllyhR6vOl1W0_1prnnUrKCTLbLD0EPQusZA824DD61HsOfL7JwrP2mgZXcGTUgbjDWf4BGqdecRqc9P-22JgkoAXqoZID1EYllAoCGayghEApIU-21eaI9sxMchBvOTHcKqsrrjIfCqTNzKV64ULRccmNk2yPgresWa8m8iGNQk8Yob8QLPk9H2kPi76Tko1Me5TulDJk9BWyJcdiwG8cvKaqTkxRLpgqTen4389zde73Y59lpYc9ucxIb8z38m_P2e5ZDA-oW5jPsNp07fiIRATGZxmixcCCmh51fvsx_RWCFahr-2Gm1h9zzUWp4UYGcmpgHFHQW5Qdc7aQv7e5FQc&refId=pFWT4OwuF2TNOS4RbKdAKA%3D%3D&trackingId=%2FbKKYYc%2FSjNCWZNG1K1kyA%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev FullStack .Net + React Pleno
+Sobre a vaga
+Responsabilidades:Desenvolver e manter aplicações web robustas e escaláveis utilizando .NET no backend e React no frontend;Colaborar com a equipe de design e produto para transformar requisitos em soluções técnicas eficazes;Implementar melhores práticas de codificação, garantindo a qualidade e a manutenibilidade do código;Realizar revisões de código e mentorar desenvolvedores mais juniores;Integrar serviços de terceiros e APIs conforme necessário;Participar de todas as fases do ciclo de desenvolvimento de software, incluindo planejamento, design, desenvolvimento, testes e implantação;Identificar e solucionar problemas de performance e escalabilidade;Manter-se atualizado com as novas tecnologias e tendências de mercado, propondo melhorias e inovações para nossos produtos.Requisitos:Experiência comprovada em desenvolvimento full stack, com forte conhecimento em .NET e React;Proficiência em C# e na criação de APIs RESTful;Sólida experiência com bibliotecas e frameworks do React, como Redux;Conhecimento em bancos de dados relacionais e não relacionais;Experiência com ferramentas de versionamento de código, como Git;Familiaridade com práticas de DevOps e CI/CD;Capacidade de trabalhar de forma colaborativa em um ambiente ágil;Excelentes habilidades de resolução de problemas e comunicaçãoGraduação em Ciência da Computação, Engenharia de Software ou área relacionada, ou experiência prática equivalente.Diferenciais:Experiência prévia em startups ou ambientes ágeis;Conhecimento em outras linguagens de programação e frameworks;Experiência com cloud computing, preferencialmente AWS;Certificações na área de desenvolvimento de software.
+Responsabilidades:
+
+
+Desenvolver e manter aplicações web robustas e escaláveis utilizando .NET no backend e React no frontend;Colaborar com a equipe de design e produto para transformar requisitos em soluções técnicas eficazes;Implementar melhores práticas de codificação, garantindo a qualidade e a manutenibilidade do código;Realizar revisões de código e mentorar desenvolvedores mais juniores;Integrar serviços de terceiros e APIs conforme necessário;Participar de todas as fases do ciclo de desenvolvimento de software, incluindo planejamento, design, desenvolvimento, testes e implantação;Identificar e solucionar problemas de performance e escalabilidade;Manter-se atualizado com as novas tecnologias e tendências de mercado, propondo melhorias e inovações para nossos produtos.
+Desenvolver e manter aplicações web robustas e escaláveis utilizando .NET no backend e React no frontend;
+Desenvolver e manter aplicações web robustas e escaláveis utilizando .NET no backend e React no frontend;
+Colaborar com a equipe de design e produto para transformar requisitos em soluções técnicas eficazes;
+Colaborar com a equipe de design e produto para transformar requisitos em soluções técnicas eficazes;
+Implementar melhores práticas de codificação, garantindo a qualidade e a manutenibilidade do código;
+Implementar melhores práticas de codificação, garantindo a qualidade e a manutenibilidade do código;
+Realizar revisões de código e mentorar desenvolvedores mais juniores;
+Realizar revisões de código e mentorar desenvolvedores mais juniores;
+Integrar serviços de terceiros e APIs conforme necessário;
+Integrar serviços de terceiros e APIs conforme necessário;
+Participar de todas as fases do ciclo de desenvolvimento de software, incluindo planejamento, design, desenvolvimento, testes e implantação;
+Participar de todas as fases do ciclo de desenvolvimento de software, incluindo planejamento, design, desenvolvimento, testes e implantação;
+Identificar e solucionar problemas de performance e escalabilidade;
+Identificar e solucionar problemas de performance e escalabilidade;
+Manter-se atualizado com as novas tecnologias e tendências de mercado, propondo melhorias e inovações para nossos produtos.
+Manter-se atualizado com as novas tecnologias e tendências de mercado, propondo melhorias e inovações para nossos produtos.
+
+
+Requisitos:
+
+
+Experiência comprovada em desenvolvimento full stack, com forte conhecimento em .NET e React;Proficiência em C# e na criação de APIs RESTful;Sólida experiência com bibliotecas e frameworks do React, como Redux;Conhecimento em bancos de dados relacionais e não relacionais;Experiência com ferramentas de versionamento de código, como Git;Familiaridade com práticas de DevOps e CI/CD;Capacidade de trabalhar de forma colaborativa em um ambiente ágil;Excelentes habilidades de resolução de problemas e comunicaçãoGraduação em Ciência da Computação, Engenharia de Software ou área relacionada, ou experiência prática equivalente.
+Experiência comprovada em desenvolvimento full stack, com forte conhecimento em .NET e React;
+Experiência comprovada em desenvolvimento full stack, com forte conhecimento em .NET e React;
+Proficiência em C# e na criação de APIs RESTful;
+Proficiência em C# e na criação de APIs RESTful;
+Sólida experiência com bibliotecas e frameworks do React, como Redux;
+Sólida experiência com bibliotecas e frameworks do React, como Redux;
+Conhecimento em bancos de dados relacionais e não relacionais;
+Conhecimento em bancos de dados relacionais e não relacionais;
+Experiência com ferramentas de versionamento de código, como Git;
+Experiência com ferramentas de versionamento de código, como Git;
+Familiaridade com práticas de DevOps e CI/CD;
+Familiaridade com práticas de DevOps e CI/CD;
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil;
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil;
+Excelentes habilidades de resolução de problemas e comunicação
+Excelentes habilidades de resolução de problemas e comunicação
+Graduação em Ciência da Computação, Engenharia de Software ou área relacionada, ou experiência prática equivalente.
+Graduação em Ciência da Computação, Engenharia de Software ou área relacionada, ou experiência prática equivalente.
+
+
+Diferenciais:
+
+
+Experiência prévia em startups ou ambientes ágeis;Conhecimento em outras linguagens de programação e frameworks;Experiência com cloud computing, preferencialmente AWS;Certificações na área de desenvolvimento de software.
+Experiência prévia em startups ou ambientes ágeis;
+Experiência prévia em startups ou ambientes ágeis;
+Conhecimento em outras linguagens de programação e frameworks;
+Conhecimento em outras linguagens de programação e frameworks;
+Experiência com cloud computing, preferencialmente AWS;
+Experiência com cloud computing, preferencialmente AWS;
+Certificações na área de desenvolvimento de software.
+Certificações na área de desenvolvimento de software.

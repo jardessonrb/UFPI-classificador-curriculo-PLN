@@ -1,0 +1,52 @@
+link-https://www.linkedin.com/jobs/view/4062486403/?eBP=CwEAAAGS7hF3d1lohBE5YpC2YiFxHGxEp2UWztJ-GFOqu2RcxsJSRM_rhHqLT5blXvrKzwPFij_NNgZG-ecgo46Y9Ow2SWfDztxY5UGynJMACPFxTxSUslVH53qZF5wRyLXd-vIA-fRMBiyRjNYihyLqel_mexWtTUPvacrn1ZLbTJE4Na1pDGJTteuOpyixomLCxEq1g-ZWH0B0sKWNX0sP-Dgg6vlpTvQfqfCH5vHoccGzyAFs2tT3vydTLJYcdmPUobypzpvAsvHrlEpAH9YVvn7aStU9IXWac0BIj9BFGCHQDwzePl9qTBy5tzCnmdI-5sRB1GJmNKhq_EP6DLX3z-LApM_L-7lAfwRC00ZJwJ2z-y2CJ6tG4YfigGZ_HS1BCnsVWpPm9fs_o56h85VoeLEzMMeh4a2C93TbjhjMmcMFFTtDI5QWZmz9yF7I4Jy3bCbFnVsm2v6JTp9lHweGeY7yBajgpH6Q6-lQsQpo0EtaQabFtEq-4ek5jRcEXzU0EUgNL26GTbudEyQLCgw&refId=5p4inUGFGEEbdVq3zeaeSQ%3D%3D&trackingId=Ekft4y6GXZMtcdX65CMHBQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Full Stack - Java / React - Híbrido
+Sobre a vaga
+Requisitos• Sólida experiência em desenvolvimento backend utilizando Java e Spring Boot.• Conhecimento em desenvolvimento de APIs RESTful e integração com bancos de dados.• Proficiência no desenvolvimento de front-end com React.• Experiência com JavaScript e TypeScript.• Experiência em integração com APIs e serviços backend.• Desejável conhecimento em desenvolvimento móvel com React Native.• Desejável conhecimento em Python.• Familiaridade com serviços AWS como EC2, S3 e Lambda.• Capacidade de trabalhar em equipe e colaborar de forma efetiva.• Abordagem proativa na identificação e resolução de desafios técnicos.Atividades• Desenvolver novos projetos utilizando React e Java Spring Boot, criando aplicações web modernas e eficientes que atendam às necessidades dos usuários e do negócio.• Atuar na manutenção e melhoria de projetos existentes, identificando falhas, otimizando performance e implementando novas funcionalidades conforme necessário.• Desenvolver e manter aplicações mobile com React Native, garantindo uma experiência de usuário consistente e de alta qualidade em dispositivos iOS e Android.• Construir e integrar novas APIs, assegurando a comunicação eficaz entre serviços e sistemas, e facilitando a escalabilidade das soluções.• Desenvolver novas features, trabalhando em conjunto com a equipe de produto para implementar funcionalidades que agreguem valor aos clientes.• Explorar e implementar novas tecnologias relacionadas à Inteligência Artificial, contribuindo para a inovação e competitividade dos produtos da empresa.• Atuar em projetos de Big Data, manipulando grandes volumes de dados e utilizando ferramentas e técnicas avançadas para extração de insights.• Desenvolver serviços e scripts em Python, especialmente para automação de processos e tarefas de backend.• Colaborar efetivamente com a equipe, participando de reuniões de planejamento, compartilhando conhecimentos e contribuindo para a resolução de problemas complexos.• Adotar uma abordagem proativa na identificação e resolução de desafios técnicos, antecipando possíveis impedimentos e propondo soluções eficientes.
+Requisitos
+• Sólida experiência em desenvolvimento backend utilizando Java e Spring Boot.
+• Sólida experiência em desenvolvimento backend utilizando Java e Spring Boot.
+
+• Conhecimento em desenvolvimento de APIs RESTful e integração com bancos de dados.
+• Conhecimento em desenvolvimento de APIs RESTful e integração com bancos de dados.
+• Proficiência no desenvolvimento de front-end com React.
+• Proficiência no desenvolvimento de front-end com React.
+• Experiência com JavaScript e TypeScript.
+• Experiência com JavaScript e TypeScript.
+• Experiência em integração com APIs e serviços backend.
+• Experiência em integração com APIs e serviços backend.
+• Desejável conhecimento em desenvolvimento móvel com React Native.
+• Desejável conhecimento em desenvolvimento móvel com React Native.
+• Desejável conhecimento em Python.
+• Desejável conhecimento em Python.
+• Familiaridade com serviços AWS como EC2, S3 e Lambda.
+• Familiaridade com serviços AWS como EC2, S3 e Lambda.
+• Capacidade de trabalhar em equipe e colaborar de forma efetiva.
+• Capacidade de trabalhar em equipe e colaborar de forma efetiva.
+• Abordagem proativa na identificação e resolução de desafios técnicos.
+• Abordagem proativa na identificação e resolução de desafios técnicos.
+
+
+
+Atividades
+• Desenvolver novos projetos utilizando React e Java Spring Boot, criando aplicações web modernas e eficientes que atendam às necessidades dos usuários e do negócio.
+• Desenvolver novos projetos utilizando React e Java Spring Boot, criando aplicações web modernas e eficientes que atendam às necessidades dos usuários e do negócio.
+
+• Atuar na manutenção e melhoria de projetos existentes, identificando falhas, otimizando performance e implementando novas funcionalidades conforme necessário.
+• Atuar na manutenção e melhoria de projetos existentes, identificando falhas, otimizando performance e implementando novas funcionalidades conforme necessário.
+• Desenvolver e manter aplicações mobile com React Native, garantindo uma experiência de usuário consistente e de alta qualidade em dispositivos iOS e Android.
+• Desenvolver e manter aplicações mobile com React Native, garantindo uma experiência de usuário consistente e de alta qualidade em dispositivos iOS e Android.
+• Construir e integrar novas APIs, assegurando a comunicação eficaz entre serviços e sistemas, e facilitando a escalabilidade das soluções.
+• Construir e integrar novas APIs, assegurando a comunicação eficaz entre serviços e sistemas, e facilitando a escalabilidade das soluções.
+• Desenvolver novas features, trabalhando em conjunto com a equipe de produto para implementar funcionalidades que agreguem valor aos clientes.
+• Desenvolver novas features, trabalhando em conjunto com a equipe de produto para implementar funcionalidades que agreguem valor aos clientes.
+• Explorar e implementar novas tecnologias relacionadas à Inteligência Artificial, contribuindo para a inovação e competitividade dos produtos da empresa.
+• Explorar e implementar novas tecnologias relacionadas à Inteligência Artificial, contribuindo para a inovação e competitividade dos produtos da empresa.
+• Atuar em projetos de Big Data, manipulando grandes volumes de dados e utilizando ferramentas e técnicas avançadas para extração de insights.
+• Atuar em projetos de Big Data, manipulando grandes volumes de dados e utilizando ferramentas e técnicas avançadas para extração de insights.
+• Desenvolver serviços e scripts em Python, especialmente para automação de processos e tarefas de backend.
+• Desenvolver serviços e scripts em Python, especialmente para automação de processos e tarefas de backend.
+• Colaborar efetivamente com a equipe, participando de reuniões de planejamento, compartilhando conhecimentos e contribuindo para a resolução de problemas complexos.
+• Colaborar efetivamente com a equipe, participando de reuniões de planejamento, compartilhando conhecimentos e contribuindo para a resolução de problemas complexos.
+• Adotar uma abordagem proativa na identificação e resolução de desafios técnicos, antecipando possíveis impedimentos e propondo soluções eficientes.
+• Adotar uma abordagem proativa na identificação e resolução de desafios técnicos, antecipando possíveis impedimentos e propondo soluções eficientes.

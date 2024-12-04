@@ -1,0 +1,87 @@
+link-https://www.linkedin.com/jobs/view/4054730964/?eBP=CwEAAAGS7kczL2JG8Y1j1oc4PIt623MdG71g7PlOPMIwDSsKe4rdKXkwgWiIByXziyxeNWsyLPDuwDE9Walr-Y42d2r1sn73FLIplBJxiR-HImILFOSn31IvWoUzpHPDVihrqp5pBqUesob1C_C7MwQ4wAao4piTNpRU0syy0PACcPMZrzbuAz-prtfHTu9zALyMUwfuKIF02ve5VK4KdIQPl_Snj4zmyeuyOfHe15iGHHEZ1Zq1fRO_o68ykkeU86KVIeG6UFs83EiOAAEjuv-Hl7papqwcB7IFDwt11kA7M3jar2nAUfQGNdC51crFfnYdVGv39aIvfheB1GhWSbrHFeZ8xXWwnnEy7MBR_BQZKXOcAtJS4AidxBTTp32Mbu1nNuACT8zeuCK6kULy0jcGvaSaFCNpWCgkwlJnxm2QPgSrdKqoSdbchGP9LZUpCi9rHnpnMmBkiXm8jP_jyJDQ51PCAIVSk1jKd8ttKKtK2wOx7uXohPtZp_ryZi2-zw&refId=SNSWGwhfiKuFeT%2FIiRLkZw%3D%3D&trackingId=0i2L7cVQKX5C02qvoXuF%2FA%3D%3D&trk=flagship3_search_srp_jobs
+
+Mid Level Quality Assurance Engineer
+Sobre a vaga
+Buscamos uma pessoa Mid Level Quality Assurance Engineer para aumentar a confiabilidade nas entregas realizadas pelo time olhando para os processos como um todo, trabalhando junto com a equipe para fomentar o uso de boas práticas de resiliência e qualidade de software.Como Será Seu Dia a DiaCriação e Documentação dos Casos de Testes (Manuais);Desenvolvimento de automações de testes;Gerar massa de dados para testes;Execução de Testes Funcionais, Exploratórios e de Regressão;Documentar e Reportar defeitos encontrados durante os testes;Interpretação / Análise de requisitos;Validação das correções de defeitos;O Que Esperamos De VocêConhecimento em leitura de log (DevTools);Conhecimento das Técnicas de Testes (Partição de Equivalência, Valor Limite, Tabela deDecisão);Conhecimento em banco de dados (Consulta) - SQL e NoSQL;Conhecimento sobre os tipos de testes de software e pirâmide de teste;Conhecimento sobre microsserviços;Conhecimento em JavaScript;Conhecimento em Cypress;Conhecimento em Java;Conhecimento em metodologias ágeis (Scrum);Conhecimento sobre filas e mensageria - Ex: SQS, RabbitMQ;Inglês para leitura e conversação;API Integration (SOAP, REST).Nossos BenefíciosCultura Remote First & Anywhere Office: Trabalhe de onde preferir!Vale Alimentação/Refeição no cartão Ifood Benefícios, no valor de R$704,00/mês;Auxílio internet, no valor de R$50,00/mês;Plano de Saúde e Plano Odonto UNIMED com abrangência nacional e possibilidade de inclusão de dependentes;StarBem: Assistência médica online (Psicólogos, Nutricionistas, fisioterapeutas);Auxílio creche;Creditas: Crédito Consignado, parcelas descontadas direto na folha de pagamento a juros baixos;Cuide da sua saúde com GymPass;Day Off no dia do aniversário;Fluency Academy: Desconto e possibilidade de subsídio integral no curso Poliglota, com 8 opções de idiomas;Kit de equipamentos para você desenvolver suas funções de qualquer lugar!Quer saber um pouco mais sobre nós? Te convido a dar uma olhada em nosso site , e também no Glassdoor.
+
+
+Como Será Seu Dia a Dia
+
+
+Criação e Documentação dos Casos de Testes (Manuais);Desenvolvimento de automações de testes;Gerar massa de dados para testes;Execução de Testes Funcionais, Exploratórios e de Regressão;Documentar e Reportar defeitos encontrados durante os testes;Interpretação / Análise de requisitos;Validação das correções de defeitos;
+Criação e Documentação dos Casos de Testes (Manuais);
+Criação e Documentação dos Casos de Testes (Manuais);
+Desenvolvimento de automações de testes;
+Desenvolvimento de automações de testes;
+Gerar massa de dados para testes;
+Gerar massa de dados para testes;
+Execução de Testes Funcionais, Exploratórios e de Regressão;
+Execução de Testes Funcionais, Exploratórios e de Regressão;
+Documentar e Reportar defeitos encontrados durante os testes;
+Documentar e Reportar defeitos encontrados durante os testes;
+Interpretação / Análise de requisitos;
+Interpretação / Análise de requisitos;
+Validação das correções de defeitos;
+Validação das correções de defeitos;
+
+
+O Que Esperamos De Você
+
+
+Conhecimento em leitura de log (DevTools);Conhecimento das Técnicas de Testes (Partição de Equivalência, Valor Limite, Tabela deDecisão);Conhecimento em banco de dados (Consulta) - SQL e NoSQL;Conhecimento sobre os tipos de testes de software e pirâmide de teste;Conhecimento sobre microsserviços;Conhecimento em JavaScript;Conhecimento em Cypress;Conhecimento em Java;Conhecimento em metodologias ágeis (Scrum);Conhecimento sobre filas e mensageria - Ex: SQS, RabbitMQ;Inglês para leitura e conversação;API Integration (SOAP, REST).
+Conhecimento em leitura de log (DevTools);
+Conhecimento em leitura de log (DevTools);
+Conhecimento das Técnicas de Testes (Partição de Equivalência, Valor Limite, Tabela de
+Conhecimento das Técnicas de Testes (Partição de Equivalência, Valor Limite, Tabela de
+Decisão);
+Decisão);
+Conhecimento em banco de dados (Consulta) - SQL e NoSQL;
+Conhecimento em banco de dados (Consulta) - SQL e NoSQL;
+Conhecimento sobre os tipos de testes de software e pirâmide de teste;
+Conhecimento sobre os tipos de testes de software e pirâmide de teste;
+Conhecimento sobre microsserviços;
+Conhecimento sobre microsserviços;
+Conhecimento em JavaScript;
+Conhecimento em JavaScript;
+Conhecimento em Cypress;
+Conhecimento em Cypress;
+Conhecimento em Java;
+Conhecimento em Java;
+Conhecimento em metodologias ágeis (Scrum);
+Conhecimento em metodologias ágeis (Scrum);
+Conhecimento sobre filas e mensageria - Ex: SQS, RabbitMQ;
+Conhecimento sobre filas e mensageria - Ex: SQS, RabbitMQ;
+Inglês para leitura e conversação;
+Inglês para leitura e conversação;
+API Integration (SOAP, REST).
+API Integration (SOAP, REST).
+
+
+Nossos Benefícios
+
+
+Cultura Remote First & Anywhere Office: Trabalhe de onde preferir!Vale Alimentação/Refeição no cartão Ifood Benefícios, no valor de R$704,00/mês;Auxílio internet, no valor de R$50,00/mês;Plano de Saúde e Plano Odonto UNIMED com abrangência nacional e possibilidade de inclusão de dependentes;StarBem: Assistência médica online (Psicólogos, Nutricionistas, fisioterapeutas);Auxílio creche;Creditas: Crédito Consignado, parcelas descontadas direto na folha de pagamento a juros baixos;Cuide da sua saúde com GymPass;Day Off no dia do aniversário;Fluency Academy: Desconto e possibilidade de subsídio integral no curso Poliglota, com 8 opções de idiomas;Kit de equipamentos para você desenvolver suas funções de qualquer lugar!
+Cultura Remote First & Anywhere Office: Trabalhe de onde preferir!
+Cultura Remote First & Anywhere Office: Trabalhe de onde preferir!
+Vale Alimentação/Refeição no cartão Ifood Benefícios, no valor de R$704,00/mês;
+Vale Alimentação/Refeição no cartão Ifood Benefícios, no valor de R$704,00/mês;
+Auxílio internet, no valor de R$50,00/mês;
+Auxílio internet, no valor de R$50,00/mês;
+Plano de Saúde e Plano Odonto UNIMED com abrangência nacional e possibilidade de inclusão de dependentes;
+Plano de Saúde e Plano Odonto UNIMED com abrangência nacional e possibilidade de inclusão de dependentes;
+StarBem: Assistência médica online (Psicólogos, Nutricionistas, fisioterapeutas);
+StarBem: Assistência médica online (Psicólogos, Nutricionistas, fisioterapeutas);
+Auxílio creche;
+Auxílio creche;
+Creditas: Crédito Consignado, parcelas descontadas direto na folha de pagamento a juros baixos;
+Creditas: Crédito Consignado, parcelas descontadas direto na folha de pagamento a juros baixos;
+Cuide da sua saúde com GymPass;
+Cuide da sua saúde com GymPass;
+Day Off no dia do aniversário;
+Day Off no dia do aniversário;
+Fluency Academy: Desconto e possibilidade de subsídio integral no curso Poliglota, com 8 opções de idiomas;
+Fluency Academy: Desconto e possibilidade de subsídio integral no curso Poliglota, com 8 opções de idiomas;
+Kit de equipamentos para você desenvolver suas funções de qualquer lugar!
+Kit de equipamentos para você desenvolver suas funções de qualquer lugar!
+
+

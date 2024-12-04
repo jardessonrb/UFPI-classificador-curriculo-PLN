@@ -1,0 +1,152 @@
+link-https://www.linkedin.com/jobs/view/4047048864/?eBP=CwEAAAGS7lK-UmiZExOPIKQPpPkBk_Se-gCg-d4L7DrzaXB4L3_FeV61qM7hUwJs3zBNxkFuWYV9R-bTR284rx3TDO_7qI35kA7DNJ22j0nGbXlhxGpulB3-CVVeGIQlAVWMylkpRAVNcQs1STG2QLYSjdYtZsqhc_kVsjQ1G9rv6j80KEx7ug_ocN3xVENrJ1E7fr2Yg4KomTs9ePJdKA-2VzqbBTitIgYqg3Wsf1tfCoLR9VYIany5uEkawyeM8YaKEOglfwRJGhjIIirbKDoNkwxoVvHeM2TYgWs-4W41ynEo0Sn7exad7jhKK7YdL2xGt9P5EGI7ADIxu12qIFideug9NPiENdhORlR5RxyaG9GL2IZPJoRtXByjn1ES32nippOiQIIm9H3AdCmbHdxMpQ8DI4r2UwhTDgZhiRUjQfSuh8YC3akr3SUfRpiUQ5a3FgaslnMfjYDd3yMd1Hy1FzviYaxCva4fQneo7h-rJB36I7t0OG8WMGdXW2JWHy4L7KQ&refId=wMqUa%2FBzcEMM%2FK85IRF%2Bnw%3D%3D&trackingId=x4VYUL1G7JnI3siT8DEJOQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Backend Java – Sênior
+Sobre a vaga
+Nível:SêniorCursos de:ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Information Systems, Information Technology, Software EngineeringEscolaridade:Graduação - CompletoJornada de trabalho:Horário Comercial (Jornada Flexível)Disponibilidade para home-officeBenefícios:🏋️ Gympass, 🥳 Day-off no seu aniversário, Palestras/Conversas sobre Saúde Mental, Flexibilidade e autonomia para trabalhar de onde quiser (home-office), Universidade Corporativa , Parceria no ensino de inglês (Cultura Inglesa), Parceria com a Instituição de Ensino (FIAP)Responsabilidades Da PosiçãoEstamos com oportunidades paraDesenvolvedores Back-end Java - Sênior.Você vai participar do desenvolvimento e evolução de uma das plataformas mais inovadoras do mercado de meio de pagamentos, atuando na construção e sustentação de software de alta performance!ResponsabilidadesDesenvolvimento e evolução de uma das plataformas mais inovadoras do mercado de meios de pagamentos;Escrever documentos e guias de requisitos técnicos / funcionais;Escrever código e bibliotecas reutilizáveis de acordo com um padrão que tornará rápida e fácil a manutenção no futuro;Otimizar aplicações para a máxima velocidade e escalabilidade;Criar novas funcionalidades ou manter as antigas;Apoio na aplicação de melhores práticas de segurança para o desenvolvimento;Utilizar as melhores práticas no desenvolvimento de interfaces de comunicação entre as diversas plataformas sistêmicas (APIs, WEBServices);Utilizar as melhores práticas em armazenamento de informações dentro do projeto (tabelas, banco de dados);Manter-se atualizado com tecnologias emergentes;Auxiliar os desenvolvedores do time com a codificação e solução de problemas, ser o ponto de referência do time.Skills/ExperiênciasConhecimento em JavaEE/ Versão 7 e Java 8, Java 11;Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;Spring Boot e utilização de API's RESTFull;Conhecimento em Arquitetura de Microserviços;Banco de dados relacional: PosgreSQL;Versionamento com Git;Consciência da necessidade de testes unitários e integração;Conhecimento dos conceitos de aplicações em Cluster e Docker;Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);Linux básico.DesejávelExperiência anterior no mercado de Meios de Pagamento;Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;#VemSerOnni🚀💟Requisitos Obrigatórios Para a PosiçãoSkills/ExperiênciasConhecimento em JavaEE/ Versão 7 e Java 8, Java 11 e novos versões;Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;Spring Boot e utilização de API's RESTFull;Conhecimento de 3-4 anos em Arquitetura de Microserviços;Banco de dados relacional: PosgreSQL, MySql;Versionamento com Git;Consciência da necessidade de testes unitários e integração;Conhecimento dos conceitos de aplicações em Cluster e Docker;Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);Linux básico.DesejávelExperiência anterior no mercado de Meios de Pagamento;Experiência com cartões de crédito/débito e sistemas de liquidação;Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;Conhecimento em banco de dados não relacional (MongoDB);Conhecimento dos conceitos de Cloud Computing e Amazon Web Services, como os serviços ECS, EC2, ECR, ELB, S3;ISO 8583
+Nível:
+
+
+
+Cursos de:
+
+
+
+
+Escolaridade:
+
+
+
+Jornada de trabalho:
+
+
+
+Disponibilidade para home-office
+
+
+Benefícios:
+
+
+
+Responsabilidades Da Posição
+
+
+
+Desenvolvedores Back-end Java - Sênior
+
+
+
+
+Responsabilidades
+
+
+
+Desenvolvimento e evolução de uma das plataformas mais inovadoras do mercado de meios de pagamentos;Escrever documentos e guias de requisitos técnicos / funcionais;Escrever código e bibliotecas reutilizáveis de acordo com um padrão que tornará rápida e fácil a manutenção no futuro;Otimizar aplicações para a máxima velocidade e escalabilidade;Criar novas funcionalidades ou manter as antigas;Apoio na aplicação de melhores práticas de segurança para o desenvolvimento;Utilizar as melhores práticas no desenvolvimento de interfaces de comunicação entre as diversas plataformas sistêmicas (APIs, WEBServices);Utilizar as melhores práticas em armazenamento de informações dentro do projeto (tabelas, banco de dados);Manter-se atualizado com tecnologias emergentes;Auxiliar os desenvolvedores do time com a codificação e solução de problemas, ser o ponto de referência do time.
+Desenvolvimento e evolução de uma das plataformas mais inovadoras do mercado de meios de pagamentos;
+Desenvolvimento e evolução de uma das plataformas mais inovadoras do mercado de meios de pagamentos;
+Escrever documentos e guias de requisitos técnicos / funcionais;
+Escrever documentos e guias de requisitos técnicos / funcionais;
+Escrever código e bibliotecas reutilizáveis de acordo com um padrão que tornará rápida e fácil a manutenção no futuro;
+Escrever código e bibliotecas reutilizáveis de acordo com um padrão que tornará rápida e fácil a manutenção no futuro;
+Otimizar aplicações para a máxima velocidade e escalabilidade;
+Otimizar aplicações para a máxima velocidade e escalabilidade;
+Criar novas funcionalidades ou manter as antigas;
+Criar novas funcionalidades ou manter as antigas;
+Apoio na aplicação de melhores práticas de segurança para o desenvolvimento;
+Apoio na aplicação de melhores práticas de segurança para o desenvolvimento;
+Utilizar as melhores práticas no desenvolvimento de interfaces de comunicação entre as diversas plataformas sistêmicas (APIs, WEBServices);
+Utilizar as melhores práticas no desenvolvimento de interfaces de comunicação entre as diversas plataformas sistêmicas (APIs, WEBServices);
+Utilizar as melhores práticas em armazenamento de informações dentro do projeto (tabelas, banco de dados);
+Utilizar as melhores práticas em armazenamento de informações dentro do projeto (tabelas, banco de dados);
+Manter-se atualizado com tecnologias emergentes;
+Manter-se atualizado com tecnologias emergentes;
+Auxiliar os desenvolvedores do time com a codificação e solução de problemas, ser o ponto de referência do time.
+Auxiliar os desenvolvedores do time com a codificação e solução de problemas, ser o ponto de referência do time.
+
+
+Skills/Experiências
+
+
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11;Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;Spring Boot e utilização de API's RESTFull;Conhecimento em Arquitetura de Microserviços;Banco de dados relacional: PosgreSQL;Versionamento com Git;Consciência da necessidade de testes unitários e integração;Conhecimento dos conceitos de aplicações em Cluster e Docker;Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);Linux básico.
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11;
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11;
+Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;
+Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;
+Spring Boot e utilização de API's RESTFull;
+Spring Boot e utilização de API's RESTFull;
+Conhecimento em Arquitetura de Microserviços;
+Conhecimento em Arquitetura de Microserviços;
+Banco de dados relacional: PosgreSQL;
+Banco de dados relacional: PosgreSQL;
+Versionamento com Git;
+Versionamento com Git;
+Consciência da necessidade de testes unitários e integração;
+Consciência da necessidade de testes unitários e integração;
+Conhecimento dos conceitos de aplicações em Cluster e Docker;
+Conhecimento dos conceitos de aplicações em Cluster e Docker;
+Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);
+Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);
+Linux básico.
+Linux básico.
+
+
+Desejável
+
+
+Experiência anterior no mercado de Meios de Pagamento;Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;
+Experiência anterior no mercado de Meios de Pagamento;
+Experiência anterior no mercado de Meios de Pagamento;
+Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;
+Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;
+
+
+
+#VemSerOnni
+
+
+
+Requisitos Obrigatórios Para a Posição
+
+
+
+
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11 e novos versões;Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;Spring Boot e utilização de API's RESTFull;Conhecimento de 3-4 anos em Arquitetura de Microserviços;Banco de dados relacional: PosgreSQL, MySql;Versionamento com Git;Consciência da necessidade de testes unitários e integração;Conhecimento dos conceitos de aplicações em Cluster e Docker;Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);Linux básico.
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11 e novos versões;
+Conhecimento em JavaEE/ Versão 7 e Java 8, Java 11 e novos versões;
+Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;
+Experiência de no mínimo 5 anos na área de desenvolvimento focado em Java;
+Spring Boot e utilização de API's RESTFull;
+Spring Boot e utilização de API's RESTFull;
+Conhecimento de 3-4 anos em Arquitetura de Microserviços;
+Conhecimento de 3-4 anos em Arquitetura de Microserviços;
+Banco de dados relacional: PosgreSQL, MySql;
+Banco de dados relacional: PosgreSQL, MySql;
+Versionamento com Git;
+Versionamento com Git;
+Consciência da necessidade de testes unitários e integração;
+Consciência da necessidade de testes unitários e integração;
+Conhecimento dos conceitos de aplicações em Cluster e Docker;
+Conhecimento dos conceitos de aplicações em Cluster e Docker;
+Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);
+Conhecimento em sistemas de mensageria (Kafka, ActiveMQ, RabbitMQ ou IBM MQ);
+Linux básico.
+Linux básico.
+
+
+
+
+
+Experiência anterior no mercado de Meios de Pagamento;Experiência com cartões de crédito/débito e sistemas de liquidação;Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;Conhecimento em banco de dados não relacional (MongoDB);Conhecimento dos conceitos de Cloud Computing e Amazon Web Services, como os serviços ECS, EC2, ECR, ELB, S3;ISO 8583
+Experiência anterior no mercado de Meios de Pagamento;
+Experiência anterior no mercado de Meios de Pagamento;
+Experiência com cartões de crédito/débito e sistemas de liquidação;
+Experiência com cartões de crédito/débito e sistemas de liquidação;
+Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;
+Conhecimento de metodologias ágeis de desenvolvimento como Scrum, Kanban, ou ferramenta Jira;
+
+Conhecimento em banco de dados não relacional (MongoDB);
+Conhecimento em banco de dados não relacional (MongoDB);
+Conhecimento dos conceitos de Cloud Computing e Amazon Web Services, como os serviços ECS, EC2, ECR, ELB, S3;
+Conhecimento dos conceitos de Cloud Computing e Amazon Web Services, como os serviços ECS, EC2, ECR, ELB, S3;
+
+ISO 8583
+ISO 8583

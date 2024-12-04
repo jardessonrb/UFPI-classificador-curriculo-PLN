@@ -1,0 +1,76 @@
+link-https://www.linkedin.com/jobs/view/4043437038/?eBP=CwEAAAGS7kZczn9mVAeOwOPlHS3XvUD0WiIiXkuRrULHHaR5z59FJas39T4JHrmDffBCAlBqXml9gw8vYXl2_wWIfH0_i88EbqB5qlEuBUp0HZ3YpAxTXzYJmLDPD-V9y-Orqo1h0RWddEWR_VP7Lz8y9G5xkNVZWMBpfJm2XI5KdSY-BIAOcHAhTGwC0UkF1DjrBUgALGbP903fRO66yAR1eMoCHKo9kNTQ-4TDrwTOL9pxDUCnufIoe_Y_CC99xPUbikEh3-xIxdXFuvWJKqo3jcn_34E7J0BHAv7Kzd6dll3yORRXmxWWDbcEej1sjuT1gUq2OkBY5kGxfce5SVZmZh8e0URK5xYvkJM7O0-xaYzr4P4tMO_mrwSfgrXNPVYxi23oPTUCEwwgAaStSSvJtCjQSfgmSskymy4Ao_A8YVUD1DGnokI5EEo8pVdtL70M9eAvtGFQtOZLwmhViHoSfIkXYsuy4tpNXvopoyf3uU7lXKiR-hZKIy2ENqNZ9eX4pG-qaZM&refId=hDFoZRnZMysewv9JP8NQaA%3D%3D&trackingId=ktZRlkVfobnnxO%2BXeIRucg%3D%3D&trk=flagship3_search_srp_jobs
+
+Testing/UAT/QA - Solutions Analyst II
+Sobre a vaga
+Job DescriptionJoin our team as a Solutions Analyst II and be at the forefront of driving technical innovation and strategic business solutions. Your role will be key to transforming complex challenges into efficient, tailored solutions, fostering both personal and professional growth.As a Solutions Analyst II in TII LATAM - Brazil, you will play a pivotal role in bridging the gap between product owners, business, operations, and software developers by leveraging your technical and analytical reasoning skills. You’ll elicit and document business and data flow requirements, translating them into well-structured and technically feasible solutions. Your adaptability and ability to lead through change will be crucial in ambiguous situations and in effectively handling dependencies. Your strong foundation in data analytics will be instrumental in developing innovative architecture designs and operating systems. Excellent verbal and written communication skills will ensure clear and compelling exchanges with diverse stakeholders, fostering collaboration and driving the success of the company's projects and programs.Job ResponsibilitiesContribute to data-driven decision-making by extracting insights from large, diverse data sets and applying data analytics techniquesCollaborate with cross-functional teams to provide input on architecture designs and operating systems, ensuring alignment with business strategy and technical solutionsAssist in managing project dependencies and change control by demonstrating adaptability and leading through change in a fast-paced environmentPromote continuous improvement initiatives by identifying opportunities for process enhancements and applying knowledge of principles and practices within the Solutions Analysis fieldGuide the work of others, ensuring timely completion and adherence to established principles and practicesRequired Qualifications, Capabilities, And Skills2+ years of experience or equivalent expertise in solutions analysis, with a focus on eliciting and documenting business and data flow requirementsDemonstrated proficiency in data fluency, including experience with data extraction, interpretation, and making data-informed decisionsDeveloping technical fluency in relevant platforms, software tools, and technologies, with a curiosity to continuously expand technical knowledgeExperience in data visualization and analytics, including understanding of vendor products and managing vendor relationsStrong written communication skills, with a proven ability to effectively translate complex information for diverse stakeholder audiencesExecute test scripts to validate new system code and/or change in code;Open defects containing test evidence to track system issues, manage defects opened to verify when the issue is fixed, generate periodic reports/metrics as required and Suggest process improvements and efficiencies in the process.Preferred Qualifications, Capabilities, And SkillsExperience in Payments Business required (MATERA / SINQIA)Fluent in EnglishUsage experience in Automation / Performance tools for Backend testing purpose (preferable but not limited to Python, Postman, JMeter)Project / Agile Methodology Qualification (JIRA, Project Sprint)Experience as Business Manager is welcomeAbout UsJ.P. Morgan is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit ourFAQsfor more information about requesting an accommodation.About The TeamThe Corporate & Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.
+Job Description
+
+
+
+
+
+
+Job Responsibilities
+
+
+Contribute to data-driven decision-making by extracting insights from large, diverse data sets and applying data analytics techniquesCollaborate with cross-functional teams to provide input on architecture designs and operating systems, ensuring alignment with business strategy and technical solutionsAssist in managing project dependencies and change control by demonstrating adaptability and leading through change in a fast-paced environmentPromote continuous improvement initiatives by identifying opportunities for process enhancements and applying knowledge of principles and practices within the Solutions Analysis fieldGuide the work of others, ensuring timely completion and adherence to established principles and practices
+Contribute to data-driven decision-making by extracting insights from large, diverse data sets and applying data analytics techniques
+Contribute to data-driven decision-making by extracting insights from large, diverse data sets and applying data analytics techniques
+Collaborate with cross-functional teams to provide input on architecture designs and operating systems, ensuring alignment with business strategy and technical solutions
+Collaborate with cross-functional teams to provide input on architecture designs and operating systems, ensuring alignment with business strategy and technical solutions
+Assist in managing project dependencies and change control by demonstrating adaptability and leading through change in a fast-paced environment
+Assist in managing project dependencies and change control by demonstrating adaptability and leading through change in a fast-paced environment
+Promote continuous improvement initiatives by identifying opportunities for process enhancements and applying knowledge of principles and practices within the Solutions Analysis field
+Promote continuous improvement initiatives by identifying opportunities for process enhancements and applying knowledge of principles and practices within the Solutions Analysis field
+Guide the work of others, ensuring timely completion and adherence to established principles and practices
+Guide the work of others, ensuring timely completion and adherence to established principles and practices
+
+
+Required Qualifications, Capabilities, And Skills
+
+
+2+ years of experience or equivalent expertise in solutions analysis, with a focus on eliciting and documenting business and data flow requirementsDemonstrated proficiency in data fluency, including experience with data extraction, interpretation, and making data-informed decisionsDeveloping technical fluency in relevant platforms, software tools, and technologies, with a curiosity to continuously expand technical knowledgeExperience in data visualization and analytics, including understanding of vendor products and managing vendor relationsStrong written communication skills, with a proven ability to effectively translate complex information for diverse stakeholder audiencesExecute test scripts to validate new system code and/or change in code;Open defects containing test evidence to track system issues, manage defects opened to verify when the issue is fixed, generate periodic reports/metrics as required and Suggest process improvements and efficiencies in the process.
+2+ years of experience or equivalent expertise in solutions analysis, with a focus on eliciting and documenting business and data flow requirements
+2+ years of experience or equivalent expertise in solutions analysis, with a focus on eliciting and documenting business and data flow requirements
+Demonstrated proficiency in data fluency, including experience with data extraction, interpretation, and making data-informed decisions
+Demonstrated proficiency in data fluency, including experience with data extraction, interpretation, and making data-informed decisions
+Developing technical fluency in relevant platforms, software tools, and technologies, with a curiosity to continuously expand technical knowledge
+Developing technical fluency in relevant platforms, software tools, and technologies, with a curiosity to continuously expand technical knowledge
+Experience in data visualization and analytics, including understanding of vendor products and managing vendor relations
+Experience in data visualization and analytics, including understanding of vendor products and managing vendor relations
+Strong written communication skills, with a proven ability to effectively translate complex information for diverse stakeholder audiences
+Strong written communication skills, with a proven ability to effectively translate complex information for diverse stakeholder audiences
+Execute test scripts to validate new system code and/or change in code;
+Execute test scripts to validate new system code and/or change in code;
+Open defects containing test evidence to track system issues, manage defects opened to verify when the issue is fixed, generate periodic reports/metrics as required and Suggest process improvements and efficiencies in the process.
+Open defects containing test evidence to track system issues, manage defects opened to verify when the issue is fixed, generate periodic reports/metrics as required and Suggest process improvements and efficiencies in the process.
+
+
+Preferred Qualifications, Capabilities, And Skills
+
+
+Experience in Payments Business required (MATERA / SINQIA)Fluent in EnglishUsage experience in Automation / Performance tools for Backend testing purpose (preferable but not limited to Python, Postman, JMeter)Project / Agile Methodology Qualification (JIRA, Project Sprint)Experience as Business Manager is welcome
+Experience in Payments Business required (MATERA / SINQIA)
+Experience in Payments Business required (MATERA / SINQIA)
+Fluent in English
+Fluent in English
+Usage experience in Automation / Performance tools for Backend testing purpose (preferable but not limited to Python, Postman, JMeter)
+Usage experience in Automation / Performance tools for Backend testing purpose (preferable but not limited to Python, Postman, JMeter)
+Project / Agile Methodology Qualification (JIRA, Project Sprint)
+Project / Agile Methodology Qualification (JIRA, Project Sprint)
+Experience as Business Manager is welcome
+Experience as Business Manager is welcome
+
+
+About Us
+
+
+
+
+
+
+
+
+About The Team
+
+

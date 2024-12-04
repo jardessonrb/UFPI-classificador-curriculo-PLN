@@ -1,0 +1,53 @@
+link-https://www.linkedin.com/jobs/view/4056625005/?eBP=CwEAAAGS7lD1UocBVi51TR_SxKVvooKOlMeV2u32_bLYOilWlLTyl8lvyJ0L-Tw2E38Qe7A_D-0Lnq00TWSHcjOCLx71fgCVtZXjRRLUTsvjmiBlWTk_LJBz3r_htDrHpep8Dr3fCNj4UG1WOX_pSIwy2Rf2zIfLy68EG5GPGEkERK6GVb8O0M2v9Abw5E4FqWujxv7w1g_veON0X6Sm65h_1_TtN4zPAoIxizOagmOnK4VhdK0xoA8EWnl6bhkcyG1p6ite_o4AhIxj-XNxnq_bw715E6cqC9pUYsHK1X24dHP5rAd7Zck2SEYUBe5g_zd52Ck4NENsoQgxbNdhjzCy36jRFQ20dR0Y-1-ZGGJCyBAu9tBgTavjqfvwHMH5H5s2PVXVL-YcDGujN8ep8FyoYZgQ7wj0Gvjr3CrN1kv_iyU7u9QnRwP4_3iRd3UDDV0Fw-vlCPydZgGYXOGyUaMTIbjtqZNjGMnAjW3eJ6cKdPws4-DAkoNbXtqUw9_y4xsq8CWR3yg&refId=iFoNm80mDkJh%2FNl7uvG14w%3D%3D&trackingId=%2FlMCZRAy3wOlxjjiUjdpQg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer (Remote) - Brazil
+Sobre a vaga
+The RoleWe are looking for highly talented and driven software engineers who take pride in their work, to expand our Engineering team in Brazil. Successful candidates will join a cross functional team including product managers and designers working closely with the rest of our business to deliver working code that solves real problems for both internal and external customers. You will take ownership of the services managed by your team, ensuring that their development aligns with the higher level AlphaSights Engineering strategy, while mentoring more junior Engineers. If you have a strong passion for solving problems with code, and want to work with exceptional colleagues in a high achievement environment, this role is a good fit for you.What You’ll DoDesign solutions: Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.Ship working code: We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.Deploy and iterate: We release frequently to our customers, using CircleCI and Spinnaker for CI/CD, and quickly gather feedback in order to inform our next iteration.Build your competency: You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.Maintenance and troubleshooting: Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.Who You AreYou probably have a degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.Experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.Technical expertise with Java or Kotlin with Springboot, and ideally experience with relational databases.Proven track record – You’ve made a demonstrable impact in your previous roles, standing out from your peers. Highly driven and proactive – you relentlessly and independently push through hurdles and drive towards excellent outcomes.Meticulous – you hold high standards and have an obsessive attention to detail.Learn more about our tech organizationhere!Don't worry if your experience or background doesn't match all of these areas, we believe a broad spectrum of experience provides great perspective on solving problems in new and innovative ways and we’d love to hear from you.Please note that unfortunately, we are unable to sponsor visas for this position. AlphaSights is an equal opportunity employer.THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZILIAN RESIDENTS.
+The Role
+
+
+
+
+What You’ll Do
+
+
+Design solutions: Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.Ship working code: We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.Deploy and iterate: We release frequently to our customers, using CircleCI and Spinnaker for CI/CD, and quickly gather feedback in order to inform our next iteration.Build your competency: You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.Maintenance and troubleshooting: Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+Design solutions: Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.
+Design solutions: Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.
+Ship working code: We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.
+Ship working code: We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.
+Deploy and iterate: We release frequently to our customers, using CircleCI and Spinnaker for CI/CD, and quickly gather feedback in order to inform our next iteration.
+Deploy and iterate: We release frequently to our customers, using CircleCI and Spinnaker for CI/CD, and quickly gather feedback in order to inform our next iteration.
+Build your competency: You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.
+Build your competency: You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.
+
+Maintenance and troubleshooting: Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+Maintenance and troubleshooting: Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+
+
+Who You Are
+
+
+You probably have a degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.Experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.Technical expertise with Java or Kotlin with Springboot, and ideally experience with relational databases.Proven track record – You’ve made a demonstrable impact in your previous roles, standing out from your peers. Highly driven and proactive – you relentlessly and independently push through hurdles and drive towards excellent outcomes.Meticulous – you hold high standards and have an obsessive attention to detail.
+You probably have a degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.
+You probably have a degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.
+Experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.
+Experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.
+Technical expertise with Java or Kotlin with Springboot, and ideally experience with relational databases.
+Technical expertise with Java or Kotlin with Springboot, and ideally experience with relational databases.
+Proven track record – You’ve made a demonstrable impact in your previous roles, standing out from your peers. Highly driven and proactive – you relentlessly and independently push through hurdles and drive towards excellent outcomes.
+Proven track record – You’ve made a demonstrable impact in your previous roles, standing out from your peers. Highly driven and proactive – you relentlessly and independently push through hurdles and drive towards excellent outcomes.
+Meticulous – you hold high standards and have an obsessive attention to detail.
+Meticulous – you hold high standards and have an obsessive attention to detail.
+
+
+
+
+
+
+
+
+
+THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZILIAN RESIDENTS.
+THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZILIAN RESIDENTS.
+THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZILIAN RESIDENTS.

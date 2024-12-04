@@ -1,0 +1,132 @@
+link-https://www.linkedin.com/jobs/view/4046311713/?eBP=CwEAAAGS7lLyaxxgLTDdhqxuvPflB0mZT07tga3cPCXX3jmk0owf9q7ZuzD2PKeHNcoXxlp4lKuuPVUgMV-yMFiy-ColPBXyDdPW9Zu6rcAnUnKAKvCNK8bvQ82-89_wVIhwME2HIriKKqDrILdlYkptDfjtCrN_knlQq742m2c3Qq12vk_MNwnQf9NlbEWRgJsh1yRz4GOV9hwtvehlF4ddY2X2viH-CN4WP_gF-pro6qn3VJ6rw8-5KwweY0gK7yy5IAg4rzcuWGXM6r_8WW24uoPYLEPegaiab-X33aL4OreeMqHmUmpPwftmJhwYlnhhvBzP2oyVNX6dRPrfQ3kP7KJ0e894WEWRUys8bJw9MDzOyxA2mq0n53sCov65kvdX5Eb6pKDTuexHUoaMeIRqmWs7mrxO_KGc4nFYBmcudNoCZqo5H9coZHLy1rgSQo5Dmb57I7JPuslbaX5mpF74-_ZmQe1PpCBaLuV3GdoMFnuZLRfmIN5yYqwOsBEsjg&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=bQpYaOTQyiXhnz67Zh%2FKtg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Full-Stack (Backend e Frontend Sr)
+Sobre a vaga
+Somos aAdviceHealth!Uma healthtech com ambiente inovador, dinâmico, dedicado ao desenvolvimento técnico-científico, com foco no futuro da saúde suplementar. Nosso dia a dia compreende desenvolver os melhores conteúdos técnicos para os maiores players do segmento, visando a melhor qualidade de atendimento ao paciente, que é o nosso cliente final.No nosso dia a dia, valorizamos o aprendizado contínuo, superação, integridade, iniciativa e foco no cliente.Se você também acredita que é sempre possível fazer melhor, venha fazer parte do nosso time!Sobre a Vaga:ComoDesenvolvedor Full-Stack (Backend e Frontend Sr)você será imprescindível em processos que envolvem ações como:Desenvolvimento de Frontend;Arquitetura de Microsserviços e Assíncrona;Serviços de Mensageria;Desenvolvimento Backend;Conhecimentos da cultura DevOps;Participar de Eventos de Scrum/Kanban;Efetuar Code Review;Desenvolvimento orientado a teste (TDD);Boas práticas de desenvolvimento (SOLID, DRY e KISS)Propor ideias de melhorias, melhorias arquitetônicas e de processos junto com o time.Requisitos:Experiência com React.js com Redux;Experiência sólida com CSS e HTML 5;Experiência sólida utilizando Python com Django REST Framework;Conhecimentos RabbitMQ ou ActiveMQ;Conhecimento em APIs REST;Experiência com TDD e testes automatizados;Experiência na construção de soluções seguras de nível empresarial que são altamente disponíveis e escalonáveis;Experiência com Docker/Containers;Conhecimento em tecnologias de processamento de dados em grande escala;Conhecimento em Práticas Ágeis;Conhecimento banco de dados relacionais (SQL) com a intenção de explorar, entender, extrair e transformar informações (Conceito ETL);Conhecimentos em GIT/Bitbucket.Diferencial:Conhecimento em Sistema Operacional Ubuntu Server.Conhecimento em AWS e/ou Azure.O que oferecemos:Plano de Saúde Unimed:Mensalidade sem custo para o colaborador, com pagamento apenas da coparticipação.Convênio Odontológico:Plano odontológico 100% gratuito, para manter o sorriso sempre em dia.Vale Alimentação/Refeição:Supermercado ou restaurante? Você escolhe ou faz um mix conforme sua preferência. São mais de R$ 1.000 em benefícios, sem desconto em folha.Vale Transporte:Apoio para o deslocamento até a empresa, com desconto reduzido de apenas 3%.Auxílio Creche:Para garantir um local seguro para seus pequenos dependentes.Day Off de Aniversário:Para você aproveitar o seu dia da maneira que preferir.Universidade Corporativa:Mais de 40 cursos de capacitação na área da saúde, com grandes referências do setor.Você se sente preparado(a) para superar desafios e construir histórias extraordinárias conosco?Aviso de Privacidade:Os dados pessoais coletados serão utilizados exclusivamente para o processo seletivo, tratados de acordo com os níveis de segurança adotados pela AdviceHealth.Em caso de dúvidas sobre a privacidade dos dados ou qualquer aspecto relacionado ao tratamento realizado, entre em contato pelo canal: privacidade@advicehealth.com.br.Acesse nosso Aviso de Privacidade em https://advicehealth.com.br/politica-de-privacidade/ para saber mais sobre como tratamos dados pessoais na AdviceHealth.
+AdviceHealth!
+
+
+
+
+Se você também acredita que é sempre possível fazer melhor, venha fazer parte do nosso time!
+
+
+Sobre a Vaga
+
+
+
+Desenvolvedor Full-Stack (Backend e Frontend Sr)
+
+
+
+Desenvolvimento de Frontend;Arquitetura de Microsserviços e Assíncrona;Serviços de Mensageria;Desenvolvimento Backend;Conhecimentos da cultura DevOps;Participar de Eventos de Scrum/Kanban;Efetuar Code Review;Desenvolvimento orientado a teste (TDD);Boas práticas de desenvolvimento (SOLID, DRY e KISS)Propor ideias de melhorias, melhorias arquitetônicas e de processos junto com o time.
+Desenvolvimento de Frontend;
+Desenvolvimento de Frontend;
+Arquitetura de Microsserviços e Assíncrona;
+Arquitetura de Microsserviços e Assíncrona;
+Serviços de Mensageria;
+Serviços de Mensageria;
+Desenvolvimento Backend;
+Desenvolvimento Backend;
+Conhecimentos da cultura DevOps;
+Conhecimentos da cultura DevOps;
+Participar de Eventos de Scrum/Kanban;
+Participar de Eventos de Scrum/Kanban;
+Efetuar Code Review;
+Efetuar Code Review;
+Desenvolvimento orientado a teste (TDD);
+Desenvolvimento orientado a teste (TDD);
+Boas práticas de desenvolvimento (SOLID, DRY e KISS)
+Boas práticas de desenvolvimento (SOLID, DRY e KISS)
+Propor ideias de melhorias, melhorias arquitetônicas e de processos junto com o time.
+Propor ideias de melhorias, melhorias arquitetônicas e de processos junto com o time.
+
+
+Requisitos:
+
+
+Experiência com React.js com Redux;Experiência sólida com CSS e HTML 5;Experiência sólida utilizando Python com Django REST Framework;Conhecimentos RabbitMQ ou ActiveMQ;Conhecimento em APIs REST;Experiência com TDD e testes automatizados;Experiência na construção de soluções seguras de nível empresarial que são altamente disponíveis e escalonáveis;Experiência com Docker/Containers;Conhecimento em tecnologias de processamento de dados em grande escala;Conhecimento em Práticas Ágeis;Conhecimento banco de dados relacionais (SQL) com a intenção de explorar, entender, extrair e transformar informações (Conceito ETL);Conhecimentos em GIT/Bitbucket.
+Experiência com React.js com Redux;
+Experiência com React.js com Redux;
+Experiência sólida com CSS e HTML 5;
+Experiência sólida com CSS e HTML 5;
+Experiência sólida utilizando Python com Django REST Framework;
+Experiência sólida utilizando Python com Django REST Framework;
+Conhecimentos RabbitMQ ou ActiveMQ;
+Conhecimentos RabbitMQ ou ActiveMQ;
+Conhecimento em APIs REST;
+Conhecimento em APIs REST;
+Experiência com TDD e testes automatizados;
+Experiência com TDD e testes automatizados;
+Experiência na construção de soluções seguras de nível empresarial que são altamente disponíveis e escalonáveis;
+Experiência na construção de soluções seguras de nível empresarial que são altamente disponíveis e escalonáveis;
+Experiência com Docker/Containers;
+Experiência com Docker/Containers;
+Conhecimento em tecnologias de processamento de dados em grande escala;
+Conhecimento em tecnologias de processamento de dados em grande escala;
+Conhecimento em Práticas Ágeis;
+Conhecimento em Práticas Ágeis;
+Conhecimento banco de dados relacionais (SQL) com a intenção de explorar, entender, extrair e transformar informações (Conceito ETL);
+Conhecimento banco de dados relacionais (SQL) com a intenção de explorar, entender, extrair e transformar informações (Conceito ETL);
+Conhecimentos em GIT/Bitbucket.
+Conhecimentos em GIT/Bitbucket.
+
+
+Diferencial:
+
+
+Conhecimento em Sistema Operacional Ubuntu Server.Conhecimento em AWS e/ou Azure.
+Conhecimento em Sistema Operacional Ubuntu Server.
+Conhecimento em Sistema Operacional Ubuntu Server.
+Conhecimento em AWS e/ou Azure.
+Conhecimento em AWS e/ou Azure.
+
+
+O que oferecemos:
+
+
+Plano de Saúde Unimed:
+
+
+
+
+Convênio Odontológico:
+
+
+
+
+Vale Alimentação/Refeição:
+
+
+
+
+Vale Transporte:
+
+
+
+
+Auxílio Creche:
+
+
+
+
+Day Off de Aniversário:
+
+
+
+
+Universidade Corporativa:
+
+
+
+
+Você se sente preparado(a) para superar desafios e construir histórias extraordinárias conosco?
+
+
+Aviso de Privacidade:
+
+
+
+
+
+

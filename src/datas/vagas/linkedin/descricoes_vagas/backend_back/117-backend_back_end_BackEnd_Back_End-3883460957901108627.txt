@@ -1,0 +1,53 @@
+link-https://www.linkedin.com/jobs/view/4056475167/?eBP=CwEAAAGS7lPxisRr0K5sSae3XrvcSwUJoA_Nm9DOSYBc_cirySxjb043O1o4RwbH0UnT99EAO3Yf2vrrU5d3q7UADH86hBgzQJMugITd56Wdoji6xfhTDezT12IAUUbomCQtsdnZ8jvQPK9JLEWL7hzavFemxKJPrkW3m4mTvdJsjDLlA4tqFxOcUczTvQTm6mbenBMfouYnZoS7iZIBSP28EqsuE3gWFGCAkIbMCVX6nSne8X3ElmpHpXzC1vIUCpSxOqxsHxVSPB9HLbib9Cs3JIEDoxZCo4mOM_lREBRcgYss7Y9CdjcpOeyW2OcNE78C9ldApcjkn3Wo7xLHkIn0e3KlQA5-B4O6PnFIPosac_dqDSLJjsj9z0IO-7U6Ev0ZT4X3-8arDClQYWxmkc73iFrbfOMBjbuDHGIs5cW1hU8g62zoOths3cBj7kiUDnBYY-akLbyMjX2LcjUmfugFM8u0DjaNRN9bhYvOAwMAPiPr9BHNXvoP1mGd&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=aSjDBUAK%2FmPZm2fSDA3OrA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Backend Pleno .NET Pleno - Híbrido RJ
+Sobre a vaga
+Nosso cliente:Empresa de Tecnologia, com mais de 30 anos de experiência no mercado de Tecnologia em Saúde. Atua em Hospitais em todo território nacional com infra estrutura e gestão de ERP Saúde Philips Tasy, como Distribuidor Homologado desde 2018. Atuação nos segmentos de infra estrutura, sistemas Philips Tasy e Desenvolvimento de soluções integradas para o mercado de Saúde. Já realizou mais de 120 projetos nos mais diversos clientes considerando grandes grupos hospitalares como Rededor, Amil, GNDI, Perinatal, Davita como em instituições menores no mesmo segmento.Cultura:Somos uma instituição de empreendedores, buscamos profissionais que estejam dispostos e investir em uma carreira independente, porém com a força de um grupo de profissionais que estão atuando no mercado a mais de 30 anos. Credibilidade, Respeito, Resiliência e Ética são valores fundamentais para o compromisso com o grupo.ResponsabilidadesDesenvolver e manter a infraestrutura de backend;Construção de APIs escaláveis e robustas;Otimização de performance e custos de banco de dados e App Services;Garantir a segurança e eficiência do sistema;Requisitos ObrigatóriosMínimo de 4 anos de experiência com desenvolvimento backend em .NET Core ou .NET Framework;Forte conhecimento em APIs RESTful e integração de sistemas;Experiência com bancos de dados relacionais (SQL Server, MySQL, PostgreSQL);Capacidade de otimizar a performance e os custos de infraestrutura de banco de dados e App Services;Conhecimentos em Arquitetura de Microserviços;Experiência com Azure, incluindo a criação e o uso de App Services;Experiência com App Insights para monitoramento de performance e detecção de falhas;Experiência com ferramentas de versionamento de código, como Git;Experiência com metodologias ágeis (Scrum, Kanban);Bacharel na área de computação ou engenharia de computação;Inglês Intermediário;
+Nosso cliente:
+
+
+
+Cultura:
+
+
+
+Responsabilidades
+
+
+Desenvolver e manter a infraestrutura de backend;Construção de APIs escaláveis e robustas;Otimização de performance e custos de banco de dados e App Services;Garantir a segurança e eficiência do sistema;
+Desenvolver e manter a infraestrutura de backend;
+Desenvolver e manter a infraestrutura de backend;
+Construção de APIs escaláveis e robustas;
+Construção de APIs escaláveis e robustas;
+Otimização de performance e custos de banco de dados e App Services;
+Otimização de performance e custos de banco de dados e App Services;
+Garantir a segurança e eficiência do sistema;
+Garantir a segurança e eficiência do sistema;
+
+
+Requisitos Obrigatórios
+
+
+Mínimo de 4 anos de experiência com desenvolvimento backend em .NET Core ou .NET Framework;Forte conhecimento em APIs RESTful e integração de sistemas;Experiência com bancos de dados relacionais (SQL Server, MySQL, PostgreSQL);Capacidade de otimizar a performance e os custos de infraestrutura de banco de dados e App Services;Conhecimentos em Arquitetura de Microserviços;Experiência com Azure, incluindo a criação e o uso de App Services;Experiência com App Insights para monitoramento de performance e detecção de falhas;Experiência com ferramentas de versionamento de código, como Git;Experiência com metodologias ágeis (Scrum, Kanban);Bacharel na área de computação ou engenharia de computação;Inglês Intermediário;
+Mínimo de 4 anos de experiência com desenvolvimento backend em .NET Core ou .NET Framework;
+Mínimo de 4 anos de experiência com desenvolvimento backend em .NET Core ou .NET Framework;
+Forte conhecimento em APIs RESTful e integração de sistemas;
+Forte conhecimento em APIs RESTful e integração de sistemas;
+Experiência com bancos de dados relacionais (SQL Server, MySQL, PostgreSQL);
+Experiência com bancos de dados relacionais (SQL Server, MySQL, PostgreSQL);
+Capacidade de otimizar a performance e os custos de infraestrutura de banco de dados e App Services;
+Capacidade de otimizar a performance e os custos de infraestrutura de banco de dados e App Services;
+Conhecimentos em Arquitetura de Microserviços;
+Conhecimentos em Arquitetura de Microserviços;
+Experiência com Azure, incluindo a criação e o uso de App Services;
+Experiência com Azure, incluindo a criação e o uso de App Services;
+Experiência com App Insights para monitoramento de performance e detecção de falhas;
+Experiência com App Insights para monitoramento de performance e detecção de falhas;
+Experiência com ferramentas de versionamento de código, como Git;
+Experiência com ferramentas de versionamento de código, como Git;
+Experiência com metodologias ágeis (Scrum, Kanban);
+Experiência com metodologias ágeis (Scrum, Kanban);
+Bacharel na área de computação ou engenharia de computação;
+Bacharel na área de computação ou engenharia de computação;
+Inglês Intermediário;
+Inglês Intermediário;

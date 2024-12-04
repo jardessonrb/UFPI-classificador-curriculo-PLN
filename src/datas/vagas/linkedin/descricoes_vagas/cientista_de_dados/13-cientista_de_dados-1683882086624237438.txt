@@ -1,0 +1,167 @@
+link-https://www.linkedin.com/jobs/view/4054424349/?eBP=CwEAAAGS7jTqlR_j0UuZICNzeqwi8K4lnhbSPix3hRY4b0HHTFEBz204o0dhOoGT7RNFjqa5gq_MsCLZVrrBzUX9a9sQzAcISHbKMFQmO-9dDLpq2VM-u92FGItHthWu1JKOL4UdUeGV4358IDFNUDY3sOIHtVAekzjza4x1Vi_KgT1jD92qK_H1_zLFzxjjxx0mZqo2dODdpHznN5B4ADjnsGjY9-J1soqesWJ1ptsSDZlzUNXEiN81GRQKQ0gnP9GV9_l6MH-QrItJ5W3jqlOa6nVy4Fs1mSJvxEjcnHkr-qV48YaQQAUJ16Bd0c35GPOq8bEfTag7oKktArlPa3NvEWIadtd0pSZb2km0OWZvypbY8wA2tCksBjU9tPxFTOk9GTJ8KY_IiYe41C2OAEWkMaef3o7ulAOauIrtxew1GOXnHaIzcjtdI2y4RjsOgHKwSUvDUXww-V8wpMQyj2yusBjuIEKqIxvf2EvHHApeK94ZmlufGQ2eKcfMQko&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=BN3wpbsefjBhg9NFcxiWwg%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior - Risco de Crédito
+Sobre a vaga
+Buscamos um cientista de dados com experiência que curta e busque todos os desafios que uma consultoria tem a oferecer: clientes diferentes, negócios diferentes e soluções diferentes a cada projeto, utilizando inteligência artificial no geral para trazer resultado para o cliente.Para essa primeira alocação, buscamos especificamente pessoas com experiência em modelos de risco de crédito - credit scoring, behaviour score, EAD, LGD!Responsabilidades e atribuiçõesPrincipais atividades:Desenvolvimento de modelos estatísticos para todos os segmentos de atuação da Bip Brasil - o desenvolvimento do modelo é de ponta a ponta: desde o tratamento inicial de dados até a documentação técnica da solução desenvolvida;Montar modelos preditivos e de machine learning;Soluções de analytics e BI também serão desenvolvidas para prover a melhor solução e experiência possível para o cliente, para que de fato as ações sejam tomadas!Contato direto com equipe de consultoria de negócios a fim de entender o problema e possíveis soluções a serem desenvolvidas, aumentando nossa assertividade e impacto!Oportunidade de desenvolvimento de modelos com metodologias estatísticas distintas e linguagens de programação variadas. Lembre-se: aqui você poderá atuar de forma dinâmica, em diferentes desafios e negócios;Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor aos usuários e clientes.Requisitos e qualificaçõesFormação:Superior completo, porém todos os cursos são bem-vindos!Competências esperadas:Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);Domínio de SAS, R ou Python (desenvolvimento de macros e funções);Perfil questionador, com bom raciocínio lógico;Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria;Experiência prévia com modelos de risco de crédito - score, PD, EAD, LGD.Competências desejáveis:Domínio de mais de uma linguagem de programação;Prática com softwares de BI;Experiência em projetos utilizando AWS, GCP ou Microsoft;Atuação em modelo ágil.Informações adicionaisCONHEÇA NOSSOS BENEFÍCIOSAlguns dos nossos benefícios são flexíveis para que você possa distribuí-los de acordo com suas necessidades, interesses e momento de vida. São eles:All Points (Programa de pontos para passagens áreas e hospedagens);Assistência Médica;Assistência Odontológica;Seguro de vida;Convênio para Pet;Mobilidade (incluindo opção de combustível e Uber, 99);Reembolso Flex (óculos, vacinas, educação, shows e outros);Vale Refeição e/ou Vale Alimentação.Outros benefícios:Birthday off;Gympass;Consultoria financeira e empréstimo facilitado;Clube Alelo com diversos descontos em lojas e farmácias;Licença Maternidade de 180 dias;Licença Paternidade de 30 dias;Auxílio creche no primeiro ano do bebê;Vale Transporte conforme a demanda do projeto ou área;Programa de bônus anual;Comissionamento por indicação de novos clientes.PROGRAMAS DE DESENVOLVIMENTOUm dos pontos fortes de ser Biper é que ousamos em pensar como empreendedores e moldamos nosso futuro com nossa capacidade de pensar minuciosamente e agir com três passos à frente, pavimentando o caminho para o futuro que nossos clientes querem viver.E para isso, precisamos estar constantemente aprendendo e reaprendendo, somos .Na BIP temos programas consolidados a nível Global e nacional para que você tenha uma jornada de desenvolvimento, crescimento e liberdade para você conquistar o que sonha. Aqui você é o protagonista da sua carreira!Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;Programas de mentoria com Líderes referências em sua atuação;Avaliação de Desempenho semestral;Cultura de Feedback e 1:1 recorrentes com sua liderança e time;Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global.Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+
+
+
+
+Responsabilidades e atribuições
+
+
+Principais atividades:
+
+
+Desenvolvimento de modelos estatísticos para todos os segmentos de atuação da Bip Brasil - o desenvolvimento do modelo é de ponta a ponta: desde o tratamento inicial de dados até a documentação técnica da solução desenvolvida;Montar modelos preditivos e de machine learning;Soluções de analytics e BI também serão desenvolvidas para prover a melhor solução e experiência possível para o cliente, para que de fato as ações sejam tomadas!Contato direto com equipe de consultoria de negócios a fim de entender o problema e possíveis soluções a serem desenvolvidas, aumentando nossa assertividade e impacto!Oportunidade de desenvolvimento de modelos com metodologias estatísticas distintas e linguagens de programação variadas. Lembre-se: aqui você poderá atuar de forma dinâmica, em diferentes desafios e negócios;Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor aos usuários e clientes.
+Desenvolvimento de modelos estatísticos para todos os segmentos de atuação da Bip Brasil - o desenvolvimento do modelo é de ponta a ponta: desde o tratamento inicial de dados até a documentação técnica da solução desenvolvida;
+Desenvolvimento de modelos estatísticos para todos os segmentos de atuação da Bip Brasil - o desenvolvimento do modelo é de ponta a ponta: desde o tratamento inicial de dados até a documentação técnica da solução desenvolvida;
+Montar modelos preditivos e de machine learning;
+Montar modelos preditivos e de machine learning;
+Soluções de analytics e BI também serão desenvolvidas para prover a melhor solução e experiência possível para o cliente, para que de fato as ações sejam tomadas!
+Soluções de analytics e BI também serão desenvolvidas para prover a melhor solução e experiência possível para o cliente, para que de fato as ações sejam tomadas!
+Contato direto com equipe de consultoria de negócios a fim de entender o problema e possíveis soluções a serem desenvolvidas, aumentando nossa assertividade e impacto!
+Contato direto com equipe de consultoria de negócios a fim de entender o problema e possíveis soluções a serem desenvolvidas, aumentando nossa assertividade e impacto!
+Oportunidade de desenvolvimento de modelos com metodologias estatísticas distintas e linguagens de programação variadas. Lembre-se: aqui você poderá atuar de forma dinâmica, em diferentes desafios e negócios;
+Oportunidade de desenvolvimento de modelos com metodologias estatísticas distintas e linguagens de programação variadas. Lembre-se: aqui você poderá atuar de forma dinâmica, em diferentes desafios e negócios;
+Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor aos usuários e clientes.
+Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor aos usuários e clientes.
+
+
+
+Requisitos e qualificações
+
+
+Formação:
+
+
+Superior completo, porém todos os cursos são bem-vindos!
+Superior completo, porém todos os cursos são bem-vindos!
+Superior completo, porém todos os cursos são bem-vindos!
+
+
+
+Competências esperadas:
+
+
+Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);Domínio de SAS, R ou Python (desenvolvimento de macros e funções);Perfil questionador, com bom raciocínio lógico;Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria;Experiência prévia com modelos de risco de crédito - score, PD, EAD, LGD.
+Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);
+Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);
+Domínio de SAS, R ou Python (desenvolvimento de macros e funções);
+Domínio de SAS, R ou Python (desenvolvimento de macros e funções);
+Perfil questionador, com bom raciocínio lógico;
+Perfil questionador, com bom raciocínio lógico;
+Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria;
+Perfil empreendedor, com apetite por grandes desafios de negócios e vontade de trabalhar na dinâmica de uma consultoria;
+Experiência prévia com modelos de risco de crédito - score, PD, EAD, LGD.
+Experiência prévia com modelos de risco de crédito - score, PD, EAD, LGD.
+
+
+
+Competências desejáveis:
+
+
+Domínio de mais de uma linguagem de programação;Prática com softwares de BI;Experiência em projetos utilizando AWS, GCP ou Microsoft;Atuação em modelo ágil.
+Domínio de mais de uma linguagem de programação;
+Domínio de mais de uma linguagem de programação;
+Prática com softwares de BI;
+Prática com softwares de BI;
+Experiência em projetos utilizando AWS, GCP ou Microsoft;
+Experiência em projetos utilizando AWS, GCP ou Microsoft;
+Atuação em modelo ágil.
+Atuação em modelo ágil.
+
+
+
+Informações adicionais
+
+
+CONHEÇA NOSSOS BENEFÍCIOS
+
+
+Alguns dos nossos benefícios são flexíveis para que você possa distribuí-los de acordo com suas necessidades, interesses e momento de vida. São eles:
+
+
+All Points (Programa de pontos para passagens áreas e hospedagens);Assistência Médica;Assistência Odontológica;Seguro de vida;Convênio para Pet;Mobilidade (incluindo opção de combustível e Uber, 99);Reembolso Flex (óculos, vacinas, educação, shows e outros);Vale Refeição e/ou Vale Alimentação.
+All Points (Programa de pontos para passagens áreas e hospedagens);
+All Points (Programa de pontos para passagens áreas e hospedagens);
+
+Assistência Médica;
+Assistência Médica;
+Assistência Odontológica;
+Assistência Odontológica;
+Seguro de vida;
+Seguro de vida;
+Convênio para Pet;
+Convênio para Pet;
+Mobilidade (incluindo opção de combustível e Uber, 99);
+Mobilidade (incluindo opção de combustível e Uber, 99);
+Reembolso Flex (óculos, vacinas, educação, shows e outros);
+Reembolso Flex (óculos, vacinas, educação, shows e outros);
+Vale Refeição e/ou Vale Alimentação.
+Vale Refeição e/ou Vale Alimentação.
+
+
+
+Outros benefícios:
+
+
+Birthday off;Gympass;Consultoria financeira e empréstimo facilitado;Clube Alelo com diversos descontos em lojas e farmácias;Licença Maternidade de 180 dias;Licença Paternidade de 30 dias;Auxílio creche no primeiro ano do bebê;Vale Transporte conforme a demanda do projeto ou área;Programa de bônus anual;Comissionamento por indicação de novos clientes.
+Birthday off;
+Birthday off;
+
+Gympass;
+Gympass;
+Consultoria financeira e empréstimo facilitado;
+Consultoria financeira e empréstimo facilitado;
+Clube Alelo com diversos descontos em lojas e farmácias;
+Clube Alelo com diversos descontos em lojas e farmácias;
+Licença Maternidade de 180 dias;
+Licença Maternidade de 180 dias;
+Licença Paternidade de 30 dias;
+Licença Paternidade de 30 dias;
+Auxílio creche no primeiro ano do bebê;
+Auxílio creche no primeiro ano do bebê;
+Vale Transporte conforme a demanda do projeto ou área;
+Vale Transporte conforme a demanda do projeto ou área;
+Programa de bônus anual;
+Programa de bônus anual;
+Comissionamento por indicação de novos clientes.
+Comissionamento por indicação de novos clientes.
+
+
+
+PROGRAMAS DE DESENVOLVIMENTO
+
+
+
+
+
+
+
+
+Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:
+
+
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;Programas de mentoria com Líderes referências em sua atuação;Avaliação de Desempenho semestral;Cultura de Feedback e 1:1 recorrentes com sua liderança e time;Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global.Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;
+Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;
+Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;
+Programas de mentoria com Líderes referências em sua atuação;
+Programas de mentoria com Líderes referências em sua atuação;
+Avaliação de Desempenho semestral;
+Avaliação de Desempenho semestral;
+Cultura de Feedback e 1:1 recorrentes com sua liderança e time;
+Cultura de Feedback e 1:1 recorrentes com sua liderança e time;
+Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;
+Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;
+Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;
+Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;
+Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;
+Grounding –Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;
+Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global.
+Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global.
+
+Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.

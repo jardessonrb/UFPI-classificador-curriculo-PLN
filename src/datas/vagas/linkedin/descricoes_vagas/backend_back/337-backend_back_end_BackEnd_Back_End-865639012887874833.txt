@@ -1,0 +1,89 @@
+link-https://www.linkedin.com/jobs/view/4029093045/?eBP=CwEAAAGS7lCPxvLiKLG9_1qJQHh7UdY2xN6IVBaLLcH8huxsjB_OW89GqtSW46LLjKyQ8P0gFpxgAOzg8Q63EjpxOFDlZ1Cp-KJ_eYYTjsVglx41rlHuJK05hdm3Fb01tzM8Zr-C-9PR6OTheWIqOexMi2ccS8SeG8EDZxfVXhz57NuWbY0ob9oBqlvM-Hr-6bs94kerelER4pZ74jJHW-QQYzcef1btOVOobMBJ2EkmeHt79ym67DqRiMR3yw9qsEHCQENRJYBb4oEOOwijzXvYqikTRyEZsi8pwKJdTA8g2bhNrKQjimfu38WdZ0dp1hwG_fJgYp7R_x9VMkvePSwvNoWU92V0L5UPhiVS_RywHp4lDWFbHFbqPdWuNerTp4MAapWbqf41r7-icZxWiCcTliBRmlO37s8CMgRp3ql09H3I8ovMyumeuRWIpbRALscmfja7ZDyJsMRewmAlT0RbLtJjlqkbYnmzMMR1P9DsYALRgTAEXkEdvwvXWkccIBNH9J7_vrPE07sK&refId=0Ze7ozDZE5UYE54n%2FUrWZw%3D%3D&trackingId=raeeKKAo2R8Sd6mCJDrNmA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend | Home Equity & Auto
+Sobre a vaga
+Nossa área de Home Equity & Auto EngineeringResponsável por desenvolver e gerenciar plataformas e sistemas relacionados a empréstimos garantidos por imóveis e veículos. Isso inclui desenvolvimento de produtos, análise de crédito, gestão de portfólio e conformidade regulatória, tudo com foco em oferecer uma experiência eficiente e segura para os clientes, utilizando tecnologia para automatizar processos, analisar dados e garantir conformidade com regulamentações.Suas atividades como CSixerAcompanhar produto desenvolvido, em todo seu ciclo de vida (desde a concepção da funcionalidade, acompanhamento de testes, deploy em produção, sustentação e melhoria contínua);Disponibilizar de serviços vinculados ao produto;Solucionar problemas técnicos (bugs/incidentes/análises);Seguir políticas e processos definidos;Codificar testes unitários, funcionais, performance, seguindo diretrizes/orientações do time;Instrumentar as aplicações para extração de informações de performance, logs de funcionamento e métricas.Requisitos e experiênciaTer conhecimento de linguagens orientadas a objeto e sem restrições para trabalhar com Java e Kotlin;Ter experiência com Arquitetura de Microserviços;Conhecer boas práticas de desenvolvimento de software – TDD, DDD, Clean Code e Arquitetura Hexagonal e Práticas/Frameworks ágeis: SCRUM ou KANBAN;Ter conhecimento de Banco de Dados SQL, Protocolo HTTP/HTTPS e GIT / Git Flow;Ter experiência com solução de streaming de dados e solução orientada a eventos;Conhecer plataformas ApiGee e NodeJs (gerenciamento server-side, gerenciamento de APIs);Desejável conhecimento em Spring boot e/ou Javalin, noSQL e Docker e Kubernetes.Nossos benefíciosVale-Refeição;Vale-Alimentação;Plano e saúde e odontológico;Auxílio-Creche;Seguro de Vida;Wellhub;Psicologia Viva;Cartão de Crédito C6 Bank Carbon;Carbon Spa;Sala de amamentação;Bicicletário;Vestiário;Espaço de convivência;Empresa Cidadã - Prorrogação do prazo da licença-maternidade e licença-paternidade.C6 BANKO BANCO DA SUA VIDAAtendemos pessoas físicas, MEIs e PMEs em todos os estados do Brasil. Sem agências físicas para te prender, oferecemos mais de 90 produtos e serviços financeiros feitos para todos os perfis de clientes.Estamos localizados em São Paulo-SP e contamos com mais de 3.000 CSixers que estão sempre a mil por hora. Em pouco mais de cinco anos, conquistamos muitos prêmios e reconhecimentos.Confira o vídeo para conhecer mais sobre nós:
+
+
+
+
+
+
+Acompanhar produto desenvolvido, em todo seu ciclo de vida (desde a concepção da funcionalidade, acompanhamento de testes, deploy em produção, sustentação e melhoria contínua);Disponibilizar de serviços vinculados ao produto;Solucionar problemas técnicos (bugs/incidentes/análises);Seguir políticas e processos definidos;Codificar testes unitários, funcionais, performance, seguindo diretrizes/orientações do time;Instrumentar as aplicações para extração de informações de performance, logs de funcionamento e métricas.
+Acompanhar produto desenvolvido, em todo seu ciclo de vida (desde a concepção da funcionalidade, acompanhamento de testes, deploy em produção, sustentação e melhoria contínua);
+Acompanhar produto desenvolvido, em todo seu ciclo de vida (desde a concepção da funcionalidade, acompanhamento de testes, deploy em produção, sustentação e melhoria contínua);
+Disponibilizar de serviços vinculados ao produto;
+Disponibilizar de serviços vinculados ao produto;
+Solucionar problemas técnicos (bugs/incidentes/análises);
+Solucionar problemas técnicos (bugs/incidentes/análises);
+Seguir políticas e processos definidos;
+Seguir políticas e processos definidos;
+Codificar testes unitários, funcionais, performance, seguindo diretrizes/orientações do time;
+Codificar testes unitários, funcionais, performance, seguindo diretrizes/orientações do time;
+Instrumentar as aplicações para extração de informações de performance, logs de funcionamento e métricas.
+Instrumentar as aplicações para extração de informações de performance, logs de funcionamento e métricas.
+
+
+
+
+
+Ter conhecimento de linguagens orientadas a objeto e sem restrições para trabalhar com Java e Kotlin;Ter experiência com Arquitetura de Microserviços;Conhecer boas práticas de desenvolvimento de software – TDD, DDD, Clean Code e Arquitetura Hexagonal e Práticas/Frameworks ágeis: SCRUM ou KANBAN;Ter conhecimento de Banco de Dados SQL, Protocolo HTTP/HTTPS e GIT / Git Flow;Ter experiência com solução de streaming de dados e solução orientada a eventos;Conhecer plataformas ApiGee e NodeJs (gerenciamento server-side, gerenciamento de APIs);Desejável conhecimento em Spring boot e/ou Javalin, noSQL e Docker e Kubernetes.
+Ter conhecimento de linguagens orientadas a objeto e sem restrições para trabalhar com Java e Kotlin;
+Ter conhecimento de linguagens orientadas a objeto e sem restrições para trabalhar com Java e Kotlin;
+Ter experiência com Arquitetura de Microserviços;
+Ter experiência com Arquitetura de Microserviços;
+Conhecer boas práticas de desenvolvimento de software – TDD, DDD, Clean Code e Arquitetura Hexagonal e Práticas/Frameworks ágeis: SCRUM ou KANBAN;
+Conhecer boas práticas de desenvolvimento de software – TDD, DDD, Clean Code e Arquitetura Hexagonal e Práticas/Frameworks ágeis: SCRUM ou KANBAN;
+Ter conhecimento de Banco de Dados SQL, Protocolo HTTP/HTTPS e GIT / Git Flow;
+Ter conhecimento de Banco de Dados SQL, Protocolo HTTP/HTTPS e GIT / Git Flow;
+Ter experiência com solução de streaming de dados e solução orientada a eventos;
+Ter experiência com solução de streaming de dados e solução orientada a eventos;
+Conhecer plataformas ApiGee e NodeJs (gerenciamento server-side, gerenciamento de APIs);
+Conhecer plataformas ApiGee e NodeJs (gerenciamento server-side, gerenciamento de APIs);
+Desejável conhecimento em Spring boot e/ou Javalin, noSQL e Docker e Kubernetes.
+Desejável conhecimento em Spring boot e/ou Javalin, noSQL e Docker e Kubernetes.
+
+
+
+
+
+Vale-Refeição;Vale-Alimentação;Plano e saúde e odontológico;Auxílio-Creche;Seguro de Vida;Wellhub;Psicologia Viva;Cartão de Crédito C6 Bank Carbon;Carbon Spa;Sala de amamentação;Bicicletário;Vestiário;Espaço de convivência;Empresa Cidadã - Prorrogação do prazo da licença-maternidade e licença-paternidade.
+Vale-Refeição;
+Vale-Refeição;
+Vale-Alimentação;
+Vale-Alimentação;
+Plano e saúde e odontológico;
+Plano e saúde e odontológico;
+Auxílio-Creche;
+Auxílio-Creche;
+Seguro de Vida;
+Seguro de Vida;
+Wellhub;
+Wellhub;
+Psicologia Viva;
+Psicologia Viva;
+Cartão de Crédito C6 Bank Carbon;
+Cartão de Crédito C6 Bank Carbon;
+Carbon Spa;
+Carbon Spa;
+Sala de amamentação;
+Sala de amamentação;
+Bicicletário;
+Bicicletário;
+Vestiário;
+Vestiário;
+Espaço de convivência;
+Espaço de convivência;
+Empresa Cidadã - Prorrogação do prazo da licença-maternidade e licença-paternidade.
+Empresa Cidadã - Prorrogação do prazo da licença-maternidade e licença-paternidade.
+
+
+
+
+
+
+
+
+
+
+

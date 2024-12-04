@@ -1,0 +1,157 @@
+link-https://www.linkedin.com/jobs/view/4051072893/?eBP=CwEAAAGS7lPxioRTBw1i5upLrl5cMex7lEoVZRcnoKPtgMgrNmf-6gErkcBFp6d9XV0RwX-5DwJLYaFCXWoe3shnoWlMTNuJcRNK0cuwM6OoVI1E47WndrmGQiXNsgIOw0crIFgUEGxII97zHAYZz6P8DGsGcN11bf-CEzIf8f80_OtA5sc1jLpXnLCJPsSVH04IFji7PBCjsqyF6Vs-wWQvFRobZJZLw-Zqn4jlh9qWjVhIbvKrycCSBqhcIZoGgeN4YxK_ZwVkEdm1O-hLJPpnMZ_FS96sEDDLq7NhOv6hZT-URyCFRC3nW8BlGrDWnCLac7psccuaJ5KilMMtP9H8R27d-LVOJaIoxuVqpElI_YhyTmCzLmN-acEZ6_OduaeTuP-jspFZ6ZuwiUXxGo-BvKwjxgukNMs1BDCe8eJmcJCJvGdARp7kP8_laCE4uYVW-SS0swCDKgfCH5t12o_JREALVOM-7ilrLnS7CclexKCnDw0CzZvvX0i9jUrnnw&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=%2BULUfBZjJoJehJBH%2F1jqEw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pleno Developer Backend (Golang), Brasil
+Sobre a vaga
+Nós somos especialistas emtech transformation, nós somos aCI&T.Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.Estamos procurando umSenior Developer Backendpara se juntar ao nosso time!Se você tem experiência em Golang e boas práticas de engenharia de software, queremos te conhecer. Essa posição também requer boas habilidades de comunicação, pois você estará em contato direto com nossos clientes e participará de negociações.Responsabilidades:Desenvolver aplicações backend utilizando Golang.Trabalhar com soluções na Google Cloud Platform (GCP).Integrar e gerenciar mensagens com Kafka.Aplicar boas práticas de engenharia de software.Automatizar testes para garantir a qualidade do código.Gerenciar bancos de dados relacionais e não relacionais.Utilizar práticas de DevOps, incluindo monitoramento e observabilidade.Interagir diretamente com clientes para entender necessidades e negociar soluções.Requisitos para este desafio:Experiência com Golang.Conhecimento em Google Cloud Platform (GCP).Conhecimento em Kafka.Entendimento de boas práticas de engenharia de software.Habilidade em automação de testes.Conhecimento em bancos de dados relacionais e não relacionais.Familiaridade com práticas de DevOps, incluindo monitoramento e observabilidade.Soft Skills:Boas habilidades de comunicação.Capacidade de atuar diretamente com clientes e realizar negociações.Afinidade com nossa cultura, respeitando as diferenças e trabalhando com colaboração e trabalho em equipe.#MidseniorNossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreirasPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+
+tech transformation
+
+CI&T.
+
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+
+
+
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:
+
+
+
+
+Estamos procurando umSenior Developer Backendpara se juntar ao nosso time!
+Estamos procurando umSenior Developer Backendpara se juntar ao nosso time!
+
+Senior Developer Backend
+
+
+Se você tem experiência em Golang e boas práticas de engenharia de software, queremos te conhecer. Essa posição também requer boas habilidades de comunicação, pois você estará em contato direto com nossos clientes e participará de negociações.
+Se você tem experiência em Golang e boas práticas de engenharia de software, queremos te conhecer. Essa posição também requer boas habilidades de comunicação, pois você estará em contato direto com nossos clientes e participará de negociações.
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+
+Desenvolver aplicações backend utilizando Golang.
+Desenvolver aplicações backend utilizando Golang.
+Trabalhar com soluções na Google Cloud Platform (GCP).
+Trabalhar com soluções na Google Cloud Platform (GCP).
+Integrar e gerenciar mensagens com Kafka.
+Integrar e gerenciar mensagens com Kafka.
+Aplicar boas práticas de engenharia de software.
+Aplicar boas práticas de engenharia de software.
+Automatizar testes para garantir a qualidade do código.
+Automatizar testes para garantir a qualidade do código.
+Gerenciar bancos de dados relacionais e não relacionais.
+Gerenciar bancos de dados relacionais e não relacionais.
+Utilizar práticas de DevOps, incluindo monitoramento e observabilidade.
+Utilizar práticas de DevOps, incluindo monitoramento e observabilidade.
+Interagir diretamente com clientes para entender necessidades e negociar soluções.
+Interagir diretamente com clientes para entender necessidades e negociar soluções.
+Requisitos para este desafio:
+Requisitos para este desafio:
+Requisitos para este desafio:
+
+Experiência com Golang.
+Experiência com Golang.
+Conhecimento em Google Cloud Platform (GCP).
+Conhecimento em Google Cloud Platform (GCP).
+Conhecimento em Kafka.
+Conhecimento em Kafka.
+Entendimento de boas práticas de engenharia de software.
+Entendimento de boas práticas de engenharia de software.
+Habilidade em automação de testes.
+Habilidade em automação de testes.
+Conhecimento em bancos de dados relacionais e não relacionais.
+Conhecimento em bancos de dados relacionais e não relacionais.
+Familiaridade com práticas de DevOps, incluindo monitoramento e observabilidade.
+Familiaridade com práticas de DevOps, incluindo monitoramento e observabilidade.
+Soft Skills:
+Soft Skills:
+Soft Skills:
+Boas habilidades de comunicação.
+Boas habilidades de comunicação.
+Boas habilidades de comunicação.
+Capacidade de atuar diretamente com clientes e realizar negociações.
+Capacidade de atuar diretamente com clientes e realizar negociações.
+Capacidade de atuar diretamente com clientes e realizar negociações.
+Afinidade com nossa cultura, respeitando as diferenças e trabalhando com colaboração e trabalho em equipe.
+Afinidade com nossa cultura, respeitando as diferenças e trabalhando com colaboração e trabalho em equipe.
+Afinidade com nossa cultura, respeitando as diferenças e trabalhando com colaboração e trabalho em equipe.
+#Midsenior
+#Midsenior
+#Midsenior
+
+
+
+
+Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreirasPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+
+- Gympass
+- Gympass
+
+- PLR;
+- PLR;
+
+
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+
+- CI&T University;
+- CI&T University;
+
+- Clube de descontos;
+- Clube de descontos;
+
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+
+
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+
+
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+
+
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+
+
+*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+*Cidades que compõe a Região Metropolitana de Campinas:
+

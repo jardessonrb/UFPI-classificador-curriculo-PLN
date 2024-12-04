@@ -1,0 +1,120 @@
+link-https://www.linkedin.com/jobs/view/4024901357/?eBP=CwEAAAGS7kbPssK8ghoCM5g2Ts62q0dZDUSXPq210O370d4P22ORBsBrtK5YZxxa_gL1c0_DPj2qtxhV6mDwpMflt8hLHx0veVkRJkBG9r-STQ6rSb9d5ssgOsBl2ES-RMTF6lVW9s60PHpvHefl_fC8fn94eQ-kWTj5eQXnlMordaEcUC51oI31Ep4KIblztncMcw2gn7_ms8ekqiy35nnVnB6GTvMboOSUwI_HQXxtsjEjG3qxDN3Gvk8oXSVJMQVJEbTTOrhrxhhtQLjW8psHllzzUvhkYwlp2a9mCSpkfXyGWkXhDsZOy1QPusmdwXnQv8Ixk3jvqit5e35PpJ2BzGIsve91z_26O64q1vQmW0DYwAd_IhN94YjMsC43jTaTxXAQZBTE57_uv7Uweaqlk4Y1ywNaVRnqp44I0v7wkfR9GQIZEw7sZMVGfc2TuWqA8E1qS_9MJRCl_SwOajefIHr7yXjeH_5ZBFYDS0uxHiZP8A97vn33wJ5ICNKS5zpStWza421JMg&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=2S5%2FzEtQZozeI6Y7dt6mZQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista QA Sênior
+Sobre a vaga
+Company DescriptionEstamos à procura um Engenheiro de Automação (QA) com fortes habilidades em automação de testes, trabalhando em estreita colaboração com a equipe de desenvolvimento para criar jornadas de teste robustas que validem a qualidade dos produtos antes de serem implantados em produção. Será responsável por criar testes automatizados para mudanças, atualizações e melhorias em produtos existentes, garantindo que a segurança seja mantida.Job DescriptionResponsabilidades DiáriasTrabalhará em um time multidisciplinar, atuando como Engenheiro de Automação (QA), participando ativamente de discussões, proposições e planejamentos;Atuará como ponto de referência para dúvidas técnicas e resolverá impasses críticos, fornecendo orientação especializada;Participará de todo o ciclo de desenvolvimento de software, desde a concepção até a implantação e operação.Principais EntregasPreparar e executar scripts manuais e automatizados usando ferramentas e frameworks como Cypress, REST-Assured, JMeter, Selenium, Cucumber entre outros;Gerenciar ferramentas internas de teste como JIRA, Zephyr e o código-fonte associado para integrar essas ferramentas à automação;Produzir ambientes de teste (test harnesses) com conhecimento das melhores linguagens e implementar a solução no pipeline de CI/CD;Desenvolver, manter e executar suítes de teste como Smoke, Sanity, Regression, de acordo com os requisitos do negócio;Realizar diversos tipos de testes, incluindo:Testes de Caixa PretaTestes de Integração/End to EndTestes de PerformanceTestes de Interface (UI);Manter a documentação dos serviços atualizada;Buscar constantemente melhorias técnicas e de desempenho;Demonstrar disposição para aprendizado contínuo e aprimoramento constante.QualificationsO que estamos buscando em você?Conhecimento de linguagens de programação orientadas a objetos e metodologias de gerenciamento de processos.Conhecimento em metodologias de teste e suas respectivas ferramentas.Experiência com TDD/ATDD ou Desenvolvimento Orientado por Comportamento (BDD) e programação/testes.Capacidade de reconhecer riscos e erros em uma aplicação.Excelentes habilidades de comunicação verbal e escrita.Paixão por testes, desenvolvimento e design;Experiência em pipelines de CI/CD, particularmente utilizando Jenkins.Será Um DiferencialTer trabalhado com automação de testes de aplicações Spark (Python ou Scala);Experiência com instrumentação e observabilidade de aplicações (Dynatrace, Datadog, Grafana etc);Ter trabalhado com automação de testes em mensageria e eventos.Additional InformationExperian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+Job Description
+
+
+
+
+Trabalhará em um time multidisciplinar, atuando como Engenheiro de Automação (QA), participando ativamente de discussões, proposições e planejamentos;Atuará como ponto de referência para dúvidas técnicas e resolverá impasses críticos, fornecendo orientação especializada;Participará de todo o ciclo de desenvolvimento de software, desde a concepção até a implantação e operação.
+Trabalhará em um time multidisciplinar, atuando como Engenheiro de Automação (QA), participando ativamente de discussões, proposições e planejamentos;
+Trabalhará em um time multidisciplinar, atuando como Engenheiro de Automação (QA), participando ativamente de discussões, proposições e planejamentos;
+
+Atuará como ponto de referência para dúvidas técnicas e resolverá impasses críticos, fornecendo orientação especializada;
+Atuará como ponto de referência para dúvidas técnicas e resolverá impasses críticos, fornecendo orientação especializada;
+
+Participará de todo o ciclo de desenvolvimento de software, desde a concepção até a implantação e operação.
+Participará de todo o ciclo de desenvolvimento de software, desde a concepção até a implantação e operação.
+
+
+
+Principais Entregas
+
+
+Preparar e executar scripts manuais e automatizados usando ferramentas e frameworks como Cypress, REST-Assured, JMeter, Selenium, Cucumber entre outros;Gerenciar ferramentas internas de teste como JIRA, Zephyr e o código-fonte associado para integrar essas ferramentas à automação;Produzir ambientes de teste (test harnesses) com conhecimento das melhores linguagens e implementar a solução no pipeline de CI/CD;Desenvolver, manter e executar suítes de teste como Smoke, Sanity, Regression, de acordo com os requisitos do negócio;Realizar diversos tipos de testes, incluindo:Testes de Caixa PretaTestes de Integração/End to EndTestes de PerformanceTestes de Interface (UI);Manter a documentação dos serviços atualizada;Buscar constantemente melhorias técnicas e de desempenho;Demonstrar disposição para aprendizado contínuo e aprimoramento constante.
+Preparar e executar scripts manuais e automatizados usando ferramentas e frameworks como Cypress, REST-Assured, JMeter, Selenium, Cucumber entre outros;
+Preparar e executar scripts manuais e automatizados usando ferramentas e frameworks como Cypress, REST-Assured, JMeter, Selenium, Cucumber entre outros;
+
+Gerenciar ferramentas internas de teste como JIRA, Zephyr e o código-fonte associado para integrar essas ferramentas à automação;
+Gerenciar ferramentas internas de teste como JIRA, Zephyr e o código-fonte associado para integrar essas ferramentas à automação;
+
+Produzir ambientes de teste (test harnesses) com conhecimento das melhores linguagens e implementar a solução no pipeline de CI/CD;
+Produzir ambientes de teste (test harnesses) com conhecimento das melhores linguagens e implementar a solução no pipeline de CI/CD;
+
+Desenvolver, manter e executar suítes de teste como Smoke, Sanity, Regression, de acordo com os requisitos do negócio;
+Desenvolver, manter e executar suítes de teste como Smoke, Sanity, Regression, de acordo com os requisitos do negócio;
+
+Realizar diversos tipos de testes, incluindo:
+Realizar diversos tipos de testes, incluindo:
+
+Testes de Caixa Preta
+Testes de Caixa Preta
+
+Testes de Integração/End to End
+Testes de Integração/End to End
+
+Testes de Performance
+Testes de Performance
+
+Testes de Interface (UI);
+Testes de Interface (UI);
+
+Manter a documentação dos serviços atualizada;
+Manter a documentação dos serviços atualizada;
+
+Buscar constantemente melhorias técnicas e de desempenho;
+Buscar constantemente melhorias técnicas e de desempenho;
+
+Demonstrar disposição para aprendizado contínuo e aprimoramento constante.
+Demonstrar disposição para aprendizado contínuo e aprimoramento constante.
+
+
+
+Qualifications
+
+
+
+
+Conhecimento de linguagens de programação orientadas a objetos e metodologias de gerenciamento de processos.Conhecimento em metodologias de teste e suas respectivas ferramentas.Experiência com TDD/ATDD ou Desenvolvimento Orientado por Comportamento (BDD) e programação/testes.Capacidade de reconhecer riscos e erros em uma aplicação.Excelentes habilidades de comunicação verbal e escrita.Paixão por testes, desenvolvimento e design;Experiência em pipelines de CI/CD, particularmente utilizando Jenkins.
+Conhecimento de linguagens de programação orientadas a objetos e metodologias de gerenciamento de processos.
+Conhecimento de linguagens de programação orientadas a objetos e metodologias de gerenciamento de processos.
+
+Conhecimento em metodologias de teste e suas respectivas ferramentas.
+Conhecimento em metodologias de teste e suas respectivas ferramentas.
+
+Experiência com TDD/ATDD ou Desenvolvimento Orientado por Comportamento (BDD) e programação/testes.
+Experiência com TDD/ATDD ou Desenvolvimento Orientado por Comportamento (BDD) e programação/testes.
+
+Capacidade de reconhecer riscos e erros em uma aplicação.
+Capacidade de reconhecer riscos e erros em uma aplicação.
+
+Excelentes habilidades de comunicação verbal e escrita.
+Excelentes habilidades de comunicação verbal e escrita.
+
+Paixão por testes, desenvolvimento e design;
+Paixão por testes, desenvolvimento e design;
+
+Experiência em pipelines de CI/CD, particularmente utilizando Jenkins.
+Experiência em pipelines de CI/CD, particularmente utilizando Jenkins.
+
+
+
+Será Um Diferencial
+
+
+Ter trabalhado com automação de testes de aplicações Spark (Python ou Scala);Experiência com instrumentação e observabilidade de aplicações (Dynatrace, Datadog, Grafana etc);Ter trabalhado com automação de testes em mensageria e eventos.
+Ter trabalhado com automação de testes de aplicações Spark (Python ou Scala);
+Ter trabalhado com automação de testes de aplicações Spark (Python ou Scala);
+
+Experiência com instrumentação e observabilidade de aplicações (Dynatrace, Datadog, Grafana etc);
+Experiência com instrumentação e observabilidade de aplicações (Dynatrace, Datadog, Grafana etc);
+
+Ter trabalhado com automação de testes em mensageria e eventos.
+Ter trabalhado com automação de testes em mensageria e eventos.
+
+
+
+Additional Information
+
+
+
+
+
+

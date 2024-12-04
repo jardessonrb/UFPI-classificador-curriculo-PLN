@@ -1,0 +1,98 @@
+link-https://www.linkedin.com/jobs/view/4049385120/?eBP=CwEAAAGS7g_8n6_VpCxe8TEI1VpNFWKVhwfEwNxG-rHAbfz7vZzvhP6McVYOnrE0KvEPEWnRhav1q-dhWWRBgYBjnPkdiaanZQmydAZW-9nzwT-nlgBlgWvuTsm4t-iaelUdVlItafSVfpqc5sLX9aeu-IumM46b9TE3oqrlFIm9HYGz5t-GhCf0hVyXuPQTpjsdJfrt0qfbrDaA6EwXd8eiqMfu-H8GJwdMeFQ_0s5PUQO0CcinJv12r9vDqC3QPNj_6c1OSsIevmYSdbx3_5ze8vZr5_z0vcpYouVCyqCqLdHxFsu0lw0-9A2OBCQWlFwsA9Y3YnbDq5YjeE1HncTsiyzv82uxsExVQL7o-vOeBQf-DVrV9-2UG0S3f2hgUT6U3pLig4yaU2tXK4-tbvSMh9q2aNbPT-JcwLHBhJSB_VlRXO7iTKOIvJUkXEqXcIxOd_ZNxklY1Ftplo3KEz1PUL70RuUvIbyNqRBwmjTpkO--V1nes2BBiCfsASz4NRtNJDS8&refId=XTINj6sIP2wfVRj2DDf8jA%3D%3D&trackingId=ZjgquWeho04Xq0kbBnvCCQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Lead Full-Stack Developer with AI
+Sobre a vaga
+We are searching for a motivated Lead Full-Stack Developer with a deep understanding of the latest trends to join our international team. Whether you want to prove your skills or be part of something powerful, we’re glad our paths have crossed here.Work at Exadel – Who We AreSince 1998, Exadel has been engineering its products and custom software for clients of all sizes. Headquartered in Walnut Creek, California, Exadel has 2,000+ employees in development centers across America, Europe, and Asia. People drive Exadel’s success and are at the core of our values.About Our CustomerFounded in the Netherlands 180+ years ago, the company operates in over 150 countries. The customer is a global leader in information services for health, tax and accounting, risk and compliance, finance, and legal sectors.Requirements7+ years of JavaScript development experienceProficiency with Node.JS/NestJS/Express, React/Redux/Next.JSCompetency in GenAIKnowledge of MongoDB, DynamoDBExperience with AWS, Docker, GitWillingness to learn new technologies quickly and independentlyA high level of algorithm knowledge is required (there will be 4 algorithmic challenges)Ability to communicate and collaborate cross-functionally and work well in a team-oriented environmentNice to HaveExperience with QDrant, LLM/ChatGPT, LangChainEnglish levelUpper-IntermediateResponsibilitiesProduce a lot of codeDevelop the front- and back-end of the projectCollaborate with the cross-functional development team to bring static designs and prototypes to life, providing constructive feedback to optimize implementation and usabilityProvide solutions to technical problems of varying scope and complexityCollaborate with management to determine priorities and risks associated with projectsEnsure all relevant processes, procedures, and product documentation is up-to-dateParticipate in all aspects of the product, including design, development, deployment, and maintenance.Advantages of Working with ExadelExadel is a global company, and benefits can vary depending on your location and contract type. Your recruiter will provide specific information about the benefits available to you.International projectsIn-office, hybrid or remote modeMedical healthcareRecognition programProfessional & personal development opportunitiesForeign languages classesWell-being programCorporate eventsSports compensationReferral programEquipment provisionPaid vacation & sick daysDear candidate, our recruiters only use email addresses with the Exadel domain: @exadel.com. Please be cautious of potential scams. For more details please visit
+
+
+
+
+
+
+About Our Customer
+
+
+
+
+Requirements
+
+
+7+ years of JavaScript development experienceProficiency with Node.JS/NestJS/Express, React/Redux/Next.JSCompetency in GenAIKnowledge of MongoDB, DynamoDBExperience with AWS, Docker, GitWillingness to learn new technologies quickly and independentlyA high level of algorithm knowledge is required (there will be 4 algorithmic challenges)Ability to communicate and collaborate cross-functionally and work well in a team-oriented environment
+7+ years of JavaScript development experience
+7+ years of JavaScript development experience
+Proficiency with Node.JS/NestJS/Express, React/Redux/Next.JS
+Proficiency with Node.JS/NestJS/Express, React/Redux/Next.JS
+Competency in GenAI
+Competency in GenAI
+Knowledge of MongoDB, DynamoDB
+Knowledge of MongoDB, DynamoDB
+Experience with AWS, Docker, Git
+Experience with AWS, Docker, Git
+Willingness to learn new technologies quickly and independently
+Willingness to learn new technologies quickly and independently
+A high level of algorithm knowledge is required (there will be 4 algorithmic challenges)
+A high level of algorithm knowledge is required (there will be 4 algorithmic challenges)
+Ability to communicate and collaborate cross-functionally and work well in a team-oriented environment
+Ability to communicate and collaborate cross-functionally and work well in a team-oriented environment
+
+
+
+
+
+
+
+
+
+
+Responsibilities
+
+
+Produce a lot of codeDevelop the front- and back-end of the projectCollaborate with the cross-functional development team to bring static designs and prototypes to life, providing constructive feedback to optimize implementation and usabilityProvide solutions to technical problems of varying scope and complexityCollaborate with management to determine priorities and risks associated with projectsEnsure all relevant processes, procedures, and product documentation is up-to-dateParticipate in all aspects of the product, including design, development, deployment, and maintenance.
+Produce a lot of code
+Produce a lot of code
+
+Develop the front- and back-end of the project
+Develop the front- and back-end of the project
+Collaborate with the cross-functional development team to bring static designs and prototypes to life, providing constructive feedback to optimize implementation and usability
+Collaborate with the cross-functional development team to bring static designs and prototypes to life, providing constructive feedback to optimize implementation and usability
+Provide solutions to technical problems of varying scope and complexity
+Provide solutions to technical problems of varying scope and complexity
+Collaborate with management to determine priorities and risks associated with projects
+Collaborate with management to determine priorities and risks associated with projects
+Ensure all relevant processes, procedures, and product documentation is up-to-date
+Ensure all relevant processes, procedures, and product documentation is up-to-date
+Participate in all aspects of the product, including design, development, deployment, and maintenance.
+Participate in all aspects of the product, including design, development, deployment, and maintenance.
+
+
+
+
+
+
+International projectsIn-office, hybrid or remote modeMedical healthcareRecognition programProfessional & personal development opportunitiesForeign languages classesWell-being programCorporate eventsSports compensationReferral programEquipment provisionPaid vacation & sick days
+International projects
+International projects
+In-office, hybrid or remote mode
+In-office, hybrid or remote mode
+Medical healthcare
+Medical healthcare
+Recognition program
+Recognition program
+Professional & personal development opportunities
+Professional & personal development opportunities
+Foreign languages classes
+Foreign languages classes
+Well-being program
+Well-being program
+Corporate events
+Corporate events
+Sports compensation
+Sports compensation
+Referral program
+Referral program
+Equipment provision
+Equipment provision
+Paid vacation & sick days
+Paid vacation & sick days
+
+

@@ -1,0 +1,94 @@
+link-https://www.linkedin.com/jobs/view/4053826498/?eBP=CwEAAAGS7lKMz1X4kNwHuLf2uuNUqcP4tPTuOn5xY7FLYB7sq2N7S5ydNWJv2lkFsMVIvHNn_QvKldLWHU0EUeVQooS_-DqboREcAczkFSrDAwRkHhw145vNm7xZZjoMVkc4JIR8Mf6BRtEvy3r14wAqLmqXdjns9nDnBUTulV0H8SNNaErVTcBIfK4EUQB7OABBd13_o2yDbbhByDMBLQlSJAgxp5-C5yxNuR0oafpxRjRem34Und_oRoxPgdr4LvUESwmVkVRS0LCAevT41ZO2DIh6gKP48cfCELUlAE4jA8fAsZ6POm1BbA4FBUebi2ItPuiI--wpGR5VemnCPWWPxv3SnvDmQLnWfLGOwrZFdfF0dEkcgoW7B58ppz0Zkz1yIgZXDsyOsjeekOoEdw5BmaUE-fhREHBLBNiw6So1_HjXRajYu4D9fGFPX2cnHUSRy2YPAlMXSuXZYKmLWw4hW7kk_Ca5mUrLRPw0bC_so-2hfHVQRolxUyZQUldq8Q&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=bhiWYjWHAHfBGiL8T7lfwg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Node (Junior/Pleno)
+Sobre a vaga
+ResponsabilidadesDesenvolver e manter a lógica do servidor e APIs utilizando JavaScript;Colaborar com a equipe de desenvolvimento para entender os requisitos do projeto;Implementar práticas de segurança e otimização de desempenho no código backend;Participar ativamente de discussões de design e revisões de código;Integração de sistemas e serviços de terceiros;Solucionar problemas e bugs de forma eficaz;Conhecimento em contêineres, como Docker e Kubernetes.RequisitosExperiência desenvolvimento de Backend utilizando JavaScript/TypeScript.Conhecimento avançados em Node.js e frameworks associados.Familiaridade com bancos de dados não-relacionais e relacionais.Experiência em design e implementação de APIs RESTful.Boa compreensão de práticas de segurança e desempenho no desenvolvimento de software.Habilidade para trabalhar em equipe e se comunicar efetivamente.Experiência em ambientes ágeis de desenvolvimento;Conhecimento de frameworks como Express.js e Nest.js;Conhecimento em AWS Lambda, SQS e SNS;Práticas sólidas de teste de unidade.DiferenciaisConhecimento em Python;Experiência em integração contínua e entrega contínua (CI/CD);Familiaridade com conceitos de microsserviços;Conhecimento em práticas DevOps.Regime De ContrataçãoCLTDepartamentoTecnologia
+Responsabilidades
+
+
+Desenvolver e manter a lógica do servidor e APIs utilizando JavaScript;Colaborar com a equipe de desenvolvimento para entender os requisitos do projeto;Implementar práticas de segurança e otimização de desempenho no código backend;Participar ativamente de discussões de design e revisões de código;Integração de sistemas e serviços de terceiros;Solucionar problemas e bugs de forma eficaz;Conhecimento em contêineres, como Docker e Kubernetes.
+Desenvolver e manter a lógica do servidor e APIs utilizando JavaScript;
+Desenvolver e manter a lógica do servidor e APIs utilizando JavaScript;
+
+Colaborar com a equipe de desenvolvimento para entender os requisitos do projeto;
+Colaborar com a equipe de desenvolvimento para entender os requisitos do projeto;
+
+Implementar práticas de segurança e otimização de desempenho no código backend;
+Implementar práticas de segurança e otimização de desempenho no código backend;
+
+Participar ativamente de discussões de design e revisões de código;
+Participar ativamente de discussões de design e revisões de código;
+
+Integração de sistemas e serviços de terceiros;
+Integração de sistemas e serviços de terceiros;
+
+Solucionar problemas e bugs de forma eficaz;
+Solucionar problemas e bugs de forma eficaz;
+
+Conhecimento em contêineres, como Docker e Kubernetes.
+Conhecimento em contêineres, como Docker e Kubernetes.
+
+
+
+Requisitos
+
+
+Experiência desenvolvimento de Backend utilizando JavaScript/TypeScript.Conhecimento avançados em Node.js e frameworks associados.Familiaridade com bancos de dados não-relacionais e relacionais.Experiência em design e implementação de APIs RESTful.Boa compreensão de práticas de segurança e desempenho no desenvolvimento de software.Habilidade para trabalhar em equipe e se comunicar efetivamente.Experiência em ambientes ágeis de desenvolvimento;Conhecimento de frameworks como Express.js e Nest.js;Conhecimento em AWS Lambda, SQS e SNS;Práticas sólidas de teste de unidade.
+Experiência desenvolvimento de Backend utilizando JavaScript/TypeScript.
+Experiência desenvolvimento de Backend utilizando JavaScript/TypeScript.
+
+Conhecimento avançados em Node.js e frameworks associados.
+Conhecimento avançados em Node.js e frameworks associados.
+
+Familiaridade com bancos de dados não-relacionais e relacionais.
+Familiaridade com bancos de dados não-relacionais e relacionais.
+
+Experiência em design e implementação de APIs RESTful.
+Experiência em design e implementação de APIs RESTful.
+
+Boa compreensão de práticas de segurança e desempenho no desenvolvimento de software.
+Boa compreensão de práticas de segurança e desempenho no desenvolvimento de software.
+
+Habilidade para trabalhar em equipe e se comunicar efetivamente.
+Habilidade para trabalhar em equipe e se comunicar efetivamente.
+
+Experiência em ambientes ágeis de desenvolvimento;
+Experiência em ambientes ágeis de desenvolvimento;
+
+Conhecimento de frameworks como Express.js e Nest.js;
+Conhecimento de frameworks como Express.js e Nest.js;
+
+Conhecimento em AWS Lambda, SQS e SNS;
+Conhecimento em AWS Lambda, SQS e SNS;
+
+Práticas sólidas de teste de unidade.
+Práticas sólidas de teste de unidade.
+
+
+
+Diferenciais
+
+
+Conhecimento em Python;Experiência em integração contínua e entrega contínua (CI/CD);Familiaridade com conceitos de microsserviços;Conhecimento em práticas DevOps.
+Conhecimento em Python;
+Conhecimento em Python;
+
+Experiência em integração contínua e entrega contínua (CI/CD);
+Experiência em integração contínua e entrega contínua (CI/CD);
+
+Familiaridade com conceitos de microsserviços;
+Familiaridade com conceitos de microsserviços;
+
+Conhecimento em práticas DevOps.
+Conhecimento em práticas DevOps.
+
+
+
+Regime De Contratação
+
+
+
+
+Departamento
+
+

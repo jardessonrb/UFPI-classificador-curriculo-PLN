@@ -1,0 +1,194 @@
+link-https://www.linkedin.com/jobs/view/4057322265/?eBP=CwEAAAGS7kvwu59PIG2yVBRh0LJVhW3d60qZwIC33ej9DmnC6rmAxxi4a4GyP7WyoizqQc3u_EhKskqRrjnr3e8uv1DpFcwwBuklFa8OWYEYdW8EaLBz2Q6YPXy4eSnItdT9FgGVhFQG5ZKryNRU7rZI84N61T0TIEifsNXkqlL6QbIZ6vKIy7Gj8ho4_an3obaUpE5wJVeYuF6uEHnxjTVcoZbf-seHX6KEqzoCiv4QdQOKp84StTa7fP7j7EfE3aJIZT6-F6m2Yq3aZaHWJhV-d0V5_Zb4mkmn6fVeKsKCQBadDKscmQZWZ27o0vGG-qoDOHdqrvAVtFc5fSAKQ6PcKKtMQl4WVI4PEGLx1XWc7Jyy-YBFjmAixiaNWRp6sKcbjlwb1BmSj3UaQZ47jRLEAoWK8OFsaSDXMMoyNoaip-XjhSFxo4kMaC10tfbDgsjCjRoY11lV74Eod0PdGRkGOnQ3wwq5ab9FxjJU0dA9x3VSAouaSgqQcQADEl2DWgFXGQ&refId=lNkZ7WB16PqaLtMchSITbg%3D%3D&trackingId=rA42caOkgMH1mclLMNvxjg%3D%3D&trk=flagship3_search_srp_jobs
+
+SR Frontend Developer React (Inglês C1)
+Sobre a vaga
+Muito prazer, somos a Zallpy!Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.O que você vai fazer:Desenvolver e manter aplicações web robustas utilizando .NET Core no back-end e React no front-end;Colaborar com equipes de design, produto e desenvolvimento para traduzir requisitos de negócios em soluções técnicas eficazes;Criar APIs RESTful escaláveis e de alto desempenho utilizando .NET Core;Implementar interfaces de usuário dinâmicas e responsivas utilizando React, Redux e outras bibliotecas modernas;Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção e design até a implementação e manutenção;Garantir que o código seja eficiente, seguro e aderente às melhores práticas de desenvolvimento, incluindo clean code e princípios SOLID;Realizar testes unitários e de integração para garantir a qualidade e a estabilidade das soluções desenvolvidas;Participar de revisões de código, fornecendo orientação técnica e suporte para outros membros da equipe;Implementar práticas de DevOps para automação de pipelines de CI/CD, garantindo entregas contínuas e de alta qualidade;Documentar processos e soluções técnicas, garantindo a rastreabilidade e a facilidade de manutenção;Trabalhar de forma colaborativa com outras equipes técnicas para alinhar as soluções com a arquitetura geral do sistema.O que estamos buscando:Experiência sólida com React JavaScript/TypeScript;Experiência com banco de dados relacionais e não relacionais, como SQL Server, PostgreSQL ou MongoDB;Experiência com testes unitários e de integração, utilizando frameworks como xUnit, MSTest, Jest ou similares;Proficiência em ferramentas de controle de versão, como Git;Habilidade de resolução de problemas complexos e capacidade de otimizar e escalar sistemas;Forte capacidade de colaboração e comunicação, além de habilidades de liderança para apoiar desenvolvedores mais juniores;Inglês avançado ou fluente.Será um diferencial se você:Conhecimento de recursos cloud AWS gerais;Familiaridade com sistemas de tópicos/filas como Kafka, RabbitMQ ou similares.Experiência sólida com .NET Core no desenvolvimento de aplicações back-end e APIs RESTful;Familiaridade com práticas de DevOps e ferramentas de automação, como Jenkins, GitLab CI/CD, Azure DevOps, ou similares;Onde você vai trabalhar:Esta é uma posição para atuação 100% remotaModalidade de contratação:CLT;Cooperado.O que oferecemos:🍽Vale Alimentação/Refeição:Utilizamos o cartão multibenefício EVA, em formato crédito, para proporcionar flexibilidade nas suas compras diárias.*🏥Plano de Saúde Unimed:Sem coparticipação ou carência para o titular. Dependentes como filhos, cônjuges ou enteados podem ser incluídos com coparticipação.*🏥Plano de Saúde Bradesco:Sem coparticipação tanto para titular quanto dependentes.*🦷Plano Odontológico Uniodonto e Bradesco Dental:Ambos com a possibilidade de inclusão de dependentes, com descontos mínimos por pessoa.*💪TotalPass:Para cuidar da sua saúde física com acesso a academias e modalidades esportivas.🧘Zenklub:Cuide da sua saúde mental com duas consultas gratuitas por mês e valores acessíveis para consultas adicionais.💼Programa de Indicação:Indique talentos para se juntarem à Zallpy e receba bônus entre R$2.500 e R$5.000!🛡Seguro de Vida:Garantia de proteção para você e sua família.👶Auxílio Creche:Apoio financeiro para colaboradores com filhos(as) de 4 meses até 6 anos que recebem até três pisos salariais da categoria.*🎁Baby Zallpy:Celebração especial para os novos bebês de Zallpers!🌍Comunidades Voluntárias:Incentivamos a participação em três comunidades internas: Diversidade, Equidade & Inclusão, Esporte & Movimento, e Tecnologia.🎓Descontos em Instituições de Ensino:Acesso a benefícios em Graduação, Pós-graduação, cursos livres eensino de línguaspor meio de convênios✈️Experiências e Desenvolvimento:Oportunidade de participar de viagens, workshops, eventos e atividades de Team Building.👥Acompanhamento de BP:Receba suporte e acompanhamento personalizado da nossa área de Business Partners.Beneficios válidos para modalidade CLT*Seja na sua vida pessoal ou profissional, a Zallpy se preocupa com seu crescimento e bem-estar! Venha fazer parte dessa jornada com a gente! 🚀
+Muito prazer, somos a Zallpy!
+Muito prazer, somos a Zallpy!
+Muito prazer, somos a Zallpy!
+
+Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.
+Somos muito mais que uma empresa de tecnologia; somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.
+
+
+
+O que você vai fazer:
+O que você vai fazer:
+O que você vai fazer:
+Desenvolver e manter aplicações web robustas utilizando .NET Core no back-end e React no front-end;Colaborar com equipes de design, produto e desenvolvimento para traduzir requisitos de negócios em soluções técnicas eficazes;Criar APIs RESTful escaláveis e de alto desempenho utilizando .NET Core;Implementar interfaces de usuário dinâmicas e responsivas utilizando React, Redux e outras bibliotecas modernas;Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção e design até a implementação e manutenção;Garantir que o código seja eficiente, seguro e aderente às melhores práticas de desenvolvimento, incluindo clean code e princípios SOLID;Realizar testes unitários e de integração para garantir a qualidade e a estabilidade das soluções desenvolvidas;Participar de revisões de código, fornecendo orientação técnica e suporte para outros membros da equipe;Implementar práticas de DevOps para automação de pipelines de CI/CD, garantindo entregas contínuas e de alta qualidade;Documentar processos e soluções técnicas, garantindo a rastreabilidade e a facilidade de manutenção;Trabalhar de forma colaborativa com outras equipes técnicas para alinhar as soluções com a arquitetura geral do sistema.
+Desenvolver e manter aplicações web robustas utilizando .NET Core no back-end e React no front-end;
+Desenvolver e manter aplicações web robustas utilizando .NET Core no back-end e React no front-end;
+Colaborar com equipes de design, produto e desenvolvimento para traduzir requisitos de negócios em soluções técnicas eficazes;
+Colaborar com equipes de design, produto e desenvolvimento para traduzir requisitos de negócios em soluções técnicas eficazes;
+Criar APIs RESTful escaláveis e de alto desempenho utilizando .NET Core;
+Criar APIs RESTful escaláveis e de alto desempenho utilizando .NET Core;
+Implementar interfaces de usuário dinâmicas e responsivas utilizando React, Redux e outras bibliotecas modernas;
+Implementar interfaces de usuário dinâmicas e responsivas utilizando React, Redux e outras bibliotecas modernas;
+Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção e design até a implementação e manutenção;
+Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção e design até a implementação e manutenção;
+Garantir que o código seja eficiente, seguro e aderente às melhores práticas de desenvolvimento, incluindo clean code e princípios SOLID;
+Garantir que o código seja eficiente, seguro e aderente às melhores práticas de desenvolvimento, incluindo clean code e princípios SOLID;
+Realizar testes unitários e de integração para garantir a qualidade e a estabilidade das soluções desenvolvidas;
+Realizar testes unitários e de integração para garantir a qualidade e a estabilidade das soluções desenvolvidas;
+Participar de revisões de código, fornecendo orientação técnica e suporte para outros membros da equipe;
+Participar de revisões de código, fornecendo orientação técnica e suporte para outros membros da equipe;
+Implementar práticas de DevOps para automação de pipelines de CI/CD, garantindo entregas contínuas e de alta qualidade;
+Implementar práticas de DevOps para automação de pipelines de CI/CD, garantindo entregas contínuas e de alta qualidade;
+Documentar processos e soluções técnicas, garantindo a rastreabilidade e a facilidade de manutenção;
+Documentar processos e soluções técnicas, garantindo a rastreabilidade e a facilidade de manutenção;
+Trabalhar de forma colaborativa com outras equipes técnicas para alinhar as soluções com a arquitetura geral do sistema.
+Trabalhar de forma colaborativa com outras equipes técnicas para alinhar as soluções com a arquitetura geral do sistema.
+
+
+
+O que estamos buscando:
+O que estamos buscando:
+O que estamos buscando:
+Experiência sólida com React JavaScript/TypeScript;Experiência com banco de dados relacionais e não relacionais, como SQL Server, PostgreSQL ou MongoDB;Experiência com testes unitários e de integração, utilizando frameworks como xUnit, MSTest, Jest ou similares;Proficiência em ferramentas de controle de versão, como Git;Habilidade de resolução de problemas complexos e capacidade de otimizar e escalar sistemas;Forte capacidade de colaboração e comunicação, além de habilidades de liderança para apoiar desenvolvedores mais juniores;Inglês avançado ou fluente.
+Experiência sólida com React JavaScript/TypeScript;
+Experiência sólida com React JavaScript/TypeScript;
+Experiência com banco de dados relacionais e não relacionais, como SQL Server, PostgreSQL ou MongoDB;
+Experiência com banco de dados relacionais e não relacionais, como SQL Server, PostgreSQL ou MongoDB;
+Experiência com testes unitários e de integração, utilizando frameworks como xUnit, MSTest, Jest ou similares;
+Experiência com testes unitários e de integração, utilizando frameworks como xUnit, MSTest, Jest ou similares;
+Proficiência em ferramentas de controle de versão, como Git;
+Proficiência em ferramentas de controle de versão, como Git;
+Habilidade de resolução de problemas complexos e capacidade de otimizar e escalar sistemas;
+Habilidade de resolução de problemas complexos e capacidade de otimizar e escalar sistemas;
+Forte capacidade de colaboração e comunicação, além de habilidades de liderança para apoiar desenvolvedores mais juniores;
+Forte capacidade de colaboração e comunicação, além de habilidades de liderança para apoiar desenvolvedores mais juniores;
+Inglês avançado ou fluente.
+Inglês avançado ou fluente.
+Inglês avançado ou fluente.
+
+
+
+Será um diferencial se você:
+Será um diferencial se você:
+Será um diferencial se você:
+Conhecimento de recursos cloud AWS gerais;Familiaridade com sistemas de tópicos/filas como Kafka, RabbitMQ ou similares.Experiência sólida com .NET Core no desenvolvimento de aplicações back-end e APIs RESTful;Familiaridade com práticas de DevOps e ferramentas de automação, como Jenkins, GitLab CI/CD, Azure DevOps, ou similares;
+Conhecimento de recursos cloud AWS gerais;
+Conhecimento de recursos cloud AWS gerais;
+Familiaridade com sistemas de tópicos/filas como Kafka, RabbitMQ ou similares.
+Familiaridade com sistemas de tópicos/filas como Kafka, RabbitMQ ou similares.
+Experiência sólida com .NET Core no desenvolvimento de aplicações back-end e APIs RESTful;
+Experiência sólida com .NET Core no desenvolvimento de aplicações back-end e APIs RESTful;
+Familiaridade com práticas de DevOps e ferramentas de automação, como Jenkins, GitLab CI/CD, Azure DevOps, ou similares;
+Familiaridade com práticas de DevOps e ferramentas de automação, como Jenkins, GitLab CI/CD, Azure DevOps, ou similares;
+
+
+
+Onde você vai trabalhar:
+Onde você vai trabalhar:
+Onde você vai trabalhar:
+
+Esta é uma posição para atuação 100% remota
+Esta é uma posição para atuação 100% remota
+Esta é uma posição para atuação 100% remota
+
+
+
+Modalidade de contratação:
+Modalidade de contratação:
+Modalidade de contratação:
+
+CLT;Cooperado.
+CLT;
+CLT;
+Cooperado.
+Cooperado.
+
+
+
+O que oferecemos:
+O que oferecemos:
+O que oferecemos:
+
+🍽Vale Alimentação/Refeição:Utilizamos o cartão multibenefício EVA, em formato crédito, para proporcionar flexibilidade nas suas compras diárias.*
+🍽Vale Alimentação/Refeição:Utilizamos o cartão multibenefício EVA, em formato crédito, para proporcionar flexibilidade nas suas compras diárias.*
+
+Vale Alimentação/Refeição:
+
+🏥Plano de Saúde Unimed:Sem coparticipação ou carência para o titular. Dependentes como filhos, cônjuges ou enteados podem ser incluídos com coparticipação.*
+🏥Plano de Saúde Unimed:Sem coparticipação ou carência para o titular. Dependentes como filhos, cônjuges ou enteados podem ser incluídos com coparticipação.*
+
+Plano de Saúde Unimed:
+
+🏥Plano de Saúde Bradesco:Sem coparticipação tanto para titular quanto dependentes.*
+🏥Plano de Saúde Bradesco:Sem coparticipação tanto para titular quanto dependentes.*
+
+Plano de Saúde Bradesco:
+
+🦷Plano Odontológico Uniodonto e Bradesco Dental:Ambos com a possibilidade de inclusão de dependentes, com descontos mínimos por pessoa.*
+🦷Plano Odontológico Uniodonto e Bradesco Dental:Ambos com a possibilidade de inclusão de dependentes, com descontos mínimos por pessoa.*
+
+Plano Odontológico Uniodonto e Bradesco Dental:
+
+💪TotalPass:Para cuidar da sua saúde física com acesso a academias e modalidades esportivas.
+💪TotalPass:Para cuidar da sua saúde física com acesso a academias e modalidades esportivas.
+
+TotalPass:
+
+🧘Zenklub:Cuide da sua saúde mental com duas consultas gratuitas por mês e valores acessíveis para consultas adicionais.
+🧘Zenklub:Cuide da sua saúde mental com duas consultas gratuitas por mês e valores acessíveis para consultas adicionais.
+
+Zenklub:
+
+💼Programa de Indicação:Indique talentos para se juntarem à Zallpy e receba bônus entre R$2.500 e R$5.000!
+💼Programa de Indicação:Indique talentos para se juntarem à Zallpy e receba bônus entre R$2.500 e R$5.000!
+
+Programa de Indicação:
+
+🛡Seguro de Vida:Garantia de proteção para você e sua família.
+🛡Seguro de Vida:Garantia de proteção para você e sua família.
+
+Seguro de Vida:
+
+👶Auxílio Creche:Apoio financeiro para colaboradores com filhos(as) de 4 meses até 6 anos que recebem até três pisos salariais da categoria.*
+👶Auxílio Creche:Apoio financeiro para colaboradores com filhos(as) de 4 meses até 6 anos que recebem até três pisos salariais da categoria.*
+
+Auxílio Creche:
+
+🎁Baby Zallpy:Celebração especial para os novos bebês de Zallpers!
+🎁Baby Zallpy:Celebração especial para os novos bebês de Zallpers!
+
+Baby Zallpy:
+
+🌍Comunidades Voluntárias:Incentivamos a participação em três comunidades internas: Diversidade, Equidade & Inclusão, Esporte & Movimento, e Tecnologia.
+🌍Comunidades Voluntárias:Incentivamos a participação em três comunidades internas: Diversidade, Equidade & Inclusão, Esporte & Movimento, e Tecnologia.
+
+Comunidades Voluntárias:
+
+🎓Descontos em Instituições de Ensino:Acesso a benefícios em Graduação, Pós-graduação, cursos livres eensino de línguaspor meio de convênios
+🎓Descontos em Instituições de Ensino:Acesso a benefícios em Graduação, Pós-graduação, cursos livres eensino de línguaspor meio de convênios
+
+Descontos em Instituições de Ensino:
+
+
+ensino de línguas
+ensino de línguas
+ensino de línguas
+
+✈️Experiências e Desenvolvimento:Oportunidade de participar de viagens, workshops, eventos e atividades de Team Building.
+✈️Experiências e Desenvolvimento:Oportunidade de participar de viagens, workshops, eventos e atividades de Team Building.
+
+Experiências e Desenvolvimento:
+
+👥Acompanhamento de BP:Receba suporte e acompanhamento personalizado da nossa área de Business Partners.
+👥Acompanhamento de BP:Receba suporte e acompanhamento personalizado da nossa área de Business Partners.
+
+Acompanhamento de BP:
+
+
+
+
+Beneficios válidos para modalidade CLT*
+Beneficios válidos para modalidade CLT*
+Beneficios válidos para modalidade CLT*
+Beneficios válidos para modalidade CLT*
+
+
+
+Seja na sua vida pessoal ou profissional, a Zallpy se preocupa com seu crescimento e bem-estar! Venha fazer parte dessa jornada com a gente! 🚀
+Seja na sua vida pessoal ou profissional, a Zallpy se preocupa com seu crescimento e bem-estar! Venha fazer parte dessa jornada com a gente! 🚀
+Seja na sua vida pessoal ou profissional, a Zallpy se preocupa com seu crescimento e bem-estar! Venha fazer parte dessa jornada com a gente! 🚀

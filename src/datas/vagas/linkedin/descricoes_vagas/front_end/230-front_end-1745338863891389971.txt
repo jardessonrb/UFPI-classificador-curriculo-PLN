@@ -1,0 +1,223 @@
+link-https://www.linkedin.com/jobs/view/4057215792/?eBP=CwEAAAGS7kxbB9m7oZlOyKldjN8G3s94rclinbyo2sEXVbbuNvlSRwjD3JU33AWQv1d4vsIVvr6n3RCq9pksXGtZxdF41Z9npvj6Oot17trzjOw5_rvCkJRD8v8sTIXA3sCvPx4obhUvpG_hSICwoesb4jGFx69ZSUwLn4NcblpvsLmOf17uZtqhQzOJ4Gnl3rYa-tivem5bci6CEeYML30frWp1FUUEpbWEYG-naXT-izJSniakHN1gEkoLFuXdMjfgJa4tlx_iHUo52o1OHsYN-pvfaAcOscHdJDyOCBdXmRp9Lc_YADJWZy4tSg60by8MrXW6dsYb_E2WbtJlEpoXW0FR2pt8myfpbNv_BSyI9kNgr4RBbcIxxKdcT-qkrdNbkOmrtSNMjNrfbYGTYw-vMwe57ASu4c-KNnmuSv6XVLv8KJGQ4rzKuSVHuD3rkOCofHaT8pTrHufjFRoaxWFU1rtq00GKS-l5KPNEYXxpcqNen0rkSqnmyskMLoYJ-A&refId=8xjNfTTdcbqfoUH1mefKMQ%3D%3D&trackingId=1hXwQPDqORbb8CeXSX%2BmGw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Front-End Pleno
+Sobre a vaga
+Vem trabalhar com a gente. Vem ser Cora!Sobre a CoraDas 21 milhões de empresas do Brasil, 93% são pequenos e médios negócios e, apesar de serem responsáveis por ⅓ do PIB do país e 60% dos empregos, as pequenas e médias empresas (PMEs) não são o foco da maioria das instituições financeiras.Isso muda com a Cora, banco digital criado exclusivamente para apoiar PMES. Com 5 anos de existência, já somamos mais de1 milhão de clientes e 300 pessoas trabalhando de forma remota em vários lugares do Brasil.Dia a Dia Como Pessoa Desenvolvedora Front-End Na CoraParticipar ativamente de decisões e soluções técnicas dentro da comunidade de frontend;Opinar e participar sobre a construção de soluções desde sua arquitetura até sua implementação, delivery e operação;Compreender profundamente as motivações por trás do que está sendo desenvolvido;Trabalhar com entregas contínuas, utilizando feature flags (temos um produto interno para isso, mas também usamos o Firebase).Quem estamos buscandoUma Pessoa ComConhecimento aprofundado em HTML, CSS e Javascript;Experiência sólida em desenvolvimento utilizando Javascript e com algum framework (React.js, Angular, Vue.js etc);Conhecimento sólido em Typescript;Bom entendimento sobre performance e boas práticas de desenvolvimento;Capacidade de escrever testes para garantir a qualidade do código;Experiência em monitoramento de aplicações usando ferramentas como Sentry, New Relic, Grafana etc;Criação de ferramentas que impulsionam o desenvolvimento do dia-a-dia;Familiaridade com micro front-ends;Proficiência para encontrar e solucionar bugs complexos;Padrões de arquitetura e Design Patterns;Clean Code e boas práticas de desenvolvimento de software.Experiência com API RESTful;Capacidade de produzir código limpo e de fácil manutenção;Testes de unidade e integrados (E2E)Experiência com o Git;Uma pessoa comunicativa que agrega valor o time e expõe a sua opinião, ideias e questionamentos;Capacidade de trabalhar de forma independente e em equipe, com uma boa habilidade de comunicação;Gostar de autonomia e ter atitude em buscar oportunidades de melhorias;Gostar de desenvolver com propósito e se identificar com a cultura da Cora.Legal se tiverFamiliaridade com o desenvolvimento e implementação de Design Systems;Experiência com meios de pagamento e/ou algum iBanking;Experiência com arquitetura de Micro-Frontends;Ter resolvido problemas complexos (alto volume, alta disponibilidade);Noções de escrita de código com compreensão dos impactos de segurança voltados para a web.Cultura da CoraPotencializamos o espírito empreendedor e valorizamos quem empreende e vive a nossa Cultura no dia a dia.Precisamos de energia e inconformismo para resolver problemas dos nossos clientes, construindo (muitas vezes do zero) produtos e soluções financeiras simples e acessíveis para ajudar pessoas empreendedoras a tomar decisões informadas de negócio.Buscamos pessoas inconformadas e excelentes no que fazem (levantamos a barra), que trabalhem de forma autônoma e resolutiva (fazemos acontecer), colaborativa (trabalhamos juntos) e empática (pensamos nas pessoas).O que oferecemosUm ambiente dinâmico, com oportunidades de aprender construindo todos os dias, trabalhando de forma colaborativa e gerando alto direto para donos e donas de pequenos e médios negócios.Para Te Apoiar FinanceiramenteRemuneração competitiva14º salárioBenefícios Flexíveis no cartão FlashA partir de 1 ano de Cora, todas as pessoas podem adquirir AçõesPara Apoiar a Sua Saúde e Bem-estarPlano de Saúde Sulamerica com inclusão de dependentesPlano Odontológico BradescoApoio e suporte 24h da Pipo SaúdeParceria com GympassParceria com ZenklubSeguro de vida ZurichLicença parental estendida (180 dias para gestante e 90 dias para não gestante)Auxílio-creche para pais e mães com filhos até 6 anos.Modelo De Trabalho FlexívelTrabalho 100% remotoDay Off de aniversário5 Day Offs por ano para emendar feriados ou combinar uma folgaAuxílio Home Office mensalBanco de horas semestral e flexibilidade nos horários de entrada e saída desde que dentro do horário comercial (08h-20h)Equipamentos para trabalhar em casa (monitor extra, cadeira, escrivaninha, fone de ouvido e apoio para pé)Convênio com a plataforma de Coworkings WobaOportunidade De DesenvolvimentoAuxílio Aprendizagem de R$ 3.000 por ano para cursos, livros, eventos, graduação, pós graduação, entre outros;Para profissionais em início de carreira, o benefício é de R$ 4.000.Informações AdicionaisPolítica de Privacidade: Fazemos algumas perguntas já nesse primeiro momento pensando em agilizar o seu processo. Se quiser saber mais sobre como usamos os dados, pode conferir nossa Política de Privacidade aqui.Para saber mais sobre a Cora: visite nosso site e nosso LinkedIn.
+
+
+Sobre a Cora
+
+
+
+
+1 milhão de clientes e 300 pessoas trabalhando de forma remota em vários lugares do Brasil.
+
+
+
+
+Dia a Dia Como Pessoa Desenvolvedora Front-End Na Cora
+
+
+Participar ativamente de decisões e soluções técnicas dentro da comunidade de frontend;Opinar e participar sobre a construção de soluções desde sua arquitetura até sua implementação, delivery e operação;Compreender profundamente as motivações por trás do que está sendo desenvolvido;Trabalhar com entregas contínuas, utilizando feature flags (temos um produto interno para isso, mas também usamos o Firebase).
+Participar ativamente de decisões e soluções técnicas dentro da comunidade de frontend;
+Participar ativamente de decisões e soluções técnicas dentro da comunidade de frontend;
+
+Opinar e participar sobre a construção de soluções desde sua arquitetura até sua implementação, delivery e operação;
+Opinar e participar sobre a construção de soluções desde sua arquitetura até sua implementação, delivery e operação;
+
+Compreender profundamente as motivações por trás do que está sendo desenvolvido;
+Compreender profundamente as motivações por trás do que está sendo desenvolvido;
+
+Trabalhar com entregas contínuas, utilizando feature flags (temos um produto interno para isso, mas também usamos o Firebase).
+Trabalhar com entregas contínuas, utilizando feature flags (temos um produto interno para isso, mas também usamos o Firebase).
+
+
+
+
+
+Uma Pessoa Com
+
+
+Conhecimento aprofundado em HTML, CSS e Javascript;Experiência sólida em desenvolvimento utilizando Javascript e com algum framework (React.js, Angular, Vue.js etc);Conhecimento sólido em Typescript;Bom entendimento sobre performance e boas práticas de desenvolvimento;Capacidade de escrever testes para garantir a qualidade do código;Experiência em monitoramento de aplicações usando ferramentas como Sentry, New Relic, Grafana etc;Criação de ferramentas que impulsionam o desenvolvimento do dia-a-dia;Familiaridade com micro front-ends;Proficiência para encontrar e solucionar bugs complexos;Padrões de arquitetura e Design Patterns;Clean Code e boas práticas de desenvolvimento de software.Experiência com API RESTful;Capacidade de produzir código limpo e de fácil manutenção;Testes de unidade e integrados (E2E)Experiência com o Git;Uma pessoa comunicativa que agrega valor o time e expõe a sua opinião, ideias e questionamentos;Capacidade de trabalhar de forma independente e em equipe, com uma boa habilidade de comunicação;Gostar de autonomia e ter atitude em buscar oportunidades de melhorias;Gostar de desenvolver com propósito e se identificar com a cultura da Cora.
+Conhecimento aprofundado em HTML, CSS e Javascript;
+Conhecimento aprofundado em HTML, CSS e Javascript;
+
+Experiência sólida em desenvolvimento utilizando Javascript e com algum framework (React.js, Angular, Vue.js etc);
+Experiência sólida em desenvolvimento utilizando Javascript e com algum framework (React.js, Angular, Vue.js etc);
+
+Conhecimento sólido em Typescript;
+Conhecimento sólido em Typescript;
+
+Bom entendimento sobre performance e boas práticas de desenvolvimento;
+Bom entendimento sobre performance e boas práticas de desenvolvimento;
+
+Capacidade de escrever testes para garantir a qualidade do código;
+Capacidade de escrever testes para garantir a qualidade do código;
+
+Experiência em monitoramento de aplicações usando ferramentas como Sentry, New Relic, Grafana etc;
+Experiência em monitoramento de aplicações usando ferramentas como Sentry, New Relic, Grafana etc;
+
+Criação de ferramentas que impulsionam o desenvolvimento do dia-a-dia;
+Criação de ferramentas que impulsionam o desenvolvimento do dia-a-dia;
+
+Familiaridade com micro front-ends;
+Familiaridade com micro front-ends;
+
+Proficiência para encontrar e solucionar bugs complexos;
+Proficiência para encontrar e solucionar bugs complexos;
+
+Padrões de arquitetura e Design Patterns;
+Padrões de arquitetura e Design Patterns;
+
+Clean Code e boas práticas de desenvolvimento de software.
+Clean Code e boas práticas de desenvolvimento de software.
+
+Experiência com API RESTful;
+Experiência com API RESTful;
+
+Capacidade de produzir código limpo e de fácil manutenção;
+Capacidade de produzir código limpo e de fácil manutenção;
+
+Testes de unidade e integrados (E2E)
+Testes de unidade e integrados (E2E)
+
+Experiência com o Git;
+Experiência com o Git;
+
+Uma pessoa comunicativa que agrega valor o time e expõe a sua opinião, ideias e questionamentos;
+Uma pessoa comunicativa que agrega valor o time e expõe a sua opinião, ideias e questionamentos;
+
+Capacidade de trabalhar de forma independente e em equipe, com uma boa habilidade de comunicação;
+Capacidade de trabalhar de forma independente e em equipe, com uma boa habilidade de comunicação;
+
+Gostar de autonomia e ter atitude em buscar oportunidades de melhorias;
+Gostar de autonomia e ter atitude em buscar oportunidades de melhorias;
+
+Gostar de desenvolver com propósito e se identificar com a cultura da Cora.
+Gostar de desenvolver com propósito e se identificar com a cultura da Cora.
+
+
+
+Legal se tiver
+
+
+
+Familiaridade com o desenvolvimento e implementação de Design Systems;Experiência com meios de pagamento e/ou algum iBanking;Experiência com arquitetura de Micro-Frontends;Ter resolvido problemas complexos (alto volume, alta disponibilidade);Noções de escrita de código com compreensão dos impactos de segurança voltados para a web.
+Familiaridade com o desenvolvimento e implementação de Design Systems;
+Familiaridade com o desenvolvimento e implementação de Design Systems;
+Experiência com meios de pagamento e/ou algum iBanking;
+Experiência com meios de pagamento e/ou algum iBanking;
+Experiência com arquitetura de Micro-Frontends;
+Experiência com arquitetura de Micro-Frontends;
+Ter resolvido problemas complexos (alto volume, alta disponibilidade);
+Ter resolvido problemas complexos (alto volume, alta disponibilidade);
+Noções de escrita de código com compreensão dos impactos de segurança voltados para a web.
+Noções de escrita de código com compreensão dos impactos de segurança voltados para a web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Para Te Apoiar Financeiramente
+
+
+Remuneração competitiva14º salárioBenefícios Flexíveis no cartão FlashA partir de 1 ano de Cora, todas as pessoas podem adquirir Ações
+Remuneração competitiva
+Remuneração competitiva
+
+14º salário
+14º salário
+
+Benefícios Flexíveis no cartão Flash
+Benefícios Flexíveis no cartão Flash
+
+A partir de 1 ano de Cora, todas as pessoas podem adquirir Ações
+A partir de 1 ano de Cora, todas as pessoas podem adquirir Ações
+
+
+
+Para Apoiar a Sua Saúde e Bem-estar
+
+
+Plano de Saúde Sulamerica com inclusão de dependentesPlano Odontológico BradescoApoio e suporte 24h da Pipo SaúdeParceria com GympassParceria com ZenklubSeguro de vida ZurichLicença parental estendida (180 dias para gestante e 90 dias para não gestante)Auxílio-creche para pais e mães com filhos até 6 anos.
+Plano de Saúde Sulamerica com inclusão de dependentes
+Plano de Saúde Sulamerica com inclusão de dependentes
+
+Plano Odontológico Bradesco
+Plano Odontológico Bradesco
+
+Apoio e suporte 24h da Pipo Saúde
+Apoio e suporte 24h da Pipo Saúde
+
+Parceria com Gympass
+Parceria com Gympass
+
+Parceria com Zenklub
+Parceria com Zenklub
+
+Seguro de vida Zurich
+Seguro de vida Zurich
+
+Licença parental estendida (180 dias para gestante e 90 dias para não gestante)
+Licença parental estendida (180 dias para gestante e 90 dias para não gestante)
+
+Auxílio-creche para pais e mães com filhos até 6 anos.
+Auxílio-creche para pais e mães com filhos até 6 anos.
+
+
+Modelo De Trabalho Flexível
+
+
+Trabalho 100% remotoDay Off de aniversário5 Day Offs por ano para emendar feriados ou combinar uma folgaAuxílio Home Office mensalBanco de horas semestral e flexibilidade nos horários de entrada e saída desde que dentro do horário comercial (08h-20h)Equipamentos para trabalhar em casa (monitor extra, cadeira, escrivaninha, fone de ouvido e apoio para pé)Convênio com a plataforma de Coworkings Woba
+Trabalho 100% remoto
+Trabalho 100% remoto
+
+Day Off de aniversário
+Day Off de aniversário
+
+5 Day Offs por ano para emendar feriados ou combinar uma folga
+5 Day Offs por ano para emendar feriados ou combinar uma folga
+
+Auxílio Home Office mensal
+Auxílio Home Office mensal
+
+Banco de horas semestral e flexibilidade nos horários de entrada e saída desde que dentro do horário comercial (08h-20h)
+Banco de horas semestral e flexibilidade nos horários de entrada e saída desde que dentro do horário comercial (08h-20h)
+
+Equipamentos para trabalhar em casa (monitor extra, cadeira, escrivaninha, fone de ouvido e apoio para pé)
+Equipamentos para trabalhar em casa (monitor extra, cadeira, escrivaninha, fone de ouvido e apoio para pé)
+
+Convênio com a plataforma de Coworkings Woba
+Convênio com a plataforma de Coworkings Woba
+
+
+
+Oportunidade De Desenvolvimento
+
+
+Auxílio Aprendizagem de R$ 3.000 por ano para cursos, livros, eventos, graduação, pós graduação, entre outros;Para profissionais em início de carreira, o benefício é de R$ 4.000.
+Auxílio Aprendizagem de R$ 3.000 por ano para cursos, livros, eventos, graduação, pós graduação, entre outros;
+Auxílio Aprendizagem de R$ 3.000 por ano para cursos, livros, eventos, graduação, pós graduação, entre outros;
+
+Para profissionais em início de carreira, o benefício é de R$ 4.000.
+Para profissionais em início de carreira, o benefício é de R$ 4.000.
+
+
+
+
+
+Política de Privacidade: Fazemos algumas perguntas já nesse primeiro momento pensando em agilizar o seu processo. Se quiser saber mais sobre como usamos os dados, pode conferir nossa Política de Privacidade aqui.Para saber mais sobre a Cora: visite nosso site e nosso LinkedIn.
+Política de Privacidade: Fazemos algumas perguntas já nesse primeiro momento pensando em agilizar o seu processo. Se quiser saber mais sobre como usamos os dados, pode conferir nossa Política de Privacidade aqui.
+Política de Privacidade: Fazemos algumas perguntas já nesse primeiro momento pensando em agilizar o seu processo. Se quiser saber mais sobre como usamos os dados, pode conferir nossa Política de Privacidade aqui.
+
+Para saber mais sobre a Cora: visite nosso site e nosso LinkedIn.
+Para saber mais sobre a Cora: visite nosso site e nosso LinkedIn.

@@ -1,0 +1,150 @@
+link-https://www.linkedin.com/jobs/view/4043334591/?eBP=CwEAAAGS7kczL43X86RxoAuIZsLm12HxJ_0spJtDlIIel_y4bj6OjjmtaB0p8nVfVt52HueowTV-2cGpnIVEnLEFKDmqFSotFn8s9KBIzt0ZXXdIyyIpCJyO-oIu_BYiz-T2aEhK8TjMriwIyKh-yLh0wVh8HkMoRAH5CxmR51rShGkrpzclFXS5oeZHGX_MrYPs0-Tbni8RJh9RT_esc2pXGNpAOBmF610m9MFV_peqxkacZ1IhtTpXdSGTQFNw_podkG01Hb0AwQnKrk1e3KnBM5U1L_RjzWskzWya9BUET1AaDWUUKyV8qQji4AOKoBjjJ-1WdHdDArYSZgnPWY1VB1dwWsKYuDFvNvW26o3U3kGZJBne89Nyr04disjXiRAbgS-pIBwewbqr_wm2IKg9ya2GCQpG_2WRkDgxqLsgT6ZkwgY1qRStgTAtTp7t3U6S9f70UgW2-mVZuJ5_b_UV85Zt86hGBi4zeM6pWpKbv5zVD3C-PAh6uZyIye4&refId=SNSWGwhfiKuFeT%2FIiRLkZw%3D%3D&trackingId=qv%2F5Wy0ntnjIPKHznAMyxg%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Pleno
+Sobre a vaga
+Olá, somos Cayena, muito prazer! 🌶️Somos uma startup que chegou para revolucionar o mercado do Food Service! Simplificamos o setor mais importante do planeta digitalizando o processo da compra de insumos, sem mensalidades, sem taxas escondidas, sem custo de frete e sem dor de cabeça.Empreendemos pelo propósito de impulsionar negócios que colocam a comida na mesa. Conectamos fornecedores e compradores levando inteligência de dados para um mercado carente de tecnologia e inovação!A vagaBuscamos um(a) profissional que queira nos ajudar a criar uma vantagem competitiva a partir do uso aplicado da tecnologia nos objetivos do Cayena. Esperamos que o QA Cayena desenvolva e opere os testes de qualidade durante todo o processo de desenvolvimento das nossas soluções, de forma automática, eficiente e segura.Responsabilidades e atribuiçõesO que você fará?Elaborar e executar os testes de novos cenários e regressão;Desenvolver testes end to end;Reportar e acompanhar bugs;Sugerir melhorias no sistema.Requisitos e qualificaçõesO que esperamos de você?Experiência com testes de backend e web;Conhecimento em Front-End Web;Vivência em testes exploratórios e de regressão;Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;Conhecimentos de padrões TDD, BDD e/ou DDD;Versionamento de código (Git + GitFlow);Gostar de trabalho em equipe;Comprometimento e alinhamento com a estratégia da empresa;Perfil questionador e inconformado.DesejávelConhecimento de testes para Apps Android e IoS (Flutter);Padrão de APIs Rest;Docker Containers;Automações com GitActions ou similar para implementação de Continuous Integrations;Ambiente de Nuvem AWS.Informações adicionaisPor que ser um(a) Pepper?Nossa cultura:🙅🏻‍♀️ Somos empreendedores: Abraçamos a missão e tomamos risco. Temos sede de crescimento e fome de impacto.🤝 Concorde ou discorde, comprometa-se: Missionários abrem mão do consenso em prol da agilidade. Somos unidos e comprometidos, concordando ou não.📈 Temos fome de resultado: Somos entregadores insaciáveis movidos pelo desejo de transformar ambição em realidade.🧘‍♀ Faça-se desnecessário: É papel de todos atrair empreendedores missionários. Contrate-os, treine-os e saia da frente.Fica ainda melhor!Se cada#Pepperé único, por que oferecer um pacote de benefícios padrão?Além do combo de Benefícios Garantidos (benefícios que são comuns a todos), cada Pepper recebe um número de pontos para distribuir entre os Benefícios Flexíveis que quiser e montar um pacote do seu jeito!Benefícios Garantidos (comum a todos):🌶️ Elegibilidade ao programa de Stock Options🎉 Day Off de aniversário🤰🏽 Licença maternidade e paternidade estendidas👶🏽 Auxílio creche💰 Férias remuneradas🎁 Premiação por indicação📚 Subsídio para livros da Biblioteca Cayena🩺 Convênio médico (sem co-participação) pela AmilBenefícios Flexíveis (você escolhe o que tiver sentido pra você):💳 Cartão Caju🏋🏽‍♂️ Gympass🦷 Convênio odontológico❤️ Seguro de vida🐶 Convênio PetA sorte favorece os ousados e trazemos para o mercado uma pitada de ousadia.Quer fazer parte desse desafio?🔥#VemSerPepper #UmaPitadaDeCayena
+Olá, somos Cayena, muito prazer! 🌶️
+
+
+
+
+
+
+A vaga
+
+
+
+
+Responsabilidades e atribuições
+
+
+O que você fará?
+
+
+
+Elaborar e executar os testes de novos cenários e regressão;Desenvolver testes end to end;Reportar e acompanhar bugs;Sugerir melhorias no sistema.
+Elaborar e executar os testes de novos cenários e regressão;
+Elaborar e executar os testes de novos cenários e regressão;
+Desenvolver testes end to end;
+Desenvolver testes end to end;
+Reportar e acompanhar bugs;
+Reportar e acompanhar bugs;
+Sugerir melhorias no sistema.
+Sugerir melhorias no sistema.
+
+
+
+Requisitos e qualificações
+
+
+O que esperamos de você?
+
+
+Experiência com testes de backend e web;Conhecimento em Front-End Web;Vivência em testes exploratórios e de regressão;Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;Conhecimentos de padrões TDD, BDD e/ou DDD;Versionamento de código (Git + GitFlow);Gostar de trabalho em equipe;Comprometimento e alinhamento com a estratégia da empresa;Perfil questionador e inconformado.
+Experiência com testes de backend e web;
+Experiência com testes de backend e web;
+Conhecimento em Front-End Web;
+Conhecimento em Front-End Web;
+Vivência em testes exploratórios e de regressão;
+Vivência em testes exploratórios e de regressão;
+Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;
+Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;
+Conhecimentos de padrões TDD, BDD e/ou DDD;
+Conhecimentos de padrões TDD, BDD e/ou DDD;
+Versionamento de código (Git + GitFlow);
+Versionamento de código (Git + GitFlow);
+Gostar de trabalho em equipe;
+Gostar de trabalho em equipe;
+Comprometimento e alinhamento com a estratégia da empresa;
+Comprometimento e alinhamento com a estratégia da empresa;
+Perfil questionador e inconformado.
+Perfil questionador e inconformado.
+
+
+
+Desejável
+
+
+Conhecimento de testes para Apps Android e IoS (Flutter);Padrão de APIs Rest;Docker Containers;Automações com GitActions ou similar para implementação de Continuous Integrations;Ambiente de Nuvem AWS.
+Conhecimento de testes para Apps Android e IoS (Flutter);
+Conhecimento de testes para Apps Android e IoS (Flutter);
+Padrão de APIs Rest;
+Padrão de APIs Rest;
+Docker Containers;
+Docker Containers;
+Automações com GitActions ou similar para implementação de Continuous Integrations;
+Automações com GitActions ou similar para implementação de Continuous Integrations;
+Ambiente de Nuvem AWS.
+Ambiente de Nuvem AWS.
+
+
+
+Informações adicionais
+
+
+Por que ser um(a) Pepper?
+
+
+Nossa cultura:
+
+
+
+
+
+
+
+
+
+
+Fica ainda melhor!
+
+
+Se cada
+#Pepper
+
+é único, por que oferecer um pacote de benefícios padrão?
+
+
+
+
+
+Benefícios Garantidos (comum a todos):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benefícios Flexíveis (você escolhe o que tiver sentido pra você):
+
+
+
+
+
+
+
+
+
+
+
+
+A sorte favorece os ousados e trazemos para o mercado uma pitada de ousadia.
+
+
+
+Quer fazer parte desse desafio?🔥
+
+
+#VemSerPepper #UmaPitadaDeCayena

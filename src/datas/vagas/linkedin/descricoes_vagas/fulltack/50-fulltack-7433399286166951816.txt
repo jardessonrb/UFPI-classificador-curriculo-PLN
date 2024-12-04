@@ -1,0 +1,117 @@
+link-https://www.linkedin.com/jobs/view/4048821587/?eBP=CwEAAAGS7hGeItLWzXG4uElP1xVFsyRArBT4l4KKFzhWM9Te22llDyQexCeK8p70D2bv2OtSez2bp1NWy8_OX-gpKuWTsRWE3sjHNdUZXgeOAb3_2yQVZ6deoF36SJaC97MJ5rutjIoXWlWW-wfq_BJAg_e-NNrQfSgJIPhUQjJ8SD2lrtNMcRS9tVvKPmBEVM7g14Zu6ZKBGluVGHm6fDkZsK5CJG1o3_bqYqw6Tx8tkm_8n-c5pIrHqs_NIkM_ZAXI_g21-e_FS-1nYjFgzZ530N_o37tEjoL0wxP8hg5luyLmwGpqdBtgvHlsT09wMobRi-qlaZyCwPf6Dghyug8oIcJyf6k4Z5DAe44zTOED3yLACikuwQsq8zY1wRFTETaD3BcDVZBavao_inijW3gsULhscG5V-j8W9BMY5LS9TA_s0R2M2ppwoIlzxqLouhPh7D7zT0pyE_jbvu695m_vhrKzMFUVTqfxWalILBdLPwWc8kqEIROBfcjODPTK0SnsDXzfRsp9MyPX&refId=BKcRCEBhZwzgWnUjABz6wQ%3D%3D&trackingId=lkqA2nhuWl%2F9paOk2s3Cfg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor full stack
+Sobre a vaga
+Faça parte da TRADENER! Como pioneiros no mercado livre de energia elétrica há 26 anos, buscamos profissionais inovadores e apaixonados por fazer acontecer para se unirem à nossa equipe. Na TRADENER, você terá a oportunidade de contribuir para um futuro mais sustentável e eficiente, em um ambiente dinâmico e colaborativo, onde suas ideias são valorizadas. Se você também valoriza o diálogo, a alta performance e a ética, e está pronto para fazer parte do mercado livre de energia, candidate-se e faça parte do nosso time!Principais Atividades e Atribuições:● Auxiliar no desenvolvimento e manutenção de aplicações web e APIs.● Colaborar com o time na criação de soluções para integração entre sistemas.● Apoiar o desenvolvimento de rotinas para automação de processos.● Trabalhar sob a orientação de desenvolvedores mais experientes para garantir a qualidade econtinuidade dos processos de desenvolvimento.● Aprender e aplicar as melhores práticas de desenvolvimentoRequisitos Obrigatórios:● Superior Completo / Cursando em áreas de T.I.● Conhecimento básico em desenvolvimento web, utilizando pelo menos uma das linguagens Node, PHP, Ruby ou ReactJS.● Conhecimento em SQL.● Experiência acadêmica ou em projetos pessoais/profissionais com versionamento Git e, GitHubou BitBucket.● Familiaridade inicial com testes automatizados (TDD, RSpec, Jest)● Inglês básico (leitura de documentação técnica, Stack Overflow em inglês, se comunicar nasissues do GitHub).Desejável:● Conhecimento ou interesse em boas práticas de desenvolvimento, como SOLID e integraçãocontínua (CI/CD);● Interesse em aprender outras linguagens de programação como Ruby, JavaScript/NodeJS ouPython;● Noções de React, GraphQL, RESTful APIs, NoSQL, Redis, ou Sidekiq;● Interesse em deploy contínuo em ambientes cloud, com Heroku ou AWS.Habilidade e Competências:● Vontade de aprender, crescer e seguir boas práticas de desenvolvimento.● Interesse em desenvolvimento de software de qualidade, prezando por código limpo e eficiente.● Buscar atualizações contínuas, acompanhando as novas tendências e sugerindo melhorias.● Boa capacidade de comunicação e trabalho em equipe.Horário de Trabalho:De segunda a sexta de 08:00 às 18:00 ( 2 horas de almoço) - Presencial.Salário:Compatível com a Função.Benefícios:Vale Alimentação / Vale Refeição;Vale Transporte;Vale Cultura;Plano de Saúde e Odontológico;Gympass;Auxilio Creche;Previdência Privada;PLR;Incentivo Bolsa de Estudos.
+Faça parte da TRADENER! Como pioneiros no mercado livre de energia elétrica há 26 anos, buscamos profissionais inovadores e apaixonados por fazer acontecer para se unirem à nossa equipe. Na TRADENER, você terá a oportunidade de contribuir para um futuro mais sustentável e eficiente, em um ambiente dinâmico e colaborativo, onde suas ideias são valorizadas. Se você também valoriza o diálogo, a alta performance e a ética, e está pronto para fazer parte do mercado livre de energia, candidate-se e faça parte do nosso time!
+Faça parte da TRADENER! Como pioneiros no mercado livre de energia elétrica há 26 anos, buscamos profissionais inovadores e apaixonados por fazer acontecer para se unirem à nossa equipe. Na TRADENER, você terá a oportunidade de contribuir para um futuro mais sustentável e eficiente, em um ambiente dinâmico e colaborativo, onde suas ideias são valorizadas. Se você também valoriza o diálogo, a alta performance e a ética, e está pronto para fazer parte do mercado livre de energia, candidate-se e faça parte do nosso time!
+
+
+
+Principais Atividades e Atribuições:
+Principais Atividades e Atribuições:
+Principais Atividades e Atribuições:
+● Auxiliar no desenvolvimento e manutenção de aplicações web e APIs.
+● Auxiliar no desenvolvimento e manutenção de aplicações web e APIs.
+● Colaborar com o time na criação de soluções para integração entre sistemas.
+● Colaborar com o time na criação de soluções para integração entre sistemas.
+● Apoiar o desenvolvimento de rotinas para automação de processos.
+● Apoiar o desenvolvimento de rotinas para automação de processos.
+● Trabalhar sob a orientação de desenvolvedores mais experientes para garantir a qualidade e
+● Trabalhar sob a orientação de desenvolvedores mais experientes para garantir a qualidade e
+continuidade dos processos de desenvolvimento.
+continuidade dos processos de desenvolvimento.
+● Aprender e aplicar as melhores práticas de desenvolvimento
+● Aprender e aplicar as melhores práticas de desenvolvimento
+
+
+
+Requisitos Obrigatórios:
+Requisitos Obrigatórios:
+Requisitos Obrigatórios:
+● Superior Completo / Cursando em áreas de T.I.
+● Superior Completo / Cursando em áreas de T.I.
+● Conhecimento básico em desenvolvimento web, utilizando pelo menos uma das linguagens Node, PHP, Ruby ou ReactJS.
+● Conhecimento básico em desenvolvimento web, utilizando pelo menos uma das linguagens Node, PHP, Ruby ou ReactJS.
+● Conhecimento em SQL.
+● Conhecimento em SQL.
+● Experiência acadêmica ou em projetos pessoais/profissionais com versionamento Git e, GitHub
+● Experiência acadêmica ou em projetos pessoais/profissionais com versionamento Git e, GitHub
+ou BitBucket.
+ou BitBucket.
+● Familiaridade inicial com testes automatizados (TDD, RSpec, Jest)
+● Familiaridade inicial com testes automatizados (TDD, RSpec, Jest)
+● Inglês básico (leitura de documentação técnica, Stack Overflow em inglês, se comunicar nas
+● Inglês básico (leitura de documentação técnica, Stack Overflow em inglês, se comunicar nas
+issues do GitHub).
+issues do GitHub).
+
+
+
+Desejável:
+Desejável:
+Desejável:
+● Conhecimento ou interesse em boas práticas de desenvolvimento, como SOLID e integração
+● Conhecimento ou interesse em boas práticas de desenvolvimento, como SOLID e integração
+contínua (CI/CD);
+contínua (CI/CD);
+● Interesse em aprender outras linguagens de programação como Ruby, JavaScript/NodeJS ou
+● Interesse em aprender outras linguagens de programação como Ruby, JavaScript/NodeJS ou
+Python;
+Python;
+● Noções de React, GraphQL, RESTful APIs, NoSQL, Redis, ou Sidekiq;
+● Noções de React, GraphQL, RESTful APIs, NoSQL, Redis, ou Sidekiq;
+● Interesse em deploy contínuo em ambientes cloud, com Heroku ou AWS.
+● Interesse em deploy contínuo em ambientes cloud, com Heroku ou AWS.
+
+
+
+Habilidade e Competências:
+Habilidade e Competências:
+Habilidade e Competências:
+● Vontade de aprender, crescer e seguir boas práticas de desenvolvimento.
+● Vontade de aprender, crescer e seguir boas práticas de desenvolvimento.
+● Interesse em desenvolvimento de software de qualidade, prezando por código limpo e eficiente.
+● Interesse em desenvolvimento de software de qualidade, prezando por código limpo e eficiente.
+● Buscar atualizações contínuas, acompanhando as novas tendências e sugerindo melhorias.
+● Buscar atualizações contínuas, acompanhando as novas tendências e sugerindo melhorias.
+● Boa capacidade de comunicação e trabalho em equipe.
+● Boa capacidade de comunicação e trabalho em equipe.
+
+
+
+Horário de Trabalho:De segunda a sexta de 08:00 às 18:00 ( 2 horas de almoço) - Presencial.
+Horário de Trabalho:De segunda a sexta de 08:00 às 18:00 ( 2 horas de almoço) - Presencial.
+Horário de Trabalho:
+
+
+
+
+Salário:Compatível com a Função.
+Salário:Compatível com a Função.
+Salário:
+
+
+
+
+Benefícios:
+Benefícios:
+Benefícios:
+Vale Alimentação / Vale Refeição;
+Vale Alimentação / Vale Refeição;
+Vale Transporte;
+Vale Transporte;
+Vale Cultura;
+Vale Cultura;
+Plano de Saúde e Odontológico;
+Plano de Saúde e Odontológico;
+Gympass;
+Gympass;
+Auxilio Creche;
+Auxilio Creche;
+Previdência Privada;
+Previdência Privada;
+PLR;
+PLR;
+Incentivo Bolsa de Estudos.
+Incentivo Bolsa de Estudos.

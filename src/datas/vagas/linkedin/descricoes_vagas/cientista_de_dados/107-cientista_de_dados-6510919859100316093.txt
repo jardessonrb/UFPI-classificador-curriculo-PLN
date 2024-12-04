@@ -1,0 +1,241 @@
+link-https://www.linkedin.com/jobs/view/4062867616/?eBP=CwEAAAGS7jSAoWzsEhuB9ZToHbGcXBLh3FkTFDQDwlDvmjlsDBHxu4ljszN-hQwQb5Nbm7sblEoxKVQOqsY52dzuAM8KZAO-cF4T-K4FaWsPtlWdxapzR1w_B-6_KHotySv0UZZJZXedwMzR8cgxtLauCjsgSq-9BAKYm0VjBaWUd9J4LH67DsxRbEUU0XJYJibTzzGS0IBMbfCPotB3H7oDMH-RtIAxAd5H2DfEhXpJ_BpizenOIWaZK5XVPSNAgOT568i3AjrxgEUewb5Kn8Otutghyufvuqd4DEgHTmN3jffuNnzplMZ2ZYdXJoqPNLWhF7MN04kShw0GEFkCotuFYQGCmRywMR17c_S-zPrqSp1BGuYhs5N60TUnknkIgRjIik6kKdeb8_4zBeG4iUvIw8suToXGVMI9YmOsnoVsDp2ZQsgYmT4g1GVUPDxwgUN_j04_aU5TZB4gFjbO4yPMZ8qeMtLM3v-cWzanajVeCfZ3MwnVcrBnV16qxBT4B4wAXGuT3kEqSQ&refId=s1zHu1Q34E0hJG9ffd%2Bv7g%3D%3D&trackingId=S%2BhP2JgKwhGo4JyBECFcww%3D%3D&trk=flagship3_search_srp_jobs
+
+AFYA SP | Cientista de Dados Sênior
+Sobre a vaga
+Descrição da vagaSomos aliados do médico durante toda a sua jornada e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. Vamos juntos transformar a saúde com quem tem a medicina como vocação!Esta é uma vaga aberta na frente doCorporativopara trabalhar de formaremota.Ao assumir o cargo deCientista de Dados Sêniorna Afya, seu objetivo principal serámelhorar a tomada de decisão da empresa, para que as decisões sejam tomadas baseadas em dados, tornando a empresa data driven.Você atuará na área deCiência de Dadosdentro da diretoria deDadose fará parte de uma equipe multidisciplinar, relacionando-se no dia a dia com pessoas de times comoTecnologia, Marketing, Produto.♿Todas as nossas oportunidades são abertas a pessoas com deficiência (PcD) e reabilitadas do INSS.Responsabilidades e atribuições💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:Realizar modelagem preditiva e prescritiva, “traduzindo” os modelos e achados para stakeholders para apoio a tomada de decisão;Fazer análises exploratórias e construir visualizações de dados para serem consumidas por outras áreas;Criar e parametrizar algoritmos de machine learning;Criar e aplicar otimizações aos modelos preditivos para customizar a experiência do usuário, além de identificar anomalias e padrões nos datasets;Desenhar, implementar e analisar experimentos (teste A/B, outros métodos controlados) para entender a reação do usuário a mudanças do usuário e avaliar risco/benefício de features do produto;Analisar comportamento do usuário, identificando oportunidades para a evolução do produto baseada em dados;Automatizar o treinamento e teste de modelos inteligentes.Requisitos e qualificações🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):Domínio de análise exploratória de dados, feature engineering (data cleaning, seleção de features, etc) e técnicas de normalização e regularização;Domínio em SQL, R e Python;Domínio de modelos supervisionados e não supervisionados, regressão linear e regressão logística;Domínio de SVM, Árvores de Decisão e Random Forest, Ensemble Models;Experiência com IA Generativa;Domínio de Clusterização (k-means, DBScan), Regras de Associação (Apriori), Estatística Bayesiana;Conhecimentos avançados em PCA - Redução de Dimensionalidade, redes neurais e AWS.Informações adicionais❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time.Confira os principais abaixo:🌞 Para o dia a dia:Vale-alimentação / refeição;Flexibilidade de horários e alocações (para vagas Remotas);Vale-transporte (para vagas Hibridas ou Presenciais);💰 UP na remuneração:PLR;Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser).👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:Gympass / Wellhub;Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);Plano de Saúde e Odontológico;Seguro de Vida;Licença parental estendida (até 6 meses para mães e 20 dias para pais);Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros;Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência);Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário).📖 Desenvolvimento e Aprendizado:Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);Academia de idiomas (AIA);Programa de desenvolvimento para líderes;Mentoria para Mulheres da Afya (MMA);Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya.✍️Diferencial para Professor Médico:Assinatura premium do Afya iClinic e Afya WhitebookSOMOS A AFYA,O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.A marca Afya nasceu em 2019, mas nossa história começou muito antes. Surgimos da união entre a NRE Educacional, maior grupo de faculdades de Medicina do país, fundado em 1999, com a MEDCEL, marca de cursos preparatórios para prova de residência médica.Com o nosso crescimento acelerado, adquirimos nos últimos anos novas unidades de ensino — já são mais de 30 espalhadas pelo Brasil — e mais de 10 startups que oferecem soluções digitais para a prática médica — Afya Whitebook, Afya iClinic, Afya Papers, Glic e Cliquefarma são algumas marcas do nosso portfólio. Acesseafya.com.brpara conhecer mais sobre a nossa história e todas as soluções que oferecemos.A Afya é uma companhia de capital aberto desde 2019, com ações negociadas na bolsa de valores Nasdaq, nos Estados Unidos. Em 2023 disponibilizamos nossas ações também na bolsa brasileira, a B3. Saiba mais sobre esse assunto emir.afya.com.br.Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação.Para isso, contamos com um time de 10 mil pessoas curiosas, parceiras, comprometidas, adaptáveis e realizadoras. Gente de todos os cantos do Brasil, com diferentes sotaques, mas falando a mesma língua, unida pelo mesmo propósito. Se você se identifica com o jeito Afya de ser,vem com a gente transformar a saúde com educação e tecnologia. #VemSerAfya
+Descrição da vaga
+Descrição da vaga
+Descrição da vaga
+Somos aliados do médico durante toda a sua jornada e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. Vamos juntos transformar a saúde com quem tem a medicina como vocação!
+Somos aliados do médico durante toda a sua jornada e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. Vamos juntos transformar a saúde com quem tem a medicina como vocação!
+
+
+
+
+Esta é uma vaga aberta na frente doCorporativopara trabalhar de formaremota.
+Esta é uma vaga aberta na frente doCorporativopara trabalhar de formaremota.
+Corporativo
+
+
+
+remota.
+
+
+
+Ao assumir o cargo deCientista de Dados Sêniorna Afya, seu objetivo principal serámelhorar a tomada de decisão da empresa, para que as decisões sejam tomadas baseadas em dados, tornando a empresa data driven.
+Ao assumir o cargo deCientista de Dados Sêniorna Afya, seu objetivo principal serámelhorar a tomada de decisão da empresa, para que as decisões sejam tomadas baseadas em dados, tornando a empresa data driven.
+
+Cientista de Dados Sênior
+
+melhorar a tomada de decisão da empresa, para que as decisões sejam tomadas baseadas em dados, tornando a empresa data driven.
+
+
+
+
+Você atuará na área deCiência de Dadosdentro da diretoria deDadose fará parte de uma equipe multidisciplinar, relacionando-se no dia a dia com pessoas de times comoTecnologia, Marketing, Produto.
+Você atuará na área deCiência de Dadosdentro da diretoria deDadose fará parte de uma equipe multidisciplinar, relacionando-se no dia a dia com pessoas de times comoTecnologia, Marketing, Produto.
+
+Ciência de Dados
+
+
+Dados
+
+
+Tecnologia, Marketing, Produto.
+
+
+
+
+♿Todas as nossas oportunidades são abertas a pessoas com deficiência (PcD) e reabilitadas do INSS.
+♿Todas as nossas oportunidades são abertas a pessoas com deficiência (PcD) e reabilitadas do INSS.
+
+Todas as nossas oportunidades são abertas a pessoas com deficiência (PcD) e reabilitadas do INSS.
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+
+
+
+💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:
+💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:
+💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:
+Realizar modelagem preditiva e prescritiva, “traduzindo” os modelos e achados para stakeholders para apoio a tomada de decisão;Fazer análises exploratórias e construir visualizações de dados para serem consumidas por outras áreas;Criar e parametrizar algoritmos de machine learning;Criar e aplicar otimizações aos modelos preditivos para customizar a experiência do usuário, além de identificar anomalias e padrões nos datasets;Desenhar, implementar e analisar experimentos (teste A/B, outros métodos controlados) para entender a reação do usuário a mudanças do usuário e avaliar risco/benefício de features do produto;Analisar comportamento do usuário, identificando oportunidades para a evolução do produto baseada em dados;Automatizar o treinamento e teste de modelos inteligentes.
+Realizar modelagem preditiva e prescritiva, “traduzindo” os modelos e achados para stakeholders para apoio a tomada de decisão;
+Realizar modelagem preditiva e prescritiva, “traduzindo” os modelos e achados para stakeholders para apoio a tomada de decisão;
+Fazer análises exploratórias e construir visualizações de dados para serem consumidas por outras áreas;
+Fazer análises exploratórias e construir visualizações de dados para serem consumidas por outras áreas;
+Criar e parametrizar algoritmos de machine learning;
+Criar e parametrizar algoritmos de machine learning;
+Criar e aplicar otimizações aos modelos preditivos para customizar a experiência do usuário, além de identificar anomalias e padrões nos datasets;
+Criar e aplicar otimizações aos modelos preditivos para customizar a experiência do usuário, além de identificar anomalias e padrões nos datasets;
+Desenhar, implementar e analisar experimentos (teste A/B, outros métodos controlados) para entender a reação do usuário a mudanças do usuário e avaliar risco/benefício de features do produto;
+Desenhar, implementar e analisar experimentos (teste A/B, outros métodos controlados) para entender a reação do usuário a mudanças do usuário e avaliar risco/benefício de features do produto;
+Analisar comportamento do usuário, identificando oportunidades para a evolução do produto baseada em dados;
+Analisar comportamento do usuário, identificando oportunidades para a evolução do produto baseada em dados;
+Automatizar o treinamento e teste de modelos inteligentes.
+Automatizar o treinamento e teste de modelos inteligentes.
+
+
+
+Requisitos e qualificações
+Requisitos e qualificações
+Requisitos e qualificações
+
+
+
+🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):
+🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):
+🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):
+Domínio de análise exploratória de dados, feature engineering (data cleaning, seleção de features, etc) e técnicas de normalização e regularização;Domínio em SQL, R e Python;Domínio de modelos supervisionados e não supervisionados, regressão linear e regressão logística;Domínio de SVM, Árvores de Decisão e Random Forest, Ensemble Models;Experiência com IA Generativa;Domínio de Clusterização (k-means, DBScan), Regras de Associação (Apriori), Estatística Bayesiana;Conhecimentos avançados em PCA - Redução de Dimensionalidade, redes neurais e AWS.
+Domínio de análise exploratória de dados, feature engineering (data cleaning, seleção de features, etc) e técnicas de normalização e regularização;
+Domínio de análise exploratória de dados, feature engineering (data cleaning, seleção de features, etc) e técnicas de normalização e regularização;
+Domínio em SQL, R e Python;
+Domínio em SQL, R e Python;
+Domínio de modelos supervisionados e não supervisionados, regressão linear e regressão logística;
+Domínio de modelos supervisionados e não supervisionados, regressão linear e regressão logística;
+Domínio de SVM, Árvores de Decisão e Random Forest, Ensemble Models;
+Domínio de SVM, Árvores de Decisão e Random Forest, Ensemble Models;
+Experiência com IA Generativa;
+Experiência com IA Generativa;
+Domínio de Clusterização (k-means, DBScan), Regras de Associação (Apriori), Estatística Bayesiana;
+Domínio de Clusterização (k-means, DBScan), Regras de Associação (Apriori), Estatística Bayesiana;
+Conhecimentos avançados em PCA - Redução de Dimensionalidade, redes neurais e AWS.
+Conhecimentos avançados em PCA - Redução de Dimensionalidade, redes neurais e AWS.
+
+
+
+Informações adicionais
+Informações adicionais
+Informações adicionais
+
+
+
+❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time.
+❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time.
+❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time.
+Confira os principais abaixo:
+Confira os principais abaixo:
+Confira os principais abaixo:
+
+
+
+
+🌞 Para o dia a dia:
+🌞 Para o dia a dia:
+🌞 Para o dia a dia:
+
+Vale-alimentação / refeição;Flexibilidade de horários e alocações (para vagas Remotas);Vale-transporte (para vagas Hibridas ou Presenciais);
+Vale-alimentação / refeição;
+Vale-alimentação / refeição;
+
+Flexibilidade de horários e alocações (para vagas Remotas);
+Flexibilidade de horários e alocações (para vagas Remotas);
+
+Vale-transporte (para vagas Hibridas ou Presenciais);
+Vale-transporte (para vagas Hibridas ou Presenciais);
+
+💰 UP na remuneração:
+💰 UP na remuneração:
+💰 UP na remuneração:
+
+PLR;Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser).
+PLR;
+PLR;
+
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser).
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser).
+
+👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:
+👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:
+👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:
+
+Gympass / Wellhub;Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);Plano de Saúde e Odontológico;Seguro de Vida;Licença parental estendida (até 6 meses para mães e 20 dias para pais);Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros;Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência);Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário).
+Gympass / Wellhub;
+Gympass / Wellhub;
+
+Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);
+Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);
+
+Plano de Saúde e Odontológico;
+Plano de Saúde e Odontológico;
+
+Seguro de Vida;
+Seguro de Vida;
+
+Licença parental estendida (até 6 meses para mães e 20 dias para pais);
+Licença parental estendida (até 6 meses para mães e 20 dias para pais);
+
+Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros;
+Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros;
+
+Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência);
+Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência);
+
+Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário).
+Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário).
+
+📖 Desenvolvimento e Aprendizado:
+📖 Desenvolvimento e Aprendizado:
+📖 Desenvolvimento e Aprendizado:
+
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);Academia de idiomas (AIA);Programa de desenvolvimento para líderes;Mentoria para Mulheres da Afya (MMA);Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya.
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);
+
+Academia de idiomas (AIA);
+Academia de idiomas (AIA);
+
+Programa de desenvolvimento para líderes;
+Programa de desenvolvimento para líderes;
+
+Mentoria para Mulheres da Afya (MMA);
+Mentoria para Mulheres da Afya (MMA);
+
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya.
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya.
+
+✍️Diferencial para Professor Médico:
+✍️Diferencial para Professor Médico:
+
+
+Diferencial para Professor Médico:
+
+Assinatura premium do Afya iClinic e Afya Whitebook
+Assinatura premium do Afya iClinic e Afya Whitebook
+Assinatura premium do Afya iClinic e Afya Whitebook
+
+
+
+SOMOS A AFYA,
+SOMOS A AFYA,
+SOMOS A AFYA,
+O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.
+O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.
+O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.
+
+
+
+A marca Afya nasceu em 2019, mas nossa história começou muito antes. Surgimos da união entre a NRE Educacional, maior grupo de faculdades de Medicina do país, fundado em 1999, com a MEDCEL, marca de cursos preparatórios para prova de residência médica.
+A marca Afya nasceu em 2019, mas nossa história começou muito antes. Surgimos da união entre a NRE Educacional, maior grupo de faculdades de Medicina do país, fundado em 1999, com a MEDCEL, marca de cursos preparatórios para prova de residência médica.
+
+
+
+Com o nosso crescimento acelerado, adquirimos nos últimos anos novas unidades de ensino — já são mais de 30 espalhadas pelo Brasil — e mais de 10 startups que oferecem soluções digitais para a prática médica — Afya Whitebook, Afya iClinic, Afya Papers, Glic e Cliquefarma são algumas marcas do nosso portfólio. Acesseafya.com.brpara conhecer mais sobre a nossa história e todas as soluções que oferecemos.
+Com o nosso crescimento acelerado, adquirimos nos últimos anos novas unidades de ensino — já são mais de 30 espalhadas pelo Brasil — e mais de 10 startups que oferecem soluções digitais para a prática médica — Afya Whitebook, Afya iClinic, Afya Papers, Glic e Cliquefarma são algumas marcas do nosso portfólio. Acesseafya.com.brpara conhecer mais sobre a nossa história e todas as soluções que oferecemos.
+
+
+
+
+
+A Afya é uma companhia de capital aberto desde 2019, com ações negociadas na bolsa de valores Nasdaq, nos Estados Unidos. Em 2023 disponibilizamos nossas ações também na bolsa brasileira, a B3. Saiba mais sobre esse assunto emir.afya.com.br.
+A Afya é uma companhia de capital aberto desde 2019, com ações negociadas na bolsa de valores Nasdaq, nos Estados Unidos. Em 2023 disponibilizamos nossas ações também na bolsa brasileira, a B3. Saiba mais sobre esse assunto emir.afya.com.br.
+
+
+
+
+Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação.Para isso, contamos com um time de 10 mil pessoas curiosas, parceiras, comprometidas, adaptáveis e realizadoras. Gente de todos os cantos do Brasil, com diferentes sotaques, mas falando a mesma língua, unida pelo mesmo propósito. Se você se identifica com o jeito Afya de ser,vem com a gente transformar a saúde com educação e tecnologia. #VemSerAfya
+Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação.Para isso, contamos com um time de 10 mil pessoas curiosas, parceiras, comprometidas, adaptáveis e realizadoras. Gente de todos os cantos do Brasil, com diferentes sotaques, mas falando a mesma língua, unida pelo mesmo propósito. Se você se identifica com o jeito Afya de ser,vem com a gente transformar a saúde com educação e tecnologia. #VemSerAfya
+Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação.
+
+
+vem com a gente transformar a saúde com educação e tecnologia

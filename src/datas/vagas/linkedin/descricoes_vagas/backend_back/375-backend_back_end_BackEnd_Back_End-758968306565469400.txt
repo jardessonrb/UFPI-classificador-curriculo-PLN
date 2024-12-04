@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/4060378669/?eBP=CwEAAAGS7lPxijcwZH2P9mwGRS8IAZ_NaLgDoKq_UrSDYdhMkIuITJDAm-ZeBL9ZGhwIiJo3qJH3_3XvlUzVB6ORRUgSY5HgCm36uKbVtt6I410WXLCM0ka2AEJlMW55OfQOqQC0vP8TUpKsB67uDoR3t-Q6grI2N8-mte9QgTE1ED2a2ngnHb2BbyiHnPffN1VWZNp_B5_1iLSLhKaGgXl5qA4Y0H75NFWZB2MAIMFCw_2jnw-assDPKXQTlkNfCH94u9132Q9SMGjjvekFyMEL2JNu2XS02sEnABxWFiWtpo5uLcntLZS-nvhqeDU7zgZjbcTZvxVfHNz0EQl-Bz7BcxiIh98l3RusqbSAB4ZPIIxiOb1OlYwbkRpqXPUK-dY0hHi88vEBdaHAZyT3Pygo160VHexVQvElhURYDoqXjPwl7B1iKc0Q9tFXYkqzfuYHAuLdcNtkuVSrmYw-7br2-QCaL4chh-Y3Nx9iUY5-jGMDREoQisYvwp9xHjRyCzO5xjNfEwmwoMMbmyCitA&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=CiX8Wi8FlAzSp30Cj2%2Fa2w%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Sênior.
+Sobre a vaga
+Sobre a Sea Tecnologia:A Sea Tecnologia é uma empresa de referência em soluções tecnológicas inovadoras, especializada no desenvolvimento de portais corporativos e aplicações de alta qualidade. Estamos à procura de Desenvolvedores Backend apaixonados por tecnologia e boas práticas, com experiência em Node.js e Next.js, bem como no desenvolvimento de aplicações complexas e altamente escaláveis. Valorizamos profissionais que buscam crescimento e aprimoramento contínuo em suas carreiras.**Responsabilidades:**- Desenvolver, testar e manter APIs e serviços backend utilizando **Java**.- Implementar soluções seguindo padrões de design (Design Patterns) e boas práticas de desenvolvimento.- Trabalhar com bancos de dados relacionais e/ou NoSQL, garantindo a integridade e otimização das operações.- Desenvolver scripts e automações usando linguagens como **Ruby** e **Python**.- Colaborar com equipes frontend para integração eficiente dos sistemas.- Assegurar a qualidade do código utilizando práticas como **TDD** (Test-Driven Development).- Revisão de código e participação em discussões técnicas sobre melhorias e otimização de performance.- Manter documentação técnica atualizada e colaborar na definição de arquiteturas de sistemas.**Requisitos:**- Experiência prática com **Java**.- Conhecimento sólido de **design patterns** e arquitetura de software.- Experiência com **bancos de dados** (relacionais e/ou NoSQL).- Familiaridade com **Ruby** ou **Python** para desenvolvimento de scripts e automações.- Familiaridade com boas práticas de desenvolvimento, como **clean code**, **SOLID** e testes automatizados.- Noções básicas de **HTML** e **CSS** para interações mínimas com o frontend.- Conhecimento de ferramentas de versionamento de código, como **Git**.- Capacidade de trabalhar em equipe e colaborar com outras áreas da empresa.**Diferenciais:**- Conhecimento em **Liferay**.- Experiência com **Next.js**.- Experiência com integração contínua (CI/CD).- Familiaridade com metodologias ágeis (Scrum, Kanban).**Benefícios:**- Salário compatível com o mercado, com oportunidades de crescimento.- Ambiente de trabalho dinâmico, colaborativo e inclusivo.- Oportunidades de desenvolvimento profissional contínuo.- Política de Metas;- Bônus dos Destaques do Ano;- Day-off no Aniversário;- Bônus de indicação de colaborador;- Mimos de 1º ano de empresa e aniversário do colaborador.**Como se Candidatar:**Envie seu currículo e uma breve apresentação para **rh@seatecnologia.com.br**, explicando por que você é o candidato ideal para a vaga de Desenvolvedor Backend Sênior.
+Sobre a Sea Tecnologia:
+Sobre a Sea Tecnologia:
+A Sea Tecnologia é uma empresa de referência em soluções tecnológicas inovadoras, especializada no desenvolvimento de portais corporativos e aplicações de alta qualidade. Estamos à procura de Desenvolvedores Backend apaixonados por tecnologia e boas práticas, com experiência em Node.js e Next.js, bem como no desenvolvimento de aplicações complexas e altamente escaláveis. Valorizamos profissionais que buscam crescimento e aprimoramento contínuo em suas carreiras.
+A Sea Tecnologia é uma empresa de referência em soluções tecnológicas inovadoras, especializada no desenvolvimento de portais corporativos e aplicações de alta qualidade. Estamos à procura de Desenvolvedores Backend apaixonados por tecnologia e boas práticas, com experiência em Node.js e Next.js, bem como no desenvolvimento de aplicações complexas e altamente escaláveis. Valorizamos profissionais que buscam crescimento e aprimoramento contínuo em suas carreiras.
+
+
+
+**Responsabilidades:**
+**Responsabilidades:**
+- Desenvolver, testar e manter APIs e serviços backend utilizando **Java**.
+- Desenvolver, testar e manter APIs e serviços backend utilizando **Java**.
+- Implementar soluções seguindo padrões de design (Design Patterns) e boas práticas de desenvolvimento.
+- Implementar soluções seguindo padrões de design (Design Patterns) e boas práticas de desenvolvimento.
+- Trabalhar com bancos de dados relacionais e/ou NoSQL, garantindo a integridade e otimização das operações.
+- Trabalhar com bancos de dados relacionais e/ou NoSQL, garantindo a integridade e otimização das operações.
+- Desenvolver scripts e automações usando linguagens como **Ruby** e **Python**.
+- Desenvolver scripts e automações usando linguagens como **Ruby** e **Python**.
+- Colaborar com equipes frontend para integração eficiente dos sistemas.
+- Colaborar com equipes frontend para integração eficiente dos sistemas.
+- Assegurar a qualidade do código utilizando práticas como **TDD** (Test-Driven Development).
+- Assegurar a qualidade do código utilizando práticas como **TDD** (Test-Driven Development).
+- Revisão de código e participação em discussões técnicas sobre melhorias e otimização de performance.
+- Revisão de código e participação em discussões técnicas sobre melhorias e otimização de performance.
+- Manter documentação técnica atualizada e colaborar na definição de arquiteturas de sistemas.
+- Manter documentação técnica atualizada e colaborar na definição de arquiteturas de sistemas.
+
+
+
+**Requisitos:**
+**Requisitos:**
+- Experiência prática com **Java**.
+- Experiência prática com **Java**.
+- Conhecimento sólido de **design patterns** e arquitetura de software.
+- Conhecimento sólido de **design patterns** e arquitetura de software.
+- Experiência com **bancos de dados** (relacionais e/ou NoSQL).
+- Experiência com **bancos de dados** (relacionais e/ou NoSQL).
+- Familiaridade com **Ruby** ou **Python** para desenvolvimento de scripts e automações.
+- Familiaridade com **Ruby** ou **Python** para desenvolvimento de scripts e automações.
+- Familiaridade com boas práticas de desenvolvimento, como **clean code**, **SOLID** e testes automatizados.
+- Familiaridade com boas práticas de desenvolvimento, como **clean code**, **SOLID** e testes automatizados.
+- Noções básicas de **HTML** e **CSS** para interações mínimas com o frontend.
+- Noções básicas de **HTML** e **CSS** para interações mínimas com o frontend.
+- Conhecimento de ferramentas de versionamento de código, como **Git**.
+- Conhecimento de ferramentas de versionamento de código, como **Git**.
+- Capacidade de trabalhar em equipe e colaborar com outras áreas da empresa.
+- Capacidade de trabalhar em equipe e colaborar com outras áreas da empresa.
+
+
+
+**Diferenciais:**
+**Diferenciais:**
+- Conhecimento em **Liferay**.
+- Conhecimento em **Liferay**.
+- Experiência com **Next.js**.
+- Experiência com **Next.js**.
+- Experiência com integração contínua (CI/CD).
+- Experiência com integração contínua (CI/CD).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+
+
+
+**Benefícios:**
+**Benefícios:**
+
+
+
+- Salário compatível com o mercado, com oportunidades de crescimento.
+- Salário compatível com o mercado, com oportunidades de crescimento.
+- Ambiente de trabalho dinâmico, colaborativo e inclusivo.
+- Ambiente de trabalho dinâmico, colaborativo e inclusivo.
+- Oportunidades de desenvolvimento profissional contínuo.
+- Oportunidades de desenvolvimento profissional contínuo.
+- Política de Metas;
+- Política de Metas;
+- Bônus dos Destaques do Ano;
+- Bônus dos Destaques do Ano;
+- Day-off no Aniversário;
+- Day-off no Aniversário;
+- Bônus de indicação de colaborador;
+- Bônus de indicação de colaborador;
+- Mimos de 1º ano de empresa e aniversário do colaborador.
+- Mimos de 1º ano de empresa e aniversário do colaborador.
+
+
+
+**Como se Candidatar:**
+**Como se Candidatar:**
+Envie seu currículo e uma breve apresentação para **rh@seatecnologia.com.br**, explicando por que você é o candidato ideal para a vaga de Desenvolvedor Backend Sênior.
+Envie seu currículo e uma breve apresentação para **rh@seatecnologia.com.br**, explicando por que você é o candidato ideal para a vaga de Desenvolvedor Backend Sênior.

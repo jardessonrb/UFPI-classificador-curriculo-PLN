@@ -1,0 +1,142 @@
+link-https://www.linkedin.com/jobs/view/4058682483/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=6nuIs20mdngiScJDKnnorQ%3D%3D&trackingId=g4Sr9u7XtStN4dtBB9LXoQ%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Automation Engineer
+Sobre a vaga
+Do you want to work on cutting-edge projects with the world’s best IT engineers? Do you wish you could control which projects to work on and choose your own pay rate? Are you interested in the future of work and how the cloud will form teams? If so - the Gigster Talent Network is for you.Our clients rely on our Network for two main areas, Software Development and Cloud Services. In some cases, they need help building great new products, in others they want our expertise in migrating, maintaining, and optimizing their cloud solutions.At Gigster, whether working with entrepreneurs to realize ‘the next great vision’ or with Fortune 500 companies to deliver a big product launch, we build really cool enterprise software on cutting-edge technology.The RoleOur client is a US-based technology company that is focused on driving the next generation of vehicle and mobile technology, and we are looking for a results-oriented, passionate, and dynamicSenior QA Automation Contractorto join their rapidly growing engineering team. This is a fully remote position.Key OutcomesDevelop and Maintain automation framework(s) and scripts across multiple projects.Write and Execute test cases and test plans using test management tools.Ensure using QA best practices by writing test plans according to the guidelines, filing the bug reports using accurate information, reproduction steps, and related documentation and(or) screen recordings.Write automation scripts according to the coding guidelines and conventions.Collaborate with cross-functional team members to understand the requirements, communicate QA status, and help with production defects repro steps.Ensure QA test cases map to the functional requirements and create the RTM matrix.Provides work estimates during sprint planning and stand-ups.Skills, Education, and ExperienceB.S degree or equivalent in Computer Science or related field.Candidate should have at least 5-7 years of related experience.Experience with any of the following languages - Ruby (preferred), JavaScript, or other common languages (Java, Python, etc.).Experience with Cucumber framework and Selenium is required and Capybara is preferred.Experience testing Web and Mobile applications.Experience creating and maintaining automation scripts for web app testing.Experience testing APIs (GraphQL preferred), and knowledge of related tools such as Postman, and JMeter.Experience with one or more test management tools such as Zephyr, and TestRail.Experience with mobile automation, load, and performance testing is a big plus.Preferred SkillsSome knowledge/experience of rspec and cypress/jest is a plus.Knowledge of the “shift left” paradigm is a big plus.Our Recruitment ProcessRecruiter interview (30 min).Tech interview (30 min).Three interviews with the client (30, 30, and 90 min, respectively).We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.What We OfferTotally remote, full-time (40 hours/week).Monday to Friday, flexible work hours (but around Eastern Standard Time office hours).Contractor agreement.Payment in USD, biweekly, or monthly - your choice.
+Do you want to work on cutting-edge projects with the world’s best IT engineers? Do you wish you could control which projects to work on and choose your own pay rate? Are you interested in the future of work and how the cloud will form teams? If so - the Gigster Talent Network is for you.
+Do you want to work on cutting-edge projects with the world’s best IT engineers? Do you wish you could control which projects to work on and choose your own pay rate? Are you interested in the future of work and how the cloud will form teams? If so - the Gigster Talent Network is for you.
+
+
+
+Our clients rely on our Network for two main areas, Software Development and Cloud Services. In some cases, they need help building great new products, in others they want our expertise in migrating, maintaining, and optimizing their cloud solutions.
+Our clients rely on our Network for two main areas, Software Development and Cloud Services. In some cases, they need help building great new products, in others they want our expertise in migrating, maintaining, and optimizing their cloud solutions.
+
+
+
+At Gigster, whether working with entrepreneurs to realize ‘the next great vision’ or with Fortune 500 companies to deliver a big product launch, we build really cool enterprise software on cutting-edge technology.
+At Gigster, whether working with entrepreneurs to realize ‘the next great vision’ or with Fortune 500 companies to deliver a big product launch, we build really cool enterprise software on cutting-edge technology.
+
+
+
+
+
+
+The Role
+The Role
+The Role
+
+
+
+Our client is a US-based technology company that is focused on driving the next generation of vehicle and mobile technology, and we are looking for a results-oriented, passionate, and dynamicSenior QA Automation Contractorto join their rapidly growing engineering team. This is a fully remote position.
+Our client is a US-based technology company that is focused on driving the next generation of vehicle and mobile technology, and we are looking for a results-oriented, passionate, and dynamicSenior QA Automation Contractorto join their rapidly growing engineering team. This is a fully remote position.
+
+Senior QA Automation Contractor
+
+
+
+
+
+
+
+Key Outcomes
+Key Outcomes
+Key Outcomes
+
+
+
+Develop and Maintain automation framework(s) and scripts across multiple projects.Write and Execute test cases and test plans using test management tools.Ensure using QA best practices by writing test plans according to the guidelines, filing the bug reports using accurate information, reproduction steps, and related documentation and(or) screen recordings.Write automation scripts according to the coding guidelines and conventions.Collaborate with cross-functional team members to understand the requirements, communicate QA status, and help with production defects repro steps.Ensure QA test cases map to the functional requirements and create the RTM matrix.Provides work estimates during sprint planning and stand-ups.
+Develop and Maintain automation framework(s) and scripts across multiple projects.
+Develop and Maintain automation framework(s) and scripts across multiple projects.
+Write and Execute test cases and test plans using test management tools.
+Write and Execute test cases and test plans using test management tools.
+Ensure using QA best practices by writing test plans according to the guidelines, filing the bug reports using accurate information, reproduction steps, and related documentation and(or) screen recordings.
+Ensure using QA best practices by writing test plans according to the guidelines, filing the bug reports using accurate information, reproduction steps, and related documentation and(or) screen recordings.
+Write automation scripts according to the coding guidelines and conventions.
+Write automation scripts according to the coding guidelines and conventions.
+Collaborate with cross-functional team members to understand the requirements, communicate QA status, and help with production defects repro steps.
+Collaborate with cross-functional team members to understand the requirements, communicate QA status, and help with production defects repro steps.
+Ensure QA test cases map to the functional requirements and create the RTM matrix.
+Ensure QA test cases map to the functional requirements and create the RTM matrix.
+Provides work estimates during sprint planning and stand-ups.
+Provides work estimates during sprint planning and stand-ups.
+
+
+
+Skills, Education, and Experience
+Skills, Education, and Experience
+Skills, Education, and Experience
+
+
+
+B.S degree or equivalent in Computer Science or related field.Candidate should have at least 5-7 years of related experience.Experience with any of the following languages - Ruby (preferred), JavaScript, or other common languages (Java, Python, etc.).Experience with Cucumber framework and Selenium is required and Capybara is preferred.Experience testing Web and Mobile applications.Experience creating and maintaining automation scripts for web app testing.Experience testing APIs (GraphQL preferred), and knowledge of related tools such as Postman, and JMeter.Experience with one or more test management tools such as Zephyr, and TestRail.Experience with mobile automation, load, and performance testing is a big plus.
+B.S degree or equivalent in Computer Science or related field.
+B.S degree or equivalent in Computer Science or related field.
+Candidate should have at least 5-7 years of related experience.
+Candidate should have at least 5-7 years of related experience.
+Experience with any of the following languages - Ruby (preferred), JavaScript, or other common languages (Java, Python, etc.).
+Experience with any of the following languages - Ruby (preferred), JavaScript, or other common languages (Java, Python, etc.).
+Experience with Cucumber framework and Selenium is required and Capybara is preferred.
+Experience with Cucumber framework and Selenium is required and Capybara is preferred.
+Experience testing Web and Mobile applications.
+Experience testing Web and Mobile applications.
+Experience creating and maintaining automation scripts for web app testing.
+Experience creating and maintaining automation scripts for web app testing.
+Experience testing APIs (GraphQL preferred), and knowledge of related tools such as Postman, and JMeter.
+Experience testing APIs (GraphQL preferred), and knowledge of related tools such as Postman, and JMeter.
+Experience with one or more test management tools such as Zephyr, and TestRail.
+Experience with one or more test management tools such as Zephyr, and TestRail.
+Experience with mobile automation, load, and performance testing is a big plus.
+Experience with mobile automation, load, and performance testing is a big plus.
+
+
+
+Preferred Skills
+Preferred Skills
+Preferred Skills
+
+
+
+Some knowledge/experience of rspec and cypress/jest is a plus.Knowledge of the “shift left” paradigm is a big plus.
+Some knowledge/experience of rspec and cypress/jest is a plus.
+Some knowledge/experience of rspec and cypress/jest is a plus.
+Knowledge of the “shift left” paradigm is a big plus.
+Knowledge of the “shift left” paradigm is a big plus.
+
+
+
+Our Recruitment Process
+Our Recruitment Process
+Our Recruitment Process
+
+
+
+Recruiter interview (30 min).Tech interview (30 min).Three interviews with the client (30, 30, and 90 min, respectively).
+Recruiter interview (30 min).
+Recruiter interview (30 min).
+Tech interview (30 min).
+Tech interview (30 min).
+Three interviews with the client (30, 30, and 90 min, respectively).
+Three interviews with the client (30, 30, and 90 min, respectively).
+
+
+
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+We strive to move efficiently from step to step so that the recruitment process can be as fast as possible.
+
+
+
+What We Offer
+What We Offer
+What We Offer
+
+
+
+Totally remote, full-time (40 hours/week).Monday to Friday, flexible work hours (but around Eastern Standard Time office hours).Contractor agreement.Payment in USD, biweekly, or monthly - your choice.
+Totally remote, full-time (40 hours/week).
+Totally remote, full-time (40 hours/week).
+Monday to Friday, flexible work hours (but around Eastern Standard Time office hours).
+Monday to Friday, flexible work hours (but around Eastern Standard Time office hours).
+Contractor agreement.
+Contractor agreement.
+Payment in USD, biweekly, or monthly - your choice.
+Payment in USD, biweekly, or monthly - your choice.

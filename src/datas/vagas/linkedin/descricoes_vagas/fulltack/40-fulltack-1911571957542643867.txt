@@ -1,0 +1,61 @@
+link-https://www.linkedin.com/jobs/view/4042259258/?eBP=CwEAAAGS7hCcPhjJN0eEmfqNiOQU8hprZ0Dp5nvG0ZNe7I0UkLCzb-LQ7NU9Ykf9Krp4P8PkeVnOrYztxHafV1lJQ4rze6d_X7gbe43L1oxr--V8DBk9vqNG_udF_VhCf_Alh3UpAur-w8ienNR4pidWRyaNT85nDQgtf2hQ1790JzULEMkq_d5XuUIg-0L-Fm_LXIM8AAwP-1GFo9Tl1KLmN08xL9LXM61XGexpxufspfYRkoHJPIgMqMmDEKC1nTOWo_ItGTpS5XZMYFAywe9FMDK8jR5Hj_wmx744PnokjUoiFWxEu0q-BKiqfF7d2Ju9qX8-XacLiDDulr8o--l-Sby3EvJUeE71rcsYfz9EjhuIacsSE5I5Ccf6iSmscoUjAoQZ69O-yGcVZ9TLFNF8Vpt6piHLLN4werAO5cnDsE1jP3O9FULSs8imOlqVIDDC3-bzGq8dtf9M1UqxtDXcjYk2GqiWEiyZxv5JpKeopOtJW4majumbPWni77pBRFm30UckGeQ&refId=rzPhVfZTcMOLs0QSR2drFQ%3D%3D&trackingId=zHjED1317KvKaHr3%2BWBeLg%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev FullStack
+Sobre a vaga
+💼 Empresa: BossaBoxA BossaBox é uma empresa líder no mercado de tecnologia, especializada em conectar profissionais talentosos com grandes projetos em empresas renomadas. Estamos em busca de uma pessoa Dev. FullStack Senior (Ruby e Vue) apaixonada e experiente para integrar nosso time de Prolancers (freelancers profissionais)! Informações da Vaga:💰 Remuneração mensal: R$ 15.000,00 (PJ)Dedicação: full time (aprox. 8h/dia);Local: 100% remoto (home-office);Projeto de impacto na área da saúde. O desafio envolve a migração de um sistema legado, de monolito para microsserviços, utilizando estratégia de estrangulamento. Esta posição é para Dev FullStack, para atuação full time.📍 Requisitos:Disponibilidade full time (aprox. 8h/dia);5+ anos de experiência com o desenvolvimento de produtos digitais;Experiência com Ruby e PostgreSQL (4+ anos);Experiência em Redis, Vue.js ou React e Typescript (4+ anos);Experiência com arquiteturas de microsserviços;Familiaridade com técnicas de integração contínua e entrega contínua (CI/CD);Experiência em estratégias de migração de software, especialmente com Strangler Fig pattern via CDC;Domínio de Google Cloud Plataform;Experiência com processos de ETL.🚀 Vantagens de ser um Prolancer:Gestão Facilitada: Esqueça as burocracias de freelancer! Nós lidamos com toda a parte administrativa para que você foque no que mais importa: o trabalho;Segurança Financeira: Remuneração justa e acima do mercado, com pagamento garantido pela BossaBox;Equipe Senior: Faça parte de um squad de Prolancers seniores talentosos e engajados;Projetos de Impacto: Trabalhe em grandes projetos para empresas renomadas, agregando valor ao seu currículo;Crescimento Profissional: Desenvolva habilidades técnicas e interpessoais, com gestão de relacionamento com clientes.
+💼 Empresa: BossaBox
+💼 Empresa: BossaBox
+A BossaBox é uma empresa líder no mercado de tecnologia, especializada em conectar profissionais talentosos com grandes projetos em empresas renomadas. Estamos em busca de uma pessoa Dev. FullStack Senior (Ruby e Vue) apaixonada e experiente para integrar nosso time de Prolancers (freelancers profissionais)! Informações da Vaga:
+A BossaBox é uma empresa líder no mercado de tecnologia, especializada em conectar profissionais talentosos com grandes projetos em empresas renomadas. Estamos em busca de uma pessoa Dev. FullStack Senior (Ruby e Vue) apaixonada e experiente para integrar nosso time de Prolancers (freelancers profissionais)! Informações da Vaga:
+
+
+
+💰 Remuneração mensal: R$ 15.000,00 (PJ)
+💰 Remuneração mensal: R$ 15.000,00 (PJ)
+Dedicação: full time (aprox. 8h/dia);Local: 100% remoto (home-office);Projeto de impacto na área da saúde. O desafio envolve a migração de um sistema legado, de monolito para microsserviços, utilizando estratégia de estrangulamento. Esta posição é para Dev FullStack, para atuação full time.
+Dedicação: full time (aprox. 8h/dia);
+Dedicação: full time (aprox. 8h/dia);
+Local: 100% remoto (home-office);
+Local: 100% remoto (home-office);
+Projeto de impacto na área da saúde. O desafio envolve a migração de um sistema legado, de monolito para microsserviços, utilizando estratégia de estrangulamento. Esta posição é para Dev FullStack, para atuação full time.
+Projeto de impacto na área da saúde. O desafio envolve a migração de um sistema legado, de monolito para microsserviços, utilizando estratégia de estrangulamento. Esta posição é para Dev FullStack, para atuação full time.
+
+
+
+📍 Requisitos:
+📍 Requisitos:
+Disponibilidade full time (aprox. 8h/dia);5+ anos de experiência com o desenvolvimento de produtos digitais;Experiência com Ruby e PostgreSQL (4+ anos);Experiência em Redis, Vue.js ou React e Typescript (4+ anos);Experiência com arquiteturas de microsserviços;Familiaridade com técnicas de integração contínua e entrega contínua (CI/CD);Experiência em estratégias de migração de software, especialmente com Strangler Fig pattern via CDC;Domínio de Google Cloud Plataform;Experiência com processos de ETL.
+Disponibilidade full time (aprox. 8h/dia);
+Disponibilidade full time (aprox. 8h/dia);
+5+ anos de experiência com o desenvolvimento de produtos digitais;
+5+ anos de experiência com o desenvolvimento de produtos digitais;
+Experiência com Ruby e PostgreSQL (4+ anos);
+Experiência com Ruby e PostgreSQL (4+ anos);
+Experiência em Redis, Vue.js ou React e Typescript (4+ anos);
+Experiência em Redis, Vue.js ou React e Typescript (4+ anos);
+Experiência com arquiteturas de microsserviços;
+Experiência com arquiteturas de microsserviços;
+Familiaridade com técnicas de integração contínua e entrega contínua (CI/CD);
+Familiaridade com técnicas de integração contínua e entrega contínua (CI/CD);
+Experiência em estratégias de migração de software, especialmente com Strangler Fig pattern via CDC;
+Experiência em estratégias de migração de software, especialmente com Strangler Fig pattern via CDC;
+Domínio de Google Cloud Plataform;
+Domínio de Google Cloud Plataform;
+Experiência com processos de ETL.
+Experiência com processos de ETL.
+
+
+
+🚀 Vantagens de ser um Prolancer:
+🚀 Vantagens de ser um Prolancer:
+Gestão Facilitada: Esqueça as burocracias de freelancer! Nós lidamos com toda a parte administrativa para que você foque no que mais importa: o trabalho;Segurança Financeira: Remuneração justa e acima do mercado, com pagamento garantido pela BossaBox;Equipe Senior: Faça parte de um squad de Prolancers seniores talentosos e engajados;Projetos de Impacto: Trabalhe em grandes projetos para empresas renomadas, agregando valor ao seu currículo;Crescimento Profissional: Desenvolva habilidades técnicas e interpessoais, com gestão de relacionamento com clientes.
+Gestão Facilitada: Esqueça as burocracias de freelancer! Nós lidamos com toda a parte administrativa para que você foque no que mais importa: o trabalho;
+Gestão Facilitada: Esqueça as burocracias de freelancer! Nós lidamos com toda a parte administrativa para que você foque no que mais importa: o trabalho;
+Segurança Financeira: Remuneração justa e acima do mercado, com pagamento garantido pela BossaBox;
+Segurança Financeira: Remuneração justa e acima do mercado, com pagamento garantido pela BossaBox;
+Equipe Senior: Faça parte de um squad de Prolancers seniores talentosos e engajados;
+Equipe Senior: Faça parte de um squad de Prolancers seniores talentosos e engajados;
+Projetos de Impacto: Trabalhe em grandes projetos para empresas renomadas, agregando valor ao seu currículo;
+Projetos de Impacto: Trabalhe em grandes projetos para empresas renomadas, agregando valor ao seu currículo;
+Crescimento Profissional: Desenvolva habilidades técnicas e interpessoais, com gestão de relacionamento com clientes.
+Crescimento Profissional: Desenvolva habilidades técnicas e interpessoais, com gestão de relacionamento com clientes.

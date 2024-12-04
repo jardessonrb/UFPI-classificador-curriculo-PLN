@@ -1,0 +1,110 @@
+link-https://www.linkedin.com/jobs/view/4046218198/?eBP=CwEAAAGS7lMjygKKIc761txw2h83x9cyUfAq8bBL9x6qvYBVbd0_FsfUjsgmdSlXYEolWCYH-c_1XeEERRROR8AysmNJKtjasuwh8XMX5stiFaCyh7tTROHy8Ms0cEhPpDT9l02owXcYUqIASak5_RYQBV_-xik4cmql5w5_-pdTtfkeRH79m6zDx7nrcBU2wNm7_VyIC2rtr4RQDYAxNwU7P8wtHVaK8w--roGpt7ciX_Xz5xlwzi0IMERNtC_t59YVI1iM7BABc3kwye1m8TCiW7wqNwCHdMK_s2GR-TjrGP4qL7OP-BtrE3ajOQyPwS9iSaFBfCvuCyzjrfB8fNVTlZNwXzYAvfobkTD-blVPFMf9NRUzEiSJtOL4EKBcSwLTuN4LSo92oTDlyxHuJZpRCaZuU2m-RjOa1M6CCpGFyvslYhD23Vw7fqLPy7C4EdoqzczQZPsKTjWQ4jXOYe_9xRyLy1_1T2XA1Woq8jw4ebcEU_TRQyHUX-2E9WIvGAe1&refId=OQu53QYd3G51YfBB8Smbnw%3D%3D&trackingId=iIqKOdgHqeFnIAEJxOu5zg%3D%3D&trk=flagship3_search_srp_jobs
+
+Backend Software Specialist
+Sobre a vaga
+About DigibeeDigibee is an iPaaS that scales integration workflows while reducing cost and technical debt. Rather than require specialized integration experts, Digibee lets every developer quickly build, test, deploy, govern, and monitor integrations across on-premise and cloud environments using a simple but powerful low-code interface.Founded in São Paulo, Brazil, in 2017 and headquartered in Weston, Florida, our team is widely distributed throughout the Americas. In May of 2023, Digibee closed a Series B funding round of $60 million that is intended to drive our expansion in the United States.About the roleDigibee is looking for our next Backend Software Specialist.On a typical day, you will…Conduct discussions about architectural solutions and what would be the best methods to solve a given problem;Carry out driving new features from beginning to end, architecture definitions, product development adding new capabilities;Perform peer code reviews, contributing to the quality of the code we deliver;Interact with the team in Brazil and the USA to help with technical questions, understanding the components of the Digibee platform and analyzing customer scenarios.What you'll need to bringFor 7 years of experience in software development using Java;Experience using Camel, Spring or Quarkus;Experience in developing solutions based on Open Container, Kubernetes and Cloud Computing;Experience implementing observability mechanisms (metrics, tracing, logging);Experience in developing distributed solutions using micro services, messaging and streaming;Unit Testing (Cucumber: BDD Testing);Experience in agile models (Scrum/Kanban);Experience in developing solutions using NoSQL databases (MongoDB and ElasticSearch) and Relational Databases (MySQL, PostgreSQL and/or Oracle);Experience with Git version control;Nice to HaveKnowledge in Kotlin, Scala and Go programming languages;Knowledge in Functional programming;Continuous Integration and Continuous Deployment;Knowledge in Static Analysis and Dynamic Analysis of code.Our perks and benefitsWe're remote first, with a flexible working scheduleHealth CareDental CareR$ 1.200,00/month on Caju card (for food and meal allowance, mobility, home office supplies, culture, health, and education)Life insuranceChild care assistanceGympassMacBook setup to workEnglish course: we have a partnership for group classes for R$100 monthlyGlobal Equity Program (RSU's)LocationBrazil / Remote
+About Digibee
+
+
+
+
+
+
+About the role
+
+
+
+
+On a typical day, you will…
+
+
+Conduct discussions about architectural solutions and what would be the best methods to solve a given problem;Carry out driving new features from beginning to end, architecture definitions, product development adding new capabilities;Perform peer code reviews, contributing to the quality of the code we deliver;Interact with the team in Brazil and the USA to help with technical questions, understanding the components of the Digibee platform and analyzing customer scenarios.
+Conduct discussions about architectural solutions and what would be the best methods to solve a given problem;
+Conduct discussions about architectural solutions and what would be the best methods to solve a given problem;
+Carry out driving new features from beginning to end, architecture definitions, product development adding new capabilities;
+Carry out driving new features from beginning to end, architecture definitions, product development adding new capabilities;
+
+Perform peer code reviews, contributing to the quality of the code we deliver;
+Perform peer code reviews, contributing to the quality of the code we deliver;
+
+Interact with the team in Brazil and the USA to help with technical questions, understanding the components of the Digibee platform and analyzing customer scenarios.
+Interact with the team in Brazil and the USA to help with technical questions, understanding the components of the Digibee platform and analyzing customer scenarios.
+
+
+
+What you'll need to bring
+
+
+For 7 years of experience in software development using Java;Experience using Camel, Spring or Quarkus;Experience in developing solutions based on Open Container, Kubernetes and Cloud Computing;Experience implementing observability mechanisms (metrics, tracing, logging);Experience in developing distributed solutions using micro services, messaging and streaming;Unit Testing (Cucumber: BDD Testing);Experience in agile models (Scrum/Kanban);Experience in developing solutions using NoSQL databases (MongoDB and ElasticSearch) and Relational Databases (MySQL, PostgreSQL and/or Oracle);Experience with Git version control;
+For 7 years of experience in software development using Java;
+For 7 years of experience in software development using Java;
+
+Experience using Camel, Spring or Quarkus;
+Experience using Camel, Spring or Quarkus;
+Experience in developing solutions based on Open Container, Kubernetes and Cloud Computing;
+Experience in developing solutions based on Open Container, Kubernetes and Cloud Computing;
+
+Experience implementing observability mechanisms (metrics, tracing, logging);
+Experience implementing observability mechanisms (metrics, tracing, logging);
+
+Experience in developing distributed solutions using micro services, messaging and streaming;
+Experience in developing distributed solutions using micro services, messaging and streaming;
+
+Unit Testing (Cucumber: BDD Testing);
+Unit Testing (Cucumber: BDD Testing);
+Experience in agile models (Scrum/Kanban);
+Experience in agile models (Scrum/Kanban);
+
+Experience in developing solutions using NoSQL databases (MongoDB and ElasticSearch) and Relational Databases (MySQL, PostgreSQL and/or Oracle);
+Experience in developing solutions using NoSQL databases (MongoDB and ElasticSearch) and Relational Databases (MySQL, PostgreSQL and/or Oracle);
+Experience with Git version control;
+Experience with Git version control;
+
+
+
+Nice to Have
+
+
+Knowledge in Kotlin, Scala and Go programming languages;Knowledge in Functional programming;Continuous Integration and Continuous Deployment;Knowledge in Static Analysis and Dynamic Analysis of code.
+Knowledge in Kotlin, Scala and Go programming languages;
+Knowledge in Kotlin, Scala and Go programming languages;
+Knowledge in Functional programming;
+Knowledge in Functional programming;
+Continuous Integration and Continuous Deployment;
+Continuous Integration and Continuous Deployment;
+Knowledge in Static Analysis and Dynamic Analysis of code.
+Knowledge in Static Analysis and Dynamic Analysis of code.
+
+
+Our perks and benefits
+
+
+We're remote first, with a flexible working scheduleHealth CareDental CareR$ 1.200,00/month on Caju card (for food and meal allowance, mobility, home office supplies, culture, health, and education)Life insuranceChild care assistanceGympassMacBook setup to workEnglish course: we have a partnership for group classes for R$100 monthlyGlobal Equity Program (RSU's)
+We're remote first, with a flexible working schedule
+We're remote first, with a flexible working schedule
+Health Care
+Health Care
+
+Dental Care
+Dental Care
+R$ 1.200,00/month on Caju card (for food and meal allowance, mobility, home office supplies, culture, health, and education)
+R$ 1.200,00/month on Caju card (for food and meal allowance, mobility, home office supplies, culture, health, and education)
+Life insurance
+Life insurance
+Child care assistance
+Child care assistance
+Gympass
+Gympass
+
+MacBook setup to work
+MacBook setup to work
+
+English course: we have a partnership for group classes for R$100 monthly
+English course: we have a partnership for group classes for R$100 monthly
+Global Equity Program (RSU's)
+Global Equity Program (RSU's)
+
+
+Location
+
+

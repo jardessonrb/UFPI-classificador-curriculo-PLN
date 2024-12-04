@@ -1,0 +1,103 @@
+link-https://www.linkedin.com/jobs/view/4052030766/?eBP=CwEAAAGS7lO-eL9XpSJJq9LbekH-AzLTXr3L-K9zl5CExwhW3Wux9LvgIl3m4VHhiuYLJPozRpRODg_utp6m102lZ3TQNP8kaUOflA7lm3mSR4e1ndIUsnW3neo5IqG4E4axaVaDyUXoIguTFQAZiBfXGKrelkqRqi8HmLQXV91944Uuki0f59E_0ATp6XLoN2eJ-b-QEpkuuScM1d_k38AsQYrSG57Lt3b19SduXAf6qEXhhN1aypZDGTVHi_BjbBBj43Uja-OemnCrtB3BJ6un7FPPRPIGjcgAysbvUPU46B6Gxi2sDlIcojrYYDEPQjhnmDpFuV405VnBV2Uim8eggRwiFcNxOvMX89Sp4_r4xiyXmHHKpVExBvOw-2ITA256N7iakc8GxaSGkkx2uEbksUpwg7ZwHMK7sXBIPY1qJtNAAuc12LGd9nWvIeC_YW__cw3GabtoSJFKPL8814mg17ykfX6i6tMbWTGXUKEVFYZeYsEASksSb3qyG0S4fg&refId=gOLyzg02egHiqpqO0MnwNQ%3D%3D&trackingId=TBdyfGj7OHjUMxSHSMQZOg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer
+Sobre a vaga
+Join Wordly's fast growing global team!DescriptionAs asenior backend engineerat Wordly, you will use your expertise to architect and/or implement various software solutions across Wordly’s technology stack. Not only will you help maintain existing software, but you will also have an active role in developing new features that will be actively used by Wordly’s end-users to fulfill their real-time translation needs.In this role, you may sometimes work as an individual contributor. However, more often, you will lead a small engineering team in delivering a software solution that meets a given set of requirements. In either case, you will be responsible for planning the technical work that needs to be done to accomplish your objectives and being hands-on in executing your plan.Finally, as a senior engineer, your experience is immensely valuable to Wordly. You will have a significant voice in guiding Wordly’s engineering processes to ensure that the company continues to produce high quality software for our users.Minimum Qualifications4+ years of hands-on experience in architecting, implementing, and delivering software engineering solutions from set product requirements.2+ years of experience in leading software development work in some capacity.Experience working with dependency injection frameworks such as Micronaut, Spring Boot, etc.Experience using the Git version control system.A deep understanding of the Java and/or Kotlin programming languages.Comfortable working with a fully remote team.Self-motivated and able to work independently with minimal supervision.Desired QualificationsIn addition to the minimum qualifications, the ideal candidate meets some or all of the following desired qualifications.Familiarity with microservice architectures.Experience with distributed messaging brokers and/or event streaming platforms such as RabbitMQ, ZeroMQ, Kafka, etc.Experience with distributed NoSQL databases such as Mongo, Cassandra, etc.Experience with distributed caches such as Redis, Valkey, etc.Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.Manipulating real-time audio streams.Developing Node.js applications.B.S. degree in Computer Science or equivalent from an accredited institution.ResponsibilitiesBe hands-on in architecting and implementing software solutions from a given set of requirements either as an individual contributor or as a technical lead.Create technical work plans and execute on those plans to meet individual business objectives.Assist in maintaining existing backend services.Located in Los Altos, California, Wordly is an exciting tech startup that is looking to grow its engineering and GTM teams! From virtual meetings to large, in-person conference venues, Wordly strives to provide high quality, real-time translation services in 50+ languages to anyone, anywhere.Wordly caters to numerous customers around the world which include local organizations and businesses; government entities; Fortune 500 companies; and much, much more. While this is a fully remote position, office space in Los Altos, California is available for San Francisco Bay Area residents that wish to utilize it.Compensation Range: $135K - $155K
+Join Wordly's fast growing global team!
+
+
+
+Description
+
+
+
+senior backend engineer
+
+
+
+
+
+
+
+Minimum Qualifications
+
+
+4+ years of hands-on experience in architecting, implementing, and delivering software engineering solutions from set product requirements.2+ years of experience in leading software development work in some capacity.Experience working with dependency injection frameworks such as Micronaut, Spring Boot, etc.Experience using the Git version control system.A deep understanding of the Java and/or Kotlin programming languages.Comfortable working with a fully remote team.Self-motivated and able to work independently with minimal supervision.
+4+ years of hands-on experience in architecting, implementing, and delivering software engineering solutions from set product requirements.
+4+ years of hands-on experience in architecting, implementing, and delivering software engineering solutions from set product requirements.
+
+2+ years of experience in leading software development work in some capacity.
+2+ years of experience in leading software development work in some capacity.
+
+Experience working with dependency injection frameworks such as Micronaut, Spring Boot, etc.
+Experience working with dependency injection frameworks such as Micronaut, Spring Boot, etc.
+
+Experience using the Git version control system.
+Experience using the Git version control system.
+
+A deep understanding of the Java and/or Kotlin programming languages.
+A deep understanding of the Java and/or Kotlin programming languages.
+
+Comfortable working with a fully remote team.
+Comfortable working with a fully remote team.
+
+Self-motivated and able to work independently with minimal supervision.
+Self-motivated and able to work independently with minimal supervision.
+
+
+
+Desired Qualifications
+
+
+
+
+Familiarity with microservice architectures.Experience with distributed messaging brokers and/or event streaming platforms such as RabbitMQ, ZeroMQ, Kafka, etc.Experience with distributed NoSQL databases such as Mongo, Cassandra, etc.Experience with distributed caches such as Redis, Valkey, etc.Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.Manipulating real-time audio streams.Developing Node.js applications.B.S. degree in Computer Science or equivalent from an accredited institution.
+Familiarity with microservice architectures.
+Familiarity with microservice architectures.
+
+Experience with distributed messaging brokers and/or event streaming platforms such as RabbitMQ, ZeroMQ, Kafka, etc.
+Experience with distributed messaging brokers and/or event streaming platforms such as RabbitMQ, ZeroMQ, Kafka, etc.
+
+Experience with distributed NoSQL databases such as Mongo, Cassandra, etc.
+Experience with distributed NoSQL databases such as Mongo, Cassandra, etc.
+
+Experience with distributed caches such as Redis, Valkey, etc.
+Experience with distributed caches such as Redis, Valkey, etc.
+
+Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.
+Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.
+
+Manipulating real-time audio streams.
+Manipulating real-time audio streams.
+
+Developing Node.js applications.
+Developing Node.js applications.
+
+B.S. degree in Computer Science or equivalent from an accredited institution.
+B.S. degree in Computer Science or equivalent from an accredited institution.
+
+
+
+
+
+Be hands-on in architecting and implementing software solutions from a given set of requirements either as an individual contributor or as a technical lead.Create technical work plans and execute on those plans to meet individual business objectives.Assist in maintaining existing backend services.
+Be hands-on in architecting and implementing software solutions from a given set of requirements either as an individual contributor or as a technical lead.
+Be hands-on in architecting and implementing software solutions from a given set of requirements either as an individual contributor or as a technical lead.
+
+Create technical work plans and execute on those plans to meet individual business objectives.
+Create technical work plans and execute on those plans to meet individual business objectives.
+
+Assist in maintaining existing backend services.
+Assist in maintaining existing backend services.
+
+
+
+Located in Los Altos, California, Wordly is an exciting tech startup that is looking to grow its engineering and GTM teams! From virtual meetings to large, in-person conference venues, Wordly strives to provide high quality, real-time translation services in 50+ languages to anyone, anywhere.
+
+
+
+Wordly caters to numerous customers around the world which include local organizations and businesses; government entities; Fortune 500 companies; and much, much more. While this is a fully remote position, office space in Los Altos, California is available for San Francisco Bay Area residents that wish to utilize it.
+
+
+
+

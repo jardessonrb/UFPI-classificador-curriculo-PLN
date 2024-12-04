@@ -1,0 +1,101 @@
+link-https://www.linkedin.com/jobs/view/4047435793/?eBP=CwEAAAGS7g_Y0eLL4e75OzSygS3VHYpimgOi9emrD8-vWNKgRMwh-fikp0zYozG4e462sW7nHtLwXClfudcynXebTnhuSxb2AZrus5pELMkca4B8TYaz5stOrM4DsmUQTH4iNdh-cUwGAv45d_U-amZWcNxgZJ2vrpTW9nj1vfhcyc-HJHxofUbtT-MmHii0MUkday1_HZqBi3zcqu1N3ysW7i0BfyKkaT5cKAW4TfQE--9pRL6Nk2H-nqyLyKETjHRem2qx0aQAhfByQ8R9fxx41ewViF4XfpySoDGqENsI3rgECUcQSWdFqSwlHuv28pkK1UF3inLTWR8bjaQfGZVuq6HbqKDBcwCmvQnFRmcAgNd7k3h6ydfF5dCbHYrfTmNwSjUzfl49CdmzZy-2BgrCV9wXa2pxea1UYIRGNu-6vMFql4ojfaX0JZJOf3TvWQJkqspIfmKgtM6qVpHjmLhYVG3YFoqAPaaTLfFsM3zq3ARgZumI5s9PX-tpVe-lShqf81HU1oQ&refId=1iPyJHMmRb1HXKZB6viLgg%3D%3D&trackingId=hBUpxiktAo95BdzFjCQAJg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Mobile Full Stack Engineer
+Sobre a vaga
+Company OverviewAt Motorola Solutions, we're guided by a shared purpose - helping people be their best in the moments that matter - and we live up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We're solving for safer by building the best possible technologies across every part of our safety and security ecosystem. That's mission -critical communications devices and networks, AI-powered video security & access control and the ability to unite voice, video and data in a single command center view. We're solving for safer by connecting public safety agencies and enterprises, enabling the collaboration that's critical to connect those in need with those who can help. The work we do here matters.Department OverviewOpenpath, now a Motorola Solutions Company, is a leader within the access control industry. Openpath’s access control solution makes businesses more secure with multi-factor authentication, enables a contactless entry experience and can be easily scaled and managed due to its cloud-based architecture.Job DescriptionWe are seeking a senior-level candidate who can help us build, scale, and innovate as we develop our industry-leading platform for access control and office automation. Strong analytical and software skills are a must to join our team, and we are particularly seeking candidates with experience and skills in multiple technologies, to contribute broadly to our team-centric approach to product development.Responsibilities:Develop features for and maintain Openpath’s user-facing apps with React NativeDevelop NodeJS APIs and backend services for mobile featuresDevelop and mature our video experience with webRTC on mobileWrite unit tests, automated UI tests and execute test cases to ensure the quality of the productWork with product management and leadership to assist with prioritizing efforts for each sprintCollaborate and communicate effectively with other engineering team membersMaintain high bar in the apps for stability, security, user experience, and accessibilityImprove build/test automation tooling, dependencies, and best practices as necessaryWork with product + engineering team to guide overall system architecture + design, particularly to help ensure that operational needs (deployment, maintainability, monitoring, troubleshooting) are accounted forWork with Product Management and leadership to assist with prioritizing efforts for each sprintContribute as other skills allow within our fast-paced environment and evolving product portfolioHelp with care and feeding of our products + services - take a holistic view of how our architecture functions in production, share responsibility for the quality and reliability of the entire systemBasic RequirementsBachelor's Degree in Computer Science, Computer Engineering or a related discipline is preferredDeep experience in mobile development using React Native7+ years of software development experience5+ years of experience with JavaScript development, and preferably with NodeJS API frameworks3+ years of experience with React and/or React Native developmentExperience with video and webRTC a big plusExperience with SQL data stores and designing relational data modelsExperience with building backend REST API services for mobile applicationsFamiliarity with deploying and maintaining software services within public cloud environments, particularly AWS services such as Serverless/Lambda, CloudFormation, Elastic Beanstalk, EC2/VPCs, Docker, DynamoDB, RDS, CloudWatch / other monitoring servicesPrefer experience with log/data analysis pipelines and crash tools (Sentry)Knowledge of Linux fundamentals including bash / command-lineExperience with agile methodologies and rapid iteration cyclesEEO StatementMotorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please email ohr@motorolasolutions.com.
+Company Overview
+Company Overview
+Company Overview
+At Motorola Solutions, we're guided by a shared purpose - helping people be their best in the moments that matter - and we live up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We're solving for safer by building the best possible technologies across every part of our safety and security ecosystem. That's mission -critical communications devices and networks, AI-powered video security & access control and the ability to unite voice, video and data in a single command center view. We're solving for safer by connecting public safety agencies and enterprises, enabling the collaboration that's critical to connect those in need with those who can help. The work we do here matters.
+At Motorola Solutions, we're guided by a shared purpose - helping people be their best in the moments that matter - and we live up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We're solving for safer by building the best possible technologies across every part of our safety and security ecosystem. That's mission -critical communications devices and networks, AI-powered video security & access control and the ability to unite voice, video and data in a single command center view. We're solving for safer by connecting public safety agencies and enterprises, enabling the collaboration that's critical to connect those in need with those who can help. The work we do here matters.
+
+
+
+Department Overview
+Department Overview
+Department Overview
+Openpath, now a Motorola Solutions Company, is a leader within the access control industry. Openpath’s access control solution makes businesses more secure with multi-factor authentication, enables a contactless entry experience and can be easily scaled and managed due to its cloud-based architecture.
+Openpath, now a Motorola Solutions Company, is a leader within the access control industry. Openpath’s access control solution makes businesses more secure with multi-factor authentication, enables a contactless entry experience and can be easily scaled and managed due to its cloud-based architecture.
+
+
+
+Job Description
+Job Description
+Job Description
+We are seeking a senior-level candidate who can help us build, scale, and innovate as we develop our industry-leading platform for access control and office automation. Strong analytical and software skills are a must to join our team, and we are particularly seeking candidates with experience and skills in multiple technologies, to contribute broadly to our team-centric approach to product development.
+We are seeking a senior-level candidate who can help us build, scale, and innovate as we develop our industry-leading platform for access control and office automation. Strong analytical and software skills are a must to join our team, and we are particularly seeking candidates with experience and skills in multiple technologies, to contribute broadly to our team-centric approach to product development.
+
+
+
+Responsibilities:
+Responsibilities:
+Responsibilities:
+Develop features for and maintain Openpath’s user-facing apps with React NativeDevelop NodeJS APIs and backend services for mobile featuresDevelop and mature our video experience with webRTC on mobileWrite unit tests, automated UI tests and execute test cases to ensure the quality of the productWork with product management and leadership to assist with prioritizing efforts for each sprintCollaborate and communicate effectively with other engineering team membersMaintain high bar in the apps for stability, security, user experience, and accessibilityImprove build/test automation tooling, dependencies, and best practices as necessaryWork with product + engineering team to guide overall system architecture + design, particularly to help ensure that operational needs (deployment, maintainability, monitoring, troubleshooting) are accounted forWork with Product Management and leadership to assist with prioritizing efforts for each sprintContribute as other skills allow within our fast-paced environment and evolving product portfolioHelp with care and feeding of our products + services - take a holistic view of how our architecture functions in production, share responsibility for the quality and reliability of the entire system
+Develop features for and maintain Openpath’s user-facing apps with React Native
+Develop features for and maintain Openpath’s user-facing apps with React Native
+Develop NodeJS APIs and backend services for mobile features
+Develop NodeJS APIs and backend services for mobile features
+Develop and mature our video experience with webRTC on mobile
+Develop and mature our video experience with webRTC on mobile
+Write unit tests, automated UI tests and execute test cases to ensure the quality of the product
+Write unit tests, automated UI tests and execute test cases to ensure the quality of the product
+Work with product management and leadership to assist with prioritizing efforts for each sprint
+Work with product management and leadership to assist with prioritizing efforts for each sprint
+Collaborate and communicate effectively with other engineering team members
+Collaborate and communicate effectively with other engineering team members
+Maintain high bar in the apps for stability, security, user experience, and accessibility
+Maintain high bar in the apps for stability, security, user experience, and accessibility
+Improve build/test automation tooling, dependencies, and best practices as necessary
+Improve build/test automation tooling, dependencies, and best practices as necessary
+Work with product + engineering team to guide overall system architecture + design, particularly to help ensure that operational needs (deployment, maintainability, monitoring, troubleshooting) are accounted for
+Work with product + engineering team to guide overall system architecture + design, particularly to help ensure that operational needs (deployment, maintainability, monitoring, troubleshooting) are accounted for
+Work with Product Management and leadership to assist with prioritizing efforts for each sprint
+Work with Product Management and leadership to assist with prioritizing efforts for each sprint
+Contribute as other skills allow within our fast-paced environment and evolving product portfolio
+Contribute as other skills allow within our fast-paced environment and evolving product portfolio
+Help with care and feeding of our products + services - take a holistic view of how our architecture functions in production, share responsibility for the quality and reliability of the entire system
+Help with care and feeding of our products + services - take a holistic view of how our architecture functions in production, share responsibility for the quality and reliability of the entire system
+
+
+
+Basic Requirements
+Basic Requirements
+Basic Requirements
+Bachelor's Degree in Computer Science, Computer Engineering or a related discipline is preferredDeep experience in mobile development using React Native7+ years of software development experience5+ years of experience with JavaScript development, and preferably with NodeJS API frameworks3+ years of experience with React and/or React Native developmentExperience with video and webRTC a big plusExperience with SQL data stores and designing relational data modelsExperience with building backend REST API services for mobile applicationsFamiliarity with deploying and maintaining software services within public cloud environments, particularly AWS services such as Serverless/Lambda, CloudFormation, Elastic Beanstalk, EC2/VPCs, Docker, DynamoDB, RDS, CloudWatch / other monitoring servicesPrefer experience with log/data analysis pipelines and crash tools (Sentry)Knowledge of Linux fundamentals including bash / command-lineExperience with agile methodologies and rapid iteration cycles
+Bachelor's Degree in Computer Science, Computer Engineering or a related discipline is preferred
+Bachelor's Degree in Computer Science, Computer Engineering or a related discipline is preferred
+Deep experience in mobile development using React Native
+Deep experience in mobile development using React Native
+7+ years of software development experience
+7+ years of software development experience
+5+ years of experience with JavaScript development, and preferably with NodeJS API frameworks
+5+ years of experience with JavaScript development, and preferably with NodeJS API frameworks
+3+ years of experience with React and/or React Native development
+3+ years of experience with React and/or React Native development
+Experience with video and webRTC a big plus
+Experience with video and webRTC a big plus
+Experience with SQL data stores and designing relational data models
+Experience with SQL data stores and designing relational data models
+Experience with building backend REST API services for mobile applications
+Experience with building backend REST API services for mobile applications
+Familiarity with deploying and maintaining software services within public cloud environments, particularly AWS services such as Serverless/Lambda, CloudFormation, Elastic Beanstalk, EC2/VPCs, Docker, DynamoDB, RDS, CloudWatch / other monitoring services
+Familiarity with deploying and maintaining software services within public cloud environments, particularly AWS services such as Serverless/Lambda, CloudFormation, Elastic Beanstalk, EC2/VPCs, Docker, DynamoDB, RDS, CloudWatch / other monitoring services
+Prefer experience with log/data analysis pipelines and crash tools (Sentry)
+Prefer experience with log/data analysis pipelines and crash tools (Sentry)
+Knowledge of Linux fundamentals including bash / command-line
+Knowledge of Linux fundamentals including bash / command-line
+Experience with agile methodologies and rapid iteration cycles
+Experience with agile methodologies and rapid iteration cycles
+
+
+
+EEO Statement
+EEO Statement
+EEO Statement
+EEO Statement
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please email ohr@motorolasolutions.com.
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please email ohr@motorolasolutions.com.

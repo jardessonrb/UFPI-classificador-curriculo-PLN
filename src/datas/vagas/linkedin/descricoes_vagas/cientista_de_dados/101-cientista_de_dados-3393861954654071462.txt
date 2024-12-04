@@ -1,0 +1,70 @@
+link-https://www.linkedin.com/jobs/view/4050441591/?eBP=CwEAAAGS7jTqlF0Gm3XzMziykR95qm_amuLqHTTEbz0PqtP63pRA8sdlD-iDrLaGyO-PcV2fpfDhLaEvT5BJqQ1kehWNyd0wyMHZQ_tWyHvi_6lu5SvGrOqdhmH3wS8ywa59-JUhvY3TVMSG6FPUbAJXD2iaZ4L0fwMOkzvxu7t0EhsQ7gJ2Z1An1VLFaGygYsYP44kVz1e5RS_GjJ5xUDb3FIrm2F4SIgWObgNTambs4TR4G57xoDy-EPgvlntAr40h90lFA9TDFWAfE0PJYiiZUhPzaz_8zwlHwPmOUzUawCwWt9PESmE14CcmLMCjnQlp4RtxdG3NxcxQK96JgdzlRPecfiTNaeseqm5XkZ4GERSyO_hvC6vavp44k8W0Nogf85bN-2xu0XYoCE1y2zbIfWK71nlJC8LnR61Nd5tidSVWHgkvsNRwEl3oViEh71sF4rpbIbQZHwPRaF70_POczetLlbtgwDTL9T2_w50i10HLLBw_PvGb6U-Q&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=p413q6YscqB%2FYH1WrD5tvA%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados
+Sobre a vaga
+Quais Serão As Suas ResponsabilidadesCriar e implementar algoritmos avançados para análises preditivas, considerando variáveis de acordo com as regras de negócios como: demanda, concorrência, custos e tendências de mercado;Desenvolver métricas e lógicas de negócio que suportem a inteligência de precificação, assegurando que as decisões sejam baseadas em dados precisos e relevantes;Coletar, processar e analisar grandes volumes de dados de diversas fontes para identificar padrões, tendências e oportunidades de otimização na precificação de combustíveis;Aplicar técnicas de modelagem estatística e aprendizado de máquina para prever comportamentos de mercado e ajustar a estratégia de precificação em tempo real;Trabalhar em estreita colaboração com a área de negócios para entender as necessidades e objetivos da empresa, traduzindo-os em soluções técnicas eficazes;Preparar e manter documentação detalhada dos algoritmos, métricas e lógicas desenvolvidas, assegurando que as informações estejam acessíveis e compreensíveis;Manter-se atualizado com as últimas tendências e avanços em ciência de dados e inteligência artificial, aplicando novos conhecimentos para melhorar continuamente nossa estratégia de precificação.O Que Você Precisa Para Concorrer a Essa OportunidadeEnsino superior completoExperiência comprovada em análise de dados e técnicas analíticas como Machine Learning e Deep Learning;Conhecimento em SQL (PostgreSQL) e linguagens de programação (R e Python);Vivência relacionada ao processo de arquitetura de dados, engenharia de dados e práticas de governança.Inglês - Intermediário - para leitura técnicaO Que a Empresa OfereceVale-Transporte;Plano de Saúde;Vale-Alimentação;Auxílio EducaçãoRegime De ContrataçãoCLTDepartamentoProjetos
+Quais Serão As Suas Responsabilidades
+
+
+Criar e implementar algoritmos avançados para análises preditivas, considerando variáveis de acordo com as regras de negócios como: demanda, concorrência, custos e tendências de mercado;Desenvolver métricas e lógicas de negócio que suportem a inteligência de precificação, assegurando que as decisões sejam baseadas em dados precisos e relevantes;Coletar, processar e analisar grandes volumes de dados de diversas fontes para identificar padrões, tendências e oportunidades de otimização na precificação de combustíveis;Aplicar técnicas de modelagem estatística e aprendizado de máquina para prever comportamentos de mercado e ajustar a estratégia de precificação em tempo real;Trabalhar em estreita colaboração com a área de negócios para entender as necessidades e objetivos da empresa, traduzindo-os em soluções técnicas eficazes;Preparar e manter documentação detalhada dos algoritmos, métricas e lógicas desenvolvidas, assegurando que as informações estejam acessíveis e compreensíveis;Manter-se atualizado com as últimas tendências e avanços em ciência de dados e inteligência artificial, aplicando novos conhecimentos para melhorar continuamente nossa estratégia de precificação.
+Criar e implementar algoritmos avançados para análises preditivas, considerando variáveis de acordo com as regras de negócios como: demanda, concorrência, custos e tendências de mercado;
+Criar e implementar algoritmos avançados para análises preditivas, considerando variáveis de acordo com as regras de negócios como: demanda, concorrência, custos e tendências de mercado;
+
+Desenvolver métricas e lógicas de negócio que suportem a inteligência de precificação, assegurando que as decisões sejam baseadas em dados precisos e relevantes;
+Desenvolver métricas e lógicas de negócio que suportem a inteligência de precificação, assegurando que as decisões sejam baseadas em dados precisos e relevantes;
+
+Coletar, processar e analisar grandes volumes de dados de diversas fontes para identificar padrões, tendências e oportunidades de otimização na precificação de combustíveis;
+Coletar, processar e analisar grandes volumes de dados de diversas fontes para identificar padrões, tendências e oportunidades de otimização na precificação de combustíveis;
+
+Aplicar técnicas de modelagem estatística e aprendizado de máquina para prever comportamentos de mercado e ajustar a estratégia de precificação em tempo real;
+Aplicar técnicas de modelagem estatística e aprendizado de máquina para prever comportamentos de mercado e ajustar a estratégia de precificação em tempo real;
+
+Trabalhar em estreita colaboração com a área de negócios para entender as necessidades e objetivos da empresa, traduzindo-os em soluções técnicas eficazes;
+Trabalhar em estreita colaboração com a área de negócios para entender as necessidades e objetivos da empresa, traduzindo-os em soluções técnicas eficazes;
+
+Preparar e manter documentação detalhada dos algoritmos, métricas e lógicas desenvolvidas, assegurando que as informações estejam acessíveis e compreensíveis;
+Preparar e manter documentação detalhada dos algoritmos, métricas e lógicas desenvolvidas, assegurando que as informações estejam acessíveis e compreensíveis;
+Manter-se atualizado com as últimas tendências e avanços em ciência de dados e inteligência artificial, aplicando novos conhecimentos para melhorar continuamente nossa estratégia de precificação.
+Manter-se atualizado com as últimas tendências e avanços em ciência de dados e inteligência artificial, aplicando novos conhecimentos para melhorar continuamente nossa estratégia de precificação.
+
+
+O Que Você Precisa Para Concorrer a Essa Oportunidade
+
+
+Ensino superior completoExperiência comprovada em análise de dados e técnicas analíticas como Machine Learning e Deep Learning;Conhecimento em SQL (PostgreSQL) e linguagens de programação (R e Python);Vivência relacionada ao processo de arquitetura de dados, engenharia de dados e práticas de governança.Inglês - Intermediário - para leitura técnica
+Ensino superior completo
+Ensino superior completo
+
+Experiência comprovada em análise de dados e técnicas analíticas como Machine Learning e Deep Learning;
+Experiência comprovada em análise de dados e técnicas analíticas como Machine Learning e Deep Learning;
+Conhecimento em SQL (PostgreSQL) e linguagens de programação (R e Python);
+Conhecimento em SQL (PostgreSQL) e linguagens de programação (R e Python);
+
+Vivência relacionada ao processo de arquitetura de dados, engenharia de dados e práticas de governança.
+Vivência relacionada ao processo de arquitetura de dados, engenharia de dados e práticas de governança.
+Inglês - Intermediário - para leitura técnica
+Inglês - Intermediário - para leitura técnica
+
+
+O Que a Empresa Oferece
+
+
+Vale-Transporte;Plano de Saúde;Vale-Alimentação;Auxílio Educação
+Vale-Transporte;
+Vale-Transporte;
+Plano de Saúde;
+Plano de Saúde;
+Vale-Alimentação;
+Vale-Alimentação;
+Auxílio Educação
+Auxílio Educação
+
+
+Regime De Contratação
+
+
+
+
+Departamento
+
+

@@ -1,0 +1,116 @@
+link-https://www.linkedin.com/jobs/view/4040816115/?eBP=CwEAAAGS7jTqlBUObTk4RSX4A65SPctf_IvSna27ZaYNihDT0MMHae3tF4I3k-kHw2YZfl8oHDiylJS_syfmA70laqt1KHh-fZLvM61_IQ7dlmUZHVjLpkPjKrgMLwR1zSs2kZjWw1QhyWudz-tBnMUejdvz0ouXCo19vU-D0pVN1faaKHNFpXjFL0fdAAHNp-mm5LSNoDaPPrE68OxMybOFbTYwDKKOdAMqrAsTBm3wrQlFbOT_qpROOeN90Sr4O_rpbknsJqV3SOmlS81d0ICvdDAvpIU826yrKp_qAFRa0JtNw6rKNly6dZEdveuIuZAMQnTJaCJKwjPM-SBnaIDhvcrSH73bzEIJhNATz6_v_1pri55AzztNGjnw2f-uIlIDqawqBzYlyLlMpBwqz0aikj5sVLaSMVgL61AtrLiPc7sVeBhMTMvoWa_9f_ZkTHXCWfbVhCZ9EzeW52twfbth94ruivzgOxB16S9Go1MJNpiVQ2CA4Oy9bd-Fmck&refId=9XiH2ewf8aTl4Bd5YImGdw%3D%3D&trackingId=Vt89gFqODjS4x7Is8081%2Fw%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados I
+Sobre a vaga
+O time de BI da Incentivar é um time autogerenciável, com autonomia para tomar decisões no dia a dia, e tem sua voz ouvida o tempo todo para que possamos aprender e se desenvolver juntos.Conhecer o negócio da empresa para poder oferecer aos clientes soluções de valor.Aplicará técnicas de análise descritiva, prescritiva, preditiva e diagnóstica, utilizando de conhecimentos estatísticos e linguagem de programação, construindo soluções IA com foco no negócio.Responsabilidades e atribuiçõesTrabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;Analisar dados para validar hipóteses e gerar insights de negócio;Manipular dados para tratamento, limpeza e exploração;Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;Analisar dados para validar hipóteses e gerar insights de negócio;Manipular dados para tratamento, limpeza e exploração;Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.Requisitos e qualificaçõesConhecimento desejável em alguma linguagem de programação predominante (como Python, R, etc.);Conhecimento em bibliotecas de modelagem de dados (principais): pandas -SciPy, NumPy, StatsModel, Matplotlib, Seaborn, Plotly, Bokeh, Pydot, Scikit-learn, Eli5,. TensorFlow, Keras - mas não limitado;Experiência na construção de pipelines;Conhecimento em gitHub;Conhecimento em SQL para obtenção de dados e relatórios;Experiência na construção de modelos de IA;Conhecimento desejável em metologias ágil (Scrum);Diferencial: Familiaridade com ferramentas de mercado AutoAI: como DataRobot, AWS ou Google.Informações adicionaisQual será seu modelo de trabalho?Carga horária: De segunda à sexta-feira, das 9h às 18hModelo de híbrido: Sendo 2x por semana no escritório.Pra apoiar seu dia a dia:Benefício (Cartão Ifood Benefícios): R$ 850,00 por mêsPra desenvolver sua carreira:Gupy EduCorp (Parceria de Cursos);Avaliação de Desempenho;Trilha de carreira estruturada;Treinamentos frequentes;
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;Analisar dados para validar hipóteses e gerar insights de negócio;Manipular dados para tratamento, limpeza e exploração;Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;Analisar dados para validar hipóteses e gerar insights de negócio;Manipular dados para tratamento, limpeza e exploração;Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+
+Analisar dados para validar hipóteses e gerar insights de negócio;
+Analisar dados para validar hipóteses e gerar insights de negócio;
+
+Manipular dados para tratamento, limpeza e exploração;
+Manipular dados para tratamento, limpeza e exploração;
+
+Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+
+Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+
+Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+
+Analisar dados para validar hipóteses e gerar insights de negócio;
+Analisar dados para validar hipóteses e gerar insights de negócio;
+
+Manipular dados para tratamento, limpeza e exploração;
+Manipular dados para tratamento, limpeza e exploração;
+
+Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+
+Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+
+
+
+
+Requisitos e qualificações
+
+
+Conhecimento desejável em alguma linguagem de programação predominante (como Python, R, etc.);Conhecimento em bibliotecas de modelagem de dados (principais): pandas -SciPy, NumPy, StatsModel, Matplotlib, Seaborn, Plotly, Bokeh, Pydot, Scikit-learn, Eli5,. TensorFlow, Keras - mas não limitado;Experiência na construção de pipelines;Conhecimento em gitHub;Conhecimento em SQL para obtenção de dados e relatórios;Experiência na construção de modelos de IA;Conhecimento desejável em metologias ágil (Scrum);Diferencial: Familiaridade com ferramentas de mercado AutoAI: como DataRobot, AWS ou Google.
+Conhecimento desejável em alguma linguagem de programação predominante (como Python, R, etc.);
+Conhecimento desejável em alguma linguagem de programação predominante (como Python, R, etc.);
+
+Conhecimento em bibliotecas de modelagem de dados (principais): pandas -SciPy, NumPy, StatsModel, Matplotlib, Seaborn, Plotly, Bokeh, Pydot, Scikit-learn, Eli5,. TensorFlow, Keras - mas não limitado;
+Conhecimento em bibliotecas de modelagem de dados (principais): pandas -SciPy, NumPy, StatsModel, Matplotlib, Seaborn, Plotly, Bokeh, Pydot, Scikit-learn, Eli5,. TensorFlow, Keras - mas não limitado;
+
+Experiência na construção de pipelines;
+Experiência na construção de pipelines;
+
+Conhecimento em gitHub;
+Conhecimento em gitHub;
+
+Conhecimento em SQL para obtenção de dados e relatórios;
+Conhecimento em SQL para obtenção de dados e relatórios;
+
+Experiência na construção de modelos de IA;
+Experiência na construção de modelos de IA;
+
+Conhecimento desejável em metologias ágil (Scrum);
+Conhecimento desejável em metologias ágil (Scrum);
+
+Diferencial: Familiaridade com ferramentas de mercado AutoAI: como DataRobot, AWS ou Google.
+Diferencial: Familiaridade com ferramentas de mercado AutoAI: como DataRobot, AWS ou Google.
+
+
+
+
+Informações adicionais
+
+
+Qual será seu modelo de trabalho?
+
+
+Carga horária: De segunda à sexta-feira, das 9h às 18hModelo de híbrido: Sendo 2x por semana no escritório.
+Carga horária: De segunda à sexta-feira, das 9h às 18h
+Carga horária: De segunda à sexta-feira, das 9h às 18h
+
+Modelo de híbrido: Sendo 2x por semana no escritório.
+Modelo de híbrido: Sendo 2x por semana no escritório.
+
+
+
+Pra apoiar seu dia a dia:
+
+
+Benefício (Cartão Ifood Benefícios): R$ 850,00 por mês
+Benefício (Cartão Ifood Benefícios): R$ 850,00 por mês
+Benefício (Cartão Ifood Benefícios): R$ 850,00 por mês
+
+
+
+
+Pra desenvolver sua carreira:
+
+
+Gupy EduCorp (Parceria de Cursos);Avaliação de Desempenho;Trilha de carreira estruturada;Treinamentos frequentes;
+Gupy EduCorp (Parceria de Cursos);
+Gupy EduCorp (Parceria de Cursos);
+Avaliação de Desempenho;
+Avaliação de Desempenho;
+Trilha de carreira estruturada;
+Trilha de carreira estruturada;
+Treinamentos frequentes;
+Treinamentos frequentes;

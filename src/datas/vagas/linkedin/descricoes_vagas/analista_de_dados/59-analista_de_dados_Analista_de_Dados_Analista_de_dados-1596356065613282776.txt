@@ -1,0 +1,70 @@
+link-https://www.linkedin.com/jobs/view/4029975496/?eBP=CwEAAAGS7iefUKZml35ISabBiEhFL9Nh8rFhGHW1TZ6uxkoSwHCI4GcOlTVxIvhPCV0eR1aVIbSapyZ1T6oeY7JX4evgZ8HapW__k0LmeD6xQKX92qlLy403gUfPr-jDRiNFHkEJxyUCl3Ihx4sIMFNPZZj2EBKziqjopzjowuSpPr9M9iULGjuwkFl-Ub33-yJRe1eLYK2wTwEEmbWx_F-DTKHZP5kbXNQhBGWyDRzvlcd1VpJujy-E4luKw1RlnN5xKTcnqyMqiD-DGAf8HQbNMEodg4iXGgyqEtvfaWwSiTxnh64BoyJqQY22SEr0qFxdKon1HuNlQDpS2GmptlzXFIxCWuIcWYlpDjed3YpqQD5HFiKeuvQtP6EA_J_SvLXKubMnlGxAgsLuOlMQCp7EwULFeNvCgU6AA6BciPCmyklYTDTWb2gLzKRoTnd-fHW6Fg8fKZZcOtm2bzHtgMNrj3aTbv9_fwFzSTmKDx0EDZmeKZRQ3dXkl5P1uu_qRWafPJx3pMdNpw&refId=JtSikkUzA7LskLiA%2BG8iog%3D%3D&trackingId=lGIuexcb%2Bi%2B4W0B8KY3q0A%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados - Remoto
+Sobre a vaga
+SOBRE A CAPCOA Capco é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!ResponsabilidadesColaborar estreitamente com Engenheiros de Dados e o Arquiteto de Dados para entender e contribuir para o desenvolvimento e otimização de pipelines de dados.Analisar grandes volumes de dados para identificar tendências, padrões e insights que suportem decisões estratégicas.Desenvolver modelos e algoritmos que suportem uma visão 360 dos dados do cliente, garantindo que os dados estejam prontos para análises avançadas e tomadas de decisão.Assegurar a precisão e a integridade dos dados por meio de validações contínuas e colaboração com a equipe para aprimorar os processos de coleta e tratamento de dados.Contribuir para a estruturação de camadas de dados (Bronze, Silver e Gold) organizando-os de maneira eficiente para suportar o acesso e análises subsequentes.Gerar relatórios e visualizações impactantes para stakeholders, ajudando-os a compreender o contexto completo dos dados.Habilidades e ConhecimentosGraduação em TI ou áreas correlatasForte capacidade analítica com experiência comprovada em análise de dados e modelagem.Proficiência em SQL e experiência com plataformas de dados em nuvem, preferencialmente Azure (Azure Data Factory, Databricks).Competência em linguagens de programação como Python ou R, utilizadas para análise de dados e automação de processos.Experiência com ferramentas de visualização de dados como Power BI, facilitando a comunicação de insights complexos de forma acessível.Conhecimento prático dos princípios de organização de dados em camadas e familiaridade com o conceito de Data Lake.Habilidade para trabalhar em um ambiente dinâmico e colaborativo, priorizando tarefas conforme as necessidades do projeto.DesejávelExperiência anterior em roles analíticos ou técnicos dentro de ambientes de grandes volumes de dados.Certificações relevantes como: * Microsoft Certified: Azure Fundamentals (AZ-900) * Microsoft Certified: Azure Data Fundamentals (DP-900)Por Que CapcoJuntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!Próximos PassosSe você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+SOBRE A CAPCO
+
+
+
+
+
+Responsabilidades
+
+
+Colaborar estreitamente com Engenheiros de Dados e o Arquiteto de Dados para entender e contribuir para o desenvolvimento e otimização de pipelines de dados.Analisar grandes volumes de dados para identificar tendências, padrões e insights que suportem decisões estratégicas.Desenvolver modelos e algoritmos que suportem uma visão 360 dos dados do cliente, garantindo que os dados estejam prontos para análises avançadas e tomadas de decisão.Assegurar a precisão e a integridade dos dados por meio de validações contínuas e colaboração com a equipe para aprimorar os processos de coleta e tratamento de dados.Contribuir para a estruturação de camadas de dados (Bronze, Silver e Gold) organizando-os de maneira eficiente para suportar o acesso e análises subsequentes.Gerar relatórios e visualizações impactantes para stakeholders, ajudando-os a compreender o contexto completo dos dados.
+Colaborar estreitamente com Engenheiros de Dados e o Arquiteto de Dados para entender e contribuir para o desenvolvimento e otimização de pipelines de dados.
+Colaborar estreitamente com Engenheiros de Dados e o Arquiteto de Dados para entender e contribuir para o desenvolvimento e otimização de pipelines de dados.
+Analisar grandes volumes de dados para identificar tendências, padrões e insights que suportem decisões estratégicas.
+Analisar grandes volumes de dados para identificar tendências, padrões e insights que suportem decisões estratégicas.
+Desenvolver modelos e algoritmos que suportem uma visão 360 dos dados do cliente, garantindo que os dados estejam prontos para análises avançadas e tomadas de decisão.
+Desenvolver modelos e algoritmos que suportem uma visão 360 dos dados do cliente, garantindo que os dados estejam prontos para análises avançadas e tomadas de decisão.
+Assegurar a precisão e a integridade dos dados por meio de validações contínuas e colaboração com a equipe para aprimorar os processos de coleta e tratamento de dados.
+Assegurar a precisão e a integridade dos dados por meio de validações contínuas e colaboração com a equipe para aprimorar os processos de coleta e tratamento de dados.
+Contribuir para a estruturação de camadas de dados (Bronze, Silver e Gold) organizando-os de maneira eficiente para suportar o acesso e análises subsequentes.
+Contribuir para a estruturação de camadas de dados (Bronze, Silver e Gold) organizando-os de maneira eficiente para suportar o acesso e análises subsequentes.
+Gerar relatórios e visualizações impactantes para stakeholders, ajudando-os a compreender o contexto completo dos dados.
+Gerar relatórios e visualizações impactantes para stakeholders, ajudando-os a compreender o contexto completo dos dados.
+
+
+Habilidades e Conhecimentos
+
+
+Graduação em TI ou áreas correlatasForte capacidade analítica com experiência comprovada em análise de dados e modelagem.Proficiência em SQL e experiência com plataformas de dados em nuvem, preferencialmente Azure (Azure Data Factory, Databricks).Competência em linguagens de programação como Python ou R, utilizadas para análise de dados e automação de processos.Experiência com ferramentas de visualização de dados como Power BI, facilitando a comunicação de insights complexos de forma acessível.Conhecimento prático dos princípios de organização de dados em camadas e familiaridade com o conceito de Data Lake.Habilidade para trabalhar em um ambiente dinâmico e colaborativo, priorizando tarefas conforme as necessidades do projeto.
+Graduação em TI ou áreas correlatas
+Graduação em TI ou áreas correlatas
+Forte capacidade analítica com experiência comprovada em análise de dados e modelagem.
+Forte capacidade analítica com experiência comprovada em análise de dados e modelagem.
+Proficiência em SQL e experiência com plataformas de dados em nuvem, preferencialmente Azure (Azure Data Factory, Databricks).
+Proficiência em SQL e experiência com plataformas de dados em nuvem, preferencialmente Azure (Azure Data Factory, Databricks).
+Competência em linguagens de programação como Python ou R, utilizadas para análise de dados e automação de processos.
+Competência em linguagens de programação como Python ou R, utilizadas para análise de dados e automação de processos.
+Experiência com ferramentas de visualização de dados como Power BI, facilitando a comunicação de insights complexos de forma acessível.
+Experiência com ferramentas de visualização de dados como Power BI, facilitando a comunicação de insights complexos de forma acessível.
+Conhecimento prático dos princípios de organização de dados em camadas e familiaridade com o conceito de Data Lake.
+Conhecimento prático dos princípios de organização de dados em camadas e familiaridade com o conceito de Data Lake.
+Habilidade para trabalhar em um ambiente dinâmico e colaborativo, priorizando tarefas conforme as necessidades do projeto.
+Habilidade para trabalhar em um ambiente dinâmico e colaborativo, priorizando tarefas conforme as necessidades do projeto.
+
+
+Desejável
+
+
+Experiência anterior em roles analíticos ou técnicos dentro de ambientes de grandes volumes de dados.Certificações relevantes como: * Microsoft Certified: Azure Fundamentals (AZ-900) * Microsoft Certified: Azure Data Fundamentals (DP-900)
+Experiência anterior em roles analíticos ou técnicos dentro de ambientes de grandes volumes de dados.
+Experiência anterior em roles analíticos ou técnicos dentro de ambientes de grandes volumes de dados.
+Certificações relevantes como: * Microsoft Certified: Azure Fundamentals (AZ-900) * Microsoft Certified: Azure Data Fundamentals (DP-900)
+Certificações relevantes como: * Microsoft Certified: Azure Fundamentals (AZ-900) * Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+
+Por Que Capco
+
+
+
+
+Próximos Passos
+
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!

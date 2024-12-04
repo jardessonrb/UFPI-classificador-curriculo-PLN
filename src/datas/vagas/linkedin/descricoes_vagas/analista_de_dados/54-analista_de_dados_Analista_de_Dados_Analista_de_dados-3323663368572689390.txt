@@ -1,0 +1,238 @@
+link-https://www.linkedin.com/jobs/view/4052178781/?eBP=CwEAAAGS7ijJX3fgioD3Ui54e43uc5feMCfJ4xKaKXNwDdWImXJ0J1BUR6mi43cP5pk_SDJfqtU3AMlJg_lprFi-jHUK50cFdskbDK4br_1Rcnds-0a7Ul3SyS7K12nsOz6gaXW7o51Avd2hqKfTzeRtI_VeNyOwkQIxJbpcVJUkISYgunp2lh_Wj2W9gkJa2qIXJ8ads_OFrHDeOzzTBp_ZSzybV0V2agTajQSllxeGSoL5gXOvJSVPu0tLDviDfvInWjVGBvfr0MlgGwdfi3GtlOLBGUqPQ8EabkvN7xsA5BERm-qmPDSyKU7pfwurppEcOu8FT6fIgQIO5M-bdBaW2Mw0KyIFp2d2aga1ZFYseg5mHjeEi3owi_Vmh2ZGCtkNUvFGA-0hpJJL82MiPHCx2ru1U6OzkLWn3PKrfldqmWKoedPOetvh3YHKU-dHQH4hMnPV93JoBVQxGb9ZHYfqL6ECCu-TmjhfeCN6HQPyoz39qp35PfQnmXUTNAg&refId=RlLLYz%2FeDiS4fi1xRonmFQ%3D%3D&trackingId=5C5xpEAVeVFKMZsz7%2FziRA%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Dados Sênior
+Sobre a vaga
+Os produtos daSuperlógicaimpactam milhões de pessoas diariamente na maneira de se relacionar com suas casas, condomínios e vizinhança. Construímos um ecossistema de soluções inovadoras para facilitar a rotina dos nossos clientes e, hoje, somos amaior plataformatecnológica, financeira e de crédito domercado condominial.O desenvolvimento de software é o coração da nossa empresa, e oTime de Dadosé responsável por garantir que todos os nossos produtos se traduzam em dados e se transformem eminsightsvaliosos que norteiam a estratégia da companhia. Os desafios que enfrentamos envolvem a constante absorção de novos produtos e serviços, para diferentes clientes do nosso ecossistema, acompanhados do desenvolvimento de métricas e insights que auxiliem na expansão e estratégia de cada um deles.No time deAnalyticstemos a ambição de ser uma ponte entre dados e ação, portanto buscamos transformar as informações disponíveis em narrativas claras e acionáveis. Trabalhamos para revelar e traduzir padrões e tendências significativas, desenvolvendo relatórios e dashboards que capacitam toda a empresa a tomar decisões informadas, contribuindo assim para uma cultura organizacional data-driven.A cultura do time se pauta em princípios inegociáveis:Somos guardiões da verdade e garantimos a integridade, confiabilidade e segurança dos dados, agindo de forma ética e responsável em todas as práticas de coleta, armazenamento e compartilhamento de informações.Respondemos com velocidade às mudanças nas necessidades da empresa, na tecnologia e no panorama global, garantindo que nossas práticas de dados continuem relevantes, eficazes e atualizadas.Buscamos ativamente evidências que desafiem e refutem nossas hipóteses e vieses, cultivando uma cultura de questionamento e análise crítica para alcançar qualidade e imparcialidade em nossos projetos.Priorizamos o impacto sobre a quantidade, focando em métricas que realmente importam e geram resultados significativos, evitando a produção de relatórios e métricas desnecessários, priorizando a qualidade e a relevância da informação.Exploramos padrões, tendências e oportunidades do mercado para catalisar a inovação interna, buscando novas soluções que nascem do monitoramento e interpretação inteligente das informações do mercado.Estimulamos a comunicação clara e transparente entre diferentes setores da organização, criando sinergias e permitindo que as equipes trabalhem de forma integrada para alcançar objetivos comuns.A pessoa que estamos procurando vai além da análise básica de dados e se destaca por sua visão estratégica, expertise técnica e capacidade de comunicar insights acionáveis para stakeholders de todos os níveis.Para ter sucesso nesta função, as habilidades essenciais se dividem em três categorias principais:Habilidades Técnicas:Domínio de linguagens de programação e ferramentas de análise:A expertise técnica em Python e SQL é obrigatória.Os softwares que utilizamos hoje são AWS/GCP, Databricks/BigQuery e Tableau/Looker, mas conhecimento em softwares similares são igualmente válidos.Habilidades em estatística e modelagem de dados:Sólida compreensão de conceitos estatísticos como inferência estatística, testes de hipóteses, regressão linear e análise de séries temporais são cruciais.Experiência com resolução de problemas extremamente alinhados com necessidaddes de negócios, como vendas, marketing, produtos.Habilidades Analíticas e de Resolução de Problemas:Capacidade de formular perguntas estratégicas e direcionar a análise para os objetivos do negócio:Entender as necessidades de stakeholders e traduzi-las em problemas de dados bem definidos.Pensamento crítico e analítico para identificar padrões, tendências e anomalias nos dados.Habilidades de storytelling para comunicar insights de forma clara, concisa e convincente:Criar visualizações de dados eficazes que facilitem a compreensão dos resultados.Apresentar os resultados de forma persuasiva e didática para stakeholders técnicos e não técnicos.Capacidade de tomar decisões baseadas em dados e recomendar soluções acionáveis:Avaliar criticamente os resultados da análise e identificar oportunidades de melhoria.Formular recomendações claras e baseadas em dados para stakeholders de todos os níveis.Habilidades Interpessoais e de Comunicação:Excelente comunicação verbal e escrita:Capacidade de se comunicar de forma clara, concisa e profissional com stakeholders de diferentes áreas de expertise.Habilidade de adaptar a comunicação ao público-alvo, utilizando linguagem técnica e não técnica quando necessário.Habilidades interpessoais e de trabalho em equipe:Colaborar de forma eficaz e empática com diferentes equipes, incluindo engenharia, marketing, produto e vendas.Habilidade de influenciar e persuadir stakeholders para tomar decisões baseadas em dados.Proatividade e iniciativa:Buscar novas oportunidades para aplicar a análise de dados e gerar valor para o negócio.Antecipar as necessidades de informação dos stakeholders e fornecer insights pró-ativos.Paixão por dados e pelo uso de dados para resolver problemas:Curiosidade intelectual para explorar novos dados e técnicas de análise.Entusiasmo por aprender e se manter atualizado com as últimas tendências em análise de dados.Orientação para resultados e capacidade de trabalhar sob pressão:Comprometimento em entregar projetos de análise de dados dentro do prazo e do orçamento.Habilidade de tomar decisões rápidas e eficazes em situações complexas e ambíguas.Ética e responsabilidade:Manter a confidencialidade dos dados e garantir a segurança da informação.Agir de forma ética e responsável ao usar dados para tomar decisões.Disponibilidade para atuação em modalidade 3x2 (3 dias presenciais e 2 dias em home office) - escritório de Campinas/SP, Barueri/SP ou Londrina/PR.Fazendo Parte Do Time, Você Terá “SuperBenefícios” ComoFlexibilidade de horário:Podemos sempre nos adaptar às mudanças do dia a dia, o importante mesmo é sempre alcançar o objetivo.Ajuda de custo Home Office:A gente dá o suporte necessário para que você possa trabalhar no conforto do seu lar.Flash Benefícios Flexíveis (VA + VR):Transformar o mundo dá uma fome, né?! E é claro que o nosso recheado VA e VR não podem ficar de fora dessa missão.Plano de saúde e odontológico:A saúde sempre em primeiro lugar, para você e seus dependentes.Apoio aos pais:Se tornar mãe ou pai é algo espetacular, e queremos participar deste grande momento com você. Por isso, além do auxílio creche, temos também licença-parental (maternidade e paternidade) estendida.Saúde e Bem-estar:Parceria com o Gympass e auxílio farmácia.Treinamentos e educação:Temos parcerias com escolas e universidades e oferecemos treinamentos EaD gratuitos.Ambiente que valoriza feedbacks 1:1.
+
+Superlógica
+
+
+maior plataforma
+
+
+mercado condominial
+
+
+
+Time de Dados
+
+
+insights
+
+
+
+
+Analytics
+
+
+
+
+
+Somos guardiões da verdade e garantimos a integridade, confiabilidade e segurança dos dados, agindo de forma ética e responsável em todas as práticas de coleta, armazenamento e compartilhamento de informações.Respondemos com velocidade às mudanças nas necessidades da empresa, na tecnologia e no panorama global, garantindo que nossas práticas de dados continuem relevantes, eficazes e atualizadas.Buscamos ativamente evidências que desafiem e refutem nossas hipóteses e vieses, cultivando uma cultura de questionamento e análise crítica para alcançar qualidade e imparcialidade em nossos projetos.Priorizamos o impacto sobre a quantidade, focando em métricas que realmente importam e geram resultados significativos, evitando a produção de relatórios e métricas desnecessários, priorizando a qualidade e a relevância da informação.Exploramos padrões, tendências e oportunidades do mercado para catalisar a inovação interna, buscando novas soluções que nascem do monitoramento e interpretação inteligente das informações do mercado.Estimulamos a comunicação clara e transparente entre diferentes setores da organização, criando sinergias e permitindo que as equipes trabalhem de forma integrada para alcançar objetivos comuns.
+Somos guardiões da verdade e garantimos a integridade, confiabilidade e segurança dos dados, agindo de forma ética e responsável em todas as práticas de coleta, armazenamento e compartilhamento de informações.
+Somos guardiões da verdade e garantimos a integridade, confiabilidade e segurança dos dados, agindo de forma ética e responsável em todas as práticas de coleta, armazenamento e compartilhamento de informações.
+
+Respondemos com velocidade às mudanças nas necessidades da empresa, na tecnologia e no panorama global, garantindo que nossas práticas de dados continuem relevantes, eficazes e atualizadas.
+Respondemos com velocidade às mudanças nas necessidades da empresa, na tecnologia e no panorama global, garantindo que nossas práticas de dados continuem relevantes, eficazes e atualizadas.
+
+Buscamos ativamente evidências que desafiem e refutem nossas hipóteses e vieses, cultivando uma cultura de questionamento e análise crítica para alcançar qualidade e imparcialidade em nossos projetos.
+Buscamos ativamente evidências que desafiem e refutem nossas hipóteses e vieses, cultivando uma cultura de questionamento e análise crítica para alcançar qualidade e imparcialidade em nossos projetos.
+
+Priorizamos o impacto sobre a quantidade, focando em métricas que realmente importam e geram resultados significativos, evitando a produção de relatórios e métricas desnecessários, priorizando a qualidade e a relevância da informação.
+Priorizamos o impacto sobre a quantidade, focando em métricas que realmente importam e geram resultados significativos, evitando a produção de relatórios e métricas desnecessários, priorizando a qualidade e a relevância da informação.
+
+Exploramos padrões, tendências e oportunidades do mercado para catalisar a inovação interna, buscando novas soluções que nascem do monitoramento e interpretação inteligente das informações do mercado.
+Exploramos padrões, tendências e oportunidades do mercado para catalisar a inovação interna, buscando novas soluções que nascem do monitoramento e interpretação inteligente das informações do mercado.
+
+Estimulamos a comunicação clara e transparente entre diferentes setores da organização, criando sinergias e permitindo que as equipes trabalhem de forma integrada para alcançar objetivos comuns.
+Estimulamos a comunicação clara e transparente entre diferentes setores da organização, criando sinergias e permitindo que as equipes trabalhem de forma integrada para alcançar objetivos comuns.
+
+
+
+
+
+
+
+
+Habilidades Técnicas:
+Habilidades Técnicas:
+
+Domínio de linguagens de programação e ferramentas de análise:
+Domínio de linguagens de programação e ferramentas de análise:
+A expertise técnica em Python e SQL é obrigatória.Os softwares que utilizamos hoje são AWS/GCP, Databricks/BigQuery e Tableau/Looker, mas conhecimento em softwares similares são igualmente válidos.
+A expertise técnica em Python e SQL é obrigatória.
+A expertise técnica em Python e SQL é obrigatória.
+
+Os softwares que utilizamos hoje são AWS/GCP, Databricks/BigQuery e Tableau/Looker, mas conhecimento em softwares similares são igualmente válidos.
+Os softwares que utilizamos hoje são AWS/GCP, Databricks/BigQuery e Tableau/Looker, mas conhecimento em softwares similares são igualmente válidos.
+
+Habilidades em estatística e modelagem de dados:
+Habilidades em estatística e modelagem de dados:
+Sólida compreensão de conceitos estatísticos como inferência estatística, testes de hipóteses, regressão linear e análise de séries temporais são cruciais.Experiência com resolução de problemas extremamente alinhados com necessidaddes de negócios, como vendas, marketing, produtos.
+Sólida compreensão de conceitos estatísticos como inferência estatística, testes de hipóteses, regressão linear e análise de séries temporais são cruciais.
+Sólida compreensão de conceitos estatísticos como inferência estatística, testes de hipóteses, regressão linear e análise de séries temporais são cruciais.
+
+Experiência com resolução de problemas extremamente alinhados com necessidaddes de negócios, como vendas, marketing, produtos.
+Experiência com resolução de problemas extremamente alinhados com necessidaddes de negócios, como vendas, marketing, produtos.
+
+Habilidades Analíticas e de Resolução de Problemas:
+Habilidades Analíticas e de Resolução de Problemas:
+
+Capacidade de formular perguntas estratégicas e direcionar a análise para os objetivos do negócio:
+Capacidade de formular perguntas estratégicas e direcionar a análise para os objetivos do negócio:
+
+Entender as necessidades de stakeholders e traduzi-las em problemas de dados bem definidos.Pensamento crítico e analítico para identificar padrões, tendências e anomalias nos dados.
+Entender as necessidades de stakeholders e traduzi-las em problemas de dados bem definidos.
+Entender as necessidades de stakeholders e traduzi-las em problemas de dados bem definidos.
+
+Pensamento crítico e analítico para identificar padrões, tendências e anomalias nos dados.
+Pensamento crítico e analítico para identificar padrões, tendências e anomalias nos dados.
+
+Habilidades de storytelling para comunicar insights de forma clara, concisa e convincente:
+Habilidades de storytelling para comunicar insights de forma clara, concisa e convincente:
+
+Criar visualizações de dados eficazes que facilitem a compreensão dos resultados.Apresentar os resultados de forma persuasiva e didática para stakeholders técnicos e não técnicos.
+Criar visualizações de dados eficazes que facilitem a compreensão dos resultados.
+Criar visualizações de dados eficazes que facilitem a compreensão dos resultados.
+
+Apresentar os resultados de forma persuasiva e didática para stakeholders técnicos e não técnicos.
+Apresentar os resultados de forma persuasiva e didática para stakeholders técnicos e não técnicos.
+
+Capacidade de tomar decisões baseadas em dados e recomendar soluções acionáveis:
+Capacidade de tomar decisões baseadas em dados e recomendar soluções acionáveis:
+
+Avaliar criticamente os resultados da análise e identificar oportunidades de melhoria.Formular recomendações claras e baseadas em dados para stakeholders de todos os níveis.
+Avaliar criticamente os resultados da análise e identificar oportunidades de melhoria.
+Avaliar criticamente os resultados da análise e identificar oportunidades de melhoria.
+
+Formular recomendações claras e baseadas em dados para stakeholders de todos os níveis.
+Formular recomendações claras e baseadas em dados para stakeholders de todos os níveis.
+
+Habilidades Interpessoais e de Comunicação:
+Habilidades Interpessoais e de Comunicação:
+
+Excelente comunicação verbal e escrita:
+Excelente comunicação verbal e escrita:
+
+Capacidade de se comunicar de forma clara, concisa e profissional com stakeholders de diferentes áreas de expertise.Habilidade de adaptar a comunicação ao público-alvo, utilizando linguagem técnica e não técnica quando necessário.
+Capacidade de se comunicar de forma clara, concisa e profissional com stakeholders de diferentes áreas de expertise.
+Capacidade de se comunicar de forma clara, concisa e profissional com stakeholders de diferentes áreas de expertise.
+
+Habilidade de adaptar a comunicação ao público-alvo, utilizando linguagem técnica e não técnica quando necessário.
+Habilidade de adaptar a comunicação ao público-alvo, utilizando linguagem técnica e não técnica quando necessário.
+
+Habilidades interpessoais e de trabalho em equipe:
+Habilidades interpessoais e de trabalho em equipe:
+
+Colaborar de forma eficaz e empática com diferentes equipes, incluindo engenharia, marketing, produto e vendas.Habilidade de influenciar e persuadir stakeholders para tomar decisões baseadas em dados.
+Colaborar de forma eficaz e empática com diferentes equipes, incluindo engenharia, marketing, produto e vendas.
+Colaborar de forma eficaz e empática com diferentes equipes, incluindo engenharia, marketing, produto e vendas.
+
+Habilidade de influenciar e persuadir stakeholders para tomar decisões baseadas em dados.
+Habilidade de influenciar e persuadir stakeholders para tomar decisões baseadas em dados.
+
+Proatividade e iniciativa:
+Proatividade e iniciativa:
+
+Buscar novas oportunidades para aplicar a análise de dados e gerar valor para o negócio.Antecipar as necessidades de informação dos stakeholders e fornecer insights pró-ativos.Paixão por dados e pelo uso de dados para resolver problemas:Curiosidade intelectual para explorar novos dados e técnicas de análise.Entusiasmo por aprender e se manter atualizado com as últimas tendências em análise de dados.Orientação para resultados e capacidade de trabalhar sob pressão:Comprometimento em entregar projetos de análise de dados dentro do prazo e do orçamento.Habilidade de tomar decisões rápidas e eficazes em situações complexas e ambíguas.Ética e responsabilidade:Manter a confidencialidade dos dados e garantir a segurança da informação.Agir de forma ética e responsável ao usar dados para tomar decisões.Disponibilidade para atuação em modalidade 3x2 (3 dias presenciais e 2 dias em home office) - escritório de Campinas/SP, Barueri/SP ou Londrina/PR.
+Buscar novas oportunidades para aplicar a análise de dados e gerar valor para o negócio.
+Buscar novas oportunidades para aplicar a análise de dados e gerar valor para o negócio.
+
+Antecipar as necessidades de informação dos stakeholders e fornecer insights pró-ativos.
+Antecipar as necessidades de informação dos stakeholders e fornecer insights pró-ativos.
+
+Paixão por dados e pelo uso de dados para resolver problemas:
+Paixão por dados e pelo uso de dados para resolver problemas:
+
+Curiosidade intelectual para explorar novos dados e técnicas de análise.Entusiasmo por aprender e se manter atualizado com as últimas tendências em análise de dados.
+Curiosidade intelectual para explorar novos dados e técnicas de análise.
+Curiosidade intelectual para explorar novos dados e técnicas de análise.
+
+Entusiasmo por aprender e se manter atualizado com as últimas tendências em análise de dados.
+Entusiasmo por aprender e se manter atualizado com as últimas tendências em análise de dados.
+
+Orientação para resultados e capacidade de trabalhar sob pressão:
+Orientação para resultados e capacidade de trabalhar sob pressão:
+
+Comprometimento em entregar projetos de análise de dados dentro do prazo e do orçamento.Habilidade de tomar decisões rápidas e eficazes em situações complexas e ambíguas.
+Comprometimento em entregar projetos de análise de dados dentro do prazo e do orçamento.
+Comprometimento em entregar projetos de análise de dados dentro do prazo e do orçamento.
+
+Habilidade de tomar decisões rápidas e eficazes em situações complexas e ambíguas.
+Habilidade de tomar decisões rápidas e eficazes em situações complexas e ambíguas.
+
+Ética e responsabilidade:
+Ética e responsabilidade:
+
+Manter a confidencialidade dos dados e garantir a segurança da informação.Agir de forma ética e responsável ao usar dados para tomar decisões.
+Manter a confidencialidade dos dados e garantir a segurança da informação.
+Manter a confidencialidade dos dados e garantir a segurança da informação.
+
+Agir de forma ética e responsável ao usar dados para tomar decisões.
+Agir de forma ética e responsável ao usar dados para tomar decisões.
+
+Disponibilidade para atuação em modalidade 3x2 (3 dias presenciais e 2 dias em home office) - escritório de Campinas/SP, Barueri/SP ou Londrina/PR.
+Disponibilidade para atuação em modalidade 3x2 (3 dias presenciais e 2 dias em home office) - escritório de Campinas/SP, Barueri/SP ou Londrina/PR.
+
+Fazendo Parte Do Time, Você Terá “SuperBenefícios” Como
+
+
+Flexibilidade de horário:
+Flexibilidade de horário:
+Flexibilidade de horário:
+
+
+
+
+
+Ajuda de custo Home Office:
+Ajuda de custo Home Office:
+Ajuda de custo Home Office:
+
+
+
+
+
+Flash Benefícios Flexíveis (VA + VR):
+Flash Benefícios Flexíveis (VA + VR):
+Flash Benefícios Flexíveis (VA + VR):
+
+
+
+
+
+Plano de saúde e odontológico:
+Plano de saúde e odontológico:
+Plano de saúde e odontológico:
+
+
+
+
+
+Apoio aos pais:
+Apoio aos pais:
+Apoio aos pais:
+
+
+
+
+
+Saúde e Bem-estar:
+Saúde e Bem-estar:
+Saúde e Bem-estar:
+
+
+
+
+
+Treinamentos e educação:
+Treinamentos e educação:
+Treinamentos e educação:
+
+
+
+
+
+Ambiente que valoriza feedbacks 1:1.
+Ambiente que valoriza feedbacks 1:1.
+Ambiente que valoriza feedbacks 1:1.

@@ -1,0 +1,107 @@
+link-https://www.linkedin.com/jobs/view/4062492714/?eBP=CwEAAAGS7jSAoBFWEy8Ks8lcZWEyhKYmmnF51jkwSAiTecb3G_C3fzgcBoxZomKobD8Q-6vbsCzwePLGJzka31TEbXGAqvRVCNOlOTFVyKyjBUWs_2QNvQUMyoZxPZh1sJKV1MWueJ_EYoLaAAJ7WUDlleGUvZ7oMbZuxzP64-P2sxHB9nxMnchSzLpm11UtddE6c_ZjXj3vAZ9XFu6x_5D5O96x_CNR-OOOH2wBaYvkJXvaBP46LCaMjPW5Ip9u9UJZPQfGbC7fpR3mdwlsEozKMK70TWYp4tUd_9uruotC8yVpWahRT3DNXjOHIfr7oHVgt87LAzZoLHvrScYQJ5SiGo7RzD6GhqhBX3frUQ9KUye3AfN5IjEQT4nF3hCYbETim9npF_P1X7RrC3JtB6-xc9jhj5yuUBob2RdCcNYB3g3een2UzRAK2bSfqH6MIJlUG6PNBerTqlfBg28NTR23JOt-e9GFdtD9YBfx-CuQCGTGidR9OhWBSw&refId=s1zHu1Q34E0hJG9ffd%2Bv7g%3D%3D&trackingId=06UhT62lfAdES6ah86twwA%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados PL -
+Sobre a vaga
+Cientista de Dados PL - Automação e PersonalizaçãoA Instivo:Somos uma startup especializada em desenvolver soluções composable para a operação do varejo alimentar. Nosso propósito é transformar a relação entre os usuários e os sistemas, proporcionando a flexibilidade que o varejista precisa para inovar e liderar mudanças no mercado. Reunimos especialistas em software, inovação e varejo para criar soluções que impulsionam a eficiência e a produtividade de nossos clientes.Buscamos um Cientista de Dados para nos ajudar a elevar esses valores, focando em soluções de IA, Machine Learning e personalizações Low Code.O que você vai fazer?Aplicar técnicas de Inteligência Artificial e Machine Learning para otimizar processos e tomar decisões baseadas em dados.Desenvolver soluções de automação inteligente para o varejo, incluindo assistentes copiloto e algoritmos de recomendação.Criar personalizações rápidas utilizando ferramentas Low Code e No Code, permitindo a integração com sistemas legados.Conectar sistemas de dados complexos a interfaces amigáveis e intuitivas, simplificando a interação com o usuário.Trabalhar de perto com os times de produto e engenharia para entender e resolver desafios técnicos relacionados à personalização e automação.O que você precisa ter/conhecer?Proficiência em SQL, Python e R.Experiência com ferramentas e técnicas de Machine Learning e Inteligência Artificial.Conhecimento em Low Code e No Code para criação de soluções rápidas e eficientes.Familiaridade com bancos de dados legados e sistemas de integração de dados.Experiência com ferramentas de armazenamento de dados como Amazon S3, Google BigQuery, ou Azure Data Lake.Compreensão básica de pipelines de dados e processos ETL (extração, transformação e carregamento).Forte base em estatística, probabilidade e álgebra linear.O que vamos considerar como diferenciais?Experiência em automação de processos de varejo, usando RPA, IA/ML.Formação ou experiência em engenharia de produção.Habilidade para trabalhar com times multidisciplinares e integrar diferentes ferramentas e sistemas.Versionamento de Código: Experiência com ferramentas como Git.APIs e Integrações: Experiência em consumir ou construir APIs para acessar dados ou implementar soluções.O que oferecemos?Modelo de trabalho híbrido (Florianópolis ou SP (Capital))GympassAcesso à plataforma AluraModelo de contratação PJ
+Cientista de Dados PL - Automação e Personalização
+Cientista de Dados PL - Automação e Personalização
+Cientista de Dados PL - Automação e Personalização
+
+
+
+A Instivo:
+A Instivo:
+A Instivo:
+
+
+
+Somos uma startup especializada em desenvolver soluções composable para a operação do varejo alimentar. Nosso propósito é transformar a relação entre os usuários e os sistemas, proporcionando a flexibilidade que o varejista precisa para inovar e liderar mudanças no mercado. Reunimos especialistas em software, inovação e varejo para criar soluções que impulsionam a eficiência e a produtividade de nossos clientes.
+Somos uma startup especializada em desenvolver soluções composable para a operação do varejo alimentar. Nosso propósito é transformar a relação entre os usuários e os sistemas, proporcionando a flexibilidade que o varejista precisa para inovar e liderar mudanças no mercado. Reunimos especialistas em software, inovação e varejo para criar soluções que impulsionam a eficiência e a produtividade de nossos clientes.
+Buscamos um Cientista de Dados para nos ajudar a elevar esses valores, focando em soluções de IA, Machine Learning e personalizações Low Code.
+Buscamos um Cientista de Dados para nos ajudar a elevar esses valores, focando em soluções de IA, Machine Learning e personalizações Low Code.
+Buscamos um Cientista de Dados para nos ajudar a elevar esses valores, focando em soluções de IA, Machine Learning e personalizações Low Code.
+
+
+
+O que você vai fazer?
+O que você vai fazer?
+O que você vai fazer?
+
+
+
+Aplicar técnicas de Inteligência Artificial e Machine Learning para otimizar processos e tomar decisões baseadas em dados.Desenvolver soluções de automação inteligente para o varejo, incluindo assistentes copiloto e algoritmos de recomendação.Criar personalizações rápidas utilizando ferramentas Low Code e No Code, permitindo a integração com sistemas legados.Conectar sistemas de dados complexos a interfaces amigáveis e intuitivas, simplificando a interação com o usuário.Trabalhar de perto com os times de produto e engenharia para entender e resolver desafios técnicos relacionados à personalização e automação.
+Aplicar técnicas de Inteligência Artificial e Machine Learning para otimizar processos e tomar decisões baseadas em dados.
+Aplicar técnicas de Inteligência Artificial e Machine Learning para otimizar processos e tomar decisões baseadas em dados.
+Desenvolver soluções de automação inteligente para o varejo, incluindo assistentes copiloto e algoritmos de recomendação.
+Desenvolver soluções de automação inteligente para o varejo, incluindo assistentes copiloto e algoritmos de recomendação.
+Criar personalizações rápidas utilizando ferramentas Low Code e No Code, permitindo a integração com sistemas legados.
+Criar personalizações rápidas utilizando ferramentas Low Code e No Code, permitindo a integração com sistemas legados.
+Conectar sistemas de dados complexos a interfaces amigáveis e intuitivas, simplificando a interação com o usuário.
+Conectar sistemas de dados complexos a interfaces amigáveis e intuitivas, simplificando a interação com o usuário.
+Trabalhar de perto com os times de produto e engenharia para entender e resolver desafios técnicos relacionados à personalização e automação.
+Trabalhar de perto com os times de produto e engenharia para entender e resolver desafios técnicos relacionados à personalização e automação.
+
+
+
+O que você precisa ter/conhecer?
+O que você precisa ter/conhecer?
+O que você precisa ter/conhecer?
+
+
+
+Proficiência em SQL, Python e R.Experiência com ferramentas e técnicas de Machine Learning e Inteligência Artificial.Conhecimento em Low Code e No Code para criação de soluções rápidas e eficientes.Familiaridade com bancos de dados legados e sistemas de integração de dados.Experiência com ferramentas de armazenamento de dados como Amazon S3, Google BigQuery, ou Azure Data Lake.Compreensão básica de pipelines de dados e processos ETL (extração, transformação e carregamento).Forte base em estatística, probabilidade e álgebra linear.
+Proficiência em SQL, Python e R.
+Proficiência em SQL, Python e R.
+Experiência com ferramentas e técnicas de Machine Learning e Inteligência Artificial.
+Experiência com ferramentas e técnicas de Machine Learning e Inteligência Artificial.
+Conhecimento em Low Code e No Code para criação de soluções rápidas e eficientes.
+Conhecimento em Low Code e No Code para criação de soluções rápidas e eficientes.
+Familiaridade com bancos de dados legados e sistemas de integração de dados.
+Familiaridade com bancos de dados legados e sistemas de integração de dados.
+Experiência com ferramentas de armazenamento de dados como Amazon S3, Google BigQuery, ou Azure Data Lake.
+Experiência com ferramentas de armazenamento de dados como Amazon S3, Google BigQuery, ou Azure Data Lake.
+Compreensão básica de pipelines de dados e processos ETL (extração, transformação e carregamento).
+Compreensão básica de pipelines de dados e processos ETL (extração, transformação e carregamento).
+Forte base em estatística, probabilidade e álgebra linear.
+Forte base em estatística, probabilidade e álgebra linear.
+
+
+
+O que vamos considerar como diferenciais?
+O que vamos considerar como diferenciais?
+O que vamos considerar como diferenciais?
+
+
+
+Experiência em automação de processos de varejo, usando RPA, IA/ML.Formação ou experiência em engenharia de produção.Habilidade para trabalhar com times multidisciplinares e integrar diferentes ferramentas e sistemas.Versionamento de Código: Experiência com ferramentas como Git.APIs e Integrações: Experiência em consumir ou construir APIs para acessar dados ou implementar soluções.
+Experiência em automação de processos de varejo, usando RPA, IA/ML.
+Experiência em automação de processos de varejo, usando RPA, IA/ML.
+Formação ou experiência em engenharia de produção.
+Formação ou experiência em engenharia de produção.
+Habilidade para trabalhar com times multidisciplinares e integrar diferentes ferramentas e sistemas.
+Habilidade para trabalhar com times multidisciplinares e integrar diferentes ferramentas e sistemas.
+Versionamento de Código: Experiência com ferramentas como Git.
+Versionamento de Código: Experiência com ferramentas como Git.
+APIs e Integrações: Experiência em consumir ou construir APIs para acessar dados ou implementar soluções.
+APIs e Integrações: Experiência em consumir ou construir APIs para acessar dados ou implementar soluções.
+
+
+
+O que oferecemos?
+O que oferecemos?
+O que oferecemos?
+
+
+
+Modelo de trabalho híbrido (Florianópolis ou SP (Capital))GympassAcesso à plataforma AluraModelo de contratação PJ
+Modelo de trabalho híbrido (Florianópolis ou SP (Capital))
+Modelo de trabalho híbrido (Florianópolis ou SP (Capital))
+Gympass
+Gympass
+Acesso à plataforma Alura
+Acesso à plataforma Alura
+Modelo de contratação PJ
+Modelo de contratação PJ
+
+
+

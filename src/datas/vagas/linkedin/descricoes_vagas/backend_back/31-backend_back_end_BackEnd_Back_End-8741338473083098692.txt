@@ -1,0 +1,41 @@
+link-https://www.linkedin.com/jobs/view/4048798785/?eBP=CwEAAAGS7lKMz4m4ygvO8fgSebfVfvQPJwhCxe_-D7VAkoGrzOJQPbBWAk-FTX4crz69a4Bvv8fAdWpnGPifyYgzOxTk3D8zNP5D665pbZ45LP3xLlMGkXIzf5GTWUEgbXXdxBLxeUcVK6rkEEh2DY6wseiL_QqukNBmR3nBcaBzV7gknQ0Nu_qofew3AxQ29OKWg1U1bwGkRkTeKOjES0zfTs7BjTLGDmhzR9ZZtVGqiA2HCd7r7QT3RKsOKjns_2_SALBetGAwwhoksfADJRHGyshN1lQsXPIz_wQaKCJQo3IqRlpT7kEdHqFhC-H2cdMDtRQ6mMkPGQ71yJtrhdCczfVjXSqD7Dh0BDd02L9pRfj-lN0VwiC2HQ38SEd58_Rn7gMJr0o9gPzKR81wo8kkwYEWwZANpgv85xwrU1ZnCbf5zySPJSvkWB0EuDYYLod89glWj2rfA50DvnpW5ddcn7NlfoBkmefHTbLj_SOUdVMm6CaW7NzM_m7m&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=8jhK0MmtHoSBDIWuQc74BA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Java Pleno
+Sobre a vaga
+Sobre a digi:Com inúmeras certificações nas principais tecnologias, a DigiSystem conta hoje com uma infraestrutura robusta para prestar serviços de soluções em TI.Fundada em 1990, em são Paulo, são mais de 30 anos de experiência no mercado, mais de 1000 funcionários com alto nível de especialização é o seu melhor parceiro na jornada da Transformação Digital.Nós entendemos do negócio e transformamos tecnologia em resultado.Requisitos:Java 17 ou mais recenteMicrosservicosSpringboot, Vert xBanco de dados relacional (My cycle)Atuará em squad com evolução e manutenção - time core do antifraudeArquitetura MVCNa Digisystem, valorizamos a diversidade e entendemos que o que acrescenta é justamente ideias e pontos de vistas variados.Por isso, raça, cor, religião, gênero e identidade de gênero,nacionalidade, deficiência, orientação sexual, ascendência ou idade, não serão impeditivos de você fazer parte do nosso time.#VemserumDiger
+
+
+
+
+
+
+
+
+
+
+
+Requisitos:
+
+
+Java 17 ou mais recenteMicrosservicosSpringboot, Vert xBanco de dados relacional (My cycle)Atuará em squad com evolução e manutenção - time core do antifraudeArquitetura MVC
+Java 17 ou mais recente
+Java 17 ou mais recente
+Microsservicos
+Microsservicos
+Springboot, Vert x
+Springboot, Vert x
+Banco de dados relacional (My cycle)
+Banco de dados relacional (My cycle)
+Atuará em squad com evolução e manutenção - time core do antifraude
+Atuará em squad com evolução e manutenção - time core do antifraude
+Arquitetura MVC
+Arquitetura MVC
+
+
+
+Por isso, raça, cor, religião, gênero e identidade de gênero,
+
+
+
+
+#VemserumDiger

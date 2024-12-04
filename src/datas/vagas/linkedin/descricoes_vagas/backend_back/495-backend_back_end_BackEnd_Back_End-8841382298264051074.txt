@@ -1,0 +1,81 @@
+link-https://www.linkedin.com/jobs/view/4047510913/?eBP=CwEAAAGS7lGQwbaNELnby4O_KYk0Hd_ejjDGPCG68HmU70lZx2D-TPvdixRZmsni1HpAXsvnekAvmkrRoYfxOF3MMBNcloZNw4FibRdwFRuLEKvCyAPkV3Pjlx5Lny3U4fIzJkwGlhfng7YKHoG1nDBC37HCpkA4Wtk4JJsOsLTxIfoFl8PNGeDyL0MchgqAS9LaX_etSg9EOA_kMV4WLMmWXYKTqtZX5Aq0iPAc_145ziacJAP_ox7hbAUfHOQx4KgcMaCA_6xkQnI-hXCHp01hPCZpzp-aMHv4sG5XCAjFNGyKsyAoXPaXo-E-Bv2740AhOxouz2BmnbLPF3Wss8n4lTCW81aP2xKL6XtEtZbLerEmT80luSizN5lFSKihisZs1cf5TsGzZHaqt26bnDmuxqn9rsqmeVaW7itu9sE_IINE8wn94KsyvhTiiwDw48VOzr7UFdIzFaNa0KUaL95Dqod7JzL8weaPW0cZ9yO5KAQ8FNpw7vJJEjvgCeWSe1dF6K5HHj9J0sZn&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=69WUYOvGOX%2FAH2a4S0Fhjw%3D%3D&trk=flagship3_search_srp_jobs
+
+Programador Backend Python
+Sobre a vaga
+IntroduçãoBem-vindo à Gallagher – líder global em seguros, gestão de risco e serviços de consultoria. Com uma equipe crescente de mais de 50.000 profissionais em todo o mundo, capacitamos empresas, comunidades e indivíduos a prosperarem. Na Gallagher, você pode construir uma carreira, seja em nossa divisão de corretagem, em nossa divisão de benefícios e consultoria de RH ou em nossa equipe corporativa. Experimente o Estilo Gallagher, uma cultura alimentada por valores compartilhados e uma paixão coletiva pela excelência. Junte-se a uma de nossas equipes dinâmicas, onde você desempenhará um papel fundamental na definição do futuro da Gallagher e no desbloqueio de oportunidades incomparáveis para você e para os clientes.Acreditamos que cada candidato traz algo especial para a mesa, inclusive você! Portanto, mesmo que você sinta que está próximo, mas não é uma correspondência exata, encorajamos você a se inscrever.Visão geraNossa equipe é capacitada e dedicada para representar e atender as demandas dos nossos Clientes Internos e Externos. Por meio de uma parceria estratégica, visamos a busca de soluções constantes através de um atendimento e suporte diferenciados.Como você causará um impactovO candidato ideal deve ter uma base sólida em desenvolvimento com Python, com pelo menos 2 anos de experiência, e estar confortável trabalhando com ferramentas e bibliotecas específicas para a construção de soluções robustas e eficientes.Sobre vocêPré-requisitosExperiência de 2 anos ou mais em desenvolvimento com Python, incluindo:Streamlit para desenvolvimento de interfaces web.Pandas para manipulação e análise de dados.Selenium para automação de navegadores.Construção e consumo de APIs utilizando Flask, Requests e Fast API.Conhecimento em SQL Server, incluindo:Modelagem de dados relacionais.Execução de operações de banco de dados: Selects, Updates, Inserts, Deletes.Construção de ETLs para integração e transformação de dados.Familiaridade com:GitHub para controle de versão.VS Code como ambiente de desenvolvimento.Idioma:Inglês: intermediario.Desejáveis (serão considerados diferenciais, mas não são obrigatórios)EspanholConhecimento em ferramentas de automação e gestão de processos, como Pipefy e Workato.
+Introdução
+
+
+
+
+
+
+Visão gera
+
+
+
+
+Como você causará um impactov
+
+
+
+
+Sobre você
+
+
+Pré-requisitos
+
+
+Experiência de 2 anos ou mais em desenvolvimento com Python, incluindo:Streamlit para desenvolvimento de interfaces web.Pandas para manipulação e análise de dados.Selenium para automação de navegadores.Construção e consumo de APIs utilizando Flask, Requests e Fast API.Conhecimento em SQL Server, incluindo:Modelagem de dados relacionais.Execução de operações de banco de dados: Selects, Updates, Inserts, Deletes.Construção de ETLs para integração e transformação de dados.Familiaridade com:GitHub para controle de versão.VS Code como ambiente de desenvolvimento.Idioma:Inglês: intermediario.
+Experiência de 2 anos ou mais em desenvolvimento com Python, incluindo:
+Experiência de 2 anos ou mais em desenvolvimento com Python, incluindo:
+Streamlit para desenvolvimento de interfaces web.Pandas para manipulação e análise de dados.Selenium para automação de navegadores.Construção e consumo de APIs utilizando Flask, Requests e Fast API.
+Streamlit para desenvolvimento de interfaces web.
+Streamlit para desenvolvimento de interfaces web.
+
+Pandas para manipulação e análise de dados.
+Pandas para manipulação e análise de dados.
+
+Selenium para automação de navegadores.
+Selenium para automação de navegadores.
+
+Construção e consumo de APIs utilizando Flask, Requests e Fast API.
+Construção e consumo de APIs utilizando Flask, Requests e Fast API.
+
+Conhecimento em SQL Server, incluindo:
+Conhecimento em SQL Server, incluindo:
+Modelagem de dados relacionais.Execução de operações de banco de dados: Selects, Updates, Inserts, Deletes.Construção de ETLs para integração e transformação de dados.
+Modelagem de dados relacionais.
+Modelagem de dados relacionais.
+
+Execução de operações de banco de dados: Selects, Updates, Inserts, Deletes.
+Execução de operações de banco de dados: Selects, Updates, Inserts, Deletes.
+
+Construção de ETLs para integração e transformação de dados.
+Construção de ETLs para integração e transformação de dados.
+
+Familiaridade com:
+Familiaridade com:
+GitHub para controle de versão.VS Code como ambiente de desenvolvimento.
+GitHub para controle de versão.
+GitHub para controle de versão.
+
+VS Code como ambiente de desenvolvimento.
+VS Code como ambiente de desenvolvimento.
+
+Idioma:
+Idioma:
+Inglês: intermediario.
+Inglês: intermediario.
+Inglês: intermediario.
+
+
+Desejáveis (serão considerados diferenciais, mas não são obrigatórios)
+
+
+
+EspanholConhecimento em ferramentas de automação e gestão de processos, como Pipefy e Workato.
+Espanhol
+Espanhol
+Conhecimento em ferramentas de automação e gestão de processos, como Pipefy e Workato.
+Conhecimento em ferramentas de automação e gestão de processos, como Pipefy e Workato.

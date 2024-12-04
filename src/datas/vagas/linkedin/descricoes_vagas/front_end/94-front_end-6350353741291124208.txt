@@ -1,0 +1,41 @@
+link-https://www.linkedin.com/jobs/view/4044930954/?eBP=CwEAAAGS7kxbByY7IXAXQmeCEp1P0JChsyGkJRB4Af7N0v_z8bpK5Vj37isDdvogjQIwGZPBu-8sEN81umJhg3KP-EBR1UttbXXxjh9HmzAJlXz9yDiLeWrwUcOfBVykqoFMkUqH2gt88_QaMRoLoyp9jM8asM-pYdcWIoAF7XhpuG1527dBf-cnnk7_6sxy5nPyhhpkSk6jwon-LlnPofcy2xq_0PxovJmymv5a2rTHYYTWDFknoaoTGYliBCtQJlAVR2edndkkN0oG8zOBmS3VBiSpHYNwgm5qk5wQtcyG-VruUusikFQqytgg0VNSnkt3SL8pRnt18xx45AsC6b67ra1zdFOr2t92Bk2mqI-efj2qeT7gsi1XIV8KpW3ll0XueRy97tsIOQ5_W-ocLgjYlUR3DnrhTt4JvcE--9s6HmnA3go9pW3kthDc6zM-M-qLV2pKw3Apkkm0v92Y0TWA1xPcURDh_2Z0zfNYeoW1tQO16Bpb5M6HeXnKA9dSfZ3cah7bSGUNnw&refId=8xjNfTTdcbqfoUH1mefKMQ%3D%3D&trackingId=jLYmQn60BIhfNpZgJR8yAA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Front-end Sênior - Tribo B2B
+Sobre a vaga
+Requisitos:- HTML / CSS- Javascript / Typescript- VueJS ou React / Next.js (Server-side rendering / SPA)- Testes unitário com jest (e de preferência react-testing-library)Diferenciais:- GraphQL- Cache/CDN- Conhecimento de backend ao menos Node.js- Conhecimento com E2E- Conhecimento de K8s- Monitoramento e telemetria- Experiência em trabalho com micro-frontends- Experiência com AWS e GCP- Experiência com produtos white label
+Requisitos:
+Requisitos:
+Requisitos:
+- HTML / CSS
+- HTML / CSS
+- Javascript / Typescript
+- Javascript / Typescript
+- VueJS ou React / Next.js (Server-side rendering / SPA)
+- VueJS ou React / Next.js (Server-side rendering / SPA)
+- Testes unitário com jest (e de preferência react-testing-library)
+- Testes unitário com jest (e de preferência react-testing-library)
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+- GraphQL
+- GraphQL
+
+- Cache/CDN
+- Cache/CDN
+- Conhecimento de backend ao menos Node.js
+- Conhecimento de backend ao menos Node.js
+- Conhecimento com E2E
+- Conhecimento com E2E
+- Conhecimento de K8s
+- Conhecimento de K8s
+- Monitoramento e telemetria
+- Monitoramento e telemetria
+- Experiência em trabalho com micro-frontends
+- Experiência em trabalho com micro-frontends
+- Experiência com AWS e GCP
+- Experiência com AWS e GCP
+- Experiência com produtos white label
+- Experiência com produtos white label

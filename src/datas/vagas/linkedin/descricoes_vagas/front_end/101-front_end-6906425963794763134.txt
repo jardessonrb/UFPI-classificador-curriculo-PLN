@@ -1,0 +1,135 @@
+link-https://www.linkedin.com/jobs/view/4060128345/?eBP=CwEAAAGS7k2Kcp7wZBjBLppe97hIkL8px70blujXC0hjQClCqj4h7jR4Wa1EK_hwu6qcTmuC7s_bOqyNDXKNNJyE1JuSQQ6Tx2DPXzprxblyr8Lc0Z33zKThzvwgiFUNMeTSrZ_OT6Q2bh7HSKjwHreGN8amfgzqvSpvHpSud5zMmawdzeuKNah93IVi9V3lOqOugG4u5o_q4YaNS5FIMI1CxR7Q-g8Oisz2jrf9pnCEixnI9udg63gwwFVzCw8nRXtoaKTynCUQTtUxyR7h-EP9OYPDBo9bzKOuJnWjUrfidsfD0Xe91VbCcU8q1NyJ2lYZoLZMWEX9_oMvdniTDHI2gdS9PZM6u67SuKdWdasOHekzry6-EkjuQeIRtywGIZnA8v0XCVzyAC1r5Id8ejiqofNHZfSgrLIRApko_DCdOjpW-2pwubYwqpNcEUNzoNl6a24b9i3KguoYnzgQMs36EVCRoSaz_2UY254WLbkgGKc7F2GfsMtYHWHOXJUJTw&refId=D%2B9I1EF%2BNsQzOTYhwj35GA%3D%3D&trackingId=nM7ttDcgKIV2uTFh1gBBEg%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Front-End Sênior
+Sobre a vaga
+A FCamara está em busca de uma Pessoa Desenvolvedora Front-end Sênior, para trabalhar com um banco que entende as necessidades, inova nas soluções e atende com excelência os seus clientes. Estão em um momento de grande evolução de serviços, com forte entrada em soluções digitais para mercado de câmbio (PF e PJ) e serviços de FX as a Service para fintechs e parceiros do mercado financeiro.Responsabilidades e atribuiçõesDesenvolver e implementar interfaces de usuário altamente interativas e responsivas utilizando HTML, CSS e JavaScript;Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas eficientes;Garantir a compatibilidade cross-browser e a acessibilidade das aplicações web;Utilizar sistemas de controle de versão Git para colaboração e gerenciamento de código fonte;Implementar funcionalidades complexas utilizando TypeScript, React e GraphQL;Consumir APIs REST de forma eficiente para integrar dados e funcionalidades às aplicações;Demonstrar proficiência em técnicas avançadas de debugging para identificar e resolver problemas de forma rápida e eficiente;Desenvolver e manter testes de unidade e integração para garantir a qualidade do código;Demonstrar conhecimento avançado em Node.js para construir aplicações de servidor e integrações backend;Demonstrar conhecimento em BFF (Backend For Frontend) para criar interfaces frontend altamente eficientes e adaptadas às necessidades específicas das aplicações;Utilizar ferramentas de bundling para otimização de desempenho e eficiência de carregamento de recursos;Implementar padrões de design responsivos, acessíveis e intuitivos para uma melhor experiência do usuário;Demonstrar conhecimentos básicos em DevOps para automatizar processos de implantação e integração contínua;Trabalhar com metodologias ágeis para entregas contínuas e colaboração eficaz;Aplicar princípios de estrutura de dados, SOLID e design patterns para garantir a escalabilidade e manutenibilidade do código;Identificar e aplicar técnicas de otimização de desempenho para melhorar a velocidade e eficiência das aplicaçõesRequisitos e qualificaçõesExperiência sólida em HTML, CSS e JavaScript.Proficiência em Git para controle de versão e colaboração.Experiência com TypeScript, React e GraphQL.Capacidade comprovada de consumir e integrar APIs REST.Conhecimento avançado em Node.js.Compreensão dos princípios de responsividade, acessibilidade e cross-browser.Experiência em desenvolvimento de testes de unidade e integração.Familiaridade com ferramentas de debugging.Conhecimento básico em DevOps.Experiência com metodologias ágeis.Compreensão dos princípios de estrutura de dados, SOLID e design patterns.Conhecimentos avançados em performance e otimização.Disponibilidade para atuar 3x/semana na Av. Paulista;Informações adicionaisDiferenciais:Experiência em desenvolvimento UI/UX.Familiaridade com técnicas avançadas de otimização de desempenho.Experiência com ferramentas de bundle avançadas.Conhecimento avançado em DevOps.Experiência com Metodologias Ágeis em escala.Conhecimento avançado em estrutura de dados, SOLID e design patterns.Conhecimento em arquitetura microfrontend e/ou single SPA
+
+
+Responsabilidades e atribuições
+
+
+Desenvolver e implementar interfaces de usuário altamente interativas e responsivas utilizando HTML, CSS e JavaScript;Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas eficientes;Garantir a compatibilidade cross-browser e a acessibilidade das aplicações web;Utilizar sistemas de controle de versão Git para colaboração e gerenciamento de código fonte;Implementar funcionalidades complexas utilizando TypeScript, React e GraphQL;Consumir APIs REST de forma eficiente para integrar dados e funcionalidades às aplicações;Demonstrar proficiência em técnicas avançadas de debugging para identificar e resolver problemas de forma rápida e eficiente;Desenvolver e manter testes de unidade e integração para garantir a qualidade do código;Demonstrar conhecimento avançado em Node.js para construir aplicações de servidor e integrações backend;Demonstrar conhecimento em BFF (Backend For Frontend) para criar interfaces frontend altamente eficientes e adaptadas às necessidades específicas das aplicações;Utilizar ferramentas de bundling para otimização de desempenho e eficiência de carregamento de recursos;Implementar padrões de design responsivos, acessíveis e intuitivos para uma melhor experiência do usuário;Demonstrar conhecimentos básicos em DevOps para automatizar processos de implantação e integração contínua;Trabalhar com metodologias ágeis para entregas contínuas e colaboração eficaz;Aplicar princípios de estrutura de dados, SOLID e design patterns para garantir a escalabilidade e manutenibilidade do código;Identificar e aplicar técnicas de otimização de desempenho para melhorar a velocidade e eficiência das aplicações
+Desenvolver e implementar interfaces de usuário altamente interativas e responsivas utilizando HTML, CSS e JavaScript;
+Desenvolver e implementar interfaces de usuário altamente interativas e responsivas utilizando HTML, CSS e JavaScript;
+
+Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas eficientes;
+Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas eficientes;
+
+Garantir a compatibilidade cross-browser e a acessibilidade das aplicações web;
+Garantir a compatibilidade cross-browser e a acessibilidade das aplicações web;
+
+Utilizar sistemas de controle de versão Git para colaboração e gerenciamento de código fonte;
+Utilizar sistemas de controle de versão Git para colaboração e gerenciamento de código fonte;
+
+Implementar funcionalidades complexas utilizando TypeScript, React e GraphQL;
+Implementar funcionalidades complexas utilizando TypeScript, React e GraphQL;
+
+Consumir APIs REST de forma eficiente para integrar dados e funcionalidades às aplicações;
+Consumir APIs REST de forma eficiente para integrar dados e funcionalidades às aplicações;
+
+Demonstrar proficiência em técnicas avançadas de debugging para identificar e resolver problemas de forma rápida e eficiente;
+Demonstrar proficiência em técnicas avançadas de debugging para identificar e resolver problemas de forma rápida e eficiente;
+
+Desenvolver e manter testes de unidade e integração para garantir a qualidade do código;
+Desenvolver e manter testes de unidade e integração para garantir a qualidade do código;
+
+Demonstrar conhecimento avançado em Node.js para construir aplicações de servidor e integrações backend;
+Demonstrar conhecimento avançado em Node.js para construir aplicações de servidor e integrações backend;
+
+Demonstrar conhecimento em BFF (Backend For Frontend) para criar interfaces frontend altamente eficientes e adaptadas às necessidades específicas das aplicações;
+Demonstrar conhecimento em BFF (Backend For Frontend) para criar interfaces frontend altamente eficientes e adaptadas às necessidades específicas das aplicações;
+
+Utilizar ferramentas de bundling para otimização de desempenho e eficiência de carregamento de recursos;
+Utilizar ferramentas de bundling para otimização de desempenho e eficiência de carregamento de recursos;
+
+Implementar padrões de design responsivos, acessíveis e intuitivos para uma melhor experiência do usuário;
+Implementar padrões de design responsivos, acessíveis e intuitivos para uma melhor experiência do usuário;
+
+Demonstrar conhecimentos básicos em DevOps para automatizar processos de implantação e integração contínua;
+Demonstrar conhecimentos básicos em DevOps para automatizar processos de implantação e integração contínua;
+
+Trabalhar com metodologias ágeis para entregas contínuas e colaboração eficaz;
+Trabalhar com metodologias ágeis para entregas contínuas e colaboração eficaz;
+
+Aplicar princípios de estrutura de dados, SOLID e design patterns para garantir a escalabilidade e manutenibilidade do código;
+Aplicar princípios de estrutura de dados, SOLID e design patterns para garantir a escalabilidade e manutenibilidade do código;
+
+Identificar e aplicar técnicas de otimização de desempenho para melhorar a velocidade e eficiência das aplicações
+Identificar e aplicar técnicas de otimização de desempenho para melhorar a velocidade e eficiência das aplicações
+
+
+
+
+Requisitos e qualificações
+
+
+Experiência sólida em HTML, CSS e JavaScript.Proficiência em Git para controle de versão e colaboração.Experiência com TypeScript, React e GraphQL.Capacidade comprovada de consumir e integrar APIs REST.Conhecimento avançado em Node.js.Compreensão dos princípios de responsividade, acessibilidade e cross-browser.Experiência em desenvolvimento de testes de unidade e integração.Familiaridade com ferramentas de debugging.Conhecimento básico em DevOps.Experiência com metodologias ágeis.Compreensão dos princípios de estrutura de dados, SOLID e design patterns.Conhecimentos avançados em performance e otimização.Disponibilidade para atuar 3x/semana na Av. Paulista;
+Experiência sólida em HTML, CSS e JavaScript.
+Experiência sólida em HTML, CSS e JavaScript.
+
+Proficiência em Git para controle de versão e colaboração.
+Proficiência em Git para controle de versão e colaboração.
+
+Experiência com TypeScript, React e GraphQL.
+Experiência com TypeScript, React e GraphQL.
+
+Capacidade comprovada de consumir e integrar APIs REST.
+Capacidade comprovada de consumir e integrar APIs REST.
+
+Conhecimento avançado em Node.js.
+Conhecimento avançado em Node.js.
+
+Compreensão dos princípios de responsividade, acessibilidade e cross-browser.
+Compreensão dos princípios de responsividade, acessibilidade e cross-browser.
+
+Experiência em desenvolvimento de testes de unidade e integração.
+Experiência em desenvolvimento de testes de unidade e integração.
+
+Familiaridade com ferramentas de debugging.
+Familiaridade com ferramentas de debugging.
+
+Conhecimento básico em DevOps.
+Conhecimento básico em DevOps.
+
+Experiência com metodologias ágeis.
+Experiência com metodologias ágeis.
+
+Compreensão dos princípios de estrutura de dados, SOLID e design patterns.
+Compreensão dos princípios de estrutura de dados, SOLID e design patterns.
+
+Conhecimentos avançados em performance e otimização.
+Conhecimentos avançados em performance e otimização.
+
+Disponibilidade para atuar 3x/semana na Av. Paulista;
+Disponibilidade para atuar 3x/semana na Av. Paulista;
+
+
+
+
+Informações adicionais
+
+
+
+
+Experiência em desenvolvimento UI/UX.Familiaridade com técnicas avançadas de otimização de desempenho.Experiência com ferramentas de bundle avançadas.Conhecimento avançado em DevOps.Experiência com Metodologias Ágeis em escala.Conhecimento avançado em estrutura de dados, SOLID e design patterns.Conhecimento em arquitetura microfrontend e/ou single SPA
+Experiência em desenvolvimento UI/UX.
+Experiência em desenvolvimento UI/UX.
+
+Familiaridade com técnicas avançadas de otimização de desempenho.
+Familiaridade com técnicas avançadas de otimização de desempenho.
+
+Experiência com ferramentas de bundle avançadas.
+Experiência com ferramentas de bundle avançadas.
+
+Conhecimento avançado em DevOps.
+Conhecimento avançado em DevOps.
+
+Experiência com Metodologias Ágeis em escala.
+Experiência com Metodologias Ágeis em escala.
+
+Conhecimento avançado em estrutura de dados, SOLID e design patterns.
+Conhecimento avançado em estrutura de dados, SOLID e design patterns.
+
+Conhecimento em arquitetura microfrontend e/ou single SPA
+Conhecimento em arquitetura microfrontend e/ou single SPA
+

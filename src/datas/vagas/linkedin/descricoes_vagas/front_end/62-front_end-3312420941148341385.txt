@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/4047999469/?eBP=CwEAAAGS7k2Kc5CCZZ_qJgWxiRx6dYUb3YelZNORQPQfuv6wUDYcolYtkQMCAHwj47RXBgzUeVt9B0ovNfOk16dll8aIOFsqkFRCacvEZ-vsorjs1dC1xlIAzRS0ab-JtbuyNU6JZ01ieRDSRpxuyUVXsRST1lxXpHmVC9eG3cIyKFL6SYxtPN9AXTS3PeN2WlWMJsbl3-d-Rn8hiM4MgPGyTUvx_KV44nvYZsRVSLI8Ee3LQF28brn3SViRa6M6y4Ypf0SJii58kR-_rE8TGIUkJGM9fEvwhU43JFP41bCuRUC_yG0aN0K2y9c1wAM0oybf1fofPm0ZsO1oEi4H0ogwZJNQ6LnekM8sxb0LFOYzlKllhWshnoeBSBCaYvvhifiB_h952DOVdPg8F8mDfJ2dQ2yyq7gUP1ZLoB0Q_jtA_3svatWdHoFFPqVKdxn3GJcNRrwDHcFEJpAoFTJRngNRoTLtNTLHIdB83KDX1I2vVLXT8_QYWbeOKcj4ZRBGMw&refId=D%2B9I1EF%2BNsQzOTYhwj35GA%3D%3D&trackingId=LwPybBb3Mn9WwO9KfC%2BUXA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Front-end Sênior
+Sobre a vaga
+Você quer fazer parte de uma empresa de tecnologia que está há mais de 20 anos no mercado, que não apenas é parceira premier do Google Cloud, mas também já foi 4 vezes premiada como Partner of the year? Uma empresa que além de ser fera naquilo que faz, também valoriza e leva a sério o compromisso com cada IPNETER, possuindo há 5 anos consecutivos o selo Great Place To Work.Pois é, essa empresa existe. Essa empresa é a IPNET!Além disso, somos comprometidos com a inclusão, abraçando cada forma única de ser humano, independente de etnia, gênero, orientação sexual, idade, habilidades físicas ou mentais. Por isso, todas as nossas vagas são inclusivas. Aqui, não apenas reconhecemos, mas também celebramos as diferentes identidades, experiências e talentos de cada pessoa que faz parte do nosso time.E, Estamos Com Uma Vaga Aberta Para Desenvolvedor Front-end Sênior, Que Irá Atuar Dentro Do Nosso Time De Delivery Team, Sendo Responsável PorAtuar em projetos de diferentes escopos com o time de entrega da IPNET, incluindo desenvolvimento de aplicações, migrações, desenvolvimento NoCode e/ou LowCod, refatoração, otimizações, além de atuação em produtos internos (principal foco a curto/médio prazo).Entendimento claro das ações e necessidades do cliente, sendo capaz de definir os requisitos técnicos do projeto/produto junto com o time.Aplicação de técnicas de desenvolvimento seguro.Desenvolver, implementar e manter software de alta qualidade.Elaborar documentação técnica do projeto.Identificar riscos e requisitos durante o desenvolvimento do projeto e manter uma comunicação clara com os stakeholders internos e externos.Desenvolvimento de acordo com as melhores práticas de desenvolvimento de software.Desenvolver soluções front-end personalizadas e escaláveis.Explorar novas tecnologias e frameworks.Entendemos que para atender as demandas da vaga, é necessário que o candidato possua:Ter formação em Ciência da Computação, Engenharia de Software ou área relacionada.Conhecimento avançado em JavaScript e seus frameworks.Conhecimento avançado em HTML e CSS.Conhecimento das bibliotecas: React, vue, angular, entre outros.Desejável conhecimento em banco de dados, principalmente: Firebase, Firestore, MySQL e PostgreSQL.Conhecimento avançado em ferramenta(s) de versionamento de código.Experiência em realização de deploy de aplicações e esquematização de plano de mudança para deploy.Conhecimento em Arquitetura de Software.Conhecimento avançado em segurança.Conhecimento em debug de aplicações.Conhecimento em rollback.Habilidade para realização de testes e prevenções a ataques.Conhecimento em arquitetura de microserviços.Pós-Graduação ou Certificações da área serão consideradas como diferencial.Na IPNET, acreditamos no trabalho híbrido como forma de fortalecer nossa cultura e acelerar nosso engajamento, respeitando, ao mesmo tempo, a flexibilidade. Por essa razão, nossa proposta consiste em trabalhar 2X na semana home-office e 3X presencialmente no escritório. Atualmente, contamos com dois escritórios no Brasil: um no Rio de Janeiro (Zona Portuária/Santo Cristo) e outro em São Paulo (Vila Olímpia).Reconhecemos a importância dos benefícios, e por isso, nosso pacote contempla:Auxílio Refeição/AlimentaçãoAuxílio TransportePlano de Saúde Bradesco NacionalPlano Odontológico Bradesco SaúdeAuxílio Home-Office️WellhubHappy Day no mês do seu aniversárioParcerias com instituições educacionais, tanto de idiomas quanto acadêmicasSe você se identificou com os requisitos descritos acima, não pense 2 vezes. Venha fazer parte de uma empresa que abraça a inovação e onde o caos não assusta, porque somos um time que joga junto, possui um papo reto e uma cabeça de dono!
+Você quer fazer parte de uma empresa de tecnologia que está há mais de 20 anos no mercado, que não apenas é parceira premier do Google Cloud, mas também já foi 4 vezes premiada como Partner of the year? Uma empresa que além de ser fera naquilo que faz, também valoriza e leva a sério o compromisso com cada IPNETER, possuindo há 5 anos consecutivos o selo Great Place To Work.
+
+
+Pois é, essa empresa existe. Essa empresa é a IPNET!
+
+
+
+
+
+
+
+Atuar em projetos de diferentes escopos com o time de entrega da IPNET, incluindo desenvolvimento de aplicações, migrações, desenvolvimento NoCode e/ou LowCod, refatoração, otimizações, além de atuação em produtos internos (principal foco a curto/médio prazo).Entendimento claro das ações e necessidades do cliente, sendo capaz de definir os requisitos técnicos do projeto/produto junto com o time.Aplicação de técnicas de desenvolvimento seguro.Desenvolver, implementar e manter software de alta qualidade.Elaborar documentação técnica do projeto.Identificar riscos e requisitos durante o desenvolvimento do projeto e manter uma comunicação clara com os stakeholders internos e externos.Desenvolvimento de acordo com as melhores práticas de desenvolvimento de software.Desenvolver soluções front-end personalizadas e escaláveis.Explorar novas tecnologias e frameworks.
+Atuar em projetos de diferentes escopos com o time de entrega da IPNET, incluindo desenvolvimento de aplicações, migrações, desenvolvimento NoCode e/ou LowCod, refatoração, otimizações, além de atuação em produtos internos (principal foco a curto/médio prazo).
+Atuar em projetos de diferentes escopos com o time de entrega da IPNET, incluindo desenvolvimento de aplicações, migrações, desenvolvimento NoCode e/ou LowCod, refatoração, otimizações, além de atuação em produtos internos (principal foco a curto/médio prazo).
+Entendimento claro das ações e necessidades do cliente, sendo capaz de definir os requisitos técnicos do projeto/produto junto com o time.
+Entendimento claro das ações e necessidades do cliente, sendo capaz de definir os requisitos técnicos do projeto/produto junto com o time.
+Aplicação de técnicas de desenvolvimento seguro.
+Aplicação de técnicas de desenvolvimento seguro.
+Desenvolver, implementar e manter software de alta qualidade.
+Desenvolver, implementar e manter software de alta qualidade.
+Elaborar documentação técnica do projeto.
+Elaborar documentação técnica do projeto.
+Identificar riscos e requisitos durante o desenvolvimento do projeto e manter uma comunicação clara com os stakeholders internos e externos.
+Identificar riscos e requisitos durante o desenvolvimento do projeto e manter uma comunicação clara com os stakeholders internos e externos.
+Desenvolvimento de acordo com as melhores práticas de desenvolvimento de software.
+Desenvolvimento de acordo com as melhores práticas de desenvolvimento de software.
+Desenvolver soluções front-end personalizadas e escaláveis.
+Desenvolver soluções front-end personalizadas e escaláveis.
+Explorar novas tecnologias e frameworks.
+Explorar novas tecnologias e frameworks.
+
+
+Entendemos que para atender as demandas da vaga, é necessário que o candidato possua:
+
+
+Ter formação em Ciência da Computação, Engenharia de Software ou área relacionada.Conhecimento avançado em JavaScript e seus frameworks.Conhecimento avançado em HTML e CSS.Conhecimento das bibliotecas: React, vue, angular, entre outros.Desejável conhecimento em banco de dados, principalmente: Firebase, Firestore, MySQL e PostgreSQL.Conhecimento avançado em ferramenta(s) de versionamento de código.Experiência em realização de deploy de aplicações e esquematização de plano de mudança para deploy.Conhecimento em Arquitetura de Software.Conhecimento avançado em segurança.Conhecimento em debug de aplicações.Conhecimento em rollback.Habilidade para realização de testes e prevenções a ataques.Conhecimento em arquitetura de microserviços.Pós-Graduação ou Certificações da área serão consideradas como diferencial.
+Ter formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+Ter formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+Conhecimento avançado em JavaScript e seus frameworks.
+Conhecimento avançado em JavaScript e seus frameworks.
+Conhecimento avançado em HTML e CSS.
+Conhecimento avançado em HTML e CSS.
+Conhecimento das bibliotecas: React, vue, angular, entre outros.
+Conhecimento das bibliotecas: React, vue, angular, entre outros.
+Desejável conhecimento em banco de dados, principalmente: Firebase, Firestore, MySQL e PostgreSQL.
+Desejável conhecimento em banco de dados, principalmente: Firebase, Firestore, MySQL e PostgreSQL.
+
+Conhecimento avançado em ferramenta(s) de versionamento de código.
+Conhecimento avançado em ferramenta(s) de versionamento de código.
+Experiência em realização de deploy de aplicações e esquematização de plano de mudança para deploy.
+Experiência em realização de deploy de aplicações e esquematização de plano de mudança para deploy.
+Conhecimento em Arquitetura de Software.
+Conhecimento em Arquitetura de Software.
+Conhecimento avançado em segurança.
+Conhecimento avançado em segurança.
+Conhecimento em debug de aplicações.
+Conhecimento em debug de aplicações.
+Conhecimento em rollback.
+Conhecimento em rollback.
+Habilidade para realização de testes e prevenções a ataques.
+Habilidade para realização de testes e prevenções a ataques.
+Conhecimento em arquitetura de microserviços.
+Conhecimento em arquitetura de microserviços.
+Pós-Graduação ou Certificações da área serão consideradas como diferencial.
+Pós-Graduação ou Certificações da área serão consideradas como diferencial.
+
+
+
+Na IPNET, acreditamos no trabalho híbrido como forma de fortalecer nossa cultura e acelerar nosso engajamento, respeitando, ao mesmo tempo, a flexibilidade. Por essa razão, nossa proposta consiste em trabalhar 2X na semana home-office e 3X presencialmente no escritório. Atualmente, contamos com dois escritórios no Brasil: um no Rio de Janeiro (Zona Portuária/Santo Cristo) e outro em São Paulo (Vila Olímpia).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Se você se identificou com os requisitos descritos acima, não pense 2 vezes. Venha fazer parte de uma empresa que abraça a inovação e onde o caos não assusta, porque somos um time que joga junto, possui um papo reto e uma cabeça de dono!

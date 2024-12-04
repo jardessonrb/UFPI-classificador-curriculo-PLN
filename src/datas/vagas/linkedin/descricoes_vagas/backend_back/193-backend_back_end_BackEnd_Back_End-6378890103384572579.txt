@@ -1,0 +1,84 @@
+link-https://www.linkedin.com/jobs/view/4045962668/?eBP=CwEAAAGS7lInlZUtBiUlE4OR29BGdHxh3WVO90UAVXl8z-_xQ8N7vsGx6sBsVurriNKHyMDwrOJ3alscInc22NQhQvvnIMfSZ8ja8TpVRL0kTrPvzsSZdoY6pf19IfmctNs813GW-4V8YXDVvn56otnA0w6uX_R1yCsLdFSW-_R65GOf2gjna03ZnHQnocD8yNHiRGkhojPgDnkN4J8__k9KBikXz_epF_QMo5KAlt4i1yXxGktPRElh6MXLnl_acQ45qcnOwe7tgLmJIwlfCFyk8E6_e6gmmKLFzPht77lGLO90s-b9ttjy_Ka1O5XCfcKsTGL2FZ29TTKRCsoNpdW70sTGi0MORzxkrhyIcCMUQTwTazEuCDENwh-636X941KQteAE5TdxZQnauc0H6dbWA3R1wWna4Px9rZLtsATo-UMEnXsgtdp3uBEefoFnckH_F7_J9paZBYmALZDAmQWkx67WP_JRgnHOdMTq8LfImdYafDEdqJjjK4Us4fs&refId=IqmtUJ2bp47v46rQJyql6A%3D%3D&trackingId=wPmEOdP%2FaXBQk0nvw1x4wg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) BackEnd Java PL (AWS) (Híbrido - SP)
+Sobre a vaga
+NOSSO NEGÓCIOAqui na Programmers, aceleramos grandes ideias com inovação e tecnologia. Com uma trajetória de mais de 30 anos, o que nos move são os desafios em construir ideias em soluções reais, para que nossos clientes sejam referências no segmento que atuam.Especialistas em desenvolvimento de software e inteligência de dados, temos uma relação de transparência, confiança, credibilidade e reconhecimento neste mercado.Nosso maior sonho? Impactar empresas e pessoas.O QUE ESPERAMOS DE VOCÊ?Estamos à procura de um(a) Desenvolvedor(a) Java motivado(a) e qualificado(a) para integrar a equipe de um de nossos parceiros no mercado financeiro.Deseja trabalhar em um ambiente dinâmico, com tecnologias inovadoras, queremos conhecer você!Para Essa Oportunidade Você Precisa TerExperiência em Java, Spring Boot;Conhecimento em Design Patterns e Clean Architecture;Conhecimento em AWS cloud: EC2, ELB, S3, Lambda;Metodologia Ágil.Seriam Pontos De Destaque Se Você TiverConhecimento em Testes Unitários, Jenkins, Docker, Kubernetes e arquitetura de microsserviços;Conhecimento em Kotlin;Conhecimento WebFlux;Mercado financeiro.Para Uma Vida Mais Saudável, Te ProporcionamosPolítica de Home OfficePlano de saúde, com cobertura nacionalPlano odontológicoConvênio com SescWellhubTe Apoiamos ComVale refeição ou alimentaçãoAuxílio crecheParticipação nos resultadosLicença parental estendidaPlano de desenvolvimento individual/anual com subsídio para capacitaçãoTreinamento do idioma inglêsNossas vagas são para todos, pois acreditamos que diferentes histórias, experiências e habilidades são essenciais para construirmos melhores soluções para nossos clientes e ambientes saudáveis para o nosso dia a dia.
+NOSSO NEGÓCIO
+
+
+
+
+
+
+
+
+O QUE ESPERAMOS DE VOCÊ?
+
+
+
+
+
+
+Para Essa Oportunidade Você Precisa Ter
+
+
+Experiência em Java, Spring Boot;Conhecimento em Design Patterns e Clean Architecture;Conhecimento em AWS cloud: EC2, ELB, S3, Lambda;Metodologia Ágil.
+Experiência em Java, Spring Boot;
+Experiência em Java, Spring Boot;
+Conhecimento em Design Patterns e Clean Architecture;
+Conhecimento em Design Patterns e Clean Architecture;
+Conhecimento em AWS cloud: EC2, ELB, S3, Lambda;
+Conhecimento em AWS cloud: EC2, ELB, S3, Lambda;
+Metodologia Ágil.
+Metodologia Ágil.
+
+
+Seriam Pontos De Destaque Se Você Tiver
+
+
+Conhecimento em Testes Unitários, Jenkins, Docker, Kubernetes e arquitetura de microsserviços;Conhecimento em Kotlin;Conhecimento WebFlux;Mercado financeiro.
+Conhecimento em Testes Unitários, Jenkins, Docker, Kubernetes e arquitetura de microsserviços;
+Conhecimento em Testes Unitários, Jenkins, Docker, Kubernetes e arquitetura de microsserviços;
+Conhecimento em Kotlin;
+Conhecimento em Kotlin;
+Conhecimento WebFlux;
+Conhecimento WebFlux;
+Mercado financeiro.
+Mercado financeiro.
+
+
+Para Uma Vida Mais Saudável, Te Proporcionamos
+
+
+Política de Home OfficePlano de saúde, com cobertura nacionalPlano odontológicoConvênio com SescWellhub
+Política de Home Office
+Política de Home Office
+Plano de saúde, com cobertura nacional
+Plano de saúde, com cobertura nacional
+Plano odontológico
+Plano odontológico
+Convênio com Sesc
+Convênio com Sesc
+Wellhub
+Wellhub
+
+
+Te Apoiamos Com
+
+
+Vale refeição ou alimentaçãoAuxílio crecheParticipação nos resultadosLicença parental estendidaPlano de desenvolvimento individual/anual com subsídio para capacitaçãoTreinamento do idioma inglês
+Vale refeição ou alimentação
+Vale refeição ou alimentação
+Auxílio creche
+Auxílio creche
+Participação nos resultados
+Participação nos resultados
+Licença parental estendida
+Licença parental estendida
+Plano de desenvolvimento individual/anual com subsídio para capacitação
+Plano de desenvolvimento individual/anual com subsídio para capacitação
+Treinamento do idioma inglês
+Treinamento do idioma inglês
+
+
+Nossas vagas são para todos, pois acreditamos que diferentes histórias, experiências e habilidades são essenciais para construirmos melhores soluções para nossos clientes e ambientes saudáveis para o nosso dia a dia.

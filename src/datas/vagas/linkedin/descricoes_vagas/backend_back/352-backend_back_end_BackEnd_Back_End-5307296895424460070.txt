@@ -1,0 +1,59 @@
+link-https://www.linkedin.com/jobs/view/4057204432/?eBP=CwEAAAGS7lLyazATeV9eLvYrcyOq2olnNXIesaMQwnHd379vommOSJB1cswwAjp-eLpNlf6YoicdfDpXw3_8L0raNImKykVyRWlHDbhmjPzBSCSMTlndX-ZBWSw0k9xLjrTfL0C23PE2yZTICnTsIfSGrGUzzG8HNUDpsJ0wruIRD3JZnaHpB8FB0BA9pUsRKU3K-WTiuLdaSQRxij_tgrO7dNsmGaLSqQZ_LZgHf3gV6EuI5O6GU56xmp3JTHmKSjpHzK4tcUfDmGGYpeA86vvSqovIo0srBcyfcwdl93uvfAfdFEXtHjCbblyLd7rwjWVT2fGmw2o1h9Jx1y24RPvXvZSxryKoIakeFbX0Y9cJlEv5i_C17gSU2uoeQioJWTpT_-LsVCgknKaDd8IyTg-hb3CgLX03jp-YjvOZg0sBsakR5esMrIOKceKiul9RkOGKT1qltls-HhqR4Pu9zgy1_aIeyOGfIWXs6nI2x970kbzdzP3jsPvwzg&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=i9IuQdxAfxE9YGaJozGEKA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Back-end Sênior
+Sobre a vaga
+A FCamara está em busca de uma Pessoa Desenvolvedora Back-end Sênior,para atuar em uma das maiores empresas da América Latina líder no mercado em exames diagnósticos clínicos.Responsabilidades e atribuiçõesDesenvolver e manter aplicações backendProjetar, implementar e manter APIs RESTfulTrabalhar com arquiteturas de micro serviçosImplementar e gerenciar ambientes de contêineres utilizando KubernetesIntegrar e gerenciar sistemas de mensageriaGarantir a qualidade do código por meio de testes unitários e revisões de códigoColabora com times multifuncionais para definir, projetar e lançar novas funcionalidadesMonitorar e melhorar o desempenho de sistemas e serviçosRequisitos e qualificaçõesExperiência sólida em desenvolvimento backend com Java 17 / Spring boot 3/ HybernateConhecimento em aplicações Front React (básico)Conhecimento em Design System material UIExperiência com Docker e Kubernetes para gerenciamento e orquestração de contêineresConhecimento de mensageria como Kafka e SQSACompreensão profunda de diferentes tipos de arquitetura de sistemas, incluindo monolítica, micro serviços, serverless, entre outrasExperiência com desenvolvimento e integração de APISExperiência com banco de dados relacionais e não relacionais (Mysql e PostgreSQL)Conhecimento em práticas de DevOps e CI/CDInformações adicionais
+,
+
+
+
+Responsabilidades e atribuições
+
+
+Desenvolver e manter aplicações backendProjetar, implementar e manter APIs RESTfulTrabalhar com arquiteturas de micro serviçosImplementar e gerenciar ambientes de contêineres utilizando KubernetesIntegrar e gerenciar sistemas de mensageriaGarantir a qualidade do código por meio de testes unitários e revisões de códigoColabora com times multifuncionais para definir, projetar e lançar novas funcionalidadesMonitorar e melhorar o desempenho de sistemas e serviços
+Desenvolver e manter aplicações backend
+Desenvolver e manter aplicações backend
+Projetar, implementar e manter APIs RESTful
+Projetar, implementar e manter APIs RESTful
+Trabalhar com arquiteturas de micro serviços
+Trabalhar com arquiteturas de micro serviços
+Implementar e gerenciar ambientes de contêineres utilizando Kubernetes
+Implementar e gerenciar ambientes de contêineres utilizando Kubernetes
+Integrar e gerenciar sistemas de mensageria
+Integrar e gerenciar sistemas de mensageria
+
+Garantir a qualidade do código por meio de testes unitários e revisões de código
+Garantir a qualidade do código por meio de testes unitários e revisões de código
+Colabora com times multifuncionais para definir, projetar e lançar novas funcionalidades
+Colabora com times multifuncionais para definir, projetar e lançar novas funcionalidades
+Monitorar e melhorar o desempenho de sistemas e serviços
+Monitorar e melhorar o desempenho de sistemas e serviços
+
+
+
+Requisitos e qualificações
+
+
+Experiência sólida em desenvolvimento backend com Java 17 / Spring boot 3/ HybernateConhecimento em aplicações Front React (básico)Conhecimento em Design System material UIExperiência com Docker e Kubernetes para gerenciamento e orquestração de contêineresConhecimento de mensageria como Kafka e SQSACompreensão profunda de diferentes tipos de arquitetura de sistemas, incluindo monolítica, micro serviços, serverless, entre outrasExperiência com desenvolvimento e integração de APISExperiência com banco de dados relacionais e não relacionais (Mysql e PostgreSQL)Conhecimento em práticas de DevOps e CI/CD
+Experiência sólida em desenvolvimento backend com Java 17 / Spring boot 3/ Hybernate
+Experiência sólida em desenvolvimento backend com Java 17 / Spring boot 3/ Hybernate
+Conhecimento em aplicações Front React (básico)
+Conhecimento em aplicações Front React (básico)
+Conhecimento em Design System material UI
+Conhecimento em Design System material UI
+Experiência com Docker e Kubernetes para gerenciamento e orquestração de contêineres
+Experiência com Docker e Kubernetes para gerenciamento e orquestração de contêineres
+Conhecimento de mensageria como Kafka e SQSA
+Conhecimento de mensageria como Kafka e SQSA
+Compreensão profunda de diferentes tipos de arquitetura de sistemas, incluindo monolítica, micro serviços, serverless, entre outras
+Compreensão profunda de diferentes tipos de arquitetura de sistemas, incluindo monolítica, micro serviços, serverless, entre outras
+Experiência com desenvolvimento e integração de APIS
+Experiência com desenvolvimento e integração de APIS
+Experiência com banco de dados relacionais e não relacionais (Mysql e PostgreSQL)
+Experiência com banco de dados relacionais e não relacionais (Mysql e PostgreSQL)
+Conhecimento em práticas de DevOps e CI/CD
+Conhecimento em práticas de DevOps e CI/CD
+
+
+
+Informações adicionais

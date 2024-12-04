@@ -1,0 +1,53 @@
+{
+    "sobre_a_vaga": "O Pecege é formado por pessoas que acreditam na educação como um poderoso agente de transformação social.Nossa missão é democratizar o conhecimento para promover o desenvolvimento econômico, social e cultural. Aqui, cada colaborador(a) — que chamamos de Pecegers — desempenha um papel essencial para o sucesso dessa missão. Ao iniciar sua jornada de estágio no Pecege, você ingressará em um ambiente colaborativo e dinâmico, com oportunidades de aprendizado que se alinham às suas habilidades, preferências e aspirações de carreira. Estamos em busca de um(a) estagiário(a) que contribuirá na criação e aprimoramento de produtos internos que otimizam nossos processos, garantindo agilidade e qualidade. O foco do trabalho será no desenvolvimento de aplicações web, além de dar suporte na automação de processos e na integração de APIs. Durante o estágio, você terá a oportunidade de desenvolver habilidades para criar soluções de impacto, trabalhando ao lado de profissionais experientes em projetos reais. Nossa equipe é comprometida em transformar realidades por meio da educação, e você poderá explorar diferentes áreas, compreendendo todas as etapas do desenvolvimento de sistemas. Além disso, você terá a chance de se envolver no design de produtos digitais, adquirindo experiência prática e contribuindo ativamente para o sucesso de nossos projetos. Interessado(a) em fazer parte de um ambiente inovador e transformador em uma das principais organizações do setor de Educação? Confira os requisitos da vaga e venha se juntar a nós nessa missão de transformação! 🚨 LEMBRETE: É de extrema importância que você efetue todas as etapas do processo de candidatura para que possamos analisar seu perfil e te chamar para entrevista. Caso você pule alguma das etapas, seu perfil não avançará no processo seletivo.",
+    "responsabilidades_e_atribuicoes": [
+      "Auxiliar no desenvolvimento, manutenção e melhoria contínua de sistemas web.",
+      "Colaborar com outros membros da equipe para projetar, desenvolver e implementar funcionalidades simples e eficazes.",
+      "Apoiar na otimização de aplicativos, focando em desempenho e escalabilidade, sob supervisão.",
+      "Participar de revisões de código, promovendo boas práticas de desenvolvimento e auxiliando no processo de integração contínua utilizando Git.",
+      "Trabalhar em conjunto com as equipes de design e produto para implementar novas funcionalidades e contribuir para a evolução do produto, com a orientação dos líderes."
+    ],
+    "requisitos_e_qualificacoes": {
+      "obrigatorios": [
+        "Conhecimento em Programação Orientada a Objetos (POO) para desenvolvimento de sistemas.",
+        "Domínio dos principais métodos do protocolo HTTP (GET, POST, PUT, DELETE).",
+        "Conhecimento básico em desenvolvimento de aplicações web.",
+        "Experiência acadêmica ou projetos pessoais em desenvolvimento frontend com HTML, CSS e JavaScript.",
+        "Familiaridade com o conceito de APIs REST.",
+        "Conhecimento em bancos de dados relacionais (SQL).",
+        "Experiência com sistemas de controle de versão, preferencialmente Git.",
+        "Boas habilidades de comunicação e facilidade para trabalhar em equipe.",
+        "Interesse genuíno em aprender novas tecnologias e processos internos.",
+        "Vontade de aprender e se adaptar às práticas de desenvolvimento ágil (Scrum, Kanban)."
+      ],
+      "diferenciais": [
+        "Experiência prática no desenvolvimento backend, preferencialmente utilizando C#.",
+        "Domínio das principais estruturas de dados (Array, Conjunto, Lista, Hash Table).",
+        "Familiaridade com frameworks de desenvolvimento.",
+        "Noções de desenvolvimento de queries SQL.",
+        "Experiência com ferramentas de testes de API, como Postman, Insomnia ou similares.",
+        "Familiaridade com o ecossistema de desenvolvimento Microsoft (Windows, Visual Studio Code/Visual Studio IDE, Azure).",
+        "Conhecimento sobre bancos de dados não relacionais, preferencialmente Redis."
+      ]
+    },
+    "formacao": "Cursando ensino superior em áreas relacionadas à tecnologia, como Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Software, ou áreas afins.",
+    "informacoes_adicionais": {
+      "modelo_trabalho": "Remoto de segunda a sexta-feira, das 08h00 às 15h00, com 1 hora de intervalo.",
+      "equipamentos": "Notebook, materiais de escritório etc. fornecidos pela empresa.",
+      "processo_seletivo": "Entre os meses de novembro e dezembro/24, para contratação em janeiro/25."
+    },
+    "beneficios": {
+      "remuneracao": "R$ 1.460,00",
+      "bonificacoes": "Até 2 ao ano (de acordo com regras internas).",
+      "plano_saude": "Unimed",
+      "seguro_vida": true,
+      "parcerias": "Descontos para dentista, nutricionista, psicóloga, profissional de Pilates, academia, ótica, entre outros.",
+      "programas_incentivo": [
+        "Cursos gratuitos com certificado em nossa Universidade Corporativa.",
+        "Possibilidade de bolsa integral para colaboradores e dependentes legais nos cursos do MBA USP/Esalq (necessário diploma de ensino superior).",
+        "Possibilidade de bolsa integral para o curso de graduação na Faculdade Pecege.",
+        "Auxílio Educacional para cursos de idiomas: inglês ou espanhol."
+      ]
+    }
+  }
+  

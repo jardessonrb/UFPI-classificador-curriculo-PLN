@@ -1,0 +1,211 @@
+link-https://www.linkedin.com/jobs/view/4059670925/?eBP=CwEAAAGS7lJZ91o5x-MCzBBGg1qeJ0jnIlgWM2XzGdTKihFAuAPLUm7NsT-xe-m_5zFRhb19tEe527hnWo2-9wfTicAG4GM0kPwSE-P1GsZTFxfbgBFP1TAlu8_CWJ_hUtvGYLiGHWYx1ZA1bNl-dGUETByZ6X04LMhFMEuTeTBC393l4eUiv37sDMEBNKAYW1iiD5cNu9J5orB7E687GM1ZYw-ZNFCJfy4jwxote3oW933XU567qPTxiaLa1xESNSX0GdRekEGjYVvZQWFcB57bEGiYBJ_v3ybouYvJrZa6XRMWcraAVmRNXVOyz6HjGePNdXeRtNo7YbqBDlj2gA2Ch6ozexAU8NE1qGKtNo01PTK919VK6pDYdYTwVYTI4jgC-FiSMb6x8kSdtH5wOelm6sXw3ujQx-E3zq3bUZFeoFaX6pO8TMBHiYgAdHBFAd6pME6bROMviErrAGmDvMMhxVoHXdw9oes8t-NfWeN3ynEdJliHXhrEI4Fm5rOO3Mar&refId=4x41vHZcgLjEH3GZiClx%2Fg%3D%3D&trackingId=86B9WAUSNO7Qkw8DgBkmbQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Back End (GitHub)
+Sobre a vaga
+Junte-se a nós na engenharia de software, automatizando sistemas empresariais com tecnologia de ponta e uma forte visão de negócios, moldando o futuro juntos!Come join usA pessoa será integrante do time de DevOps, podendo atuar em frentes de APIOps (criando pipeline para publicação de API escritas em OpenAPI Specification), mirgações de repositories do BitBucket para o GitHub Enterprise e pipelines do Bamboo para o GitHub Actions, portanto será necessário ter solidos conhecimentos de Git e de criação de scripts.Together we do what matters.Skills And ExperiencesPrecisa ter experiencia em uma entre: Java, .NET, NodeJS, PyhtonAzure CloudRegistry (armazenamento e imagens Docker privado)DockerGerenciador de pacotes (Nexus, Azure Artifacts, GitHub Packages)FortifySonarQubeVSCodeYAML e JSONGitHub Actions ou Azure DevOps PipelinesDiferenciaisIaC (Terraform, Bicep ou ARM Template)Atlassian: Jira, Confluence, BambooArgoCDKubernetesToolkit:About YouCaracterísticas que demonstram sucesso para este papel:Ter comprometimento com o prazo das tarefas e sinalizar impedimentosSaber trabalhar em equipe e pedir ajudaTer boa comunicaçãoQuerer aprender sobre principios de DevOps utilizando algumas ferramentasWhat You'll DoConstruir e automatizar funcionalidades que resolvem problemas de negócios complexosImplementar APIs e Microservices, integrando sistemas externosDesenvolver soluções escaláveis e baseadas na nuvemAplicar práticas modernas de desenvolvimento e DevOps, incluindo CI/CD e testes automatizadosLearn morePara Saber Mais Sobre a Avanade, Confira Estes LinksLinkedinBlogCarreiraEnjoy your careerAlgumas Das Melhores Coisas Sobre Trabalhar Na AvanadeOportunidade de trabalhar para o Parceiro Global da Aliança da Microsoft do Ano (14 anos consecutivos), com desenvolvimento e treinamento excepcionais (mínimo de 80 horas por ano para treinamentos e certificações pagas)Acesso em tempo real a recursos técnicos e qualificados globalmenteConselheiro de carreira dedicado para incentivar seu crescimentoColegas de trabalho engajados e prestativos genuinamente interessados em vocêSaiba Mais Sobre Alguns De Nossos BenefíciosVale refeição ou alimentação;Cartão Multibenefícios até Consultor Sênior;Convênio médico e odontológico;NAV: Plataforma online para cuidar da saúde;Certificações e treinamentos;Seguro de Vida;Previdência Privada;Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade;Participação nos resultados da empresa;Gympass; Auxílio Creche;Career Advisor - Mentoria de carreira;Política de Birthday Off em seu aniversário e de filhos até 12 anos;Sessões de Bem-Estar;Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.A great place to workAo trazer suas habilidades e capacidades para a Avanade, você terá experiências distintas, aprendizado ilimitado e crescimento ambicioso em troca. À medida que continuamos a construir nossa cultura diversa e inclusiva, nos tornamos ainda mais inovadores e criativos, ajudando-nos a servir melhor nossos clientes e comunidades. Você se juntará a uma comunidade de colaboradores inteligentes e solidários para elevar, orientar e guiar você, e contar com sua expertise. Você terá uma empresa construída para soluções tecnológicas de ponta e críticas para os negócios, comprometida em melhorar a forma como os humanos trabalham, interagem e vivem. Está tudo aqui, então dê uma olhada mais de perto!Trabalhamos arduamente para proporcionar uma cultura inclusiva e diversificada, com um profundo senso de pertencimento para todos os nossos funcionários. Visite nossapágina de Inclusão & Diversidade.Crie um futuro para nossas pessoas que se concentra em:Expandir seu pensamentoExperimentar corajosamenteAprender e pivotarInspire Grandeza Em Nossas Pessoas PorEmpoderar cada vozEncorajar a ousadiaCelebrar o progressoAcelere o Impacto De Nossas Pessoas PorSurpreender o clientePriorizar o que importaAgir como um só
+
+
+Come join us
+
+
+
+Together we do what matters.
+
+
+Skills And Experiences
+
+
+Precisa ter experiencia em uma entre: Java, .NET, NodeJS, PyhtonAzure CloudRegistry (armazenamento e imagens Docker privado)DockerGerenciador de pacotes (Nexus, Azure Artifacts, GitHub Packages)FortifySonarQubeVSCodeYAML e JSONGitHub Actions ou Azure DevOps Pipelines
+Precisa ter experiencia em uma entre: Java, .NET, NodeJS, Pyhton
+Precisa ter experiencia em uma entre: Java, .NET, NodeJS, Pyhton
+Azure Cloud
+Azure Cloud
+Registry (armazenamento e imagens Docker privado)
+Registry (armazenamento e imagens Docker privado)
+Docker
+Docker
+Gerenciador de pacotes (Nexus, Azure Artifacts, GitHub Packages)
+Gerenciador de pacotes (Nexus, Azure Artifacts, GitHub Packages)
+Fortify
+Fortify
+SonarQube
+SonarQube
+VSCode
+VSCode
+YAML e JSON
+YAML e JSON
+GitHub Actions ou Azure DevOps Pipelines
+GitHub Actions ou Azure DevOps Pipelines
+
+
+Diferenciais
+
+
+IaC (Terraform, Bicep ou ARM Template)Atlassian: Jira, Confluence, BambooArgoCDKubernetesToolkit:
+IaC (Terraform, Bicep ou ARM Template)
+IaC (Terraform, Bicep ou ARM Template)
+Atlassian: Jira, Confluence, Bamboo
+Atlassian: Jira, Confluence, Bamboo
+ArgoCD
+ArgoCD
+Kubernetes
+Kubernetes
+Toolkit:
+Toolkit:
+
+
+About You
+
+
+
+
+Ter comprometimento com o prazo das tarefas e sinalizar impedimentosSaber trabalhar em equipe e pedir ajudaTer boa comunicaçãoQuerer aprender sobre principios de DevOps utilizando algumas ferramentas
+Ter comprometimento com o prazo das tarefas e sinalizar impedimentos
+Ter comprometimento com o prazo das tarefas e sinalizar impedimentos
+Saber trabalhar em equipe e pedir ajuda
+Saber trabalhar em equipe e pedir ajuda
+Ter boa comunicação
+Ter boa comunicação
+Querer aprender sobre principios de DevOps utilizando algumas ferramentas
+Querer aprender sobre principios de DevOps utilizando algumas ferramentas
+
+
+What You'll Do
+
+
+Construir e automatizar funcionalidades que resolvem problemas de negócios complexosImplementar APIs e Microservices, integrando sistemas externosDesenvolver soluções escaláveis e baseadas na nuvemAplicar práticas modernas de desenvolvimento e DevOps, incluindo CI/CD e testes automatizados
+Construir e automatizar funcionalidades que resolvem problemas de negócios complexos
+Construir e automatizar funcionalidades que resolvem problemas de negócios complexos
+Implementar APIs e Microservices, integrando sistemas externos
+Implementar APIs e Microservices, integrando sistemas externos
+Desenvolver soluções escaláveis e baseadas na nuvem
+Desenvolver soluções escaláveis e baseadas na nuvem
+Aplicar práticas modernas de desenvolvimento e DevOps, incluindo CI/CD e testes automatizados
+Aplicar práticas modernas de desenvolvimento e DevOps, incluindo CI/CD e testes automatizados
+
+
+Learn more
+
+
+Para Saber Mais Sobre a Avanade, Confira Estes Links
+
+
+
+
+
+
+
+
+Enjoy your career
+
+
+Algumas Das Melhores Coisas Sobre Trabalhar Na Avanade
+
+
+Oportunidade de trabalhar para o Parceiro Global da Aliança da Microsoft do Ano (14 anos consecutivos), com desenvolvimento e treinamento excepcionais (mínimo de 80 horas por ano para treinamentos e certificações pagas)Acesso em tempo real a recursos técnicos e qualificados globalmenteConselheiro de carreira dedicado para incentivar seu crescimentoColegas de trabalho engajados e prestativos genuinamente interessados em você
+Oportunidade de trabalhar para o Parceiro Global da Aliança da Microsoft do Ano (14 anos consecutivos), com desenvolvimento e treinamento excepcionais (mínimo de 80 horas por ano para treinamentos e certificações pagas)
+Oportunidade de trabalhar para o Parceiro Global da Aliança da Microsoft do Ano (14 anos consecutivos), com desenvolvimento e treinamento excepcionais (mínimo de 80 horas por ano para treinamentos e certificações pagas)
+Acesso em tempo real a recursos técnicos e qualificados globalmente
+Acesso em tempo real a recursos técnicos e qualificados globalmente
+Conselheiro de carreira dedicado para incentivar seu crescimento
+Conselheiro de carreira dedicado para incentivar seu crescimento
+Colegas de trabalho engajados e prestativos genuinamente interessados em você
+Colegas de trabalho engajados e prestativos genuinamente interessados em você
+
+
+Saiba Mais Sobre Alguns De Nossos Benefícios
+
+
+Vale refeição ou alimentação;Cartão Multibenefícios até Consultor Sênior;Convênio médico e odontológico;NAV: Plataforma online para cuidar da saúde;Certificações e treinamentos;Seguro de Vida;Previdência Privada;Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade;Participação nos resultados da empresa;Gympass; Auxílio Creche;Career Advisor - Mentoria de carreira;Política de Birthday Off em seu aniversário e de filhos até 12 anos;Sessões de Bem-Estar;Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+Vale refeição ou alimentação;
+Vale refeição ou alimentação;
+
+Cartão Multibenefícios até Consultor Sênior;
+Cartão Multibenefícios até Consultor Sênior;
+
+Convênio médico e odontológico;
+Convênio médico e odontológico;
+
+NAV: Plataforma online para cuidar da saúde;
+NAV: Plataforma online para cuidar da saúde;
+
+Certificações e treinamentos;
+Certificações e treinamentos;
+
+Seguro de Vida;
+Seguro de Vida;
+
+Previdência Privada;
+Previdência Privada;
+
+Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade;
+Avababy: acompanhamento da gestação e kit para os novos pais e mães Avanade;
+
+Participação nos resultados da empresa;
+Participação nos resultados da empresa;
+Gympass; Auxílio Creche;
+Gympass; Auxílio Creche;
+
+Career Advisor - Mentoria de carreira;
+Career Advisor - Mentoria de carreira;
+
+Política de Birthday Off em seu aniversário e de filhos até 12 anos;
+Política de Birthday Off em seu aniversário e de filhos até 12 anos;
+
+Sessões de Bem-Estar;
+Sessões de Bem-Estar;
+
+Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+Para função gerencial ou superior - Veículo corporativo, estacionamento e auxílio combustível.
+
+
+A great place to work
+
+
+
+
+
+
+
+
+
+Expandir seu pensamentoExperimentar corajosamenteAprender e pivotar
+Expandir seu pensamento
+Expandir seu pensamento
+
+Experimentar corajosamente
+Experimentar corajosamente
+
+Aprender e pivotar
+Aprender e pivotar
+
+
+
+Inspire Grandeza Em Nossas Pessoas Por
+
+
+Empoderar cada vozEncorajar a ousadiaCelebrar o progresso
+Empoderar cada voz
+Empoderar cada voz
+
+Encorajar a ousadia
+Encorajar a ousadia
+
+Celebrar o progresso
+Celebrar o progresso
+
+
+
+Acelere o Impacto De Nossas Pessoas Por
+
+
+Surpreender o clientePriorizar o que importaAgir como um só
+Surpreender o cliente
+Surpreender o cliente
+
+Priorizar o que importa
+Priorizar o que importa
+
+Agir como um só
+Agir como um só
+

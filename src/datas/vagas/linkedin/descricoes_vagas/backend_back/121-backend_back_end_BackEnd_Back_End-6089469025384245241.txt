@@ -1,0 +1,190 @@
+link-https://www.linkedin.com/jobs/view/4045062249/?eBP=CwEAAAGS7lH1MGI_Tc8SRCqs_YaAlrjXFAeUj3oMIJNuja7QqicdhYiGPtD_wUGfiZdYn3Nu5cWLgntzw2ns-MYeJLTz7hZpnpMRjRJ0Io594wfBFzCDbFMnGiNi7Q73TJZLFaew13pURDCVxLhHds6PBF0TvSsXFaT6wztfymRe5WmlyJV-TgzBuf1ufhyQP4Dl6I3eRmlTVIstxGATxJuiqzKzFBZ98JvWg5gSiKvMYmCWYwkS3yGRbQmEdzu80P0Trcfdcq84w3NnHitekvPpkS4lm63M3YmH0c_mLzBRu_z2MWRVzAuZkLDQms3ArxRUEVuUQ0pCSRV7oOfSnynDw01LXRuDRF8bVvhiwnjhbBG78V86UurKNMBg9keTspQ_y2wPZUncoc7LWUqu4gvCVFi1PEZGkjvmB706g2_ja78qvbuGTHOs5-eLoIBLbkuvw1c0TPbB5_rEoktscbpM74QvUDvPjb0dxx3Lw2jMvhNX_Ed6gBmzS7xgLEdhBPcW1i22i9TY9g&refId=8%2F37JKGFUMmMKgYC%2B%2FmUsQ%3D%3D&trackingId=IyV5W05yGZJ3lWW7Fav%2Fbw%3D%3D&trk=flagship3_search_srp_jobs
+
+Profissional Desenvolvedor Backend Sênior
+Sobre a vaga
+Job DescriptionA primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresa global.Quer fazer parte dessa história e transformar ideias e sonhos em realidade?#VemPraRadixResponsibilities and assignmentsBuscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina, .Como Profissional de Desenvolvimento Back End você vai:Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipuladosProjetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entreguesEncaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicaçãoRealizar a manutenção de sistemas e aplicações;Requirements And QualificationsPara essa vaga, você deve ter:Experiência em desenvolvimento backend utilizando .NET C#;Sólida experiência com integração com o PI System, utilizando PI AF SDK;Conhecimento em APIs RESTful e integração com outros sistemas corporativos;Experiência em desenvolvimento de soluções escaláveis e seguras;Familiaridade com bancos de dados relacionais (SQL Server, Oracle, etc.);Boas práticas de desenvolvimento de software, padrões de projeto e ciclo de vida de aplicação;Conhecimento em ferramentas de automação de build e CI/CD (diferencial);Experiência com controle de versão (Git);Desejável:Experiência com outras tecnologias de integração com o PI System (ex: PI Web API, PI OPC);Conhecimento em desenvolvimento orientado a testes (TDD) e frameworks de teste;Experiência com containers (Docker, Kubernetes) e microservices;Conhecimento em soluções de cloud computing (Azure, AWS) será considerado um diferencial.Detalhes da vaga:Modelo de trabalho: CLTRegime de contratação: RemotoAdditional informationModelo de trabalho: CLTRegime de contratação: RemotoBenefícios:Plano de Saúde + OdontológicoMédico da empresaGympass (+3 dependentes)Auxílio creche até 3 anosLicença maternidade e paternidade estendidasAuxílio home officeVR e/ou VADay off de aniversárioUniversidade CorporativaConvênio com instituições de ensino e cursos de idiomaPrograma de treinamentos internosPlano de Incentivos atrelado à avaliação de Desempenho.A Radix está sempre no topo das Melhores Empresas para se trabalhar porque:Temos profissionais comprometidos, dedicados, curiosos e inovadores.O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção.Temos um ambiente diverso, que valoriza equidade e inclusão.Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil.Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis.Curtiu?#VemPraRadixProcess stagesStep 1: Registration1RegistrationStep 2: Análise de currículo2Análise de currículoStep 3: Entrevista com Gente e Gestão3Entrevista com Gente e GestãoStep 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da VagaStep 5: Carta Proposta5Carta PropostaStep 6: Hiring6HiringUma empresa global, movida à inovação e desafios 🚀Presente em mais de25 países, a Radix conectapessoas, oportunidades, projetosenegóciosno mundo todo. Nós criamos e transformamos conhecimento em resultados.Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemosserviços e soluções tecnológicasatendendo os mais variadossetores da indústria.Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos.A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras.Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.Vem com a gente se conectar ao seu futuro, #VemSerRadix.
+Job Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipuladosProjetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entreguesEncaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicaçãoRealizar a manutenção de sistemas e aplicações;
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados
+
+Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues
+Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues
+
+Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação
+Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação
+
+Realizar a manutenção de sistemas e aplicações;
+Realizar a manutenção de sistemas e aplicações;
+
+
+
+Requirements And Qualifications
+
+
+Para essa vaga, você deve ter:
+
+
+Experiência em desenvolvimento backend utilizando .NET C#;Sólida experiência com integração com o PI System, utilizando PI AF SDK;Conhecimento em APIs RESTful e integração com outros sistemas corporativos;Experiência em desenvolvimento de soluções escaláveis e seguras;Familiaridade com bancos de dados relacionais (SQL Server, Oracle, etc.);Boas práticas de desenvolvimento de software, padrões de projeto e ciclo de vida de aplicação;Conhecimento em ferramentas de automação de build e CI/CD (diferencial);Experiência com controle de versão (Git);
+Experiência em desenvolvimento backend utilizando .NET C#;
+Experiência em desenvolvimento backend utilizando .NET C#;
+Sólida experiência com integração com o PI System, utilizando PI AF SDK;
+Sólida experiência com integração com o PI System, utilizando PI AF SDK;
+Conhecimento em APIs RESTful e integração com outros sistemas corporativos;
+Conhecimento em APIs RESTful e integração com outros sistemas corporativos;
+Experiência em desenvolvimento de soluções escaláveis e seguras;
+Experiência em desenvolvimento de soluções escaláveis e seguras;
+Familiaridade com bancos de dados relacionais (SQL Server, Oracle, etc.);
+Familiaridade com bancos de dados relacionais (SQL Server, Oracle, etc.);
+Boas práticas de desenvolvimento de software, padrões de projeto e ciclo de vida de aplicação;
+Boas práticas de desenvolvimento de software, padrões de projeto e ciclo de vida de aplicação;
+Conhecimento em ferramentas de automação de build e CI/CD (diferencial);
+Conhecimento em ferramentas de automação de build e CI/CD (diferencial);
+Experiência com controle de versão (Git);
+Experiência com controle de versão (Git);
+
+
+Desejável:
+
+
+Experiência com outras tecnologias de integração com o PI System (ex: PI Web API, PI OPC);Conhecimento em desenvolvimento orientado a testes (TDD) e frameworks de teste;Experiência com containers (Docker, Kubernetes) e microservices;Conhecimento em soluções de cloud computing (Azure, AWS) será considerado um diferencial.
+Experiência com outras tecnologias de integração com o PI System (ex: PI Web API, PI OPC);
+Experiência com outras tecnologias de integração com o PI System (ex: PI Web API, PI OPC);
+Conhecimento em desenvolvimento orientado a testes (TDD) e frameworks de teste;
+Conhecimento em desenvolvimento orientado a testes (TDD) e frameworks de teste;
+Experiência com containers (Docker, Kubernetes) e microservices;
+Experiência com containers (Docker, Kubernetes) e microservices;
+Conhecimento em soluções de cloud computing (Azure, AWS) será considerado um diferencial.
+Conhecimento em soluções de cloud computing (Azure, AWS) será considerado um diferencial.
+
+
+Detalhes da vaga:
+
+
+Modelo de trabalho: CLTRegime de contratação: Remoto
+Modelo de trabalho: CLT
+Modelo de trabalho: CLT
+Regime de contratação: Remoto
+Regime de contratação: Remoto
+
+
+
+
+
+
+
+
+
+
+Plano de Saúde + OdontológicoMédico da empresaGympass (+3 dependentes)Auxílio creche até 3 anosLicença maternidade e paternidade estendidasAuxílio home officeVR e/ou VADay off de aniversárioUniversidade CorporativaConvênio com instituições de ensino e cursos de idiomaPrograma de treinamentos internosPlano de Incentivos atrelado à avaliação de Desempenho.
+Plano de Saúde + Odontológico
+Plano de Saúde + Odontológico
+
+Médico da empresa
+Médico da empresa
+
+Gympass (+3 dependentes)
+Gympass (+3 dependentes)
+
+Auxílio creche até 3 anos
+Auxílio creche até 3 anos
+
+Licença maternidade e paternidade estendidas
+Licença maternidade e paternidade estendidas
+
+Auxílio home office
+Auxílio home office
+
+VR e/ou VA
+VR e/ou VA
+
+Day off de aniversário
+Day off de aniversário
+
+Universidade Corporativa
+Universidade Corporativa
+
+Convênio com instituições de ensino e cursos de idioma
+Convênio com instituições de ensino e cursos de idioma
+
+Programa de treinamentos internos
+Programa de treinamentos internos
+
+Plano de Incentivos atrelado à avaliação de Desempenho.
+Plano de Incentivos atrelado à avaliação de Desempenho.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Análise de currículo2Análise de currículoStep 3: Entrevista com Gente e Gestão3Entrevista com Gente e GestãoStep 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da VagaStep 5: Carta Proposta5Carta PropostaStep 6: Hiring6Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Análise de currículo2Análise de currículo
+Step 2: Análise de currículo2Análise de currículo
+Step 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Step 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Step 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Step 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Step 5: Carta Proposta5Carta Proposta
+Step 5: Carta Proposta5Carta Proposta
+Step 6: Hiring6Hiring
+Step 6: Hiring6Hiring
+
+
+
+
+
+25 países
+pessoas, oportunidades, projetos
+
+
+negócios
+
+
+
+
+
+serviços e soluções tecnológicas
+
+
+setores da indústria.
+
+
+
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere
+
+
+
+

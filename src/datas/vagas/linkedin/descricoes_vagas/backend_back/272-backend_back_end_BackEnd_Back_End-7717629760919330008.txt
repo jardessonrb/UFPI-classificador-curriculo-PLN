@@ -1,0 +1,29 @@
+link-https://www.linkedin.com/jobs/view/4041031641/?eBP=CwEAAAGS7lNW-OxEuGFTnTxtGzoiLRzQV0F87VRZNTW1kpuqXL-fwQDIV9Xh4BP-TTF5ggrfbXjjuGJfWQhZ143CGF4h1Q5qicGEufwX1qbcHWQLrHXXilIGAAva8NZeZ55rWuP2ZWma7aYCHKKAD4yq6cY-z1ptD6jAECk4m_zsZlraIHfrNE6IKPW1ViTXpt1TfC1dSB894DlOVduwKAnZTBzX3QIxR20fAA7i17fAkMv3r0rtcJvg03zWDdXESlilY3wVN4vPOFcrckmgBQbGEr3iUoSN79Y0Vv6LZm6M6BOwZRWMzpu9ZuQrBAIGr6LSPrcdtP1WDkawYQjselrzm1AcuiXe9PeimBsyGXWraSLBsxf27NV_vHSZ-ge4mzF9-SKIBT2Df91oe3vhrnz4cukvqZ8ZjtMzz_tajQu_AEGu7pl7EtEuZP22ZHDXkZV3G1BtF6xyLCut0--8-O3AgqBzBOSr8ZNvIgbJm07UHj1pbhaj3w4iOYMTa5C8lr3v&refId=pcYUo6H8SLGigYcozUDaJg%3D%3D&trackingId=50t7SFNXrw3%2Bnsq7ul2e9Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor JAVA Back-end
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Profissional para atuação como desenvolvedor JAVA. Imprescindível: 5+ anos de experiência; Java 8 ou + recente (Spring framework / Spring boot); Experiências: GIT, arquitetura de Micro serviço, protocolos REST; Testes unitários e Sonar; Experiência com arquitetura Cloud (AWS); Conhecimento em Docker; Conhecimento em Kubernets Banco de Dados relacionais (SQL Server, MySQL e/ou Postgres, etc) e não-relacionais (DynamoDB); Conhecimentos em ferramentas de automação como Selenium; Perfil proativo. Desejável: Conhecimentos em DevOps (criação de pipelines e automação de infraestrutura, ex. Terraform); Conhecimento em frontend (Angular).Desenvolvimento Back-end e Integrações;Java 8/11/14, Microservices SpringBoot, SpringBatch, Jenkins / Nexus, Testes usando plataformas JUnit / Sonar, SQL / PL-SQL (SQL Server, Oracle), NoSQL (MongDB / Redis / DynamoDB), Docker / Kubernates, Maven / Gradle, AWS.Habilidades ObrigatóriasJavaHabilidades DesejáveisA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+
+
+Java 8/11/14, Microservices SpringBoot, SpringBatch, Jenkins / Nexus, Testes usando plataformas JUnit / Sonar, SQL / PL-SQL (SQL Server, Oracle), NoSQL (MongDB / Redis / DynamoDB), Docker / Kubernates, Maven / Gradle, AWS.
+Java 8/11/14, Microservices SpringBoot, SpringBatch, Jenkins / Nexus, Testes usando plataformas JUnit / Sonar, SQL / PL-SQL (SQL Server, Oracle), NoSQL (MongDB / Redis / DynamoDB), Docker / Kubernates, Maven / Gradle, AWS.
+Java 8/11/14, Microservices SpringBoot, SpringBatch, Jenkins / Nexus, Testes usando plataformas JUnit / Sonar, SQL / PL-SQL (SQL Server, Oracle), NoSQL (MongDB / Redis / DynamoDB), Docker / Kubernates, Maven / Gradle, AWS.
+
+
+
+
+
+Java
+Java
+Java
+
+
+
+
+
+

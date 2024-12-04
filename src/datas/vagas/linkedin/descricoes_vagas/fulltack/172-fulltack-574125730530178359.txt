@@ -1,0 +1,51 @@
+link-https://www.linkedin.com/jobs/view/4058437771/?eBP=CwEAAAGS7hHiQ0jbSxMvjm4Cwf1FAVWeX3ifenm8t4HbNbzIb_PU2CaWB472KYPI7ahFKmJRm2lO-U8djyMgaxfNvcM4fk7ShsQT-R0l-m14FDV6EytxFHZ7JO9vb7WJxd58xRAqJLZRC7wOQNRyxEghD5SFYxl6UlhdMn6f6NJUnoo4XkiPzGlj_VFw1O218gkE-Xat4AnoYYWOQJLbv9eVz2QdMYQMOWuH2XyP325DDmpSi8Q1AdsDlQ-JF_9GE7OoAfvVht_Egs47teygVYrWgKkv2keSCWqf2ztWMdDh1f6mBJCMc-uz_vtg5CDC-uKkVHKmBktj04dJ2Ygx2C3UAujCg_D_W3dOMXXk1-bzHE-OsBaoCvHeH4QlPMglDBG1isQIY5mWCeNC7O9s-ujfGRARTIWQd6s8OE3_iq3JvuEmPLeJhACPeR5XHQm99fbZkvZlTudCkCdqGFy9zasCGaHhY-2PHXqavWCApwehMQywHRydzFQghdSLliE0x2Km&refId=hJTOhUKvLQvI%2F5Jfi7eRJA%3D%3D&trackingId=XO47gjLQPyjNC77q4Z3F6g%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Full Stack Especialista (Node.js+Java)
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+Sobre a VagaBuscamos um Desenvolvedor Full Stack Especialista em Node.js e Java com Spring Boot, experiência sólida na nuvem da Amazon Web Services (AWS). O candidato ideal deve ser capaz de projetar, desenvolver e implementar soluções eficientes e escaláveis utilizando as melhores práticas de desenvolvimento e os serviços da AWS.AtividadesProjetar, desenvolver e manter aplicações em Node.js e/ou em Java com Spring Boot;Escrever código eficiente, legível e funcional;Ler e implementar solução de software conforme a definição de arquitetura de solução aplicando os principais padrões de engenharia de software;Utilizar banco de dados relacionais e não relacionais (NoSQL);Ter o conhecimento em práticas de segurança, como autenticação, autorização, criptografia e proteção contra ameaças comuns. A capacidade de projetar sistemas com segurança desde o início é essencial;Criar testes unitários, testes de integração e realizar depuração eficiente para garantir a qualidade do software e identificar e corrigir possíveis bugs;Comunicar efetivamente com membros da equipe, participando de reuniões e discussões técnicas;Elaborar documentação clara e detalhada para código, APIs, e integração de tecnologias.Requisitos e QualificaçõesBacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente);Experiência em Projetar, desenvolver e manter aplicações em Node.js e/ou em Java com Spring Boot;Experiência em Arquitetura de Software;Experiência com banco de dados relacionais e não relacionais (NoSQL);Experiência em sistemas de controle de versão, como Git, e compreensão de estratégias de branching e merging para colaboração eficiente em equipe usando Gitflow;Experiência em criar testes unitários, testes de integração e realizar depuração eficiente para garantir a qualidade do software e identificar e corrigir possíveis bugs;Forte experiência em AWS: Lambda, EKS, API Gateway, Load balance, IAM, RDS, DynamoDB, OpenSearch, EC2, MSK, MWAA;Docker, Kubernetes;Linux Debian ou RedHat;Conhecimento em práticas de segurança, como autenticação, autorização, criptografia e proteção contra ameaças comuns. A capacidade de projetar sistemas com segurança desde o início é essencial.
+Sobre a Vaga
+
+
+
+
+Atividades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

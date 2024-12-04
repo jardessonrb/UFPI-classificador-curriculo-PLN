@@ -1,0 +1,125 @@
+link-https://www.linkedin.com/jobs/view/4040885811/?eBP=CwEAAAGS7k1YXH0_pWV6jQZZ43Rd6x4bpnQm49jGiIFqzflnfuhoFIBnaOm_e9gAnHd2DIrsyYmu2r9kN3_koy76R0I2cCSR90m0ff-kKdxSYKROQcWgZtmwJ_O4IJQFRXDpMIcLJhawB1my-b301OW3bzjurfVCipXqlUnVZuEuIBmAgVC5epfyk1kwi1vB9wiz_HvGsLuVWpj2EaxfWJtHoifeqVvDS0QbreOr94uALHpCgB3646aANoCcbCEr1aZRPAUOnrTJUr6UCWJr9db22gmV3smTlsX_H5jkMDmmKZae0bJUd1MIy0eiUTFs8RQ9NF3t_nvgXqVvXvVeo3B6yfJ1Kv3Tgu6uf_k5t5zoPxc_Y6-GLJ8E0Q5_DWd-qzK-Uan3SH_XxjWBldVFxVp6OiDXFkbygV124H5O3EcFUJcVXSsOeB_dRyOHWXGkcw2UKyInESgVXBRx5qHk37GNQ9gspr0qG_oCsWv7fxLClj9ieLpeZuLvjmjG0RdqAw&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=y73E14N9mPd2awHim5LgoA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor (a) Front End Pleno | Canoas - RS
+Sobre a vaga
+Descrição da vagaNesta oportunidade deDesenvolvedor (a) Front End Pleno, você será responsável por criar interfaces de usuário interativas e responsivas para aplicações web utilizando diversas tecnologias de mercado, seguindo orientações já alinhadas com a identidade das nossas soluções.Somos uma empresa de tecnologia orientada a desenvolver soluções customizadas para auxiliar nossos clientes a gerir suas frotas de forma eficiente. Nossa missão além de promover a melhoria nos processos logísticos dos nossos clientes é promover um ambiente desafiador a fim de incentivar o autoconhecimento e autodesenvolvimento adaptado as necessidades profissionais dos nossos colaboradores.Para te ajudar a entender o desafio, aqui estão algumas responsabilidades:Criar interfaces de usuário responsivas, intuitivas e atraentes para sites, aplicativos da web;Escrever código limpo, semântico e eficiente em HTML para estruturar o conteúdo da página, CSS para estilizar elementos e JavaScript para adicionar interatividade e funcionalidades dinâmicas;Garantir que as interfaces sejam amigáveis, utilizando técnicas como layouts flexíveis, media queries e frameworks responsivos;Colaborar com desenvolvedores backend para integrar front-end com sistemas e APIs, garantindo uma comunicação eficiente e segura entre a interface do usuário e o servidor;Otimizar o desempenho da interface do usuário, incluindo carregamento rápido de páginas, minimização de requisições HTTP, otimização de imagens e uso de técnicas de cache;Realizar testes de compatibilidade entre navegadores, testes de usabilidade e testes de desempenho para garantir uma experiência consistente e sem problemas para os usuários. Identificar e corrigir bugs e problemas de compatibilidade;Manter o código existente, realizar atualizações de software, aplicar correções de segurança e implementar novas funcionalidades de acordo com os requisitos do projeto e as necessidades dos usuários;Trabalhar em equipe com designers, desenvolvedores backend, gerentes de projeto e outros stakeholders para traduzir requisitos de design e funcionalidade em código funcional e de alta qualidade;Seguir as melhores práticas de desenvolvimento front-end, incluindo acessibilidade, SEO (Search Engine Optimization), padrões de codificação, controle de versão e uso de ferramentas e frameworks modernos.Para Esta Oportunidade é Necessário Que VocêTenha experiência sólida em linguagens fundamentais para o desenvolvimento front-end, como HTML para estruturação, CSS para estilização e JavaScript para interatividade e dinamismo;Tenha familiaridade com frameworks e bibliotecas populares, como React.js, Angular 2+, Vue.js, Bootstrap, etc., para agilizar o desenvolvimento e criar interfaces dinâmicas;Tenha capacidade de criar layouts responsivos e adaptáveis, utilizando técnicas como media queries, flexbox e grid layout;Tenha conhecimento em sistemas de controle de versão, como Git, e boas práticas de colaboração em equipe usando plataformas como GitHub ou GitLab;Tenha experiência com ferramentas e ambientes de desenvolvimento front-end, como editores de código (VS Code, Sublime Text), preprocessadores CSS, gerenciadores de pacotes (npm, Yarn) e task runners (Webpack, Gulp);Tenha habilidade em realizar testes de compatibilidade, testes de usabilidade e depuração de código para identificar e corrigir bugs e problemas de desempenho;Tenha compreensão básica de conceitos de design de experiência do usuário (UX) e design de interface do usuário (UI) para colaborar efetivamente com designers e criar interfaces intuitivas e atraentes;Tenha conhecimento em práticas de acessibilidade web (WCAG) para garantir que as interfaces sejam acessíveis;Tenha disponibilidade para trabalhar de forma presencial em Canoas - RS;Tenha boas habilidades de comunicação para trabalhar em equipe, colaborar com designers, desenvolvedores backend e stakeholders, e entender requisitos de projeto e feedback.Será Um Diferencial SeTiver algum conhecimento na criação de interfaces orientadas a aplicativos móveis.A CREARE Oferece o SeguinteVale Alimentação/Refeição [R$ 31,50 por dia trabalhado, creditados no cartão CAJU, sem desconto em folha de pagamento];Vale Transporte [pago conforme roteirização] ou Auxílio Mobilidade [pago conforme roteirização] - opções com desconto de 6% do salário - ou Isenção do Estacionamento;Plano de Saúde Unimed Seguros [parte subsidiado pela empresa para o colaborador, após período de experiência. Em caso de inclusão de dependentes, o pagamento é integralmente realizado pelo colaborador];Plano Odontológico MetLife [ R$12,31 para cada pessoa inclusa, sem coparticipação];Seguro de vida em grupo [sem desconto em folha de pagamento];DayOff de Aniversário [curta uma folga no mês do seu níver para comemorar com pessoas especiais];Auxílio Idiomas [reembolso de até R$ 150,00 mensais para apoiar no seu desenvolvimento. Válido após período de experiência];Gympass [escolha o seu plano e aproveite as melhores academias próximas de você];Auxílio Creche [pago para crianças de até 6 anos];Oportunidades de Crescimento e Desenvolvimento [valorizamos nossos talentos e, por isso, aqui você chances de crescer e aprender].
+Descrição da vaga
+
+
+
+Desenvolvedor (a) Front End Pleno
+
+
+
+
+Para te ajudar a entender o desafio, aqui estão algumas responsabilidades:
+
+
+Criar interfaces de usuário responsivas, intuitivas e atraentes para sites, aplicativos da web;Escrever código limpo, semântico e eficiente em HTML para estruturar o conteúdo da página, CSS para estilizar elementos e JavaScript para adicionar interatividade e funcionalidades dinâmicas;Garantir que as interfaces sejam amigáveis, utilizando técnicas como layouts flexíveis, media queries e frameworks responsivos;Colaborar com desenvolvedores backend para integrar front-end com sistemas e APIs, garantindo uma comunicação eficiente e segura entre a interface do usuário e o servidor;Otimizar o desempenho da interface do usuário, incluindo carregamento rápido de páginas, minimização de requisições HTTP, otimização de imagens e uso de técnicas de cache;Realizar testes de compatibilidade entre navegadores, testes de usabilidade e testes de desempenho para garantir uma experiência consistente e sem problemas para os usuários. Identificar e corrigir bugs e problemas de compatibilidade;Manter o código existente, realizar atualizações de software, aplicar correções de segurança e implementar novas funcionalidades de acordo com os requisitos do projeto e as necessidades dos usuários;Trabalhar em equipe com designers, desenvolvedores backend, gerentes de projeto e outros stakeholders para traduzir requisitos de design e funcionalidade em código funcional e de alta qualidade;Seguir as melhores práticas de desenvolvimento front-end, incluindo acessibilidade, SEO (Search Engine Optimization), padrões de codificação, controle de versão e uso de ferramentas e frameworks modernos.
+Criar interfaces de usuário responsivas, intuitivas e atraentes para sites, aplicativos da web;
+Criar interfaces de usuário responsivas, intuitivas e atraentes para sites, aplicativos da web;
+
+Escrever código limpo, semântico e eficiente em HTML para estruturar o conteúdo da página, CSS para estilizar elementos e JavaScript para adicionar interatividade e funcionalidades dinâmicas;
+Escrever código limpo, semântico e eficiente em HTML para estruturar o conteúdo da página, CSS para estilizar elementos e JavaScript para adicionar interatividade e funcionalidades dinâmicas;
+
+Garantir que as interfaces sejam amigáveis, utilizando técnicas como layouts flexíveis, media queries e frameworks responsivos;
+Garantir que as interfaces sejam amigáveis, utilizando técnicas como layouts flexíveis, media queries e frameworks responsivos;
+
+Colaborar com desenvolvedores backend para integrar front-end com sistemas e APIs, garantindo uma comunicação eficiente e segura entre a interface do usuário e o servidor;
+Colaborar com desenvolvedores backend para integrar front-end com sistemas e APIs, garantindo uma comunicação eficiente e segura entre a interface do usuário e o servidor;
+
+Otimizar o desempenho da interface do usuário, incluindo carregamento rápido de páginas, minimização de requisições HTTP, otimização de imagens e uso de técnicas de cache;
+Otimizar o desempenho da interface do usuário, incluindo carregamento rápido de páginas, minimização de requisições HTTP, otimização de imagens e uso de técnicas de cache;
+
+Realizar testes de compatibilidade entre navegadores, testes de usabilidade e testes de desempenho para garantir uma experiência consistente e sem problemas para os usuários. Identificar e corrigir bugs e problemas de compatibilidade;
+Realizar testes de compatibilidade entre navegadores, testes de usabilidade e testes de desempenho para garantir uma experiência consistente e sem problemas para os usuários. Identificar e corrigir bugs e problemas de compatibilidade;
+
+Manter o código existente, realizar atualizações de software, aplicar correções de segurança e implementar novas funcionalidades de acordo com os requisitos do projeto e as necessidades dos usuários;
+Manter o código existente, realizar atualizações de software, aplicar correções de segurança e implementar novas funcionalidades de acordo com os requisitos do projeto e as necessidades dos usuários;
+Trabalhar em equipe com designers, desenvolvedores backend, gerentes de projeto e outros stakeholders para traduzir requisitos de design e funcionalidade em código funcional e de alta qualidade;
+Trabalhar em equipe com designers, desenvolvedores backend, gerentes de projeto e outros stakeholders para traduzir requisitos de design e funcionalidade em código funcional e de alta qualidade;
+
+Seguir as melhores práticas de desenvolvimento front-end, incluindo acessibilidade, SEO (Search Engine Optimization), padrões de codificação, controle de versão e uso de ferramentas e frameworks modernos.
+Seguir as melhores práticas de desenvolvimento front-end, incluindo acessibilidade, SEO (Search Engine Optimization), padrões de codificação, controle de versão e uso de ferramentas e frameworks modernos.
+
+
+
+Para Esta Oportunidade é Necessário Que Você
+
+
+Tenha experiência sólida em linguagens fundamentais para o desenvolvimento front-end, como HTML para estruturação, CSS para estilização e JavaScript para interatividade e dinamismo;Tenha familiaridade com frameworks e bibliotecas populares, como React.js, Angular 2+, Vue.js, Bootstrap, etc., para agilizar o desenvolvimento e criar interfaces dinâmicas;Tenha capacidade de criar layouts responsivos e adaptáveis, utilizando técnicas como media queries, flexbox e grid layout;Tenha conhecimento em sistemas de controle de versão, como Git, e boas práticas de colaboração em equipe usando plataformas como GitHub ou GitLab;Tenha experiência com ferramentas e ambientes de desenvolvimento front-end, como editores de código (VS Code, Sublime Text), preprocessadores CSS, gerenciadores de pacotes (npm, Yarn) e task runners (Webpack, Gulp);Tenha habilidade em realizar testes de compatibilidade, testes de usabilidade e depuração de código para identificar e corrigir bugs e problemas de desempenho;Tenha compreensão básica de conceitos de design de experiência do usuário (UX) e design de interface do usuário (UI) para colaborar efetivamente com designers e criar interfaces intuitivas e atraentes;Tenha conhecimento em práticas de acessibilidade web (WCAG) para garantir que as interfaces sejam acessíveis;Tenha disponibilidade para trabalhar de forma presencial em Canoas - RS;Tenha boas habilidades de comunicação para trabalhar em equipe, colaborar com designers, desenvolvedores backend e stakeholders, e entender requisitos de projeto e feedback.
+Tenha experiência sólida em linguagens fundamentais para o desenvolvimento front-end, como HTML para estruturação, CSS para estilização e JavaScript para interatividade e dinamismo;
+Tenha experiência sólida em linguagens fundamentais para o desenvolvimento front-end, como HTML para estruturação, CSS para estilização e JavaScript para interatividade e dinamismo;
+
+Tenha familiaridade com frameworks e bibliotecas populares, como React.js, Angular 2+, Vue.js, Bootstrap, etc., para agilizar o desenvolvimento e criar interfaces dinâmicas;
+Tenha familiaridade com frameworks e bibliotecas populares, como React.js, Angular 2+, Vue.js, Bootstrap, etc., para agilizar o desenvolvimento e criar interfaces dinâmicas;
+
+Tenha capacidade de criar layouts responsivos e adaptáveis, utilizando técnicas como media queries, flexbox e grid layout;
+Tenha capacidade de criar layouts responsivos e adaptáveis, utilizando técnicas como media queries, flexbox e grid layout;
+
+Tenha conhecimento em sistemas de controle de versão, como Git, e boas práticas de colaboração em equipe usando plataformas como GitHub ou GitLab;
+Tenha conhecimento em sistemas de controle de versão, como Git, e boas práticas de colaboração em equipe usando plataformas como GitHub ou GitLab;
+
+Tenha experiência com ferramentas e ambientes de desenvolvimento front-end, como editores de código (VS Code, Sublime Text), preprocessadores CSS, gerenciadores de pacotes (npm, Yarn) e task runners (Webpack, Gulp);
+Tenha experiência com ferramentas e ambientes de desenvolvimento front-end, como editores de código (VS Code, Sublime Text), preprocessadores CSS, gerenciadores de pacotes (npm, Yarn) e task runners (Webpack, Gulp);
+
+Tenha habilidade em realizar testes de compatibilidade, testes de usabilidade e depuração de código para identificar e corrigir bugs e problemas de desempenho;
+Tenha habilidade em realizar testes de compatibilidade, testes de usabilidade e depuração de código para identificar e corrigir bugs e problemas de desempenho;
+
+Tenha compreensão básica de conceitos de design de experiência do usuário (UX) e design de interface do usuário (UI) para colaborar efetivamente com designers e criar interfaces intuitivas e atraentes;
+Tenha compreensão básica de conceitos de design de experiência do usuário (UX) e design de interface do usuário (UI) para colaborar efetivamente com designers e criar interfaces intuitivas e atraentes;
+
+Tenha conhecimento em práticas de acessibilidade web (WCAG) para garantir que as interfaces sejam acessíveis;
+Tenha conhecimento em práticas de acessibilidade web (WCAG) para garantir que as interfaces sejam acessíveis;
+
+Tenha disponibilidade para trabalhar de forma presencial em Canoas - RS;
+Tenha disponibilidade para trabalhar de forma presencial em Canoas - RS;
+
+Tenha boas habilidades de comunicação para trabalhar em equipe, colaborar com designers, desenvolvedores backend e stakeholders, e entender requisitos de projeto e feedback.
+Tenha boas habilidades de comunicação para trabalhar em equipe, colaborar com designers, desenvolvedores backend e stakeholders, e entender requisitos de projeto e feedback.
+
+
+
+Será Um Diferencial Se
+
+
+Tiver algum conhecimento na criação de interfaces orientadas a aplicativos móveis.
+Tiver algum conhecimento na criação de interfaces orientadas a aplicativos móveis.
+Tiver algum conhecimento na criação de interfaces orientadas a aplicativos móveis.
+
+
+
+A CREARE Oferece o Seguinte
+
+
+Vale Alimentação/Refeição [R$ 31,50 por dia trabalhado, creditados no cartão CAJU, sem desconto em folha de pagamento];Vale Transporte [pago conforme roteirização] ou Auxílio Mobilidade [pago conforme roteirização] - opções com desconto de 6% do salário - ou Isenção do Estacionamento;Plano de Saúde Unimed Seguros [parte subsidiado pela empresa para o colaborador, após período de experiência. Em caso de inclusão de dependentes, o pagamento é integralmente realizado pelo colaborador];Plano Odontológico MetLife [ R$12,31 para cada pessoa inclusa, sem coparticipação];Seguro de vida em grupo [sem desconto em folha de pagamento];DayOff de Aniversário [curta uma folga no mês do seu níver para comemorar com pessoas especiais];Auxílio Idiomas [reembolso de até R$ 150,00 mensais para apoiar no seu desenvolvimento. Válido após período de experiência];Gympass [escolha o seu plano e aproveite as melhores academias próximas de você];Auxílio Creche [pago para crianças de até 6 anos];Oportunidades de Crescimento e Desenvolvimento [valorizamos nossos talentos e, por isso, aqui você chances de crescer e aprender].
+Vale Alimentação/Refeição [R$ 31,50 por dia trabalhado, creditados no cartão CAJU, sem desconto em folha de pagamento];
+Vale Alimentação/Refeição [R$ 31,50 por dia trabalhado, creditados no cartão CAJU, sem desconto em folha de pagamento];
+
+Vale Transporte [pago conforme roteirização] ou Auxílio Mobilidade [pago conforme roteirização] - opções com desconto de 6% do salário - ou Isenção do Estacionamento;
+Vale Transporte [pago conforme roteirização] ou Auxílio Mobilidade [pago conforme roteirização] - opções com desconto de 6% do salário - ou Isenção do Estacionamento;
+
+Plano de Saúde Unimed Seguros [parte subsidiado pela empresa para o colaborador, após período de experiência. Em caso de inclusão de dependentes, o pagamento é integralmente realizado pelo colaborador];
+Plano de Saúde Unimed Seguros [parte subsidiado pela empresa para o colaborador, após período de experiência. Em caso de inclusão de dependentes, o pagamento é integralmente realizado pelo colaborador];
+
+Plano Odontológico MetLife [ R$12,31 para cada pessoa inclusa, sem coparticipação];
+Plano Odontológico MetLife [ R$12,31 para cada pessoa inclusa, sem coparticipação];
+
+Seguro de vida em grupo [sem desconto em folha de pagamento];
+Seguro de vida em grupo [sem desconto em folha de pagamento];
+
+DayOff de Aniversário [curta uma folga no mês do seu níver para comemorar com pessoas especiais];
+DayOff de Aniversário [curta uma folga no mês do seu níver para comemorar com pessoas especiais];
+
+Auxílio Idiomas [reembolso de até R$ 150,00 mensais para apoiar no seu desenvolvimento. Válido após período de experiência];
+Auxílio Idiomas [reembolso de até R$ 150,00 mensais para apoiar no seu desenvolvimento. Válido após período de experiência];
+
+Gympass [escolha o seu plano e aproveite as melhores academias próximas de você];
+Gympass [escolha o seu plano e aproveite as melhores academias próximas de você];
+
+Auxílio Creche [pago para crianças de até 6 anos];
+Auxílio Creche [pago para crianças de até 6 anos];
+
+Oportunidades de Crescimento e Desenvolvimento [valorizamos nossos talentos e, por isso, aqui você chances de crescer e aprender].
+Oportunidades de Crescimento e Desenvolvimento [valorizamos nossos talentos e, por isso, aqui você chances de crescer e aprender].
+

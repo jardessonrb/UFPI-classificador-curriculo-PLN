@@ -1,0 +1,77 @@
+link-https://www.linkedin.com/jobs/view/4063808455/?eBP=CwEAAAGS7kbPsk_5GavAw_ce6GWnTzcO9d-4mbHXHoB_4wwOC-o-nepuzLi8k64eXjRsZPLd20oocTZwJNx71WK40vo-A_NJysSKyxb6nNAbqlUXQqPyKH2SDHOsTs7rfn-3-x3p8QzqmU_1yRa2JG6NFTv6xpxxOFmLaNTbXl_JNhvGnIHd4niocEUmhM5T7HTL1V6ELcVHfplfOtxd72JqPSuUHj2A7Q0YJu5TGM1b2_xuW5sNqHiql5uZRZhwiSx7PFybmYCzI0Cuo_SD4YyWBdcjASNuHP5jbXU8wvmxIeemIPyPV0tNL7mTN0R0Oux6TNg36lqQ2Jbl6Y0i81JkhjhXKUH1eZKJz8P5dvOuz153DEK0YuGBHxIZgHZo5mIBv5F2rXtCy0t0K1QkJJNVvoiQGm00lvaK50ktIuxPkiHpoVKA1gYQR9e7AE_7SggO8rruP7UUnaH9GFMAl27gKyhHqlQVufR355Ns0ReQGXznAHZH1tq4i9e3ldYut3DA3MaRtKrc_w&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=ZlGv9tZVdNVCKYcfpRlehw%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr. QA Engineer
+Sobre a vaga
+Who We AreAt Fortis Games we aspire to make great games that bring people together while redefining how game companies work. We believe in building a sense of belonging through our games, their communities, and how we operate and treat each other. Through our game communities, we will create powerful connections and lasting memories. We will foster a culture of diversity, equity and belonging where together our diverse skills, experiences and backgrounds impact the games we make.We are an early but mighty organization with a leadership team of game industry veterans. There are many opportunities for you to have a big impact on the products we'll be making as well as the overall direction of the company. If you're passionate about tackling difficult problems with direct and thoughtful communication and team first mentality, we may be the right place for you.About The RoleAs a Sr. QA Engineer, you’ll own and design test automation and efficiency tools for our QA and Product teams. You’ll partner with our QA and Development leaders to identify the best opportunities and technology for our project, keeping all partners updated on your progress. You’ll own defining the team’s framework and toolkits while instrumenting various tests to support faster awareness and coverage across our build pipelines, performance targets, and in-game functional actions, just to name a few. In many cases, you’ll look to lead a group of engineers tasked with tackling larger project demands.What You’ll AchieveDefine the architecture for the project’s test framework, partnering with QA and Dev leaders to define ongoing requirements.Build a suite of solutions that provide ongoing status of our development efforts while providing test coverage and/or manual augmentation.Develop efficient solutions for the QA and development operations that help us all move faster and with confidence.Apply best programming practices for your team, ensuring code is optimized for performance and scalability across various platforms and devices.Define solutions and patterns that serve as best practices for Game QA automation efforts.Be part of the team defining the overall Fortis QA advanced test strategy for all projects.What You’ll Need To Be SuccessfulExperience with programming languages such as C# or Python.Experience in building or extending automation frameworks, custom or with Unity.Knowledge of Unity and Unity tooling specifically for game development.Knowledge of AWS cloud services, including S3, EC2, and experience with messaging services.Experience working with CI/CD workflows and platforms such as GitHub Actions, Jenkins, or TeamCity.Demonstrated ability to work with multiple teams, identifying project requirements and ensuring successful delivery.Leadership skills to provide direction and mentoring for junior engineers.Experience in test or development of test solutions.Why join usThere are many reasons to join us, but here are a few:We strongly believe we are changing how games studios operate and at the core of what we do is making great games that create a connected communityWe're not just about making Games Where You Belong. We're also about building communities where our people belong. That's why Fortis is a thriving environment that celebrates diversity, embraces inclusivity, and fosters growth.Build and grow with a seasoned team of accomplished talent who have left an impactful mark in their disciplines, both in and out of gamingFortis is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.
+Who We Are
+
+
+
+
+
+
+About The Role
+
+
+
+
+What You’ll Achieve
+
+
+Define the architecture for the project’s test framework, partnering with QA and Dev leaders to define ongoing requirements.Build a suite of solutions that provide ongoing status of our development efforts while providing test coverage and/or manual augmentation.Develop efficient solutions for the QA and development operations that help us all move faster and with confidence.Apply best programming practices for your team, ensuring code is optimized for performance and scalability across various platforms and devices.Define solutions and patterns that serve as best practices for Game QA automation efforts.Be part of the team defining the overall Fortis QA advanced test strategy for all projects.
+Define the architecture for the project’s test framework, partnering with QA and Dev leaders to define ongoing requirements.
+Define the architecture for the project’s test framework, partnering with QA and Dev leaders to define ongoing requirements.
+Build a suite of solutions that provide ongoing status of our development efforts while providing test coverage and/or manual augmentation.
+Build a suite of solutions that provide ongoing status of our development efforts while providing test coverage and/or manual augmentation.
+Develop efficient solutions for the QA and development operations that help us all move faster and with confidence.
+Develop efficient solutions for the QA and development operations that help us all move faster and with confidence.
+Apply best programming practices for your team, ensuring code is optimized for performance and scalability across various platforms and devices.
+Apply best programming practices for your team, ensuring code is optimized for performance and scalability across various platforms and devices.
+Define solutions and patterns that serve as best practices for Game QA automation efforts.
+Define solutions and patterns that serve as best practices for Game QA automation efforts.
+Be part of the team defining the overall Fortis QA advanced test strategy for all projects.
+Be part of the team defining the overall Fortis QA advanced test strategy for all projects.
+
+
+
+What You’ll Need To Be Successful
+
+
+Experience with programming languages such as C# or Python.Experience in building or extending automation frameworks, custom or with Unity.Knowledge of Unity and Unity tooling specifically for game development.Knowledge of AWS cloud services, including S3, EC2, and experience with messaging services.Experience working with CI/CD workflows and platforms such as GitHub Actions, Jenkins, or TeamCity.Demonstrated ability to work with multiple teams, identifying project requirements and ensuring successful delivery.Leadership skills to provide direction and mentoring for junior engineers.Experience in test or development of test solutions.
+Experience with programming languages such as C# or Python.
+Experience with programming languages such as C# or Python.
+Experience in building or extending automation frameworks, custom or with Unity.
+Experience in building or extending automation frameworks, custom or with Unity.
+Knowledge of Unity and Unity tooling specifically for game development.
+Knowledge of Unity and Unity tooling specifically for game development.
+
+Knowledge of AWS cloud services, including S3, EC2, and experience with messaging services.
+Knowledge of AWS cloud services, including S3, EC2, and experience with messaging services.
+Experience working with CI/CD workflows and platforms such as GitHub Actions, Jenkins, or TeamCity.
+Experience working with CI/CD workflows and platforms such as GitHub Actions, Jenkins, or TeamCity.
+Demonstrated ability to work with multiple teams, identifying project requirements and ensuring successful delivery.
+Demonstrated ability to work with multiple teams, identifying project requirements and ensuring successful delivery.
+Leadership skills to provide direction and mentoring for junior engineers.
+Leadership skills to provide direction and mentoring for junior engineers.
+Experience in test or development of test solutions.
+Experience in test or development of test solutions.
+
+
+
+Why join us
+
+
+
+
+We strongly believe we are changing how games studios operate and at the core of what we do is making great games that create a connected communityWe're not just about making Games Where You Belong. We're also about building communities where our people belong. That's why Fortis is a thriving environment that celebrates diversity, embraces inclusivity, and fosters growth.Build and grow with a seasoned team of accomplished talent who have left an impactful mark in their disciplines, both in and out of gaming
+We strongly believe we are changing how games studios operate and at the core of what we do is making great games that create a connected community
+We strongly believe we are changing how games studios operate and at the core of what we do is making great games that create a connected community
+We're not just about making Games Where You Belong. We're also about building communities where our people belong. That's why Fortis is a thriving environment that celebrates diversity, embraces inclusivity, and fosters growth.
+We're not just about making Games Where You Belong. We're also about building communities where our people belong. That's why Fortis is a thriving environment that celebrates diversity, embraces inclusivity, and fosters growth.
+
+Build and grow with a seasoned team of accomplished talent who have left an impactful mark in their disciplines, both in and out of gaming
+Build and grow with a seasoned team of accomplished talent who have left an impactful mark in their disciplines, both in and out of gaming
+
+
+
+

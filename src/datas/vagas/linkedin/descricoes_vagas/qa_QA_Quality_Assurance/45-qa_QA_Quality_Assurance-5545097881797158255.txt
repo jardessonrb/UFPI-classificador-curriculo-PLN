@@ -1,0 +1,59 @@
+link-https://www.linkedin.com/jobs/view/4052880248/?eBP=CwEAAAGS7kdnx4-zpdmwFHsn2G76WnRxxARQpiyeLOfFS3oCXUzzBa0q9d9-ffhmza6M8HjvJ4uU1DngxypXyRiflI-rNGYFy3kK2WyEMt5SuFPSgpT0hranpuomf-WxnPssYKzLBQinsRryvX3NKJrc0aXdwB55MaZT-hJPgLnoY3U8LDjlI1CqUpu6PJpV7-S4Z9bhZm_SMltRt6EyUq7Yk_NgeAGKRS4fPXPINuacWoiSOiAMZ-tT4hrOdIBPioIfMBu0ZCS8qp552aGOWPCHoIIFwg0QdjleG14rRUP3oAdgWBcyzzfZkubA_Su0ItDBCxWIjzSTGOhtqABlSEGvyEk_VbeKM2rpiOtbeLkVdjaV-AB4CROcfTQG0fhwNZIgHhxEEUEs5JCxIB6b7Ad6NR3FHp0QlZoZJ7wDLmFz89-sN9fF0_LHYXFiuHZLReeWtx8pfAUD_mInDrwdnGa9rIo0igDqcu8jfTfcmtgGwE2roJNlla2y_81xUyY&refId=eCZ4TSmLf1xAg4vlx7lWtA%3D%3D&trackingId=l71PnqdTIi9XUvYfUlFxbA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Analista de Testes (QA) Sênior
+Sobre a vaga
+Bem-vindo(a) à Growdev, uma empresa inovadora que tem como objetivo transformar a forma como as pessoas aprendem e se desenvolvem profissionalmente. Estamos comprometidos em construir um futuro com muitas oportunidades!A Growdev possui uma frente de educação, onde formamos profissionais de tecnologia e conectamos com o mercado, uma frente de fábrica de software, onde atuamos com nossos clientes de segmentos diversos em projetos de escopo aberto e fechado, e uma frente de outsourcing, onde temos alocações full time em clientes, também em segmentações diversificadas!Buscamos uma Pessoa Analista de Testes (QA) Sênior , para contribuir na construção e desenvolvimento no setor de qualidade em uma cliente especializada no mercado de moda premium.ResponsabilidadesElaborar planos de testes detalhados para nossas plataformas web e mobile, definindo cenários de teste e executando testes funcionais, de regressão, integração, usabilidade e desempenho.Desenvolver e manter scripts de testes automatizados, utilizando frameworks de automação de testes como Robot.Identificar, registrar e acompanhar defeitos encontrados durante os ciclos de testes.Interagir com Product Owners e desenvolvedores para analisar requisitos funcionais e não-funcionais, identificando possíveis ambiguidades, riscos e fornecer feedback sobre qualidade e usabilidade.Propor melhorias nos processos de desenvolvimento e testes, visando aumentar a qualidade das entregas e a eficiência do time.Definir e monitorar métricas de qualidade para identificar de forma proativa quaisquer desvios de qualidade e performance de nossos produtos digitais.RequisitosFormação em Engenharia da Computação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou cursos similares;Experiência em testes de software, incluindo testes funcionais, de integração e de usabilidade.Conhecimento em metodologias ágeis (Scrum, Kanban).Experiência com ferramentas de gestão de testes e bug tracking (Jira, TestRail, etc).Conhecimento em alguma linguagem de programação para automação de testes (Python, Java, etc).Boa comunicação e capacidade de trabalhar em equipe.DiferenciaisExperiência com automação utilizando o Robot Framework (com Appium), Cypress ou Cucumber.
+
+
+
+
+Buscamos uma Pessoa Analista de Testes (QA) Sênior , para contribuir na construção e desenvolvimento no setor de qualidade em uma cliente especializada no mercado de moda premium.
+
+
+Responsabilidades
+
+
+
+Elaborar planos de testes detalhados para nossas plataformas web e mobile, definindo cenários de teste e executando testes funcionais, de regressão, integração, usabilidade e desempenho.Desenvolver e manter scripts de testes automatizados, utilizando frameworks de automação de testes como Robot.Identificar, registrar e acompanhar defeitos encontrados durante os ciclos de testes.Interagir com Product Owners e desenvolvedores para analisar requisitos funcionais e não-funcionais, identificando possíveis ambiguidades, riscos e fornecer feedback sobre qualidade e usabilidade.Propor melhorias nos processos de desenvolvimento e testes, visando aumentar a qualidade das entregas e a eficiência do time.Definir e monitorar métricas de qualidade para identificar de forma proativa quaisquer desvios de qualidade e performance de nossos produtos digitais.
+Elaborar planos de testes detalhados para nossas plataformas web e mobile, definindo cenários de teste e executando testes funcionais, de regressão, integração, usabilidade e desempenho.
+Elaborar planos de testes detalhados para nossas plataformas web e mobile, definindo cenários de teste e executando testes funcionais, de regressão, integração, usabilidade e desempenho.
+Desenvolver e manter scripts de testes automatizados, utilizando frameworks de automação de testes como Robot.
+Desenvolver e manter scripts de testes automatizados, utilizando frameworks de automação de testes como Robot.
+Identificar, registrar e acompanhar defeitos encontrados durante os ciclos de testes.
+Identificar, registrar e acompanhar defeitos encontrados durante os ciclos de testes.
+Interagir com Product Owners e desenvolvedores para analisar requisitos funcionais e não-funcionais, identificando possíveis ambiguidades, riscos e fornecer feedback sobre qualidade e usabilidade.
+Interagir com Product Owners e desenvolvedores para analisar requisitos funcionais e não-funcionais, identificando possíveis ambiguidades, riscos e fornecer feedback sobre qualidade e usabilidade.
+Propor melhorias nos processos de desenvolvimento e testes, visando aumentar a qualidade das entregas e a eficiência do time.
+Propor melhorias nos processos de desenvolvimento e testes, visando aumentar a qualidade das entregas e a eficiência do time.
+Definir e monitorar métricas de qualidade para identificar de forma proativa quaisquer desvios de qualidade e performance de nossos produtos digitais.
+Definir e monitorar métricas de qualidade para identificar de forma proativa quaisquer desvios de qualidade e performance de nossos produtos digitais.
+
+
+
+Requisitos
+
+
+
+Formação em Engenharia da Computação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou cursos similares;Experiência em testes de software, incluindo testes funcionais, de integração e de usabilidade.Conhecimento em metodologias ágeis (Scrum, Kanban).Experiência com ferramentas de gestão de testes e bug tracking (Jira, TestRail, etc).Conhecimento em alguma linguagem de programação para automação de testes (Python, Java, etc).Boa comunicação e capacidade de trabalhar em equipe.
+Formação em Engenharia da Computação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou cursos similares;
+Formação em Engenharia da Computação, Ciência da Computação, Análise e Desenvolvimento de Sistemas ou cursos similares;
+Experiência em testes de software, incluindo testes funcionais, de integração e de usabilidade.
+Experiência em testes de software, incluindo testes funcionais, de integração e de usabilidade.
+Conhecimento em metodologias ágeis (Scrum, Kanban).
+Conhecimento em metodologias ágeis (Scrum, Kanban).
+Experiência com ferramentas de gestão de testes e bug tracking (Jira, TestRail, etc).
+Experiência com ferramentas de gestão de testes e bug tracking (Jira, TestRail, etc).
+Conhecimento em alguma linguagem de programação para automação de testes (Python, Java, etc).
+Conhecimento em alguma linguagem de programação para automação de testes (Python, Java, etc).
+Boa comunicação e capacidade de trabalhar em equipe.
+Boa comunicação e capacidade de trabalhar em equipe.
+
+
+
+Diferenciais
+
+
+
+Experiência com automação utilizando o Robot Framework (com Appium), Cypress ou Cucumber.
+Experiência com automação utilizando o Robot Framework (com Appium), Cypress ou Cucumber.
+Experiência com automação utilizando o Robot Framework (com Appium), Cypress ou Cucumber.

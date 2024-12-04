@@ -1,0 +1,79 @@
+link-https://www.linkedin.com/jobs/view/4058428440/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=eh%2FTpMOgCXQEh1qs5ZCfcA%3D%3D&trackingId=P5W4QR2ou1C1H4SPW8qwNA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor de back end (JAVA)
+Sobre a vaga
+We are seeking a skilled Backend Developer to join our team. In this role, you will design and build server-side components, including APIs and databases, using Java and relevant frameworks. You will ensure clean, maintainable code and collaborate with cross-functional teams to deliver high-quality solutions.Responsibilities:Design and build server-side components, including APIs and databases, using Java and relevant frameworks.Implement and integrate RESTful APIs, manage data validation, and handle errors, possibly integrating with external services.Design and optimize databases for performance, maintain data integrity, and work with various database systems.Conduct unit and integration tests to maintain code quality, identify bugs, and optimize performance.Collaborate with frontend developers to integrate systems.Enforce backend security through authentication, authorization, and encryption practices.Enhance backend performance and scalability, including query optimization and system efficiency improvements.Diagnose and fix backend issues, optimize performance, and maintain system stability.Engage with cross-functional teams to meet project goals, requiring strong communication and teamwork skills.RequirementsStrong knowledge and experience in Java programming language, including understanding of core concepts, syntax, and best practices.Experience in building server-side applications and APIs using Java frameworks such as Spring Boot.Proficiency in working with relational databases like MySQL, PostgreSQL, or Oracle, including knowledge of SQL, data modeling, and database optimization.Understanding of web development concepts and technologies such as HTTP, RESTful APIs, JSON, and XML.Strong understanding and application of OOP principles, including encapsulation, inheritance, and polymorphism.Familiarity with popular Java frameworks and libraries such as Spring Framework, Hibernate, or Apache Kafka.Experience with unit testing frameworks like JUnit and knowledge of software testing principles and practices.Proficiency in using version control systems like Git for code management and collaboration.Understanding of security principles and best practices for securing backend applications, including authentication, authorization, and data encryption.Knowledge of performance optimization techniques, such as caching, indexing, and query optimization, to ensure efficient and scalable backend systems.
+We are seeking a skilled Backend Developer to join our team. In this role, you will design and build server-side components, including APIs and databases, using Java and relevant frameworks. You will ensure clean, maintainable code and collaborate with cross-functional teams to deliver high-quality solutions.
+We are seeking a skilled Backend Developer to join our team. In this role, you will design and build server-side components, including APIs and databases, using Java and relevant frameworks. You will ensure clean, maintainable code and collaborate with cross-functional teams to deliver high-quality solutions.
+
+
+
+Responsibilities:
+Responsibilities:
+Responsibilities:
+
+
+
+
+Design and build server-side components, including APIs and databases, using Java and relevant frameworks.Implement and integrate RESTful APIs, manage data validation, and handle errors, possibly integrating with external services.Design and optimize databases for performance, maintain data integrity, and work with various database systems.Conduct unit and integration tests to maintain code quality, identify bugs, and optimize performance.Collaborate with frontend developers to integrate systems.Enforce backend security through authentication, authorization, and encryption practices.Enhance backend performance and scalability, including query optimization and system efficiency improvements.Diagnose and fix backend issues, optimize performance, and maintain system stability.Engage with cross-functional teams to meet project goals, requiring strong communication and teamwork skills.
+Design and build server-side components, including APIs and databases, using Java and relevant frameworks.
+Design and build server-side components, including APIs and databases, using Java and relevant frameworks.
+
+Implement and integrate RESTful APIs, manage data validation, and handle errors, possibly integrating with external services.
+Implement and integrate RESTful APIs, manage data validation, and handle errors, possibly integrating with external services.
+
+Design and optimize databases for performance, maintain data integrity, and work with various database systems.
+Design and optimize databases for performance, maintain data integrity, and work with various database systems.
+
+Conduct unit and integration tests to maintain code quality, identify bugs, and optimize performance.
+Conduct unit and integration tests to maintain code quality, identify bugs, and optimize performance.
+
+Collaborate with frontend developers to integrate systems.
+Collaborate with frontend developers to integrate systems.
+
+Enforce backend security through authentication, authorization, and encryption practices.
+Enforce backend security through authentication, authorization, and encryption practices.
+
+Enhance backend performance and scalability, including query optimization and system efficiency improvements.
+Enhance backend performance and scalability, including query optimization and system efficiency improvements.
+
+Diagnose and fix backend issues, optimize performance, and maintain system stability.
+Diagnose and fix backend issues, optimize performance, and maintain system stability.
+
+Engage with cross-functional teams to meet project goals, requiring strong communication and teamwork skills.
+Engage with cross-functional teams to meet project goals, requiring strong communication and teamwork skills.
+
+
+
+
+
+
+
+Requirements
+Requirements
+
+
+
+Strong knowledge and experience in Java programming language, including understanding of core concepts, syntax, and best practices.Experience in building server-side applications and APIs using Java frameworks such as Spring Boot.Proficiency in working with relational databases like MySQL, PostgreSQL, or Oracle, including knowledge of SQL, data modeling, and database optimization.Understanding of web development concepts and technologies such as HTTP, RESTful APIs, JSON, and XML.Strong understanding and application of OOP principles, including encapsulation, inheritance, and polymorphism.Familiarity with popular Java frameworks and libraries such as Spring Framework, Hibernate, or Apache Kafka.Experience with unit testing frameworks like JUnit and knowledge of software testing principles and practices.Proficiency in using version control systems like Git for code management and collaboration.Understanding of security principles and best practices for securing backend applications, including authentication, authorization, and data encryption.Knowledge of performance optimization techniques, such as caching, indexing, and query optimization, to ensure efficient and scalable backend systems.
+Strong knowledge and experience in Java programming language, including understanding of core concepts, syntax, and best practices.
+Strong knowledge and experience in Java programming language, including understanding of core concepts, syntax, and best practices.
+
+Experience in building server-side applications and APIs using Java frameworks such as Spring Boot.
+Experience in building server-side applications and APIs using Java frameworks such as Spring Boot.
+Proficiency in working with relational databases like MySQL, PostgreSQL, or Oracle, including knowledge of SQL, data modeling, and database optimization.
+Proficiency in working with relational databases like MySQL, PostgreSQL, or Oracle, including knowledge of SQL, data modeling, and database optimization.
+
+Understanding of web development concepts and technologies such as HTTP, RESTful APIs, JSON, and XML.
+Understanding of web development concepts and technologies such as HTTP, RESTful APIs, JSON, and XML.
+Strong understanding and application of OOP principles, including encapsulation, inheritance, and polymorphism.
+Strong understanding and application of OOP principles, including encapsulation, inheritance, and polymorphism.
+Familiarity with popular Java frameworks and libraries such as Spring Framework, Hibernate, or Apache Kafka.
+Familiarity with popular Java frameworks and libraries such as Spring Framework, Hibernate, or Apache Kafka.
+Experience with unit testing frameworks like JUnit and knowledge of software testing principles and practices.
+Experience with unit testing frameworks like JUnit and knowledge of software testing principles and practices.
+Proficiency in using version control systems like Git for code management and collaboration.
+Proficiency in using version control systems like Git for code management and collaboration.
+Understanding of security principles and best practices for securing backend applications, including authentication, authorization, and data encryption.
+Understanding of security principles and best practices for securing backend applications, including authentication, authorization, and data encryption.
+Knowledge of performance optimization techniques, such as caching, indexing, and query optimization, to ensure efficient and scalable backend systems.
+Knowledge of performance optimization techniques, such as caching, indexing, and query optimization, to ensure efficient and scalable backend systems.

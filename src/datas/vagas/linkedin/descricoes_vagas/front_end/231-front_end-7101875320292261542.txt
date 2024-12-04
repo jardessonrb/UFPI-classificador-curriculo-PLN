@@ -1,0 +1,57 @@
+link-https://www.linkedin.com/jobs/view/4062567904/?eBP=CwEAAAGS7kyMtKx0V_YTVVs1iKP8HeHPooKAcEHO6ZSldjiK1OjNE-coUPwF-pCcVgFR1QAiFa2wqorlyGM4nAvouQny6dGgYHKzyOPF9di0DULZoeqppe5M0w79lDpfn7F4wUtql3A2uB_TYlqyq35J7aV_pkCKMfbOE8pL5K-JPQ2WxzIsXy1L19k3gNnmkGUYaCfKHb-aJiNFuk1fC68XHWM5kLXZ-EhhCR0KSZ-zpuR3mTu4_WIwErH2MHquEA1SW_nRQR0-skTL006Hy58zMs1iHfQHaILrKR18ymd3zjSvr9t1D7iFcFPayGPzQzy_fu4tCjihDqxae0il28hJ8R5Sy6vjIQUlwj-JxfKwe76dHlvSWK2FB3t26iCD1uL-9KEvVC181fkZeTW7CKm9HOk0O8GKC6SZfdUE4fbiW-EUcJw6cPUSSgf27WNuBI0beOfbB9MwamrnKOIgOocXM2aO-oNnD5qjTxHAxMkrcw&refId=rurZIBIMBTASSFbiOg8ffQ%3D%3D&trackingId=E2aHzCAapRLy1tB4ZuyBRA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor FrontEnd
+Sobre a vaga
+About the company:Avenue Code is the leading software consultancy focused on delivering end-to-end development solutions for digital transformation across every vertical. We’re privately held, profitable, and have been on a solid growth trajectory since day one. We care deeply about our clients, our partners, and our people. We prefer the word ‘partner’ over ‘vendor’, and our investment in professional relationships is a reflection of that philosophy. We pride ourselves on our technical acumen, our collaborative problem-solving ability, and the warm professionalism of our teams.Avenue Code has been believing in and promoting plurality actions for over 10 years, understanding that recognizing differences and fostering a safe environment, employment opportunities, representation, and support are the best ways to promote an increasingly equitable culture.About the opportunity:Estamos procurando por uma pessoa Desenvolvedora Front End Sênior entusiasmada, trabalhadora e talentosa, com foco em desenvolvimento mobile e web, utilizando React Native. Você trabalhará com um dos nossos grandes clientes, uma das maiores empresas de comunicação do Brasil, com uma história rica e consolidada no mercado.Responsibilities:Desenvolver, testar e manter aplicações móveis utilizando React Native;Criar e implementar soluções em React Native Web para garantir que as aplicações sejam responsivas e funcionem de forma consistente em múltiplas plataformas;Trabalhar com APIs GraphQL e REST, garantindo a integração e a eficiência de dados entre o front-end e o back-end;Colaborar com times multifuncionais para definir, projetar e entregar novas funcionalidades.Resolver problemas de performance e depurar erros para manter a alta qualidade do código;Participar ativamente de revisões de código e seguir as melhores práticas de desenvolvimento.Required Qualifications:Experiência comprovada no desenvolvimento de aplicações com React Native;Forte experiência com APIs GraphQL e REST;Compreensão sólida de arquitetura de aplicações mobile e web;Familiaridade com integração contínua, controle de versão (Git), e metodologias ágeis (Scrum, Kanban);Familiaridade com plataformas de desenvolvimento para iOS e Android (como Xcode e Android Studio);Experiência com desenvolvimento usando Docker.Nós sabemos que cada pessoa trilhou caminhos diferentes na sua carreira de modo a proporcionar e ampliar o conhecimento. Se você não preenche todos os requisitos, vá em frente! Candidate-se mesmo assim! Sua experiência é muito mais importante que uma lista de tecnologias.Avenue Code reinforces its commitment to privacy and to all the principles guaranteed by the most accurate global data protection laws, such as GDPR, LGPD, CCPA and CPRA. The Candidate data shared with Avenue Code will be kept confidential and will not be transmitted to disinterested third parties, nor will it be used for purposes other than the application for open positions. As a Consultancy company, Avenue Code may share your information with its clients and other Companies from the CompassUol Group to which Avenue Code’s consultants are allocated to perform its services.
+About the company:
+
+
+
+
+
+
+About the opportunity:
+
+
+
+
+Responsibilities:
+
+
+Desenvolver, testar e manter aplicações móveis utilizando React Native;Criar e implementar soluções em React Native Web para garantir que as aplicações sejam responsivas e funcionem de forma consistente em múltiplas plataformas;Trabalhar com APIs GraphQL e REST, garantindo a integração e a eficiência de dados entre o front-end e o back-end;Colaborar com times multifuncionais para definir, projetar e entregar novas funcionalidades.Resolver problemas de performance e depurar erros para manter a alta qualidade do código;Participar ativamente de revisões de código e seguir as melhores práticas de desenvolvimento.
+Desenvolver, testar e manter aplicações móveis utilizando React Native;
+Desenvolver, testar e manter aplicações móveis utilizando React Native;
+Criar e implementar soluções em React Native Web para garantir que as aplicações sejam responsivas e funcionem de forma consistente em múltiplas plataformas;
+Criar e implementar soluções em React Native Web para garantir que as aplicações sejam responsivas e funcionem de forma consistente em múltiplas plataformas;
+Trabalhar com APIs GraphQL e REST, garantindo a integração e a eficiência de dados entre o front-end e o back-end;
+Trabalhar com APIs GraphQL e REST, garantindo a integração e a eficiência de dados entre o front-end e o back-end;
+Colaborar com times multifuncionais para definir, projetar e entregar novas funcionalidades.
+Colaborar com times multifuncionais para definir, projetar e entregar novas funcionalidades.
+Resolver problemas de performance e depurar erros para manter a alta qualidade do código;
+Resolver problemas de performance e depurar erros para manter a alta qualidade do código;
+Participar ativamente de revisões de código e seguir as melhores práticas de desenvolvimento.
+Participar ativamente de revisões de código e seguir as melhores práticas de desenvolvimento.
+
+
+Required Qualifications:
+
+
+Experiência comprovada no desenvolvimento de aplicações com React Native;Forte experiência com APIs GraphQL e REST;Compreensão sólida de arquitetura de aplicações mobile e web;Familiaridade com integração contínua, controle de versão (Git), e metodologias ágeis (Scrum, Kanban);Familiaridade com plataformas de desenvolvimento para iOS e Android (como Xcode e Android Studio);Experiência com desenvolvimento usando Docker.
+Experiência comprovada no desenvolvimento de aplicações com React Native;
+Experiência comprovada no desenvolvimento de aplicações com React Native;
+Forte experiência com APIs GraphQL e REST;
+Forte experiência com APIs GraphQL e REST;
+Compreensão sólida de arquitetura de aplicações mobile e web;
+Compreensão sólida de arquitetura de aplicações mobile e web;
+Familiaridade com integração contínua, controle de versão (Git), e metodologias ágeis (Scrum, Kanban);
+Familiaridade com integração contínua, controle de versão (Git), e metodologias ágeis (Scrum, Kanban);
+Familiaridade com plataformas de desenvolvimento para iOS e Android (como Xcode e Android Studio);
+Familiaridade com plataformas de desenvolvimento para iOS e Android (como Xcode e Android Studio);
+Experiência com desenvolvimento usando Docker.
+Experiência com desenvolvimento usando Docker.
+
+
+
+
+
+

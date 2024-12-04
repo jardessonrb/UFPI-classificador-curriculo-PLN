@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/3996505594/?eBP=CwEAAAGS7g-UQ8YQGM-V1TrQNpryxPEFofs883QikRapr6e1t0tcHWrLigKjS1yKBCwgONsRsNHQYEDVwbAIlqf1blw5Mkx6LvG5-tyLwF9SbWrqu3FfID9yS3D0y7TLWuL80je3-kzaDCYTYc3SlCT6OC7yzk2n7DQNSdCcHloItdpYC2K6ijLnJwNXK9Jy5ai0NqTxqa1aKNFswTKEeRcxVZXcGjkzkF2ofUEcOMvKb-rODJzHXEVF11Xek8436iRQToa_LO7PWzx-S1_6XVUcrjgReg9uArxpzlQj-qjSJRFmebegnaDpe24ha7QHnOzJhNtEOt7VSfVqlRE7niln5rOhSyCEWcse2ex3g0gkZ2vWG_blGI4_KeWd8byF661CZxvQma-IpRedLdJ2QBqlA6bFVjffTc3Y8t1iaufc1upc36yMhtH44elJ8Ae01ukUXBeXfnpLxLvID-d_H5StX6uSDZcAwAMxqM3aO-Ds4Ul5Sj2cnJ1vORxbKIpxConDreps&refId=ZNTassECJtBZJDov0qiO4A%3D%3D&trackingId=c3gbcYEyqe2IJigfXVJLFQ%3D%3D&trk=flagship3_search_srp_jobs
+
+GRUPO SOMA | SomaLabs | Desenvolvedor(a) Fullstack Pleno
+Sobre a vaga
+Job DescriptionInquietos e Acelerados. Criativos ou Cartesianos. Talentosos e Autodidatas. Artesanais ou Tecnológicos.Não importa: gostamos de diversidade e de quem está aqui para agregar.Porque GENTE É O QUE SOMA.A pessoa desenvolvedora irá atuar na criação e evolução dos nossos produtos digitais focados no time de Estilo de marcas como FARM Brasil, FARM Rio, Hering, Animale e outras, sendo responsável pelo desenvolvimento, manutenção e implantação de novas tecnologias, além de parceria com os times de Design e Produto.Nosso principal desafio é levar tecnologia e inovação para os Times Criativos por trás das marcas que geram mais desejo no Brasil.QUER FAZER PARTE DESTA JORNADA COM A GENTE?Responsibilities and assignmentsDesenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;Implementar e otimizar o API Gateway para integração de serviços;Migrar sistemas legados para uma arquitetura moderna de microserviços;Integrar serviços backend com bancos de dados relacionais e não relacionais;Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;Garantir a consistência e integridade dos dados trafegados entre os sistemas;Documentar algoritmos e processos de desenvolvimento;Requirements And QualificationsConhecimentos em Node.js com Express e/ou Nest.js;Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);Conhecimentos em Python para automação e ETL;Experiência com sistemas de filas como BullMQ ou similares;Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);Familiaridade com sistemas de controle de versão, como Git e Github Flow;Additional informationConhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;Familiaridade com metodologias ágeis e ferramentas como Jira.Process stagesStep 1: Registration1RegistrationStep 2: Entrevista G&G2Entrevista G&GStep 3: Entrevista Gestor 3Entrevista GestorStep 4: Hiring4HiringSOMOS O MAIOR GRUPO DE MODA DO BRASILPor aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.Nossa missão é sonhar grande e fazer gigante.Porque gente é o que SOMA.
+Job Description
+
+
+
+
+
+
+
+
+
+
+
+
+QUER FAZER PARTE DESTA JORNADA COM A GENTE?
+
+
+
+
+Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;Implementar e otimizar o API Gateway para integração de serviços;Migrar sistemas legados para uma arquitetura moderna de microserviços;Integrar serviços backend com bancos de dados relacionais e não relacionais;Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;Garantir a consistência e integridade dos dados trafegados entre os sistemas;Documentar algoritmos e processos de desenvolvimento;
+Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;
+Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;
+Implementar e otimizar o API Gateway para integração de serviços;
+Implementar e otimizar o API Gateway para integração de serviços;
+Migrar sistemas legados para uma arquitetura moderna de microserviços;
+Migrar sistemas legados para uma arquitetura moderna de microserviços;
+Integrar serviços backend com bancos de dados relacionais e não relacionais;
+Integrar serviços backend com bancos de dados relacionais e não relacionais;
+Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;
+Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;
+Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;
+Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;
+Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;
+Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;
+Garantir a consistência e integridade dos dados trafegados entre os sistemas;
+Garantir a consistência e integridade dos dados trafegados entre os sistemas;
+Documentar algoritmos e processos de desenvolvimento;
+Documentar algoritmos e processos de desenvolvimento;
+
+
+Requirements And Qualifications
+
+
+Conhecimentos em Node.js com Express e/ou Nest.js;Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);Conhecimentos em Python para automação e ETL;Experiência com sistemas de filas como BullMQ ou similares;Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);Familiaridade com sistemas de controle de versão, como Git e Github Flow;
+Conhecimentos em Node.js com Express e/ou Nest.js;
+Conhecimentos em Node.js com Express e/ou Nest.js;
+Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;
+Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;
+Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);
+Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);
+Conhecimentos em Python para automação e ETL;
+Conhecimentos em Python para automação e ETL;
+Experiência com sistemas de filas como BullMQ ou similares;
+Experiência com sistemas de filas como BullMQ ou similares;
+Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);
+Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);
+Familiaridade com sistemas de controle de versão, como Git e Github Flow;
+Familiaridade com sistemas de controle de versão, como Git e Github Flow;
+
+
+
+
+Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;Familiaridade com metodologias ágeis e ferramentas como Jira.
+Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;
+Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;
+Familiaridade com metodologias ágeis e ferramentas como Jira.
+Familiaridade com metodologias ágeis e ferramentas como Jira.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Entrevista G&G2Entrevista G&GStep 3: Entrevista Gestor 3Entrevista GestorStep 4: Hiring4Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Entrevista G&G2Entrevista G&G
+Step 2: Entrevista G&G2Entrevista G&G
+Step 3: Entrevista Gestor 3Entrevista Gestor
+Step 3: Entrevista Gestor 3Entrevista Gestor
+
+Step 4: Hiring4Hiring
+Step 4: Hiring4Hiring
+
+
+
+
+
+
+
+
+
+Porque gente é o que SOMA.

@@ -1,0 +1,123 @@
+link-https://www.linkedin.com/jobs/view/4044245757/?eBP=CwEAAAGS7jS4xfHrOnQOt6V_Ggtr6_MXhv1GYimm-5OmnnfI7BhfC_9Mo8ZIM_QkeSbTnKkgWhK51sDshj3VoK7TAfr2InNCTwz4FmhGe3KNkAsWc8P-JyDbx87QvGEn06WBCJfB2m4wYWSmi_27LzPr7Eixw5umH3LsTRduR9ODjNSy45MS7AkwX862SfEgtDGhOS91N1e4qgNXXynesJQ88C9vL8LK0SerHuwkP1vwIodA_pQY2iG8s_BWDdKwaxXAJjHiiHrl5_qI2yb0cBOkNcmwCltC9P2GOCQvYI1wQ_8HPmuy8by28X_32bbkJPAPNpJJebrLq1CMVrqliJdPSbB7WaWMdoEpDqSDmBl3TE1DXUe4dUWacusb9Aa_Vjn3FrYM5qSaG9Sn4dKhsMYcr3lBJlG3B7T6MzcTPpMCfCf4A3UWYjmJOz63EWSZqB3lP04HZLZ6OyQx5PAwcitGS8G-_R8uk8owk67zvpRQ7MM2v_elcBWOfE52Lt7AI97F5Vtie4YK27n04YU&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=9YkdcWypGoHwqbEIYwkdxg%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados - Especialista (Modelagem Estatística)
+Sobre a vaga
+Descrição do perfilResponsável por analisar e interpretar grandes quantidades de dados de uma variedade de fontes, usando ferramentas algorítmicas, de mineração de dados, inteligência artificial, aprendizado de máquina e estatísticas, a fim de torná-los acessíveis à empresa.Principais Atividades• Desenvolver modelos estatísticos para as áreas de Marketing e Novos Negócios;• Analisar e validar de modelos preditivos e de Machine Learning;• Efetuar análises e estudos Adhoc, relacionados a modelagem, perfil e outros; • Realizar contato direto com as áreas envolvidas a fim de entender o problema e possíveis soluções a serem desenvolvidas;• Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor.Conhecimento, Experiência e Formação• Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);• SQL (manipulação, definição, controle, transação, consulta);• Conhecimento de algoritmos e técnicas de validação/performance de modelos em Machine Learning;• Conhecimento da suíte de dados Google Cloud Platform (Ex.: BigQuery, CloudStorage, BigTable);• Conhecimento aplicado ao negócio de Telecom; • Domínio de mais de uma linguagem de programação;• Prática com softwares de BI;• Conhecimento/exposição de(a) soluções de AutoML (ex.: DataRobots, VertexAI, SageMaker, Azure ML);• Experiência em projetos utilizando AWS, GCP ou Microsoft;• SAS Enterprise Guide (drag and drop e code);• Graduação completa em Estatística, Matemática, Ciência da computação ou similares;• Desejável pós-graduação nas áreas correlatas acima.Valorizamos a candidatura de Pessoas com deficiência, Pessoas negras, Pessoas LGBTI+, Pessoas 45+ e Mulheres!Na TIM, o seu bem-estar é o nosso bem-estar, por isso o programa Conexão Bem + Estar tem o propósito de fortalecer o cuidado genuíno da TIM com o TIMe e suas famílias, por meio de iniciativas práticas em diversas frentes para todos e todas estarem sempre bem, na vida pessoal e profissional.Fique Por Dentro Dos Nossos BenefíciosAssistência Médica e Odontológica *Benefício Medicamentos *Gympass *Vale Alimentação e/ou RefeiçãoVale TransportePrevidência PrivadaAparelho celular com Internet Ilimitada e franquia de VozCurso de inglês online extensível a 1 familiar ou amigoPrograma de Treinamento e Capacitação InternosParticipação nos LucrosMeu primeiro benefício - Auxílio para filhos até 2 anos de idadeReembolso Creche (para pais ou mães)Modelos de trabalho e jornada flexíveisHappy Day - Dia de folga no mês do aniversárioE outros!Extensível a dependentes legaisSomos Mais na TIMÉ ter MAIS sintonia com todo o TIMe e se conectar com o que acreditamos. É aprender novas formas de oferecer ao mundo um trabalho com MAIS propósito.É o que nos move a fazer MAIS e melhor. É desenvolver habilidades com criatividade e transformar tecnologia em MAIS liberdade. É imaginar as possibilidades com MAIS inovação, conectando todas as pessoas, com respeito e agilidade.É uma cultura cada vez MAIS essencial par o nosso dia a dia. É criar um impacto MAIS positivo sendo quem você é.Vem ser você e fazer parte de um TIMe que tem a coragem para inovar, a liberdade de tentar e a vontade para fazer a diferença na vida das pessoas.Isso significa que temos um ambiente positivo de desenvolvimento, oportunidades e inclusão. São o reconhecimento de que fazemos a diferença na vida das pessoas. Vamos continuar trabalhando, desenvolvendo as melhores práticas do mercado e evoluindo junto com nosso TIMe.Juntos, #SomosMaisNaTIM! 💙
+Descrição do perfil
+Descrição do perfil
+Descrição do perfil
+Responsável por analisar e interpretar grandes quantidades de dados de uma variedade de fontes, usando ferramentas algorítmicas, de mineração de dados, inteligência artificial, aprendizado de máquina e estatísticas, a fim de torná-los acessíveis à empresa.
+Responsável por analisar e interpretar grandes quantidades de dados de uma variedade de fontes, usando ferramentas algorítmicas, de mineração de dados, inteligência artificial, aprendizado de máquina e estatísticas, a fim de torná-los acessíveis à empresa.
+
+
+
+Principais Atividades
+Principais Atividades
+Principais Atividades
+• Desenvolver modelos estatísticos para as áreas de Marketing e Novos Negócios;
+• Desenvolver modelos estatísticos para as áreas de Marketing e Novos Negócios;
+• Analisar e validar de modelos preditivos e de Machine Learning;
+• Analisar e validar de modelos preditivos e de Machine Learning;
+• Efetuar análises e estudos Adhoc, relacionados a modelagem, perfil e outros; • Realizar contato direto com as áreas envolvidas a fim de entender o problema e possíveis soluções a serem desenvolvidas;
+• Efetuar análises e estudos Adhoc, relacionados a modelagem, perfil e outros; • Realizar contato direto com as áreas envolvidas a fim de entender o problema e possíveis soluções a serem desenvolvidas;
+• Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor.
+• Sugerir novos caminhos, sejam técnicas ou tecnologias, para evoluir a prática de ciência de dados e agregação de valor.
+
+
+
+Conhecimento, Experiência e Formação
+Conhecimento, Experiência e Formação
+Conhecimento, Experiência e Formação
+• Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);
+• Experiência prévia em modelagem estatística, com entendimento do processo de modelagem (desenvolvimento de códigos para manipulação de base de dados, seleção, tratamento e análise de variáveis e discussão com áreas de negócios);
+
+• SQL (manipulação, definição, controle, transação, consulta);
+• SQL (manipulação, definição, controle, transação, consulta);
+• Conhecimento de algoritmos e técnicas de validação/performance de modelos em Machine Learning;
+• Conhecimento de algoritmos e técnicas de validação/performance de modelos em Machine Learning;
+• Conhecimento da suíte de dados Google Cloud Platform (Ex.: BigQuery, CloudStorage, BigTable);
+• Conhecimento da suíte de dados Google Cloud Platform (Ex.: BigQuery, CloudStorage, BigTable);
+• Conhecimento aplicado ao negócio de Telecom; • Domínio de mais de uma linguagem de programação;
+• Conhecimento aplicado ao negócio de Telecom; • Domínio de mais de uma linguagem de programação;
+• Prática com softwares de BI;
+• Prática com softwares de BI;
+• Conhecimento/exposição de(a) soluções de AutoML (ex.: DataRobots, VertexAI, SageMaker, Azure ML);
+• Conhecimento/exposição de(a) soluções de AutoML (ex.: DataRobots, VertexAI, SageMaker, Azure ML);
+• Experiência em projetos utilizando AWS, GCP ou Microsoft;
+• Experiência em projetos utilizando AWS, GCP ou Microsoft;
+• SAS Enterprise Guide (drag and drop e code);
+• SAS Enterprise Guide (drag and drop e code);
+• Graduação completa em Estatística, Matemática, Ciência da computação ou similares;
+• Graduação completa em Estatística, Matemática, Ciência da computação ou similares;
+• Desejável pós-graduação nas áreas correlatas acima.
+• Desejável pós-graduação nas áreas correlatas acima.
+
+
+
+Valorizamos a candidatura de Pessoas com deficiência, Pessoas negras, Pessoas LGBTI+, Pessoas 45+ e Mulheres!
+Valorizamos a candidatura de Pessoas com deficiência, Pessoas negras, Pessoas LGBTI+, Pessoas 45+ e Mulheres!
+
+
+
+Na TIM, o seu bem-estar é o nosso bem-estar, por isso o programa Conexão Bem + Estar tem o propósito de fortalecer o cuidado genuíno da TIM com o TIMe e suas famílias, por meio de iniciativas práticas em diversas frentes para todos e todas estarem sempre bem, na vida pessoal e profissional.
+Na TIM, o seu bem-estar é o nosso bem-estar, por isso o programa Conexão Bem + Estar tem o propósito de fortalecer o cuidado genuíno da TIM com o TIMe e suas famílias, por meio de iniciativas práticas em diversas frentes para todos e todas estarem sempre bem, na vida pessoal e profissional.
+
+
+
+Fique Por Dentro Dos Nossos Benefícios
+Fique Por Dentro Dos Nossos Benefícios
+Fique Por Dentro Dos Nossos Benefícios
+
+
+
+Assistência Médica e Odontológica *Benefício Medicamentos *Gympass *Vale Alimentação e/ou RefeiçãoVale TransportePrevidência PrivadaAparelho celular com Internet Ilimitada e franquia de VozCurso de inglês online extensível a 1 familiar ou amigoPrograma de Treinamento e Capacitação InternosParticipação nos LucrosMeu primeiro benefício - Auxílio para filhos até 2 anos de idadeReembolso Creche (para pais ou mães)Modelos de trabalho e jornada flexíveisHappy Day - Dia de folga no mês do aniversário
+Assistência Médica e Odontológica *
+Assistência Médica e Odontológica *
+Benefício Medicamentos *
+Benefício Medicamentos *
+Gympass *
+Gympass *
+Vale Alimentação e/ou Refeição
+Vale Alimentação e/ou Refeição
+Vale Transporte
+Vale Transporte
+Previdência Privada
+Previdência Privada
+Aparelho celular com Internet Ilimitada e franquia de Voz
+Aparelho celular com Internet Ilimitada e franquia de Voz
+Curso de inglês online extensível a 1 familiar ou amigo
+Curso de inglês online extensível a 1 familiar ou amigo
+Programa de Treinamento e Capacitação Internos
+Programa de Treinamento e Capacitação Internos
+Participação nos Lucros
+Participação nos Lucros
+Meu primeiro benefício - Auxílio para filhos até 2 anos de idade
+Meu primeiro benefício - Auxílio para filhos até 2 anos de idade
+Reembolso Creche (para pais ou mães)
+Reembolso Creche (para pais ou mães)
+Modelos de trabalho e jornada flexíveis
+Modelos de trabalho e jornada flexíveis
+Happy Day - Dia de folga no mês do aniversário
+Happy Day - Dia de folga no mês do aniversário
+E outros!
+E outros!
+Extensível a dependentes legais
+Extensível a dependentes legais
+Extensível a dependentes legais
+
+
+
+Somos Mais na TIM
+Somos Mais na TIM
+É ter MAIS sintonia com todo o TIMe e se conectar com o que acreditamos. É aprender novas formas de oferecer ao mundo um trabalho com MAIS propósito.
+É ter MAIS sintonia com todo o TIMe e se conectar com o que acreditamos. É aprender novas formas de oferecer ao mundo um trabalho com MAIS propósito.
+É o que nos move a fazer MAIS e melhor. É desenvolver habilidades com criatividade e transformar tecnologia em MAIS liberdade. É imaginar as possibilidades com MAIS inovação, conectando todas as pessoas, com respeito e agilidade.
+É o que nos move a fazer MAIS e melhor. É desenvolver habilidades com criatividade e transformar tecnologia em MAIS liberdade. É imaginar as possibilidades com MAIS inovação, conectando todas as pessoas, com respeito e agilidade.
+É uma cultura cada vez MAIS essencial par o nosso dia a dia. É criar um impacto MAIS positivo sendo quem você é.
+É uma cultura cada vez MAIS essencial par o nosso dia a dia. É criar um impacto MAIS positivo sendo quem você é.
+Vem ser você e fazer parte de um TIMe que tem a coragem para inovar, a liberdade de tentar e a vontade para fazer a diferença na vida das pessoas.
+Vem ser você e fazer parte de um TIMe que tem a coragem para inovar, a liberdade de tentar e a vontade para fazer a diferença na vida das pessoas.
+Isso significa que temos um ambiente positivo de desenvolvimento, oportunidades e inclusão. São o reconhecimento de que fazemos a diferença na vida das pessoas. Vamos continuar trabalhando, desenvolvendo as melhores práticas do mercado e evoluindo junto com nosso TIMe.
+Isso significa que temos um ambiente positivo de desenvolvimento, oportunidades e inclusão. São o reconhecimento de que fazemos a diferença na vida das pessoas. Vamos continuar trabalhando, desenvolvendo as melhores práticas do mercado e evoluindo junto com nosso TIMe.
+Juntos, #SomosMaisNaTIM! 💙
+Juntos, #SomosMaisNaTIM! 💙

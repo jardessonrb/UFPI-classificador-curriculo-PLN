@@ -1,0 +1,48 @@
+link-https://www.linkedin.com/jobs/view/4061019742/?eBP=CwEAAAGS7g-PQ9HRZ5RfsB_eksLOmojF5iciEyVA-nC0-uYod1adqZFaPqoyBGtyd5BA-Px0jAsgwy-O2uRHgQQkX6v959zNW39mdRCEdcSQCEWbsnRLumAgpg2OBK9yhaKEAMW8_XNarrY7pULIMsC9aPZ4BEh_EWsv1rSXE0FTd8-vOsLg1RpcmgGrmjepBxsr-1Vdm4bkh1eE6xzIsBPChHUVri49Grvq6biOTBoGsHu_RHdgjNIIBxoviB5IojbbNNpi-6Gk2_xx_uQKoo2iHWAWnpkD75miYLckD7h8H6wjieTw-uh2isQ171V-o2fLzIn-7eA0qIlIty6MkMCjP0aoUxJB2HgDoX9GkyeNDkn-jpA-BqZln-inxjVeWex4b_K2cJIC4OtUcUTHMqR-0JOb8tdxjiz0FrD3XHILNN00kg6ag5Z--r-7Z7LKAdRslPBBFLKpmDZDOCj-dYbGnckZNLSwNuTjdd5ejBia6d8x6m0EVLqOu0InLi1YnRRH0qc7FmrxWf_Vx4WIbNzWc3ieXA&refId=4HWb3fpr4rq7t21n2A4hZg%3D%3D&trackingId=nkoPUNnCZkianJcCMZ%2FJcA%3D%3D&trk=flagship3_search_srp_jobs
+
+Engenheiro de Software Sênior Full Stack com - DevOps
+Sobre a vaga
+Responsabilidades:Definir e implementar pipelines CI/CD para o deploy e manutenção de serviços, melhorando a eficiência do ciclo de desenvolvimento.Criar e gerenciar infraestrutura como código (IaC), usando ferramentas como Terraform e Ansible, para provisionamento e configuração de recursos em nuvem.Implementar e gerenciar o monitoramento contínuo da infraestrutura e das aplicações, identificando e resolvendo incidentes proativamente.Trabalhar em colaboração com times de desenvolvimento para definir padrões de segurança, resiliência e escalabilidade.Automatizar tarefas repetitivas e processos, usando scripts e ferramentas de automação.Desenvolver e manter políticas de backup e recuperação de dados, assegurando a continuidade dos serviços em cenários de falha.Implementar medidas de segurança robustas, como autenticação multifator, gerenciamento de chaves e revisão de permissões de acesso.Liderar e participar de práticas de resposta a incidentes, incluindo análise post-mortem e implementação de medidas preventivas.Requisitos:Experiência prática com ferramentas de CI/CD (Jenkins, GitLab CI), Kubernetes e Docker.Conhecimento em práticas de segurança, auditoria e compliance em ambientes cloud.Experiência com observabilidade (monitoramento, logging e tracing) e ferramentas como Prometheus, Grafana e ELK.Habilidade para diagnosticar e resolver problemas de infraestrutura e aplicação de forma rápida e eficiente.Diferenciais:Certificações DevOps em nuvem (AWS DevOps Engineer, Oracle Cloud Infrastructure DevOps Professional).Experiência em otimização de custos em cloud, implementando soluções que garantam alta eficiência e desempenho.
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+Definir e implementar pipelines CI/CD para o deploy e manutenção de serviços, melhorando a eficiência do ciclo de desenvolvimento.Criar e gerenciar infraestrutura como código (IaC), usando ferramentas como Terraform e Ansible, para provisionamento e configuração de recursos em nuvem.Implementar e gerenciar o monitoramento contínuo da infraestrutura e das aplicações, identificando e resolvendo incidentes proativamente.Trabalhar em colaboração com times de desenvolvimento para definir padrões de segurança, resiliência e escalabilidade.Automatizar tarefas repetitivas e processos, usando scripts e ferramentas de automação.Desenvolver e manter políticas de backup e recuperação de dados, assegurando a continuidade dos serviços em cenários de falha.Implementar medidas de segurança robustas, como autenticação multifator, gerenciamento de chaves e revisão de permissões de acesso.Liderar e participar de práticas de resposta a incidentes, incluindo análise post-mortem e implementação de medidas preventivas.
+Definir e implementar pipelines CI/CD para o deploy e manutenção de serviços, melhorando a eficiência do ciclo de desenvolvimento.
+Definir e implementar pipelines CI/CD para o deploy e manutenção de serviços, melhorando a eficiência do ciclo de desenvolvimento.
+Criar e gerenciar infraestrutura como código (IaC), usando ferramentas como Terraform e Ansible, para provisionamento e configuração de recursos em nuvem.
+Criar e gerenciar infraestrutura como código (IaC), usando ferramentas como Terraform e Ansible, para provisionamento e configuração de recursos em nuvem.
+Implementar e gerenciar o monitoramento contínuo da infraestrutura e das aplicações, identificando e resolvendo incidentes proativamente.
+Implementar e gerenciar o monitoramento contínuo da infraestrutura e das aplicações, identificando e resolvendo incidentes proativamente.
+Trabalhar em colaboração com times de desenvolvimento para definir padrões de segurança, resiliência e escalabilidade.
+Trabalhar em colaboração com times de desenvolvimento para definir padrões de segurança, resiliência e escalabilidade.
+Automatizar tarefas repetitivas e processos, usando scripts e ferramentas de automação.
+Automatizar tarefas repetitivas e processos, usando scripts e ferramentas de automação.
+Desenvolver e manter políticas de backup e recuperação de dados, assegurando a continuidade dos serviços em cenários de falha.
+Desenvolver e manter políticas de backup e recuperação de dados, assegurando a continuidade dos serviços em cenários de falha.
+Implementar medidas de segurança robustas, como autenticação multifator, gerenciamento de chaves e revisão de permissões de acesso.
+Implementar medidas de segurança robustas, como autenticação multifator, gerenciamento de chaves e revisão de permissões de acesso.
+Liderar e participar de práticas de resposta a incidentes, incluindo análise post-mortem e implementação de medidas preventivas.
+Liderar e participar de práticas de resposta a incidentes, incluindo análise post-mortem e implementação de medidas preventivas.
+Requisitos:
+Requisitos:
+Requisitos:
+Experiência prática com ferramentas de CI/CD (Jenkins, GitLab CI), Kubernetes e Docker.Conhecimento em práticas de segurança, auditoria e compliance em ambientes cloud.Experiência com observabilidade (monitoramento, logging e tracing) e ferramentas como Prometheus, Grafana e ELK.Habilidade para diagnosticar e resolver problemas de infraestrutura e aplicação de forma rápida e eficiente.
+Experiência prática com ferramentas de CI/CD (Jenkins, GitLab CI), Kubernetes e Docker.
+Experiência prática com ferramentas de CI/CD (Jenkins, GitLab CI), Kubernetes e Docker.
+Conhecimento em práticas de segurança, auditoria e compliance em ambientes cloud.
+Conhecimento em práticas de segurança, auditoria e compliance em ambientes cloud.
+Experiência com observabilidade (monitoramento, logging e tracing) e ferramentas como Prometheus, Grafana e ELK.
+Experiência com observabilidade (monitoramento, logging e tracing) e ferramentas como Prometheus, Grafana e ELK.
+Habilidade para diagnosticar e resolver problemas de infraestrutura e aplicação de forma rápida e eficiente.
+Habilidade para diagnosticar e resolver problemas de infraestrutura e aplicação de forma rápida e eficiente.
+Diferenciais:
+Diferenciais:
+Diferenciais:
+Certificações DevOps em nuvem (AWS DevOps Engineer, Oracle Cloud Infrastructure DevOps Professional).Experiência em otimização de custos em cloud, implementando soluções que garantam alta eficiência e desempenho.
+Certificações DevOps em nuvem (AWS DevOps Engineer, Oracle Cloud Infrastructure DevOps Professional).
+Certificações DevOps em nuvem (AWS DevOps Engineer, Oracle Cloud Infrastructure DevOps Professional).
+Experiência em otimização de custos em cloud, implementando soluções que garantam alta eficiência e desempenho.
+Experiência em otimização de custos em cloud, implementando soluções que garantam alta eficiência e desempenho.
+
+
+

@@ -1,0 +1,62 @@
+link-https://www.linkedin.com/jobs/view/4048131295/?eBP=CwEAAAGS7lD1UvTgsyk2o93KTXHjvsOS8I0bQL-rlV3UZ0i8UL5utobQ6XwuX_Bi6OjmdkcI8WlW486YL-QoDFpi_oveCBskYCaW_e66WW3RcjluhTse6UBCvXI_4o9Qod73bVRzf9N3-sKzjejUJHhZkhWkyDNZtudbSASoCgMLrMImsSpifRMlLnTsDB9gnpBxKFV-cWszrEVLsBeQ7vfjwK9bFJVeqx3vy4gPxE_vocRIYuBQSO2UvKARpNV83d1iPn6MKIhOqiSlELLPFG9VMmlCT8AWzQ3nn0mIkojbqK73htbd9cs8b4qpj7tottQ1TJxbVl4-TVnC4oLO2jNE7UMD8l1rEeSa_EQDfEyKU1HCF3lCuy2Cb2mSL5iRM0DOJKqxu4k_oLEzoNnvH0KBoMuuujteCRIhG4Gg-UNC7i86WJGIKX1umhZO00E36Kd2FIY__saLdGv3kbcQ4E7YwA-MyABgoBFzBwSMXNp9p4-WjQOO_nm22laVdsTtg59GIU9rFBE&refId=iFoNm80mDkJh%2FNl7uvG14w%3D%3D&trackingId=Rl1FAb4rzHjyNwJd5CWsQA%3D%3D&trk=flagship3_search_srp_jobs
+
+Developer Back-end - Pleno/Senior (híbrido)
+Sobre a vaga
+Nós somos especialistas emtech transformation, nós somos aCI&T.Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.A CI&T está em busca de uma pessoa para se juntar à nossa equipe em São Paulo/SP. Se você é uma pessoa proativa, organizada e apaixonada por tornar o dia a dia mais eficiente, queremos te conhecer.Você precisa ter experiência com:-Conhecimento em Java, .Net ou Nodejs-Conhecimento avançado em linguagens de programação, se preocupando em manter a performance, segurança e escalabilidade do ambiente na qual o time trabalha (C#, .Net Core, Node);-Conhecimento intermediário em Cloud, dando sustentação e sugerindo melhorias para o time que trabalha (AWS: CloudFront, -CloudFormation, Route53, EC2, ECS, S3, SQS/SNS, API Gateway e Lambda);-Conhecimento avançado de querys, para aplicação performática e escalável (Uso de join correto, substituição de subselects e etc);-Desenvolvimento intermediário de testes de aplicação (TDD,BDD,testes unitários);-Conhecimento básico em aplicações de monitoria e observabilidade (Sonar, New Relic, CloudWatch, Kibana,Grafana);-Utilização de metodologias ágeis (Scrum, Kanban, Lean).Disponibilidade para alocação híbrida (2-3 vezes por semana) em Interlagos (São Paulo/SP)#MidSeniorPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+
+tech transformation
+
+CI&T.
+
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+
+
+
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:
+
+
+
+
+A CI&T está em busca de uma pessoa para se juntar à nossa equipe em São Paulo/SP. Se você é uma pessoa proativa, organizada e apaixonada por tornar o dia a dia mais eficiente, queremos te conhecer.
+A CI&T está em busca de uma pessoa para se juntar à nossa equipe em São Paulo/SP. Se você é uma pessoa proativa, organizada e apaixonada por tornar o dia a dia mais eficiente, queremos te conhecer.
+Você precisa ter experiência com:
+Você precisa ter experiência com:
+-Conhecimento em Java, .Net ou Nodejs
+-Conhecimento em Java, .Net ou Nodejs
+-Conhecimento avançado em linguagens de programação, se preocupando em manter a performance, segurança e escalabilidade do ambiente na qual o time trabalha (C#, .Net Core, Node);
+-Conhecimento avançado em linguagens de programação, se preocupando em manter a performance, segurança e escalabilidade do ambiente na qual o time trabalha (C#, .Net Core, Node);
+-Conhecimento intermediário em Cloud, dando sustentação e sugerindo melhorias para o time que trabalha (AWS: CloudFront, -CloudFormation, Route53, EC2, ECS, S3, SQS/SNS, API Gateway e Lambda);
+-Conhecimento intermediário em Cloud, dando sustentação e sugerindo melhorias para o time que trabalha (AWS: CloudFront, -CloudFormation, Route53, EC2, ECS, S3, SQS/SNS, API Gateway e Lambda);
+-Conhecimento avançado de querys, para aplicação performática e escalável (Uso de join correto, substituição de subselects e etc);
+-Conhecimento avançado de querys, para aplicação performática e escalável (Uso de join correto, substituição de subselects e etc);
+-Desenvolvimento intermediário de testes de aplicação (TDD,BDD,testes unitários);
+-Desenvolvimento intermediário de testes de aplicação (TDD,BDD,testes unitários);
+-Conhecimento básico em aplicações de monitoria e observabilidade (Sonar, New Relic, CloudWatch, Kibana,Grafana);
+-Conhecimento básico em aplicações de monitoria e observabilidade (Sonar, New Relic, CloudWatch, Kibana,Grafana);
+-Utilização de metodologias ágeis (Scrum, Kanban, Lean).
+-Utilização de metodologias ágeis (Scrum, Kanban, Lean).
+Disponibilidade para alocação híbrida (2-3 vezes por semana) em Interlagos (São Paulo/SP)
+Disponibilidade para alocação híbrida (2-3 vezes por semana) em Interlagos (São Paulo/SP)
+Disponibilidade para alocação híbrida (2-3 vezes por semana) em Interlagos (São Paulo/SP)
+#MidSenior
+#MidSenior
+
+
+
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+
+
+*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+*Cidades que compõe a Região Metropolitana de Campinas:Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo.
+*Cidades que compõe a Região Metropolitana de Campinas:
+

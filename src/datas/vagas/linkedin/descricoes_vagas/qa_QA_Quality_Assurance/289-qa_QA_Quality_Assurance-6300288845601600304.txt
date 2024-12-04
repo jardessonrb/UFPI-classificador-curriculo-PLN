@@ -1,0 +1,169 @@
+link-https://www.linkedin.com/jobs/view/4063395376/?eBP=CwEAAAGS7kgAGaKH6BFoZ6r1dyKY85z7BAGtg1APVhul7_ozwh2FoAbNxpHc5C8nGXKfSvaET1Rn6YOe93fpxkeW1t6U3ZQhsiqLmKH4tDg2RQqKotFcRoV4fpV4Sn2mx7a1K9xKKDz8aO4lmngJo0R7y9K8D-v77s0fmLbIKvi8D0BQbvo_UkxEDoWeGIQ8E4rLP-OdZY1cmUUWNH8OFUXGN_JsKaF0eoTU4wX3rf_md3voeuDxNn5pst4epNm1VrvhwKbh1TJiXd63oZY7CuvL_6KnIaGeADMV9NVIgEehUOtn8aP4b3lXwlunERYZ-nBJwDgXpKI-vzEH56xu0ezlYc4GZWJBmTsFOF-ewsd0NG-dwr6AbmwRqOJrp0RYfZCEoJ3ONhvruUGwSs6MVCswaYrpLDnq5o5e4cnd7Tr-r7XFzMsvVbeFl136yK_lSPlsCR4BBmOxKBJGIbkgr24juYhiS21tG3DWAaX02vC7RKU7_HicBOj9ed5x&refId=nIYYNsE%2BnfA3QpgDC17OUg%3D%3D&trackingId=kU7JQ3VUzxbaV6lhWn4vWg%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Automation Engineer (API Testing & Cypress)
+Sobre a vaga
+OverviewWe are hiring a QA Automation Engineer (API Testing & Cypress). Headquartered in Los Angeles, California, Right Balance provides top-tier technology talent for innovative companies in the US. We’re in the top 50 companies to watch in LA.Engagement DetailsWe started with the mission of bringing a simple payment experience to the text space. Over the past five years we’ve continued to innovate on what a simple payment conversation really is. Our platform manages the mission critical task of billing and payments on behalf of our partners and customers, removing the burden of investing in additional resources, infrastructure, and a customer management web portal. It also provides the 70% of consumers who live paycheck to paycheck the power to authorize bill payments quickly and on their terms. Located in Southern California, we're located in the heart of Silicon Beach, the second largest technology hub in the world. We are a lean startup resourced and managed by a group of experienced technical and business professionals.Role We’re seeking a detail-oriented QA Automation Engineer with solid experience in Cypress to join our team and help ensure the reliability of our API services. In this role, you’ll be responsible for creating, updating, and maintaining Cypress automation tests focused on API functionality. This is an excellent opportunity for someone with a strong foundation in API testing who values precision, quality, and efficiency in automation.Key ResponsibilitiesDesign, develop, and maintain automated test scripts using Cypress for thorough validation of our API services.Collaborate closely with developers, QA, and product teams to define test strategies, identify test cases, and ensure comprehensive test coverage for APIs.Work closely with development teams to ensure tests are integrated into our CI/CD pipelineIdentify, analyze, and troubleshoot API-related issues, providing clear documentation and insights for continuous improvement. *Adapt and migrate Postman API tests to Cypress as we transition tools quality.Regularly review and optimize test cases to ensure they align with the evolving product requirements and business needs.Location Remote from any country Must be available to work until 12pm Pacific Time (later would be great)What’s in it for youLearn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.Required QualificationsAdvanced speaking and writing English. Able to have a real-time conversation.2+ years of full-time hands-on QA Automation experience.2+ years of full-time hands-on API Testing experience.2+ years of full-time hands-in Cypress experience.2+ years of full-time hands-on Javascript or Typescript experience.Solid understanding of API testing principles, including authentication, error handling, and data validation.Proficiency in JavaScript or TypeScript, especially in relation to Cypress scripting.Excellent attention to detail and problem-solving skills, with a methodical approach to debugging and reporting issues, as well as, commitment to quality.Nice to havesExpertise in Cypress, particularly in advanced configuration and custom command creation.Familiarity with other testing tools or frameworks, such as Postman or Mocha.Experience in CI/CD environments, ensuring tests run smoothly in pipelines.Knowledge of performance testing and load testing tools for APIs.Bachelor’s degree in Computer Science or equivalent demonstrated ability.Frequently Asked QuestionsWhat are your typical clients?The majority of our clients are venture-backed startups at the growth stage. Usually, at this stage, the company already achieved a product-market fit and is looking to expand rapidly. That’s where we bring the best engineering practices, strong architecture, the latest technologies, and consistent processes to help companies scale.What is the length of your engagements?Most of our long-term full-time engagements last multiple years. It allows you to evolve your career with the client company taking on more responsibilities.What’s your company size?The Right Balance team is 60+ engineers going to 100+ by the end of the year. The current client size team is 32+ people. The timing is great to be a part of a rapidly growing team making meaningful contributions.What happens if the engagement is completed?Most of our engagements are long-term in nature. That said, if the current engagement is ramping down, we’ll present you with more long-term opportunities to transition into.What are your core values?Client First: we only win when our clients win. We treat client challenges as our own.Ownership: we embrace responsibility, taking on challenges, getting them to completion, and enjoying getting things done.Quality: we’re passionate about achieving quality outcomes by applying meticulous attention to detail.
+Overview
+
+
+
+
+Engagement Details
+
+
+
+
+
+
+
+
+
+
+Design, develop, and maintain automated test scripts using Cypress for thorough validation of our API services.Collaborate closely with developers, QA, and product teams to define test strategies, identify test cases, and ensure comprehensive test coverage for APIs.Work closely with development teams to ensure tests are integrated into our CI/CD pipelineIdentify, analyze, and troubleshoot API-related issues, providing clear documentation and insights for continuous improvement. *Adapt and migrate Postman API tests to Cypress as we transition tools quality.Regularly review and optimize test cases to ensure they align with the evolving product requirements and business needs.
+Design, develop, and maintain automated test scripts using Cypress for thorough validation of our API services.
+Design, develop, and maintain automated test scripts using Cypress for thorough validation of our API services.
+
+
+Collaborate closely with developers, QA, and product teams to define test strategies, identify test cases, and ensure comprehensive test coverage for APIs.
+Collaborate closely with developers, QA, and product teams to define test strategies, identify test cases, and ensure comprehensive test coverage for APIs.
+
+
+Work closely with development teams to ensure tests are integrated into our CI/CD pipeline
+Work closely with development teams to ensure tests are integrated into our CI/CD pipeline
+
+
+Identify, analyze, and troubleshoot API-related issues, providing clear documentation and insights for continuous improvement. *Adapt and migrate Postman API tests to Cypress as we transition tools quality.
+Identify, analyze, and troubleshoot API-related issues, providing clear documentation and insights for continuous improvement. *Adapt and migrate Postman API tests to Cypress as we transition tools quality.
+
+
+Regularly review and optimize test cases to ensure they align with the evolving product requirements and business needs.
+Regularly review and optimize test cases to ensure they align with the evolving product requirements and business needs.
+
+
+
+
+
+
+
+What’s in it for you
+
+
+
+
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+Learn and evolve your skills using the latest and greatest technology tools in a rapidly growing company.
+
+
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+Learn from the best people around you. We constantly challenge the status quo and invent new ways of building a great product.
+
+
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+100% remote. Work anywhere, whether it is remotely in the comfort of your home, in a shared co-working space, in an RV on the beach, or while being a nomad in another country.
+
+
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+Work on challenging problems, innovate, and positively impact many people's lives while having fun doing it.
+
+
+
+
+
+Required Qualifications
+
+
+
+
+Advanced speaking and writing English. Able to have a real-time conversation.2+ years of full-time hands-on QA Automation experience.2+ years of full-time hands-on API Testing experience.2+ years of full-time hands-in Cypress experience.2+ years of full-time hands-on Javascript or Typescript experience.Solid understanding of API testing principles, including authentication, error handling, and data validation.Proficiency in JavaScript or TypeScript, especially in relation to Cypress scripting.Excellent attention to detail and problem-solving skills, with a methodical approach to debugging and reporting issues, as well as, commitment to quality.
+Advanced speaking and writing English. Able to have a real-time conversation.
+Advanced speaking and writing English. Able to have a real-time conversation.
+
+
+2+ years of full-time hands-on QA Automation experience.
+2+ years of full-time hands-on QA Automation experience.
+
+
+2+ years of full-time hands-on API Testing experience.
+2+ years of full-time hands-on API Testing experience.
+
+
+2+ years of full-time hands-in Cypress experience.
+2+ years of full-time hands-in Cypress experience.
+
+
+2+ years of full-time hands-on Javascript or Typescript experience.
+2+ years of full-time hands-on Javascript or Typescript experience.
+
+
+Solid understanding of API testing principles, including authentication, error handling, and data validation.
+Solid understanding of API testing principles, including authentication, error handling, and data validation.
+
+
+Proficiency in JavaScript or TypeScript, especially in relation to Cypress scripting.
+Proficiency in JavaScript or TypeScript, especially in relation to Cypress scripting.
+
+
+Excellent attention to detail and problem-solving skills, with a methodical approach to debugging and reporting issues, as well as, commitment to quality.
+Excellent attention to detail and problem-solving skills, with a methodical approach to debugging and reporting issues, as well as, commitment to quality.
+
+
+
+
+
+Nice to haves
+
+
+
+
+Expertise in Cypress, particularly in advanced configuration and custom command creation.Familiarity with other testing tools or frameworks, such as Postman or Mocha.Experience in CI/CD environments, ensuring tests run smoothly in pipelines.Knowledge of performance testing and load testing tools for APIs.Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Expertise in Cypress, particularly in advanced configuration and custom command creation.
+Expertise in Cypress, particularly in advanced configuration and custom command creation.
+
+
+Familiarity with other testing tools or frameworks, such as Postman or Mocha.
+Familiarity with other testing tools or frameworks, such as Postman or Mocha.
+
+
+Experience in CI/CD environments, ensuring tests run smoothly in pipelines.
+Experience in CI/CD environments, ensuring tests run smoothly in pipelines.
+
+
+Knowledge of performance testing and load testing tools for APIs.
+Knowledge of performance testing and load testing tools for APIs.
+
+
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+Bachelor’s degree in Computer Science or equivalent demonstrated ability.
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

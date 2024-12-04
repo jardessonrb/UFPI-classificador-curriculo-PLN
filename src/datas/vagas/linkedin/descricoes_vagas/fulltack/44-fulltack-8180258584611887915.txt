@@ -1,0 +1,79 @@
+link-https://www.linkedin.com/jobs/view/3932017467/?eBP=CwEAAAGS7g-PRGoj5bcyZFtY7pBdrhxSTBTymSEZXsXwtNl6jS7DZWVD1PMKWHHjgfotfTElTTbVQNRe_KBEtR2kCccKZPUZRmYOxOjVKA9nBLfe8XpaTFLl9AgQYhawuKzKW-1D-9OcS26Gmwqefs8RdDCeFCOeTTUPuaoJuWY8oekp0i35k8gyI9RCBcJtCL6HKuIrXbncJYzyjoB78J_BUx5qc_Zbj7WKNYuIdB2TN1SDx5NHL9fpNEFZA0T4-bwX6uUrChTkbThkKug5m_41oRMNmGvYzFD0nAO01uZx3aRAp3MdefUs3fA2tA6wIpjBG2ile_bGYHHO5053TCQBrt5Q--eg44wsOnbVWBhYS3pLx8hQ1G0auYKyXbLEZBkrYg-_5UIQuZ_mFuyFE3Yk6Spq9G8V8zATSGmOtnAPRN_Hwht0NpKchYOx9VbuhjLBDVZSB8gETg1dflOuaT_VQpSA0dCneUUrc3ECzppuUzlpFCfn87KcuVOjm4POeFU0Y7jJzIo&refId=4HWb3fpr4rq7t21n2A4hZg%3D%3D&trackingId=0aL8qLSuZVtS6kK3%2FWGPBA%3D%3D&trk=flagship3_search_srp_jobs
+
+Midlevel Fullstack Engineer (Remote) - Brazil
+Sobre a vaga
+The role:We are looking for highly talented and driven Midlevel Fullstack Software Engineers who take pride in their work, to expand our Engineering team in Brazil. Successful candidates will join a cross functional team including product managers and designers working closely with the rest of our business to deliver working code that solves real problems for both internal and external customers. You will take ownership of the problems that your team solves, ensuring a high level of quality in everything that we release, working as part of a top performing international development team. If you have a strong passion for solving problems with code, and want to work with exceptional colleagues in a high achievement environment, this role is a good fit for you.What you’ll do:Design solutions:Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.Ship working code:We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.Deploy and iterate:We release frequently to our customers and quickly gather feedback in order to inform our next iteration.Build your competency:You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.Maintenance and troubleshooting:Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.Who you are:You probably havea degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.Have 3+ years of experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.Technical expertise working with at least one frontend framework, ideally React, as well as experience working on the backend systems. (We use Kotlin and a bit of Ruby.)Proven track record– You’ve made a demonstrable impact in your previous roles, standing out from your peers.Highly driven and proactive– you relentlessly and independently push through hurdles and drive towards excellent outcomes.Meticulous– you hold high standards and have an obsessive attention to detail.Learn more about our tech organization! Don't worry if your experience or background doesn't match all of these areas, we believe a broad spectrum of experience provides great perspective on solving problems in new and innovative ways and we’d love to hear from you.Please note that unfortunately, we are unable to sponsor visas for this position. AlphaSights is an equal opportunity employer.*THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZIL RESIDENTS.
+The role:
+The role:
+We are looking for highly talented and driven Midlevel Fullstack Software Engineers who take pride in their work, to expand our Engineering team in Brazil. Successful candidates will join a cross functional team including product managers and designers working closely with the rest of our business to deliver working code that solves real problems for both internal and external customers. You will take ownership of the problems that your team solves, ensuring a high level of quality in everything that we release, working as part of a top performing international development team. If you have a strong passion for solving problems with code, and want to work with exceptional colleagues in a high achievement environment, this role is a good fit for you.
+We are looking for highly talented and driven Midlevel Fullstack Software Engineers who take pride in their work, to expand our Engineering team in Brazil. Successful candidates will join a cross functional team including product managers and designers working closely with the rest of our business to deliver working code that solves real problems for both internal and external customers. You will take ownership of the problems that your team solves, ensuring a high level of quality in everything that we release, working as part of a top performing international development team. If you have a strong passion for solving problems with code, and want to work with exceptional colleagues in a high achievement environment, this role is a good fit for you.
+
+
+
+What you’ll do:
+What you’ll do:
+Design solutions:Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.Ship working code:We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.Deploy and iterate:We release frequently to our customers and quickly gather feedback in order to inform our next iteration.Build your competency:You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.Maintenance and troubleshooting:Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+Design solutions:Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.
+Design solutions:Define the best technical solutions to business problems, contributing to an architectural vision that will scale up to be the world's leading research platform.
+Design solutions:
+
+Ship working code:We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.
+Ship working code:We primarily work with React on the frontend and Kotlin microservices with Postgres on the backend, with some older services written in Ruby on Rails. We’ve always got an eye open to assess new technologies that might improve our stack.
+Ship working code:
+
+Deploy and iterate:We release frequently to our customers and quickly gather feedback in order to inform our next iteration.
+Deploy and iterate:We release frequently to our customers and quickly gather feedback in order to inform our next iteration.
+Deploy and iterate:
+
+Build your competency:You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.
+Build your competency:You will learn quickly by building market-leading technology with experienced colleagues in a high performance environment. Engineers can also use our L&D budget to fast-track development of specific technical competencies.
+Build your competency:
+
+Maintenance and troubleshooting:Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+Maintenance and troubleshooting:Carefully monitor our services, catching errors before users notice them, diagnosing the root cause and deploying fixes.
+Maintenance and troubleshooting:
+
+
+
+
+Who you are:
+Who you are:
+You probably havea degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.Have 3+ years of experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.Technical expertise working with at least one frontend framework, ideally React, as well as experience working on the backend systems. (We use Kotlin and a bit of Ruby.)Proven track record– You’ve made a demonstrable impact in your previous roles, standing out from your peers.Highly driven and proactive– you relentlessly and independently push through hurdles and drive towards excellent outcomes.Meticulous– you hold high standards and have an obsessive attention to detail.
+You probably havea degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.
+You probably havea degree in a STEM subject, but we’re happy to work with people who perfected their craft via a different route.
+a degree in a STEM subject
+
+Have 3+ years of experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.
+Have 3+ years of experience working at a similar level in a mature Engineering team, and looking to take your career to the next level. We’re looking for people who have incredible potential.
+Have 3+ years of experience working at a similar level in a mature Engineering team
+Technical expertise working with at least one frontend framework, ideally React, as well as experience working on the backend systems. (We use Kotlin and a bit of Ruby.)
+Technical expertise working with at least one frontend framework, ideally React, as well as experience working on the backend systems. (We use Kotlin and a bit of Ruby.)
+Technical expertise working with at least one frontend framework, ideally React, as well as experience working on the backend systems. (We use Kotlin and a bit of Ruby.)
+Proven track record– You’ve made a demonstrable impact in your previous roles, standing out from your peers.
+Proven track record– You’ve made a demonstrable impact in your previous roles, standing out from your peers.
+Proven track record
+
+Highly driven and proactive– you relentlessly and independently push through hurdles and drive towards excellent outcomes.
+Highly driven and proactive– you relentlessly and independently push through hurdles and drive towards excellent outcomes.
+Highly driven and proactive
+
+Meticulous– you hold high standards and have an obsessive attention to detail.
+Meticulous– you hold high standards and have an obsessive attention to detail.
+Meticulous
+
+
+
+
+Learn more about our tech organization! Don't worry if your experience or background doesn't match all of these areas, we believe a broad spectrum of experience provides great perspective on solving problems in new and innovative ways and we’d love to hear from you.
+Learn more about our tech organization! Don't worry if your experience or background doesn't match all of these areas, we believe a broad spectrum of experience provides great perspective on solving problems in new and innovative ways and we’d love to hear from you.
+
+
+
+Please note that unfortunately, we are unable to sponsor visas for this position. AlphaSights is an equal opportunity employer.
+Please note that unfortunately, we are unable to sponsor visas for this position. AlphaSights is an equal opportunity employer.
+
+
+
+*THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZIL RESIDENTS.
+*THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZIL RESIDENTS.
+*THIS IS A REMOTE POSITION EXCLUSIVELY FOR CURRENT BRAZIL RESIDENTS.

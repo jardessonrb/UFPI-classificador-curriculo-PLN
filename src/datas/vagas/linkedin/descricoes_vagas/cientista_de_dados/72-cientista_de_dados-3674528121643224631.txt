@@ -1,0 +1,68 @@
+link-https://www.linkedin.com/jobs/view/4061339711/?eBP=CwEAAAGS7jSFZYSEXZY2ZK9pTdJDfVALxd7JcNYrFRobU7LJycQCRiLbDYDyzQ8Nw4NB08poMMPcjZYHdF8RS6sijRWUnsWyNSlEYF3gbI1EpgomgEJYeDjA53W_rz1OD0Y2jTtSBFdpvZ137edSSNX2Vj0scSJcsI0UUnknPBlQQQJXdud5R2WzxuFXHLYX-nASbZmvoCezP8j9WjkMgYwRIESVakuOOsbSEnNUcI3uLJgxFIbKBIxksXMX7RiYfYltt4bqWrqOgRAqhtRFgNEnyp2UtEtUqB97zH4JNyVxQbJhtH8YYlEd1i3D_T1drmVhlxL4wBCNxnXXZm9SB6iHg2pt_iYrfsVdkGtFnAy_qPa6ZVgZsyGmGKuyOeKNyonmEckh0pPok78dHefsyr9Km_SrotnO_z64NQoYcTAwbj4fIJrzYyBwdWxq9uuVfv0XQcau0AVcIL9aFjv5_4dOdYxQmF792yKkMQ5TO_2zx6fjAqUx0krrDi8OlUuJ3T9LxQt64SUm4A&refId=zG8L0cPSry7sLg6pAEmeJg%3D%3D&trackingId=%2FCdD2zWDEMXvs2sUSyIgRw%3D%3D&trk=flagship3_search_srp_jobs
+
+PESSOA CIENTISTA DE DADOS
+Sobre a vaga
+Descrição da vagaBuscamos talentos que possam transformar possibilidades em realidade, que contribuam para nos manter como a melhor e mais completa empresa farmacêutica brasileira, participando da vida das pessoas para que elas vivam mais e melhor.Essa oportunidade está aberta à candidatura de todas as pessoas, independentemente de orientação sexual, acessibilidade social ou de qualquer outro fator.Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD's).Você não se identificou com essa vaga? Não se preocupe! Você ainda pode fazer parte do nosso time! Inscreva-se no nosso banco de talentos e assim que surgir uma oportunidade que tenha mais a ver com você, nós entraremos em contato!Responsabilidades e atribuiçõesAnalisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.Requisitos e qualificaçõesEnsino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;Necessário disponibilidade para atuar em formato presencial;
+Descrição da vaga
+Descrição da vaga
+Descrição da vaga
+
+
+
+Buscamos talentos que possam transformar possibilidades em realidade, que contribuam para nos manter como a melhor e mais completa empresa farmacêutica brasileira, participando da vida das pessoas para que elas vivam mais e melhor.
+Buscamos talentos que possam transformar possibilidades em realidade, que contribuam para nos manter como a melhor e mais completa empresa farmacêutica brasileira, participando da vida das pessoas para que elas vivam mais e melhor.
+
+
+
+
+Essa oportunidade está aberta à candidatura de todas as pessoas, independentemente de orientação sexual, acessibilidade social ou de qualquer outro fator.
+Essa oportunidade está aberta à candidatura de todas as pessoas, independentemente de orientação sexual, acessibilidade social ou de qualquer outro fator.
+
+
+
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD's).
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD's).
+
+
+
+Você não se identificou com essa vaga? Não se preocupe! Você ainda pode fazer parte do nosso time! Inscreva-se no nosso banco de talentos e assim que surgir uma oportunidade que tenha mais a ver com você, nós entraremos em contato!
+Você não se identificou com essa vaga? Não se preocupe! Você ainda pode fazer parte do nosso time! Inscreva-se no nosso banco de talentos e assim que surgir uma oportunidade que tenha mais a ver com você, nós entraremos em contato!
+
+
+
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+
+
+
+Analisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.
+Analisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;
+Analisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;
+Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;
+Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;
+Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.
+Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.
+
+
+
+Requisitos e qualificações
+Requisitos e qualificações
+Requisitos e qualificações
+
+
+
+Ensino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;Necessário disponibilidade para atuar em formato presencial;
+Ensino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;
+Ensino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;
+Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);
+Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);
+Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;
+Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;
+Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;
+Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;
+Necessário disponibilidade para atuar em formato presencial;
+Necessário disponibilidade para atuar em formato presencial;
+Necessário disponibilidade para atuar em formato presencial;
+Necessário disponibilidade para atuar em formato presencial;
+Necessário disponibilidade para atuar em formato presencial;

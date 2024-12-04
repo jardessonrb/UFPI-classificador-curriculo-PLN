@@ -1,0 +1,83 @@
+link-https://www.linkedin.com/jobs/view/3969881456/?eBP=CwEAAAGS7kaWvdBq4rm3nOWiWE7bVPOgDZktH__RdoH8Z5ClrHtLM5xsrvdDRQzycYaWldA7Pq87m-JTtB8BBVKE_Lwm1SESA8wr6Lo5UZ_xWS1bDFhqJ4hESBrHf7XisqI2nAqXSNPL5kQg-BnoOgsD8hz-4NnKRaaMez2hAtY0wrMQbSl5O0HvLPqQeYxp1ohtOM5s7iIWn_93T-rOpuNIjdaNpC_RPbEP9XH2dkyIZVmKqxeXRCjXApUdmw6c3IzXhdAQk2VB9Ih6hoQ971qRo5iGJXRMRsP9sX0gyjUYe0AVuJP4ZZsFcfXLjbJ8x-2n-HD8j-QFkvOSuSf_m_8T9_BwzsRRkFHbqvSFJ_wO19wAWSBMpHO8QCcOJ74s9VuyE6zVUYfHD4nTqmZnIbMTmSwbvGFsXrbhoOB2lpap8WZpZfHk56ZZsyWKNBNmrErsXv5eXDH-ejbT4A3mw49ZNbNSALSWZOJT1Ku9Eo2LfGJDiT4AFoS9f8tkPD3mg2vBtORssVL_RKp1EJI&refId=y3v09vom4ZilCo%2B5m9ToEQ%3D%3D&trackingId=873V0OMHkTZIVhrW355TKw%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Analyst - Testes Automatizados - Remoto
+Sobre a vaga
+ACapcoé uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!ResponsabilidadesAutomatizar o backlog de casos de testes que temos no cliente usando java, cucumber e Springboot;Desenvolver e executar planos de testes, casos de testes e script de testes;Identificar e relatar defeitos de software, bugs e outros problemas;Realizar testes funcionais, de regressão e não funcionais;Auxiliar o time no que for necessário.Habilidades NecessáriasAtuação forte com testes mobile;Java;Cucumber;Springboot;Eclipse;TestNG;Cypress;Jmeter;Jira, Git, Bitbucket;Swagger;Graduação completa em T.I.;Inglês avançado - irá atuar com time internacional.Ferramentas Técnicas e Habilidades PreferidasJenkins;Cucumber;Jira Xray;Allure Reports;Mockito.Por Que CapcoJuntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!Próximos PassosSe você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+
+Capco
+
+
+
+Responsabilidades
+
+
+Automatizar o backlog de casos de testes que temos no cliente usando java, cucumber e Springboot;Desenvolver e executar planos de testes, casos de testes e script de testes;Identificar e relatar defeitos de software, bugs e outros problemas;Realizar testes funcionais, de regressão e não funcionais;Auxiliar o time no que for necessário.
+Automatizar o backlog de casos de testes que temos no cliente usando java, cucumber e Springboot;
+Automatizar o backlog de casos de testes que temos no cliente usando java, cucumber e Springboot;
+Desenvolver e executar planos de testes, casos de testes e script de testes;
+Desenvolver e executar planos de testes, casos de testes e script de testes;
+Identificar e relatar defeitos de software, bugs e outros problemas;
+Identificar e relatar defeitos de software, bugs e outros problemas;
+Realizar testes funcionais, de regressão e não funcionais;
+Realizar testes funcionais, de regressão e não funcionais;
+Auxiliar o time no que for necessário.
+Auxiliar o time no que for necessário.
+
+
+Habilidades Necessárias
+
+
+Atuação forte com testes mobile;Java;Cucumber;Springboot;Eclipse;TestNG;Cypress;Jmeter;Jira, Git, Bitbucket;Swagger;Graduação completa em T.I.;Inglês avançado - irá atuar com time internacional.
+Atuação forte com testes mobile;
+Atuação forte com testes mobile;
+Java;
+Java;
+Cucumber;
+Cucumber;
+Springboot;
+Springboot;
+Eclipse;
+Eclipse;
+TestNG;
+TestNG;
+Cypress;
+Cypress;
+Jmeter;
+Jmeter;
+Jira, Git, Bitbucket;
+Jira, Git, Bitbucket;
+Swagger;
+Swagger;
+Graduação completa em T.I.;
+Graduação completa em T.I.;
+Inglês avançado - irá atuar com time internacional.
+Inglês avançado - irá atuar com time internacional.
+
+
+Ferramentas Técnicas e Habilidades Preferidas
+
+
+Jenkins;Cucumber;Jira Xray;Allure Reports;Mockito.
+Jenkins;
+Jenkins;
+Cucumber;
+Cucumber;
+Jira Xray;
+Jira Xray;
+Allure Reports;
+Allure Reports;
+Mockito.
+Mockito.
+
+
+Por Que Capco
+
+
+
+
+Próximos Passos
+
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!

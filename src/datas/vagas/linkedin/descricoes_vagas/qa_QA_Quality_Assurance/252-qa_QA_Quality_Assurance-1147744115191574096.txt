@@ -1,0 +1,87 @@
+link-https://www.linkedin.com/jobs/view/4050288552/?eBP=CwEAAAGS7kczL6eAMWXmILDuuQ70oIb7mt7YgWfzP684jqD1BsK7JwywzAvOfS6MUU2J0mlVFlSEtSG6Ew9gU6FPtsuSbaAuJFn05ZVnUXqNPZsMtyJCym4CEo0PG_ioHYrfb21xfkmvJYGHkSGsref6rc--S4qXLv312BemJmpVAiTMwL1_Yt7Ejz4NmctKHtQ9wZYYevXq-Ds4rhYfYlgQTKcw0O8f7URcE7om52lSnyJtqV_CJTXKeFuoK567pdKDiWboNGMsbxx0jZfmVCbVTLJPXgdHDeOWa_CMn2QVuQhIiN7U8kknxLZGrKk422fW9ig8OnEWqmQ-8AUIQQdUsh0LNDdBXBsOOREeCFxzpA7p4X-LnQXSuMxBKAmp-mOpOfZX9wO_zoSLkcyyzAgQhE06fehHnaLiygOVuTNG0evOlZ5cotbJ51soe6Ynm5bUkETH82zLRY46Zs71_9V6LWx1e9NLH1UpJj-q0Oeptq2sv3YcDOomlYtbm7X2JUX5I3qfPpbBkUbNXxmgOeM1&refId=SNSWGwhfiKuFeT%2FIiRLkZw%3D%3D&trackingId=qTM7ZHnTMQrLWgIx29228w%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Testes (QA) - Júnior
+Sobre a vaga
+O(A) Analista de Testes (QA) irá trabalhar com a criação, execução e automação de testes de software para aplicações móveis (Android e iOS).ResponsabilidadesEscrita de casos de testes (Test Cases);Execução de testes manuais (Manual Testing);Criação de testes automatizados (Automated Tests);Atividades de teste (revisões, relatórios, planejamentos, etc.).Requisitos/ConhecimentosPráticas de teste de software;Linguagens usadas em scripts de teste (C#, JavaScript, Java, Python, Ruby, etc.);Ferramentas de automação de testes (Appium, Selenium, etc.);Metodologias ágeis (Scrum, Kanban);Inglês intermediário.DesejávelProgramação C#;Behavior-Driven Development (BDD) com SpecFlow.EducaçãoFormação concluída ou cursando o ensino superior;Cursos de tecnologia: Sistemas de Informação, Ciência da Computação, Engenharia de Computação, Engenharia Elétrica e etc.TrabalhoPresencial;Turno integral, de segunda à sexta-feira;Será fornecido equipamento.Contrato/BenefíciosContratação CLT;Ajuda de custo;Vale alimentação.
+O(A) Analista de Testes (QA) irá trabalhar com a criação, execução e automação de testes de software para aplicações móveis (Android e iOS).
+O(A) Analista de Testes (QA) irá trabalhar com a criação, execução e automação de testes de software para aplicações móveis (Android e iOS).
+
+
+
+Responsabilidades
+Responsabilidades
+Responsabilidades
+Escrita de casos de testes (Test Cases);Execução de testes manuais (Manual Testing);Criação de testes automatizados (Automated Tests);Atividades de teste (revisões, relatórios, planejamentos, etc.).
+Escrita de casos de testes (Test Cases);
+Escrita de casos de testes (Test Cases);
+Execução de testes manuais (Manual Testing);
+Execução de testes manuais (Manual Testing);
+Criação de testes automatizados (Automated Tests);
+Criação de testes automatizados (Automated Tests);
+Atividades de teste (revisões, relatórios, planejamentos, etc.).
+Atividades de teste (revisões, relatórios, planejamentos, etc.).
+
+
+
+Requisitos/Conhecimentos
+Requisitos/Conhecimentos
+Requisitos/Conhecimentos
+Práticas de teste de software;Linguagens usadas em scripts de teste (C#, JavaScript, Java, Python, Ruby, etc.);Ferramentas de automação de testes (Appium, Selenium, etc.);Metodologias ágeis (Scrum, Kanban);Inglês intermediário.
+Práticas de teste de software;
+Práticas de teste de software;
+Linguagens usadas em scripts de teste (C#, JavaScript, Java, Python, Ruby, etc.);
+Linguagens usadas em scripts de teste (C#, JavaScript, Java, Python, Ruby, etc.);
+Ferramentas de automação de testes (Appium, Selenium, etc.);
+Ferramentas de automação de testes (Appium, Selenium, etc.);
+Metodologias ágeis (Scrum, Kanban);
+Metodologias ágeis (Scrum, Kanban);
+Inglês intermediário.
+Inglês intermediário.
+
+
+
+Desejável
+Desejável
+Desejável
+Programação C#;Behavior-Driven Development (BDD) com SpecFlow.
+Programação C#;
+Programação C#;
+Behavior-Driven Development (BDD) com SpecFlow.
+Behavior-Driven Development (BDD) com SpecFlow.
+
+
+
+Educação
+Educação
+Educação
+Formação concluída ou cursando o ensino superior;Cursos de tecnologia: Sistemas de Informação, Ciência da Computação, Engenharia de Computação, Engenharia Elétrica e etc.
+Formação concluída ou cursando o ensino superior;
+Formação concluída ou cursando o ensino superior;
+Cursos de tecnologia: Sistemas de Informação, Ciência da Computação, Engenharia de Computação, Engenharia Elétrica e etc.
+Cursos de tecnologia: Sistemas de Informação, Ciência da Computação, Engenharia de Computação, Engenharia Elétrica e etc.
+
+
+
+Trabalho
+Trabalho
+Trabalho
+Presencial;Turno integral, de segunda à sexta-feira;Será fornecido equipamento.
+Presencial;
+Presencial;
+Turno integral, de segunda à sexta-feira;
+Turno integral, de segunda à sexta-feira;
+Será fornecido equipamento.
+Será fornecido equipamento.
+
+
+
+Contrato/Benefícios
+Contrato/Benefícios
+Contrato/Benefícios
+Contratação CLT;Ajuda de custo;Vale alimentação.
+Contratação CLT;
+Contratação CLT;
+Ajuda de custo;
+Ajuda de custo;
+Vale alimentação.
+Vale alimentação.

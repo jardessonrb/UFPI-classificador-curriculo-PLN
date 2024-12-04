@@ -1,0 +1,49 @@
+link-https://www.linkedin.com/jobs/view/4051268919/?eBP=CwEAAAGS7keaYYEEGlcQXOhcC3625lJWPrvResjxSTtAvDk6gkiWTAAUj1Ltocmjf2jOuBRo9OxTIoaDlzetA1nQswPqdk0RmRMSIbEQdHoe4g8lmIpMbuXI9IkS1c-wkvI0jkoNrMAm9MDBSgTkbp-ZjR3F74LEJY9aJp8dZ_bc5XidAu3rNKDeK6Fp9qXQYp4ydOKSfZWylZFRv8_InpPGeq1Xae-aZLPN7nManDZkTy02pCScBTAauPONHQ8KmUG0Qcdz6LMDQ5Nfx3R5lEhSxvc3qm_S4MSNmxubPDZeV_nmqnhUOtsqgP6c-9-7NaOsyNmgeB2m44oz1BxBpGTZZaBD09H6rB38BFfkkPUDeqkaDtGWjyrbfWap7NOXyCxO2eED5aHp0FJMiBqXahbWapZaf7dHHpAT_uPjMOAB_tbUQaCkAQ9Pe6d1j9ZybAG2tgr4afBVAICJkUqucMwmF6ygLO56BQ1LPXSYfPtT6SLxLgos88qhIGKp8HY&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=ANOXHcni7T%2BA1JUntrEC%2Bw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de testes/QA Sênior
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Desenvolvimento de planos de testes funcionais e automatizados;Garantir a qualidade da entregas.Criação e execução de Planos de Testes com foco em BDD;Experiência na escrita de Gherkin;Conhecimento em pelo menos uma das seguintes linguagens de programação: C#, Java, Python, Ruby ou Javascript.Vontade para aprender outras linguagens para automação de testes; Frameworks e bibliotecas: Cucumber, Selenium, Appium;Conhecimento em automação de testes Web e API (REST);Conhecimento de client para chamadas SOAP/REST (SOAPUI ou Postman); Experiência em automação de testes cross-browser para web;Preparar dados de teste de acordo com a necessidade do produto;Garantir a utilização de técnicas e práticas de testes de mercado (Partição de equivalência, Tabela de decisão, Histórias de Usuário);Habilidades ObrigatóriasTestes automatizadosTestes FuncionaisHabilidades DesejáveisJenkinsAzureA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testes automatizadosTestes Funcionais
+Testes automatizados
+Testes automatizados
+Testes Funcionais
+Testes Funcionais
+
+
+
+
+JenkinsAzure
+Jenkins
+Jenkins
+
+Azure
+Azure
+
+
+
+

@@ -1,0 +1,210 @@
+link-https://www.linkedin.com/jobs/view/4041916112/?eBP=CwEAAAGS7kZibDUN9esU0cmK4-mcarRf-L9RYDkH80SdfD9K12bx3TreN9d30o2T8uDAdojgkdm6MHxP9NgEe5yzNrihax30SWelisrVvQt8zq4ZBCCoMVO1V_Hq9HQGJbcjJaB-iFNUsA1KaB-mQA89d7I8LlwzfFZSII_IMpprf4Lg6uXHrAiEciTTTqXvjihxrdjvwsUHkXavbOeX7ZfZUa91MguvK4yWcluo5R2E7ExQhP6w7-QCK_jaG0AKgfLsbO8YlKXSWS_on9YQKc7JoEybH3FxBro5eE9CUq_tN7R9z4Ju_iGGuYcfesSh0fCHQl4engnS4l8EuZKjoJZG5Nix_dy1cuJyDOa0YFS3OSuDeRBfAybx-yVUudeSJJTI82kP8Uug8eh77po3ESsPa2YKtbkk2cRrnIR8TrZsORL-5tNX0dzCqk4GedG76WY0v-UM8apud5b5R33lF7HqXD-8GlgekshMDkNJTcmE6UfA3_MTpaG8DhdXQ8oRY7dQriEiu4tPmrPc&refId=mxIoa6bb1wtPLR0m6yHB%2BQ%3D%3D&trackingId=TLquJnlaRGrbXgR2VSh%2F3Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance
+Sobre a vaga
+Job description:Job Duties and QualificationsUnder general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules. May require instruction and guidance during certain phases of application systems analysis. Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability or operations. Consequences of error are easily measured and can be confined.Responsibilities:Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.Create, extend and maintain test automation libraries and frameworks developed in Python.Incorporate test automation into CI/CD.Creation of Test Cases with clear test objectives using Action Based Tests.Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.Identify, document, and reproduce defects in software and systems.Works closely with Business Analysts/End-Users to understand the Application and how it is used.Deployment of applications and issue investigation and trouble shooting.Coordinate test activities to support patches.Knowledge, Skills, and Abilities:Desirable to have completed undergraduate degree in STEM.Desirable at least 5 Years of Software Quality Assurance Automation Engineer.Development of UI, API, Integration and Testing in Python or other OO Language.Incorporate test automation into CI/CD.Desirable past experience working in Azure DevOps.Desirable to be fluent in English.Domain Quality AssuranceWe are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.Job Duties and QualificationsPerform functional test for web based application;Understand and work in Agile environment;Excellent in verbal and written communication in English;Proactive in picking up QA tasks;Can quickly understand business requirements and associated impact of the requirements in the application;Must Have:Bachelor’s degree in Engineering or related field;Proven professional experience as functional tester;Must have Knowledge and experience in O&G industry;Knowledge and experience using test studio in Azure DevOps;Able to document test plan and test scenario;Experience using Azure devOps;Able to lead the testing for the system and able to understand the system requirements;Good to have:Able to write automated testing using Selenium;Profile description:Job Duties and QualificationsUnder general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules.Responsibilities:Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.Create, extend and maintain test automation libraries and frameworks developed in Python.Incorporate test automation into CI/CD.Creation of Test Cases with clear test objectives using Action Based Tests.Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.Identify, document, and reproduce defects in software and systems.Works closely with Business Analysts/End-Users to understand the Application and how it is used.Deployment of applications and issue investigation and trouble shooting.Coordinate test activities to support patches.Knowledge, Skills, and Abilities:Desirable to have completed undergraduate degree in STEM.Desirable at least 5 Years of Software Quality Assurance Automation Engineer.Development of UI, API, Integration and Testing in Python or other OO Language.Incorporate test automation into CI/CD.Desirable past experience working in Azure DevOps.Desirable to be fluent in English.Domain Quality AssuranceWe are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.Job Duties and QualificationsPerform functional test for web based application;Understand and work in Agile environment;Excellent in verbal and written communication in English;Proactive in picking up QA tasks;Can quickly understand business requirements and associated impact of the requirements in the application;Must Have:Bachelor’s degree in Engineering or related field;Proven professional experience as functional tester;Must have Knowledge and experience in O&G industry;Knowledge and experience using test studio in Azure DevOps;Able to document test plan and test scenario;Experience using Azure devOps;Able to lead the testing for the system and able to understand the system requirements;Good to have:Able to write automated testing using Selenium;We offer:We invest in our employees through competitive compensation plans, health benefits, work-life programs, and reward and incentive plans. We have the right people to develop the right technologies and bring innovative solutions to the industry – and we value those people as an unmatched competitive advantage.
+
+Job Duties and Qualifications
+
+Under general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules. May require instruction and guidance during certain phases of application systems analysis. Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability or operations. Consequences of error are easily measured and can be confined.
+Under general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules. May require instruction and guidance during certain phases of application systems analysis. Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability or operations. Consequences of error are easily measured and can be confined.
+
+Responsibilities:
+Responsibilities:
+Responsibilities:
+
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.Create, extend and maintain test automation libraries and frameworks developed in Python.Incorporate test automation into CI/CD.Creation of Test Cases with clear test objectives using Action Based Tests.Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.Identify, document, and reproduce defects in software and systems.Works closely with Business Analysts/End-Users to understand the Application and how it is used.Deployment of applications and issue investigation and trouble shooting.Coordinate test activities to support patches.
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+erform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+Create, extend and maintain test automation libraries and frameworks developed in Python.
+Create, extend and maintain test automation libraries and frameworks developed in Python.
+Incorporate test automation into CI/CD.
+Incorporate test automation into CI/CD.
+Creation of Test Cases with clear test objectives using Action Based Tests.
+Creation of Test Cases with clear test objectives using Action Based Tests.
+Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).
+Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).
+Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.
+Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.
+Identify, document, and reproduce defects in software and systems.
+Identify, document, and reproduce defects in software and systems.
+Works closely with Business Analysts/End-Users to understand the Application and how it is used.
+Works closely with Business Analysts/End-Users to understand the Application and how it is used.
+Deployment of applications and issue investigation and trouble shooting.
+Deployment of applications and issue investigation and trouble shooting.
+Coordinate test activities to support patches.
+Coordinate test activities to support patches.
+
+Knowledge, Skills, and Abilities:
+Knowledge, Skills, and Abilities:
+Knowledge, Skills, and Abilities:
+
+Desirable to have completed undergraduate degree in STEM.Desirable at least 5 Years of Software Quality Assurance Automation Engineer.Development of UI, API, Integration and Testing in Python or other OO Language.Incorporate test automation into CI/CD.Desirable past experience working in Azure DevOps.Desirable to be fluent in English.
+Desirable to have completed undergraduate degree in STEM.
+Desirable to have completed undergraduate degree in STEM.
+Desirable at least 5 Years of Software Quality Assurance Automation Engineer.
+Desirable at least 5 Years of Software Quality Assurance Automation Engineer.
+Development of UI, API, Integration and Testing in Python or other OO Language.
+Development of UI, API, Integration and Testing in Python or other OO Language.
+Incorporate test automation into CI/CD.
+Incorporate test automation into CI/CD.
+Desirable past experience working in Azure DevOps.
+Desirable past experience working in Azure DevOps.
+Desirable to be fluent in English.
+Desirable to be fluent in English.
+
+Domain Quality Assurance
+
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties and Qualifications
+Job Duties and Qualifications
+Job Duties and Qualifications
+
+Perform functional test for web based application;Understand and work in Agile environment;Excellent in verbal and written communication in English;Proactive in picking up QA tasks;Can quickly understand business requirements and associated impact of the requirements in the application;
+Perform functional test for web based application;
+Perform functional test for web based application;
+Understand and work in Agile environment;
+Understand and work in Agile environment;
+Excellent in verbal and written communication in English;
+Excellent in verbal and written communication in English;
+Proactive in picking up QA tasks;
+Proactive in picking up QA tasks;
+Can quickly understand business requirements and associated impact of the requirements in the application;
+Can quickly understand business requirements and associated impact of the requirements in the application;
+
+Must Have:
+Must Have:
+Must Have:
+
+Bachelor’s degree in Engineering or related field;Proven professional experience as functional tester;Must have Knowledge and experience in O&G industry;Knowledge and experience using test studio in Azure DevOps;Able to document test plan and test scenario;Experience using Azure devOps;Able to lead the testing for the system and able to understand the system requirements;
+Bachelor’s degree in Engineering or related field;
+Bachelor’s degree in Engineering or related field;
+Proven professional experience as functional tester;
+Proven professional experience as functional tester;
+Must have Knowledge and experience in O&G industry;
+Must have Knowledge and experience in O&G industry;
+ust have Knowledge and experience in O&G industry;
+Knowledge and experience using test studio in Azure DevOps;
+Knowledge and experience using test studio in Azure DevOps;
+Able to document test plan and test scenario;
+Able to document test plan and test scenario;
+Experience using Azure devOps;
+Experience using Azure devOps;
+Able to lead the testing for the system and able to understand the system requirements;
+Able to lead the testing for the system and able to understand the system requirements;
+
+Good to have:
+Good to have:
+Good to have:
+
+Able to write automated testing using Selenium;
+Able to write automated testing using Selenium;
+Able to write automated testing using Selenium;
+
+
+Job Duties and Qualifications
+
+Under general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules.
+Under general supervision, leveraging competencies in the technical software testing and development processes, this position will execute and evaluate software tests and learn the automated test tools. Helpul in choosing and implementing technologies in designing, coding, testing, usability, trouble-shooting and documenting engineering systems applications. Develop test strategies used in the automated regression testing of these systems. Usually works on projects of moderate scope and complexity. Assists in the development of assignments and schedules.
+
+
+Responsibilities:
+Responsibilities:
+Responsibilities:
+
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.Create, extend and maintain test automation libraries and frameworks developed in Python.Incorporate test automation into CI/CD.Creation of Test Cases with clear test objectives using Action Based Tests.Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.Identify, document, and reproduce defects in software and systems.Works closely with Business Analysts/End-Users to understand the Application and how it is used.Deployment of applications and issue investigation and trouble shooting.Coordinate test activities to support patches.
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+Perform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+erform unit testing, integration testing, functional testing, regression testing, and exploratory testing.
+Create, extend and maintain test automation libraries and frameworks developed in Python.
+Create, extend and maintain test automation libraries and frameworks developed in Python.
+Incorporate test automation into CI/CD.
+Incorporate test automation into CI/CD.
+Creation of Test Cases with clear test objectives using Action Based Tests.
+Creation of Test Cases with clear test objectives using Action Based Tests.
+Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).
+Follow and contribute to Agile/SCRUM activities (e.g. daily stand-ups, retrospectives, iteration planning, estimating/reporting, acceptance criteria definition, etc.).
+Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.
+Works closely with stakeholders such as Product owners, SME, Development team ,Scrum master to understand and effectively drive Software Quality.
+Identify, document, and reproduce defects in software and systems.
+Identify, document, and reproduce defects in software and systems.
+Works closely with Business Analysts/End-Users to understand the Application and how it is used.
+Works closely with Business Analysts/End-Users to understand the Application and how it is used.
+Deployment of applications and issue investigation and trouble shooting.
+Deployment of applications and issue investigation and trouble shooting.
+Coordinate test activities to support patches.
+Coordinate test activities to support patches.
+
+Knowledge, Skills, and Abilities:
+Knowledge, Skills, and Abilities:
+Knowledge, Skills, and Abilities:
+
+Desirable to have completed undergraduate degree in STEM.Desirable at least 5 Years of Software Quality Assurance Automation Engineer.Development of UI, API, Integration and Testing in Python or other OO Language.Incorporate test automation into CI/CD.Desirable past experience working in Azure DevOps.Desirable to be fluent in English.
+Desirable to have completed undergraduate degree in STEM.
+Desirable to have completed undergraduate degree in STEM.
+Desirable at least 5 Years of Software Quality Assurance Automation Engineer.
+Desirable at least 5 Years of Software Quality Assurance Automation Engineer.
+Development of UI, API, Integration and Testing in Python or other OO Language.
+Development of UI, API, Integration and Testing in Python or other OO Language.
+Incorporate test automation into CI/CD.
+Incorporate test automation into CI/CD.
+Desirable past experience working in Azure DevOps.
+Desirable past experience working in Azure DevOps.
+Desirable to be fluent in English.
+Desirable to be fluent in English.
+
+Domain Quality Assurance
+
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties and Qualifications
+Job Duties and Qualifications
+Job Duties and Qualifications
+
+Perform functional test for web based application;Understand and work in Agile environment;Excellent in verbal and written communication in English;Proactive in picking up QA tasks;Can quickly understand business requirements and associated impact of the requirements in the application;
+Perform functional test for web based application;
+Perform functional test for web based application;
+Understand and work in Agile environment;
+Understand and work in Agile environment;
+Excellent in verbal and written communication in English;
+Excellent in verbal and written communication in English;
+Proactive in picking up QA tasks;
+Proactive in picking up QA tasks;
+Can quickly understand business requirements and associated impact of the requirements in the application;
+Can quickly understand business requirements and associated impact of the requirements in the application;
+
+Must Have:
+Must Have:
+Must Have:
+
+Bachelor’s degree in Engineering or related field;Proven professional experience as functional tester;Must have Knowledge and experience in O&G industry;Knowledge and experience using test studio in Azure DevOps;Able to document test plan and test scenario;Experience using Azure devOps;Able to lead the testing for the system and able to understand the system requirements;
+Bachelor’s degree in Engineering or related field;
+Bachelor’s degree in Engineering or related field;
+Proven professional experience as functional tester;
+Proven professional experience as functional tester;
+Must have Knowledge and experience in O&G industry;
+Must have Knowledge and experience in O&G industry;
+ust have Knowledge and experience in O&G industry;
+Knowledge and experience using test studio in Azure DevOps;
+Knowledge and experience using test studio in Azure DevOps;
+Able to document test plan and test scenario;
+Able to document test plan and test scenario;
+Experience using Azure devOps;
+Experience using Azure devOps;
+Able to lead the testing for the system and able to understand the system requirements;
+Able to lead the testing for the system and able to understand the system requirements;
+
+Good to have:
+Good to have:
+Good to have:
+
+Able to write automated testing using Selenium;
+Able to write automated testing using Selenium;
+Able to write automated testing using Selenium;
+
+We invest in our employees through competitive compensation plans, health benefits, work-life programs, and reward and incentive plans. We have the right people to develop the right technologies and bring innovative solutions to the industry – and we value those people as an unmatched competitive advantage.
+We invest in our employees through competitive compensation plans, health benefits, work-life programs, and reward and incentive plans. We have the right people to develop the right technologies and bring innovative solutions to the industry – and we value those people as an unmatched competitive advantage.

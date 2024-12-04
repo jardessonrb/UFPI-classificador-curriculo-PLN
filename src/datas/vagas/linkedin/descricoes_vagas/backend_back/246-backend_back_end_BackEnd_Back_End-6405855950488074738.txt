@@ -1,0 +1,112 @@
+link-https://www.linkedin.com/jobs/view/4054993263/?eBP=CwEAAAGS7lGQwfQiCoLqZUahfytg0W4810AG_5gMVS8Yl95KZfhPfwTtultZmIsoT_BmQdgd4X0FWoxhm46NSqEMTEQIIH20UAvENviy0APWySfpT1JY719pxh8P7INncl2Gc2ZV2yXw-EJJ4R8uerc9QfTOhIQv-WEWEUwi9avJ4OsTaq7WqF8XuKxnklc1HvkFlo5b6cgdNDmjVo1ZqunJl2peekNEBv0DqMSZ6sVQS0ZtKbeU2hQyMPeWyfPvqA1wX_WAnn2jlK3uS4aGw1IEm2wNgha7SlaQnR_sqdcOsit3169wG-K-19h_fua2gLvNvSznHEbeDUKjkbfJPC4ByCV_ba6BqAb1kPzCxIvDevJ00dlCH2OILQ4Cmkeks3aDY3rpQj66CgpRln3nGOnTgxA_9gISfeA1XCp7U2549-OcdH2C4z0fqf-tZzNcD9zRBr04qcSXHD__2L1Xa9np1kuH8l-aUo8K_l89n1_hV05WjhT9EkSIk-BmcQ6rfrHT&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=6wdSvBD8L5XlidZT7Cxd4A%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Programadora Back-End (Telecomunição & Desenvolvimento)
+Sobre a vaga
+APESSSOA PROGRAMADORA BACK-END PLENOno Grupo Brisanet fará o desenvolvimento de aplicações, fornecendo expertise em todo o ciclo de vida de desenvolvimento de softwares, desde o conceito e projeto até a fase de testes em um ambiente que valoriza as boas práticas de programação e um método de trabalho realmente ágil.Você fará parte de uma equipe multidisciplinar, colaborando com as áreas de designer, produto, desenvolvimento front end, mobile e negócios. Se você também possui senso de trabalho em equipe e é apaixonado pelo que faz,a Brisanet é o seu lugar!Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡Responsabilidades e atribuiçõesComo será o seu dia a dia?Analisar dados, processos e códigos para solucionar problemas e identificar áreas de melhoria;Colaborar com os demais desenvolvedores e outros membros da equipe para estabelecer objetivos;Projetar códigos mais funcionais e coesos para aprimorar a experiência do usuário;Participar do desenvolvimento, implantação e manutenção de sistemas informatizados adequando-os às necessidades das áreas;Assessorar e dar suporte aos usuários quanto aos sistemas existentes apoiando o treinamento adequado ao pessoal interno;Executa outras tarefas relacionadas com o cargo, a critério do superior.Requisitos e qualificaçõesO que buscamos nesse perfil?Programação e desenvolvimento de aplicativos;Segurança de aplicações web;Banco de dados SQL;WebServices SOAP (Consumo);WebServices Rest (Criação e Consumo);Ferramentas Postman;TDD, testes unitários e automação de testes;Segurança da informação;Banco de dados NOSQL;Docker;Inglês Técnico.Clean CodeExperiência com MicroserviçosFamiliaridade com CI/CDExperiência com metodologias ágeis (Scrum e/ou Kanban)Informações adicionaisNo Grupo Brisanet você vai encontrar:Cultura de trabalho que respeita e valoriza as pessoas;Eventos internos que abordam temas diversos;Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!Plano de Saúde Coparticipativo pela Unimed;Plano Odontológico pela OdontoSystem;Descontos em Instituições de Ensino Superior de até 60%;Seguro de Vida;Descontos de até 50% nos serviços Brisanet de internet, Telefonia Fixa e TV por assinatura (após o período de experiência);Desconto de até 35% no BrisaMusic;Alimentação (Através do aplicativo Flash, Alelo ou Refeitório);WellHub.
+
+PESSSOA PROGRAMADORA BACK-END PLENO
+
+
+
+
+a Brisanet é o seu lugar!
+
+
+Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡
+
+
+Responsabilidades e atribuições
+
+
+Como será o seu dia a dia?
+
+
+Analisar dados, processos e códigos para solucionar problemas e identificar áreas de melhoria;Colaborar com os demais desenvolvedores e outros membros da equipe para estabelecer objetivos;Projetar códigos mais funcionais e coesos para aprimorar a experiência do usuário;Participar do desenvolvimento, implantação e manutenção de sistemas informatizados adequando-os às necessidades das áreas;Assessorar e dar suporte aos usuários quanto aos sistemas existentes apoiando o treinamento adequado ao pessoal interno;Executa outras tarefas relacionadas com o cargo, a critério do superior.
+Analisar dados, processos e códigos para solucionar problemas e identificar áreas de melhoria;
+Analisar dados, processos e códigos para solucionar problemas e identificar áreas de melhoria;
+Colaborar com os demais desenvolvedores e outros membros da equipe para estabelecer objetivos;
+Colaborar com os demais desenvolvedores e outros membros da equipe para estabelecer objetivos;
+Projetar códigos mais funcionais e coesos para aprimorar a experiência do usuário;
+Projetar códigos mais funcionais e coesos para aprimorar a experiência do usuário;
+Participar do desenvolvimento, implantação e manutenção de sistemas informatizados adequando-os às necessidades das áreas;
+Participar do desenvolvimento, implantação e manutenção de sistemas informatizados adequando-os às necessidades das áreas;
+Assessorar e dar suporte aos usuários quanto aos sistemas existentes apoiando o treinamento adequado ao pessoal interno;
+Assessorar e dar suporte aos usuários quanto aos sistemas existentes apoiando o treinamento adequado ao pessoal interno;
+Executa outras tarefas relacionadas com o cargo, a critério do superior.
+Executa outras tarefas relacionadas com o cargo, a critério do superior.
+
+
+
+Requisitos e qualificações
+
+
+O que buscamos nesse perfil?
+
+
+Programação e desenvolvimento de aplicativos;Segurança de aplicações web;Banco de dados SQL;WebServices SOAP (Consumo);WebServices Rest (Criação e Consumo);Ferramentas Postman;TDD, testes unitários e automação de testes;Segurança da informação;Banco de dados NOSQL;Docker;Inglês Técnico.Clean CodeExperiência com MicroserviçosFamiliaridade com CI/CDExperiência com metodologias ágeis (Scrum e/ou Kanban)
+Programação e desenvolvimento de aplicativos;
+Programação e desenvolvimento de aplicativos;
+Segurança de aplicações web;
+Segurança de aplicações web;
+Banco de dados SQL;
+Banco de dados SQL;
+WebServices SOAP (Consumo);
+WebServices SOAP (Consumo);
+WebServices Rest (Criação e Consumo);
+WebServices Rest (Criação e Consumo);
+Ferramentas Postman;
+Ferramentas Postman;
+TDD, testes unitários e automação de testes;
+TDD, testes unitários e automação de testes;
+Segurança da informação;
+Segurança da informação;
+Banco de dados NOSQL;
+Banco de dados NOSQL;
+Docker;
+Docker;
+Inglês Técnico.
+Inglês Técnico.
+Clean Code
+Clean Code
+Experiência com Microserviços
+Experiência com Microserviços
+Familiaridade com CI/CD
+Familiaridade com CI/CD
+Experiência com metodologias ágeis (Scrum e/ou Kanban)
+Experiência com metodologias ágeis (Scrum e/ou Kanban)
+
+
+
+Informações adicionais
+
+
+No Grupo Brisanet você vai encontrar:
+
+
+Cultura de trabalho que respeita e valoriza as pessoas;Eventos internos que abordam temas diversos;Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!Plano de Saúde Coparticipativo pela Unimed;Plano Odontológico pela OdontoSystem;Descontos em Instituições de Ensino Superior de até 60%;Seguro de Vida;Descontos de até 50% nos serviços Brisanet de internet, Telefonia Fixa e TV por assinatura (após o período de experiência);Desconto de até 35% no BrisaMusic;Alimentação (Através do aplicativo Flash, Alelo ou Refeitório);WellHub.
+Cultura de trabalho que respeita e valoriza as pessoas;
+Cultura de trabalho que respeita e valoriza as pessoas;
+Eventos internos que abordam temas diversos;
+Eventos internos que abordam temas diversos;
+Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;
+Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;
+
+Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!
+Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!
+
+Plano de Saúde Coparticipativo pela Unimed;
+Plano de Saúde Coparticipativo pela Unimed;
+Plano Odontológico pela OdontoSystem;
+Plano Odontológico pela OdontoSystem;
+Descontos em Instituições de Ensino Superior de até 60%;
+Descontos em Instituições de Ensino Superior de até 60%;
+Seguro de Vida;
+Seguro de Vida;
+Descontos de até 50% nos serviços Brisanet de internet, Telefonia Fixa e TV por assinatura (após o período de experiência);
+Descontos de até 50% nos serviços Brisanet de internet, Telefonia Fixa e TV por assinatura (após o período de experiência);
+Desconto de até 35% no BrisaMusic;
+Desconto de até 35% no BrisaMusic;
+Alimentação (Através do aplicativo Flash, Alelo ou Refeitório);
+Alimentação (Através do aplicativo Flash, Alelo ou Refeitório);
+WellHub.
+WellHub.

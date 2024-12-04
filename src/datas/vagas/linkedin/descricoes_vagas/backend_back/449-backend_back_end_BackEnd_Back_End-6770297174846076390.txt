@@ -1,0 +1,60 @@
+link-https://www.linkedin.com/jobs/view/4059311038/?eBP=CwEAAAGS7lKMzy1VTuR-W-RONvuq9BMCmIM0VYbyGBCSFJPwwEfYdJh6MsFMTTJNlmudAaa3XZWGgfq3IZfGykVznExKniK01AXxCD1PXgpGQO2011Dp5Jgix2G88MkQHUXcY_4b2AjlK5CnbkH94Rb2OvYVjMz14K95j1fj-CX7iGn6cNZU_LvjBKR27lT6OF_AyoSfH4donjgdFZfB9s4oHTR5HOaxTAlfdtnDmT0UWfRCbQulNYhhTJScyb1Rug-i7UCoxQF5rIwJqD0Iut4jzmvO-75cnsH84ImDUIuR1yIhDFAf_1tSlBdXMxmJDzsggMWMl6DUCays8_cvENbd6V4BxXPtTUMPJYxUw49tnJUm1ZdhLtxiJU4FYXWCw0ApygXtL9ocxze0Fu5hbnStQ8CCs2mKlm8GQrHFSPJJns3alAWg8SN7KP1FpsAMITLQZ93zaDXCPAAcAb7RDc486LXVx1MeKdJLhWXya_AHm3TCM6lIu3AFRaSYUEFH0w&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=3Gg4Kw0%2F6Vke%2BePdBzCzZg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back End PL
+Sobre a vaga
+AMyPharmaé uma plataforma SaaS especializada em e-commerce para farmácias e drogarias que atua no segmento desde 2016.Nossa missão é promover as vendas e o faturamento de pequenas e médias farmácias, trazendo-as para o varejo farma online que já alcança mais de 8% das vendas do setor.Em 2023, a MyPharma passou a integrar o GrupoSC.Com isso, somamos esforços ao objetivo de levar Mais Saúde para Mais Pessoas.Responsabilidades e atribuiçõesAtuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.Requisitos e qualificaçõesExperiência e conhecimento profundo no uso do Nodejs e Typescript;Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);Vivência e atuação em times multidisciplinares de desenvolvimento de software;Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)Experiência com o ecossistema da Azure DevOpsExperiência na implementação de APIs escaláveis e Microserviços;Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;Familiaridade com metodologia ágil.Informações adicionaisBenefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.
+
+MyPharma
+
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+Atuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.
+Atuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;
+Atuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;
+Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;
+Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;
+Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;
+Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;
+Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.
+Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.
+
+
+
+Requisitos e qualificações
+
+
+Experiência e conhecimento profundo no uso do Nodejs e Typescript;Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);Vivência e atuação em times multidisciplinares de desenvolvimento de software;Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)Experiência com o ecossistema da Azure DevOpsExperiência na implementação de APIs escaláveis e Microserviços;Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;Familiaridade com metodologia ágil.
+Experiência e conhecimento profundo no uso do Nodejs e Typescript;
+Experiência e conhecimento profundo no uso do Nodejs e Typescript;
+Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);
+Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);
+Vivência e atuação em times multidisciplinares de desenvolvimento de software;
+Vivência e atuação em times multidisciplinares de desenvolvimento de software;
+Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)
+Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)
+Experiência com o ecossistema da Azure DevOps
+Experiência com o ecossistema da Azure DevOps
+Experiência na implementação de APIs escaláveis e Microserviços;
+Experiência na implementação de APIs escaláveis e Microserviços;
+Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;
+Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;
+Familiaridade com metodologia ágil.
+Familiaridade com metodologia ágil.
+
+
+
+Informações adicionais
+
+
+Benefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.
+Benefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.
+Benefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.

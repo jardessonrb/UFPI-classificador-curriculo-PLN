@@ -1,0 +1,192 @@
+link-https://www.linkedin.com/jobs/view/4055892589/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=TNuc5ljjDvj80zHupc99DQ%3D%3D&trackingId=4K0iKu0Eo8zsV7ju%2BFfylg%3D%3D&trk=flagship3_search_srp_jobs
+
+Full Stack Engineer
+Sobre a vaga
+What You’ll Be Working On:•🛍️ Solutions: Build customer-facing web apps that enhance online experiences.•📦 Back-office Tools: Develop scalable internal systems for streamlined business operations.•💡 New Features & APIs: Collaborate with product and UX teams to design, implement, and launch new solutions.•🔄 Agile Development: Participate in agile teams, ensuring fast and iterative delivery.•📊 Design Systems & Performance: Develop design systems and optimize app performance with modern practices.Who We AreWe’re a forward-thinking e-commerce company developing innovative products for our proprietary platform. Our teams are built on creativity, collaboration, and a drive for sustainable, long-lasting solutions. We prioritize professional growth, giving top talent the space to excel, and fostering a culture that values openness, respect, and teamwork.Your Role as a JavaScript DeveloperWe are seeking a talented JavaScript Developer to join our international team. You will work across the full software development lifecycle—from idea to deployment—producing scalable solutions. You’ll collaborate closely with product owners, architects, and UX engineers to bring new features to life while maintaining high code quality and delivering outstanding customer experiences.In This Role, You Will:•Build Isomorphic Applicationsusing full-stack JavaScript (SSR & SPA).•Collaborate on Feature Designwith product owners, UX engineers, and architects.•Develop and Evolve Design Systemsand deliver high-quality back-office solutions.•Manage Build Pipelinesand ensure smooth CI/CD processes.•Write Technical Documentationto maintain transparency and code quality.•Create Unit Teststo ensure code quality and high test coverage.•Implement and Document APIseffectively and efficiently.What You’ll Bring to the Team•Expert Node.js skillswith proficiency in React, Svelte, or Next.js.•Hands-on Experience with Isomorphic Applications(SSR, SPA).• Familiarity withunit testing frameworks(Jest, Mocha) and Visual TDD tools like Storybook.• Experience withMongoDBand RESTful services.• Proficient withJenkins, Docker, RabbitMQ, Dapper, and Kubernetes.•Bilingualin English and Spanish (professional level).•Comfortable working remotelywith minimal supervision.Bonus Skills• Experience withWeb Components.• Familiarity withperformance metricsand monitoring tools.• Knowledge ofWebpack, and Rollupbundlers.• Active involvement inopen-source projects.Why Work With Us?We are committed to helping you thrive, both personally and professionally. We foster a flexible work environment that supports remote collaboration or on-site work, depending on your preference. In addition to competitive pay, we prioritize continuous development by providing access to learning platforms and opportunities to grow within the company.Perks and Benefits Include:• 🏖️22 days of annual leave•10 public/national holidays• 🏥Health insurance options• 📚Access to online learning platforms• 🗣️On-site English classesin select locationsJoin us and become part of a team that embraces innovation, growth, and a collaborative spirit!
+What You’ll Be Working On:
+What You’ll Be Working On:
+What You’ll Be Working On:
+
+
+
+•🛍️ Solutions: Build customer-facing web apps that enhance online experiences.
+•🛍️ Solutions: Build customer-facing web apps that enhance online experiences.
+
+🛍️ Solutions
+•📦 Back-office Tools: Develop scalable internal systems for streamlined business operations.
+•📦 Back-office Tools: Develop scalable internal systems for streamlined business operations.
+
+📦 Back-office Tools
+•💡 New Features & APIs: Collaborate with product and UX teams to design, implement, and launch new solutions.
+•💡 New Features & APIs: Collaborate with product and UX teams to design, implement, and launch new solutions.
+
+💡 New Features & APIs
+•🔄 Agile Development: Participate in agile teams, ensuring fast and iterative delivery.
+•🔄 Agile Development: Participate in agile teams, ensuring fast and iterative delivery.
+
+🔄 Agile Development
+•📊 Design Systems & Performance: Develop design systems and optimize app performance with modern practices.
+•📊 Design Systems & Performance: Develop design systems and optimize app performance with modern practices.
+
+📊 Design Systems & Performance
+
+
+
+Who We Are
+Who We Are
+Who We Are
+We’re a forward-thinking e-commerce company developing innovative products for our proprietary platform. Our teams are built on creativity, collaboration, and a drive for sustainable, long-lasting solutions. We prioritize professional growth, giving top talent the space to excel, and fostering a culture that values openness, respect, and teamwork.
+We’re a forward-thinking e-commerce company developing innovative products for our proprietary platform. Our teams are built on creativity, collaboration, and a drive for sustainable, long-lasting solutions. We prioritize professional growth, giving top talent the space to excel, and fostering a culture that values openness, respect, and teamwork.
+
+
+
+Your Role as a JavaScript Developer
+Your Role as a JavaScript Developer
+Your Role as a JavaScript Developer
+We are seeking a talented JavaScript Developer to join our international team. You will work across the full software development lifecycle—from idea to deployment—producing scalable solutions. You’ll collaborate closely with product owners, architects, and UX engineers to bring new features to life while maintaining high code quality and delivering outstanding customer experiences.
+We are seeking a talented JavaScript Developer to join our international team. You will work across the full software development lifecycle—from idea to deployment—producing scalable solutions. You’ll collaborate closely with product owners, architects, and UX engineers to bring new features to life while maintaining high code quality and delivering outstanding customer experiences.
+
+
+
+In This Role, You Will:
+In This Role, You Will:
+In This Role, You Will:
+•Build Isomorphic Applicationsusing full-stack JavaScript (SSR & SPA).
+•Build Isomorphic Applicationsusing full-stack JavaScript (SSR & SPA).
+
+Build Isomorphic Applications
+
+•Collaborate on Feature Designwith product owners, UX engineers, and architects.
+•Collaborate on Feature Designwith product owners, UX engineers, and architects.
+
+Collaborate on Feature Design
+
+•Develop and Evolve Design Systemsand deliver high-quality back-office solutions.
+•Develop and Evolve Design Systemsand deliver high-quality back-office solutions.
+
+Develop and Evolve Design Systems
+
+•Manage Build Pipelinesand ensure smooth CI/CD processes.
+•Manage Build Pipelinesand ensure smooth CI/CD processes.
+
+Manage Build Pipelines
+
+•Write Technical Documentationto maintain transparency and code quality.
+•Write Technical Documentationto maintain transparency and code quality.
+
+Write Technical Documentation
+
+•Create Unit Teststo ensure code quality and high test coverage.
+•Create Unit Teststo ensure code quality and high test coverage.
+
+Create Unit Tests
+
+•Implement and Document APIseffectively and efficiently.
+•Implement and Document APIseffectively and efficiently.
+
+Implement and Document APIs
+
+
+
+
+What You’ll Bring to the Team
+What You’ll Bring to the Team
+What You’ll Bring to the Team
+•Expert Node.js skillswith proficiency in React, Svelte, or Next.js.
+•Expert Node.js skillswith proficiency in React, Svelte, or Next.js.
+
+Expert Node.js skills
+
+•Hands-on Experience with Isomorphic Applications(SSR, SPA).
+•Hands-on Experience with Isomorphic Applications(SSR, SPA).
+
+Hands-on Experience with Isomorphic Applications
+
+• Familiarity withunit testing frameworks(Jest, Mocha) and Visual TDD tools like Storybook.
+• Familiarity withunit testing frameworks(Jest, Mocha) and Visual TDD tools like Storybook.
+
+unit testing frameworks
+
+• Experience withMongoDBand RESTful services.
+• Experience withMongoDBand RESTful services.
+
+MongoDB
+
+• Proficient withJenkins, Docker, RabbitMQ, Dapper, and Kubernetes.
+• Proficient withJenkins, Docker, RabbitMQ, Dapper, and Kubernetes.
+
+Jenkins, Docker, RabbitMQ, Dapper, and Kubernetes
+•Bilingualin English and Spanish (professional level).
+•Bilingualin English and Spanish (professional level).
+
+Bilingual
+
+•Comfortable working remotelywith minimal supervision.
+•Comfortable working remotelywith minimal supervision.
+
+Comfortable working remotely
+
+
+
+
+Bonus Skills
+Bonus Skills
+Bonus Skills
+• Experience withWeb Components.
+• Experience withWeb Components.
+
+Web Components
+• Familiarity withperformance metricsand monitoring tools.
+• Familiarity withperformance metricsand monitoring tools.
+
+performance metrics
+
+• Knowledge ofWebpack, and Rollupbundlers.
+• Knowledge ofWebpack, and Rollupbundlers.
+
+Webpack, and Rollup
+
+• Active involvement inopen-source projects.
+• Active involvement inopen-source projects.
+
+open-source projects
+
+
+
+Why Work With Us?
+Why Work With Us?
+Why Work With Us?
+We are committed to helping you thrive, both personally and professionally. We foster a flexible work environment that supports remote collaboration or on-site work, depending on your preference. In addition to competitive pay, we prioritize continuous development by providing access to learning platforms and opportunities to grow within the company.
+We are committed to helping you thrive, both personally and professionally. We foster a flexible work environment that supports remote collaboration or on-site work, depending on your preference. In addition to competitive pay, we prioritize continuous development by providing access to learning platforms and opportunities to grow within the company.
+
+
+
+Perks and Benefits Include:
+Perks and Benefits Include:
+Perks and Benefits Include:
+• 🏖️22 days of annual leave
+• 🏖️22 days of annual leave
+
+22 days of annual leave
+•10 public/national holidays
+•10 public/national holidays
+
+10 public/national holidays
+• 🏥Health insurance options
+• 🏥Health insurance options
+
+Health insurance options
+• 📚Access to online learning platforms
+• 📚Access to online learning platforms
+
+Access to online learning platforms
+• 🗣️On-site English classesin select locations
+• 🗣️On-site English classesin select locations
+
+On-site English classes
+
+
+
+
+Join us and become part of a team that embraces innovation, growth, and a collaborative spirit!
+Join us and become part of a team that embraces innovation, growth, and a collaborative spirit!

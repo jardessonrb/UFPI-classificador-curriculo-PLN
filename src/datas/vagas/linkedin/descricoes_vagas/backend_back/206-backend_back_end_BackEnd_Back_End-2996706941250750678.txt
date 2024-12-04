@@ -1,0 +1,84 @@
+link-https://www.linkedin.com/jobs/view/4020114601/?eBP=CwEAAAGS7lHBTWfWuNFfc1l3KXj4lefvea8WB9iFHamZ_kPOk886mZNtD2ucQd-9ETRWdfOtkM_-0VAMRYYUV3Yy3jMJHT5hvKiNjmHhFrI0AfUPinyVrjcV0c_bnAS5xKUv9VPZQHruGRPBIWkI2_06P9Cq3SbwJ-R8iFboqngq2bWdRthvjByQZ5jVXqGVtdR8SYPHFj7D91QFt4F74x9JW5cho-MINRXUhubaHfCtrBvFUakrz7LyQrmwUQ7meHpOnzp1l0LHILFcajs_u9ZUFT4j_FBfH0y9-otKQ7CVO8T16ZmFcG-uQx5WbI4fejkzKH_3_Hi-2UisQxYbKzhlaDCO15dZFOKQmxSGjztPkQpxarr5rrEEzIsgvuYrIvlr7-erJ-leMnPkfLAeIAwuSfGL2fJiLL0n9-3XX1XQDUxUy5QIE3zvb9blRUVa3mE8SvPWuLJiFTBahAa94qWdkPNgyqVVbUy5CQGz_sgkbtHPiTs-aqkZeaOeSQNPuRubA3yG2nCteg&refId=5gdV5KlKgrkviwqoRiIR9Q%3D%3D&trackingId=vCeDiz5CPUqUwSuA8tsWeA%3D%3D&trk=flagship3_search_srp_jobs
+
+Especialista Backend de Infraestrutura de Cloud - Magalu Cloud
+Sobre a vaga
+Estamos em busca de um profissional experiente para se juntar à nossa equipe como Desenvolvedor Especialista de Infraestrutura de Cloud, contribuindo para o design e implementação de APIs dentro de uma arquitetura distribuída baseada em microsserviços. Se você tem um histórico comprovado em tecnologia e uma sólida experiência em computação em nuvem, esta posição oferece uma oportunidade emocionante para avançar em sua carreira conosco.ResponsabilidadesLiderar iniciativas de desenvolvimento de software aplicando práticas avançadas de codificação e padrões de design, garantindo sustentabilidade, segurança, escalabilidade e eficiência de custos;Conduzir a análise e formulação da arquitetura do projeto, fornecendo insights com base em experiência substancial;Criar documentação abrangente para arquiteturas propostas e orientar a equipe na tradução de regras de negócios para projetos técnicos;Liderar e realizar revisões de código, garantindo a aplicação de artefatos padronizados e de alta qualidade, promovendo ativamente os princípios de arquitetura da Luizalabs dentro da equipe;Oferecer orientação especializada na implementação de testes automatizados e promover uma cultura de excelência em testes;Demonstrar liderança na aplicação e promoção de práticas avançadas de segurança dentro do projeto;Garantir os mais altos padrões em monitoramento e níveis de serviço para aplicações, alavancando sua experiência profissional.RequisitosProficiência em Python e experiência comprovada em:Padrões: Arquitetura de Sistemas, REST API, e Microsserviços;Bancos de dados relacionais e caching distribuído;Testes automatizados, tanto de integração quanto unitários;Implantação (CI/CD), monitoramento, observabilidade, métricas e alertas;Qualidade de software e boas práticas.DiferenciaisConhecimento aprofundado em metodologias ágeis;Ampla experiência com Kafka ou RabbitMQ;Proficiência em Kubernetes e contêineres;Histórico comprovado no desenvolvimento de APIs que atendem a uma grande base de usuários e sistemas de alto rendimento;Conhecimento em OpenStack ou LXD;Experiência significativa em arquitetura com foco em resiliência, escalabilidade e elasticidade.Se você é um profissional experiente em busca de elevar sua carreira e contribuir para projetos desafiadores, encorajamos você a se candidatar e ser um membro-chave em nossa equipe dinâmica.Como é o ambiente de trabalho?Na Magalu Cloud, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.Gostou? Candidate-se a nossa vaga! 🙂
+Estamos em busca de um profissional experiente para se juntar à nossa equipe como Desenvolvedor Especialista de Infraestrutura de Cloud, contribuindo para o design e implementação de APIs dentro de uma arquitetura distribuída baseada em microsserviços. Se você tem um histórico comprovado em tecnologia e uma sólida experiência em computação em nuvem, esta posição oferece uma oportunidade emocionante para avançar em sua carreira conosco.
+Estamos em busca de um profissional experiente para se juntar à nossa equipe como Desenvolvedor Especialista de Infraestrutura de Cloud, contribuindo para o design e implementação de APIs dentro de uma arquitetura distribuída baseada em microsserviços. Se você tem um histórico comprovado em tecnologia e uma sólida experiência em computação em nuvem, esta posição oferece uma oportunidade emocionante para avançar em sua carreira conosco.
+
+
+
+Responsabilidades
+Responsabilidades
+Responsabilidades
+Liderar iniciativas de desenvolvimento de software aplicando práticas avançadas de codificação e padrões de design, garantindo sustentabilidade, segurança, escalabilidade e eficiência de custos;Conduzir a análise e formulação da arquitetura do projeto, fornecendo insights com base em experiência substancial;Criar documentação abrangente para arquiteturas propostas e orientar a equipe na tradução de regras de negócios para projetos técnicos;Liderar e realizar revisões de código, garantindo a aplicação de artefatos padronizados e de alta qualidade, promovendo ativamente os princípios de arquitetura da Luizalabs dentro da equipe;Oferecer orientação especializada na implementação de testes automatizados e promover uma cultura de excelência em testes;Demonstrar liderança na aplicação e promoção de práticas avançadas de segurança dentro do projeto;Garantir os mais altos padrões em monitoramento e níveis de serviço para aplicações, alavancando sua experiência profissional.
+Liderar iniciativas de desenvolvimento de software aplicando práticas avançadas de codificação e padrões de design, garantindo sustentabilidade, segurança, escalabilidade e eficiência de custos;
+Liderar iniciativas de desenvolvimento de software aplicando práticas avançadas de codificação e padrões de design, garantindo sustentabilidade, segurança, escalabilidade e eficiência de custos;
+Conduzir a análise e formulação da arquitetura do projeto, fornecendo insights com base em experiência substancial;
+Conduzir a análise e formulação da arquitetura do projeto, fornecendo insights com base em experiência substancial;
+Criar documentação abrangente para arquiteturas propostas e orientar a equipe na tradução de regras de negócios para projetos técnicos;
+Criar documentação abrangente para arquiteturas propostas e orientar a equipe na tradução de regras de negócios para projetos técnicos;
+Liderar e realizar revisões de código, garantindo a aplicação de artefatos padronizados e de alta qualidade, promovendo ativamente os princípios de arquitetura da Luizalabs dentro da equipe;
+Liderar e realizar revisões de código, garantindo a aplicação de artefatos padronizados e de alta qualidade, promovendo ativamente os princípios de arquitetura da Luizalabs dentro da equipe;
+Oferecer orientação especializada na implementação de testes automatizados e promover uma cultura de excelência em testes;
+Oferecer orientação especializada na implementação de testes automatizados e promover uma cultura de excelência em testes;
+Demonstrar liderança na aplicação e promoção de práticas avançadas de segurança dentro do projeto;
+Demonstrar liderança na aplicação e promoção de práticas avançadas de segurança dentro do projeto;
+Garantir os mais altos padrões em monitoramento e níveis de serviço para aplicações, alavancando sua experiência profissional.
+Garantir os mais altos padrões em monitoramento e níveis de serviço para aplicações, alavancando sua experiência profissional.
+
+
+
+Requisitos
+Requisitos
+Requisitos
+Proficiência em Python e experiência comprovada em:
+Proficiência em Python e experiência comprovada em:
+Padrões: Arquitetura de Sistemas, REST API, e Microsserviços;Bancos de dados relacionais e caching distribuído;Testes automatizados, tanto de integração quanto unitários;Implantação (CI/CD), monitoramento, observabilidade, métricas e alertas;Qualidade de software e boas práticas.
+Padrões: Arquitetura de Sistemas, REST API, e Microsserviços;
+Padrões: Arquitetura de Sistemas, REST API, e Microsserviços;
+Bancos de dados relacionais e caching distribuído;
+Bancos de dados relacionais e caching distribuído;
+Testes automatizados, tanto de integração quanto unitários;
+Testes automatizados, tanto de integração quanto unitários;
+Implantação (CI/CD), monitoramento, observabilidade, métricas e alertas;
+Implantação (CI/CD), monitoramento, observabilidade, métricas e alertas;
+Qualidade de software e boas práticas.
+Qualidade de software e boas práticas.
+
+
+
+Diferenciais
+Diferenciais
+Diferenciais
+Conhecimento aprofundado em metodologias ágeis;Ampla experiência com Kafka ou RabbitMQ;Proficiência em Kubernetes e contêineres;Histórico comprovado no desenvolvimento de APIs que atendem a uma grande base de usuários e sistemas de alto rendimento;Conhecimento em OpenStack ou LXD;Experiência significativa em arquitetura com foco em resiliência, escalabilidade e elasticidade.
+Conhecimento aprofundado em metodologias ágeis;
+Conhecimento aprofundado em metodologias ágeis;
+Ampla experiência com Kafka ou RabbitMQ;
+Ampla experiência com Kafka ou RabbitMQ;
+Proficiência em Kubernetes e contêineres;
+Proficiência em Kubernetes e contêineres;
+Histórico comprovado no desenvolvimento de APIs que atendem a uma grande base de usuários e sistemas de alto rendimento;
+Histórico comprovado no desenvolvimento de APIs que atendem a uma grande base de usuários e sistemas de alto rendimento;
+Conhecimento em OpenStack ou LXD;
+Conhecimento em OpenStack ou LXD;
+Experiência significativa em arquitetura com foco em resiliência, escalabilidade e elasticidade.
+Experiência significativa em arquitetura com foco em resiliência, escalabilidade e elasticidade.
+
+
+
+Se você é um profissional experiente em busca de elevar sua carreira e contribuir para projetos desafiadores, encorajamos você a se candidatar e ser um membro-chave em nossa equipe dinâmica.
+Se você é um profissional experiente em busca de elevar sua carreira e contribuir para projetos desafiadores, encorajamos você a se candidatar e ser um membro-chave em nossa equipe dinâmica.
+
+
+
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+Como é o ambiente de trabalho?
+Na Magalu Cloud, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+Na Magalu Cloud, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+
+
+
+Gostou? Candidate-se a nossa vaga! 🙂
+Gostou? Candidate-se a nossa vaga! 🙂

@@ -1,0 +1,36 @@
+link-https://www.linkedin.com/jobs/view/4053644165/?eBP=CwEAAAGS7hHiQ_LnmjMmP7WNfhIvyjx5UJ9KeIBr9bR78CovlrkTdBcV64xJ-L3e98emD7k5lMDPUUMItF0Tfls2pQdM8NujcwtnNWm7tcIsikMcLm1u7RAxr-pdkD8MWa9acG0D9CnuV5qvQUWDe6Gh-9H_Mpkr-dglwQdL56NM2z9bsGLGsr0leU4dRVL-tayROC_-HWotnzeUPnFCu5HBzpp2vlGfme01MSNFb_rc5_B16vxiG_E23TrsMjUQwtarQdL8VkbT3znHQ6UB0J8qvoboxXWNnEGVLsGCGxLu3z-9fSFMPfmRv-k7tJWJd27RpIzzMA3uUYQpo5O-bR3wwtcTDQpvXXPenz9CQ0Op0lqhbQnXoYmu6n7_Q-0idpeOc7sA3OeWzP0bN0WnRX3yW1OQ-qkIOtA4-Hg96FIop7UsTEuFNh-m6_UCohliphEtQEyVLoyaKCXp-FFsuZp_xgeL3SXhDs-GavnYVGnRuIOVJ8OIxtcePTVRC3I&refId=hJTOhUKvLQvI%2F5Jfi7eRJA%3D%3D&trackingId=wq3KwAWlBeNX0tD1%2Bu8jOw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Full Stack
+Sobre a vaga
+Responsável por trabalhar tanto no front-end quanto no back-end de aplicações web. Deverá ter conhecimento profundo em múltiplas tecnologias para criar, implementar e manter sistemas e aplicações completas, que vão desde a interface do usuário até o servidor e banco de dados.Criar interfaces de usuário (UI) atraentes, responsivas e funcionais, utilizando tecnologias como HTML, CSS, JavaScript e frameworks de front-end (React, Angular, Vue.js).Implementar componentes dinâmicos e interativos, garantindo a melhor experiência de usuário (UX) em diversos dispositivos (computadores, tablets, smartphones).Otimizar o desempenho do front-end para garantir carregamento rápido e eficiência.Projetar, desenvolver e manter APIs e serviços web escaláveis, utilizando linguagens como Node.js, Python, Java, Ruby, PHP ou outras de acordo com as necessidades do projeto.Gerenciar e integrar bancos de dados (SQL e NoSQL), garantindo a segurança, integridade e desempenho dos dados armazenados. Implementar autenticações, autorização de usuários e outras funcionalidades essenciais do sistema de back-end.Assegurar uma comunicação eficiente entre o front-end e o back-end, integrando APIs e manipulando dados para apresentar corretamente as informações ao usuário final.Resolver problemas de compatibilidade entre os dois lados e garantir a consistência entre as camadas de aplicação.Escrever testes automatizados para garantir a qualidade do código em todas as camadas da aplicação.Identificar e corrigir bugs e falhas em sistemas existentes, realizando melhorias contínuas para aumentar a performance e a usabilidade.Documentar o código e os processos de desenvolvimento, garantindo que o projeto possa ser mantido e atualizado por outros membros da equipe.
+
+
+Criar interfaces de usuário (UI) atraentes, responsivas e funcionais, utilizando tecnologias como HTML, CSS, JavaScript e frameworks de front-end (React, Angular, Vue.js).Implementar componentes dinâmicos e interativos, garantindo a melhor experiência de usuário (UX) em diversos dispositivos (computadores, tablets, smartphones).Otimizar o desempenho do front-end para garantir carregamento rápido e eficiência.Projetar, desenvolver e manter APIs e serviços web escaláveis, utilizando linguagens como Node.js, Python, Java, Ruby, PHP ou outras de acordo com as necessidades do projeto.Gerenciar e integrar bancos de dados (SQL e NoSQL), garantindo a segurança, integridade e desempenho dos dados armazenados. Implementar autenticações, autorização de usuários e outras funcionalidades essenciais do sistema de back-end.Assegurar uma comunicação eficiente entre o front-end e o back-end, integrando APIs e manipulando dados para apresentar corretamente as informações ao usuário final.Resolver problemas de compatibilidade entre os dois lados e garantir a consistência entre as camadas de aplicação.Escrever testes automatizados para garantir a qualidade do código em todas as camadas da aplicação.Identificar e corrigir bugs e falhas em sistemas existentes, realizando melhorias contínuas para aumentar a performance e a usabilidade.Documentar o código e os processos de desenvolvimento, garantindo que o projeto possa ser mantido e atualizado por outros membros da equipe.
+Criar interfaces de usuário (UI) atraentes, responsivas e funcionais, utilizando tecnologias como HTML, CSS, JavaScript e frameworks de front-end (React, Angular, Vue.js).
+Criar interfaces de usuário (UI) atraentes, responsivas e funcionais, utilizando tecnologias como HTML, CSS, JavaScript e frameworks de front-end (React, Angular, Vue.js).
+
+Implementar componentes dinâmicos e interativos, garantindo a melhor experiência de usuário (UX) em diversos dispositivos (computadores, tablets, smartphones).
+Implementar componentes dinâmicos e interativos, garantindo a melhor experiência de usuário (UX) em diversos dispositivos (computadores, tablets, smartphones).
+
+Otimizar o desempenho do front-end para garantir carregamento rápido e eficiência.
+Otimizar o desempenho do front-end para garantir carregamento rápido e eficiência.
+
+Projetar, desenvolver e manter APIs e serviços web escaláveis, utilizando linguagens como Node.js, Python, Java, Ruby, PHP ou outras de acordo com as necessidades do projeto.
+Projetar, desenvolver e manter APIs e serviços web escaláveis, utilizando linguagens como Node.js, Python, Java, Ruby, PHP ou outras de acordo com as necessidades do projeto.
+
+Gerenciar e integrar bancos de dados (SQL e NoSQL), garantindo a segurança, integridade e desempenho dos dados armazenados. Implementar autenticações, autorização de usuários e outras funcionalidades essenciais do sistema de back-end.
+Gerenciar e integrar bancos de dados (SQL e NoSQL), garantindo a segurança, integridade e desempenho dos dados armazenados. Implementar autenticações, autorização de usuários e outras funcionalidades essenciais do sistema de back-end.
+
+Assegurar uma comunicação eficiente entre o front-end e o back-end, integrando APIs e manipulando dados para apresentar corretamente as informações ao usuário final.
+Assegurar uma comunicação eficiente entre o front-end e o back-end, integrando APIs e manipulando dados para apresentar corretamente as informações ao usuário final.
+
+Resolver problemas de compatibilidade entre os dois lados e garantir a consistência entre as camadas de aplicação.
+Resolver problemas de compatibilidade entre os dois lados e garantir a consistência entre as camadas de aplicação.
+
+Escrever testes automatizados para garantir a qualidade do código em todas as camadas da aplicação.
+Escrever testes automatizados para garantir a qualidade do código em todas as camadas da aplicação.
+
+Identificar e corrigir bugs e falhas em sistemas existentes, realizando melhorias contínuas para aumentar a performance e a usabilidade.
+Identificar e corrigir bugs e falhas em sistemas existentes, realizando melhorias contínuas para aumentar a performance e a usabilidade.
+Documentar o código e os processos de desenvolvimento, garantindo que o projeto possa ser mantido e atualizado por outros membros da equipe.
+Documentar o código e os processos de desenvolvimento, garantindo que o projeto possa ser mantido e atualizado por outros membros da equipe.

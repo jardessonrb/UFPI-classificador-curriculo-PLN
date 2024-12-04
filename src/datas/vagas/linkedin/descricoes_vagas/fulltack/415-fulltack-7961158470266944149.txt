@@ -1,0 +1,190 @@
+link-https://www.linkedin.com/jobs/view/4055144318/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=x61JzgfqCCE%2B9lu%2FEOkZcQ%3D%3D&trackingId=TeoTq6vi5o3zOHKTq38ZKA%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr FullStack Engineer
+Sobre a vaga
+About AndelaAndela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers.At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you.After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to a multitude of exclusive technologist roles.Join Andela today to access this opportunity and more in our global marketplace!Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly!This is a fully remote opportunity for one of our esteemed clients.About the roleWe are looking for a dynamic and skilled Full Stack Developer to join our team. As a Full Stack Developer, you will play a pivotal role in developing, maintaining, and improving our software solutions. You will be responsible for both server-side and client-side development, ensuring seamless user experiences and robust, scalable systems.Key Responsibilities:●Collaborate with cross-functional teams to design, develop, and maintain web and mobile applications.●Develop and maintain server-side components using Python and Azure services.●Utilize Firebase to create and manage databases, implement user authentication, and enable real-time data synchronization.●Write clean, maintainable code in TypeScript to ensure the quality and stability of the software.●Create user-friendly and responsive front-end applications using Next, React and Material UI.●Optimize applications for maximum performance, scalability, and security.●Integrate third-party APIs and services to enhance the functionality of the software.●Continuously seek opportunities for improvement and innovation.●Collaborate with the team to address user pain points and goals effectively.Must haveBachelor's degree in Computer Science, Information Technology, or related field (or equivalent work experience).Proven experience as a Full Stack Developer with expertise in Python, Next and ReactStrong proficiency in TypeScript for both server and client-side development.Experience with Azure (or other cloud providers)Experience with Material-UI or similar UI component librariesClean coding skills (readable, maintainable, efficient)Experienced with DDD (Domain Driven Design) and Code Design PatternsExperienced with CI/CD processes and toolsExperienced with TDD (Test-driven-development), including Unit testingHave worked in projects to refactor existing codeAgile mind-setNice to haveExperience with automated testingExperience with extreme programmingA portfolio of relevant projects and code samplesSpanish for written and verbal communication is a MUSTSoft skillsProactive and Solutions-Driven:Taking initiative and actively seeking solutions to contribute to the team's success.Strong Communicator:Communicating effectively by listening, articulating thoughts clearly, and providing valuable feedback.Sense of Ownership and Accountability:Taking responsibility for tasks and projects and being accountable for their outcomes. Also, a promoting of collective ownership of the code.Empathetic:Demonstrating empathy toward team members and end-users to understand their needs and concerns.Constant Learners with a Growth Mindset:Committed to continuous learning and embracing challenges as opportunities for growth.Inquisitive and Insightful:Asking insightful questions and seeking a comprehensive understanding of problems.User-Centric:Focusing on understanding the needs, challenges, and goals of end-users to tailor solutions and improve user experiences.Team-Player:dedicated and collaborative team player who contributes positively, communicates effectively, and works harmoniously with colleagues to achieve goals.Problem-solver:Strong problem-solving and analytical skills. Skilled at finding solutions, analyzing challenges, and resolving issues efficiently, using critical thinking and creativity.Pair-programming:Demonstrated experience in working in environments of collaboration including pair-programmingTechnical Debt Management:Identifying, prioritizing, and addressing issues in software development that can compromise code quality, hinder future development, and increase maintenance costs.OVERLAP8 hours overlap during core business hours from 8am to 5pm CDMX time (GMT-6)12-month-term contractor position (no medical/paid leave)Full-time dedication (40h/week)
+About Andela
+About Andela
+About Andela
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers.
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world. For technologists, Andela offers competitive long-term career opportunities with leading organizations, access to a global community of professionals, and educational opportunities with leading technology providers.
+
+
+
+At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you.After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to a multitude of exclusive technologist roles.Join Andela today to access this opportunity and more in our global marketplace!
+At Andela, we’re deeply passionate about creating long-lasting and transformative growth opportunities for all - and doing it in an E.P.I.C. way! We’re excited to continue building our remote-first team with incredible people like you.After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to a multitude of exclusive technologist roles.Join Andela today to access this opportunity and more in our global marketplace!
+
+After applying for this role, you will join our Andela Community of brilliant technologists by passing a technical screening and live interview. As a community member, you’ll have access to a multitude of exclusive technologist roles.
+
+Join Andela today to access this opportunity and more in our global marketplace!
+
+
+
+Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly!
+Our roles are typically filled at lightning speed, so if you’re considering applying, get your application in quickly!
+
+
+
+This is a fully remote opportunity for one of our esteemed clients.
+This is a fully remote opportunity for one of our esteemed clients.
+This is a fully remote opportunity for one of our esteemed clients.
+
+
+
+About the role
+About the role
+About the role
+We are looking for a dynamic and skilled Full Stack Developer to join our team. As a Full Stack Developer, you will play a pivotal role in developing, maintaining, and improving our software solutions. You will be responsible for both server-side and client-side development, ensuring seamless user experiences and robust, scalable systems.
+We are looking for a dynamic and skilled Full Stack Developer to join our team. As a Full Stack Developer, you will play a pivotal role in developing, maintaining, and improving our software solutions. You will be responsible for both server-side and client-side development, ensuring seamless user experiences and robust, scalable systems.
+
+
+
+Key Responsibilities:
+Key Responsibilities:
+Key Responsibilities:
+●Collaborate with cross-functional teams to design, develop, and maintain web and mobile applications.
+●Collaborate with cross-functional teams to design, develop, and maintain web and mobile applications.
+●Develop and maintain server-side components using Python and Azure services.
+●Develop and maintain server-side components using Python and Azure services.
+●Utilize Firebase to create and manage databases, implement user authentication, and enable real-time data synchronization.
+●Utilize Firebase to create and manage databases, implement user authentication, and enable real-time data synchronization.
+●Write clean, maintainable code in TypeScript to ensure the quality and stability of the software.
+●Write clean, maintainable code in TypeScript to ensure the quality and stability of the software.
+●Create user-friendly and responsive front-end applications using Next, React and Material UI.
+●Create user-friendly and responsive front-end applications using Next, React and Material UI.
+●Optimize applications for maximum performance, scalability, and security.
+●Optimize applications for maximum performance, scalability, and security.
+●Integrate third-party APIs and services to enhance the functionality of the software.
+●Integrate third-party APIs and services to enhance the functionality of the software.
+●Continuously seek opportunities for improvement and innovation.
+●Continuously seek opportunities for improvement and innovation.
+●Collaborate with the team to address user pain points and goals effectively.
+●Collaborate with the team to address user pain points and goals effectively.
+
+
+
+Must have
+Must have
+Must have
+Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent work experience).
+Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent work experience).
+Proven experience as a Full Stack Developer with expertise in Python, Next and React
+Proven experience as a Full Stack Developer with expertise in Python, Next and React
+Strong proficiency in TypeScript for both server and client-side development.
+Strong proficiency in TypeScript for both server and client-side development.
+Experience with Azure (or other cloud providers)
+Experience with Azure (or other cloud providers)
+Experience with Material-UI or similar UI component libraries
+Experience with Material-UI or similar UI component libraries
+Clean coding skills (readable, maintainable, efficient)
+Clean coding skills (readable, maintainable, efficient)
+Experienced with DDD (Domain Driven Design) and Code Design Patterns
+Experienced with DDD (Domain Driven Design) and Code Design Patterns
+Experienced with CI/CD processes and tools
+Experienced with CI/CD processes and tools
+Experienced with TDD (Test-driven-development), including Unit testing
+Experienced with TDD (Test-driven-development), including Unit testing
+Have worked in projects to refactor existing code
+Have worked in projects to refactor existing code
+Agile mind-set
+Agile mind-set
+
+
+
+Nice to have
+Nice to have
+Nice to have
+Experience with automated testing
+Experience with automated testing
+Experience with extreme programming
+Experience with extreme programming
+A portfolio of relevant projects and code samples
+A portfolio of relevant projects and code samples
+
+
+
+
+
+
+Spanish for written and verbal communication is a MUST
+Spanish for written and verbal communication is a MUST
+Spanish for written and verbal communication is a MUST
+
+
+
+Soft skills
+Soft skills
+Soft skills
+
+
+
+Proactive and Solutions-Driven:Taking initiative and actively seeking solutions to contribute to the team's success.
+Proactive and Solutions-Driven:Taking initiative and actively seeking solutions to contribute to the team's success.
+Proactive and Solutions-Driven:
+Proactive and Solutions-Driven:
+
+Strong Communicator:Communicating effectively by listening, articulating thoughts clearly, and providing valuable feedback.
+Strong Communicator:Communicating effectively by listening, articulating thoughts clearly, and providing valuable feedback.
+Strong Communicator:
+Strong Communicator:
+
+Sense of Ownership and Accountability:Taking responsibility for tasks and projects and being accountable for their outcomes. Also, a promoting of collective ownership of the code.
+Sense of Ownership and Accountability:Taking responsibility for tasks and projects and being accountable for their outcomes. Also, a promoting of collective ownership of the code.
+Sense of Ownership and Accountability:
+Sense of Ownership and Accountability:
+
+Empathetic:Demonstrating empathy toward team members and end-users to understand their needs and concerns.
+Empathetic:Demonstrating empathy toward team members and end-users to understand their needs and concerns.
+Empathetic:
+Empathetic:
+
+Constant Learners with a Growth Mindset:Committed to continuous learning and embracing challenges as opportunities for growth.
+Constant Learners with a Growth Mindset:Committed to continuous learning and embracing challenges as opportunities for growth.
+Constant Learners with a Growth Mindset:
+Constant Learners with a Growth Mindset:
+
+Inquisitive and Insightful:Asking insightful questions and seeking a comprehensive understanding of problems.
+Inquisitive and Insightful:Asking insightful questions and seeking a comprehensive understanding of problems.
+Inquisitive and Insightful:
+Inquisitive and Insightful:
+
+User-Centric:Focusing on understanding the needs, challenges, and goals of end-users to tailor solutions and improve user experiences.
+User-Centric:Focusing on understanding the needs, challenges, and goals of end-users to tailor solutions and improve user experiences.
+User-Centric:
+User-Centric:
+
+Team-Player:dedicated and collaborative team player who contributes positively, communicates effectively, and works harmoniously with colleagues to achieve goals.
+Team-Player:dedicated and collaborative team player who contributes positively, communicates effectively, and works harmoniously with colleagues to achieve goals.
+Team-Player:
+Team-Player:
+
+Problem-solver:Strong problem-solving and analytical skills. Skilled at finding solutions, analyzing challenges, and resolving issues efficiently, using critical thinking and creativity.
+Problem-solver:Strong problem-solving and analytical skills. Skilled at finding solutions, analyzing challenges, and resolving issues efficiently, using critical thinking and creativity.
+Problem-solver:
+Problem-solver:
+
+Pair-programming:Demonstrated experience in working in environments of collaboration including pair-programming
+Pair-programming:Demonstrated experience in working in environments of collaboration including pair-programming
+Pair-programming:
+Pair-programming:
+
+Technical Debt Management:Identifying, prioritizing, and addressing issues in software development that can compromise code quality, hinder future development, and increase maintenance costs.
+Technical Debt Management:Identifying, prioritizing, and addressing issues in software development that can compromise code quality, hinder future development, and increase maintenance costs.
+Technical Debt Management:
+Technical Debt Management:
+
+
+
+
+OVERLAP
+OVERLAP
+OVERLAP
+8 hours overlap during core business hours from 8am to 5pm CDMX time (GMT-6)
+8 hours overlap during core business hours from 8am to 5pm CDMX time (GMT-6)
+
+
+
+12-month-term contractor position (no medical/paid leave)
+12-month-term contractor position (no medical/paid leave)
+Full-time dedication (40h/week)
+Full-time dedication (40h/week)

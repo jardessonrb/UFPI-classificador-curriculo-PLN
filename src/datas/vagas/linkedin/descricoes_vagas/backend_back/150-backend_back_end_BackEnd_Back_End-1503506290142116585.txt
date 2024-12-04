@@ -1,0 +1,124 @@
+link-https://www.linkedin.com/jobs/view/4048255526/?eBP=CwEAAAGS7lCPxmvfN3Ucjix27kByILyarKyjwOAc3uE3heXakLSxW3teIFd1nH5FndwpqQm8GreQTMETifD5lXgTQ9Y8nU_fSlX2CVQ_bY7zOrlV6ZtygbRkSC1q4xPBRRNeQe3sJlHLcZRyZC311wbXHGmaGcy5eCzUFb_hgYfXfGNS7nBy7qikQqux4LL_DDa2waLiQyBTnj71b2E1ZBwDXrbXTGJtr51acpEhmqbAQN5vSWgHMbzAhHzR2tkl97mlLtHgaZ770HRsarZZERqV6NJLhy0vvghnjnzXREWM-hPlbaG5rvMnPcxgALpTLYfWH-xq0JT6xg7JezMGpr5mZiGhO-PeA_34P-7ZNfLU4IrUtA0W5mYz7HyNvnQiS_S5ShC1ezeVLUiytlcoepiml7K72_T--h2PMm858MsobRLi06dVDQwohEzCRTAn5AHZ5jUBYgpHn5L7SnbG7waC9-Zhyg7I5-KZ7DYfvKNgsJ6oojohpfNHZFvrEMAZJZRLaYEeQ6o&refId=0Ze7ozDZE5UYE54n%2FUrWZw%3D%3D&trackingId=5RhHQP%2FEScKrUnYuWVwXOQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend SR - Java
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.Somos globais, somos GPTW.🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇Conhecimento Técnico:Conhecimento avançado em Desenvolvimento Java utilizando J2EEIntegração de Sistemas via APIS REST, GraphQL ou SOAPConhecimento em Frameworks (Spring e Spring Boot)Conhecimento em Banco de Dados (Oracle, Redis, MongoDB)Comunicação via MQ (RabbitMQ, Kafta, etc.)Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais)Familiaridade com Autenticação e Autorização, incluindo Auth e JWTExperiência com Testes Unitários, de Integração e AutomaçõesDevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactoryCiclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação)Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift)Garantir a conformeidade com as normas de segurança (incluindo OWASP e Regulatórios)Ferramentas Colaborativas, Jira e ConfluenceMetodologias Ágeis (Scrum, Kanban)Necessário disponibilidade para hibrido, 3x presencial, em Interlagos - SPResponsabilidades:Analisar e Desenvolvimento de sistema em linguagem Java, incluindo a criação de Micro Serviços, aplicações Middleware e Orquestradores.Configuração, Build e Deploy nos ambientesAcompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana)Garantia de boas práticas em segurança e complianceResponsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na soluçãoDiferenciais:Conhecimento com NodeJS e JavascriptConhecimento em Modularização de Projetos e Bibliotecas CompartilhadasConhecimento avançado em Design Patterns e Clean ArchitectureAlto nível de analise e criação de soluções criativas e Disruptivas;Conhecimento de Soluções de Caching Distribuiído (Redis)E temos também o Clube da Four que oferece ótimas vantagens! 👇🩺 Assistência médica;🍲 VR e VA flexível;🏋️ Gympass e Wellz;⚽ Parceria com o SESC;🍣 Descontos em restaurantes;📚 Descontos em cursos técnicos e de ensinos superior;🧠 Descontos em escolas e plataformas de idiomas.E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+
+
+
+Somos globais, somos GPTW.
+Somos globais, somos GPTW.
+
+
+
+🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+
+
+
+Conhecimento Técnico:
+Conhecimento Técnico:
+Conhecimento Técnico:
+Conhecimento avançado em Desenvolvimento Java utilizando J2EEIntegração de Sistemas via APIS REST, GraphQL ou SOAPConhecimento em Frameworks (Spring e Spring Boot)Conhecimento em Banco de Dados (Oracle, Redis, MongoDB)Comunicação via MQ (RabbitMQ, Kafta, etc.)Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais)Familiaridade com Autenticação e Autorização, incluindo Auth e JWTExperiência com Testes Unitários, de Integração e AutomaçõesDevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactoryCiclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação)Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift)Garantir a conformeidade com as normas de segurança (incluindo OWASP e Regulatórios)Ferramentas Colaborativas, Jira e ConfluenceMetodologias Ágeis (Scrum, Kanban)
+Conhecimento avançado em Desenvolvimento Java utilizando J2EE
+Conhecimento avançado em Desenvolvimento Java utilizando J2EE
+Integração de Sistemas via APIS REST, GraphQL ou SOAP
+Integração de Sistemas via APIS REST, GraphQL ou SOAP
+Conhecimento em Frameworks (Spring e Spring Boot)
+Conhecimento em Frameworks (Spring e Spring Boot)
+Conhecimento em Banco de Dados (Oracle, Redis, MongoDB)
+Conhecimento em Banco de Dados (Oracle, Redis, MongoDB)
+Comunicação via MQ (RabbitMQ, Kafta, etc.)
+Comunicação via MQ (RabbitMQ, Kafta, etc.)
+Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais)
+Conhecimento em segurança (Chaves Criptográficas, Armazenamento Seguro de Credenciais)
+Familiaridade com Autenticação e Autorização, incluindo Auth e JWT
+Familiaridade com Autenticação e Autorização, incluindo Auth e JWT
+Experiência com Testes Unitários, de Integração e Automações
+Experiência com Testes Unitários, de Integração e Automações
+DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory
+DevSecOps - CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory
+Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação)
+Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação)
+Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift)
+Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift)
+Garantir a conformeidade com as normas de segurança (incluindo OWASP e Regulatórios)
+Garantir a conformeidade com as normas de segurança (incluindo OWASP e Regulatórios)
+Ferramentas Colaborativas, Jira e Confluence
+Ferramentas Colaborativas, Jira e Confluence
+Metodologias Ágeis (Scrum, Kanban)
+Metodologias Ágeis (Scrum, Kanban)
+
+
+
+Necessário disponibilidade para hibrido, 3x presencial, em Interlagos - SP
+Necessário disponibilidade para hibrido, 3x presencial, em Interlagos - SP
+Necessário disponibilidade para hibrido, 3x presencial, em Interlagos - SP
+
+
+
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+Analisar e Desenvolvimento de sistema em linguagem Java, incluindo a criação de Micro Serviços, aplicações Middleware e Orquestradores.Configuração, Build e Deploy nos ambientesAcompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana)Garantia de boas práticas em segurança e complianceResponsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução
+Analisar e Desenvolvimento de sistema em linguagem Java, incluindo a criação de Micro Serviços, aplicações Middleware e Orquestradores.
+Analisar e Desenvolvimento de sistema em linguagem Java, incluindo a criação de Micro Serviços, aplicações Middleware e Orquestradores.
+Configuração, Build e Deploy nos ambientes
+Configuração, Build e Deploy nos ambientes
+Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana)
+Acompanhamento de implantação, Monitoramento (Grafana, Elastic, Kibana)
+Garantia de boas práticas em segurança e compliance
+Garantia de boas práticas em segurança e compliance
+Responsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução
+Responsável por prever questões envolvendo performance e confiabilidade da aplicação, atuando na solução
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+Conhecimento com NodeJS e JavascriptConhecimento em Modularização de Projetos e Bibliotecas CompartilhadasConhecimento avançado em Design Patterns e Clean ArchitectureAlto nível de analise e criação de soluções criativas e Disruptivas;Conhecimento de Soluções de Caching Distribuiído (Redis)
+Conhecimento com NodeJS e Javascript
+Conhecimento com NodeJS e Javascript
+Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas
+Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas
+Conhecimento avançado em Design Patterns e Clean Architecture
+Conhecimento avançado em Design Patterns e Clean Architecture
+Alto nível de analise e criação de soluções criativas e Disruptivas;
+Alto nível de analise e criação de soluções criativas e Disruptivas;
+Conhecimento de Soluções de Caching Distribuiído (Redis)
+Conhecimento de Soluções de Caching Distribuiído (Redis)
+
+
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+
+
+
+🩺 Assistência médica;
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+🧠 Descontos em escolas e plataformas de idiomas.
+
+
+
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀

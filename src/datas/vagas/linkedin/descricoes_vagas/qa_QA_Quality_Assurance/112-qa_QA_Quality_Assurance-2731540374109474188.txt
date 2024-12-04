@@ -1,0 +1,34 @@
+link-https://www.linkedin.com/jobs/view/4056878440/?eBP=CwEAAAGS7kczL4atnjDo0IDZp74mvGnCMutJyRFI4R-0HJMnrqu65OFoYpHNgRzBpqHtKjICSjcSa4wEYveYam4gOTOtwYVMrfR-t4tFi9IVXyRJ7uITFunz2hSBYfW2t88pQCOXPQcC2v1YBcrISnJ2_BNS6hYITrggm4YAgHg5aSKFFJ9I1bpMbhOz5VFZR9HsUur7Jq_cf4bIK2HvUdATvjhrGoppgkcECvmT-Il3bwMoQhf3O49sr7YwtiagX6qwF0mkUsjI0aaz6dJWfgPlVtr2AWNeL852nli14NOmPD2FrhIdsphb2QtXHuODA1cezM0gmljH8W2AL9JlXhEh-45sEh0-dFqP3k3XvCWkJG6Z15eA0orMTI09q5SuDWJfDIbLOQhMblv5HHj2SIX2dLyEe16ItILLyn6cYrNn6hO8GjfdOZTviiQHQN1n84SKAxcZKB4L1zg56vIjS-abKwCdmsTRn0tV4zJ7G0zmxHIoHWjYtm3MMpBB5GN1FQ&refId=SNSWGwhfiKuFeT%2FIiRLkZw%3D%3D&trackingId=%2B3NNbc9Jmn4H%2B8s3PI4UOg%3D%3D&trk=flagship3_search_srp_jobs
+
+Automatizador QA (Com Inglês)
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Conhecimentos necessários: - Planejamento/modelagem de Testes em alguma ferramenta de gestão. (Preferencialmente Azure DevOPS) - Experiência prática em testes web e backend - Conhecimento em testes de API (Postman ou Insomnia) - Conhecimento em metodologias ágeis (Scrum ou Kanban) - Gerkhin prático - Automação de testes com Cypress e Selenium - Conhecimento CI/CD - Inglês Intermediário (Necessita conseguir se comunicar mesmo que com alguma dificuldade) Funções: - Modelagem e execução de testes manuais - Registro de Bugs - Acompanhamento de indicadores de qualidade - Participar das reuniões e cerimônias dos times - Automação de testes - Integrar testes automatizados nas esteirasConhecimentos necessários: - Planejamento/modelagem de Testes em alguma ferramenta de gestão. (Preferencialmente Azure DevOPS) - Experiência prática em testes web e backend - Conhecimento em testes de API (Postman ou Insomnia) - Conhecimento em metodologias ágeis (Scrum ou Kanban) - Gerkhin prático - Automação de testes com Cypress e Selenium - Conhecimento CI/CD - Inglês Intermediário (Necessita conseguir se comunicar mesmo que com alguma dificuldade) Funções: - Modelagem e execução de testes manuais - Registro de Bugs - Acompanhamento de indicadores de qualidade - Participar das reuniões e cerimônias dos times - Automação de testes - Integrar testes automatizados nas esteirasHabilidades ObrigatóriasCypressTestes automatizadosHabilidades DesejáveisAzureSeleniumContinuous Integration/Deployment(CI/CD)A vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+
+
+
+
+CypressTestes automatizados
+Cypress
+Cypress
+Testes automatizados
+Testes automatizados
+
+
+
+
+AzureSeleniumContinuous Integration/Deployment(CI/CD)
+Azure
+Azure
+Selenium
+Selenium
+Continuous Integration/Deployment(CI/CD)
+Continuous Integration/Deployment(CI/CD)
+
+
+
+

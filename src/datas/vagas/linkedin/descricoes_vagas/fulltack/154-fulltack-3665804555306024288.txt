@@ -1,0 +1,75 @@
+link-https://www.linkedin.com/jobs/view/4048342983/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=rs6CdIlZhEJupwC0hVgx1w%3D%3D&trackingId=NtipKk3eQj1SBvtOmi46LQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Fullstack Developer
+Sobre a vaga
+DescriptionTeam International is a global Tech consulting company and software development service provider. With more than 20 years of experience, global operations in Poland, the United States, Portugal, and Latin America, and over 1500 employees, we combine technology knowledge, an agile approach to addressing various business challenges, and business information, all while maintaining a customer-centric perspective.The Position:We are seeking a highly skilled FullStack Developer, with a focus on BackEnd (70%), to join our team. The ideal candidate will have strong expertise in building scalable, high-performance applications, with proficiency in a variety of modern technologies.Requirements· Strong proficiency in NestJs and TypeScript.· Experience with relational databases, particularly PostgreSQL.· Knowledge of Redis and messaging systems like PubSub.· Familiarity with CQRS and microservices architecture.· Hands-on experience with containerization using Docker.· Understanding of Server-Side Events (SSE).· Experience with API documentation tools like Swagger.· Cloud deployment experience, preferably in GCP.· Monitoring and alerting using Prometheus and Grafana.· Familiarity with incident response tools like PagerDuty.· Experience with background job queues using BullJs.· Strong testing skills, using Jest for unit, integration, and component tests.· Load testing experience with Artillery.Nice to Have:· Experience with React and/or React Native for front-end and mobile development.What We Offer· Flexible engagement models.· Work alongside top IT global talent.· Full compliance with security and regulatory standards.· Customized IT and software development solutions.· A supportive and collaborative work environment.· Enhance your skills with company-sponsored English classes.https://teaminternational1234.my.site.com/teamsites/job-posting?id=a13UV00000HNF30
+Description
+Description
+Description
+Team International is a global Tech consulting company and software development service provider. With more than 20 years of experience, global operations in Poland, the United States, Portugal, and Latin America, and over 1500 employees, we combine technology knowledge, an agile approach to addressing various business challenges, and business information, all while maintaining a customer-centric perspective.
+Team International is a global Tech consulting company and software development service provider. With more than 20 years of experience, global operations in Poland, the United States, Portugal, and Latin America, and over 1500 employees, we combine technology knowledge, an agile approach to addressing various business challenges, and business information, all while maintaining a customer-centric perspective.
+
+
+
+The Position:
+The Position:
+The Position:
+We are seeking a highly skilled FullStack Developer, with a focus on BackEnd (70%), to join our team. The ideal candidate will have strong expertise in building scalable, high-performance applications, with proficiency in a variety of modern technologies.
+We are seeking a highly skilled FullStack Developer, with a focus on BackEnd (70%), to join our team. The ideal candidate will have strong expertise in building scalable, high-performance applications, with proficiency in a variety of modern technologies.
+Requirements
+Requirements
+Requirements
+· Strong proficiency in NestJs and TypeScript.
+· Strong proficiency in NestJs and TypeScript.
+· Experience with relational databases, particularly PostgreSQL.
+· Experience with relational databases, particularly PostgreSQL.
+· Knowledge of Redis and messaging systems like PubSub.
+· Knowledge of Redis and messaging systems like PubSub.
+· Familiarity with CQRS and microservices architecture.
+· Familiarity with CQRS and microservices architecture.
+· Hands-on experience with containerization using Docker.
+· Hands-on experience with containerization using Docker.
+· Understanding of Server-Side Events (SSE).
+· Understanding of Server-Side Events (SSE).
+· Experience with API documentation tools like Swagger.
+· Experience with API documentation tools like Swagger.
+· Cloud deployment experience, preferably in GCP.
+· Cloud deployment experience, preferably in GCP.
+· Monitoring and alerting using Prometheus and Grafana.
+· Monitoring and alerting using Prometheus and Grafana.
+· Familiarity with incident response tools like PagerDuty.
+· Familiarity with incident response tools like PagerDuty.
+· Experience with background job queues using BullJs.
+· Experience with background job queues using BullJs.
+· Strong testing skills, using Jest for unit, integration, and component tests.
+· Strong testing skills, using Jest for unit, integration, and component tests.
+· Load testing experience with Artillery.
+· Load testing experience with Artillery.
+
+
+
+Nice to Have:
+Nice to Have:
+Nice to Have
+· Experience with React and/or React Native for front-end and mobile development.
+· Experience with React and/or React Native for front-end and mobile development.
+What We Offer
+What We Offer
+What We Offer
+· Flexible engagement models.
+· Flexible engagement models.
+· Work alongside top IT global talent.
+· Work alongside top IT global talent.
+· Full compliance with security and regulatory standards.
+· Full compliance with security and regulatory standards.
+· Customized IT and software development solutions.
+· Customized IT and software development solutions.
+· A supportive and collaborative work environment.
+· A supportive and collaborative work environment.
+· Enhance your skills with company-sponsored English classes.
+· Enhance your skills with company-sponsored English classes.
+
+
+
+https://teaminternational1234.my.site.com/teamsites/job-posting?id=a13UV00000HNF30
+https://teaminternational1234.my.site.com/teamsites/job-posting?id=a13UV00000HNF30

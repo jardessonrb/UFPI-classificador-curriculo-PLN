@@ -1,0 +1,92 @@
+link-https://www.linkedin.com/jobs/view/4051418510/?eBP=CwEAAAGS7jS4xhurATBPeYq9YNCilnsaWHPJx4xW8KlxwN7TiEDu6eyCjlND7ZIanMx87_JkNqpMR1o6jvfkr93Mm1KcBiuNGpCmCdoKhELv2GGatoUAwHZpmR_3_gpFmI32FrFY_p11i10BqmqrgHe9RsY2kc7TVmptVKmc-3LQQDZsBI6-A_g9QyFu02COEg2bTMmRrtlenenyq4McEWPTGRz2HpqBcx_87tYBCBA9v7DlW3li3Ybg9L92hVAFqjm-_nP4EP-46Ig9T_PJTIz1N73MZnDLbmsLe7GofKIx4PuXKI2JOlCHYbBtL7CQriAXsWyKfRtUm-CQslVdz9ySFFNaLF8TthhgyynewLthrYqENDV_kVz0NPPyaAsQx_EkGdjGAHkzdxuyWzz6wQppQ-BOD9zBPySGyEcvndvIWYxBtOFS9eA2aS5BXiyUU9fszvBL7o491kh3gvUaTqDyI8J8O6PZAba9TqI4qes1nKduUrSfEVeEOc-HRCU&refId=ieXYMmeAUeyEDOOJzDvRtw%3D%3D&trackingId=uTxBfctME1STOgdH9uxcVQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Cientista de Dados Sênior
+Sobre a vaga
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes.Isso não poderia ser diferente com o nosso principal combustível: as pessoas!Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!Ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro.Cadastre-se agora mesmo em nossas vagas!Responsabilidades e atribuiçõesIdentificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicasPreprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dadosConverter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregaçãoRealizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dadosCriar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciaisDesenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outrasAvaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzadaRefinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reaisIntegrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotesAutomatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e AirflowFicar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovarDesenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dadosRequisitos e qualificaçõesProficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outrosConhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dadosConhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDBConhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculoExperiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.Experiência com esteiras MLOps e AIOpsHabilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipeProatividadeInformações adicionaisDesejável:Certificação Machine Learning (preferencialmente GCP e/ou AWS)Conhecimento e experiência em análise e interpretação de indicadores e KPIs de negóciosConhecimento em engenharia de dados
+
+
+
+
+
+
+
+
+
+
+Ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro.
+
+
+
+
+Responsabilidades e atribuições
+
+
+Identificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicasPreprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dadosConverter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregaçãoRealizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dadosCriar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciaisDesenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outrasAvaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzadaRefinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reaisIntegrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotesAutomatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e AirflowFicar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovarDesenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dados
+Identificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicas
+Identificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicas
+Preprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dados
+Preprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dados
+Converter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregação
+Converter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregação
+Realizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dados
+Realizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dados
+
+Criar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciais
+Criar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciais
+Desenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outras
+Desenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outras
+Avaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzada
+Avaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzada
+Refinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reais
+Refinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reais
+Integrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotes
+Integrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotes
+Automatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e Airflow
+Automatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e Airflow
+Ficar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovar
+Ficar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovar
+Desenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dados
+Desenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dados
+
+
+
+Requisitos e qualificações
+
+
+Proficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outrosConhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dadosConhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDBConhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculoExperiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.Experiência com esteiras MLOps e AIOpsHabilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipeProatividade
+Proficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.
+Proficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.
+Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outros
+Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outros
+Conhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dados
+Conhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dados
+Conhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDB
+Conhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDB
+Conhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)
+Conhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)
+Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculo
+Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculo
+Experiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.
+Experiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.
+Experiência com esteiras MLOps e AIOps
+Experiência com esteiras MLOps e AIOps
+Habilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipe
+Habilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipe
+Proatividade
+Proatividade
+
+
+
+Informações adicionais
+
+
+Desejável:
+
+
+Certificação Machine Learning (preferencialmente GCP e/ou AWS)Conhecimento e experiência em análise e interpretação de indicadores e KPIs de negóciosConhecimento em engenharia de dados
+Certificação Machine Learning (preferencialmente GCP e/ou AWS)
+Certificação Machine Learning (preferencialmente GCP e/ou AWS)
+Conhecimento e experiência em análise e interpretação de indicadores e KPIs de negócios
+Conhecimento e experiência em análise e interpretação de indicadores e KPIs de negócios
+Conhecimento em engenharia de dados
+Conhecimento em engenharia de dados

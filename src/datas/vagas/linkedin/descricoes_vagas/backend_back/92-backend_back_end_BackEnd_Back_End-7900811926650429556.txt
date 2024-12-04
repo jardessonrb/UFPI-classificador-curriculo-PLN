@@ -1,0 +1,134 @@
+link-https://www.linkedin.com/jobs/view/4059647564/?eBP=CwEAAAGS7lInlfgmLoWqYh_b8VI6hjCbtuxPbPA_mLi_xz-glvkBCBpBq2Wyz3qC9JRvC5RA052DivjZHsd-SKzNS1AyyEnh4iPLuaS3gYdR78-Wo4ukf46u5FJcnk1XP4a15GSKhXL5yMjchaSmXNCDHQRECIUJBYYR6VJ6iozraDdQorJqVOwDnCULBvHyBYXy_4LUE2t7_2NloSZNrz_NdiYdg4h8PZ0EC3cJ89-KYTMBp8cOoQyOMeVbXrk2kKpxgft7KdX_EorvHiCw1oS63f8VWvS1Y5dTseSRaGbgM9qjDZAvLkVOcyoLNHcH7c6zLSr2moWhgllv7q3ASUeTEWn7HFF636-qMgxOEDADvcYHBL3_Q2nfpdv3cSVYAH_JAY3Ub9o8EpMAD2s0Sg4LVQV8BAXxy1kLN7XNdtz3hAMtL3jiSsVKnNvsbwxkTDSZRVDk3AGdx_YoCypsgflq3zSHjX9u89PisxmepDNTt5oLVbhDg1TI0zvhkIWbJ6MYRaKTOou2-MOx&refId=IqmtUJ2bp47v46rQJyql6A%3D%3D&trackingId=0lddgXhW3F4aqcbNBUAdIg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer, (Remote, Brazil-Based)
+Sobre a vaga
+Company Overview:InVitro Capital is a forward-thinking company that empowers its own portfolio companies (PortCos) and SMBs through innovative AI and SaaS solutions. We provide strategic support, mentorship, and essential resources across sectors like HealthTech, FinTech, AdTech, and HR. Our mission is to help our PortCos unlock the potential of AI to reshape industries, drive productivity, and achieve market competitiveness, all within an inclusive and collaborative environment where diverse ideas thrive.Job Overview:InVitro Capital is seeking a Senior Backend Engineer to design and implement backend software solutions using Python and related technologies. This role involves developing and maintaining RESTful APIs and microservices, ensuring high performance, scalability, and reliability of backend systems. You will collaborate closely with frontend engineers to integrate user-facing elements with server-side logic and conduct code reviews to ensure code quality and best practices.Working Hours: Monday to Friday, Pacific Time Zone.Responsibilities:Design and implement backend software solutions using Python and related technologies.Develop and maintain RESTful APIs and microservices.Collaborate with frontend engineers to integrate user-facing elements with server-side logic.Ensure high performance, scalability, and reliability of backend systems.Optimize code for efficiency and maintainability.Conduct code reviews to ensure code quality and best practices.Identify and troubleshoot software defects and performance issues.Stay updated with the latest trends and advancements in backend engineering.Minimum Qualifications:Bachelor's degree in Computer Science, Engineering, or a related field.5+ years of experience as a Backend Engineer or similar role.Strong proficiency in Python and related frameworks (e.g., Django, Flask).Experience in designing and developing RESTful APIs.Solid understanding of software development principles, data structures, and algorithms.Experience with relational databases (e.g., PostgreSQL, MySQL) and query optimization.Proficient understanding of version control systems (e.g., Git).Strong problem-solving and analytical skills.Excellent communication and collaboration abilities.Preferred Qualifications:Master's degree or higher in Computer Science, Engineering, or a related field.Experience with cloud platforms (e.g., AWS, GCP, Azure).Knowledge of containerization technologies (e.g., Docker, Kubernetes).Experience with NoSQL databases (e.g., MongoDB, Cassandra).Understanding of software testing and test-driven development (TDD) principles.Why Join InVitro Capital?Work on cutting-edge AI and B2B technologies:We are at the forefront of AI and B2B innovation. Our employees have the opportunity to work on the latest and greatest technologies, and to make a real impact on the SME market.Help build and grow successful startups:We are committed to helping our portfolio companies succeed. Our employees play a vital role in building and growing these companies. This is not a 9 to 5 job. This is a startup environment with a give-it-all mentality.Work with some of the best minds in the industry:You will be part of a team of seasoned entrepreneurs and product leaders who are on a mission to make a difference in the SME space. You will have the chance to work with some of the best minds in the industry.Supportive and collaborative work environment:We believe in creating a supportive and collaborative work environment where our employees can thrive.Competitive compensation:We offer a competitive compensation package, with salaries ranging from [$3,500to $ 4,500monthly], payable in USD.
+Company Overview:
+Company Overview:
+Company Overview:
+
+
+
+InVitro Capital is a forward-thinking company that empowers its own portfolio companies (PortCos) and SMBs through innovative AI and SaaS solutions. We provide strategic support, mentorship, and essential resources across sectors like HealthTech, FinTech, AdTech, and HR. Our mission is to help our PortCos unlock the potential of AI to reshape industries, drive productivity, and achieve market competitiveness, all within an inclusive and collaborative environment where diverse ideas thrive.
+InVitro Capital is a forward-thinking company that empowers its own portfolio companies (PortCos) and SMBs through innovative AI and SaaS solutions. We provide strategic support, mentorship, and essential resources across sectors like HealthTech, FinTech, AdTech, and HR. Our mission is to help our PortCos unlock the potential of AI to reshape industries, drive productivity, and achieve market competitiveness, all within an inclusive and collaborative environment where diverse ideas thrive.
+
+
+
+Job Overview:
+Job Overview:
+Job Overview:
+
+
+
+InVitro Capital is seeking a Senior Backend Engineer to design and implement backend software solutions using Python and related technologies. This role involves developing and maintaining RESTful APIs and microservices, ensuring high performance, scalability, and reliability of backend systems. You will collaborate closely with frontend engineers to integrate user-facing elements with server-side logic and conduct code reviews to ensure code quality and best practices.
+InVitro Capital is seeking a Senior Backend Engineer to design and implement backend software solutions using Python and related technologies. This role involves developing and maintaining RESTful APIs and microservices, ensuring high performance, scalability, and reliability of backend systems. You will collaborate closely with frontend engineers to integrate user-facing elements with server-side logic and conduct code reviews to ensure code quality and best practices.
+
+
+
+Working Hours: Monday to Friday, Pacific Time Zone.
+Working Hours: Monday to Friday, Pacific Time Zone.
+Working Hours: Monday to Friday, Pacific Time Zone.
+
+
+
+Responsibilities:
+Responsibilities:
+Responsibilities
+
+
+
+Design and implement backend software solutions using Python and related technologies.Develop and maintain RESTful APIs and microservices.Collaborate with frontend engineers to integrate user-facing elements with server-side logic.Ensure high performance, scalability, and reliability of backend systems.Optimize code for efficiency and maintainability.Conduct code reviews to ensure code quality and best practices.Identify and troubleshoot software defects and performance issues.Stay updated with the latest trends and advancements in backend engineering.
+Design and implement backend software solutions using Python and related technologies.
+Design and implement backend software solutions using Python and related technologies.
+Develop and maintain RESTful APIs and microservices.
+Develop and maintain RESTful APIs and microservices.
+Collaborate with frontend engineers to integrate user-facing elements with server-side logic.
+Collaborate with frontend engineers to integrate user-facing elements with server-side logic.
+Ensure high performance, scalability, and reliability of backend systems.
+Ensure high performance, scalability, and reliability of backend systems.
+Optimize code for efficiency and maintainability.
+Optimize code for efficiency and maintainability.
+Conduct code reviews to ensure code quality and best practices.
+Conduct code reviews to ensure code quality and best practices.
+Identify and troubleshoot software defects and performance issues.
+Identify and troubleshoot software defects and performance issues.
+Stay updated with the latest trends and advancements in backend engineering.
+Stay updated with the latest trends and advancements in backend engineering.
+
+
+
+Minimum Qualifications:
+Minimum Qualifications:
+Minimum Qualifications:
+
+
+
+Bachelor's degree in Computer Science, Engineering, or a related field.5+ years of experience as a Backend Engineer or similar role.Strong proficiency in Python and related frameworks (e.g., Django, Flask).Experience in designing and developing RESTful APIs.Solid understanding of software development principles, data structures, and algorithms.Experience with relational databases (e.g., PostgreSQL, MySQL) and query optimization.Proficient understanding of version control systems (e.g., Git).Strong problem-solving and analytical skills.Excellent communication and collaboration abilities.
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Bachelor's degree in Computer Science, Engineering, or a related field.
+5+ years of experience as a Backend Engineer or similar role.
+5+ years of experience as a Backend Engineer or similar role.
+Strong proficiency in Python and related frameworks (e.g., Django, Flask).
+Strong proficiency in Python and related frameworks (e.g., Django, Flask).
+Experience in designing and developing RESTful APIs.
+Experience in designing and developing RESTful APIs.
+Solid understanding of software development principles, data structures, and algorithms.
+Solid understanding of software development principles, data structures, and algorithms.
+Experience with relational databases (e.g., PostgreSQL, MySQL) and query optimization.
+Experience with relational databases (e.g., PostgreSQL, MySQL) and query optimization.
+Proficient understanding of version control systems (e.g., Git).
+Proficient understanding of version control systems (e.g., Git).
+Strong problem-solving and analytical skills.
+Strong problem-solving and analytical skills.
+Excellent communication and collaboration abilities.
+Excellent communication and collaboration abilities.
+
+
+
+Preferred Qualifications:
+Preferred Qualifications:
+Preferred Qualifications:
+
+
+
+Master's degree or higher in Computer Science, Engineering, or a related field.Experience with cloud platforms (e.g., AWS, GCP, Azure).Knowledge of containerization technologies (e.g., Docker, Kubernetes).Experience with NoSQL databases (e.g., MongoDB, Cassandra).Understanding of software testing and test-driven development (TDD) principles.
+Master's degree or higher in Computer Science, Engineering, or a related field.
+Master's degree or higher in Computer Science, Engineering, or a related field.
+Experience with cloud platforms (e.g., AWS, GCP, Azure).
+Experience with cloud platforms (e.g., AWS, GCP, Azure).
+Knowledge of containerization technologies (e.g., Docker, Kubernetes).
+Knowledge of containerization technologies (e.g., Docker, Kubernetes).
+Experience with NoSQL databases (e.g., MongoDB, Cassandra).
+Experience with NoSQL databases (e.g., MongoDB, Cassandra).
+Understanding of software testing and test-driven development (TDD) principles.
+Understanding of software testing and test-driven development (TDD) principles.
+
+
+
+Why Join InVitro Capital?
+Why Join InVitro Capital?
+Why Join InVitro Capital?
+
+
+
+Work on cutting-edge AI and B2B technologies:We are at the forefront of AI and B2B innovation. Our employees have the opportunity to work on the latest and greatest technologies, and to make a real impact on the SME market.Help build and grow successful startups:We are committed to helping our portfolio companies succeed. Our employees play a vital role in building and growing these companies. This is not a 9 to 5 job. This is a startup environment with a give-it-all mentality.Work with some of the best minds in the industry:You will be part of a team of seasoned entrepreneurs and product leaders who are on a mission to make a difference in the SME space. You will have the chance to work with some of the best minds in the industry.Supportive and collaborative work environment:We believe in creating a supportive and collaborative work environment where our employees can thrive.Competitive compensation:We offer a competitive compensation package, with salaries ranging from [$3,500to $ 4,500monthly], payable in USD.
+Work on cutting-edge AI and B2B technologies:We are at the forefront of AI and B2B innovation. Our employees have the opportunity to work on the latest and greatest technologies, and to make a real impact on the SME market.
+Work on cutting-edge AI and B2B technologies:We are at the forefront of AI and B2B innovation. Our employees have the opportunity to work on the latest and greatest technologies, and to make a real impact on the SME market.
+Work on cutting-edge AI and B2B technologies:
+
+Help build and grow successful startups:We are committed to helping our portfolio companies succeed. Our employees play a vital role in building and growing these companies. This is not a 9 to 5 job. This is a startup environment with a give-it-all mentality.
+Help build and grow successful startups:We are committed to helping our portfolio companies succeed. Our employees play a vital role in building and growing these companies. This is not a 9 to 5 job. This is a startup environment with a give-it-all mentality.
+Help build and grow successful startups:
+
+Work with some of the best minds in the industry:You will be part of a team of seasoned entrepreneurs and product leaders who are on a mission to make a difference in the SME space. You will have the chance to work with some of the best minds in the industry.
+Work with some of the best minds in the industry:You will be part of a team of seasoned entrepreneurs and product leaders who are on a mission to make a difference in the SME space. You will have the chance to work with some of the best minds in the industry.
+Work with some of the best minds in the industry:
+
+Supportive and collaborative work environment:We believe in creating a supportive and collaborative work environment where our employees can thrive.
+Supportive and collaborative work environment:We believe in creating a supportive and collaborative work environment where our employees can thrive.
+Supportive and collaborative work environment:
+
+Competitive compensation:We offer a competitive compensation package, with salaries ranging from [$3,500to $ 4,500monthly], payable in USD.
+Competitive compensation:We offer a competitive compensation package, with salaries ranging from [$3,500to $ 4,500monthly], payable in USD.
+Competitive compensation:
+

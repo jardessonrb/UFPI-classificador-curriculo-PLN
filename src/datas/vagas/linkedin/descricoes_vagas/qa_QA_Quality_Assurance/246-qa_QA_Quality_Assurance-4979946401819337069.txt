@@ -1,0 +1,80 @@
+link-https://www.linkedin.com/jobs/view/4060917438/?eBP=CwEAAAGS7kaWvc5LAacCrTszP-P56tbZGZno-cGltQfM4uagS_zOGuwQvBg074UlInGhNPN8O5HbCmq9Nm1PNsSxaSInThtRNeMZeoGAsAf7LmAiy8nMjqx1ftOYZ2pFU9vWZnWqc7sbb6FmYPi3DsC3RP5mdotPmiqOyG773usk5LIMt5sfYJQJoAoB7Et-Y3X6FDdfHm0B0shzVhckcsD5X0pfAL7VyyanwQgqe1whdXrkCiPVEgZYLsJI6PnuUQCneY63qaBnUR5MykBgiHY0uzj4qhmnVG5Gx8wDWYrJuX8bMEbN0j6z8p2ZLscrXfp0nb3__QhxbdLjemBRiLjwI54-WEU1nXKMso92MQycMKrTVbUvA04_G0hTfczF0vRIHCrGQSQiQE8H5BHXn68l79nOftMTW9Yb0nHgWvCFsEBjlBB3sTI6HhvYqFN1atnkxLN1CEd1mRxpyhhXhndHpCYgtLZWoZ6Hp_FUAkdcuLQzF-2DaMLcOoTQp5ULO6825DfH3vw7UnxC&refId=y3v09vom4ZilCo%2B5m9ToEQ%3D%3D&trackingId=1QIOV9XEW72StDAreDB5CQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior QA Engineer
+Sobre a vaga
+We're looking for a talented and passionate Senior Quality Assurance Analyst, to join Wildlife's Quality Assurance team.As QA Senior analysts, you will be responsible for estimating, planning and executing test cases, as well as evaluating the risks and impacts in the tests. You are also expected to help with team growth and share knowledge, understand testing demands and communicate test priorities to both developers and other analysts and quality metrics. Professional posture and leadership skills are very positive, even if this is not a leadership role per se, as it will help them interact with various roles and higher job levels.At this job level, you can also be the first analyst to join a new game project, being responsible for helping a new dev team establish processes and quality standards, and for being the point of contact between project teams and QA.We know that the work we do has a high impact on our company's success and culture. The right person for this position is curious by nature, and comfortable in a "take the initiative" environment, loves solving problems, and can thrive in a fast and growing business.What You'll DoBe part of a cross-functional team, directly contributing to feature development and maintenance;Advocate for the user experience when communicating with product, design, and tech;Provide the team with a quality strategy that supports the team's delivery goals and aligns with the overall Wildlife's' quality strategy;Be part of a highly-skilled quality chapter, owning initiatives to improve quality processes, metrics, and tooling.Advocate for the game's quality in general considering development of features, bugs and product informationWhat You'll NeedUniversity degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development or related experience;Broad/ Previous professional experience in software development;Understanding of computer concepts (data structures, networking, concurrency, memory management, and algorithm analysis);Excellent knowledge of software testing concepts (testability, escape rate, regression, unit, integration, soak, stress, test automation);Nice to HaveExperience implementing DevOps tools such as Chef, Ansible, Jenkins, or similar.More About YouYou're passionate about software development and knows how to ensure its quality;You're motivated by building up back-end services and is aware of its different architectures;Experienced working in an environment which uses and stimulates DevOps culture;You're creative when solving problems and is continuously seeking improvements for processes and solutions;You can communicate clearly with your team and the company to identify issues and demands;You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final result.About WildlifeWildlife is one of the leading mobile game developers and publishers in the world. We have released more than 60 titles, reaching billions of people around the globe. Here, we create games that will excite, intrigue, and engage our players for years to come!Equal OpportunityWildlife is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, colour, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local law.We're committed to providing accommodations for candidates with disabilities in our recruiting process.
+
+
+
+
+
+
+
+
+What You'll Do
+
+
+Be part of a cross-functional team, directly contributing to feature development and maintenance;Advocate for the user experience when communicating with product, design, and tech;Provide the team with a quality strategy that supports the team's delivery goals and aligns with the overall Wildlife's' quality strategy;Be part of a highly-skilled quality chapter, owning initiatives to improve quality processes, metrics, and tooling.Advocate for the game's quality in general considering development of features, bugs and product information
+Be part of a cross-functional team, directly contributing to feature development and maintenance;
+Be part of a cross-functional team, directly contributing to feature development and maintenance;
+Advocate for the user experience when communicating with product, design, and tech;
+Advocate for the user experience when communicating with product, design, and tech;
+Provide the team with a quality strategy that supports the team's delivery goals and aligns with the overall Wildlife's' quality strategy;
+Provide the team with a quality strategy that supports the team's delivery goals and aligns with the overall Wildlife's' quality strategy;
+Be part of a highly-skilled quality chapter, owning initiatives to improve quality processes, metrics, and tooling.
+Be part of a highly-skilled quality chapter, owning initiatives to improve quality processes, metrics, and tooling.
+Advocate for the game's quality in general considering development of features, bugs and product information
+Advocate for the game's quality in general considering development of features, bugs and product information
+
+
+What You'll Need
+
+
+University degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development or related experience;Broad/ Previous professional experience in software development;Understanding of computer concepts (data structures, networking, concurrency, memory management, and algorithm analysis);Excellent knowledge of software testing concepts (testability, escape rate, regression, unit, integration, soak, stress, test automation);
+University degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development or related experience;
+University degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development or related experience;
+Broad/ Previous professional experience in software development;
+Broad/ Previous professional experience in software development;
+
+Understanding of computer concepts (data structures, networking, concurrency, memory management, and algorithm analysis);
+Understanding of computer concepts (data structures, networking, concurrency, memory management, and algorithm analysis);
+Excellent knowledge of software testing concepts (testability, escape rate, regression, unit, integration, soak, stress, test automation);
+Excellent knowledge of software testing concepts (testability, escape rate, regression, unit, integration, soak, stress, test automation);
+
+
+Nice to Have
+
+
+Experience implementing DevOps tools such as Chef, Ansible, Jenkins, or similar.
+Experience implementing DevOps tools such as Chef, Ansible, Jenkins, or similar.
+Experience implementing DevOps tools such as Chef, Ansible, Jenkins, or similar.
+
+
+More About You
+
+
+You're passionate about software development and knows how to ensure its quality;You're motivated by building up back-end services and is aware of its different architectures;Experienced working in an environment which uses and stimulates DevOps culture;You're creative when solving problems and is continuously seeking improvements for processes and solutions;You can communicate clearly with your team and the company to identify issues and demands;You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final result.
+You're passionate about software development and knows how to ensure its quality;
+You're passionate about software development and knows how to ensure its quality;
+You're motivated by building up back-end services and is aware of its different architectures;
+You're motivated by building up back-end services and is aware of its different architectures;
+Experienced working in an environment which uses and stimulates DevOps culture;
+Experienced working in an environment which uses and stimulates DevOps culture;
+You're creative when solving problems and is continuously seeking improvements for processes and solutions;
+You're creative when solving problems and is continuously seeking improvements for processes and solutions;
+You can communicate clearly with your team and the company to identify issues and demands;
+You can communicate clearly with your team and the company to identify issues and demands;
+You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final result.
+You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final result.
+
+
+About Wildlife
+
+
+
+
+Equal Opportunity
+
+
+
+

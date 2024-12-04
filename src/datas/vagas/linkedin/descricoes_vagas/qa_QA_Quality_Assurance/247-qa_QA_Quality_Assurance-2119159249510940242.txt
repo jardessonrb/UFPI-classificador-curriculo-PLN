@@ -1,0 +1,172 @@
+link-https://www.linkedin.com/jobs/view/3978697186/?eBP=CwEAAAGS7kdnx4H-2LhaRNXitmkVC-D3k9zT4bgWcSpk5k9kN6PiVuveOBjz4QvsiLxZrlwBNtz1dQ8Zg8rHeAii8ey8FjCM5zA9wclYPVthQqxZBgJpYkjRYMTjDT7glR5PF8f11LUd7N2GSn2s1xu5jfUfCyf9QHShtwYv5E-H8HrqqM3srgUZZFmu_WH-W-LI7ZaWmob6vWVfk5zplkGNmSWin_4pJ5zSS5o_tNICgmZOX6qdIq6BGOcV1R6y-wRCjmcFa-Kjs2oLV1-A4Bb0mKDnL0BL-G7CsvXpkCKhf63-ux3xun5bAV4zyFFUZFfiwyeolyLDeaW1lt51ByC13dy0lWUVuRzI3Wn5FTwDumypLlE2ezoZ5ylmYLrK8rI4y3fmloomcA9XWcgn1XTpguvRJsQyguEg8aBFv7LyQ5meVq29WOr7f2t5V1Wu7Zv4xiE8FKj2kxrXOA8muOp715L4PkBK6L2bnlV5bGJWYk9v6QVUFnLlXeJ5NN5sfA&refId=eCZ4TSmLf1xAg4vlx7lWtA%3D%3D&trackingId=hrU1%2FcPLlMh8Sb7%2FgQabvQ%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Automation Engineer
+Sobre a vaga
+YaloHi! This is Yalo! We are on a mission to bring conversational commerce to the world...Remember how it used to be to interact with businesses that knew and understood you, that could recommend exactly what you needed, and that with a simple message could get you what you wanted??? Yep... neither do we. That is why at Yalo we are marrying the scale of digital commerce with the personalization and simplicity of conversations to help companies delight their users.We know that traditional SAAS companies focus on first world problems... we don't! Having started in Latin America, our roots are in Emerging Markets and therefore we care about bringing amazing experiences to a population that traditionally has been underserved, such as the small shop owner in Brazil that is ordering online for the first time.Come Join us in our mission of improving billions of lives through the power of conversational commerce!Your mission? 🚀TheQA Automation Engineeris responsible for planning to deliver high-quality automated and manual tests to ensure the software fits the specifications and can be used by millions of people daily.We believe that the person in this positionneeds to elevate the bar on quality and suggest best practices to co-creating the area framework, tools, process, KPI’s, and documents.What are the responsibilities for this role?Evaluate software for error and stability issuesDevelop testing strategies and analysis for software,by creating detailed, comprehensive, and well-structured test plans and cases based on the requirement analysis and use case documents.Design, develop and execute automation scripts.Develop and conduct detailed automated and manual testing for pre-release and post-release products, and new and existing applications to meet customer needs.Analyze test results and communicate technical and non-technical findings and create/support a real-time dashboard to provide feedbackDocument bugs and monitor debugging to troubleshoot issuesDefine test frameworks, test preconditions and assist on branching strategy for high quality automation deliverablesHelp design and develop pipeline for Continuous Testing and IntegrationDesign and Implement Testing DataCollaborate with developers in reviewing unit test and integration results for coverage analysisAvoid repetitive testing tasksReview the code to build an effective automation suiteGuarantee test coverage and execution of Unit, Integration, Acceptance, System, Regression, UAT, Security, and Performance are metImprove existing test infrastructure or create new test infrastructure to increase efficiency and productivity in test case development, scheduling, or deployment.Guarantee system is meeting performance, observability, security and functional criteriaJob RequirementsAt least 3 years of experience as a QA Engineer or similar role.2 to 3 years of experience in developing test automation (UAT, functional, performance, load and smoke tests)Experience performing automated testing for APIs and web applications2 years of working experience with git/git-flow.Intermediate experience with testing tools like Selenium, Cypress, TestNG, JMeter or similar.Javascript ideally.Working experience with Agile methodologies.Solid understanding of QA methodologies, including planning and strategy design.Bachelor’s degree in Computer Science, Engineering or a related field.Nice to haveFamiliar with CI/CD tools and process and Docker containers.Knowledge about shift-left testingISTQB CertificationExperience with PlaywrightSoft Skills That Matter To UsUnwavering passion for, and focus on, polished product, engineering excellence and productivity.Enjoy thinking through complex problems and system interaction to find gaps, edge cases and failure modes.Willingness to learn.Analytical mind and problem-solvingOwnershipAttention to detailService-oriented personalityStrong verbal and written communicationWhat do we offer?Unlimited PTO policyCompetitive rewards on the market rangeFlexible time (driven by results)Start-up environmentInternational teamworkYou and nothing else limit your career hereWe care,We keep it simple,We make it happen,We strive for excellence.At Yalo, we are dedicated to creating a workplace that embodies our core values: caring, initiative, excellence, and simplicity. We believe in the power of diversity and inclusivity, where everyone's unique perspectives, experiences, and talents contribute to our collective success. As we embrace and respect our differences, we strive to create something extraordinary for the benefit of all.We are proud to be an Equal Opportunity Employer, providing equal opportunities to individuals regardless of race, color, religion, national or ethnic origin, gender, sexual orientation, gender identity or expression, age, disability, protected veteran status, or any other legally protected characteristic. Our commitment to fairness and equality is a fundamental pillar of our company.At Yalo, we uphold a culture of excellence. We constantly challenge ourselves to go above and beyond, delivering remarkable results and driving innovation. We encourage each team member to take initiative and make things happen, empowering them to bring their best ideas forward and contribute to our shared goals.
+
+
+
+
+
+
+
+
+
+
+Your mission? 🚀
+
+
+QA Automation Engineer
+
+
+
+
+
+needs to elevate the bar on quality and suggest best practices to co-creating the area framework, tools, process, KPI’s, and documents.
+
+
+What are the responsibilities for this role?
+
+
+
+Evaluate software for error and stability issuesDevelop testing strategies and analysis for software,by creating detailed, comprehensive, and well-structured test plans and cases based on the requirement analysis and use case documents.Design, develop and execute automation scripts.Develop and conduct detailed automated and manual testing for pre-release and post-release products, and new and existing applications to meet customer needs.Analyze test results and communicate technical and non-technical findings and create/support a real-time dashboard to provide feedbackDocument bugs and monitor debugging to troubleshoot issuesDefine test frameworks, test preconditions and assist on branching strategy for high quality automation deliverablesHelp design and develop pipeline for Continuous Testing and IntegrationDesign and Implement Testing DataCollaborate with developers in reviewing unit test and integration results for coverage analysisAvoid repetitive testing tasksReview the code to build an effective automation suiteGuarantee test coverage and execution of Unit, Integration, Acceptance, System, Regression, UAT, Security, and Performance are metImprove existing test infrastructure or create new test infrastructure to increase efficiency and productivity in test case development, scheduling, or deployment.Guarantee system is meeting performance, observability, security and functional criteria
+Evaluate software for error and stability issues
+Evaluate software for error and stability issues
+Develop testing strategies and analysis for software,by creating detailed, comprehensive, and well-structured test plans and cases based on the requirement analysis and use case documents.
+Develop testing strategies and analysis for software,by creating detailed, comprehensive, and well-structured test plans and cases based on the requirement analysis and use case documents.
+Design, develop and execute automation scripts.
+Design, develop and execute automation scripts.
+Develop and conduct detailed automated and manual testing for pre-release and post-release products, and new and existing applications to meet customer needs.
+Develop and conduct detailed automated and manual testing for pre-release and post-release products, and new and existing applications to meet customer needs.
+Analyze test results and communicate technical and non-technical findings and create/support a real-time dashboard to provide feedback
+Analyze test results and communicate technical and non-technical findings and create/support a real-time dashboard to provide feedback
+Document bugs and monitor debugging to troubleshoot issues
+Document bugs and monitor debugging to troubleshoot issues
+Define test frameworks, test preconditions and assist on branching strategy for high quality automation deliverables
+Define test frameworks, test preconditions and assist on branching strategy for high quality automation deliverables
+Help design and develop pipeline for Continuous Testing and Integration
+Help design and develop pipeline for Continuous Testing and Integration
+Design and Implement Testing Data
+Design and Implement Testing Data
+
+Collaborate with developers in reviewing unit test and integration results for coverage analysis
+Collaborate with developers in reviewing unit test and integration results for coverage analysis
+Avoid repetitive testing tasks
+Avoid repetitive testing tasks
+
+Review the code to build an effective automation suite
+Review the code to build an effective automation suite
+Guarantee test coverage and execution of Unit, Integration, Acceptance, System, Regression, UAT, Security, and Performance are met
+Guarantee test coverage and execution of Unit, Integration, Acceptance, System, Regression, UAT, Security, and Performance are met
+Improve existing test infrastructure or create new test infrastructure to increase efficiency and productivity in test case development, scheduling, or deployment.
+Improve existing test infrastructure or create new test infrastructure to increase efficiency and productivity in test case development, scheduling, or deployment.
+Guarantee system is meeting performance, observability, security and functional criteria
+Guarantee system is meeting performance, observability, security and functional criteria
+
+
+
+Job Requirements
+
+
+
+
+At least 3 years of experience as a QA Engineer or similar role.2 to 3 years of experience in developing test automation (UAT, functional, performance, load and smoke tests)Experience performing automated testing for APIs and web applications2 years of working experience with git/git-flow.Intermediate experience with testing tools like Selenium, Cypress, TestNG, JMeter or similar.Javascript ideally.Working experience with Agile methodologies.Solid understanding of QA methodologies, including planning and strategy design.Bachelor’s degree in Computer Science, Engineering or a related field.
+At least 3 years of experience as a QA Engineer or similar role.
+At least 3 years of experience as a QA Engineer or similar role.
+2 to 3 years of experience in developing test automation (UAT, functional, performance, load and smoke tests)
+2 to 3 years of experience in developing test automation (UAT, functional, performance, load and smoke tests)
+Experience performing automated testing for APIs and web applications
+Experience performing automated testing for APIs and web applications
+2 years of working experience with git/git-flow.
+2 years of working experience with git/git-flow.
+Intermediate experience with testing tools like Selenium, Cypress, TestNG, JMeter or similar.
+Intermediate experience with testing tools like Selenium, Cypress, TestNG, JMeter or similar.
+Javascript ideally.
+Javascript ideally.
+Javascript ideally.
+Working experience with Agile methodologies.
+Working experience with Agile methodologies.
+Solid understanding of QA methodologies, including planning and strategy design.
+Solid understanding of QA methodologies, including planning and strategy design.
+Bachelor’s degree in Computer Science, Engineering or a related field.
+Bachelor’s degree in Computer Science, Engineering or a related field.
+
+
+Nice to have
+
+
+
+Familiar with CI/CD tools and process and Docker containers.Knowledge about shift-left testingISTQB CertificationExperience with Playwright
+Familiar with CI/CD tools and process and Docker containers.
+Familiar with CI/CD tools and process and Docker containers.
+Knowledge about shift-left testing
+Knowledge about shift-left testing
+ISTQB Certification
+ISTQB Certification
+Experience with Playwright
+Experience with Playwright
+
+
+
+Soft Skills That Matter To Us
+
+
+
+Unwavering passion for, and focus on, polished product, engineering excellence and productivity.Enjoy thinking through complex problems and system interaction to find gaps, edge cases and failure modes.Willingness to learn.Analytical mind and problem-solvingOwnershipAttention to detailService-oriented personalityStrong verbal and written communication
+Unwavering passion for, and focus on, polished product, engineering excellence and productivity.
+Unwavering passion for, and focus on, polished product, engineering excellence and productivity.
+Enjoy thinking through complex problems and system interaction to find gaps, edge cases and failure modes.
+Enjoy thinking through complex problems and system interaction to find gaps, edge cases and failure modes.
+Willingness to learn.
+Willingness to learn.
+Analytical mind and problem-solving
+Analytical mind and problem-solving
+Ownership
+Ownership
+Attention to detail
+Attention to detail
+Service-oriented personality
+Service-oriented personality
+Strong verbal and written communication
+Strong verbal and written communication
+
+
+
+What do we offer?
+
+
+
+
+Unlimited PTO policyCompetitive rewards on the market rangeFlexible time (driven by results)Start-up environmentInternational teamworkYou and nothing else limit your career here
+Unlimited PTO policy
+Unlimited PTO policy
+Competitive rewards on the market range
+Competitive rewards on the market range
+Flexible time (driven by results)
+Flexible time (driven by results)
+Start-up environment
+Start-up environment
+International teamwork
+International teamwork
+You and nothing else limit your career here
+You and nothing else limit your career here
+
+
+
+We care,
+
+
+We keep it simple,
+
+
+We make it happen,
+
+
+We strive for excellence.
+
+
+
+
+
+
+

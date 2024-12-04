@@ -1,0 +1,86 @@
+link-https://www.linkedin.com/jobs/view/4039799843/?eBP=CwEAAAGS7g-2lKtRyWLUyDyKeByh1hb8txiVRKZXnizU1BMFLuXoHXEq5c_ZfwDOoV6H_IIoDCjxRp5scPHLKcB9IZxudX4qn-TM7ocYakCWNXGjuDYkYaehwiPNIyrzEMhF-X0MTedg7C2vom8RfBLopF3Y9a7zunSd3bMwsXobANNIgnOqphTiCqulUatT6GVCR9McIFY73mZ8rucvuYc7DLNeUsn3QYp_19FOt1wOVI2-MyNDOsqIc89NOsW9ThUArVdkETBdHU7SuUTqhkFS39qBrzLniz-Osy_yAVb8NbldmrD0kY1T3W5vtHm5UvPY4tL87tJbSuoG7Ouu2Veb9Os2atdgSltpWt7-JBMfMtnJzusrG4Otn9Q-oQhNarPd4y6R4NT8nWDV7cAf89WxmFi2hzb7l1AW9BBgky5KtaQxXT6Zoc_ov8mljP9Tlqiz756qyYC3TfLzpCfanVNK0GhT36Xg6IA&refId=PKXH1xmTSoCQRkp4wX1P5A%3D%3D&trackingId=j6EF7dkTVdPUiyL%2FfWOeOw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor FullStack Node.Js nível Sênior - Híbrido - Rio de Janeiro
+Sobre a vaga
+IntroduçãoNEORIS é um Acelerador Digital que ajuda as empresas a entrar no futuro.Combinamos um profundo conhecimento da indústria com a mais alta expertise tecnológica do mercado para criar soluções customizadas que nos permitem superar desafios de negócios e gerar crescimento disruptivo.Temos 20 anos de experiência como Parceiros Digitais de algumas das maiores empresas do mundo. Nossos clientes são de setores como Serviços Financeiros, Manufatura, Telecomunicações e Saúde. Também temos clientes em Agronegócios, Utilidades e Materiais de Construção.Somos mais de 4.000 profissionais em 11 países, incluindo México, Estados Unidos, Espanha e Argentina. Temos uma cultura de startup multicultural onde cultivamos inovação, aprendizado contínuo para criar soluções de alto valor para nossos clientes.Atualmente na NEORIS, estamos buscando um(a)Full Stack Node.js nível Sênior - Vaga Híbrida - Rio de Janeiropara ingressar em nosso time.Requisitos Da VagaExperiência em REST escaláveis em Node.js e seus frameworks e React.js;Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)Experiência em computação na nuvem e serviços cloud (AWS/Azure).Experiência com rotinas ágeis (SCRUM/Kanban).DiferencialExperiência prévia com mensageria (kafka/rabbitMQ).Experiência com arquitetura padrão MVCConhecimentos de ferramentas de autenticação (oAuth/JWT)Vaga Híbrida - Rio de Janeiro.Esta vaga está aberta à aplicação de todas as pessoas - independentemente de suas características ou condições humanas quanto à etnia, gênero, orientação sexual, acessibilidade, cultural, social ou de qualquer outro fator.Todas as nossas vagas estão, e sempre estarão abertas para pessoas com deficiência (PcD)Temos o compromisso de construir um ambiente cada vez mais diverso e inclusivo.Valorizamos a Diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times.🌈OferecemosAmbiente de trabalho dinâmicoOportunidades de desenvolvimentoVale Refeição;Vale Alimentação;Previdência Privada;Plano de Saúde;Plano Odontológico;Seguro de Vida;Aulas de Inglês/Espanhol;Gympass;
+Introdução
+
+
+
+
+
+
+
+
+
+
+
+Full Stack Node.js nível Sênior - Vaga Híbrida - Rio de Janeiro
+
+
+
+Requisitos Da Vaga
+
+
+Experiência em REST escaláveis em Node.js e seus frameworks e React.js;Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)Experiência em computação na nuvem e serviços cloud (AWS/Azure).Experiência com rotinas ágeis (SCRUM/Kanban).
+Experiência em REST escaláveis em Node.js e seus frameworks e React.js;
+Experiência em REST escaláveis em Node.js e seus frameworks e React.js;
+Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)
+Experiência com bancos de dados relacional (PostgreSQL/MySQL) e não-relacional (MongoDB, Firebase)
+Experiência em computação na nuvem e serviços cloud (AWS/Azure).
+Experiência em computação na nuvem e serviços cloud (AWS/Azure).
+Experiência com rotinas ágeis (SCRUM/Kanban).
+Experiência com rotinas ágeis (SCRUM/Kanban).
+
+
+Diferencial
+
+
+Experiência prévia com mensageria (kafka/rabbitMQ).Experiência com arquitetura padrão MVCConhecimentos de ferramentas de autenticação (oAuth/JWT)
+Experiência prévia com mensageria (kafka/rabbitMQ).
+Experiência prévia com mensageria (kafka/rabbitMQ).
+Experiência com arquitetura padrão MVC
+Experiência com arquitetura padrão MVC
+Conhecimentos de ferramentas de autenticação (oAuth/JWT)
+Conhecimentos de ferramentas de autenticação (oAuth/JWT)
+
+
+Vaga Híbrida - Rio de Janeiro.
+
+
+Esta vaga está aberta à aplicação de todas as pessoas - independentemente de suas características ou condições humanas quanto à etnia, gênero, orientação sexual, acessibilidade, cultural, social ou de qualquer outro fator.Todas as nossas vagas estão, e sempre estarão abertas para pessoas com deficiência (PcD)Temos o compromisso de construir um ambiente cada vez mais diverso e inclusivo.Valorizamos a Diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times.
+
+
+
+
+
+
+🌈
+
+
+Oferecemos
+
+
+Ambiente de trabalho dinâmicoOportunidades de desenvolvimentoVale Refeição;Vale Alimentação;Previdência Privada;Plano de Saúde;Plano Odontológico;Seguro de Vida;Aulas de Inglês/Espanhol;Gympass;
+Ambiente de trabalho dinâmico
+Ambiente de trabalho dinâmico
+Oportunidades de desenvolvimento
+Oportunidades de desenvolvimento
+Vale Refeição;
+Vale Refeição;
+Vale Alimentação;
+Vale Alimentação;
+Previdência Privada;
+Previdência Privada;
+Plano de Saúde;
+Plano de Saúde;
+Plano Odontológico;
+Plano Odontológico;
+Seguro de Vida;
+Seguro de Vida;
+Aulas de Inglês/Espanhol;
+Aulas de Inglês/Espanhol;
+Gympass;
+Gympass;
+
+

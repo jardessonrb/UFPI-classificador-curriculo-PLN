@@ -1,0 +1,124 @@
+link-https://www.linkedin.com/jobs/view/3876224896/?eBP=CwEAAAGS7kaWvJva9gB5OMy66hC-zDb3RMfvtVbai-fFLLu51mi-UN8sbXN3Dz2I2-R96eXUJyNFCpPu4VYOS1lZCi2gwgIuhELP6QL94sG6Dbm9stuzVtH-IjMpDdqJ5Bjpr2j_l3HU6iHLGzZ5dCs0L9DJSS0KiiqWvpZNuiVeExkCWaFBBT-JrDEOFLRMy6B-5DYu4kSlOoZRBJBnYMJR5A_7SibQGbCk_9aAPGLGv-IYAaDTroxrlNPAjjCVhvsMmWhKkmYGTHdyQFnxCbafoLbZoYbopmzhCDKZ9AQ4LnQj2c2DrxwVd6V5Hp82YkfQAVVQpN54b88LnhvMjR6U5puGYDN67COSYtinniYMLCWHH_N-jWnzvs20UWKj9oGhwVn9Gu2EGmo8pe9K1BPT0zxcI2m0E5FYImiwaBbJsHK8dnjqdBvZYu7Kg4baKL3PkcIBOggV_MvWuK7qI9MqxYm9PRmEYMn6Rb10gvdD2BBVFi0SJYzbx7ek1kRTj6ts9fcEpZAgEkik&refId=y3v09vom4ZilCo%2B5m9ToEQ%3D%3D&trackingId=vGitOqRPq%2F5NulHJ77O1Bw%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr Salesforce QA Analyst
+Sobre a vaga
+An extraordinarily talented group of individuals work together every day to drive TNS' success, from both professional and personal perspectives. Come join the excellence!OverviewTNS has an excellent opportunity for a Sr Network Engineer! This role reports in to our Global Network Infrastructure Engineering Department and you will be responsible for providing leadership to a system-wide/cross functional team. Planning integration and implementation of new technology and guiding/contributing to the direction of multiple projects.ResponsibilitiesJob responsibilities:Salesforce platform Quality Assurance testing including Sales Cloud, Service Cloud, and Field Service with CPQ (Expedite Commerce) and Logistics (Rootstock) managed packages and API integrations;Build test cases, run functional and regression tests and document results;Collaborate with cross application teams on continuous improvements to end-to-end Agile process (from grooming through deployment);Analyze and recreate defects during User Acceptance Test (UAT);Proactively identify and mitigate quality risks and help remove obstacles to release;Collaborate with cross functional teams to build and improve QA processes across all functions within Salesforce and connected products;Continuously improve testing processes, tools and documentation. Drive efficiency through quality with measurable results;Extend successful processes and tools across other business applications as required;Provide suggestions through retrospective.Experience & Education RequiredA Bachelors degree in Computer Engineering;5+ years of Software Testing;Have a knack for breaking the system in testing and flush out software bugs. Ability to think of edge-case scenarios and performing deep results analysis;Familiar with SDLC/STLC, Scrum or Agile development with GIT source control and implement DevOps pipelines;Strong communication skills;Strong English language skills (verbal and written);Interest in developing skills in back office applications;Proven ability to work collegially with stakeholders and team members;Ability to solve problems independently while also knowing when to escalate/seek guidance;A high-level understanding of business applications such as CRM, ERP, Billing, and/or Operational Support Systems.Experience & Education PreferredExperience with ITIL/ITSM processes and SDLC best practices;Experience working in SaaS industry;Experience participating with Agile/ Scrum methodology preferred;Experience with Jenkins and Selenium test automation software;Passion to work within a fast paced, high energy, high tech environment.Other ConsiderationsPrior experience with additional business applications; Finance/HR ERP (Workday), Integrations/RPA (MuleSoft), Operational Support Systems (Remedy).QualificationsBenefits:Medical and odontologic assistence;Life insurance;Meal ticket;Gympass;Totalpass;LinkedIn Learning;EAP – Employee Assistance Program;Scout – Referral Program;Birthday Day Off;Career Mentorship;Connect with HR;Wedding gift.If you are passionate about technology, love personal growth and opportunity, come see what TNS is all about!TNS is an equal opportunity employer. TNS evaluates qualified applicants without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity or expression, protected veteran status, disability/handicap status or any other legally protected characteristic.
+
+
+Overview
+
+
+
+
+Responsibilities
+
+
+Job responsibilities:
+
+
+Salesforce platform Quality Assurance testing including Sales Cloud, Service Cloud, and Field Service with CPQ (Expedite Commerce) and Logistics (Rootstock) managed packages and API integrations;Build test cases, run functional and regression tests and document results;Collaborate with cross application teams on continuous improvements to end-to-end Agile process (from grooming through deployment);Analyze and recreate defects during User Acceptance Test (UAT);Proactively identify and mitigate quality risks and help remove obstacles to release;Collaborate with cross functional teams to build and improve QA processes across all functions within Salesforce and connected products;Continuously improve testing processes, tools and documentation. Drive efficiency through quality with measurable results;Extend successful processes and tools across other business applications as required;Provide suggestions through retrospective.
+Salesforce platform Quality Assurance testing including Sales Cloud, Service Cloud, and Field Service with CPQ (Expedite Commerce) and Logistics (Rootstock) managed packages and API integrations;
+Salesforce platform Quality Assurance testing including Sales Cloud, Service Cloud, and Field Service with CPQ (Expedite Commerce) and Logistics (Rootstock) managed packages and API integrations;
+Build test cases, run functional and regression tests and document results;
+Build test cases, run functional and regression tests and document results;
+Collaborate with cross application teams on continuous improvements to end-to-end Agile process (from grooming through deployment);
+Collaborate with cross application teams on continuous improvements to end-to-end Agile process (from grooming through deployment);
+Analyze and recreate defects during User Acceptance Test (UAT);
+Analyze and recreate defects during User Acceptance Test (UAT);
+Proactively identify and mitigate quality risks and help remove obstacles to release;
+Proactively identify and mitigate quality risks and help remove obstacles to release;
+Collaborate with cross functional teams to build and improve QA processes across all functions within Salesforce and connected products;
+Collaborate with cross functional teams to build and improve QA processes across all functions within Salesforce and connected products;
+Continuously improve testing processes, tools and documentation. Drive efficiency through quality with measurable results;
+Continuously improve testing processes, tools and documentation. Drive efficiency through quality with measurable results;
+Extend successful processes and tools across other business applications as required;
+Extend successful processes and tools across other business applications as required;
+Provide suggestions through retrospective.
+Provide suggestions through retrospective.
+
+
+Experience & Education Required
+
+
+A Bachelors degree in Computer Engineering;5+ years of Software Testing;Have a knack for breaking the system in testing and flush out software bugs. Ability to think of edge-case scenarios and performing deep results analysis;Familiar with SDLC/STLC, Scrum or Agile development with GIT source control and implement DevOps pipelines;Strong communication skills;Strong English language skills (verbal and written);Interest in developing skills in back office applications;Proven ability to work collegially with stakeholders and team members;Ability to solve problems independently while also knowing when to escalate/seek guidance;A high-level understanding of business applications such as CRM, ERP, Billing, and/or Operational Support Systems.
+A Bachelors degree in Computer Engineering;
+A Bachelors degree in Computer Engineering;
+5+ years of Software Testing;
+5+ years of Software Testing;
+Have a knack for breaking the system in testing and flush out software bugs. Ability to think of edge-case scenarios and performing deep results analysis;
+Have a knack for breaking the system in testing and flush out software bugs. Ability to think of edge-case scenarios and performing deep results analysis;
+Familiar with SDLC/STLC, Scrum or Agile development with GIT source control and implement DevOps pipelines;
+Familiar with SDLC/STLC, Scrum or Agile development with GIT source control and implement DevOps pipelines;
+Strong communication skills;
+Strong communication skills;
+Strong English language skills (verbal and written);
+Strong English language skills (verbal and written);
+Interest in developing skills in back office applications;
+Interest in developing skills in back office applications;
+Proven ability to work collegially with stakeholders and team members;
+Proven ability to work collegially with stakeholders and team members;
+Ability to solve problems independently while also knowing when to escalate/seek guidance;
+Ability to solve problems independently while also knowing when to escalate/seek guidance;
+A high-level understanding of business applications such as CRM, ERP, Billing, and/or Operational Support Systems.
+A high-level understanding of business applications such as CRM, ERP, Billing, and/or Operational Support Systems.
+
+
+Experience & Education Preferred
+
+
+Experience with ITIL/ITSM processes and SDLC best practices;Experience working in SaaS industry;Experience participating with Agile/ Scrum methodology preferred;Experience with Jenkins and Selenium test automation software;Passion to work within a fast paced, high energy, high tech environment.
+Experience with ITIL/ITSM processes and SDLC best practices;
+Experience with ITIL/ITSM processes and SDLC best practices;
+Experience working in SaaS industry;
+Experience working in SaaS industry;
+Experience participating with Agile/ Scrum methodology preferred;
+Experience participating with Agile/ Scrum methodology preferred;
+Experience with Jenkins and Selenium test automation software;
+Experience with Jenkins and Selenium test automation software;
+Passion to work within a fast paced, high energy, high tech environment.
+Passion to work within a fast paced, high energy, high tech environment.
+
+
+Other Considerations
+
+
+Prior experience with additional business applications; Finance/HR ERP (Workday), Integrations/RPA (MuleSoft), Operational Support Systems (Remedy).
+Prior experience with additional business applications; Finance/HR ERP (Workday), Integrations/RPA (MuleSoft), Operational Support Systems (Remedy).
+Prior experience with additional business applications; Finance/HR ERP (Workday), Integrations/RPA (MuleSoft), Operational Support Systems (Remedy).
+
+
+Qualifications
+
+
+Benefits:
+
+
+Medical and odontologic assistence;Life insurance;Meal ticket;Gympass;Totalpass;LinkedIn Learning;EAP – Employee Assistance Program;Scout – Referral Program;Birthday Day Off;Career Mentorship;Connect with HR;Wedding gift.
+Medical and odontologic assistence;
+Medical and odontologic assistence;
+Life insurance;
+Life insurance;
+Meal ticket;
+Meal ticket;
+Gympass;
+Gympass;
+Totalpass;
+Totalpass;
+LinkedIn Learning;
+LinkedIn Learning;
+EAP – Employee Assistance Program;
+EAP – Employee Assistance Program;
+Scout – Referral Program;
+Scout – Referral Program;
+Birthday Day Off;
+Birthday Day Off;
+Career Mentorship;
+Career Mentorship;
+Connect with HR;
+Connect with HR;
+Wedding gift.
+Wedding gift.
+
+
+
+

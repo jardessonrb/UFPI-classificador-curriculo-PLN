@@ -1,0 +1,82 @@
+link-https://www.linkedin.com/jobs/view/4052192179/?eBP=CwEAAAGS7kbPsRCsp47UUKDi-hlAFSGP7enSSZbyv9CJ1Cee2_cjCaZnbsmUOwQ2WyHOoVNzQ3Jo0PSVTWHPW0rx9U__bA3qjqWdHjKnF7tY_1Edhib6osHd7kte5GkBcW1qIl7wOfWM3WAMmn81ssrRShQXyv1dbkS-TenVsGnHzpgOoqQbGqQwiJiU5mPqlG1-9YLtvlVDiSEEo33reW6WkhpWAerVT2jeRKZPw87Z_b9XgA6lJeIeGf3iga7VIwVTq3-UfG28ErLGVYH8Aeumj9pzKsBmNEkASRgbaxkqQoUGUAN6PAavq8_tfQEjl80uzCJCWRML9R36XwjFaLbjUHpBgXh3JFoUkVAW1Rrs7enD4Dh3HA0sKJZrGQnrEXDBtSkuELd6dZMMV4IcDdI5zN-RBEinS0X6OJhcVDeOE8IK5jxUWeicQz_qC98xmyGrrHNs14es2nZOk9rHeStkjVYsfywX0LsgiMIFHUeD2yDyKLa_r5tVoI1EAkfA8Tx-tHE6SLs&refId=hIPydbMAq37OKrfOXOIVqg%3D%3D&trackingId=%2F0Ujwpn%2F07EAsq%2Fir4g07g%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior QA Automation Engineer
+Sobre a vaga
+Upgrade is a fintech company that provides affordable and responsible credit, mobile banking, and payment products to everyday consumers. We were the fastest growing company in the Americas last year according to the Financial Times and Upgrade Card was the fastest growing credit card in America two years in a row. We have delivered over $31 billion in affordable and responsible credit to our 5M customers. The company is backed by some of the most prominent technology investors and was recently valued at $6.3B.We have built an energizing, collaborative and inclusive culture where team members help each other, learn and innovate to move the company and its customers in the right direction, and own the outcome of their efforts.Upgrade has been named a “Best Place to Work in the Bay Area” three years in a row, “Top Companies to work for in Arizona” and one of the "Best Engineering Department" awarded annually by Comparably. We've also received recognition for being a best company for Diversity, Women, Culture, and Veterans.We are looking for new team members who get excited about designing and delivering new and better products to join a team of 1600 talented and dedicated professionals. Come work with us if you like to tackle big problems and make a meaningful difference in people's lives.About the Role:Upgrade is a US based company with numerous fully remote engineering team members across Brazil. Our QA team has end-to-end ownership to build a quality product. Through automation and functional testing, they validate a variety of products to offer our customers a seamless banking experience. As a QA Engineer, you will work directly with our product teams and will participate in application specification reviews and architectural design sessions by providing input from a quality standpoint. You will also identify testing strategies for various features and functionalities. Within your first year, you will develop an understanding of how to deliver high performing software at pace of development. You will work in an environment that promotes ownership at all levels including configuring and monitoring apps in production.Our Core Technologies Include:Java, Selenium Webdriver, TestNG, Maven, Git, Jenkins, ArgoCD, SQL, REST Assured, SumoLogic, Docker, Kubernetes, Gatling, LinuxWhat You’ll Do:Execute functional/performance tests by spinning up disposable environments on demand to deploy microservices with different versions and configurations, and customize database contentDevelop test automation at the pace of feature development utilizing our functional and performance test frameworksCustomize, configure, patch services, and deploy infrastructure and code changes all the way through to productionAnalyze log files and troubleshoot production issues by automating and reproducing them in a non-production environmentPlan, create, and implement strategies/solutions for feature validations and test automationWhat We Look For:Ability to develop test automation in Java using Selenium to utilize Integrated Development environments (IDE) such as IntelliJ or EclipseExperience in deploying services in various environments such as Kubernetes, using deployment tools like ArgoCD and JenkinsCapability to improve efficiency of existing test infrastructure using Docker, Selenium and headless browser executionsFamiliarity with log aggregators such as SumoLogic, Kibana, or Splunk, and app monitoring tools such as Honeycomb, or GrafanaExperience writing SQL queries and working in a cloud-based environment (AWS)Passion for automating tests and delivering high quality features in a fast paced environmentComfortable working in Agile methodology
+Upgrade is a fintech company that provides affordable and responsible credit, mobile banking, and payment products to everyday consumers. We were the fastest growing company in the Americas last year according to the Financial Times and Upgrade Card was the fastest growing credit card in America two years in a row. We have delivered over $31 billion in affordable and responsible credit to our 5M customers. The company is backed by some of the most prominent technology investors and was recently valued at $6.3B.
+Upgrade is a fintech company that provides affordable and responsible credit, mobile banking, and payment products to everyday consumers. We were the fastest growing company in the Americas last year according to the Financial Times and Upgrade Card was the fastest growing credit card in America two years in a row. We have delivered over $31 billion in affordable and responsible credit to our 5M customers. The company is backed by some of the most prominent technology investors and was recently valued at $6.3B.
+Upgrade is a fintech company that provides affordable and responsible credit, mobile banking, and payment products to everyday consumers. We were the fastest growing company in the Americas last year according to the Financial Times and Upgrade Card was the fastest growing credit card in America two years in a row. We have delivered over $31 billion in affordable and responsible credit to our 5M customers. The company is backed by some of the most prominent technology investors and was recently valued at $6.3B.
+
+
+
+We have built an energizing, collaborative and inclusive culture where team members help each other, learn and innovate to move the company and its customers in the right direction, and own the outcome of their efforts.
+We have built an energizing, collaborative and inclusive culture where team members help each other, learn and innovate to move the company and its customers in the right direction, and own the outcome of their efforts.
+We have built an energizing, collaborative and inclusive culture where team members help each other, learn and innovate to move the company and its customers in the right direction, and own the outcome of their efforts.
+
+
+
+Upgrade has been named a “Best Place to Work in the Bay Area” three years in a row, “Top Companies to work for in Arizona” and one of the "Best Engineering Department" awarded annually by Comparably. We've also received recognition for being a best company for Diversity, Women, Culture, and Veterans.
+Upgrade has been named a “Best Place to Work in the Bay Area” three years in a row, “Top Companies to work for in Arizona” and one of the "Best Engineering Department" awarded annually by Comparably. We've also received recognition for being a best company for Diversity, Women, Culture, and Veterans.
+Upgrade has been named a “Best Place to Work in the Bay Area” three years in a row, “Top Companies to work for in Arizona” and one of the "Best Engineering Department" awarded annually by Comparably. We've also received recognition for being a best company for Diversity, Women, Culture, and Veterans.
+
+
+
+We are looking for new team members who get excited about designing and delivering new and better products to join a team of 1600 talented and dedicated professionals. Come work with us if you like to tackle big problems and make a meaningful difference in people's lives.
+We are looking for new team members who get excited about designing and delivering new and better products to join a team of 1600 talented and dedicated professionals. Come work with us if you like to tackle big problems and make a meaningful difference in people's lives.
+We are looking for new team members who get excited about designing and delivering new and better products to join a team of 1600 talented and dedicated professionals. Come work with us if you like to tackle big problems and make a meaningful difference in people's lives.
+
+
+
+About the Role:
+About the Role:
+About the Role:
+Upgrade is a US based company with numerous fully remote engineering team members across Brazil. Our QA team has end-to-end ownership to build a quality product. Through automation and functional testing, they validate a variety of products to offer our customers a seamless banking experience. As a QA Engineer, you will work directly with our product teams and will participate in application specification reviews and architectural design sessions by providing input from a quality standpoint. You will also identify testing strategies for various features and functionalities. Within your first year, you will develop an understanding of how to deliver high performing software at pace of development. You will work in an environment that promotes ownership at all levels including configuring and monitoring apps in production.
+Upgrade is a US based company with numerous fully remote engineering team members across Brazil. Our QA team has end-to-end ownership to build a quality product. Through automation and functional testing, they validate a variety of products to offer our customers a seamless banking experience. As a QA Engineer, you will work directly with our product teams and will participate in application specification reviews and architectural design sessions by providing input from a quality standpoint. You will also identify testing strategies for various features and functionalities. Within your first year, you will develop an understanding of how to deliver high performing software at pace of development. You will work in an environment that promotes ownership at all levels including configuring and monitoring apps in production.
+
+
+
+Our Core Technologies Include:
+Our Core Technologies Include:
+Our Core Technologies Include:
+Java, Selenium Webdriver, TestNG, Maven, Git, Jenkins, ArgoCD, SQL, REST Assured, SumoLogic, Docker, Kubernetes, Gatling, Linux
+Java, Selenium Webdriver, TestNG, Maven, Git, Jenkins, ArgoCD, SQL, REST Assured, SumoLogic, Docker, Kubernetes, Gatling, Linux
+
+
+
+What You’ll Do:
+What You’ll Do:
+What You’ll Do:
+
+Execute functional/performance tests by spinning up disposable environments on demand to deploy microservices with different versions and configurations, and customize database contentDevelop test automation at the pace of feature development utilizing our functional and performance test frameworksCustomize, configure, patch services, and deploy infrastructure and code changes all the way through to productionAnalyze log files and troubleshoot production issues by automating and reproducing them in a non-production environmentPlan, create, and implement strategies/solutions for feature validations and test automation
+Execute functional/performance tests by spinning up disposable environments on demand to deploy microservices with different versions and configurations, and customize database content
+Execute functional/performance tests by spinning up disposable environments on demand to deploy microservices with different versions and configurations, and customize database content
+Develop test automation at the pace of feature development utilizing our functional and performance test frameworks
+Develop test automation at the pace of feature development utilizing our functional and performance test frameworks
+Customize, configure, patch services, and deploy infrastructure and code changes all the way through to production
+Customize, configure, patch services, and deploy infrastructure and code changes all the way through to production
+Analyze log files and troubleshoot production issues by automating and reproducing them in a non-production environment
+Analyze log files and troubleshoot production issues by automating and reproducing them in a non-production environment
+Plan, create, and implement strategies/solutions for feature validations and test automation
+Plan, create, and implement strategies/solutions for feature validations and test automation
+
+
+
+What We Look For:
+What We Look For:
+What We Look For:
+Ability to develop test automation in Java using Selenium to utilize Integrated Development environments (IDE) such as IntelliJ or EclipseExperience in deploying services in various environments such as Kubernetes, using deployment tools like ArgoCD and JenkinsCapability to improve efficiency of existing test infrastructure using Docker, Selenium and headless browser executionsFamiliarity with log aggregators such as SumoLogic, Kibana, or Splunk, and app monitoring tools such as Honeycomb, or GrafanaExperience writing SQL queries and working in a cloud-based environment (AWS)Passion for automating tests and delivering high quality features in a fast paced environmentComfortable working in Agile methodology
+Ability to develop test automation in Java using Selenium to utilize Integrated Development environments (IDE) such as IntelliJ or Eclipse
+Ability to develop test automation in Java using Selenium to utilize Integrated Development environments (IDE) such as IntelliJ or Eclipse
+Experience in deploying services in various environments such as Kubernetes, using deployment tools like ArgoCD and Jenkins
+Experience in deploying services in various environments such as Kubernetes, using deployment tools like ArgoCD and Jenkins
+Capability to improve efficiency of existing test infrastructure using Docker, Selenium and headless browser executions
+Capability to improve efficiency of existing test infrastructure using Docker, Selenium and headless browser executions
+Familiarity with log aggregators such as SumoLogic, Kibana, or Splunk, and app monitoring tools such as Honeycomb, or Grafana
+Familiarity with log aggregators such as SumoLogic, Kibana, or Splunk, and app monitoring tools such as Honeycomb, or Grafana
+Experience writing SQL queries and working in a cloud-based environment (AWS)
+Experience writing SQL queries and working in a cloud-based environment (AWS)
+
+Passion for automating tests and delivering high quality features in a fast paced environment
+Passion for automating tests and delivering high quality features in a fast paced environment
+Comfortable working in Agile methodology
+Comfortable working in Agile methodology

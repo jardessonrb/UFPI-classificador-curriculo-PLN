@@ -1,0 +1,141 @@
+link-https://www.linkedin.com/jobs/view/4056491240/?eBP=CwEAAAGS7kvwuzKXZx0SvBFUB6F5KMQi31oY01Zxx61K--n9BWlriVleLNXqoZSQFScvwua9i-BKaiR_x2ZKcIAg7aC0TR9H5rhNKOLzeHyej2glJTl1Tsw8DG-m06ikWZf4tfInvqeSOYChEcu4TWBqzg5FDQDM_iVl1dqTQeVs1yDNzThgWGuhaBwqiZtrwPcXboqIZtfGWbXTOr1mwiGd1fW-MHsXCS35XoOzvFEHCQd_e6pJqZhUKVAS1Uc7dr2wmRqijP2pF-wOWD4hl9T3X5qxlvN5ebaMahTViw-yWuAiNt1834U8Ck1TTrMlZlFuubOT5eoRciI60Q1NcIBGW5a91DWEKS8-lA4gUkaVsCN5kfHZ6Bxno1HZR0cAKZXP05l-h0vc8XsxEhfM5V_XI_p0gJYCKp1mLXh80u6UMndaXIlkmMApQHyL0AtKzve0g7si63UmXS60JWtms_q8xhl_oqE81NcKqOKIIjKjRVZNEETvjt0KroU&refId=lNkZ7WB16PqaLtMchSITbg%3D%3D&trackingId=zS%2FObp77uxtgRJMB3ZpXHQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Front End PL (Mobile e Web)
+Sobre a vaga
+Desenvolvedor Front-End PLEstamos em busca de um Desenvolvedor Front-End experiente para se juntar à nossa equipe. O candidato deve possuir um sólido conhecimento em React e TypeScript, além de demonstrar habilidades em diversas tecnologias e ferramentas relacionadas ao desenvolvimento de interfaces de usuário. Abaixo estão os requisitos técnicos e comportamentais necessários para a posição:Requisitos Técnicos Essenciais:Experiência comprovada no desenvolvimento de sistemas utilizandoReacteTypeScript.Conhecimento deHooks,Context APIe componentes funcionais;Experiência com ferramentas de testes unitários, comoJest,Testing Library,VitestingouCypress.Vivência no desenvolvimento de aplicações emNext.JS.Conhecimento em metodologias deUXe experiência com softwares de prototipagem comoFigma.Capacidade de consumirAPIs RESTful.Experiência comDocker,Pipelines,CI/CD(AWS, Google Cloud).Vivência no desenvolvimento de aplicações/arquitetura deMicro Front-End(Module Webpack, Single SPA, etc).Conhecimento doGite Controle de versão.Requisitos Comportamentais:Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento comReact.Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.Ser proativo na identificação de problemas e na proposição de soluções.Experiência com metodologias ágeis (Scrum,Kanban).Capacidade de dar e receber feedback de forma construtiva.Habilidade em fazer alinhamento com oProduct OwnereUX.Considerações Adicionais:Conhecimento em gerenciamento de estados globais comReduxe/ouZustand.Capacidade de desenvolver aplicações com foco em performance e escalabilidade.Experiência com frameworks de gráficos.O que oferecemos?Modelo híbrido (Florianópolis / SP (Capital))GympassAcesso livre a plataforma AluraModelo de contratação PJ
+Desenvolvedor Front-End PL
+Desenvolvedor Front-End PL
+Desenvolvedor Front-End PL
+Estamos em busca de um Desenvolvedor Front-End experiente para se juntar à nossa equipe. O candidato deve possuir um sólido conhecimento em React e TypeScript, além de demonstrar habilidades em diversas tecnologias e ferramentas relacionadas ao desenvolvimento de interfaces de usuário. Abaixo estão os requisitos técnicos e comportamentais necessários para a posição:
+Estamos em busca de um Desenvolvedor Front-End experiente para se juntar à nossa equipe. O candidato deve possuir um sólido conhecimento em React e TypeScript, além de demonstrar habilidades em diversas tecnologias e ferramentas relacionadas ao desenvolvimento de interfaces de usuário. Abaixo estão os requisitos técnicos e comportamentais necessários para a posição:
+
+
+
+Requisitos Técnicos Essenciais:
+Requisitos Técnicos Essenciais:
+Requisitos Técnicos Essenciais:
+Experiência comprovada no desenvolvimento de sistemas utilizandoReacteTypeScript.Conhecimento deHooks,Context APIe componentes funcionais;Experiência com ferramentas de testes unitários, comoJest,Testing Library,VitestingouCypress.Vivência no desenvolvimento de aplicações emNext.JS.Conhecimento em metodologias deUXe experiência com softwares de prototipagem comoFigma.Capacidade de consumirAPIs RESTful.Experiência comDocker,Pipelines,CI/CD(AWS, Google Cloud).Vivência no desenvolvimento de aplicações/arquitetura deMicro Front-End(Module Webpack, Single SPA, etc).Conhecimento doGite Controle de versão.
+Experiência comprovada no desenvolvimento de sistemas utilizandoReacteTypeScript.
+Experiência comprovada no desenvolvimento de sistemas utilizandoReacteTypeScript.
+
+React
+
+
+TypeScript
+Conhecimento deHooks,Context APIe componentes funcionais;
+Conhecimento deHooks,Context APIe componentes funcionais;
+
+Hooks
+
+Context API
+
+Experiência com ferramentas de testes unitários, comoJest,Testing Library,VitestingouCypress.
+Experiência com ferramentas de testes unitários, comoJest,Testing Library,VitestingouCypress.
+
+Jest
+
+Testing Library
+
+Vitesting
+
+
+Cypress
+Vivência no desenvolvimento de aplicações emNext.JS.
+Vivência no desenvolvimento de aplicações emNext.JS.
+
+Next.JS
+Conhecimento em metodologias deUXe experiência com softwares de prototipagem comoFigma.
+Conhecimento em metodologias deUXe experiência com softwares de prototipagem comoFigma.
+
+UX
+
+
+Figma
+Capacidade de consumirAPIs RESTful.
+Capacidade de consumirAPIs RESTful.
+
+APIs RESTful
+Experiência comDocker,Pipelines,CI/CD(AWS, Google Cloud).
+Experiência comDocker,Pipelines,CI/CD(AWS, Google Cloud).
+
+Docker
+
+Pipelines
+
+CI/CD
+
+Vivência no desenvolvimento de aplicações/arquitetura deMicro Front-End(Module Webpack, Single SPA, etc).
+Vivência no desenvolvimento de aplicações/arquitetura deMicro Front-End(Module Webpack, Single SPA, etc).
+
+Micro Front-End
+
+Conhecimento doGite Controle de versão.
+Conhecimento doGite Controle de versão.
+
+Git
+
+
+
+
+Requisitos Comportamentais:
+Requisitos Comportamentais:
+Requisitos Comportamentais:
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento comReact.Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.Ser proativo na identificação de problemas e na proposição de soluções.Experiência com metodologias ágeis (Scrum,Kanban).Capacidade de dar e receber feedback de forma construtiva.Habilidade em fazer alinhamento com oProduct OwnereUX.
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento comReact.
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento comReact.
+
+React
+Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.
+Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.
+Ser proativo na identificação de problemas e na proposição de soluções.
+Ser proativo na identificação de problemas e na proposição de soluções.
+Experiência com metodologias ágeis (Scrum,Kanban).
+Experiência com metodologias ágeis (Scrum,Kanban).
+Scrum
+
+Kanban
+Capacidade de dar e receber feedback de forma construtiva.
+Capacidade de dar e receber feedback de forma construtiva.
+Habilidade em fazer alinhamento com oProduct OwnereUX.
+Habilidade em fazer alinhamento com oProduct OwnereUX.
+
+Product Owner
+
+
+UX
+
+
+
+Considerações Adicionais:
+Considerações Adicionais:
+Considerações Adicionais:
+Conhecimento em gerenciamento de estados globais comReduxe/ouZustand.Capacidade de desenvolver aplicações com foco em performance e escalabilidade.Experiência com frameworks de gráficos.
+Conhecimento em gerenciamento de estados globais comReduxe/ouZustand.
+Conhecimento em gerenciamento de estados globais comReduxe/ouZustand.
+
+Redux
+
+
+Zustand
+Capacidade de desenvolver aplicações com foco em performance e escalabilidade.
+Capacidade de desenvolver aplicações com foco em performance e escalabilidade.
+Experiência com frameworks de gráficos.
+Experiência com frameworks de gráficos.
+
+
+
+O que oferecemos?
+O que oferecemos?
+O que oferecemos?
+Modelo híbrido (Florianópolis / SP (Capital))GympassAcesso livre a plataforma AluraModelo de contratação PJ
+Modelo híbrido (Florianópolis / SP (Capital))
+Modelo híbrido (Florianópolis / SP (Capital))
+Gympass
+Gympass
+Acesso livre a plataforma Alura
+Acesso livre a plataforma Alura
+Modelo de contratação PJ
+Modelo de contratação PJ
+
+
+

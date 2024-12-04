@@ -1,0 +1,262 @@
+link-https://www.linkedin.com/jobs/view/4057831315/?eBP=CwEAAAGS7hEA07tM6Vt0EueqE4hSOjwMAFMdfnsY5YiYtlUgpNncZjsFZMVTyeKXctjGT2rOU4lF0KAyJvlYsqQBG0C8jjS6oEogAHj4-HWDjRBf89WudQsm65sGXIwx00IewGsXg0_Zi8AROerx_0sfjVPUALYVYLePskyS-6ohR8mmr_iIis43o9DWH3hj-nXbM-JwUaa0w972CUeOcqfLwhv4af8TDr8YAyw4aZFvn8VQydMISTYy65_eygJs2QbvEe2I7s4gyh3TJAzQzEcyZgicsh0_Qvn7IcDhOudU1LwfKc9QCfv_2tRGBaBMOI7UdISgypoCgu-YzBoKJPbKJcG9jr3jHWLg-3ejc-GvShogxjCvZj0JCjGn8dgfSPohTKigxsk8WrZvLxFpzOEEB3YjnC9od7ckFpq3EXoAOZ7VPjLT1n9IgNQ2dblW34rga4jWaXkwAGlTTutkQSUbspTgWSFjKVwxARnMU77JtWl1rQvyeJaDZ9HS7082D9N8QJttWtA&refId=3YGLWg%2BYda%2B1JaFxHLGuSw%3D%3D&trackingId=d%2B4iDA3RJvCJXqqj1SPhaA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior  FullStack (Vue.js + Quarkus) Developer,  Brazil
+Sobre a vaga
+Nós somos especialistas emtech transformation, nós somos aCI&T.Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.MissãoUma ótima oportunidade técnica para lidar com novos desafios, tecnologias e protocolos. Como Desenvolvedor Sênior, você atuará junto com o time na jornada de transformação digital e DevSecOps, apoiando refinamentos técnicos, desenvolvendo APIs e micro front-ends de alta qualidade. Sua atuação será fundamental para manter a excelência nas entregas, realizando testes exploratórios, unitários, de componente e E2E de forma independente, assegurando a robustez e a confiabilidade das soluções implementadas.Responsabilidades- Desenvolver APIs usando Java com framework Quarkus.- Desenvolver BFF usandoNode.jscom framework Express.- Desenvolver front-ends usandoVue.js.- Apoiar na pirâmide de teste, incluindo automação de testes unitários e de integração.- Realizar integrações com sistemas de serviços usando comunicação REST ou SOAP.- Trabalhar com trunk-based usando Git.- Atuar em code reviews garantindo os design patterns, Clean Code e SOLID.- Apoiar na criação de documentos para refinamento técnico.Requisitos- Experiência em JAVA 8+.- Domínio do framework Quarkus.- Habilidade em desenvolvimento comVue.js.- Conhecimento em JavaScript.- Experiência comNode.jse Express.- Familiaridade com Git.Diferenciais- Mensageria Assíncrona (especialmente filas e protocolo AMQP).- Conhecimento em Azure Repos/Pipeline.- Experiência com Kubernetes e Docker.- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).- Experiência com bancos de dados em memória (especialmente Redis).- Conhecimento em metodologias ágeis (SCRUM).- Habilidade para entender requisitos de design, analytics e usabilidade.- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.- undamentos de arquitetura de micro-frontends.Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass/Wellhub- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreirasPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+
+tech transformation
+
+CI&T
+
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+
+
+
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:
+
+
+
+
+Missão
+Missão
+Missão
+Uma ótima oportunidade técnica para lidar com novos desafios, tecnologias e protocolos. Como Desenvolvedor Sênior, você atuará junto com o time na jornada de transformação digital e DevSecOps, apoiando refinamentos técnicos, desenvolvendo APIs e micro front-ends de alta qualidade. Sua atuação será fundamental para manter a excelência nas entregas, realizando testes exploratórios, unitários, de componente e E2E de forma independente, assegurando a robustez e a confiabilidade das soluções implementadas.
+Uma ótima oportunidade técnica para lidar com novos desafios, tecnologias e protocolos. Como Desenvolvedor Sênior, você atuará junto com o time na jornada de transformação digital e DevSecOps, apoiando refinamentos técnicos, desenvolvendo APIs e micro front-ends de alta qualidade. Sua atuação será fundamental para manter a excelência nas entregas, realizando testes exploratórios, unitários, de componente e E2E de forma independente, assegurando a robustez e a confiabilidade das soluções implementadas.
+Uma ótima oportunidade técnica para lidar com novos desafios, tecnologias e protocolos. Como Desenvolvedor Sênior, você atuará junto com o time na jornada de transformação digital e DevSecOps, apoiando refinamentos técnicos, desenvolvendo APIs e micro front-ends de alta qualidade. Sua atuação será fundamental para manter a excelência nas entregas, realizando testes exploratórios, unitários, de componente e E2E de forma independente, assegurando a robustez e a confiabilidade das soluções implementadas.
+Responsabilidades
+Responsabilidades
+Responsabilidades
+Responsabilidades
+- Desenvolver APIs usando Java com framework Quarkus.
+- Desenvolver APIs usando Java com framework Quarkus.
+- Desenvolver APIs usando Java com framework Quarkus.
+- Desenvolver APIs usando Java com framework Quarkus.
+- Desenvolver BFF usandoNode.jscom framework Express.
+- Desenvolver BFF usandoNode.jscom framework Express.
+- Desenvolver BFF usandoNode.jscom framework Express.
+- Desenvolver BFF usandoNode.jscom framework Express.
+
+
+- Desenvolver front-ends usandoVue.js.
+- Desenvolver front-ends usandoVue.js.
+- Desenvolver front-ends usandoVue.js.
+- Desenvolver front-ends usandoVue.js.
+
+- Apoiar na pirâmide de teste, incluindo automação de testes unitários e de integração.
+- Apoiar na pirâmide de teste, incluindo automação de testes unitários e de integração.
+- Apoiar na pirâmide de teste, incluindo automação de testes unitários e de integração.
+- Apoiar na pirâmide de teste, incluindo automação de testes unitários e de integração.
+- Realizar integrações com sistemas de serviços usando comunicação REST ou SOAP.
+- Realizar integrações com sistemas de serviços usando comunicação REST ou SOAP.
+- Realizar integrações com sistemas de serviços usando comunicação REST ou SOAP.
+- Realizar integrações com sistemas de serviços usando comunicação REST ou SOAP.
+- Trabalhar com trunk-based usando Git.
+- Trabalhar com trunk-based usando Git.
+- Trabalhar com trunk-based usando Git.
+- Trabalhar com trunk-based usando Git.
+- Atuar em code reviews garantindo os design patterns, Clean Code e SOLID.
+- Atuar em code reviews garantindo os design patterns, Clean Code e SOLID.
+- Atuar em code reviews garantindo os design patterns, Clean Code e SOLID.
+- Atuar em code reviews garantindo os design patterns, Clean Code e SOLID.
+- Apoiar na criação de documentos para refinamento técnico.
+- Apoiar na criação de documentos para refinamento técnico.
+- Apoiar na criação de documentos para refinamento técnico.
+- Apoiar na criação de documentos para refinamento técnico.
+Requisitos
+Requisitos
+Requisitos
+Requisitos
+Requisitos
+- Experiência em JAVA 8+.
+- Experiência em JAVA 8+.
+- Experiência em JAVA 8+.
+- Experiência em JAVA 8+.
+- Experiência em JAVA 8+.
+- Domínio do framework Quarkus.
+- Domínio do framework Quarkus.
+- Domínio do framework Quarkus.
+- Domínio do framework Quarkus.
+- Domínio do framework Quarkus.
+- Habilidade em desenvolvimento comVue.js.
+- Habilidade em desenvolvimento comVue.js.
+- Habilidade em desenvolvimento comVue.js.
+- Habilidade em desenvolvimento comVue.js.
+- Habilidade em desenvolvimento comVue.js.
+
+- Conhecimento em JavaScript.
+- Conhecimento em JavaScript.
+- Conhecimento em JavaScript.
+- Conhecimento em JavaScript.
+- Conhecimento em JavaScript.
+- Experiência comNode.jse Express.
+- Experiência comNode.jse Express.
+- Experiência comNode.jse Express.
+- Experiência comNode.jse Express.
+- Experiência comNode.jse Express.
+
+
+- Familiaridade com Git.
+- Familiaridade com Git.
+- Familiaridade com Git.
+- Familiaridade com Git.
+- Familiaridade com Git.
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+- Mensageria Assíncrona (especialmente filas e protocolo AMQP).
+- Mensageria Assíncrona (especialmente filas e protocolo AMQP).
+- Mensageria Assíncrona (especialmente filas e protocolo AMQP).
+- Mensageria Assíncrona (especialmente filas e protocolo AMQP).
+- Mensageria Assíncrona (especialmente filas e protocolo AMQP).
+- Conhecimento em Azure Repos/Pipeline.
+- Conhecimento em Azure Repos/Pipeline.
+- Conhecimento em Azure Repos/Pipeline.
+- Conhecimento em Azure Repos/Pipeline.
+- Conhecimento em Azure Repos/Pipeline.
+- Experiência com Kubernetes e Docker.
+- Experiência com Kubernetes e Docker.
+- Experiência com Kubernetes e Docker.
+- Experiência com Kubernetes e Docker.
+- Experiência com Kubernetes e Docker.
+- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).
+- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).
+- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).
+- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).
+- Familiaridade com bancos de dados não relacionais (especialmente MongoDB).
+- Experiência com bancos de dados em memória (especialmente Redis).
+- Experiência com bancos de dados em memória (especialmente Redis).
+- Experiência com bancos de dados em memória (especialmente Redis).
+- Experiência com bancos de dados em memória (especialmente Redis).
+- Experiência com bancos de dados em memória (especialmente Redis).
+- Conhecimento em metodologias ágeis (SCRUM).
+- Conhecimento em metodologias ágeis (SCRUM).
+- Conhecimento em metodologias ágeis (SCRUM).
+- Conhecimento em metodologias ágeis (SCRUM).
+- Conhecimento em metodologias ágeis (SCRUM).
+- Habilidade para entender requisitos de design, analytics e usabilidade.
+- Habilidade para entender requisitos de design, analytics e usabilidade.
+- Habilidade para entender requisitos de design, analytics e usabilidade.
+- Habilidade para entender requisitos de design, analytics e usabilidade.
+- Habilidade para entender requisitos de design, analytics e usabilidade.
+- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.
+- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.
+- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.
+- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.
+- Capacidade para entender e resolver problemas fim a fim, desde o front até o backend.
+- undamentos de arquitetura de micro-frontends.
+- undamentos de arquitetura de micro-frontends.
+- undamentos de arquitetura de micro-frontends.
+- undamentos de arquitetura de micro-frontends.
+- undamentos de arquitetura de micro-frontends.
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+
+
+
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+
+
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
