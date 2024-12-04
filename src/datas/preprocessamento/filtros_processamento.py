@@ -2,7 +2,7 @@ import re
 import emoji
 
 def limpar_linhas_em_branco(arquivo: list[str]) -> list[str]:
-    return [linha.strip() for linha in arquivo if linha.strip() != ""] 
+    return [linha.strip() for linha in arquivo if linha.strip() != "" and len(linha) > 1] 
 
 def split_linha(linha: str, caracter: str) -> list[str]:
     return [f'{linha}{caracter}' for linha in linha.split(caracter)]
@@ -44,6 +44,16 @@ def separar_palavras_cases_diferentes(arquivo: list[str]) -> list[str]:
         cont += 1
     return linhas
 
+def remover_palavras_com_hashtag(frase: str) -> str:
+    # Filtra palavras que não começam com '#'
+    palavras = [palavra for palavra in frase.split() if not palavra.startswith('#')]
+    # Junta as palavras novamente em uma frase
+    return ' '.join(palavras)
+
+def contem_palavras_com_hashtag(frase: str) -> bool:
+    # Verifica se existe alguma palavra que começa com '#'
+    return bool(re.search(r'\B#\w+', frase))
+
 def contem_camel_case(texto: str) -> bool:
     # Verifica se existe padrão camelCase na string, considerando caracteres Unicode
     return bool(re.search(r'[a-zá-úà-ùâ-ûã-õä-üç][A-ZÁ-ÚÀ-ÙÂ-ÛÃ-ÕÄ-ÜÇ]', texto, re.UNICODE))
@@ -67,19 +77,59 @@ def remover_emojis(arquivo: list[str]):
 def eliminar_linhas_sem_palavras(arquivo: list[str]) -> list[str] :
     return [linha for linha in arquivo if re.search(r'[a-zA-Z]', linha)]
 
+def eliminar_palavras_com_hashtag(arquivo: list[str]) -> list[str] :
+    linhas = []
+    for linha in arquivo:
+        if contem_palavras_com_hashtag(linha):
+            linhas.append(remover_palavras_com_hashtag(linha))
+        else:
+            linhas.append(linha)
+    return linhas
+
 def capturar_link(texto: str) -> str:
     # Expressão regular para capturar o link que começa com 'https://'
     match = re.search(r'https://\S+', texto)
     return match.group(0) if match else None
 
 
-if __name__ == "__main__":
-    f1 = "Requisitos e qualificaçõesÉ muito importante que você tenha e/ou saiba:"
-    f2 = "qualificaçõesE"
-    f3 = "qualificaçõesEmaisAlgumaCoisa"
-    f4 = "Alguma coisa Aqui"
+def identificar_linha_substring(anterior: str, atual: str, index_anterior: int, index_atual: int):
+    menor = (anterior, index_anterior) if len(anterior) < len(atual) else (atual, index_atual)
+    maior = (anterior, index_anterior) if len(anterior) > len(atual) else (atual, index_atual)
 
-    print(contem_camel_case(f1))
-    print(contem_camel_case(f2))
-    print(contem_camel_case(f3))
-    print(contem_camel_case(f4))
+    if menor[0] in maior[0]:
+        if menor[1] > maior[1]: 
+            return -1
+        if menor[1] < maior[1]:
+            return -2
+    
+    return index_atual
+
+def eliminar_linhas_semelhantes(arquivo: list[str]) -> list[str]:
+    linhas = []
+    tamanho = len(arquivo)
+    index = 1
+    linhas.append(arquivo[0])
+    while index < tamanho:
+        index_add = identificar_linha_substring(arquivo[index - 1], arquivo[index], index - 1, index)
+
+        if index_add >= 0:
+            linhas.append(arquivo[index_add])
+        if index_add == -1:
+            linhas.pop()
+            linhas.append(arquivo[index])
+        index += 1
+        
+    return linhas
+
+if __name__ == "__main__":
+    linhas = [
+        "Etapa 5:",
+        "Etapa 5",
+        "Análise do Processo5Análise do Processo:",
+        "Análise do Processo:",
+        "Análise do Processo"
+    ]
+
+    print(eliminar_linhas_semelhantes(linhas))
+   
+
