@@ -1,4 +1,0 @@
-#Ativar o ambiente
-.\venv\Scripts\activate
-# Atualizar o requirements.txt com as dependências
-pip freeze > requirements.txt

@@ -1,2 +1,3 @@
 /src/credenciais/linkedin.txt
 /.venv
+**/__pycache__/
