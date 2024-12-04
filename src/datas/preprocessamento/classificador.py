@@ -10,6 +10,7 @@ class ClassificadorTopico:
         5: "DIFERENCIAIS",
         6: "INFORMACOES_ADICIONAIS",
         7: "ETAPAS_PROCESSO",
+        8: "FORMACOES_DESEJADAS",
     }
 
     def __init__(self) -> None:
@@ -20,6 +21,7 @@ class ClassificadorTopico:
             {"topico": "experiências profissionais", "grupo": 1},
             {"topico": "professional experience", "grupo": 1},
             {"topico": "requisitos e qualificações", "grupo": 2},
+            {"topico": "requisitos mínimos", "grupo": 2},
             {"topico": "requirements and qualifications", "grupo": 2},
             {"topico": "descrição da vaga", "grupo": 3}, 
             {"topico": "job description", "grupo": 3},
@@ -27,13 +29,18 @@ class ClassificadorTopico:
             {"topico": "responsabilidades e atribuições", "grupo": 4},
             {"topico": "responsibilities and assignments", "grupo": 4},
             {"topico": "diferencial", "grupo": 5},
+            {"topico": "diferenciais", "grupo": 5},
             {"topico": "differential", "grupo": 5},
+            {"topico": "differentials", "grupo": 5},
             {"topico": "um diferencial", "grupo": 5},
+            {"topico": "alguns diferenciais", "grupo": 5},
             {"topico": "seria legal ter", "grupo": 5},
             {"topico": "informações adicionais", "grupo": 6},
             {"topico": "additional information", "grupo": 6},
             {"topico": "etapas do processo", "grupo": 7},
-            {"topico": "process stages", "grupo": 7} 
+            {"topico": "process stages", "grupo": 7},
+            {"topico": "formação", "grupo": 8},
+            {"topico": "formações desejadas", "grupo": 8}
         ]
         self.embeddings_topicos = self.modelo_escolhido.encode([item["topico"] for item in self.topicos_buscados], convert_to_tensor=True)
 
