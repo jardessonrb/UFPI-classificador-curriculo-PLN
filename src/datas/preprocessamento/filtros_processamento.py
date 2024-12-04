@@ -44,13 +44,13 @@ def separar_palavras_cases_diferentes(arquivo: list[str]) -> list[str]:
         cont += 1
     return linhas
 
-def contem_camel_case(texto) -> bool:
-    # Verifica se existe padrão camelCase na string
-    return bool(re.search(r'[a-z][A-Z]', texto))
+def contem_camel_case(texto: str) -> bool:
+    # Verifica se existe padrão camelCase na string, considerando caracteres Unicode
+    return bool(re.search(r'[a-zá-úà-ùâ-ûã-õä-üç][A-ZÁ-ÚÀ-ÙÂ-ÛÃ-ÕÄ-ÜÇ]', texto, re.UNICODE))
 
-def separar_camel_case(texto):
-    # Expressão regular que captura a transição de camelCase
-    partes = re.split(r'(?<=[a-z])(?=[A-Z])', texto)
+def separar_camel_case(texto: str):
+    # Expressão regular que captura a transição de camelCase, incluindo caracteres Unicode
+    partes = re.split(r'(?<=[a-zá-úà-ùâ-ûã-õä-üç])(?=[A-ZÁ-ÚÀ-ÙÂ-ÛÃ-ÕÄ-ÜÇ])', texto)
     return partes
 
 
@@ -71,3 +71,15 @@ def capturar_link(texto: str) -> str:
     # Expressão regular para capturar o link que começa com 'https://'
     match = re.search(r'https://\S+', texto)
     return match.group(0) if match else None
+
+
+if __name__ == "__main__":
+    f1 = "Requisitos e qualificaçõesÉ muito importante que você tenha e/ou saiba:"
+    f2 = "qualificaçõesE"
+    f3 = "qualificaçõesEmaisAlgumaCoisa"
+    f4 = "Alguma coisa Aqui"
+
+    print(contem_camel_case(f1))
+    print(contem_camel_case(f2))
+    print(contem_camel_case(f3))
+    print(contem_camel_case(f4))
