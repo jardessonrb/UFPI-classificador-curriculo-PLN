@@ -1,0 +1,170 @@
+link-https://www.linkedin.com/jobs/view/4056711446/?eBP=CwEAAAGS7lLybCKmngozgAdXTAOMPi8V9xXjYgn86vz_p7_-ZJdVGl7n3RPE1uC30-0y37T7Iyxl9VpQPZbq4MngPkKlSp0sMdZWfbO_jvwyVY2Zb784uUhfvghSbTLVd4zUTKNBmmIxgbYvud-A6Ib_ITbJrFCJ9lvq37NAHJ5bUsKs3usfBySZcUrw99ChluKzjSsgdNBDcz8ROYmq0DBIslyMKqLa9AEYIC6vzcUUDHQ7hioQJhDvKX97sKzPepP078xL8pnkiVr7PUzOdbsltN0QAeDHV89529xR2hesp5klXSMXatTisgtGXA20CsNjwdmeDyNAPsnIOvMqB_jF76ReYbPEGLMlqNnNsiTLm3PR0o6jhCAhZZOk4cLwXe594BbhAGt3vVO1Vw-7F8inW15_T8CtWMDxbcxRWlU8Upp7A98SEn-q6bEVhyo6e7_QqKwVvI09bQ2wJpIqUwfuI0spfEzrSeHeuDZIDUb3m13TZ_d2mF4C4fNgqmlQ76q2&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=E%2F%2FAsWudANY%2F5jglFDwI3Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back-end Pleno (Java ou C#)
+Sobre a vaga
+O que é a Simetrias?A Simetrias Informática é uma empresa especializada em oferecer soluções tecnológicas para o mercado de Seguros. Sua expertise no segmento de Seguros, já vem sendo reconhecida pelo mercado, pois hoje atende a maior parte das Seguradoras em atuação no Brasil.Seus profissionais especializados em TI – Tecnologia da Informação e no Mercado de Seguros buscam sempre agregar o conhecimento da tecnologia com as necessidades dos clientes, transformando-as em soluções práticas para o dia a dia das empresas.A Equipe Simetrias, atualizada constantemente com as inovações tecnológicas nacionais e internacionais, desenvolve soluções eficientes e arrojadas aos seus clientes gerando respostas com elevado índice de resultados positivos. Para a Simetrias o importante não é só a busca de novos clientes, mas sobretudo sua fidelização.Responsabilidades e atribuiçõesA missão da pessoa que ocupará essa posição será:Desenvolver JAVA e ou C# utilizando boas práticas de arquitetura;Construção e manutenção de rotinas em PL/SQL;Efetuar todo o ciclo de desenvolvimento das demandas;Entender a necessidade;Participar dos rituais de acompanhamento com a squad;Realização de testes unitários e integrados;Geração Evidências de testes;Geração de pacotes para homologação;Acompanhamento da implantação;Ser participativo e propor soluções;Disseminar conhecimentos.Requisitos e qualificaçõesPara participar você precisa:Linguagem (C# e/ou Java );PL/SQL e Stored Procedure;Banco de Dados Oracle e SQLServer;Vivência com framework ágil (Scrum);Não é obrigatório, mas será muito legal se você tiver:Framework (.NET);Conhecimento em seguros e ou resseguros.Informações adicionaisPor que trabalhar na SIMETRIAS:Nossos pilares de cultura e seus atributos são:Servir: foco no cliente, humildade, transparência e ética;Equipe: é mais importante que o indivíduo, vontade e mão na massa são atributos que valorizamos muito;Resultados: agilidade e melhoria contínua, geração de caixa em longo prazo e foco.Aqui você vai:Participar do maior ecossistema de tecnologia para a Logística da América Latina, fazendo parte de uma das empresas do grupo nstech;Participar de uma cultura voltada para trabalho em equipe, onde o todo é mais importante do que o indivíduo;Estar inserindo em um ambiente hands-on e colaborativo (Mão na massa).O que esperamos de você:Acreditamos que cultura e pessoas são as duas verticais de maiores vantagens competitivas de negócios vencedores - isso porque, pela sua natureza, é impossível copiar 100% uma cultura, e, as pessoas são a bases de todo e qualquer negócio.O que oferecemos também:😷Plano de saúde modalidade Apartamento com coparticipação;😁Plano odontológico;🤗Seguro de vida;💳Cartão de Benefícios (VR/VA,VT);💪🏼Gympass;😌Zenklub, nosso parceiro no seu bem-estar;🎈Day off no Aniversário;🚼Licença Maternidade e Auxílio Creche;🫶Auxílio filhos com deficiência;🤩Temos PLR anual;📚Universidade Corporativa.Nossas idas ao escritório no modelo Híbrido são ainda mais agradáveis e energizantes:🥪☕ Temos café da manhã / lanche da tarde todos os dias!Queremos que a sua experiência com a nossa jornada de seleção seja incrível!Analisaremos todos os perfis com muita atenção e sempre enviamos feedbacks ao final dos nossos processos, independentemente dos resultados.A nossa comunicação é feita prioritariamente via e-mail. Por isso, fique de olho à sua caixa de entrada e, também, ao spam.
+O que é a Simetrias?
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+A missão da pessoa que ocupará essa posição será:
+
+
+Desenvolver JAVA e ou C# utilizando boas práticas de arquitetura;Construção e manutenção de rotinas em PL/SQL;Efetuar todo o ciclo de desenvolvimento das demandas;Entender a necessidade;Participar dos rituais de acompanhamento com a squad;Realização de testes unitários e integrados;Geração Evidências de testes;Geração de pacotes para homologação;Acompanhamento da implantação;Ser participativo e propor soluções;Disseminar conhecimentos.
+Desenvolver JAVA e ou C# utilizando boas práticas de arquitetura;
+Desenvolver JAVA e ou C# utilizando boas práticas de arquitetura;
+Construção e manutenção de rotinas em PL/SQL;
+Construção e manutenção de rotinas em PL/SQL;
+Efetuar todo o ciclo de desenvolvimento das demandas;
+Efetuar todo o ciclo de desenvolvimento das demandas;
+Entender a necessidade;
+Entender a necessidade;
+Participar dos rituais de acompanhamento com a squad;
+Participar dos rituais de acompanhamento com a squad;
+Realização de testes unitários e integrados;
+Realização de testes unitários e integrados;
+Geração Evidências de testes;
+Geração Evidências de testes;
+Geração de pacotes para homologação;
+Geração de pacotes para homologação;
+Acompanhamento da implantação;
+Acompanhamento da implantação;
+Ser participativo e propor soluções;
+Ser participativo e propor soluções;
+Disseminar conhecimentos.
+Disseminar conhecimentos.
+
+
+
+Requisitos e qualificações
+
+
+Para participar você precisa:
+
+
+Linguagem (C# e/ou Java );PL/SQL e Stored Procedure;Banco de Dados Oracle e SQLServer;Vivência com framework ágil (Scrum);
+Linguagem (C# e/ou Java );
+Linguagem (C# e/ou Java );
+PL/SQL e Stored Procedure;
+PL/SQL e Stored Procedure;
+Banco de Dados Oracle e SQLServer;
+Banco de Dados Oracle e SQLServer;
+Vivência com framework ágil (Scrum);
+Vivência com framework ágil (Scrum);
+
+
+
+Não é obrigatório, mas será muito legal se você tiver:
+
+
+Framework (.NET);Conhecimento em seguros e ou resseguros.
+Framework (.NET);
+Framework (.NET);
+Conhecimento em seguros e ou resseguros.
+Conhecimento em seguros e ou resseguros.
+
+
+
+Informações adicionais
+
+
+Por que trabalhar na SIMETRIAS:
+
+
+Nossos pilares de cultura e seus atributos são:
+
+
+
+Servir: foco no cliente, humildade, transparência e ética;Equipe: é mais importante que o indivíduo, vontade e mão na massa são atributos que valorizamos muito;Resultados: agilidade e melhoria contínua, geração de caixa em longo prazo e foco.
+Servir: foco no cliente, humildade, transparência e ética;
+Servir: foco no cliente, humildade, transparência e ética;
+Equipe: é mais importante que o indivíduo, vontade e mão na massa são atributos que valorizamos muito;
+Equipe: é mais importante que o indivíduo, vontade e mão na massa são atributos que valorizamos muito;
+Resultados: agilidade e melhoria contínua, geração de caixa em longo prazo e foco.
+Resultados: agilidade e melhoria contínua, geração de caixa em longo prazo e foco.
+
+
+
+Aqui você vai:
+
+
+Participar do maior ecossistema de tecnologia para a Logística da América Latina, fazendo parte de uma das empresas do grupo nstech;Participar de uma cultura voltada para trabalho em equipe, onde o todo é mais importante do que o indivíduo;Estar inserindo em um ambiente hands-on e colaborativo (Mão na massa).
+Participar do maior ecossistema de tecnologia para a Logística da América Latina, fazendo parte de uma das empresas do grupo nstech;
+Participar do maior ecossistema de tecnologia para a Logística da América Latina, fazendo parte de uma das empresas do grupo nstech;
+Participar de uma cultura voltada para trabalho em equipe, onde o todo é mais importante do que o indivíduo;
+Participar de uma cultura voltada para trabalho em equipe, onde o todo é mais importante do que o indivíduo;
+Estar inserindo em um ambiente hands-on e colaborativo (Mão na massa).
+Estar inserindo em um ambiente hands-on e colaborativo (Mão na massa).
+
+
+
+O que esperamos de você:
+
+
+
+
+O que oferecemos também:
+
+
+
+Plano de saúde modalidade Apartamento com coparticipação;
+
+
+
+Plano odontológico;
+
+
+
+Seguro de vida;
+
+
+
+Cartão de Benefícios (VR/VA,VT);
+
+
+
+Gympass;
+
+
+
+Zenklub, nosso parceiro no seu bem-estar;
+
+
+
+Day off no Aniversário;
+
+
+
+Licença Maternidade e Auxílio Creche;
+
+
+
+Auxílio filhos com deficiência;
+
+
+
+Temos PLR anual;
+
+
+
+Universidade Corporativa.
+
+
+
+
+🥪☕ Temos café da manhã / lanche da tarde todos os dias!
+
+
+
+
+
+
+A nossa comunicação é feita prioritariamente via e-mail

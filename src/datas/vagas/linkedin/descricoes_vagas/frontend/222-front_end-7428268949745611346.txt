@@ -1,0 +1,127 @@
+link-https://www.linkedin.com/jobs/view/4063863298/?eBP=CwEAAAGS7kv1YEOEa5KSYpXCK1947gDy-y0-n5N3Sg9cvwZrie91jJHDT0fHl8PG--oa7_i9QLkkSXAunu69Pj5Tt9G_i3BhWtQeK6D86-eSHXCXjRG7y0_EwGkDmFNlm8tO2vUgeBBSFgzkTOV4c1QcGIQuLJfuGd0M4AqzREgDNDDT750ed-9IKDn89yT4Duab5EhZKgtAVMVRKycvAL8pPqaXzR0Bb8nJBVATECL1gUb9qQjWZitrRUjuaumKbLYOUrphtpm0Q01wfikQnXmzFAGsS_ABcFh4xw4uzXrqi_nTXNh8ULxmgM3kbY2SndnFrvQ6m5srEHJGnMtALbSFWFmv77Q11L3Jk5W1T8VSZgeMxJ6-xPCKdiSxYYHW6eYe_fa0Yshggat2memO4ewxcyV58Bkx37OEuXLMHY0LCB0UKV_kwj8iW93GJbCjTvGngduM-yYw_pnnhI-xmk_MBTnN4QoGYvV97IrImIkunHt-iDUVC1K3qPzUktuSjHPrARjAFnE&refId=YgUVrAkRv2DiwuaWY1zF5Q%3D%3D&trackingId=myR2f7rlYMEqnCNKy9MOAQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Front-End SR - React
+Sobre a vaga
+📚Feita de pessoas que transformam a educaçãoTodas as vagas da Arco são elegíveis para Pessoas com Deficiência.Somos a Arcoplus 🧡A ArcoPlus é um ecossistema de soluções pedagógicas suplementares de excelência, que forma cidadãos completos e, assim, transforma vidas e o mundo.Fazemos parte do grande ecossistema de educação chamado Arco Educação!#VEMPRAARCOAgora que você já captou um pouco mais da nossa essência, vamos falar sobre a oportunidade?👉Quais serão os seus desafios com a gente?Desenvolver e aprimorar nossos produtos web, sempre focando em qualidade e performance.Colaborar com as equipes de Produto e Design para entender as necessidades e criar soluções que ofereçam uma experiência incrível para os usuários.Participar da documentação técnica e de processos do time, ajudando a manter tudo organizado e acessível.Valorizar a acessibilidade e a interface dos projetos (UX/UI), garantindo que todos possam aproveitar nossas soluções.Revisar o código da equipe, assegurando que atenda aos critérios de funcionalidade e performance.Contribuir para o Design System, ajudando a criar uma base sólida para nossos projetos.👉 O Que Esperamos Que Você TenhaDomínio de JavaScript e TypeScript para desenvolver soluções eficientes.Experiência com React e Next.js, incluindo suas APIs.Conhecimento em testes unitários e integração com ferramentas como Jest e/ou Cypress.Colaboração ativa e respeito pelas ideias e contribuições dos colegas.Habilidade para trabalhar em equipe, com um bom pensamento crítico e capacidade de resolver problemas.Proatividade para trazer novas ideias e melhorias.Disponibilidade para atuar em outras linguagens e frameworks.👉 O Que Seria Um DiferencialVontade de contribuir e fazer parte das soluções back-end;Experiência em Node ou Kotlin;👉 Demais Informações📆 Segunda a Sexta;⏰ 40 horas semanais;📝 CLT;💻Remoto.Um dos pilares da Arcotech é a diversidade. Nossa motivação é nos manter em movimento, inovando e levando as tecnologias educacionais a patamares ainda não vistos. Para isso acreditamos na força da palavra equidade e no respeito à igualdade de direito. Aqui reconhecemos as singularidades, as diferenças e abraçamos a todes.T-2124O que você vai encontrar na Arco, além de pessoas incríveis:🍽️ Auxílio alimentação e/ou refeição🏥 Plano de saúde e odontológico🚌 Vale transporte🤰🏽 Licença maternidade e paternidade estendida🚸 Auxílio creche para mães🏋🏻‍♀️ Cuidado com a saúde física: parceria com a Gympass📚 Incentivo à educação✈️ Desconto em passagens aéreas#MaisDiversidadeAcreditamos que em um ambiente diverso e inclusivo nossaspessoas serão mais felizes, engajadase commais chances de atingir o seu máximo potencial. Por isso, aqui na Arco, respeitamos e valorizamos a igualdade de direito, reconhecemos as singularidades e acreditamos quetodasas pessoas podem contribuir para o nosso propósito.#VemPraArco
+
+Feita de pessoas que transformam a educação
+
+
+Todas as vagas da Arco são elegíveis para Pessoas com Deficiência.
+
+
+
+Somos a Arcoplus 🧡
+
+
+
+
+
+
+#VEMPRAARCO
+
+
+
+Agora que você já captou um pouco mais da nossa essência, vamos falar sobre a oportunidade?
+
+
+
+Quais serão os seus desafios com a gente?
+
+
+Desenvolver e aprimorar nossos produtos web, sempre focando em qualidade e performance.Colaborar com as equipes de Produto e Design para entender as necessidades e criar soluções que ofereçam uma experiência incrível para os usuários.Participar da documentação técnica e de processos do time, ajudando a manter tudo organizado e acessível.Valorizar a acessibilidade e a interface dos projetos (UX/UI), garantindo que todos possam aproveitar nossas soluções.Revisar o código da equipe, assegurando que atenda aos critérios de funcionalidade e performance.Contribuir para o Design System, ajudando a criar uma base sólida para nossos projetos.
+Desenvolver e aprimorar nossos produtos web, sempre focando em qualidade e performance.
+Desenvolver e aprimorar nossos produtos web, sempre focando em qualidade e performance.
+Colaborar com as equipes de Produto e Design para entender as necessidades e criar soluções que ofereçam uma experiência incrível para os usuários.
+Colaborar com as equipes de Produto e Design para entender as necessidades e criar soluções que ofereçam uma experiência incrível para os usuários.
+Participar da documentação técnica e de processos do time, ajudando a manter tudo organizado e acessível.
+Participar da documentação técnica e de processos do time, ajudando a manter tudo organizado e acessível.
+Valorizar a acessibilidade e a interface dos projetos (UX/UI), garantindo que todos possam aproveitar nossas soluções.
+Valorizar a acessibilidade e a interface dos projetos (UX/UI), garantindo que todos possam aproveitar nossas soluções.
+Revisar o código da equipe, assegurando que atenda aos critérios de funcionalidade e performance.
+Revisar o código da equipe, assegurando que atenda aos critérios de funcionalidade e performance.
+Contribuir para o Design System, ajudando a criar uma base sólida para nossos projetos.
+Contribuir para o Design System, ajudando a criar uma base sólida para nossos projetos.
+
+
+👉 O Que Esperamos Que Você Tenha
+
+
+Domínio de JavaScript e TypeScript para desenvolver soluções eficientes.Experiência com React e Next.js, incluindo suas APIs.Conhecimento em testes unitários e integração com ferramentas como Jest e/ou Cypress.Colaboração ativa e respeito pelas ideias e contribuições dos colegas.Habilidade para trabalhar em equipe, com um bom pensamento crítico e capacidade de resolver problemas.Proatividade para trazer novas ideias e melhorias.Disponibilidade para atuar em outras linguagens e frameworks.
+Domínio de JavaScript e TypeScript para desenvolver soluções eficientes.
+Domínio de JavaScript e TypeScript para desenvolver soluções eficientes.
+Experiência com React e Next.js, incluindo suas APIs.
+Experiência com React e Next.js, incluindo suas APIs.
+Conhecimento em testes unitários e integração com ferramentas como Jest e/ou Cypress.
+Conhecimento em testes unitários e integração com ferramentas como Jest e/ou Cypress.
+Colaboração ativa e respeito pelas ideias e contribuições dos colegas.
+Colaboração ativa e respeito pelas ideias e contribuições dos colegas.
+Habilidade para trabalhar em equipe, com um bom pensamento crítico e capacidade de resolver problemas.
+Habilidade para trabalhar em equipe, com um bom pensamento crítico e capacidade de resolver problemas.
+Proatividade para trazer novas ideias e melhorias.
+Proatividade para trazer novas ideias e melhorias.
+Disponibilidade para atuar em outras linguagens e frameworks.
+Disponibilidade para atuar em outras linguagens e frameworks.
+
+
+👉 O Que Seria Um Diferencial
+
+
+Vontade de contribuir e fazer parte das soluções back-end;Experiência em Node ou Kotlin;
+Vontade de contribuir e fazer parte das soluções back-end;
+Vontade de contribuir e fazer parte das soluções back-end;
+Experiência em Node ou Kotlin;
+Experiência em Node ou Kotlin;
+
+
+👉 Demais Informações
+
+
+📆 Segunda a Sexta;⏰ 40 horas semanais;📝 CLT;💻Remoto.
+📆 Segunda a Sexta;
+📆 Segunda a Sexta;
+⏰ 40 horas semanais;
+⏰ 40 horas semanais;
+📝 CLT;
+📝 CLT;
+💻Remoto.
+💻Remoto.
+
+
+
+
+
+
+O que você vai encontrar na Arco, além de pessoas incríveis:
+
+
+🍽
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#MaisDiversidade
+
+
+
+pessoas serão mais felizes, engajadas
+
+
+mais chances de atingir o seu máximo potencial
+
+todas
+
+
+#VemPraArco

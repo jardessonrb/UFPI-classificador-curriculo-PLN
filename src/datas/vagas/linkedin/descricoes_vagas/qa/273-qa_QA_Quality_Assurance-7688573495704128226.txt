@@ -1,0 +1,67 @@
+link-https://www.linkedin.com/jobs/view/4054942264/?eBP=CwEAAAGS7kgAGMIYzlYcOjpMe7ZGAFHOOgRvm1ROPC1r9ZozLOzFRC4xdmc7Zj3jTYU6LGl9UQk5YwjntJW8nRFeFziAqhrYYJecmNbsH04n8zIc38Zpq7CG66W0Jftw5Bp99Hp4otv1OSFdS5GQFaQfzd3Gzs-7-4hys4UOZSM8p4PA6-0xQ73UGZYYKU6k5bMEMdtnDK0uDhdZp7LMzEcMUHU6m1mkTrRk-ZKQeq98pQgjWnjaMtCf1kQrmBgymqyW_jkrPRf0po5xiITQt9rNd1KZvdzu72TwJei-FJLMc9AT49JS4l5A-vuy-zJszgWNlpOpiWgUBOL7T3U8oJnQW_wG7WQCmKEs_i72xHTggBmJYxrxpK8oTyHuaJneaDzcHKGsboaBuBC-3HHr3Eqk6JwFanEMUAg8WRpve3vRH-1Qn-z-3dZVo4MNk2id0KsK9PdG_38yUF7SnupxgobM-jEYvS-IeO_vUl65Bip40ZHCxSqzTdjzlVds&refId=nIYYNsE%2BnfA3QpgDC17OUg%3D%3D&trackingId=GTgqdjIvV6tTUeBtlN91yQ%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Tester / Automação - Sênior
+Sobre a vaga
+A FCamara está em busca de umapessoa Analista QA Tester/Automaçãopara atuar em uma Squad Muldisciplinar FCamara, que detenha os domínios tecnológicos e práticas necessárias de Governança, incluindo serviços de DEVOPS, SecOpsSec e SRE baseados no modelo AGILE.Responsabilidades e atribuiçõesO Grupo SADA busca evoluir um software denominado SADA LOG 2.0 onde o código fonte foi recém adquirido de empresa parceira.A ideia é dominar todas as camadas dessa aplicação, incluindo arquitetura, infraestrutura, segurança, experiência do usuário, regras de negócio e todas as demais, melhorando a aplicação atual e criando novas funcionalidades em uma arquitetura mais segura, mais interativa, mais performática e escalável.Requisitos e qualificaçõesDesenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;Identificar defeitos, reportar status das execuções e impeditivos;Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.Utilizar Gherkin para criar e implementar histórias de teste.Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.Propor ao time melhorias no processo que aprimorem o resultado que entregamos;Experiência com BDD (preferível com Cucumber);Experiência em frameworks ágeis (scrum, kanban, lean etc);Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);Experiência e conhecimento em Kanbanize (ou ferramentas similares);Informações adicionais
+
+pessoa Analista QA Tester/Automação
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+
+
+Requisitos e qualificações
+
+
+Desenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;Identificar defeitos, reportar status das execuções e impeditivos;Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.Utilizar Gherkin para criar e implementar histórias de teste.Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.Propor ao time melhorias no processo que aprimorem o resultado que entregamos;Experiência com BDD (preferível com Cucumber);Experiência em frameworks ágeis (scrum, kanban, lean etc);Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);Experiência e conhecimento em Kanbanize (ou ferramentas similares);
+Desenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;
+Desenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;
+
+Identificar defeitos, reportar status das execuções e impeditivos;
+Identificar defeitos, reportar status das execuções e impeditivos;
+
+Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.
+Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.
+
+Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.
+Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.
+
+Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.
+Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.
+
+Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.
+Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.
+
+Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.
+Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.
+
+Utilizar Gherkin para criar e implementar histórias de teste.
+Utilizar Gherkin para criar e implementar histórias de teste.
+
+Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.
+Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.
+
+Propor ao time melhorias no processo que aprimorem o resultado que entregamos;
+Propor ao time melhorias no processo que aprimorem o resultado que entregamos;
+
+Experiência com BDD (preferível com Cucumber);
+Experiência com BDD (preferível com Cucumber);
+
+Experiência em frameworks ágeis (scrum, kanban, lean etc);
+Experiência em frameworks ágeis (scrum, kanban, lean etc);
+
+Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);
+Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);
+
+Experiência e conhecimento em Kanbanize (ou ferramentas similares);
+Experiência e conhecimento em Kanbanize (ou ferramentas similares);
+
+
+
+
+Informações adicionais

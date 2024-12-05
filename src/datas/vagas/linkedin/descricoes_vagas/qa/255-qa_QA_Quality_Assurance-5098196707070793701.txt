@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4059725196/?eBP=CwEAAAGS7keaYXQaotmoA0tBrMFSzuE6ianW9SJJ6_VUElkby-I0H7yF7q21vsDP35c5m4ReRGYb3_OZl-gG4oetYZ47VwJ-q01YaBjZd7N1ANTmwnvzQNJxellquR-wnPHDg_uDe5jha_2WmBLNrYYkGq614DbQR7Az2oYXUEx_NPnjhIIdQ5QApU2eqNue8MYtbbdc8fhpCPBgXVYoAmd4szYVYiS8Z6_6mhl3YL9J-c1BHpgc6shPd592fQqZA_5YQ9GlXJhsPYEjSGOqcnlvUBpChro3WgxhiiGjF3_yxUnEmY4ZO144Q0BIVBZQl4kUVk4FtDLJdlSG70TmVcJrTvFyhtW3rrh4ES5QbrTJDdXe-ZHaYZ7xkfYpsY1kiWHDTaFfXs_qyHBmcjgO1kdE0k9SguBahhiY8tr4MEvnUSQyqQbbKOYt90MViot_am-Mm_r9T2LUuVoGO0w0KDvOSfMsiwY1YLBFZTCvsYPOTuryB9ntxXPd0koNsX2Spg&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=7DmHA5NRVQ2JhrvjvsKGow%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de QA (Curitiba-PR)
+Sobre a vaga
+Job DescriptionVocê tem paixão por agronegócio e tecnologia? Gostaria de fazer parte de um time enérgico, dedicado à construção de soluções para levar a transformação digital ao agronegócio? Precisamos de pessoas dispostas a aprender constantemente e inovar sobre gestão do agronegócio, gestão de empresas e tecnologias. Aqui você compartilhará conhecimento e se juntará com alguns dos melhores profissionais do timeQualidade.Responsibilities and assignmentsExecutar testes manuais e exploratórios sob supervisão mínima;Desenvolver scripts para automação de testes simples e manter os existentes;Documentar evidências de teste e relatar defeitos de forma clara e objetiva;Revisar requisitos e identificar potenciais pontos de falha;Colaborar com o time de desenvolvimento e QA para garantir a qualidade das entregas;Aprender e aplicar técnicas avançadas de automação e integração de testes nos processos de CI/CD.Requirements And QualificationsFormado ou cursando Ciência da Computação, Engenharia de Software, ou áreas correlatas;Compreensão sólida de testes de software, tanto manuais quanto automatizados;Familiaridade com ferramentas de automação de testes (Selenium, JUnit, etc.);Capacidade de revisar requisitos e identificar inconsistências;Boa comunicação e habilidades de colaboração;Experiência com metodologias ágeis (Scrum, Kanban);Disponibilidade para trabalhar presencialmente no Centro de Curitiba-PR.Additional informationCLTVale refeição de R$880,00 (desconto de R$176 em folha de pagamento);Vale transporte (sem desconto);Plano de saúde Unimed;Plano odontológico Dental Uni;Seguro de vida;GymPass;TotalPass;Clube de Descontos Gazeta do Povo;Auxílio Educação;Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa, sinuca, muito café (nós adoramos café) e toda segunda-feira quitutes deliciosos.Process stagesStep 1: Registration1RegistrationStep 2: Hiring2HiringApaixonados por tecnologia e agronegócioNa Agrotis adoramos desafios pois assim aprimoramos constantemente nosso conhecimento e formas de atuação.Temos uma crença forte nos métodos ágeis, mas somos flexíveis o suficiente para adaptá-los quando as necessidades determinam.Acreditamos firmemente que a diversidade de experiências, perspectivas e incentivos nos levará a um ambiente melhor para nossos colaboradores e consequentemente um produto melhor para nossos usuários e clientes.Prezamos acima de tudo por um time de verdade. Valorizamos relacionamentos e somos orgulhosos em promover um local de trabalho agradável com um pouco de diversão em disputadas partidas de FIFA, tênis de mesa e sinuca. Ah! Também gostamos de cerveja e muito café!Valorizamos profundamente a inovação, assim convidamos e encorajamos todos a virem fazer parte da missão de levar a transformação digital para o agronegócio.E você, também é apaixonado por tecnologia e agronegócio?Então#VemPraAgrotis
+Job Description
+
+
+
+Qualidade.
+
+
+
+
+Executar testes manuais e exploratórios sob supervisão mínima;Desenvolver scripts para automação de testes simples e manter os existentes;Documentar evidências de teste e relatar defeitos de forma clara e objetiva;Revisar requisitos e identificar potenciais pontos de falha;Colaborar com o time de desenvolvimento e QA para garantir a qualidade das entregas;Aprender e aplicar técnicas avançadas de automação e integração de testes nos processos de CI/CD.
+Executar testes manuais e exploratórios sob supervisão mínima;
+Executar testes manuais e exploratórios sob supervisão mínima;
+Desenvolver scripts para automação de testes simples e manter os existentes;
+Desenvolver scripts para automação de testes simples e manter os existentes;
+Documentar evidências de teste e relatar defeitos de forma clara e objetiva;
+Documentar evidências de teste e relatar defeitos de forma clara e objetiva;
+Revisar requisitos e identificar potenciais pontos de falha;
+Revisar requisitos e identificar potenciais pontos de falha;
+Colaborar com o time de desenvolvimento e QA para garantir a qualidade das entregas;
+Colaborar com o time de desenvolvimento e QA para garantir a qualidade das entregas;
+Aprender e aplicar técnicas avançadas de automação e integração de testes nos processos de CI/CD.
+Aprender e aplicar técnicas avançadas de automação e integração de testes nos processos de CI/CD.
+
+
+Requirements And Qualifications
+
+
+Formado ou cursando Ciência da Computação, Engenharia de Software, ou áreas correlatas;Compreensão sólida de testes de software, tanto manuais quanto automatizados;Familiaridade com ferramentas de automação de testes (Selenium, JUnit, etc.);Capacidade de revisar requisitos e identificar inconsistências;Boa comunicação e habilidades de colaboração;Experiência com metodologias ágeis (Scrum, Kanban);Disponibilidade para trabalhar presencialmente no Centro de Curitiba-PR.
+Formado ou cursando Ciência da Computação, Engenharia de Software, ou áreas correlatas;
+Formado ou cursando Ciência da Computação, Engenharia de Software, ou áreas correlatas;
+Compreensão sólida de testes de software, tanto manuais quanto automatizados;
+Compreensão sólida de testes de software, tanto manuais quanto automatizados;
+Familiaridade com ferramentas de automação de testes (Selenium, JUnit, etc.);
+Familiaridade com ferramentas de automação de testes (Selenium, JUnit, etc.);
+Capacidade de revisar requisitos e identificar inconsistências;
+Capacidade de revisar requisitos e identificar inconsistências;
+Boa comunicação e habilidades de colaboração;
+Boa comunicação e habilidades de colaboração;
+Experiência com metodologias ágeis (Scrum, Kanban);
+Experiência com metodologias ágeis (Scrum, Kanban);
+Disponibilidade para trabalhar presencialmente no Centro de Curitiba-PR.
+Disponibilidade para trabalhar presencialmente no Centro de Curitiba-PR.
+
+
+
+
+CLT
+
+
+Vale refeição de R$880,00 (desconto de R$176 em folha de pagamento);Vale transporte (sem desconto);Plano de saúde Unimed;Plano odontológico Dental Uni;Seguro de vida;GymPass;TotalPass;Clube de Descontos Gazeta do Povo;Auxílio Educação;Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa, sinuca, muito café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+Vale refeição de R$880,00 (desconto de R$176 em folha de pagamento);
+Vale refeição de R$880,00 (desconto de R$176 em folha de pagamento);
+Vale transporte (sem desconto);
+Vale transporte (sem desconto);
+Plano de saúde Unimed;
+Plano de saúde Unimed;
+Plano odontológico Dental Uni;
+Plano odontológico Dental Uni;
+Seguro de vida;
+Seguro de vida;
+GymPass;
+GymPass;
+TotalPass;
+TotalPass;
+Clube de Descontos Gazeta do Povo;
+Clube de Descontos Gazeta do Povo;
+Auxílio Educação;
+Auxílio Educação;
+Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa, sinuca, muito café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa, sinuca, muito café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Hiring2Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Hiring2Hiring
+Step 2: Hiring2Hiring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#VemPraAgrotis

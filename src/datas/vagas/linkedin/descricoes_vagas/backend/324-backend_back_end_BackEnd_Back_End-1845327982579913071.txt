@@ -1,0 +1,162 @@
+link-https://www.linkedin.com/jobs/view/4039028259/?eBP=CwEAAAGS7lPxinlwd-JP4pzVIlXvA_AfnOvFC1O9M9TvQ7QHUFTFSppnZwZTn9adezJXzJNkiDpsGREonnjaflkUUM2qNObDX98JAJ4VPt-nQFC-j3y6A4eKb03OeDcoW6MopGwwwejKJ7fPih1LC5_5p7dWz7wXQ92v8Ityjmm8Dw8b1h8hhtUMzAjp8rYmStpI544C-spS1c7Ylasfw0S8iimjzQHTsynN1JnVUk88Rv_XGihpr-aZuUG87jFinJxWgZCVDIax_UpluNfLY8SRO9DWki1KCh9ZK7y2lDkJ27alxaFlhhi5zAwhFNnbNo1dU1-RfgKn3yIvQb5xsKpxbtSTUi5I3W6dy1Q12htdk1j3lzbVhWiIwTJgFzlndGSIPTrbO3grr9n0n2FCF9Cp0HLMXvUHaN3gopLN0cexmz0D12Y2II5YIiID_7mjf14Hod5UaWWP4bU67XcD1tHXeGeRG9K1AwtakI2pyZ8yKBd6Kjz5vx0c5HuCXApHJbVLC0IHlPPIojKZ65Zb9wE&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=JG12K4BSbjX2rMNE%2FG9LTg%3D%3D&trk=flagship3_search_srp_jobs
+
+Programador Back-End Sênior
+Sobre a vaga
+O Ticket Sports é uma plataforma de venda de inscrições para eventos esportivos e estamos procurando umProgramador Back-End Sêniorpara se juntar à nossa equipe.Como Programador Back-End Sênior, você será responsável por desenvolver e manter a estrutura base da plataforma Ticket Sports. Você trabalhará em estreita colaboração com outros membros da equipe de desenvolvimento para garantir que a plataforma seja fácil de usar e atenda às necessidades dos nossos clientes.Para ser bem-sucedido nesta função, você deve ter:Qualificações e pré-requisitosProatividade, organização, gostar e saber trabalhar em equipe.Boa comunicação, perfil com foco em aprendizado e evolução constante.Capacidade de resolver problemas de forma criativa.Experiência na área de tecnologia.Principais missõesProjetar, desenvolver e implementar soluções de back-end robustas e escaláveis utilizando tecnologias .NET, como ASP.NET, C# e .NET Core.Colaborar estreitamente com equipes multifuncionais para entender os requisitos do projeto e traduzi-los em soluções técnicas viáveis.Realizar análises técnicas profundas, identificando possíveis pontos de melhoria e otimizando sistemas existentes para melhor desempenho e escalabilidade.Participar do ciclo completo de vida do desenvolvimento de software, desde a fase de requisitos até a manutenção pós-produção.Desenvolver e manter APIs RESTful, garantindo integração fluida com sistemas e serviços externos.Implementar práticas de segurança de código e padrões de codificação para garantir a estabilidade e segurança das aplicações desenvolvidas.Promover a adoção de melhores práticas de desenvolvimento, incluindo revisão de código e manutenção de documentação técnica.Mentorear desenvolvedores juniores, ajudando a cultivar um ambiente de aprendizado e crescimento contínuo.Hard skillsExperiência Arquitetural: Mínimo de 8-10 anos de experiência comprovada em arquitetura e desenvolvimento de sistemas complexos, preferencialmente utilizando tecnologias .NET.Expertise em Design de Sistemas: Proficiência avançada em design de sistemas, programação orientada a objetos (OOP) e aplicação de padrões de design de software em escala empresarial.Mestria em Bancos de Dados: Experiência profunda com bancos de dados SQL e NoSQL, com capacidade comprovada de projetar, otimizar e gerenciar esquemas de banco de dados em ambientes de alta disponibilidade.Liderança em Projetos Cloud: Experiência comprovada na liderança de projetos em ambientes cloud, especialmente com Azure Functions, e na implementação de melhores práticas e padrões.Metodologias Ágeis Avançadas: Expertise em metodologias ágeis, com capacidade de orientar equipes e adaptar métodos conforme necessário (Scrum, Kanban, etc.).Resolução Avançada de Problemas: Habilidade comprovada em solucionar desafios técnicos complexos e em orientar equipes durante a resolução de problemas.Colaboração e Autonomia: Capacidade demonstrada de liderar e colaborar com equipes multidisciplinares em um ambiente dinâmico, orientando a tomada de decisões técnicas.Comunicação Técnica Avançada: Fortes habilidades de comunicação, com experiência em apresentar soluções técnicas para stakeholders, equipes e gerência de forma clara, concisa e persuasiva.Orientação e Mentoria: Habilidade de orientar e monitorar desenvolvedores menos experientes, promovendo crescimento técnico dentro da equipe.Visão Estratégica de Tecnologia: Capacidade de alinhar decisões técnicas com os objetivos estratégicos da organização, e de recomendar tecnologias ou abordagens futuras.Mestria em Controle de Versão: Proficiência comprovada em sistemas de controle de versão, em particular com o Git. Isso inclui compreensão avançada de branching, merging, rebasing e outras operações avançadas, bem como a capacidade de estabelecer e orientar melhores práticas para gerenciamento de código.Especialização em CI/CD: Experiência profunda em configurar, otimizar e gerenciar pipelines de integração e entrega contínua, garantindo implantações frequentes, estáveis e automáticas. Familiaridade com ferramentas líderes de CI/CD, como Jenkins, GitLab CI, Azure DevOps, entre outras, e capacidade de integrá-las ao fluxo de trabalho de desenvolvimento para maximizar a eficiência.Soft skillsComunicação Eficaz: Habilidade de comunicar ideias e soluções técnicas de forma clara, tanto por escrito quanto verbalmente.Trabalho em Equipe: Capacidade de colaborar efetivamente com outras equipes e disciplinas (como designers e desenvolvedores front-end) para alcançar objetivos comuns.Resolução de Problemas: Excelente habilidade para identificar e resolver problemas, buscando soluções inovadoras e eficazes.Adaptabilidade: Capacidade de se adaptar rapidamente às mudanças de tecnologia e requisitos de projeto.Aprendizagem Contínua: Desejo de se manter atualizado com as últimas tendências e desenvolvimentos no campo do desenvolvimento back-end.Atenção aos Detalhes: Habilidade de manter um alto nível de precisão e atenção aos detalhes ao implementar designs e funcionalidades complexas.ContrataçãoTipo de contratação:PJ (anual)Carga horária:8 horas / dia, dias úteis.Modelo:Trabalho híbrido, com ida 1X por semana para empresa em caso de residir em SP capital.Se você é um Programador Back-End Sênior experiente e está procurando uma oportunidade de trabalhar em um projeto desafiador e inovador, envie seu currículo e carta de apresentação para rh@ticketsports.com.br
+O Ticket Sports é uma plataforma de venda de inscrições para eventos esportivos e estamos procurando umProgramador Back-End Sêniorpara se juntar à nossa equipe.
+O Ticket Sports é uma plataforma de venda de inscrições para eventos esportivos e estamos procurando umProgramador Back-End Sêniorpara se juntar à nossa equipe.
+
+Programador Back-End Sênior
+
+Como Programador Back-End Sênior, você será responsável por desenvolver e manter a estrutura base da plataforma Ticket Sports. Você trabalhará em estreita colaboração com outros membros da equipe de desenvolvimento para garantir que a plataforma seja fácil de usar e atenda às necessidades dos nossos clientes.
+Como Programador Back-End Sênior, você será responsável por desenvolver e manter a estrutura base da plataforma Ticket Sports. Você trabalhará em estreita colaboração com outros membros da equipe de desenvolvimento para garantir que a plataforma seja fácil de usar e atenda às necessidades dos nossos clientes.
+Para ser bem-sucedido nesta função, você deve ter:
+Para ser bem-sucedido nesta função, você deve ter:
+
+
+
+Qualificações e pré-requisitos
+Qualificações e pré-requisitos
+Qualificações e pré-requisitos
+
+Proatividade, organização, gostar e saber trabalhar em equipe.Boa comunicação, perfil com foco em aprendizado e evolução constante.Capacidade de resolver problemas de forma criativa.Experiência na área de tecnologia.
+Proatividade, organização, gostar e saber trabalhar em equipe.
+Proatividade, organização, gostar e saber trabalhar em equipe.
+Boa comunicação, perfil com foco em aprendizado e evolução constante.
+Boa comunicação, perfil com foco em aprendizado e evolução constante.
+Capacidade de resolver problemas de forma criativa.
+Capacidade de resolver problemas de forma criativa.
+Experiência na área de tecnologia.
+Experiência na área de tecnologia.
+
+
+
+Principais missões
+Principais missões
+Principais missões
+
+
+
+Projetar, desenvolver e implementar soluções de back-end robustas e escaláveis utilizando tecnologias .NET, como ASP.NET, C# e .NET Core.Colaborar estreitamente com equipes multifuncionais para entender os requisitos do projeto e traduzi-los em soluções técnicas viáveis.Realizar análises técnicas profundas, identificando possíveis pontos de melhoria e otimizando sistemas existentes para melhor desempenho e escalabilidade.Participar do ciclo completo de vida do desenvolvimento de software, desde a fase de requisitos até a manutenção pós-produção.Desenvolver e manter APIs RESTful, garantindo integração fluida com sistemas e serviços externos.Implementar práticas de segurança de código e padrões de codificação para garantir a estabilidade e segurança das aplicações desenvolvidas.Promover a adoção de melhores práticas de desenvolvimento, incluindo revisão de código e manutenção de documentação técnica.Mentorear desenvolvedores juniores, ajudando a cultivar um ambiente de aprendizado e crescimento contínuo.
+Projetar, desenvolver e implementar soluções de back-end robustas e escaláveis utilizando tecnologias .NET, como ASP.NET, C# e .NET Core.
+Projetar, desenvolver e implementar soluções de back-end robustas e escaláveis utilizando tecnologias .NET, como ASP.NET, C# e .NET Core.
+Colaborar estreitamente com equipes multifuncionais para entender os requisitos do projeto e traduzi-los em soluções técnicas viáveis.
+Colaborar estreitamente com equipes multifuncionais para entender os requisitos do projeto e traduzi-los em soluções técnicas viáveis.
+Realizar análises técnicas profundas, identificando possíveis pontos de melhoria e otimizando sistemas existentes para melhor desempenho e escalabilidade.
+Realizar análises técnicas profundas, identificando possíveis pontos de melhoria e otimizando sistemas existentes para melhor desempenho e escalabilidade.
+Participar do ciclo completo de vida do desenvolvimento de software, desde a fase de requisitos até a manutenção pós-produção.
+Participar do ciclo completo de vida do desenvolvimento de software, desde a fase de requisitos até a manutenção pós-produção.
+Desenvolver e manter APIs RESTful, garantindo integração fluida com sistemas e serviços externos.
+Desenvolver e manter APIs RESTful, garantindo integração fluida com sistemas e serviços externos.
+Implementar práticas de segurança de código e padrões de codificação para garantir a estabilidade e segurança das aplicações desenvolvidas.
+Implementar práticas de segurança de código e padrões de codificação para garantir a estabilidade e segurança das aplicações desenvolvidas.
+Promover a adoção de melhores práticas de desenvolvimento, incluindo revisão de código e manutenção de documentação técnica.
+Promover a adoção de melhores práticas de desenvolvimento, incluindo revisão de código e manutenção de documentação técnica.
+Mentorear desenvolvedores juniores, ajudando a cultivar um ambiente de aprendizado e crescimento contínuo.
+Mentorear desenvolvedores juniores, ajudando a cultivar um ambiente de aprendizado e crescimento contínuo.
+
+
+
+Hard skills
+Hard skills
+Hard skills
+
+
+
+Experiência Arquitetural: Mínimo de 8-10 anos de experiência comprovada em arquitetura e desenvolvimento de sistemas complexos, preferencialmente utilizando tecnologias .NET.Expertise em Design de Sistemas: Proficiência avançada em design de sistemas, programação orientada a objetos (OOP) e aplicação de padrões de design de software em escala empresarial.Mestria em Bancos de Dados: Experiência profunda com bancos de dados SQL e NoSQL, com capacidade comprovada de projetar, otimizar e gerenciar esquemas de banco de dados em ambientes de alta disponibilidade.Liderança em Projetos Cloud: Experiência comprovada na liderança de projetos em ambientes cloud, especialmente com Azure Functions, e na implementação de melhores práticas e padrões.Metodologias Ágeis Avançadas: Expertise em metodologias ágeis, com capacidade de orientar equipes e adaptar métodos conforme necessário (Scrum, Kanban, etc.).Resolução Avançada de Problemas: Habilidade comprovada em solucionar desafios técnicos complexos e em orientar equipes durante a resolução de problemas.Colaboração e Autonomia: Capacidade demonstrada de liderar e colaborar com equipes multidisciplinares em um ambiente dinâmico, orientando a tomada de decisões técnicas.Comunicação Técnica Avançada: Fortes habilidades de comunicação, com experiência em apresentar soluções técnicas para stakeholders, equipes e gerência de forma clara, concisa e persuasiva.Orientação e Mentoria: Habilidade de orientar e monitorar desenvolvedores menos experientes, promovendo crescimento técnico dentro da equipe.Visão Estratégica de Tecnologia: Capacidade de alinhar decisões técnicas com os objetivos estratégicos da organização, e de recomendar tecnologias ou abordagens futuras.Mestria em Controle de Versão: Proficiência comprovada em sistemas de controle de versão, em particular com o Git. Isso inclui compreensão avançada de branching, merging, rebasing e outras operações avançadas, bem como a capacidade de estabelecer e orientar melhores práticas para gerenciamento de código.Especialização em CI/CD: Experiência profunda em configurar, otimizar e gerenciar pipelines de integração e entrega contínua, garantindo implantações frequentes, estáveis e automáticas. Familiaridade com ferramentas líderes de CI/CD, como Jenkins, GitLab CI, Azure DevOps, entre outras, e capacidade de integrá-las ao fluxo de trabalho de desenvolvimento para maximizar a eficiência.
+Experiência Arquitetural: Mínimo de 8-10 anos de experiência comprovada em arquitetura e desenvolvimento de sistemas complexos, preferencialmente utilizando tecnologias .NET.
+Experiência Arquitetural: Mínimo de 8-10 anos de experiência comprovada em arquitetura e desenvolvimento de sistemas complexos, preferencialmente utilizando tecnologias .NET.
+Experiência Arquitetural
+Expertise em Design de Sistemas: Proficiência avançada em design de sistemas, programação orientada a objetos (OOP) e aplicação de padrões de design de software em escala empresarial.
+Expertise em Design de Sistemas: Proficiência avançada em design de sistemas, programação orientada a objetos (OOP) e aplicação de padrões de design de software em escala empresarial.
+Expertise em Design de Sistemas
+Mestria em Bancos de Dados: Experiência profunda com bancos de dados SQL e NoSQL, com capacidade comprovada de projetar, otimizar e gerenciar esquemas de banco de dados em ambientes de alta disponibilidade.
+Mestria em Bancos de Dados: Experiência profunda com bancos de dados SQL e NoSQL, com capacidade comprovada de projetar, otimizar e gerenciar esquemas de banco de dados em ambientes de alta disponibilidade.
+Mestria em Bancos de Dados
+Liderança em Projetos Cloud: Experiência comprovada na liderança de projetos em ambientes cloud, especialmente com Azure Functions, e na implementação de melhores práticas e padrões.
+Liderança em Projetos Cloud: Experiência comprovada na liderança de projetos em ambientes cloud, especialmente com Azure Functions, e na implementação de melhores práticas e padrões.
+Liderança em Projetos Cloud
+Metodologias Ágeis Avançadas: Expertise em metodologias ágeis, com capacidade de orientar equipes e adaptar métodos conforme necessário (Scrum, Kanban, etc.).
+Metodologias Ágeis Avançadas: Expertise em metodologias ágeis, com capacidade de orientar equipes e adaptar métodos conforme necessário (Scrum, Kanban, etc.).
+Metodologias Ágeis Avançadas
+Resolução Avançada de Problemas: Habilidade comprovada em solucionar desafios técnicos complexos e em orientar equipes durante a resolução de problemas.
+Resolução Avançada de Problemas: Habilidade comprovada em solucionar desafios técnicos complexos e em orientar equipes durante a resolução de problemas.
+Resolução Avançada de Problemas
+Colaboração e Autonomia: Capacidade demonstrada de liderar e colaborar com equipes multidisciplinares em um ambiente dinâmico, orientando a tomada de decisões técnicas.
+Colaboração e Autonomia: Capacidade demonstrada de liderar e colaborar com equipes multidisciplinares em um ambiente dinâmico, orientando a tomada de decisões técnicas.
+Colaboração e Autonomia
+Comunicação Técnica Avançada: Fortes habilidades de comunicação, com experiência em apresentar soluções técnicas para stakeholders, equipes e gerência de forma clara, concisa e persuasiva.
+Comunicação Técnica Avançada: Fortes habilidades de comunicação, com experiência em apresentar soluções técnicas para stakeholders, equipes e gerência de forma clara, concisa e persuasiva.
+Comunicação Técnica Avançada
+Orientação e Mentoria: Habilidade de orientar e monitorar desenvolvedores menos experientes, promovendo crescimento técnico dentro da equipe.
+Orientação e Mentoria: Habilidade de orientar e monitorar desenvolvedores menos experientes, promovendo crescimento técnico dentro da equipe.
+Orientação e Mentoria
+Visão Estratégica de Tecnologia: Capacidade de alinhar decisões técnicas com os objetivos estratégicos da organização, e de recomendar tecnologias ou abordagens futuras.
+Visão Estratégica de Tecnologia: Capacidade de alinhar decisões técnicas com os objetivos estratégicos da organização, e de recomendar tecnologias ou abordagens futuras.
+Visão Estratégica de Tecnologia
+Mestria em Controle de Versão: Proficiência comprovada em sistemas de controle de versão, em particular com o Git. Isso inclui compreensão avançada de branching, merging, rebasing e outras operações avançadas, bem como a capacidade de estabelecer e orientar melhores práticas para gerenciamento de código.
+Mestria em Controle de Versão: Proficiência comprovada em sistemas de controle de versão, em particular com o Git. Isso inclui compreensão avançada de branching, merging, rebasing e outras operações avançadas, bem como a capacidade de estabelecer e orientar melhores práticas para gerenciamento de código.
+Mestria em Controle de Versão
+Especialização em CI/CD: Experiência profunda em configurar, otimizar e gerenciar pipelines de integração e entrega contínua, garantindo implantações frequentes, estáveis e automáticas. Familiaridade com ferramentas líderes de CI/CD, como Jenkins, GitLab CI, Azure DevOps, entre outras, e capacidade de integrá-las ao fluxo de trabalho de desenvolvimento para maximizar a eficiência.
+Especialização em CI/CD: Experiência profunda em configurar, otimizar e gerenciar pipelines de integração e entrega contínua, garantindo implantações frequentes, estáveis e automáticas. Familiaridade com ferramentas líderes de CI/CD, como Jenkins, GitLab CI, Azure DevOps, entre outras, e capacidade de integrá-las ao fluxo de trabalho de desenvolvimento para maximizar a eficiência.
+Especialização em CI/CD
+
+
+
+Soft skills
+Soft skills
+Soft skills
+
+
+
+Comunicação Eficaz: Habilidade de comunicar ideias e soluções técnicas de forma clara, tanto por escrito quanto verbalmente.Trabalho em Equipe: Capacidade de colaborar efetivamente com outras equipes e disciplinas (como designers e desenvolvedores front-end) para alcançar objetivos comuns.Resolução de Problemas: Excelente habilidade para identificar e resolver problemas, buscando soluções inovadoras e eficazes.Adaptabilidade: Capacidade de se adaptar rapidamente às mudanças de tecnologia e requisitos de projeto.Aprendizagem Contínua: Desejo de se manter atualizado com as últimas tendências e desenvolvimentos no campo do desenvolvimento back-end.Atenção aos Detalhes: Habilidade de manter um alto nível de precisão e atenção aos detalhes ao implementar designs e funcionalidades complexas.
+Comunicação Eficaz: Habilidade de comunicar ideias e soluções técnicas de forma clara, tanto por escrito quanto verbalmente.
+Comunicação Eficaz: Habilidade de comunicar ideias e soluções técnicas de forma clara, tanto por escrito quanto verbalmente.
+Comunicação Eficaz
+Trabalho em Equipe: Capacidade de colaborar efetivamente com outras equipes e disciplinas (como designers e desenvolvedores front-end) para alcançar objetivos comuns.
+Trabalho em Equipe: Capacidade de colaborar efetivamente com outras equipes e disciplinas (como designers e desenvolvedores front-end) para alcançar objetivos comuns.
+Trabalho em Equipe
+Resolução de Problemas: Excelente habilidade para identificar e resolver problemas, buscando soluções inovadoras e eficazes.
+Resolução de Problemas: Excelente habilidade para identificar e resolver problemas, buscando soluções inovadoras e eficazes.
+Resolução de Problemas
+Adaptabilidade: Capacidade de se adaptar rapidamente às mudanças de tecnologia e requisitos de projeto.
+Adaptabilidade: Capacidade de se adaptar rapidamente às mudanças de tecnologia e requisitos de projeto.
+Adaptabilidade
+Aprendizagem Contínua: Desejo de se manter atualizado com as últimas tendências e desenvolvimentos no campo do desenvolvimento back-end.
+Aprendizagem Contínua: Desejo de se manter atualizado com as últimas tendências e desenvolvimentos no campo do desenvolvimento back-end.
+Aprendizagem Contínua
+Atenção aos Detalhes: Habilidade de manter um alto nível de precisão e atenção aos detalhes ao implementar designs e funcionalidades complexas.
+Atenção aos Detalhes: Habilidade de manter um alto nível de precisão e atenção aos detalhes ao implementar designs e funcionalidades complexas.
+Atenção aos Detalhes
+
+
+
+Contratação
+Contratação
+Contratação
+
+
+
+Tipo de contratação:PJ (anual)
+Tipo de contratação:PJ (anual)
+Tipo de contratação:
+
+Carga horária:8 horas / dia, dias úteis.
+Carga horária:8 horas / dia, dias úteis.
+Carga horária:
+
+Modelo:Trabalho híbrido, com ida 1X por semana para empresa em caso de residir em SP capital.
+Modelo:Trabalho híbrido, com ida 1X por semana para empresa em caso de residir em SP capital.
+Modelo:
+
+
+
+
+Se você é um Programador Back-End Sênior experiente e está procurando uma oportunidade de trabalhar em um projeto desafiador e inovador, envie seu currículo e carta de apresentação para rh@ticketsports.com.br
+Se você é um Programador Back-End Sênior experiente e está procurando uma oportunidade de trabalhar em um projeto desafiador e inovador, envie seu currículo e carta de apresentação para rh@ticketsports.com.br
+
+
+
+
+
+

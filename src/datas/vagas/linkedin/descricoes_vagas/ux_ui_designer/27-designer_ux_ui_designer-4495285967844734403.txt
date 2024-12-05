@@ -1,0 +1,94 @@
+link-https://www.linkedin.com/jobs/view/4056433185/?eBP=CwEAAAGS7kAYJINxOlfKgStyoM-8MiGfb5ved_dWWOnQEwXoOomoHHUqKH5Fsc4KJFF3LO_f4VPx5jCaxXzmpdwOxz6myK_an_D7LmsFM_bpDY9R4I-P4-ysQIkTNtgZPbb7BNeBThAM9ABKp9lvJLswex7yfJFUvLh98-yXbgRgcx0EiBcxUDDBCH_bxxekVQl52FJ9jBOGTZLO9pm8EEEXHmfpm7obbb8jvPNsllG5dPv2i-Uk-cTFlorRsWFMV_3P3EmzkFXiIhN5L-e5p7e3U40PR3ue1qSIUqGMhbdd16_wX_pvYib3I7xfYbdLQAtngpVWSIkWyfRNVeK0S1K--xe_FsFUW3waUxkxClVCxZSQrq50kpdysAHknMgQgPY8cooYAKAOOaxUOhSts56Q1ICyYUxLFIQls7NdChkl-H3rHv6Pm4mriODdrc4Sj-cqI-Ep3eHBFJYMUFQo8edgHlVoqEf3ho0y-kk7MEFerEX1268p4KmgRhfUXWZ2AQ&refId=Llwmb2nk19NKn9%2BQWPfBYA%3D%3D&trackingId=m2bxNlgx01dhEB2qiQfSeQ%3D%3D&trk=flagship3_search_srp_jobs
+
+UX/UI Designer - Web Developer for Media Agency (US-based/Remote)
+Sobre a vaga
+Paired is a leading agency in the US specializing in remote work solutions for businesses. We connect talented professionals with companies in need of their skills, regardless of geographical location. At Paired, we believe in the power of remote work to create opportunities and foster collaboration across borders.We are currently seeking a Web Developer to join our client's team. Our client is a Media Agency based in the US. As a Web Developer, you will be responsible for leveraging open UI frameworks to efficiently build standard components for our client's web applications.Coding Skills: This position requires strong coding skills. We are looking for a Web Developer who is proficient in UX and UI Design, capable of leveraging open UI frameworks to efficiently build standard components for our web applications.Type of Application: The candidate will primarily work on our client's SaaS applications, which include:DashboardsCreator management softwareReporting toolsCampaign tracking systemsPayments and invoicing modulesOther related functionalitiesTech Stack Expertise:Front-End: Vue.js and Vuex framework, HTML5, CSS3, JavaScript, and experience with UI frameworks such as Material-UI or BootstrapBack-End: Extensive experience with Node.js, as the entire stack is built on itCloud Platforms:Google Cloud Platform (GCP): Firestore (database), GC Storage (file storage), GC Functions (low-compute tasks), GC App Engine (high-compute tasks), GC Hosting, and CDN servicesAmazon Web Services (AWS): S3 (file storage), EC2 (high-compute tasks).Databases: Proficiency with GC Firestore.Other Tools: Proficiency with version control systems (Git), RESTful APIs, and responsive design principles.Additional Insights:Location: We are looking for candidates from LATAM to maintain close time zone alignment with our teamExperience: Ideally, the candidate should have 3+ years of experience in web development with a strong portfolio showcasing their UX/UI design workCollaboration: The role requires close collaboration with the product and design teams to create user-centric solutionsRequirementsWe need 5 hours of overlap per day, Monday to Friday, with 8 am to 5pm Pacific TimeBenefitsWork from AnywhereCompetitive Salary (USD): 800 - 1350 USD per monthFlexible Hours with 5 hours of overlap with Pacific Time
+
+
+
+
+
+
+
+
+DashboardsCreator management softwareReporting toolsCampaign tracking systemsPayments and invoicing modulesOther related functionalities
+Dashboards
+Dashboards
+
+Creator management software
+Creator management software
+
+Reporting tools
+Reporting tools
+
+Campaign tracking systems
+Campaign tracking systems
+
+Payments and invoicing modules
+Payments and invoicing modules
+
+Other related functionalities
+Other related functionalities
+
+
+
+
+
+Front-End: Vue.js and Vuex framework, HTML5, CSS3, JavaScript, and experience with UI frameworks such as Material-UI or BootstrapBack-End: Extensive experience with Node.js, as the entire stack is built on it
+Front-End: Vue.js and Vuex framework, HTML5, CSS3, JavaScript, and experience with UI frameworks such as Material-UI or Bootstrap
+Front-End: Vue.js and Vuex framework, HTML5, CSS3, JavaScript, and experience with UI frameworks such as Material-UI or Bootstrap
+
+Back-End: Extensive experience with Node.js, as the entire stack is built on it
+Back-End: Extensive experience with Node.js, as the entire stack is built on it
+
+
+
+
+
+Google Cloud Platform (GCP): Firestore (database), GC Storage (file storage), GC Functions (low-compute tasks), GC App Engine (high-compute tasks), GC Hosting, and CDN services
+Google Cloud Platform (GCP): Firestore (database), GC Storage (file storage), GC Functions (low-compute tasks), GC App Engine (high-compute tasks), GC Hosting, and CDN services
+Google Cloud Platform (GCP): Firestore (database), GC Storage (file storage), GC Functions (low-compute tasks), GC App Engine (high-compute tasks), GC Hosting, and CDN services
+
+
+
+
+
+
+
+
+
+
+
+Location: We are looking for candidates from LATAM to maintain close time zone alignment with our teamExperience: Ideally, the candidate should have 3+ years of experience in web development with a strong portfolio showcasing their UX/UI design workCollaboration: The role requires close collaboration with the product and design teams to create user-centric solutions
+Location: We are looking for candidates from LATAM to maintain close time zone alignment with our team
+Location: We are looking for candidates from LATAM to maintain close time zone alignment with our team
+
+Experience: Ideally, the candidate should have 3+ years of experience in web development with a strong portfolio showcasing their UX/UI design work
+Experience: Ideally, the candidate should have 3+ years of experience in web development with a strong portfolio showcasing their UX/UI design work
+
+Collaboration: The role requires close collaboration with the product and design teams to create user-centric solutions
+Collaboration: The role requires close collaboration with the product and design teams to create user-centric solutions
+
+
+
+
+Requirements
+
+
+We need 5 hours of overlap per day, Monday to Friday, with 8 am to 5pm Pacific Time
+We need 5 hours of overlap per day, Monday to Friday, with 8 am to 5pm Pacific Time
+We need 5 hours of overlap per day, Monday to Friday, with 8 am to 5pm Pacific Time
+
+
+
+
+Benefits
+
+
+Work from AnywhereCompetitive Salary (USD): 800 - 1350 USD per monthFlexible Hours with 5 hours of overlap with Pacific Time
+Work from Anywhere
+Work from Anywhere
+Competitive Salary (USD): 800 - 1350 USD per month
+Competitive Salary (USD): 800 - 1350 USD per month
+Flexible Hours with 5 hours of overlap with Pacific Time
+Flexible Hours with 5 hours of overlap with Pacific Time

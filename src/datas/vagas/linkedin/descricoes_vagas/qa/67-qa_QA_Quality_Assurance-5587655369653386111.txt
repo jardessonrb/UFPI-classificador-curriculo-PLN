@@ -1,0 +1,99 @@
+link-https://www.linkedin.com/jobs/view/4049384259/?eBP=CwEAAAGS7kZczlzwPNgVsQ9SWGZ8ccW_Ity5nN1jD4xEpLofFS9Bv6ooywB698qa4v_FZWuQfJkAZlV_eZKvn2NkjpxJiHTnZHgX1pvlv6Q7d8WcGnXIv4fvGj7C9ec7jnn2RW92ZsULRSly0cWQhM1sHhDZIa_xjIyfPZNzZg889W1PhugICA6BJdjBOQHNIzD2Lvg8aGoXEeMMQRXgps8FTEMKxbLTJnnulXR_fTMdBGrN2aXMGv21-qcVZWpyVFy5rKuWu55_0qozIAtJTwLoOiJVpa3wwLB6f_bxc-b8NElPsFqLM5X74bc2Rr8FCT-nIzODDbeiIpXVCvrMyTPrDfVhrLUxXrUcqiJLhfZNXxMYNTnYasfymGNooKwyMxKG8j7YADJ9LH8JWJJPiKdRJU2PZWHywCLsBQkXggWnvlLPZ5T_x4X69hn_XF4P9RCEvnjBvnN_nC7A2XXuxdKYtMzAgYMKCRfjJA8An1IPy4NjQOqM6n0WeGxCsQgQvvkkYw&refId=hDFoZRnZMysewv9JP8NQaA%3D%3D&trackingId=phToMPABB%2BbAqTQY030stQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Automation QA Engineer
+Sobre a vaga
+This is a tempting opportunity to play the role of a Senior Automation QA in enabling continuous delivery and releasing features on demand. If you have a passion for building functional and code coverage test automation and you feel like automation testing is something you genuinely embrace with enthusiasm, look no further – join us!Work at Exadel – Who We AreSince 1998, Exadel has been engineering its products and custom software for clients of all sizes. Headquartered in Walnut Creek, California, Exadel has 2,000+ employees in development centers across America, Europe, and Asia. People drive Exadel’s success and are at the core of our values.About Our CustomerFounded in the Netherlands 180+ years ago, the company operates in over 150 countries. The customer is a global leader in information services for health, tax and accounting, risk and compliance, finance, and legal sectors.Project TeamA dynamic and diverse team awaits you in our multicultural environment. With approximately 20 dedicated teammates, comprising Lead Software Engineers/Architects, Data Scientists, and AWS specialists sourced from various vendors, you’ll find yourself immersed in a collaborative ecosystem. Our team thrives on Agile methodologies, ensuring seamless collaboration and swift adaptation to evolving project requirements. Join us and be part of our innovative and forward-thinking community.Requirements5+ years of relevant software testing and test automation work experienceExpertise in JavaScript (NodeJS (Nest.js), TypeScript, React) for test automation developmentGrounding in QA processes, open source test frameworks, test design strategies, writing test cases, and automating testsCompetency in unit testing frameworks and methodologiesProficiency in Playwright for UI testingFamiliarity with API testing and servicesCoding background in any languageHigh level of algorithms knowledge is required (there will be 4 algorithmic challenges)English levelUpper-IntermediateNice to HaveCompetency in PythonResponsibilitiesDevelop robust and scalable test automation frameworks using JavaScript and unit testing frameworksCreate plans, test scenarios, test cases, and test reportsExecute automated and manual tests for both UI and API servicesActive participation in the software development process, and cooperation with programmers, analysts, and administratorsDevelop and improve a set of methodologies, procedures, and tools used in the field of testingCreate and maintain comprehensive test documentation, including test plans, test cases, and test reportsAdvantages of Working with ExadelExadel is a global company, and benefits can vary depending on your location and contract type. Your recruiter will provide specific information about the benefits available to you.International projectsIn-office, hybrid or remote modeMedical healthcareRecognition programProfessional & personal development opportunitiesForeign languages classesWell-being programCorporate eventsSports compensationReferral programEquipment provisionPaid vacation & sick daysDear candidate, our recruiters only use email addresses with the Exadel domain: @exadel.com. Please be cautious of potential scams. For more details please visit
+
+
+
+
+
+
+About Our Customer
+
+
+
+
+
+
+
+
+Requirements
+
+
+5+ years of relevant software testing and test automation work experienceExpertise in JavaScript (NodeJS (Nest.js), TypeScript, React) for test automation developmentGrounding in QA processes, open source test frameworks, test design strategies, writing test cases, and automating testsCompetency in unit testing frameworks and methodologiesProficiency in Playwright for UI testingFamiliarity with API testing and servicesCoding background in any languageHigh level of algorithms knowledge is required (there will be 4 algorithmic challenges)
+5+ years of relevant software testing and test automation work experience
+5+ years of relevant software testing and test automation work experience
+Expertise in JavaScript (NodeJS (Nest.js), TypeScript, React) for test automation development
+Expertise in JavaScript (NodeJS (Nest.js), TypeScript, React) for test automation development
+Grounding in QA processes, open source test frameworks, test design strategies, writing test cases, and automating tests
+Grounding in QA processes, open source test frameworks, test design strategies, writing test cases, and automating tests
+Competency in unit testing frameworks and methodologies
+Competency in unit testing frameworks and methodologies
+Proficiency in Playwright for UI testing
+Proficiency in Playwright for UI testing
+Familiarity with API testing and services
+Familiarity with API testing and services
+Coding background in any language
+Coding background in any language
+High level of algorithms knowledge is required (there will be 4 algorithmic challenges)
+High level of algorithms knowledge is required (there will be 4 algorithmic challenges)
+
+
+
+
+
+
+
+
+
+
+Responsibilities
+
+
+Develop robust and scalable test automation frameworks using JavaScript and unit testing frameworksCreate plans, test scenarios, test cases, and test reportsExecute automated and manual tests for both UI and API servicesActive participation in the software development process, and cooperation with programmers, analysts, and administratorsDevelop and improve a set of methodologies, procedures, and tools used in the field of testingCreate and maintain comprehensive test documentation, including test plans, test cases, and test reports
+Develop robust and scalable test automation frameworks using JavaScript and unit testing frameworks
+Develop robust and scalable test automation frameworks using JavaScript and unit testing frameworks
+Create plans, test scenarios, test cases, and test reports
+Create plans, test scenarios, test cases, and test reports
+Execute automated and manual tests for both UI and API services
+Execute automated and manual tests for both UI and API services
+Active participation in the software development process, and cooperation with programmers, analysts, and administrators
+Active participation in the software development process, and cooperation with programmers, analysts, and administrators
+Develop and improve a set of methodologies, procedures, and tools used in the field of testing
+Develop and improve a set of methodologies, procedures, and tools used in the field of testing
+Create and maintain comprehensive test documentation, including test plans, test cases, and test reports
+Create and maintain comprehensive test documentation, including test plans, test cases, and test reports
+
+
+
+
+
+
+International projectsIn-office, hybrid or remote modeMedical healthcareRecognition programProfessional & personal development opportunitiesForeign languages classesWell-being programCorporate eventsSports compensationReferral programEquipment provisionPaid vacation & sick days
+International projects
+International projects
+In-office, hybrid or remote mode
+In-office, hybrid or remote mode
+Medical healthcare
+Medical healthcare
+Recognition program
+Recognition program
+Professional & personal development opportunities
+Professional & personal development opportunities
+Foreign languages classes
+Foreign languages classes
+Well-being program
+Well-being program
+Corporate events
+Corporate events
+Sports compensation
+Sports compensation
+Referral program
+Referral program
+Equipment provision
+Equipment provision
+Paid vacation & sick days
+Paid vacation & sick days
+
+

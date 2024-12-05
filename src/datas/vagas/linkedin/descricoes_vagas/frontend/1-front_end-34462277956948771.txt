@@ -1,0 +1,119 @@
+link-https://www.linkedin.com/jobs/view/4033711693/?eBP=CwEAAAGS7kvwu56wau9V_WZ1O0PaO_if2pMyjxJ2FET794OUiDkSXJBzd1okN2nBBLEHdJt43uvHNLMESpyhmeoiGtVUpzf5nbk6dnIcX2KKKlfid3NTmHA3mSrxGpd23hN2XnOi_p5EpGWsbcHbUVcQw9XKCfcdAHSW8g21eGjtRY6bBpxwZ9W82r1FwUvasLWhRd1wcSi7rO9BsVdi3y5waScxGkBJthYhOQKnvjZn8CEKxzUEet75NTGIreYOZXDDNRDf0qspfgxKVbQ-sU5_zfXXBZfZ5n_JCiPBZNJqgjEXMHFqb6Vw2-BadtwuV7S1Uz7kqGmeZNDscEDHWG3viTONlZZzbrkGPBZJNkvvgOHRi5LVo6sfz8rBVEv537ILivVmdzeTAQL5ldmdgjVppMtLE0Ulnvo9k4veFS7DtX4cWZ7NpgN-vj9yyFvyFr7E5TNWPbC_NPlgn_Pp0HNJ-9U428gmXfbS_AXqK_FjEQc3GUsqLXKXzzgcFf1yoN9HT2fCzXo&refId=lNkZ7WB16PqaLtMchSITbg%3D%3D&trackingId=F0sQBHrWP2wrqceMR1Q19g%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor FrontEnd - Sênior
+Sobre a vaga
+Você busca desenvolver sua carreira e atuar como Desenvolvedor FrontEnd - Sênior em uma empresa líder no segmento de Tecnologia? Junte-se a nós!A Thomson Reuters combina a inteligência, tecnologia e expertise humana para fornecer respostas confiáveis que ajudam os profissionais a tomar decisões confiantes e administrar melhor seus negócios.Nós os ajudamos a reinventar a maneira como os profissionais trabalham, nossa equipe de especialistas reúne informação, inovação e insight para desvendar situações complexas nos mercados Tributário, Comercio Exterior, Contábil e Jurídico, respaldando nossos clientes na tomada de decisão.Sobre a Posição(About the Role)Nesta oportunidade, como Desenvolvedor Front-End Sênior, você irá:Escreve um novo software, faz modificações no software existente ou integra aplicativos e módulos de software de acordo com as especificações acordadas;Realizar testes unitários e testes de integração de novas funcionalidades desenvolvidas pela equipe;Criar especificações técnicas para futuras versões;Identificar problemas ou possíveis problemas relacionados às operações do sistema, propor soluções, monitorar sua execução e avaliar os resultados;Melhorar o aplicativo existente por meio de refatoração de código e práticas recomendadas;Contribuir para melhorar a qualidade geral do produto, participando de revisões e processos de aprovação;Participar de sessões de treinamento e compartilhamento de conhecimento entre as equipes.Sobre Você(About You)Para esta posição, buscamos profissionais com as Habilidades & Experiência:React.js;Banco de dados relacional;Microsserviços;AWS;Docker;Git.DiferenciaisMensageria;Kubernets.O que iremos te oferecer?Você irá se juntar a uma empresa com ambiente de trabalho inclusivo, comprometida com seu desenvolvimento profissional e pessoal por meio de:Modelo de trabalho híbrido: Adotamos o modelo de trabalho híbrido e flexível (de 2 a 3 dias por semana no escritório, dependendo da função), oferecendo uma experiência que proporciona conexão das equipes de maneira digital e fisicamente.Wellbeing: plano de benefícios abrangente que inclui assistência médica e odontológica, acesso a plataformas de bem-estar físico e psicológico, benefício flexível de vale alimentação ou refeição. Férias flexíveis, dois dias de folga para saúde mental em toda a empresa; trabalho remoto por até 8 semanas em um ano, sendo que 4 dessas semanas podem ser fora do país e as demais no país, e programas de incentivo aos funcionários. Programa de Apoio ao Colaborador com recursos para o bem-estar mental, físico e financeiro.Cultura: empresa globalmente reconhecida e premiada por igualdade, diversidade e inclusão, flexibilidade, equilíbrio entre vida pessoal e profissional e muito mais.Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning; Talent Marketplace interno com oportunidades de trabalhar em projetos de diferentes equipes; plano de mentoria e Ten Thousand Coffees Thomson Reuters, programa de conversa com líderes.Impacto social: quatro grupos de recursos empresariais orientados por funcionários; dois dias de voluntariado remunerado anualmente; iniciativas ambientais, sociais e de governança (ESG) para impacto local e global.Trabalho com propósito: ajudamos nossos clientes a buscar justiça, verdade e transparência. Juntos, com os profissionais e as instituições que atendemos, ajudamos a defender o estado de direito, a fazer girar as engrenagens do comércio, a capturar agentes mal-intencionados, a relatar os fatos e a fornecer informações confiáveis e imparciais a pessoas de todo o mundo.Como uma empresa global, contamos com a diversidade de culturas e pensamentos para atingir nossos objetivos. Para garantir que possamos fazer isso, buscamos talentos qualificados em nossas operações em todo o mundo, independentemente de raça, cor, gênero, nacionalidade, religião, deficiência, idade, estado civil ou qualquer outra classificação protegida pela legislação nacional ou local. Temos orgulho de sermos um empregador que oferece oportunidades iguais de emprego.Ao clicar em “Candidatar-se”, será iniciado o processo de envio de uma candidatura. Se tiver alguma dúvida antes de clicar em “Candidatar-se”, entre em contato com o recrutador.Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.AccessibilityAs a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.Protect yourself from fraudulent job postingsclick hereto know more.More information about Thomson Reuters can be found onhttps://thomsonreuters.com.
+
+
+
+
+
+
+Sobre a Posição
+
+
+
+
+
+Escreve um novo software, faz modificações no software existente ou integra aplicativos e módulos de software de acordo com as especificações acordadas;Realizar testes unitários e testes de integração de novas funcionalidades desenvolvidas pela equipe;Criar especificações técnicas para futuras versões;Identificar problemas ou possíveis problemas relacionados às operações do sistema, propor soluções, monitorar sua execução e avaliar os resultados;Melhorar o aplicativo existente por meio de refatoração de código e práticas recomendadas;Contribuir para melhorar a qualidade geral do produto, participando de revisões e processos de aprovação;Participar de sessões de treinamento e compartilhamento de conhecimento entre as equipes.
+Escreve um novo software, faz modificações no software existente ou integra aplicativos e módulos de software de acordo com as especificações acordadas;
+Escreve um novo software, faz modificações no software existente ou integra aplicativos e módulos de software de acordo com as especificações acordadas;
+Realizar testes unitários e testes de integração de novas funcionalidades desenvolvidas pela equipe;
+Realizar testes unitários e testes de integração de novas funcionalidades desenvolvidas pela equipe;
+
+Criar especificações técnicas para futuras versões;
+Criar especificações técnicas para futuras versões;
+
+Identificar problemas ou possíveis problemas relacionados às operações do sistema, propor soluções, monitorar sua execução e avaliar os resultados;
+Identificar problemas ou possíveis problemas relacionados às operações do sistema, propor soluções, monitorar sua execução e avaliar os resultados;
+
+Melhorar o aplicativo existente por meio de refatoração de código e práticas recomendadas;
+Melhorar o aplicativo existente por meio de refatoração de código e práticas recomendadas;
+
+Contribuir para melhorar a qualidade geral do produto, participando de revisões e processos de aprovação;
+Contribuir para melhorar a qualidade geral do produto, participando de revisões e processos de aprovação;
+
+Participar de sessões de treinamento e compartilhamento de conhecimento entre as equipes.
+Participar de sessões de treinamento e compartilhamento de conhecimento entre as equipes.
+
+
+
+
+Sobre Você
+
+
+
+
+
+React.js;Banco de dados relacional;Microsserviços;AWS;Docker;Git.
+React.js;
+React.js;
+Banco de dados relacional;
+Banco de dados relacional;
+Microsserviços;
+Microsserviços;
+AWS;
+AWS;
+Docker;
+Docker;
+Git.
+Git.
+
+
+
+
+
+Mensageria;Kubernets.
+Mensageria;
+Mensageria;
+Kubernets.
+Kubernets.
+
+
+
+O que iremos te oferecer?
+
+
+
+
+Modelo de trabalho híbrido: Adotamos o modelo de trabalho híbrido e flexível (de 2 a 3 dias por semana no escritório, dependendo da função), oferecendo uma experiência que proporciona conexão das equipes de maneira digital e fisicamente.Wellbeing: plano de benefícios abrangente que inclui assistência médica e odontológica, acesso a plataformas de bem-estar físico e psicológico, benefício flexível de vale alimentação ou refeição. Férias flexíveis, dois dias de folga para saúde mental em toda a empresa; trabalho remoto por até 8 semanas em um ano, sendo que 4 dessas semanas podem ser fora do país e as demais no país, e programas de incentivo aos funcionários. Programa de Apoio ao Colaborador com recursos para o bem-estar mental, físico e financeiro.Cultura: empresa globalmente reconhecida e premiada por igualdade, diversidade e inclusão, flexibilidade, equilíbrio entre vida pessoal e profissional e muito mais.Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning; Talent Marketplace interno com oportunidades de trabalhar em projetos de diferentes equipes; plano de mentoria e Ten Thousand Coffees Thomson Reuters, programa de conversa com líderes.Impacto social: quatro grupos de recursos empresariais orientados por funcionários; dois dias de voluntariado remunerado anualmente; iniciativas ambientais, sociais e de governança (ESG) para impacto local e global.Trabalho com propósito: ajudamos nossos clientes a buscar justiça, verdade e transparência. Juntos, com os profissionais e as instituições que atendemos, ajudamos a defender o estado de direito, a fazer girar as engrenagens do comércio, a capturar agentes mal-intencionados, a relatar os fatos e a fornecer informações confiáveis e imparciais a pessoas de todo o mundo.
+Modelo de trabalho híbrido: Adotamos o modelo de trabalho híbrido e flexível (de 2 a 3 dias por semana no escritório, dependendo da função), oferecendo uma experiência que proporciona conexão das equipes de maneira digital e fisicamente.
+Modelo de trabalho híbrido: Adotamos o modelo de trabalho híbrido e flexível (de 2 a 3 dias por semana no escritório, dependendo da função), oferecendo uma experiência que proporciona conexão das equipes de maneira digital e fisicamente.
+Wellbeing: plano de benefícios abrangente que inclui assistência médica e odontológica, acesso a plataformas de bem-estar físico e psicológico, benefício flexível de vale alimentação ou refeição. Férias flexíveis, dois dias de folga para saúde mental em toda a empresa; trabalho remoto por até 8 semanas em um ano, sendo que 4 dessas semanas podem ser fora do país e as demais no país, e programas de incentivo aos funcionários. Programa de Apoio ao Colaborador com recursos para o bem-estar mental, físico e financeiro.
+Wellbeing: plano de benefícios abrangente que inclui assistência médica e odontológica, acesso a plataformas de bem-estar físico e psicológico, benefício flexível de vale alimentação ou refeição. Férias flexíveis, dois dias de folga para saúde mental em toda a empresa; trabalho remoto por até 8 semanas em um ano, sendo que 4 dessas semanas podem ser fora do país e as demais no país, e programas de incentivo aos funcionários. Programa de Apoio ao Colaborador com recursos para o bem-estar mental, físico e financeiro.
+Cultura: empresa globalmente reconhecida e premiada por igualdade, diversidade e inclusão, flexibilidade, equilíbrio entre vida pessoal e profissional e muito mais.
+Cultura: empresa globalmente reconhecida e premiada por igualdade, diversidade e inclusão, flexibilidade, equilíbrio entre vida pessoal e profissional e muito mais.
+Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning; Talent Marketplace interno com oportunidades de trabalhar em projetos de diferentes equipes; plano de mentoria e Ten Thousand Coffees Thomson Reuters, programa de conversa com líderes.
+Aprendizado e desenvolvimento: Acesso ao LinkedIn Learning; Talent Marketplace interno com oportunidades de trabalhar em projetos de diferentes equipes; plano de mentoria e Ten Thousand Coffees Thomson Reuters, programa de conversa com líderes.
+Impacto social: quatro grupos de recursos empresariais orientados por funcionários; dois dias de voluntariado remunerado anualmente; iniciativas ambientais, sociais e de governança (ESG) para impacto local e global.
+Impacto social: quatro grupos de recursos empresariais orientados por funcionários; dois dias de voluntariado remunerado anualmente; iniciativas ambientais, sociais e de governança (ESG) para impacto local e global.
+Trabalho com propósito: ajudamos nossos clientes a buscar justiça, verdade e transparência. Juntos, com os profissionais e as instituições que atendemos, ajudamos a defender o estado de direito, a fazer girar as engrenagens do comércio, a capturar agentes mal-intencionados, a relatar os fatos e a fornecer informações confiáveis e imparciais a pessoas de todo o mundo.
+Trabalho com propósito: ajudamos nossos clientes a buscar justiça, verdade e transparência. Juntos, com os profissionais e as instituições que atendemos, ajudamos a defender o estado de direito, a fazer girar as engrenagens do comércio, a capturar agentes mal-intencionados, a relatar os fatos e a fornecer informações confiáveis e imparciais a pessoas de todo o mundo.
+
+
+
+
+
+
+
+
+
+
+
+Accessibility
+
+
+
+
+
+
+
+Protect yourself from fraudulent job postingsclick hereto know more.
+Protect yourself from fraudulent job postingsclick hereto know more.
+
+
+
+
+
+
+

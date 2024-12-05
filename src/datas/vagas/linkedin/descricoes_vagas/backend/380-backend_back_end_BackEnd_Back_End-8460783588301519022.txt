@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4055143657/?eBP=CwEAAAGS7lCK8TxIHciphg3xEE3_MhmgBw417HHi9EPU28QFsG_6llNJoAlJBzF59SROcrOH7PtFdUe9Q1ZHfI5kACR-K-EhUph-VhL6DMxpt4fiXmCB-WTdy5tqhk7msInILNF_YcW0813H2YVnHGgGxKIa2VPZ1R5QkEi615z5bHAxEzUE2lZK551EWQ5cggzhunJLR_rEf3vYe6PolyU4KzVuT57AvUuVZDl3Cxi560I9cxFkAvvTOiaUTJ7jL8n5u8U-5sOojyPDmqLmGziPYjqDIqOpRmJEpqynA3NRkvxyBphOQ-Q5BefFT00LHf47sWxUuGHvmiJwTbTpL5w1pA4vGd636ZCw11dODbSUHUv8OrIXuXfqsQloRP-TCDBa3eRjf4LeSr7LuJxNihOcKB7GfOK7eS73jurcqmSQIs3roEn-M2NwNu9tNtyfLwOqmOi68LptX_OxluhPvBpEa9S9siH1bH2OsOFblfvB_Mgj2O2EA2ZyHvGywF3JU9ZaWMaD&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=%2FqRKqYGemMEqpJiXKSLrvA%3D%3D&trk=flagship3_search_srp_jobs
+
+Engenheiro Desenvolvedor Backend - Java SR
+Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital.Somos globais, somos GPTW.🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇Conhecimento Técnico:Componentes nativos, Views, criação de componentes customizados)Entendimento dos padrões de design e guidelines de interface da ApplePossuir conhecimentos de integração utilizando API RESTfulDisponibilidade para atuar de forma híbrida 3x na semana em Interlagos - SP.Responsabilidades:Desenvolver, manter e otimizar aplicações backend utilizando Java, garantindo alta performance, escalabilidade e segurançaImplementar e seguir as boas práticas de desenvolvimento, incluindo testes automatizados, code reviews e integração contínuaColaborar com equipes de produto e frontend para definir requisitos e entregar funcionalidades alinhadas às necessidades do negócioAtuar em um ambiente ágil, participando de cerimônias como daily meetings, planning, grooming e retrospectivesImplementar soluções de infraestrutura na AWS, utilizando EKS (Kubernetes) e ECS (Elastic Container Service) para gerenciar e escalar aplicações em containersImplementar modelos arquiteturais que envolvem firewall, gateway, load balancing, OAuth, Middleware ou BFF (Backend for Frontend), garantindo a segurança e eficiência das integraçõesConduzir diagnósticos e resoluções de problemas complexos em produção, sempre focando na melhoria contínua dos sistemas.Diferenciais:Certificações AWS (como AWS Certified Solutions Architect ou AWS Certified Developer).Experiência com arquiteturas orientadas a eventos, utilizando Kafka, RabbitMQ ou similares.Conhecimento em ferramentas de monitoramento e observabilidade como Dynatrace, Grafana ou ELK Stack.E temos também o Clube da Four que oferece ótimas vantagens! 👇🩺 Assistência médica;🍲 VR e VA flexível;🏋️ Gympass e Wellz;⚽ Parceria com o SESC;🍣 Descontos em restaurantes;📚 Descontos em cursos técnicos e de ensinos superior;🧠 Descontos em escolas e plataformas de idiomas.E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+A Foursys é um time apaixonado por inovação, design e transformação digital.
+
+
+
+Somos globais, somos GPTW.
+Somos globais, somos GPTW.
+
+
+
+🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+🌈♿️ Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys!
+
+
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: 👇
+
+
+
+Conhecimento Técnico:
+Conhecimento Técnico:
+Conhecimento Técnico:
+Componentes nativos, Views, criação de componentes customizados)Entendimento dos padrões de design e guidelines de interface da ApplePossuir conhecimentos de integração utilizando API RESTful
+Componentes nativos, Views, criação de componentes customizados)
+Componentes nativos, Views, criação de componentes customizados)
+Entendimento dos padrões de design e guidelines de interface da Apple
+Entendimento dos padrões de design e guidelines de interface da Apple
+Possuir conhecimentos de integração utilizando API RESTful
+Possuir conhecimentos de integração utilizando API RESTful
+
+
+
+Disponibilidade para atuar de forma híbrida 3x na semana em Interlagos - SP.
+Disponibilidade para atuar de forma híbrida 3x na semana em Interlagos - SP.
+Disponibilidade para atuar de forma híbrida 3x na semana em Interlagos - SP.
+
+
+
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+Desenvolver, manter e otimizar aplicações backend utilizando Java, garantindo alta performance, escalabilidade e segurançaImplementar e seguir as boas práticas de desenvolvimento, incluindo testes automatizados, code reviews e integração contínuaColaborar com equipes de produto e frontend para definir requisitos e entregar funcionalidades alinhadas às necessidades do negócioAtuar em um ambiente ágil, participando de cerimônias como daily meetings, planning, grooming e retrospectivesImplementar soluções de infraestrutura na AWS, utilizando EKS (Kubernetes) e ECS (Elastic Container Service) para gerenciar e escalar aplicações em containersImplementar modelos arquiteturais que envolvem firewall, gateway, load balancing, OAuth, Middleware ou BFF (Backend for Frontend), garantindo a segurança e eficiência das integraçõesConduzir diagnósticos e resoluções de problemas complexos em produção, sempre focando na melhoria contínua dos sistemas.
+Desenvolver, manter e otimizar aplicações backend utilizando Java, garantindo alta performance, escalabilidade e segurança
+Desenvolver, manter e otimizar aplicações backend utilizando Java, garantindo alta performance, escalabilidade e segurança
+
+Implementar e seguir as boas práticas de desenvolvimento, incluindo testes automatizados, code reviews e integração contínua
+Implementar e seguir as boas práticas de desenvolvimento, incluindo testes automatizados, code reviews e integração contínua
+Colaborar com equipes de produto e frontend para definir requisitos e entregar funcionalidades alinhadas às necessidades do negócio
+Colaborar com equipes de produto e frontend para definir requisitos e entregar funcionalidades alinhadas às necessidades do negócio
+Atuar em um ambiente ágil, participando de cerimônias como daily meetings, planning, grooming e retrospectives
+Atuar em um ambiente ágil, participando de cerimônias como daily meetings, planning, grooming e retrospectives
+Implementar soluções de infraestrutura na AWS, utilizando EKS (Kubernetes) e ECS (Elastic Container Service) para gerenciar e escalar aplicações em containers
+Implementar soluções de infraestrutura na AWS, utilizando EKS (Kubernetes) e ECS (Elastic Container Service) para gerenciar e escalar aplicações em containers
+Implementar modelos arquiteturais que envolvem firewall, gateway, load balancing, OAuth, Middleware ou BFF (Backend for Frontend), garantindo a segurança e eficiência das integrações
+Implementar modelos arquiteturais que envolvem firewall, gateway, load balancing, OAuth, Middleware ou BFF (Backend for Frontend), garantindo a segurança e eficiência das integrações
+Conduzir diagnósticos e resoluções de problemas complexos em produção, sempre focando na melhoria contínua dos sistemas.
+Conduzir diagnósticos e resoluções de problemas complexos em produção, sempre focando na melhoria contínua dos sistemas.
+
+
+
+
+
+
+Diferenciais:
+Diferenciais:
+Diferenciais:
+Certificações AWS (como AWS Certified Solutions Architect ou AWS Certified Developer).Experiência com arquiteturas orientadas a eventos, utilizando Kafka, RabbitMQ ou similares.Conhecimento em ferramentas de monitoramento e observabilidade como Dynatrace, Grafana ou ELK Stack.
+Certificações AWS (como AWS Certified Solutions Architect ou AWS Certified Developer).
+Certificações AWS (como AWS Certified Solutions Architect ou AWS Certified Developer).
+Experiência com arquiteturas orientadas a eventos, utilizando Kafka, RabbitMQ ou similares.
+Experiência com arquiteturas orientadas a eventos, utilizando Kafka, RabbitMQ ou similares.
+Conhecimento em ferramentas de monitoramento e observabilidade como Dynatrace, Grafana ou ELK Stack.
+Conhecimento em ferramentas de monitoramento e observabilidade como Dynatrace, Grafana ou ELK Stack.
+
+
+
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+E temos também o Clube da Four que oferece ótimas vantagens! 👇
+
+
+
+🩺 Assistência médica;
+🩺 Assistência médica;
+🍲 VR e VA flexível;
+🍲 VR e VA flexível;
+🏋️ Gympass e Wellz;
+🏋️ Gympass e Wellz;
+⚽ Parceria com o SESC;
+⚽ Parceria com o SESC;
+🍣 Descontos em restaurantes;
+🍣 Descontos em restaurantes;
+📚 Descontos em cursos técnicos e de ensinos superior;
+📚 Descontos em cursos técnicos e de ensinos superior;
+🧠 Descontos em escolas e plataformas de idiomas.
+🧠 Descontos em escolas e plataformas de idiomas.
+
+
+
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀
+E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! 🍀

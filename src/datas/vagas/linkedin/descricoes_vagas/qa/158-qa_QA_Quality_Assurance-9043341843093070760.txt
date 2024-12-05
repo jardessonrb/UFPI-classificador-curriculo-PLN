@@ -1,0 +1,64 @@
+link-https://www.linkedin.com/jobs/view/4056247123/?eBP=CwEAAAGS7keaYXaKnPFf1GkmNpEwvYxwoZjRbepRZzNxaT0mEDQmsFx2JWn8KiUVTQrpJ9sk3QvGPpu7y2xskeLwB9RYT6Bt2MkzUXeDZ6kiMKU-m2wuLnk5KsYdUrnlZfkMPynHIUBkOOMv0ms7Tu-zXBXQ-YG3D90TSSF1mzUT2BGoDwcuCQjPZocSuix1BClA3gSp2BxFSCdJ0INniTpUvn8XoXu8Z4LIC-n1T9SrpPCtnIocNwfgSPwkNupApG8nt-QUUcpV3Gp0ZRYrPjb3nxTE21RbrlP34r-UINhuigQnNZx8Uq0ez3lctxNFkFp--fvCrkAEpuEaaeldhrAG4MBBkY_Chrx_TnlNOJbC-grgjQT3561RIgadKmA1Lwse0qyg31-YxHRMrxs430YZFgvqGzMRVPMdfY3YndyBpenEgFTXWAA6lR8Pb94R-RHnl9iDW8Boav4McU8_bU3T6yE1vbX_3cJz5sA71I3J1qWLrmzzFnmfPmC-&refId=6R8mDIj2nE4lLHlkhA4ZAQ%3D%3D&trackingId=h3qZblIUTu3j99abt9f6sg%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Testes /QA/ Suporte- presencial - São Paulo - SP
+Sobre a vaga
+Analista de Testes/Suporte TécnicoClienteEmpresa de pequeno porte com mais de 20 anos de experiência no mercado, localizada na zona oeste de São Paulo-SP.Nosso cliente está em um processo de transformação do seu produto que é voltado para a área da saúde, onde está migrando de um sistema monolítico para uma arquitetura baseada em microserviços e para tanto busca um analista de suporte e testes para atuar no projeto.AtividadesRealizar testes de validação na interface da base de homologação do sistema GCPEC após cada entrega da empresa terceira de TI (sprints, chamados e outros tickets) conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.Realizar testes de todas as entregas após a atualização da base de produção conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.Desenvolver testes automatizados em JmeterAnalisar e Responder os chamados técnicos abertos pelos clientes no sistema, conforme SLA definido pela empresa. Em caso de bugs/erros, documentar e enviar para correção.Realizar atendimento telefônico N1, orientando os clientes externos em suas dúvidas e solicitações na utilização do sistema da empresaElaborar documentos de erros do sistema com os respectivos “printscreens” das telas com o descritivo do comportamento esperado e o obtido, e encaminhá-lo ao seu superior.Realizar testes da API de integração da folha de pagamento dos clientes com o sistema e orientarRequisitosExperiencia como tester/analista de testesExcelente comunicação e relacionamento interpessoal.Desenvolutura ao telefone(suporte)Vivência anterior na funçãoCursando Superior(desejável completo)Fácil acesso a zona oeste de São PauloNosso Cliente OfereceAmbiente de trabalho colaborativo e desafiador.Atuação presencialBenefícios: VT, VR, Plano de Saúde, GympassHorário de trabalho > seg a sexta-feira : 8h -17h ( 40hs semanais)
+Analista de Testes/Suporte Técnico
+
+
+Cliente
+
+
+
+
+
+
+
+
+Realizar testes de validação na interface da base de homologação do sistema GCPEC após cada entrega da empresa terceira de TI (sprints, chamados e outros tickets) conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.Realizar testes de todas as entregas após a atualização da base de produção conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.Desenvolver testes automatizados em JmeterAnalisar e Responder os chamados técnicos abertos pelos clientes no sistema, conforme SLA definido pela empresa. Em caso de bugs/erros, documentar e enviar para correção.Realizar atendimento telefônico N1, orientando os clientes externos em suas dúvidas e solicitações na utilização do sistema da empresaElaborar documentos de erros do sistema com os respectivos “printscreens” das telas com o descritivo do comportamento esperado e o obtido, e encaminhá-lo ao seu superior.Realizar testes da API de integração da folha de pagamento dos clientes com o sistema e orientar
+Realizar testes de validação na interface da base de homologação do sistema GCPEC após cada entrega da empresa terceira de TI (sprints, chamados e outros tickets) conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.
+Realizar testes de validação na interface da base de homologação do sistema GCPEC após cada entrega da empresa terceira de TI (sprints, chamados e outros tickets) conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.
+Realizar testes de todas as entregas após a atualização da base de produção conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.
+Realizar testes de todas as entregas após a atualização da base de produção conforme os prazos estipulados, registrar os resultados e apresentá-los à sua liderança.
+Desenvolver testes automatizados em Jmeter
+Desenvolver testes automatizados em Jmeter
+Analisar e Responder os chamados técnicos abertos pelos clientes no sistema, conforme SLA definido pela empresa. Em caso de bugs/erros, documentar e enviar para correção.
+Analisar e Responder os chamados técnicos abertos pelos clientes no sistema, conforme SLA definido pela empresa. Em caso de bugs/erros, documentar e enviar para correção.
+Realizar atendimento telefônico N1, orientando os clientes externos em suas dúvidas e solicitações na utilização do sistema da empresa
+Realizar atendimento telefônico N1, orientando os clientes externos em suas dúvidas e solicitações na utilização do sistema da empresa
+Elaborar documentos de erros do sistema com os respectivos “printscreens” das telas com o descritivo do comportamento esperado e o obtido, e encaminhá-lo ao seu superior.
+Elaborar documentos de erros do sistema com os respectivos “printscreens” das telas com o descritivo do comportamento esperado e o obtido, e encaminhá-lo ao seu superior.
+Realizar testes da API de integração da folha de pagamento dos clientes com o sistema e orientar
+Realizar testes da API de integração da folha de pagamento dos clientes com o sistema e orientar
+
+
+Requisitos
+
+
+Experiencia como tester/analista de testesExcelente comunicação e relacionamento interpessoal.Desenvolutura ao telefone(suporte)Vivência anterior na funçãoCursando Superior(desejável completo)Fácil acesso a zona oeste de São Paulo
+Experiencia como tester/analista de testes
+Experiencia como tester/analista de testes
+Excelente comunicação e relacionamento interpessoal.
+Excelente comunicação e relacionamento interpessoal.
+Desenvolutura ao telefone(suporte)
+Desenvolutura ao telefone(suporte)
+Vivência anterior na função
+Vivência anterior na função
+Cursando Superior(desejável completo)
+Cursando Superior(desejável completo)
+Fácil acesso a zona oeste de São Paulo
+Fácil acesso a zona oeste de São Paulo
+
+
+Nosso Cliente Oferece
+
+
+Ambiente de trabalho colaborativo e desafiador.Atuação presencialBenefícios: VT, VR, Plano de Saúde, GympassHorário de trabalho > seg a sexta-feira : 8h -17h ( 40hs semanais)
+Ambiente de trabalho colaborativo e desafiador.
+Ambiente de trabalho colaborativo e desafiador.
+Atuação presencial
+Atuação presencial
+Benefícios: VT, VR, Plano de Saúde, Gympass
+Benefícios: VT, VR, Plano de Saúde, Gympass
+Horário de trabalho > seg a sexta-feira : 8h -17h ( 40hs semanais)
+Horário de trabalho > seg a sexta-feira : 8h -17h ( 40hs semanais)

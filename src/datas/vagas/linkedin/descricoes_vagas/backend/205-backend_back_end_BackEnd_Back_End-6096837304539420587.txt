@@ -1,0 +1,139 @@
+link-https://www.linkedin.com/jobs/view/4061596412/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=QiUmBCjw2o6dL5U07suuDg%3D%3D&trackingId=4NJWgu70nmPd3p75WkJlkw%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Python Engineer
+Sobre a vaga
+Senior Backend Python Engineer - LATAMThis position offers you the opportunity to join a fast-growing technology organization that is redefining productivity paradigms in the software engineering industry. Thanks to our flexible, distributed model of global operation and the high caliber of our experts, we have enjoyed triple digit growth over the past five years, creating amazing career opportunities for our people.As a Senior Python Developer, you will be responsible for designing, developing, and maintaining high-performance, scalable applications using Python and related technologies. You will work closely with the Lead Python Developer and other team members to ensure the successful delivery of our Matching API platform. Your expertise in Python, cloud technologies, and open-source frameworks will be essential in driving our projects forward.The Impact You'll Make:Design, develop, and maintain robust and scalable applications using Python and related technologies such as FastAPI, Traefik, Prometheus, Loki, AWS, RabbitMQ, Redis, GitHub, Docker, and KubernetesCollaborate with the Lead Python Developer to implement the technical roadmap and ensure alignment with business objectivesWrite clean, maintainable, and efficient code, following best practices and industry standardsConduct code reviews and provide constructive feedback to team members to ensure high code qualityTroubleshoot and resolve complex technical issues, ensuring minimal downtime and optimal performanceParticipate in the design and architecture discussions to contribute to the overall technical direction of the platformMentor junior developers and assist in their professional growth and developmentStay up-to-date with the latest industry trends and technologies, and incorporate them into the development process as appropriateTechnology Stack:PythonFast APIAWSDocker / KubernetesPrometheus / LokiRabbitMQ / RedisRest API / MicroservicesWhat You'll Bring To Us:Bachelor’s or master’s degree in computer science, engineering, or a related field or relevant experience7 to 10 years of experience in developing enterprise-level applications using PythonProven experience with open-source frameworks such as FastAPIStrong knowledge of cloud technologies, particularly AWSExperience with containerization and orchestration tools such as Docker and KubernetesFamiliarity with monitoring and logging tools like Prometheus and LokiExperience with message brokers like RabbitMQ and in-memory data stores like RedisProficiency with version control systems, particularly GitHubExcellent problem-solving skills and the ability to troubleshoot complex technical issuesStrong communication skills, both written and verbal, with the ability to work effectively in a collaborative team environmentExcellent written and verbal English communication skills.Some of the benefits you’ll enjoy working with us:The chance to work in innovative projects with leading brands, that use the latest technologies that fuel transformation.The opportunity to be part of an amazing, multicultural community of tech experts.A flexible and remote working environment.Multiple opportunities to enjoy life at Parser, with experience and engagement initiatives and perks throughout the year.Come and join our #ParserCommunity.Follow us onLinkedin
+Senior Backend Python Engineer - LATAM
+Senior Backend Python Engineer - LATAM
+Senior Backend Python Engineer - LATAM
+
+
+
+This position offers you the opportunity to join a fast-growing technology organization that is redefining productivity paradigms in the software engineering industry. Thanks to our flexible, distributed model of global operation and the high caliber of our experts, we have enjoyed triple digit growth over the past five years, creating amazing career opportunities for our people.
+This position offers you the opportunity to join a fast-growing technology organization that is redefining productivity paradigms in the software engineering industry. Thanks to our flexible, distributed model of global operation and the high caliber of our experts, we have enjoyed triple digit growth over the past five years, creating amazing career opportunities for our people.
+
+
+
+
+As a Senior Python Developer, you will be responsible for designing, developing, and maintaining high-performance, scalable applications using Python and related technologies. You will work closely with the Lead Python Developer and other team members to ensure the successful delivery of our Matching API platform. Your expertise in Python, cloud technologies, and open-source frameworks will be essential in driving our projects forward.
+As a Senior Python Developer, you will be responsible for designing, developing, and maintaining high-performance, scalable applications using Python and related technologies. You will work closely with the Lead Python Developer and other team members to ensure the successful delivery of our Matching API platform. Your expertise in Python, cloud technologies, and open-source frameworks will be essential in driving our projects forward.
+
+
+
+
+
+
+The Impact You'll Make:
+The Impact You'll Make:
+The Impact You'll Make:
+
+
+
+Design, develop, and maintain robust and scalable applications using Python and related technologies such as FastAPI, Traefik, Prometheus, Loki, AWS, RabbitMQ, Redis, GitHub, Docker, and KubernetesCollaborate with the Lead Python Developer to implement the technical roadmap and ensure alignment with business objectivesWrite clean, maintainable, and efficient code, following best practices and industry standardsConduct code reviews and provide constructive feedback to team members to ensure high code qualityTroubleshoot and resolve complex technical issues, ensuring minimal downtime and optimal performanceParticipate in the design and architecture discussions to contribute to the overall technical direction of the platformMentor junior developers and assist in their professional growth and developmentStay up-to-date with the latest industry trends and technologies, and incorporate them into the development process as appropriate
+Design, develop, and maintain robust and scalable applications using Python and related technologies such as FastAPI, Traefik, Prometheus, Loki, AWS, RabbitMQ, Redis, GitHub, Docker, and Kubernetes
+Design, develop, and maintain robust and scalable applications using Python and related technologies such as FastAPI, Traefik, Prometheus, Loki, AWS, RabbitMQ, Redis, GitHub, Docker, and Kubernetes
+Collaborate with the Lead Python Developer to implement the technical roadmap and ensure alignment with business objectives
+Collaborate with the Lead Python Developer to implement the technical roadmap and ensure alignment with business objectives
+Write clean, maintainable, and efficient code, following best practices and industry standards
+Write clean, maintainable, and efficient code, following best practices and industry standards
+Conduct code reviews and provide constructive feedback to team members to ensure high code quality
+Conduct code reviews and provide constructive feedback to team members to ensure high code quality
+Troubleshoot and resolve complex technical issues, ensuring minimal downtime and optimal performance
+Troubleshoot and resolve complex technical issues, ensuring minimal downtime and optimal performance
+Participate in the design and architecture discussions to contribute to the overall technical direction of the platform
+Participate in the design and architecture discussions to contribute to the overall technical direction of the platform
+Mentor junior developers and assist in their professional growth and development
+Mentor junior developers and assist in their professional growth and development
+Stay up-to-date with the latest industry trends and technologies, and incorporate them into the development process as appropriate
+Stay up-to-date with the latest industry trends and technologies, and incorporate them into the development process as appropriate
+
+
+
+Technology Stack:
+Technology Stack:
+Technology Stack:
+
+
+
+Python
+Python
+Fast API
+Fast API
+AWS
+AWS
+Docker / Kubernetes
+Docker / Kubernetes
+Prometheus / Loki
+Prometheus / Loki
+RabbitMQ / Redis
+RabbitMQ / Redis
+Rest API / Microservices
+Rest API / Microservices
+
+
+
+
+
+
+What You'll Bring To Us:
+What You'll Bring To Us:
+What You'll Bring To Us:
+
+
+
+Bachelor’s or master’s degree in computer science, engineering, or a related field or relevant experience7 to 10 years of experience in developing enterprise-level applications using PythonProven experience with open-source frameworks such as FastAPIStrong knowledge of cloud technologies, particularly AWSExperience with containerization and orchestration tools such as Docker and KubernetesFamiliarity with monitoring and logging tools like Prometheus and LokiExperience with message brokers like RabbitMQ and in-memory data stores like RedisProficiency with version control systems, particularly GitHubExcellent problem-solving skills and the ability to troubleshoot complex technical issuesStrong communication skills, both written and verbal, with the ability to work effectively in a collaborative team environmentExcellent written and verbal English communication skills.
+Bachelor’s or master’s degree in computer science, engineering, or a related field or relevant experience
+Bachelor’s or master’s degree in computer science, engineering, or a related field or relevant experience
+7 to 10 years of experience in developing enterprise-level applications using Python
+7 to 10 years of experience in developing enterprise-level applications using Python
+Proven experience with open-source frameworks such as FastAPI
+Proven experience with open-source frameworks such as FastAPI
+Strong knowledge of cloud technologies, particularly AWS
+Strong knowledge of cloud technologies, particularly AWS
+Experience with containerization and orchestration tools such as Docker and Kubernetes
+Experience with containerization and orchestration tools such as Docker and Kubernetes
+Familiarity with monitoring and logging tools like Prometheus and Loki
+Familiarity with monitoring and logging tools like Prometheus and Loki
+Experience with message brokers like RabbitMQ and in-memory data stores like Redis
+Experience with message brokers like RabbitMQ and in-memory data stores like Redis
+Proficiency with version control systems, particularly GitHub
+Proficiency with version control systems, particularly GitHub
+Excellent problem-solving skills and the ability to troubleshoot complex technical issues
+Excellent problem-solving skills and the ability to troubleshoot complex technical issues
+Strong communication skills, both written and verbal, with the ability to work effectively in a collaborative team environment
+Strong communication skills, both written and verbal, with the ability to work effectively in a collaborative team environment
+Excellent written and verbal English communication skills.
+Excellent written and verbal English communication skills.
+
+
+
+
+
+
+Some of the benefits you’ll enjoy working with us:
+Some of the benefits you’ll enjoy working with us:
+Some of the benefits you’ll enjoy working with us:
+
+
+
+The chance to work in innovative projects with leading brands, that use the latest technologies that fuel transformation.The opportunity to be part of an amazing, multicultural community of tech experts.A flexible and remote working environment.Multiple opportunities to enjoy life at Parser, with experience and engagement initiatives and perks throughout the year.
+The chance to work in innovative projects with leading brands, that use the latest technologies that fuel transformation.
+The chance to work in innovative projects with leading brands, that use the latest technologies that fuel transformation.
+The opportunity to be part of an amazing, multicultural community of tech experts.
+The opportunity to be part of an amazing, multicultural community of tech experts.
+A flexible and remote working environment.
+A flexible and remote working environment.
+Multiple opportunities to enjoy life at Parser, with experience and engagement initiatives and perks throughout the year.
+Multiple opportunities to enjoy life at Parser, with experience and engagement initiatives and perks throughout the year.
+
+
+
+
+
+
+Come and join our #ParserCommunity.
+Come and join our #ParserCommunity.
+
+Follow us onLinkedin
+Follow us onLinkedin
+

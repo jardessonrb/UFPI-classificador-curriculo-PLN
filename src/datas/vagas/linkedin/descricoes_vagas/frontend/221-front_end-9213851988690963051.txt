@@ -1,0 +1,74 @@
+link-https://www.linkedin.com/jobs/view/4064623756/?eBP=CwEAAAGS7kwmQv62ri0u0vL0SLoPrwt85YWy-kU9ot1nsFGzARK9t4bt7081hqYH3QmJi6retPhyk238FUp3al8NTF8xZza-FF9tfhegq3rCarCyfPeB7ebiP5bpKsuczZ-qfq461cw7e1uRQkRlXvCsKqDO7y5nsGaAzBGg9C820Qu4v5ODGu5_DJ8JmxHWS7E5RtwO6MvGpNP_SwQ69idCHaqhFMo7oiMSliHkg4ep4fkB1SSfIyrRz5BUDLIV_qLwwb-u63vQBF3YakRf_6T9FcVn5WcCm-Z6xMMG2LT54wcD4ss9JlkEaWsgFbnlIaE6J3Few7CloXkzenOr7NY3G4EgIvvYnuBSmmbnhejMwC-QsZUyQhS_kEGB3KGoqxLpgBqRhLL8c2BAErdqUXkibJ4AhCdepIZ2hvb7euAkAI7i42hLkZg1GbSdL7y4UXboQ6ommGVf9RQnhn7m2-lvmFrnGfqw_MWzv3GrSMKB1MLRkTthpNfQlFUjgJvteDdywDSrA_Pnqg&refId=hO00h6DowsyUjLPjVUV30Q%3D%3D&trackingId=pguCZa3BHSSC1cGnGQCGkw%3D%3D&trk=flagship3_search_srp_jobs
+
+Developer Mid Frontend/PHP/Drupal
+Sobre a vaga
+We are looking for aDeveloper Seniorwith a strong background inDrupaland PHP to work in our development team in Brazil, collaborating with teams across the USA and Europe. The ideal candidate should be passionate about sharing knowledge and learning new technologies, contributing positively to both CI&T and the broader community and a cultural fit is essential, emphasizing respect for differences and a commitment to collaboration and teamwork.Your Mission:- Collaborate with leaders, peers, and other developers in enhancing Drupal applications, performing code reviews, ensuring the quality of deliverables, and providing guidance to the team.- Development and Maintaining a Drupa-base DXP Platform, including custom modules and themes.- Collaborate with cross-functional teams including user experience and content strategy.- Ensure yours and your team development follows security and performance best practices.- Be proactive and autonomous, looking for challenges and learning while collaborating with the team.You need to have experience with:- Extensive experience with frontend development (e.g., JavaScript, jQuery, HTML, CSS, XML).- Experience with Object-Oriented Programming (OOP) and PHP.- Proficiency in Drupal 10+ platform and its best practices, including coding.- Experience using Composer to manage project dependencies.- Strong background with relational databases, particularly MySQL or PostgreSQL.- Familiarity with version control systems (preferably Git).- Knowledge of design and Clean Architecture / Clean Code principles.- Experience in analyzing functional and non-functional requirements.- Comfortable using the Linux terminal and commands, as well as working with Apache.- Advanced English proficiency (reading and writing).You will stand out if you have:- Fluent English.- Familiarity with Continuous Integration and Continuous Delivery pipelines (DevOps principles).- Experience with Docker and Cloud Service Providers.- Experience participating in Agile projects.#MidSenior
+We are looking for aDeveloper Seniorwith a strong background inDrupaland PHP to work in our development team in Brazil, collaborating with teams across the USA and Europe. The ideal candidate should be passionate about sharing knowledge and learning new technologies, contributing positively to both CI&T and the broader community and a cultural fit is essential, emphasizing respect for differences and a commitment to collaboration and teamwork.
+We are looking for aDeveloper Seniorwith a strong background inDrupaland PHP to work in our development team in Brazil, collaborating with teams across the USA and Europe. The ideal candidate should be passionate about sharing knowledge and learning new technologies, contributing positively to both CI&T and the broader community and a cultural fit is essential, emphasizing respect for differences and a commitment to collaboration and teamwork.
+
+Developer Senior
+
+
+Drupal
+
+Your Mission:
+Your Mission:
+Your Mission:
+
+- Collaborate with leaders, peers, and other developers in enhancing Drupal applications, performing code reviews, ensuring the quality of deliverables, and providing guidance to the team.
+- Collaborate with leaders, peers, and other developers in enhancing Drupal applications, performing code reviews, ensuring the quality of deliverables, and providing guidance to the team.
+
+- Development and Maintaining a Drupa-base DXP Platform, including custom modules and themes.
+- Development and Maintaining a Drupa-base DXP Platform, including custom modules and themes.
+- Collaborate with cross-functional teams including user experience and content strategy.
+- Collaborate with cross-functional teams including user experience and content strategy.
+- Ensure yours and your team development follows security and performance best practices.
+- Ensure yours and your team development follows security and performance best practices.
+- Be proactive and autonomous, looking for challenges and learning while collaborating with the team.
+- Be proactive and autonomous, looking for challenges and learning while collaborating with the team.
+
+You need to have experience with:
+You need to have experience with:
+You need to have experience with:
+- Extensive experience with frontend development (e.g., JavaScript, jQuery, HTML, CSS, XML).
+- Extensive experience with frontend development (e.g., JavaScript, jQuery, HTML, CSS, XML).
+- Experience with Object-Oriented Programming (OOP) and PHP.
+- Experience with Object-Oriented Programming (OOP) and PHP.
+- Proficiency in Drupal 10+ platform and its best practices, including coding.
+- Proficiency in Drupal 10+ platform and its best practices, including coding.
+- Experience using Composer to manage project dependencies.
+- Experience using Composer to manage project dependencies.
+- Strong background with relational databases, particularly MySQL or PostgreSQL.
+- Strong background with relational databases, particularly MySQL or PostgreSQL.
+- Familiarity with version control systems (preferably Git).
+- Familiarity with version control systems (preferably Git).
+- Knowledge of design and Clean Architecture / Clean Code principles.
+- Knowledge of design and Clean Architecture / Clean Code principles.
+- Experience in analyzing functional and non-functional requirements.
+- Experience in analyzing functional and non-functional requirements.
+- Comfortable using the Linux terminal and commands, as well as working with Apache.
+- Comfortable using the Linux terminal and commands, as well as working with Apache.
+- Advanced English proficiency (reading and writing).
+- Advanced English proficiency (reading and writing).
+You will stand out if you have:
+You will stand out if you have:
+You will stand out if you have:
+- Fluent English.
+- Fluent English.
+- Familiarity with Continuous Integration and Continuous Delivery pipelines (DevOps principles).
+- Familiarity with Continuous Integration and Continuous Delivery pipelines (DevOps principles).
+- Experience with Docker and Cloud Service Providers.
+- Experience with Docker and Cloud Service Providers.
+- Experience participating in Agile projects.
+- Experience participating in Agile projects.
+#MidSenior
+#MidSenior
+
+
+
+
+
+
+
+
+

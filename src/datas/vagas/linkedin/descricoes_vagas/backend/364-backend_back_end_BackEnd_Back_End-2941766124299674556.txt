@@ -1,0 +1,42 @@
+link-https://www.linkedin.com/jobs/view/4046054191/?eBP=CwEAAAGS7lMjyh8ShTYwiQVYukh7hRsKAF46yXleP9iWHZtNmvUlQ_bAT-qZm1E0MGSyxD2raL-7ehRPPkHj7xG_98ZTZPdKpU5MttJrpIN0E3dz2dsVdQFys3LTSm8Xi0mn0EE3Lh2dHIzzV-J4IxbFSwzWqHW94f0fuXblJC_yqZ4dG9zL5-aTSjC-l_I0nxvHvEqgGxSwXTtxuNbdT6G7XqM_PJIuXny0Y0S2dXqXddgndH_fD_QCzorpBy16OkuI5aBxRh0PY8wizPq16wKkLibc4GTn6L_8SDLBWpxf8xiOcFfqcsxetEpI54I_cVBVwupOXQRe2nXNoTkTSnr3lv39DAfCf5wctTuua1Djwn5eu0n_D5DzLrwDIGI-lm45sbFKPC8ifESRabSRxPJi-ITKBhJbkHrLpehK13WGEHsHDQYxUJ7Q2xsjRKb3Y3k5OACJHcJSQ-pQUnCJyuJNBJ_2DMKmm1C0CVdl3G8TfrNg2j2PKVvraE_OVQODkIpF&refId=OQu53QYd3G51YfBB8Smbnw%3D%3D&trackingId=7EUvc9oGVJXqZrR4CVZlRw%3D%3D&trk=flagship3_search_srp_jobs
+
+Mid Backend Developer - Python  (100% Remoto)
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Desenvolver código através de definição de histórias; corrigir defeitos; executar testes; automatizar (unitários, TDD, integrados, funcionais);Experiência com arquitetura em Cloud (AWS); familiaridade com CI/CD, Git, Desenvolvimento Ágil, Docker. Análise estática de código-fonte (métricas)Requisitos e QualificaçõesFrameworks web: Django;Messageria: Celery, Kafka, SNS e SQS;Frontend: Javascript, HTML5, CSS3;Banco de dados relacionais e não relacionais;Conceitos: DDD (Domain Driven Design), TDD (Test Driven Development) e Design Pattern;Automação de testes (Unitários, Integrados e Funcionais Automatizados);Experiência em elastich-search.Habilidades ObrigatóriasPythonDjangoHabilidades DesejáveisA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PythonDjango
+Python
+Python
+Django
+Django
+
+
+
+
+
+

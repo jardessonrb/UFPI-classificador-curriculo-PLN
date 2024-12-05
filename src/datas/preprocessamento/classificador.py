@@ -58,7 +58,8 @@ class ClassificadorTopico:
             # print(topico_mais_proximo, linha, similaridade)
 
     def get_dict_topicos(self) -> dict:
-        return self.topicos_encontrados
+        return dict(sorted(self.topicos_encontrados.items(), key=lambda item: item[1]["n_linha"]))
+        
     
     def limpar_topicos_encontrados(self) -> None:
         self.topicos_encontrados.clear()

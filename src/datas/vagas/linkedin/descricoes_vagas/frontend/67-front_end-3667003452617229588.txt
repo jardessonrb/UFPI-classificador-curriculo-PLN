@@ -1,0 +1,100 @@
+link-https://www.linkedin.com/jobs/view/4052463890/?eBP=CwEAAAGS7kvwug94wMPydzCLDnlrYtRH76O0M8PK02UztUrc4gtIqdbuvbsUnSshmPtDgY_6tnUlb2872IUmN1Fe9bxA7Wo4h660bRXKw9GRETuBcDKu1Pqa8CYV8BVgo4Lm08pelwp5q81dLbsPa2VSJG1IYgYMFSRyizR1FF6TI9O9z_R6LAg2ZfQL1JKmZYA8--j_C2F0_JDVxqsGyxqCUUhsaDFnQvyh9Vg7kRN_xpdSNDlCLg6wS3Fth0z6EMZ-2VggvsuwOWssBtl74lt1YVzlAHkGmHb09jC3Xnyk-78mCOaErWveZUpk7CaiPpFoAlRenqToxLLAmb4IxNVaEmMJCA1tdLWaDKpr4P5hlJjfI8r15opdxh4wN399tXDAyQrAEvg4kS-wng-FcmyH9xl_nTqA1Y8YN2IK8oXGW1auLYKV_gedsxdNVtKOWzTNlk_hNlH1isBwNX0Z-HGXbNV-0R5ygm5J3vQ0syShSFgGBZJTVF7RNjv_A50xXRWbrQ&refId=lNkZ7WB16PqaLtMchSITbg%3D%3D&trackingId=CXc81Kk223UMn%2FfzOKOlhQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Desenvolvimento Frontend Sênior - Vaga Afirmativa para Mulheres
+Sobre a vaga
+Company DescriptionA Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.Job DescriptionDescrição do empregoDesenvolver, evoluir e manter as soluções desenvolvidas pela Serasa. A pessoa desenvolvedora Frontend Sênior irá apoiar em todas as frentes relacionadas a desenvolvimento, além de buscar excelência em documentações técnicas e negócio e monitoramento da aplicações.Objetivo da vagaContribuir para o desenvolvimento dos componentes e novas funcionalidades;Desenho de solução e contribuição na construção e manutenção da arquitetura SDUI;Desenvolver seguindo boas práticas e padrões de mercado, utilizando ferramentas como Storybook para documentação dos componentes.Apoiar o Squad Leader e o Tech Leader a tomar decisões estratégicas para o desenvolvimento.QualificationsExperiência em Next.Js com Typescript;Experiência em criação de interfaces responsivas e acessíveis;Experiência com a ferramenta React Query;Experiência com a ferramenta Storybook;Experiência com versionamento de código utilizando GIT;Vivência com Testes unitários e documentações de software;Vivência com metodologias ágeis (Scrum ou Kanbam).DiferenciaisConhecimento em Kubernetes;Ferramentas de monitoramento de aplicações DataDog e SplunkExperiência em serviços Cloud utilizando AWS;Conhecimento em SDUI (Server driven User interface).Additional InformationNão atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!Experian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+
+
+Job Description
+
+
+Descrição do emprego
+
+
+
+
+Objetivo da vaga
+
+
+Contribuir para o desenvolvimento dos componentes e novas funcionalidades;Desenho de solução e contribuição na construção e manutenção da arquitetura SDUI;Desenvolver seguindo boas práticas e padrões de mercado, utilizando ferramentas como Storybook para documentação dos componentes.Apoiar o Squad Leader e o Tech Leader a tomar decisões estratégicas para o desenvolvimento.
+Contribuir para o desenvolvimento dos componentes e novas funcionalidades;
+Contribuir para o desenvolvimento dos componentes e novas funcionalidades;
+
+Desenho de solução e contribuição na construção e manutenção da arquitetura SDUI;
+Desenho de solução e contribuição na construção e manutenção da arquitetura SDUI;
+
+Desenvolver seguindo boas práticas e padrões de mercado, utilizando ferramentas como Storybook para documentação dos componentes.
+Desenvolver seguindo boas práticas e padrões de mercado, utilizando ferramentas como Storybook para documentação dos componentes.
+
+Apoiar o Squad Leader e o Tech Leader a tomar decisões estratégicas para o desenvolvimento.
+Apoiar o Squad Leader e o Tech Leader a tomar decisões estratégicas para o desenvolvimento.
+
+
+
+Qualifications
+
+
+Experiência em Next.Js com Typescript;Experiência em criação de interfaces responsivas e acessíveis;Experiência com a ferramenta React Query;Experiência com a ferramenta Storybook;Experiência com versionamento de código utilizando GIT;Vivência com Testes unitários e documentações de software;Vivência com metodologias ágeis (Scrum ou Kanbam).
+Experiência em Next.Js com Typescript;
+Experiência em Next.Js com Typescript;
+
+Experiência em criação de interfaces responsivas e acessíveis;
+Experiência em criação de interfaces responsivas e acessíveis;
+
+Experiência com a ferramenta React Query;
+Experiência com a ferramenta React Query;
+
+Experiência com a ferramenta Storybook;
+Experiência com a ferramenta Storybook;
+
+Experiência com versionamento de código utilizando GIT;
+Experiência com versionamento de código utilizando GIT;
+
+Vivência com Testes unitários e documentações de software;
+Vivência com Testes unitários e documentações de software;
+
+Vivência com metodologias ágeis (Scrum ou Kanbam).
+Vivência com metodologias ágeis (Scrum ou Kanbam).
+
+
+Diferenciais
+
+
+Conhecimento em Kubernetes;Ferramentas de monitoramento de aplicações DataDog e SplunkExperiência em serviços Cloud utilizando AWS;Conhecimento em SDUI (Server driven User interface).
+Conhecimento em Kubernetes;
+Conhecimento em Kubernetes;
+
+Ferramentas de monitoramento de aplicações DataDog e Splunk
+Ferramentas de monitoramento de aplicações DataDog e Splunk
+
+Experiência em serviços Cloud utilizando AWS;
+Experiência em serviços Cloud utilizando AWS;
+
+Conhecimento em SDUI (Server driven User interface).
+Conhecimento em SDUI (Server driven User interface).
+
+
+Additional Information
+
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+
+Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!
+Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.
+Temos importantes reconhecimentos do mercado como selo Ideia Sustentável e WEPS – Empresas empoderando mulheres. Além disso, fomos considerados, pela quinta vez consecutiva, uma das empresas mais inovadoras do mundo pela revista Forbes.
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!
+E ainda tem mais! Não deixe de acessar a nossa página de carreiras para conhecer todos os nossos benefícios e diferenciais!
+
+
+
+
+
+

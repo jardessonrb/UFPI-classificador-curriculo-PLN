@@ -1,0 +1,113 @@
+link-https://www.linkedin.com/jobs/view/3941702292/?eBP=CwEAAAGS7lDBsTUQ24-BI7eEsevXlwW_R7KExQfo9hlSUPEIpPaxf9ulgRs8k0KTIZ6b6AB5PcmaoAMq11qUv3zIMlpyc9rXmZTYD0B06APGB52NbULa8sAvnSClxFnObXOexyuJlQWFLJ0HO-gLqc4R4rHwqj63OHxLQLQcJU5DwFw9MMvg3EqyS5uaobjdgLdFHyUAW7Xd-4WOobU0E14j84psyC0lyZaXB1T45EjVSCS0hJs6qX-0n7wMhGPwaHaFv5HVh7I6VU2tmSPNjBZdlWuDdnFdsirE_3on0VoW6P-LbdPmwMUg4k4PpZB2cm9SRiNtTGONqSgwQKRQORLqCicscmZFgfld4ITc_L1qseExzXEIWQ5f0Ip-nmQr0ysdkUqWcDlGpZiNv6FP0Ey8D-DMgCG8h-ZyxsVVzFgQOoPfqUPzaKf3GvcFcOwgZhvtoXYaF_MiBr0M_deHSHk-SpsZ2YrdOVSTn8flx-Zp5bspb1XgXTj6dOVps0Nj9KU&refId=C4CHndie%2BebrXgMGiFXALQ%3D%3D&trackingId=ZW0wAqjHQOPMl15BMrAqLg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer (Global Bank Tribe)
+Sobre a vaga
+SumUp enables businesses to get paid easily, process orders quickly, sell online instantly and manage their money more efficiently. We create the tools businesses need to make their business and their customer experience thrive!As a key member of theGlobal Bank tribe, you’ll play a key part in helping us build SumUp's own digital bank. You’ll be part of a global, autonomous, cross-functional team that takes an aspect of our product and perfects it from concept to execution. Becoming a part of the Global Bank Tribe means working alongside ~200 people of 32 nationalities across Cologne, Berlin, São Paulo, Santiago, Sofia, and Vilnius who love to take ownership, work with purpose, and help businesses thrive.As aSenior Backend Engineer for our tribe, you will be responsible for evolving and maintaining the Brazilian side of the Transfers and Cards ecosystem inside SumUp Global Bank tribe, working within a highly-available platform that operates with money transfers in various payment systems.This role ishybrid (3x/week onsite)from our office located in São Paulo, Pinheiros.What You’ll DoEvolve and maintain the Brazilian segment of the Transfers ecosystem within SumUp Global Bank tribe.Supporting the transition from a localized setup with regional banks to a unified Global BankDesign, implement, and iteratively develop highly available backend services, while continuously evaluating and implementing new methods to ensure the high reliability of transfer systemsMaintain and improve core services utilizing a modern, cloud-native technology stack (AWS), with microservices (Docker, K8s) written in Go/Kotlin and Elixir.Design, implement, and iteratively develop highly available backend services.Improve test coverage for existing services and own the end-to-end delivery of changes, including testing, observability, and monitoring.Continuously improve our engineering culture by refining best practices, clarifying problems and opportunities, prototyping solutions, providing comprehensive documentation, and selecting new tools and technologies.You’ll be great for this role ifYou are proficient in one or more modern backend languages, we use: Golang, Elixir, Kotlin, Java, Ruby, or one functional programming language.You are experienced in developing and maintaining distributed microservices and RESTful APIsYou have prior experience with modern cloud technologies (AWS, Docker, Kubernetes).You are knowledgeable in event streaming platforms and messaging brokers such as Kafka and RabbitMQYou have demonstrated an ability to learn new languages and technologiesYou feel comfortable working with SQL and NoSQL databasesYou have experience with CI/CD products such as GitHub Actions, Jenkins, ArgoCDYou take pride in your work, have a keen sense of ownership, and are dedicated to writing clear, maintainable, and testable code.You’re a product-focused engineer who is passionate and curious about solving user challenges.Have great English communication skills - you'll be part of a truly global team!Why you should join SumUpWe’re a truly global team of 3200+ people from 80+ countries, spread across 4 continentsThe opportunity to work on large-scale fintech products used by millions of small businesses around the worldA dedicated annual Learning & Development budget (R$10.000/ year) for attending conferences and/or advancing your career through further educationEnrollment in our virtual stock ownership program - you will own a stake in SumUp’s future successA corporate pension schemeThe opportunity to work on large-scale fintech products used by millions of businesses around the worldAccess to the SumUp Sabbatical, our Employee assistance program for mental health as well as Fitness and language learning benefits.You’ll attend global offsites and/or hackathonsAbout SumUpBe empowered to do more that matters.At SumUp, we're on a mission to empower small businesses across the globe by providing simple and affordable tools that allow them to thrive. Today, over 4 million businesses in 36 markets rely on SumUp as their financial partner to manage payments, finance, and customer relationships.Our commitment to small businesses is reflected in our diverse team of over 3,000 SumUppers from over 90 nationalities, united by global collaboration and an innovative mindset.Our core valueslay the foundation for who we are and what we stand for, shaping our work culture and driving our success. We foster inclusivity and a continuous learning culture, providing a safe space for personal and professional growth. Our differences make us unique and strong as we strive to create an environment where everyone belongs and feels supported, no matter how they identify.SumUp is proud to be an Equal Employment Opportunity employer, actively seeking and embracing diversity in our workforce. We don't make hiring or employment decisions based on race, colour, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age or any other basis protected by applicable laws or prohibited by company policy. Our commitment extends beyond recruitment to creating a safe and respectful workplace where harassment of any form is strictly prohibited.Explore career opportunities with us and join a team driven by collaboration, innovation, and a shared vision of creating a world where everyone can build a thriving business. Discover more about our vibrant and inclusive work culture and how we work on ourcareers website, and follow our journey onLinkedInandInstagram.Job Application TipWe recognise that candidates feel they need to meet 100% of the job criteria in order to apply for a job. Please note that this is only a guide. If you don’t tick every box, it’s ok too because it means you have room to learn and develop your career at SumUp.
+
+
+
+
+
+
+Senior Backend Engineer for our tribe
+
+
+
+hybrid (3x/week onsite)
+
+
+
+What You’ll Do
+
+
+Evolve and maintain the Brazilian segment of the Transfers ecosystem within SumUp Global Bank tribe.Supporting the transition from a localized setup with regional banks to a unified Global BankDesign, implement, and iteratively develop highly available backend services, while continuously evaluating and implementing new methods to ensure the high reliability of transfer systemsMaintain and improve core services utilizing a modern, cloud-native technology stack (AWS), with microservices (Docker, K8s) written in Go/Kotlin and Elixir.Design, implement, and iteratively develop highly available backend services.Improve test coverage for existing services and own the end-to-end delivery of changes, including testing, observability, and monitoring.Continuously improve our engineering culture by refining best practices, clarifying problems and opportunities, prototyping solutions, providing comprehensive documentation, and selecting new tools and technologies.
+Evolve and maintain the Brazilian segment of the Transfers ecosystem within SumUp Global Bank tribe.
+Evolve and maintain the Brazilian segment of the Transfers ecosystem within SumUp Global Bank tribe.
+Supporting the transition from a localized setup with regional banks to a unified Global Bank
+Supporting the transition from a localized setup with regional banks to a unified Global Bank
+Design, implement, and iteratively develop highly available backend services, while continuously evaluating and implementing new methods to ensure the high reliability of transfer systems
+Design, implement, and iteratively develop highly available backend services, while continuously evaluating and implementing new methods to ensure the high reliability of transfer systems
+Maintain and improve core services utilizing a modern, cloud-native technology stack (AWS), with microservices (Docker, K8s) written in Go/Kotlin and Elixir.
+Maintain and improve core services utilizing a modern, cloud-native technology stack (AWS), with microservices (Docker, K8s) written in Go/Kotlin and Elixir.
+Design, implement, and iteratively develop highly available backend services.
+Design, implement, and iteratively develop highly available backend services.
+Improve test coverage for existing services and own the end-to-end delivery of changes, including testing, observability, and monitoring.
+Improve test coverage for existing services and own the end-to-end delivery of changes, including testing, observability, and monitoring.
+Continuously improve our engineering culture by refining best practices, clarifying problems and opportunities, prototyping solutions, providing comprehensive documentation, and selecting new tools and technologies.
+Continuously improve our engineering culture by refining best practices, clarifying problems and opportunities, prototyping solutions, providing comprehensive documentation, and selecting new tools and technologies.
+
+
+You’ll be great for this role if
+
+
+You are proficient in one or more modern backend languages, we use: Golang, Elixir, Kotlin, Java, Ruby, or one functional programming language.You are experienced in developing and maintaining distributed microservices and RESTful APIsYou have prior experience with modern cloud technologies (AWS, Docker, Kubernetes).You are knowledgeable in event streaming platforms and messaging brokers such as Kafka and RabbitMQYou have demonstrated an ability to learn new languages and technologiesYou feel comfortable working with SQL and NoSQL databasesYou have experience with CI/CD products such as GitHub Actions, Jenkins, ArgoCDYou take pride in your work, have a keen sense of ownership, and are dedicated to writing clear, maintainable, and testable code.You’re a product-focused engineer who is passionate and curious about solving user challenges.Have great English communication skills - you'll be part of a truly global team!
+You are proficient in one or more modern backend languages, we use: Golang, Elixir, Kotlin, Java, Ruby, or one functional programming language.
+You are proficient in one or more modern backend languages, we use: Golang, Elixir, Kotlin, Java, Ruby, or one functional programming language.
+
+You are experienced in developing and maintaining distributed microservices and RESTful APIs
+You are experienced in developing and maintaining distributed microservices and RESTful APIs
+You have prior experience with modern cloud technologies (AWS, Docker, Kubernetes).
+You have prior experience with modern cloud technologies (AWS, Docker, Kubernetes).
+You are knowledgeable in event streaming platforms and messaging brokers such as Kafka and RabbitMQ
+You are knowledgeable in event streaming platforms and messaging brokers such as Kafka and RabbitMQ
+
+You have demonstrated an ability to learn new languages and technologies
+You have demonstrated an ability to learn new languages and technologies
+You feel comfortable working with SQL and NoSQL databases
+You feel comfortable working with SQL and NoSQL databases
+You have experience with CI/CD products such as GitHub Actions, Jenkins, ArgoCD
+You have experience with CI/CD products such as GitHub Actions, Jenkins, ArgoCD
+You take pride in your work, have a keen sense of ownership, and are dedicated to writing clear, maintainable, and testable code.
+You take pride in your work, have a keen sense of ownership, and are dedicated to writing clear, maintainable, and testable code.
+You’re a product-focused engineer who is passionate and curious about solving user challenges.
+You’re a product-focused engineer who is passionate and curious about solving user challenges.
+Have great English communication skills - you'll be part of a truly global team!
+Have great English communication skills - you'll be part of a truly global team!
+
+
+
+Why you should join SumUp
+
+
+We’re a truly global team of 3200+ people from 80+ countries, spread across 4 continentsThe opportunity to work on large-scale fintech products used by millions of small businesses around the worldA dedicated annual Learning & Development budget (R$10.000/ year) for attending conferences and/or advancing your career through further educationEnrollment in our virtual stock ownership program - you will own a stake in SumUp’s future successA corporate pension schemeThe opportunity to work on large-scale fintech products used by millions of businesses around the worldAccess to the SumUp Sabbatical, our Employee assistance program for mental health as well as Fitness and language learning benefits.You’ll attend global offsites and/or hackathons
+We’re a truly global team of 3200+ people from 80+ countries, spread across 4 continents
+We’re a truly global team of 3200+ people from 80+ countries, spread across 4 continents
+The opportunity to work on large-scale fintech products used by millions of small businesses around the world
+The opportunity to work on large-scale fintech products used by millions of small businesses around the world
+A dedicated annual Learning & Development budget (R$10.000/ year) for attending conferences and/or advancing your career through further education
+A dedicated annual Learning & Development budget (R$10.000/ year) for attending conferences and/or advancing your career through further education
+Enrollment in our virtual stock ownership program - you will own a stake in SumUp’s future success
+Enrollment in our virtual stock ownership program - you will own a stake in SumUp’s future success
+A corporate pension scheme
+A corporate pension scheme
+
+The opportunity to work on large-scale fintech products used by millions of businesses around the world
+The opportunity to work on large-scale fintech products used by millions of businesses around the world
+Access to the SumUp Sabbatical, our Employee assistance program for mental health as well as Fitness and language learning benefits.
+Access to the SumUp Sabbatical, our Employee assistance program for mental health as well as Fitness and language learning benefits.
+You’ll attend global offsites and/or hackathons
+You’ll attend global offsites and/or hackathons
+
+
+About SumUp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Job Application Tip
+
+

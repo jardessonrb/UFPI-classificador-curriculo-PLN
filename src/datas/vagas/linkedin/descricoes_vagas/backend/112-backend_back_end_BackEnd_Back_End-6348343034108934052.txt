@@ -1,0 +1,223 @@
+link-https://www.linkedin.com/jobs/view/4028859013/?eBP=CwEAAAGS7lDBsctRLgRGRXFySaco2h8S6GZoWQL5KGWfvZM2_kBh9aviBNrlxPvdXma-VYxwwbukSt1PXoPTfQxIl-_23P4u_LI5m7uxPtlgI1gebxCwgQC-aEvG50c7IP6Rld8afgmQEhyLdo2JtvLEP_KWByNIau9MuplVdevNoh-oqIW7E3kzpENCB1t3krEeDDXWt78BmbACG_le_t9KFNkyuX53X8IDhz3YMI_5PZN_Gm1F-y7HDgohbDbyLZRAiCXrE2B83b_i3-gfD0syv0obBMTGxT7ED8D_g0UjN0NKOmXPF2_hgs_2xaTCtmHBfh7pbOabGsdM4qfpQllIJT9R3PwQNKqJZOeQKacO67A_ZlyRSqv68TdNu3z8OR3LrR15pPOxLRKukKgCbDEUjfFbgd38XWNvYWjD4FIs6PRP4q7MeSrfsNP91aeAXrF2CCLgQEBKOW2Cbavlvd7nDavOpeiJGPyYW8iPcT_Is2F2GuEVRJXvf6sHTmJJEMbqCQ&refId=C4CHndie%2BebrXgMGiFXALQ%3D%3D&trackingId=5AFC0niPDtRrD%2F1DOCnYKA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Kotlin (Backend) Developer, Brasil
+Sobre a vaga
+Nós somos especialistas emtech transformation, nós somos aCI&T.Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.A CI&T esta buscando pessoas desenvolvedoras Kotlin Backend Sênior para participarem da construção do maior ecossistema de Beleza Digital do mundo!Você fará parte de uma Squad de produto multidisciplinar (vários perfis) e mista composta por pessoas da CI&T e do cliente.Responsabilidades:- Definir objetivos das entregas e planejar atividades da equipe.- Conduzir a equipe na superação de obstáculos e conclusão de tarefas.- Participar das decisões de implementação e projetar soluções alinhadas com a arquitetura existente.- Implementar soluções simples, de alta qualidade e performance para os consumidores.- Realizar e influenciar práticas de Code Review e Pair Programming.- Orientar a equipe no desenvolvimento de testes unitários, integrados, funcionais e de performance.- Melhorar monitoramentos e participar da análise e correção de incidentes.- Resolver falhas e participar de planos de ação paliativos e estruturantes.- Investigar, testar e propor novas tecnologias.- Manter a documentação atualizada.- Trabalhar colaborativamente, praticando feedback com pares e líderes.Requisitos para este desafio:Experiência com squads de produtos digitaisExperiência com programação em Java/Kotlin + Springboot;Experiência em (construção de micro-serviços e de APIs RESTful)’;Experiência em pelo menos uma das abordagens: SOLID, Clean Architecture, Clean Code;Experiência com serverless e tecnologias de contêiner, como: Lambda, Docker; Kubernetes;Experiência no desenvolvimento de serviços distribuídos orientados a eventos.Experiência com Kafka, RabbitMQ;Experiência com bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (como PostgresSQL);Conhecimento em uma das ferramentas de CI / CD, como: GitHubActions, Jenkins, Azure Devops, CircleCI.Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP).Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras#MidseniorPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+
+tech transformation
+
+CI&T
+
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+
+
+
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:
+
+
+
+
+A CI&T esta buscando pessoas desenvolvedoras Kotlin Backend Sênior para participarem da construção do maior ecossistema de Beleza Digital do mundo!
+A CI&T esta buscando pessoas desenvolvedoras Kotlin Backend Sênior para participarem da construção do maior ecossistema de Beleza Digital do mundo!
+Você fará parte de uma Squad de produto multidisciplinar (vários perfis) e mista composta por pessoas da CI&T e do cliente.
+Você fará parte de uma Squad de produto multidisciplinar (vários perfis) e mista composta por pessoas da CI&T e do cliente.
+Responsabilidades:
+Responsabilidades:
+Responsabilidades:
+- Definir objetivos das entregas e planejar atividades da equipe.
+- Definir objetivos das entregas e planejar atividades da equipe.
+- Definir objetivos das entregas e planejar atividades da equipe.
+- Conduzir a equipe na superação de obstáculos e conclusão de tarefas.
+- Conduzir a equipe na superação de obstáculos e conclusão de tarefas.
+- Conduzir a equipe na superação de obstáculos e conclusão de tarefas.
+- Participar das decisões de implementação e projetar soluções alinhadas com a arquitetura existente.
+- Participar das decisões de implementação e projetar soluções alinhadas com a arquitetura existente.
+- Participar das decisões de implementação e projetar soluções alinhadas com a arquitetura existente.
+- Implementar soluções simples, de alta qualidade e performance para os consumidores.
+- Implementar soluções simples, de alta qualidade e performance para os consumidores.
+- Implementar soluções simples, de alta qualidade e performance para os consumidores.
+- Realizar e influenciar práticas de Code Review e Pair Programming.
+- Realizar e influenciar práticas de Code Review e Pair Programming.
+- Realizar e influenciar práticas de Code Review e Pair Programming.
+- Orientar a equipe no desenvolvimento de testes unitários, integrados, funcionais e de performance.
+- Orientar a equipe no desenvolvimento de testes unitários, integrados, funcionais e de performance.
+- Orientar a equipe no desenvolvimento de testes unitários, integrados, funcionais e de performance.
+- Melhorar monitoramentos e participar da análise e correção de incidentes.
+- Melhorar monitoramentos e participar da análise e correção de incidentes.
+- Melhorar monitoramentos e participar da análise e correção de incidentes.
+- Resolver falhas e participar de planos de ação paliativos e estruturantes.
+- Resolver falhas e participar de planos de ação paliativos e estruturantes.
+- Resolver falhas e participar de planos de ação paliativos e estruturantes.
+- Investigar, testar e propor novas tecnologias.
+- Investigar, testar e propor novas tecnologias.
+- Investigar, testar e propor novas tecnologias.
+- Manter a documentação atualizada.
+- Manter a documentação atualizada.
+- Manter a documentação atualizada.
+- Trabalhar colaborativamente, praticando feedback com pares e líderes.
+- Trabalhar colaborativamente, praticando feedback com pares e líderes.
+- Trabalhar colaborativamente, praticando feedback com pares e líderes.
+Requisitos para este desafio:
+Requisitos para este desafio:
+Requisitos para este desafio:
+Requisitos para este desafio:
+Experiência com squads de produtos digitais
+Experiência com squads de produtos digitais
+Experiência com squads de produtos digitais
+Experiência com squads de produtos digitais
+
+Experiência com programação em Java/Kotlin + Springboot;
+Experiência com programação em Java/Kotlin + Springboot;
+Experiência com programação em Java/Kotlin + Springboot;
+Experiência com programação em Java/Kotlin + Springboot;
+
+Experiência em (construção de micro-serviços e de APIs RESTful)’;
+Experiência em (construção de micro-serviços e de APIs RESTful)’;
+Experiência em (construção de micro-serviços e de APIs RESTful)’;
+Experiência em (construção de micro-serviços e de APIs RESTful)’;
+Experiência em pelo menos uma das abordagens: SOLID, Clean Architecture, Clean Code;
+Experiência em pelo menos uma das abordagens: SOLID, Clean Architecture, Clean Code;
+Experiência em pelo menos uma das abordagens: SOLID, Clean Architecture, Clean Code;
+Experiência em pelo menos uma das abordagens: SOLID, Clean Architecture, Clean Code;
+
+Experiência com serverless e tecnologias de contêiner, como: Lambda, Docker; Kubernetes;
+Experiência com serverless e tecnologias de contêiner, como: Lambda, Docker; Kubernetes;
+Experiência com serverless e tecnologias de contêiner, como: Lambda, Docker; Kubernetes;
+Experiência com serverless e tecnologias de contêiner, como: Lambda, Docker; Kubernetes;
+
+Experiência no desenvolvimento de serviços distribuídos orientados a eventos.
+Experiência no desenvolvimento de serviços distribuídos orientados a eventos.
+Experiência no desenvolvimento de serviços distribuídos orientados a eventos.
+Experiência no desenvolvimento de serviços distribuídos orientados a eventos.
+
+Experiência com Kafka, RabbitMQ;
+Experiência com Kafka, RabbitMQ;
+Experiência com Kafka, RabbitMQ;
+Experiência com Kafka, RabbitMQ;
+Experiência com bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (como PostgresSQL);
+Experiência com bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (como PostgresSQL);
+Experiência com bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (como PostgresSQL);
+Experiência com bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (como PostgresSQL);
+
+Conhecimento em uma das ferramentas de CI / CD, como: GitHubActions, Jenkins, Azure Devops, CircleCI.
+Conhecimento em uma das ferramentas de CI / CD, como: GitHubActions, Jenkins, Azure Devops, CircleCI.
+Conhecimento em uma das ferramentas de CI / CD, como: GitHubActions, Jenkins, Azure Devops, CircleCI.
+Conhecimento em uma das ferramentas de CI / CD, como: GitHubActions, Jenkins, Azure Devops, CircleCI.
+
+Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP).
+Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP).
+Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP).
+Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP).
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Gympass
+- Gympass
+- Gympass
+- Gympass
+- Gympass
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre os nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+https://ciandt.com/br/pt-br/carreiras
+#MidseniorPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+#MidseniorPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+#MidseniorPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+#Midsenior
+#Midsenior
+
+
+
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+
+
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo

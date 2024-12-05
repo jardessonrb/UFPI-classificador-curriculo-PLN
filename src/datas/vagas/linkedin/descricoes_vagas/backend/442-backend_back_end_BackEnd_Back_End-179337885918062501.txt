@@ -1,0 +1,77 @@
+link-https://www.linkedin.com/jobs/view/4033481910/?eBP=CwEAAAGS7lEpN2myeWxR7SBGcqO8QNMEUJsMv5_nTGBDRQUfHtu48J7CdZl-VpKttxnuKk-FjTXGXVSPtjzSyI1OM5_4EG3VAlsYrUvC5Y0o5WmE1NkhFSofDROB1xudftZ9kA8OggjvDAImZ_C4fRYzk8dF8PepDBhCCOpzhvZtkEJanwwyVcULAWajbiINHQgD9TRQDv5kfRfxiHUwvJoIqrRGhRHpWUORQ9eDMNSkIQhrxXOJGWD2mmR2wn8ZlA4XH2Fc6CPHK7KzAI7pi9aAHfHpsFyGKHs2YjbFp_Qdi__0Mm2TXhlxbvdPlgs5d0fXPyoflHpqMzWNDV_RAjg_Zx0JgdQJNyVORRw5yVaIJt5Q5ntcENYYxifAuKw_PgHtIAwrAabgXns5H1rWhDC5vD7wt0s5OePhDL6nEiq7Zexnnwozum1jWYzZMM-0MZ4GVCZpNQxx8BTBn_8d0B_Ua_RhAdU740Jrw-wL4whPKaLr_b0_aLoSWtKL4FhfOGj2Y0y2JQVwog&refId=eh%2FTpMOgCXQEh1qs5ZCfcA%3D%3D&trackingId=O%2BxGWboh%2BfbPTWxCTPjJxg%3D%3D&trk=flagship3_search_srp_jobs
+
+Backend Engineer
+Sobre a vaga
+WHAT MAKES US EPIC?At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development.ENGINEERING - UNREAL ENGINEWhat We DoUnreal-powered projects have been on the bleeding edge of real-time entertainment for over 20 years. Our team of engineering experts are always innovating to improve the tools and technology that empower content developers worldwide.What You'll DoAs part of a small globally distributed team of backend engineers, you’ll support existing UCS-hosted services (such as Unreal Editor for Fortnite, RealityScan, MetaHuman Creator, Twinmotion, and Unreal Revision Control), and design/deploy new cloud systems that will help shape the future of collaborative content creation.In this role, you willDesign, implement, and maintain scalable, secure, highly-available backend services using RESTful API and gRPC protocolsOwn the entire lifecycle of services, from design and implementation to deploymentWork on an existing AWS cloud infrastructureWork together with both upstream and downstream service owners, producers, and infrastructure to ship solutionsParticipate in a light-weight on-call rotation, along with the entire cloud services teamWhat We're Looking ForProven track record of contributing live services at scalePassionate about building and maintaining secure, scalable, and highly available online applications, with 5+ years of experience in creating online services or web systemsProficient in cloud technologies, preferably AWS cloud services, Unix-flavored operating systems, CI/CD environments, and deploying and running containerized servicesMust be comfortable with Javascript/Typescript. Additional experience in other languages is a plus, especially RustAbility to craft solutions using SQL and nonrelational databasesPositive communication skills including the ability to provide, solicit, and accept feedback constructivelyEPIC JOB + EPIC BENEFITS = EPIC LIFEWe pay 100% for benefits for both employees (EEs) and dependents (deps). Our current benefits package includes coverage for medical, dental, and life insurance. We also offer supplemental benefits including daily meal vouchers, and commuter benefits for onsite employees.About UsEpic Games spans across 25 countries with 46 studios and 4,500+ employees globally. For over 25 years, we've been making award-winning games and engine technology that empowers others to make visually stunning games and 3D content that bring environments to life like never before. Epic's award-winning Unreal Engine technology not only provides game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and develop remarkable games, we strive to build teams of world-class talent.Like what you hear? Come be a part of something Epic!Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal Employment Opportunity (EEO) Policyhere.Note to Recruitment Agencies:Epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). We will not pay any fees to any unauthorized third party. Further details on these matters can be foundhere.
+
+
+
+
+
+
+
+
+What We Do
+
+
+
+
+What You'll Do
+
+
+
+
+In this role, you will
+
+
+Design, implement, and maintain scalable, secure, highly-available backend services using RESTful API and gRPC protocolsOwn the entire lifecycle of services, from design and implementation to deploymentWork on an existing AWS cloud infrastructureWork together with both upstream and downstream service owners, producers, and infrastructure to ship solutionsParticipate in a light-weight on-call rotation, along with the entire cloud services team
+Design, implement, and maintain scalable, secure, highly-available backend services using RESTful API and gRPC protocols
+Design, implement, and maintain scalable, secure, highly-available backend services using RESTful API and gRPC protocols
+Own the entire lifecycle of services, from design and implementation to deployment
+Own the entire lifecycle of services, from design and implementation to deployment
+Work on an existing AWS cloud infrastructure
+Work on an existing AWS cloud infrastructure
+Work together with both upstream and downstream service owners, producers, and infrastructure to ship solutions
+Work together with both upstream and downstream service owners, producers, and infrastructure to ship solutions
+Participate in a light-weight on-call rotation, along with the entire cloud services team
+Participate in a light-weight on-call rotation, along with the entire cloud services team
+
+
+
+What We're Looking For
+
+
+Proven track record of contributing live services at scalePassionate about building and maintaining secure, scalable, and highly available online applications, with 5+ years of experience in creating online services or web systemsProficient in cloud technologies, preferably AWS cloud services, Unix-flavored operating systems, CI/CD environments, and deploying and running containerized servicesMust be comfortable with Javascript/Typescript. Additional experience in other languages is a plus, especially RustAbility to craft solutions using SQL and nonrelational databasesPositive communication skills including the ability to provide, solicit, and accept feedback constructively
+Proven track record of contributing live services at scale
+Proven track record of contributing live services at scale
+Passionate about building and maintaining secure, scalable, and highly available online applications, with 5+ years of experience in creating online services or web systems
+Passionate about building and maintaining secure, scalable, and highly available online applications, with 5+ years of experience in creating online services or web systems
+Proficient in cloud technologies, preferably AWS cloud services, Unix-flavored operating systems, CI/CD environments, and deploying and running containerized services
+Proficient in cloud technologies, preferably AWS cloud services, Unix-flavored operating systems, CI/CD environments, and deploying and running containerized services
+Must be comfortable with Javascript/Typescript. Additional experience in other languages is a plus, especially Rust
+Must be comfortable with Javascript/Typescript. Additional experience in other languages is a plus, especially Rust
+Ability to craft solutions using SQL and nonrelational databases
+Ability to craft solutions using SQL and nonrelational databases
+Positive communication skills including the ability to provide, solicit, and accept feedback constructively
+Positive communication skills including the ability to provide, solicit, and accept feedback constructively
+
+
+
+
+
+
+
+About Us
+
+
+
+
+Like what you hear? Come be a part of something Epic!
+
+
+
+
+
+Note to Recruitment Agencies:
+
+

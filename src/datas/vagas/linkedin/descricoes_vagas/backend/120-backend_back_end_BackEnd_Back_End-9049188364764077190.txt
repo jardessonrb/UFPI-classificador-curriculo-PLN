@@ -1,0 +1,127 @@
+link-https://www.linkedin.com/jobs/view/4039075409/?eBP=CwEAAAGS7lPxiqI5xPRPl3rsGf3hEgx08UatzjJAvt8qjBtEQjTYnHy8v1mpm8o5hf-PShZ5j4LTp5r1793tg_Rgjuo9zXSYfrgwuil5UQ2RY4bzD93cXIPgUidxxnXh_rBZc1mTUELORVOCO6klnhfQIoRnOEZ6qfW8U52cCKIqTOpgcpcgK8fB4flBHBxgf32KJ3oFZhWlyjUroQh0w3Aum8U1aC8nDCPTvh06-YFfJRsInH6JUIZOrsmrqssSC70wYisn94PRGFdwebmg-nnG_IlSkSCj40hlOsDTiSX8VTUVNDj2zLwGtR8G2J5ml94K8CPm6JjX-TN17jjHEC8HtGBQhcNJQEUVWy8qYHQoNQYEuDDx-SliHzwHUp8BJ96uAQWG0B4_4I5FUB3JrMK_CTLSPaDHrJNwHUT0IsBQUmNHb-tlUuR5TyB7eSVRdldTgstXhjhUeqCHkon72yZ_H3GzEu9Fnpikrj6NzClwehi4W0W-0akYrA&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=RK22pPEqxhmzp4MD3GVKpA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Backend Engineer (Node.js)
+Sobre a vaga
+Who We Are Is What We Do.Deel and our family of growing companies are made up of global teams dedicated to helping businesses hire anyone, anywhere, easily.The team comprises over three thousand self-driven individuals spanning over 100 countries, and our unified yet diverse culture keeps us continually learning and innovating the platform and products for customers.Companies should be able to hire the best talent anywhere in the world, so we are building the best platform to make that a reality. Our market-leading technology, expertise, and global team are crucial to the platform’s success. We deliver the best products and features in our space, enabling millions of jobs worldwide and connecting the global workforce with the best companies and opportunities.Why should you be part of our success story?A 30-mile hiring radius should no longer dictate how companies hire because exceptional talent lives everywhere. Deel sees a world without hiring borders and endless talent that pairs perfect candidates with great companies.We offer global teams all the tools they need to hire, onboard, manage, pay, and scale at full speed. We aim to foster a diverse global economy by building a generational platform that seamlessly connects companies with talent worldwide.After our successful Series D in 2021, we raised another $50M in 2023, doubling our valuation to $12B. There’s never been a more exciting time to join Deel — the international payroll and compliance market leader.Get ready to:Be a part of a truly cross-functional team; Frontend Engineers, Product Teams, Designers and QA’s.Participate in product planning (From discovery all the way to deployment); We want your input at all stages of the Software Development Lifecycle!Collaborate! Our teams work together to develop robust new features, API’s, continuously improve our industry-leading products and find and fix any bugs at Deel Speed.Ensure our customers receive a white-glove experience with our products!The bits and bytes that you’ll bring to your new team:You have at least 5 years of experience as a Software EngineerYou have expert knowledge of Node.js and at least one other server side language.You’re an expert in JavaScript syntax.You’re a database guru! You know the ins and outs of SQL and NoSQL, mainly PostgreSQL and ORM libraries (such as Sequelize)You have a firm understanding of AWS Services such as S3, EKS, SNS and SQS (If you’re a fast learner, knowledge of GCP or Azure would be suitable, too!)You're the Engineer we're looking for if you:Excel in the art of designing, coding, testing, and maintaining applications using the tech listed above.Thrive in a collaborative, remote-first work culture where teamwork, camaraderie, and being Together Everywhere are key.Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.Are passionate about solving customer problems with your coding superpowers, and approach challenges with Default Optimism whilst maintaining a balanced perspective in all aspects of your work.Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.Embody our core value of Genuine Care, deeply understanding and addressing the impact of your work on our customers.Extra brownie points if you:Have experience with SaaS products running 24/7 on a major cloud vendor.Have experience with serverless app architecture on AWS.Have experience with TypeScript.Have honed your skills working in distributed teams and thrive in a remote work environment.Have knowledge of the dynamic world of FinTech.Total RewardsOur workforce deserves fair and competitive pay that meets them where they are. With scalable benefits, rewards, and perks, our total rewards programs reflect our commitment to inclusivity and access for all.Some things you’ll enjoyProvided computer equipment tailored to your roleStock grant opportunities dependent on your role, employment status and locationAdditional perks and benefits based on your employment status and countryThe flexibility of remote work, including WeWork access where availableAt Deel, we’re an equal-opportunity employer that values diversity and positively encourage applications from suitably qualified and eligible candidates regardless of race, religion, sex, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, pregnancy or maternity or other applicable legally protected characteristics.Unless otherwise agreed, we will communicate with job applicants using Deel-specific emails, which include @deel.comand other acquired company emails like @payspace.comand @paygroup.com. You can view the most up-to-date job listings at Deel by visitingour careers page.Deel is an equal-opportunity employer and is committed to cultivating a diverse and inclusive workplace that reflects different abilities, backgrounds, beliefs, experiences, identities and perspectives.Deel will provide accommodation on request throughout the recruitment, selection and assessment process for applicants with disabilities. If you require accommodation, please inform our Talent Acquisition Team at recruiting@deel.com of the nature of the accommodation that you may require, to ensure your equal participation.
+Who We Are Is What We Do.
+
+
+
+
+
+
+
+
+Why should you be part of our success story?
+
+
+
+
+
+
+
+
+Get ready to:
+
+
+Be a part of a truly cross-functional team; Frontend Engineers, Product Teams, Designers and QA’s.Participate in product planning (From discovery all the way to deployment); We want your input at all stages of the Software Development Lifecycle!Collaborate! Our teams work together to develop robust new features, API’s, continuously improve our industry-leading products and find and fix any bugs at Deel Speed.Ensure our customers receive a white-glove experience with our products!
+Be a part of a truly cross-functional team; Frontend Engineers, Product Teams, Designers and QA’s.
+Be a part of a truly cross-functional team; Frontend Engineers, Product Teams, Designers and QA’s.
+Participate in product planning (From discovery all the way to deployment); We want your input at all stages of the Software Development Lifecycle!
+Participate in product planning (From discovery all the way to deployment); We want your input at all stages of the Software Development Lifecycle!
+Collaborate! Our teams work together to develop robust new features, API’s, continuously improve our industry-leading products and find and fix any bugs at Deel Speed.
+Collaborate! Our teams work together to develop robust new features, API’s, continuously improve our industry-leading products and find and fix any bugs at Deel Speed.
+Ensure our customers receive a white-glove experience with our products!
+Ensure our customers receive a white-glove experience with our products!
+
+
+The bits and bytes that you’ll bring to your new team:
+
+
+You have at least 5 years of experience as a Software EngineerYou have expert knowledge of Node.js and at least one other server side language.You’re an expert in JavaScript syntax.You’re a database guru! You know the ins and outs of SQL and NoSQL, mainly PostgreSQL and ORM libraries (such as Sequelize)You have a firm understanding of AWS Services such as S3, EKS, SNS and SQS (If you’re a fast learner, knowledge of GCP or Azure would be suitable, too!)
+You have at least 5 years of experience as a Software Engineer
+You have at least 5 years of experience as a Software Engineer
+You have expert knowledge of Node.js and at least one other server side language.
+You have expert knowledge of Node.js and at least one other server side language.
+You’re an expert in JavaScript syntax.
+You’re an expert in JavaScript syntax.
+You’re a database guru! You know the ins and outs of SQL and NoSQL, mainly PostgreSQL and ORM libraries (such as Sequelize)
+You’re a database guru! You know the ins and outs of SQL and NoSQL, mainly PostgreSQL and ORM libraries (such as Sequelize)
+You have a firm understanding of AWS Services such as S3, EKS, SNS and SQS (If you’re a fast learner, knowledge of GCP or Azure would be suitable, too!)
+You have a firm understanding of AWS Services such as S3, EKS, SNS and SQS (If you’re a fast learner, knowledge of GCP or Azure would be suitable, too!)
+
+
+You're the Engineer we're looking for if you:
+
+
+Excel in the art of designing, coding, testing, and maintaining applications using the tech listed above.Thrive in a collaborative, remote-first work culture where teamwork, camaraderie, and being Together Everywhere are key.Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.Are passionate about solving customer problems with your coding superpowers, and approach challenges with Default Optimism whilst maintaining a balanced perspective in all aspects of your work.Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.Embody our core value of Genuine Care, deeply understanding and addressing the impact of your work on our customers.
+Excel in the art of designing, coding, testing, and maintaining applications using the tech listed above.
+Excel in the art of designing, coding, testing, and maintaining applications using the tech listed above.
+Thrive in a collaborative, remote-first work culture where teamwork, camaraderie, and being Together Everywhere are key.
+Thrive in a collaborative, remote-first work culture where teamwork, camaraderie, and being Together Everywhere are key.
+Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.
+Embrace independence and take ownership of your projects, yet also excel in a team setting and love to contribute.
+Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.
+Communicate complex ideas with ease and enjoy collaborating with diverse teams of technical and non-technical stakeholders.
+Are passionate about solving customer problems with your coding superpowers, and approach challenges with Default Optimism whilst maintaining a balanced perspective in all aspects of your work.
+Are passionate about solving customer problems with your coding superpowers, and approach challenges with Default Optimism whilst maintaining a balanced perspective in all aspects of your work.
+Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.
+Take a business-focused approach to software development, with a keen eye on delivering high-value outcomes for our clients.
+Embody our core value of Genuine Care, deeply understanding and addressing the impact of your work on our customers.
+Embody our core value of Genuine Care, deeply understanding and addressing the impact of your work on our customers.
+
+
+Extra brownie points if you:
+
+
+Have experience with SaaS products running 24/7 on a major cloud vendor.Have experience with serverless app architecture on AWS.Have experience with TypeScript.Have honed your skills working in distributed teams and thrive in a remote work environment.Have knowledge of the dynamic world of FinTech.
+Have experience with SaaS products running 24/7 on a major cloud vendor.
+Have experience with SaaS products running 24/7 on a major cloud vendor.
+Have experience with serverless app architecture on AWS.
+Have experience with serverless app architecture on AWS.
+Have experience with TypeScript.
+Have experience with TypeScript.
+Have honed your skills working in distributed teams and thrive in a remote work environment.
+Have honed your skills working in distributed teams and thrive in a remote work environment.
+Have knowledge of the dynamic world of FinTech.
+Have knowledge of the dynamic world of FinTech.
+
+
+Total Rewards
+
+
+
+
+Some things you’ll enjoy
+
+
+Provided computer equipment tailored to your roleStock grant opportunities dependent on your role, employment status and locationAdditional perks and benefits based on your employment status and countryThe flexibility of remote work, including WeWork access where available
+Provided computer equipment tailored to your role
+Provided computer equipment tailored to your role
+Stock grant opportunities dependent on your role, employment status and location
+Stock grant opportunities dependent on your role, employment status and location
+Additional perks and benefits based on your employment status and country
+Additional perks and benefits based on your employment status and country
+The flexibility of remote work, including WeWork access where available
+The flexibility of remote work, including WeWork access where available
+
+
+
+
+Unless otherwise agreed, we will communicate with job applicants using Deel-specific emails, which include @
+deel.com
+and other acquired company emails like @
+
+payspace.com
+and @
+
+paygroup.com
+. You can view the most up-to-date job listings at Deel by visiting
+
+our careers page
+.
+
+
+Deel is an equal-opportunity employer and is committed to cultivating a diverse and inclusive workplace that reflects different abilities, backgrounds, beliefs, experiences, identities and perspectives.Deel will provide accommodation on request throughout the recruitment, selection and assessment process for applicants with disabilities. If you require accommodation, please inform our Talent Acquisition Team at recruiting@deel.com of the nature of the accommodation that you may require, to ensure your equal participation.
+
+

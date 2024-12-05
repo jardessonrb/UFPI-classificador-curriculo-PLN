@@ -1,0 +1,77 @@
+link-https://www.linkedin.com/jobs/view/4054912708/?eBP=CwEAAAGS7lNW-NKV_Ni806ocFecpAqZBN2tBlw3ju_Cw79lQCPhAICEtmHN4Tsp66-lJMm0D6OjAKGFZpnQ_wf2sg7JH9y6A-Gvjr3vs-PDmzfqjFnnkA80P1jHhAKVkOqWd8_UVAqVqgfUCrwoIlPPAyoDo578FgUcKweryK9XskDTZyFzDDtUvIwUR51ZRt1MNVLbI53Wcib5InbTnSia5NkE-WB-qde-Zw4Bnok5VqVQUyJtsiWbis0t65ajQAJb2tes6lsQgxrTubGA7MdB9xaiLrHuUZBq5j57jJC8J4vDq5fGzzDLKBmyMjCQnNrFsDJV4STwtddl3ZIjbjv2bCNdrSYt1WQarRN1XpEMN6jSiGBTRbC5wTM5d2yCtKTG9s3-fynTv0yVQzmJTrg1CyOlNshOtsiL7-BtLWAevlU5f3L4zrvajB7KXrv4v1775wsHDBaNZMaOXz4opc1ts36oX6WemmavB2GiJsPXfwM7HWKMM53PtoZVHusMPzEew&refId=pcYUo6H8SLGigYcozUDaJg%3D%3D&trackingId=UXecFPu5LTTwTjl0wMFhMw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Junior | .NET - Bari Tecnologia
+Sobre a vaga
+Somos oBari, um grupo especialista no mercado de Home Equity, com mais de 28 anos de experiência no ciclo completo de originação e securitização de crédito imobiliário.Queremos transformar a vida dos nossos clientes através de produtos financeiros inteligentes e pensados para cada necessidade. E para continuar caminhando em direção ao nosso objetivo deSer a maior referência em crédito com garantia de imóvel do Brasil, precisamos do melhor Time.Faz parte da nossa Cultura, respeitar e valorizar as diferenças, pois acreditamos que cada história e experiência conta.Nossas vagas são abertas para todas as pessoas, sem distinção de gênero, raça, cor, idade, orientação sexual, etnia ou deficiência. Se você quer fazer a diferença e ajudar a transformar a vida financeira das pessoas, vem com a gente!Suas Principais Responsabilidades SerãoDesenvolvimento de novas funcionalidades nos microserviços da nossa plataforma bancária;Realizar validação e revisão de código (code review) e participar de sessões de pair programming com outros membros da equipe;Participar ativamente de análises técnicas, discussões da arquitetura do sofware e implementações/correções a respeito de problemas e funcionalidades dos produtos.Experiência desenvolvendo aplicações C# e .NET6 ou superior;Conhecimento básico de padrões de projeto (design patterns);Conhecimento de algum banco de dados relacionais (SQL) ou não relacionais (noSQL);Conhecimento básico de metodologias ágeis (preferencialmente Kanban);Familiaridade com controle de versão, preferencialmente git;DiferenciaisExperiência com nuvem, preferencialmente AWSConhecimento em arquitetura de microserviçosConhecimento em sistemas de mensageria (Kafka/AMQP, Kinesis ou sns/sqs)Familiaridade com Docker e containersFazer parte do time Bari ainda traz muitos benefícios, confere aí:🥦 Vale Alimentação🍔 Vale Refeição🚌 Vale Transporte💊 Plano de Saúde😁 Plano Odontológico💰 Participação nos Lucros e Resultados (PLR)💎 Bariclube: Parcerias com restaurantes, universidades, escolas de idiomas e muito mais🏆 Headhunter Bari: Programa de indicação de talentos📚 Ambiente de aprendizado contínuo🔹 1:1🔹 Avaliação de Desempenho e PDIE ai, animado para fazer parte da nossa equipe? Se candidate e boa sorte!
+
+Bari
+
+
+
+Ser a maior referência em crédito com garantia de imóvel do Brasil
+
+
+
+Nossas vagas são abertas para todas as pessoas
+
+
+Suas Principais Responsabilidades Serão
+
+
+Desenvolvimento de novas funcionalidades nos microserviços da nossa plataforma bancária;Realizar validação e revisão de código (code review) e participar de sessões de pair programming com outros membros da equipe;Participar ativamente de análises técnicas, discussões da arquitetura do sofware e implementações/correções a respeito de problemas e funcionalidades dos produtos.Experiência desenvolvendo aplicações C# e .NET6 ou superior;Conhecimento básico de padrões de projeto (design patterns);Conhecimento de algum banco de dados relacionais (SQL) ou não relacionais (noSQL);Conhecimento básico de metodologias ágeis (preferencialmente Kanban);Familiaridade com controle de versão, preferencialmente git;
+Desenvolvimento de novas funcionalidades nos microserviços da nossa plataforma bancária;
+Desenvolvimento de novas funcionalidades nos microserviços da nossa plataforma bancária;
+Realizar validação e revisão de código (code review) e participar de sessões de pair programming com outros membros da equipe;
+Realizar validação e revisão de código (code review) e participar de sessões de pair programming com outros membros da equipe;
+Participar ativamente de análises técnicas, discussões da arquitetura do sofware e implementações/correções a respeito de problemas e funcionalidades dos produtos.
+Participar ativamente de análises técnicas, discussões da arquitetura do sofware e implementações/correções a respeito de problemas e funcionalidades dos produtos.
+Experiência desenvolvendo aplicações C# e .NET6 ou superior;
+Experiência desenvolvendo aplicações C# e .NET6 ou superior;
+Conhecimento básico de padrões de projeto (design patterns);
+Conhecimento básico de padrões de projeto (design patterns);
+Conhecimento de algum banco de dados relacionais (SQL) ou não relacionais (noSQL);
+Conhecimento de algum banco de dados relacionais (SQL) ou não relacionais (noSQL);
+Conhecimento básico de metodologias ágeis (preferencialmente Kanban);
+Conhecimento básico de metodologias ágeis (preferencialmente Kanban);
+Familiaridade com controle de versão, preferencialmente git;
+Familiaridade com controle de versão, preferencialmente git;
+
+
+Diferenciais
+
+
+Experiência com nuvem, preferencialmente AWSConhecimento em arquitetura de microserviçosConhecimento em sistemas de mensageria (Kafka/AMQP, Kinesis ou sns/sqs)Familiaridade com Docker e containers
+Experiência com nuvem, preferencialmente AWS
+Experiência com nuvem, preferencialmente AWS
+Conhecimento em arquitetura de microserviços
+Conhecimento em arquitetura de microserviços
+Conhecimento em sistemas de mensageria (Kafka/AMQP, Kinesis ou sns/sqs)
+Conhecimento em sistemas de mensageria (Kafka/AMQP, Kinesis ou sns/sqs)
+Familiaridade com Docker e containers
+Familiaridade com Docker e containers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+link-https://www.linkedin.com/jobs/view/4041032602/?eBP=CwEAAAGS7lPxiraHZUoi5IXrizTKGeEnxF4gBR15Ol-qDmFPZt_tohYDBq9W6k6Ydv_-evsiTCj5p2y1-llaI2ZKppUJ1dMUVKVidcH0ZygBKe7Hq8AmXe8kPuZKn0Mnv2Xvpv-JUOP2Ionm48caJKhoEKCmmY2YOYmXBR44R3YPcsaCHJ5EbuD8iW8z-1IgMLt2BT0-rXobK944ZCI0sdOcvMoCLJUv8XrfXpZ1-AhPCKXG8wDawKqh4sQeeM0T6xqLYFsrGddigZeAoT4QR9Q7cnSUEpWXtZS5wvQk3ryjOdfEgX0nwB7r_hoZgIDu_H9HNPXFa5nkflhtegQ9MIyV5pvaYmKSRhnWTVXYK-pYuvdYLbPdM_PRUHjfVXJNPknQUuHIK3HBRvchtl61p799VR0DBvysiTTRNnsGhbgb04JLSBDHZrUQhI-xnToH3mnsToICHtNowHglHRZNGtqr9ppWb8L8pzJye6BX0JZYXqO__FG9sWE_uw&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=E6suyxA3KdXn2fCCXE%2BI3Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Backend Senior
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Design and implement robust, scalable, and secure backend systems.Develop and maintain APIs using Python, Django, and REST framework.Work with IoT protocols such as MQTT.Manage and optimize databases including PostgreSQL, Cassandra, and MongoDB.Implement and maintain data lakes for efficient data storage and retrieval.Collaborate with front-end developers, product managers, and other stakeholders to deliver high-quality solutions.Ensure the performance, quality, and responsiveness of applications.Stay up-to-date with the latest industry trends and technologies.Conduct code reviews and provide mentorship to developers.Technical leadership.Bachelor’s degree in Computer Science, Engineering, or a related field.Proven experience Software Architect.8+ years of experience in backend development with a strong focus on python.Strong knowledge of software architecture.Proficiency in Python and Django minimum 8 years.Experience with REST framework for building APIs.Familiarity with IoT protocols such as MQTT.Hands-on experience with PostgreSQL, Cassandra, and MongoDB.Familiarity with data warehouse, data lake, and big data, with the ability to understand and use these technologies to manage and analyze large volumes of data.Experience in AI projects is desirable;Knowledge in testing techniques, including unit, integration, and system testing, will be a differential;Excellent problem-solving skills and attention to detail.Ability to work independently and as part of a team.Strong communication and collaboration skills.Experience with cloud platforms, such as AWS.Experience with agile methodologies.Habilidades ObrigatóriasPythonDjangoHabilidades DesejáveisPostgreSQLCassandraMongoDBAWSBigDataA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+Design and implement robust, scalable, and secure backend systems.Develop and maintain APIs using Python, Django, and REST framework.Work with IoT protocols such as MQTT.Manage and optimize databases including PostgreSQL, Cassandra, and MongoDB.Implement and maintain data lakes for efficient data storage and retrieval.Collaborate with front-end developers, product managers, and other stakeholders to deliver high-quality solutions.Ensure the performance, quality, and responsiveness of applications.Stay up-to-date with the latest industry trends and technologies.Conduct code reviews and provide mentorship to developers.Technical leadership.Bachelor’s degree in Computer Science, Engineering, or a related field.Proven experience Software Architect.8+ years of experience in backend development with a strong focus on python.Strong knowledge of software architecture.Proficiency in Python and Django minimum 8 years.Experience with REST framework for building APIs.Familiarity with IoT protocols such as MQTT.Hands-on experience with PostgreSQL, Cassandra, and MongoDB.Familiarity with data warehouse, data lake, and big data, with the ability to understand and use these technologies to manage and analyze large volumes of data.Experience in AI projects is desirable;Knowledge in testing techniques, including unit, integration, and system testing, will be a differential;Excellent problem-solving skills and attention to detail.Ability to work independently and as part of a team.Strong communication and collaboration skills.Experience with cloud platforms, such as AWS.Experience with agile methodologies.
+Design and implement robust, scalable, and secure backend systems.
+Design and implement robust, scalable, and secure backend systems.
+
+Develop and maintain APIs using Python, Django, and REST framework.
+Develop and maintain APIs using Python, Django, and REST framework.
+
+Work with IoT protocols such as MQTT.
+Work with IoT protocols such as MQTT.
+
+Manage and optimize databases including PostgreSQL, Cassandra, and MongoDB.
+Manage and optimize databases including PostgreSQL, Cassandra, and MongoDB.
+
+Implement and maintain data lakes for efficient data storage and retrieval.
+Implement and maintain data lakes for efficient data storage and retrieval.
+
+Collaborate with front-end developers, product managers, and other stakeholders to deliver high-quality solutions.
+Collaborate with front-end developers, product managers, and other stakeholders to deliver high-quality solutions.
+
+Ensure the performance, quality, and responsiveness of applications.
+Ensure the performance, quality, and responsiveness of applications.
+
+Stay up-to-date with the latest industry trends and technologies.
+Stay up-to-date with the latest industry trends and technologies.
+
+Conduct code reviews and provide mentorship to developers.
+Conduct code reviews and provide mentorship to developers.
+
+Technical leadership.
+Technical leadership.
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+Proven experience Software Architect.
+Proven experience Software Architect.
+
+8+ years of experience in backend development with a strong focus on python.
+8+ years of experience in backend development with a strong focus on python.
+
+Strong knowledge of software architecture.
+Strong knowledge of software architecture.
+
+Proficiency in Python and Django minimum 8 years.
+Proficiency in Python and Django minimum 8 years.
+
+Experience with REST framework for building APIs.
+Experience with REST framework for building APIs.
+
+Familiarity with IoT protocols such as MQTT.
+Familiarity with IoT protocols such as MQTT.
+
+Hands-on experience with PostgreSQL, Cassandra, and MongoDB.
+Hands-on experience with PostgreSQL, Cassandra, and MongoDB.
+
+Familiarity with data warehouse, data lake, and big data, with the ability to understand and use these technologies to manage and analyze large volumes of data.
+Familiarity with data warehouse, data lake, and big data, with the ability to understand and use these technologies to manage and analyze large volumes of data.
+
+Experience in AI projects is desirable;
+Experience in AI projects is desirable;
+
+Knowledge in testing techniques, including unit, integration, and system testing, will be a differential;
+Knowledge in testing techniques, including unit, integration, and system testing, will be a differential;
+
+Excellent problem-solving skills and attention to detail.
+Excellent problem-solving skills and attention to detail.
+
+Ability to work independently and as part of a team.
+Ability to work independently and as part of a team.
+
+Strong communication and collaboration skills.
+Strong communication and collaboration skills.
+
+Experience with cloud platforms, such as AWS.
+Experience with cloud platforms, such as AWS.
+
+Experience with agile methodologies.
+Experience with agile methodologies.
+
+
+
+
+
+PythonDjango
+Python
+Python
+Django
+Django
+
+
+
+
+PostgreSQLCassandraMongoDBAWSBigData
+PostgreSQL
+PostgreSQL
+Cassandra
+Cassandra
+MongoDB
+MongoDB
+AWS
+AWS
+BigData
+BigData
+
+
+
+

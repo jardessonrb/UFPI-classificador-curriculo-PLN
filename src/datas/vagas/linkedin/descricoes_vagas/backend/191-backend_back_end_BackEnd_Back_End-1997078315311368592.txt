@@ -1,0 +1,76 @@
+link-https://www.linkedin.com/jobs/view/4045332954/?eBP=CwEAAAGS7lOKa1kb38NmzD4w2a-qbn2HOZt43qZCbZ5rcrPXzjPaikdh8LvtQgQrxKxzMFw4oq_E4LE4i5I_tooIVFf8ZlvatFLCqjGNrfiTWC_IEStvUKXVPvPqkOt4RtDRaOQOjz_odxBU5Em6ZELFGShIBpwMkCEYQh9lhdqKG-j8zJiXgBxhK5UKXNInwvCN2VJpEdGyzcwQB8h2vrWDC8qISgRzxhAtzEeZSCFtbrcQsuQqauOEZsyd0wSX0Tlz-le8XwQcc3ZOBOOG6PZulaWgo-jOLvXNFhI9in8XIPlcKRFb5p3RH4zFRZYXkd2y_Cm-gGr26ObhONwyR-IuVoFDkPnglg64GcK__IECSiM9nrYQCptGQzgYYnqD1X2c9Pde8eQc9agdvZeZcaWUJWslQZYSZY1JOieWrATHyDK5A2RXa6NE5txGqMcF6yIz0DgikUit7DoSttXoy2q3BJS0SarkKlxlUdnR-ypiH-Z-vtWmYsqD9W2cbuyjcXrxuwEr1Q&refId=vxzRdgWLAlHAeIKnYcrvfg%3D%3D&trackingId=tGU7BWYBAASdS4jIuTexhQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr Backend JAVA Developer / 100% Remote / USD payment / English speaking client
+Sobre a vaga
+Only allowed Argentina and Brasil ( 100% REMOTE )Job SummaryWe are seeking a highly skilled Senior Software Engineer with extensive experience in Java development, cloud technologies (specifically AWS), and microservices architecture. The ideal candidate will have a strong background in software engineering principles, unit testing, and continuous integration/continuous deployment (CI/CD) practices using Jenkins. This role requires a proactive individual who can work collaboratively within a team to deliver high-quality software solutions that meet business needs.Job ResponsibilitiesDesign, develop, and maintain scalable and robust Java applications.Implement microservices architecture to enhance system performance and reliability.Collaborate with cross-functional teams to define, design, and ship new features.Write clean, maintainable code and conduct code reviews to ensure adherence to best practices.Develop and execute unit tests to ensure software quality and reliability.Utilize AWS services for application deployment, monitoring, and scaling.Integrate CI/CD pipelines using Jenkins to automate build and deployment processes.Troubleshoot and resolve production issues in a timely manner.Stay updated with emerging technologies and industry trends to continuously improve development processes.Basic QualificationsBachelor’s degree in Computer Science, Engineering, or a related field.5+ years of experience in software development with a focus on Java.Proficient in Java (Java 8 or higher preferred).Experience with AWS services such as EC2, S3, Lambda, RDS, and API Gateway.Microservices: Strong understanding of microservices architecture and design patterns.Strong experience working with Snowflake.Familiarity with testing frameworks such as JUnit or TestNG; experience in writing unit tests for Java applications.Hands-on experience with Jenkins for automating build and deployment processes.Proficient in using Git for version control.Excellent problem-solving skills and attention to detail.Strong communication skills to effectively collaborate with team members and stakeholders.Ability to work independently as well as part of a team in a fast-paced environment.Adaptability to changing priorities and requirements.Preferred QualificationsExperience with Agile methodologies (Scrum or Kanban)
+Only allowed Argentina and Brasil ( 100% REMOTE )
+
+
+Job Summary
+
+
+
+
+Job Responsibilities
+
+
+Design, develop, and maintain scalable and robust Java applications.Implement microservices architecture to enhance system performance and reliability.Collaborate with cross-functional teams to define, design, and ship new features.Write clean, maintainable code and conduct code reviews to ensure adherence to best practices.Develop and execute unit tests to ensure software quality and reliability.Utilize AWS services for application deployment, monitoring, and scaling.Integrate CI/CD pipelines using Jenkins to automate build and deployment processes.Troubleshoot and resolve production issues in a timely manner.Stay updated with emerging technologies and industry trends to continuously improve development processes.
+Design, develop, and maintain scalable and robust Java applications.
+Design, develop, and maintain scalable and robust Java applications.
+Implement microservices architecture to enhance system performance and reliability.
+Implement microservices architecture to enhance system performance and reliability.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Write clean, maintainable code and conduct code reviews to ensure adherence to best practices.
+Write clean, maintainable code and conduct code reviews to ensure adherence to best practices.
+Develop and execute unit tests to ensure software quality and reliability.
+Develop and execute unit tests to ensure software quality and reliability.
+Utilize AWS services for application deployment, monitoring, and scaling.
+Utilize AWS services for application deployment, monitoring, and scaling.
+Integrate CI/CD pipelines using Jenkins to automate build and deployment processes.
+Integrate CI/CD pipelines using Jenkins to automate build and deployment processes.
+Troubleshoot and resolve production issues in a timely manner.
+Troubleshoot and resolve production issues in a timely manner.
+Stay updated with emerging technologies and industry trends to continuously improve development processes.
+Stay updated with emerging technologies and industry trends to continuously improve development processes.
+
+
+Basic Qualifications
+
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.5+ years of experience in software development with a focus on Java.Proficient in Java (Java 8 or higher preferred).Experience with AWS services such as EC2, S3, Lambda, RDS, and API Gateway.Microservices: Strong understanding of microservices architecture and design patterns.Strong experience working with Snowflake.Familiarity with testing frameworks such as JUnit or TestNG; experience in writing unit tests for Java applications.Hands-on experience with Jenkins for automating build and deployment processes.Proficient in using Git for version control.Excellent problem-solving skills and attention to detail.Strong communication skills to effectively collaborate with team members and stakeholders.Ability to work independently as well as part of a team in a fast-paced environment.Adaptability to changing priorities and requirements.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+5+ years of experience in software development with a focus on Java.
+5+ years of experience in software development with a focus on Java.
+Proficient in Java (Java 8 or higher preferred).
+Proficient in Java (Java 8 or higher preferred).
+Experience with AWS services such as EC2, S3, Lambda, RDS, and API Gateway.
+Experience with AWS services such as EC2, S3, Lambda, RDS, and API Gateway.
+Microservices: Strong understanding of microservices architecture and design patterns.
+Microservices: Strong understanding of microservices architecture and design patterns.
+Strong experience working with Snowflake.
+Strong experience working with Snowflake.
+
+Familiarity with testing frameworks such as JUnit or TestNG; experience in writing unit tests for Java applications.
+Familiarity with testing frameworks such as JUnit or TestNG; experience in writing unit tests for Java applications.
+Hands-on experience with Jenkins for automating build and deployment processes.
+Hands-on experience with Jenkins for automating build and deployment processes.
+Proficient in using Git for version control.
+Proficient in using Git for version control.
+Excellent problem-solving skills and attention to detail.
+Excellent problem-solving skills and attention to detail.
+Strong communication skills to effectively collaborate with team members and stakeholders.
+Strong communication skills to effectively collaborate with team members and stakeholders.
+Ability to work independently as well as part of a team in a fast-paced environment.
+Ability to work independently as well as part of a team in a fast-paced environment.
+Adaptability to changing priorities and requirements.
+Adaptability to changing priorities and requirements.
+
+
+Preferred Qualifications
+
+
+Experience with Agile methodologies (Scrum or Kanban)
+Experience with Agile methodologies (Scrum or Kanban)
+Experience with Agile methodologies (Scrum or Kanban)

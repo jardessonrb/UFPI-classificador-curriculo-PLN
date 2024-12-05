@@ -1,0 +1,76 @@
+link-https://www.linkedin.com/jobs/view/4053994382/?eBP=CwEAAAGS7kfP1Epr4WNf10ye4rAfh1dQemAg-ebBBYFZp8j48KuUhWOp5MocSjtnuWSXSaMGvmPMkyGaGj3HdpN6ZtnY3OyRaDUlSQz3hhCZB-YwHIeqmJEI5Qy9tPUt2pe89lvput4Fm_44XTBHt8Vae9wyDhkkViI5DtfWeHSsml95Q7uAJs1RWVpIujQc5D8zmuiGct9MNy2GLNv2mV6luUXSTm15OynZ3MTWFfUaQYRmprTx3Lj-Xm8PmRMB7qAIqF-8H1NtMoxtc10ZnRUbOaZKGxF1Hpv9LvNCuF9WVv0vbXsw2voRkgBoegnUd-6dGRpFCwvjIuvtsvIHr-4c91mvuKAUNd5nriTboLmq-XhLbaO_rGKnELptM2r9Wuby7WOWxyNkFvxew7-J4lWuXWLAoVO-b5s_3NfE_6yokB7b0Z0L1IILZoNBMOsEjuHBxBUorVVygExkq-NYrC1quXErKTOHGm8ubZc7dy496Id3FsgPLFGHh6gbUWXGNXc-&refId=tyxQQXOBSAJsa4OGZvAY7A%3D%3D&trackingId=q9rHpHoBhiwFTVbp6l2t5Q%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Pleno
+Sobre a vaga
+Buscamos umQA Plenoque seja proativo, detalhista e comprometido com a qualidade dos nossos produtos. Este profissional deve ter sólida experiência em testes manuais e automatizados, além de familiaridade com metodologias ágeis. É fundamental que tenha habilidades em testes de APIs, conhecimento básico em SQL, e seja capaz de escrever testes no formato BDD. Valorizamos quem se adapta rapidamente, trabalha bem em equipe, possui boa comunicação e está sempre disposto a aprender e compartilhar novos conhecimentos.ResponsabilidadesElaborar cenários e executar testes manuais e automatizados;Criar e atualizar documentos funcionais e técnicos;Identificar e acompanhar a resolução de bugs;Promover a qualidade de software nas entregas.Requisitos TécnicosExperiência mínima de 3 anos com testes funcionais, usabilidade, exploratórios e regressão (web e desktop);Escrita de testes no formato BDD;Conhecimento em uma linguagem de programação;Experiência com testes de APIs REST e SQL básico;Familiaridade com metodologias ágeis.DiferenciaisExperiência com Azure DevOps;Ferramentas de automação como Selenium ou Cypress;Testes de carga com Jmeter ou K6.Soft SkillsAdaptabilidade;Atenção aos detalhes;Boa comunicação;Trabalho em equipe;Resolução de problemas.Regime De ContrataçãoCLTDepartamentoHunting
+
+QA Pleno
+
+
+
+Responsabilidades
+
+
+Elaborar cenários e executar testes manuais e automatizados;Criar e atualizar documentos funcionais e técnicos;Identificar e acompanhar a resolução de bugs;Promover a qualidade de software nas entregas.
+Elaborar cenários e executar testes manuais e automatizados;
+Elaborar cenários e executar testes manuais e automatizados;
+Criar e atualizar documentos funcionais e técnicos;
+Criar e atualizar documentos funcionais e técnicos;
+Identificar e acompanhar a resolução de bugs;
+Identificar e acompanhar a resolução de bugs;
+Promover a qualidade de software nas entregas.
+Promover a qualidade de software nas entregas.
+
+
+Requisitos Técnicos
+
+
+Experiência mínima de 3 anos com testes funcionais, usabilidade, exploratórios e regressão (web e desktop);Escrita de testes no formato BDD;Conhecimento em uma linguagem de programação;Experiência com testes de APIs REST e SQL básico;Familiaridade com metodologias ágeis.
+Experiência mínima de 3 anos com testes funcionais, usabilidade, exploratórios e regressão (web e desktop);
+Experiência mínima de 3 anos com testes funcionais, usabilidade, exploratórios e regressão (web e desktop);
+Escrita de testes no formato BDD;
+Escrita de testes no formato BDD;
+Conhecimento em uma linguagem de programação;
+Conhecimento em uma linguagem de programação;
+Experiência com testes de APIs REST e SQL básico;
+Experiência com testes de APIs REST e SQL básico;
+Familiaridade com metodologias ágeis.
+Familiaridade com metodologias ágeis.
+
+
+Diferenciais
+
+
+Experiência com Azure DevOps;Ferramentas de automação como Selenium ou Cypress;Testes de carga com Jmeter ou K6.
+Experiência com Azure DevOps;
+Experiência com Azure DevOps;
+Ferramentas de automação como Selenium ou Cypress;
+Ferramentas de automação como Selenium ou Cypress;
+Testes de carga com Jmeter ou K6.
+Testes de carga com Jmeter ou K6.
+
+
+Soft Skills
+
+
+Adaptabilidade;Atenção aos detalhes;Boa comunicação;Trabalho em equipe;Resolução de problemas.
+Adaptabilidade;
+Adaptabilidade;
+Atenção aos detalhes;
+Atenção aos detalhes;
+Boa comunicação;
+Boa comunicação;
+Trabalho em equipe;
+Trabalho em equipe;
+Resolução de problemas.
+Resolução de problemas.
+
+
+Regime De Contratação
+
+
+
+
+Departamento
+
+

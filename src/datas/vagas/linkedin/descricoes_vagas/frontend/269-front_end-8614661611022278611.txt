@@ -1,0 +1,35 @@
+link-https://www.linkedin.com/jobs/view/4058837000/?eBP=CwEAAAGS7kzADVbycLUO2qL9Hipmm7QgMEKqhBh4vGQTeEYzyohCp26Ip9eFIXfw_PBBWgQvqW26tvr-c_szpFaFs7FLsct0YojqsGp4tRyujztXQwyG2oi9TVHYasNbbpo0c-GQ-pXzJIAgdNRFCwsoXbj1Gm8bPbgsNsEI_Mt82tjYJV2B38cS3zEdPLVBM-pyxr1IGBPpXtHufKj20hz4z11d2yfeRmx2A0sro9szBz417uaMGyf-HAiQb8YWsLRkCWkEn6Pip88m16PjPkY1Lja2DIUVADzQ0rcscetoXe-7t7jZMnSte-GfXB0uCcuCATO58JOFJOKRdzSTNVYXnXsfhgL-3YpClI6Z9IfiGhSfJYej_Sjy-Ny48bOPx0Mst0aCEkH_HAlK5lZgVfb4LbNH7A3qi1I2hRdrpttcxF6mLZS8E6VuLuFhigCAIeVZapsJmKGFMr49Rhu5-Ty3PyyIOJVP8s8OLgQwMEulFFz_kotNihwF6bKea8he3keB&refId=rCcHD5HAcEarncBicHguSw%3D%3D&trackingId=9TIhiCb4Py03oQfOzhm%2BoA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvimento Frontend - SP
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+O que buscamos: Desenvolvimento Frontend (Angular) – Atuação Híbrido – (Santo Amaro ou Interlagos). Requisitos e Qualificações: Conhecimento avançado em Desenvolvimento Angular 16, NodeJs e JQuery. Integração de Sistemas via APIS RESTful e GraphQL. Conhecimento em segurança de Apps (Chaves Criptográficas, Armazenamento Seguro de Credenciais). Familiaridade com Autenticação e Autorização, incluindo Auth e JWT. Experiência com Testes Unitários, de Integração e Automações. DevSecOps. CI e CD utilizando Maven, Jenkins, Gitlab, SonarQube, FortFy e ArtiFactory. Ciclo completo de desenvolvimento (Análise de Requisitos, Arquitetura, Desenvolvimento, Testes e Implantação). Conhecimento em Multi-Cloud (AWS e Azure) e Serviços de Cloud-Native (Kubernetes, Docker e Openshift). Garantir a conformeidade com as normas de segurança (incluindo OWASP e Regulatórios). Ferramentas Colaborativas, Jira e Confluence. Metodologias Ágeis (Scrum, Kanban). Diferenciais: Experiência em Arquitetura de Microserviços Angular. Conhecimento em Modularização de Projetos e Bibliotecas Compartilhadas. Experiência com performance e otimização (Lazy Loading, Pré-Renderização e Web Workers). Conhecimento avançado em Design Patterns e Clean Architecture. Alto nível de análise e criação de soluções criativas e Disruptivas. Experiência com interfaces modernas seguindo Material de Design e UX. Descrição comportamental: Procuramos uma pessoa que: Goste de trabalhar em equipe e seja colaborativa em suas atribuições. Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento. Transforme ideias em soluções criativas e busque qualidade em toda sua rotina. Tenha habilidades de resolução de problemas. Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo. Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico. Big enough to deliver – small enough to care. #VempraGFT #VamosVoarJuntos.Formação AcadêmicaNão informadoSalárioA combinarCargoAnalista Desenvolvedor Front EndEmpresaGft BrasilServiços de TI.RamoInformática/ Tecnologia(CB)
+
+
+Formação Acadêmica
+
+
+
+
+Salário
+
+
+
+
+Cargo
+
+
+
+
+Empresa
+
+
+
+
+
+
+Ramo
+
+
+
+

@@ -1,0 +1,146 @@
+link-https://www.linkedin.com/jobs/view/4028805076/?eBP=CwEAAAGS7lOKa7k33pyL1peGgsWEr_N9OVRUcuCAYkoXmWHSfHv40E7H3lZjK4fe0F9aKHOp0S_TzUfLUzPpGqY9quud97JZP9b0nblKUVVNjuAhH03j-QrF5SgHCykF7wY-lv2eQMuXfQbz3boqKYq_k3GFTdFTT4C05t0LS-rCGrDf9NX1l_GwKEMAij4ACbzgIywQ-RiOEUTeri3kG31-SsViPvS_fnTJfcObeHVWlriMhSCUfqJMAtTxckVsvd9TrXS2o1ikOxzFf6p6jJk869sENQoCEnG1IobGkZtrc35py2pQxa6O_UplGj0f0SSEkXd1MwExBlGuNAsO9gYb_KTBSuCYO3fRlX76NrddklbtriXQbc1Lbj1U-VaRTW9MB0Y0Ujp89Sn5QwtdAg5FPhhocWbz66S-jxtiSA2CXoTmBQ9_6E8We7sSxpQZ9uksXax7VbuZ7IWV2vu4iQonwACwZbqU6QnBJ0MLx7J98eZX9lhuk3DyO9XkN8c5tsved4TC9t-40WY791I&refId=vxzRdgWLAlHAeIKnYcrvfg%3D%3D&trackingId=FxOaARQxkMzYMa%2Bd%2FiTp1Q%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend Java Pl
+Sobre a vaga
+req55079 - Pessoa Desenvolvedora Backend Java PlSobre o BradescoO Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtmResponsabilidades e atribuiçõesO que é o nosso time deDS – Departamento de Desenvolvimento de Sistemas?O Departamento de Desenvolvimento de Sistemas tem a responsabilidade de viabilizar soluções de TI que proporcionem o funcionamento harmônico entre os sistemas de suporte ao negócio, mantendo a arquitetura de aplicativos estruturada e tecnologicamente atualizada, atendendo aos requisitos de negócio com alta disponibilidade e performance.Modelo de trabalho : HíbridoUnidade: Alphaville - SP, Curitiba – PR, Recife – PE ou Uberlândia – MG.Como será seu dia a dia?Sendo Tech Lead Java, atuará nagerência de DSe suas principais atividades serão:Prover soluções sistêmicas com foco no Cliente e suporte as áreas de Pagamentos, Cobranças e Arrecadações;A área de Cash conta com diversos analistas de sistemas com diferentes perfis e senioridade, alocados em diferentes papeis e diferentes tecnologias. Atuamos em metodologia tradicional e Ágil, tanto para projetos de Backoffice como de Front;Time colaborativo buscando sinergia nas entregas e com foco no cliente. Comprometimento é uma fortaleza do nosso time.Requisitos e QualificaçõesO que você precisa ter ou saber?Java, Spring Boot;API Design e Development, API Rest;PostgreSQL;Testes unitários, Integrados e automatizados;Performance, carga, segurança;Desejável certificação em algum provedor de nuvem, preferencialmente Azure.O que nós oferecemosNo Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+req55079 - Pessoa Desenvolvedora Backend Java Pl
+
+
+Sobre o Bradesco
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+
+DS – Departamento de Desenvolvimento de Sistemas
+
+
+
+
+
+
+
+
+Como será seu dia a dia?
+
+
+
+
+
+gerência de DS
+
+
+
+
+Prover soluções sistêmicas com foco no Cliente e suporte as áreas de Pagamentos, Cobranças e Arrecadações;A área de Cash conta com diversos analistas de sistemas com diferentes perfis e senioridade, alocados em diferentes papeis e diferentes tecnologias. Atuamos em metodologia tradicional e Ágil, tanto para projetos de Backoffice como de Front;Time colaborativo buscando sinergia nas entregas e com foco no cliente. Comprometimento é uma fortaleza do nosso time.
+Prover soluções sistêmicas com foco no Cliente e suporte as áreas de Pagamentos, Cobranças e Arrecadações;
+Prover soluções sistêmicas com foco no Cliente e suporte as áreas de Pagamentos, Cobranças e Arrecadações;
+
+A área de Cash conta com diversos analistas de sistemas com diferentes perfis e senioridade, alocados em diferentes papeis e diferentes tecnologias. Atuamos em metodologia tradicional e Ágil, tanto para projetos de Backoffice como de Front;
+A área de Cash conta com diversos analistas de sistemas com diferentes perfis e senioridade, alocados em diferentes papeis e diferentes tecnologias. Atuamos em metodologia tradicional e Ágil, tanto para projetos de Backoffice como de Front;
+
+Time colaborativo buscando sinergia nas entregas e com foco no cliente. Comprometimento é uma fortaleza do nosso time.
+Time colaborativo buscando sinergia nas entregas e com foco no cliente. Comprometimento é uma fortaleza do nosso time.
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+Java, Spring Boot;API Design e Development, API Rest;PostgreSQL;Testes unitários, Integrados e automatizados;Performance, carga, segurança;Desejável certificação em algum provedor de nuvem, preferencialmente Azure.
+Java, Spring Boot;
+Java, Spring Boot;
+
+API Design e Development, API Rest;
+API Design e Development, API Rest;
+
+PostgreSQL;
+PostgreSQL;
+
+Testes unitários, Integrados e automatizados;
+Testes unitários, Integrados e automatizados;
+
+Performance, carga, segurança;
+Performance, carga, segurança;
+
+Desejável certificação em algum provedor de nuvem, preferencialmente Azure.
+Desejável certificação em algum provedor de nuvem, preferencialmente Azure.
+
+
+
+
+O que nós oferecemos
+
+
+
+
+
+
+
+PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+
+Convênio Médico
+Convênio Médico
+
+Convênio Odontológico
+Convênio Odontológico
+
+Seguro de Vida
+Seguro de Vida
+
+Vale Alimentação
+Vale Alimentação
+
+Vale Refeição
+Vale Refeição
+
+13º Cesta Alimentação
+13º Cesta Alimentação
+
+Total Pass
+Total Pass
+
+Vale Transporte (adesão opcional)
+Vale Transporte (adesão opcional)
+
+Descontos em produtos e serviços em empresas parceiras
+Descontos em produtos e serviços em empresas parceiras
+
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+
+Unibrad: Universidade Corporativa Bradesco
+Unibrad: Universidade Corporativa Bradesco
+
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+
+Auxílio Creche ou Babá
+Auxílio Creche ou Babá
+
+Licença Paternidade estendida de 20 dias
+Licença Paternidade estendida de 20 dias
+
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+

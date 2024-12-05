@@ -1,0 +1,188 @@
+link-https://www.linkedin.com/jobs/view/4056705982/?eBP=CwEAAAGS7lJZ92IEu9JA20iQYGFWSS6OW7vtMDqoKGrBdaIduII4htkkRdPVK3eSSu_-jgxA6a7OzXSjDwkGgRZM23zmjfVhB3-fvrUyYFOkG4pOid_XaFwIZLLmxVoq3I67VUH7geXt4nj3RTiGERod7hAAhUya4rkmfC9motIOYkfs9EJKyDo9rBHT04xRv0L1YEGP9BsYjBlsqQYgWhwtAIleCc2BHriYr2wjxAh8XWoL5TbvdQc4qWPZALDKfqxPOQvsHRlq2WcKUhSffCYwfvavRZXNhHx1iXI83dB0yHPTdYXvqoXBWqjjaTO1govai71aJhfY4Ols3Y5fhHZdru5WKFe-oeXzpCWKBsFcMN0i_ygxXTYNAFPxyVW3BMDHDaC2YoWTd8Xr0JkV-DUGU5TKQ9SsG6D9W1diJJpj9d6ZtmetG__P4Arezw3WrhGwZ8xOrptQ4pk-uIudsQRditRlRFhkAxM3zBM0K05vsxrGHPIBQLX3Bcel&refId=4x41vHZcgLjEH3GZiClx%2Fg%3D%3D&trackingId=LpPWx9mA4G2qmLWbdxnw7g%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend Pleno/Sênior
+Sobre a vaga
+Somos a Árvore, a plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender.Atualmente, o Brasil é um dos países que menos lê no mundo. São menos de 3 livros anuais por habitante, e no PISA, Programa Internacional de Avaliação de Alunos, o nosso desempenho cai ano após ano.Na Árvore, acreditamos que a leitura é umsuperpoderque facilita o aprendizado, ajuda no entendimento do mundo e potencializa habilidades importantes para o futuro. Trabalhamos diariamente para que todos os alunos do país, tenham acesso à leitura, já impactamos mais de dois milhões de alunos e sabemos que podemos ir mais longe.Tecnologia e inovação fazem parte das nossas raízes. Jogamos junto de escolas e famílias no desafio de educar em um dia-a-dia ultraconectado.Somos plurais e empáticos, nos adaptamos e encaramos os desafios do futuro com curiosidade e entusiasmo. Somos apaixonados por nossos clientes e comprometidos com resultados e entregas melhores todos os dias.Com as nossas soluções, somos vencedores há 4 anos seguidos do prêmio Top Educação, finalistas do EdtechX, vencedores do prêmio 100 Statups to Watch, vencedores do Pitch Gov SP e Pitch Gov Santo André.Aqui você vai encontrar um ambiente de crescimento, dinâmico e com aprendizados constantes. Esse desafio faz sentido para você? Vem pra Árvore.Responsabilidades e atribuiçõesComo pessoaBackend, você vai integrar um squad multidisciplinar com oobjetivo de desenvolver soluções técnicas de ponta a ponta, desde as primeiras conversas com os times de produto e design até o monitoramento da funcionalidade em produção.Sua missãoserá entregar novas funcionalidades e melhorias na nossa plataforma, mantendo o padrão de qualidade técnica e subindo a barra quando possível.Valorizamos a autonomia e a proatividade, pois acreditamos que essas características são fundamentais para o bom funcionamento dos nossos times e da nossa engenharia.Prezamos pessoas antes de processos.Alguns exemplos de desafios técnicos que você pode encontrar no seu dia-a-dia aqui:Desenhar uma plataforma genérica de gamificação dos nossos produtos;Refatoração do sistema de usuários e grupos para melhor atender os novos requisitos;Desenhar mudanças na plataforma para ela ser mais genérica quanto ao tipo de conteúdo (ex: artigos, notícias…);Implementar novas funcionalidades que ajudem nossos usuários a lerem mais livros;Implementar testes que nos ajude;Implementar a entender o comportamento de nossos usuários;Nos ajudar a quebrar nosso monolito em partes menores e mais modulares.Além dos desafios técnicos, também esperamos que você ajude a elevar a qualidade técnica da equipe e do nosso código, através de:Reviews de código;Mentoria de seus colegas;Identificação de problemas e melhorias nos nossos códigos e sistemas;Proatividade para implementar melhorias nos nossos sistemas;Colaboração de conhecimento através de discussões síncronas ou assíncronas.Quanto à nossa stack, ela é centrada emElixir e no framework Phoenix, comGraphQLfazendo a comunicação entre obackend e o frontend. Nossos frontends são em React/React Native. Não esperamos que você trabalhe diariamente no front, mas esperamos que você toque no frontend de vez em quando.No nosso backend seguimos o paradigma funcional e as diretrizes do Elixir e do Phoenix. Mas se não tiver experiência com a linguagem ou o framework não tem problema, você vai conseguir aprender tudo aqui com a gente.Outras tecnologias e sistemas que usamos aqui:MySQL e PostgreSQL;Elasticsearch;Redis;Datadog;Oban;SQS.Requisitos e qualificaçõesConhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);Boa experiência trabalhando com servidores web e APIs REST;Boa experiência com testes automatizados de código;Experiência com monitoramento e observabilidade de sistemas;Processamento assíncrono através de background jobs e/ou mensageria;Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);Conhecimento em linguagem funcional ou interesse em aprender.Informações adicionaisSeria legal que você tivesse também:Conhecimento avançado de monitoramento e observabilidade das soluções;Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.O que você vai encontrar aqui:Salário Compatível com Mercado;Flexibilidade de horário;Autonomia;Ambiente de trabalho descontraído e agradável;Cultura colaborativa;Auxílio creche;Vale alimentação ou refeição;Plano de saúde;Plano odontológico;Vale transporte para os momentos presenciais;Crédito Consignado;Auxílio Farmácia;Gympass;Desconto em universidades e cursos;Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.Outras informações importantes para você:Trabalho 100% remoto, com alguns encontros presenciais ao longo do ano no escritório, localizado no Rio de Janeiro.Por que trabalhar com a gente?Acreditamos no potencial transformador da educação para a criação de uma sociedade mais justa e crítica. Hoje, somos uma plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender, já impactamos muitos alunos e sonhamos em alcançar muitos outros. Para isso precisamos de grandes talentos para fazermos ainda mais!
+
+
+
+
+
+superpoder
+
+
+
+
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+Backend
+
+objetivo de desenvolver soluções técnicas de ponta a ponta
+
+
+Sua missão
+
+
+Valorizamos a autonomia e a proatividade
+
+Prezamos pessoas antes de processos.
+
+
+Alguns exemplos de desafios técnicos que você pode encontrar no seu dia-a-dia aqui:
+
+
+Desenhar uma plataforma genérica de gamificação dos nossos produtos;Refatoração do sistema de usuários e grupos para melhor atender os novos requisitos;Desenhar mudanças na plataforma para ela ser mais genérica quanto ao tipo de conteúdo (ex: artigos, notícias…);Implementar novas funcionalidades que ajudem nossos usuários a lerem mais livros;Implementar testes que nos ajude;Implementar a entender o comportamento de nossos usuários;Nos ajudar a quebrar nosso monolito em partes menores e mais modulares.
+Desenhar uma plataforma genérica de gamificação dos nossos produtos;
+Desenhar uma plataforma genérica de gamificação dos nossos produtos;
+Refatoração do sistema de usuários e grupos para melhor atender os novos requisitos;
+Refatoração do sistema de usuários e grupos para melhor atender os novos requisitos;
+Desenhar mudanças na plataforma para ela ser mais genérica quanto ao tipo de conteúdo (ex: artigos, notícias…);
+Desenhar mudanças na plataforma para ela ser mais genérica quanto ao tipo de conteúdo (ex: artigos, notícias…);
+Implementar novas funcionalidades que ajudem nossos usuários a lerem mais livros;
+Implementar novas funcionalidades que ajudem nossos usuários a lerem mais livros;
+Implementar testes que nos ajude;
+Implementar testes que nos ajude;
+Implementar a entender o comportamento de nossos usuários;
+Implementar a entender o comportamento de nossos usuários;
+Nos ajudar a quebrar nosso monolito em partes menores e mais modulares.
+Nos ajudar a quebrar nosso monolito em partes menores e mais modulares.
+
+
+
+Além dos desafios técnicos, também esperamos que você ajude a elevar a qualidade técnica da equipe e do nosso código, através de:
+
+
+Reviews de código;Mentoria de seus colegas;Identificação de problemas e melhorias nos nossos códigos e sistemas;Proatividade para implementar melhorias nos nossos sistemas;Colaboração de conhecimento através de discussões síncronas ou assíncronas.
+Reviews de código;
+Reviews de código;
+Mentoria de seus colegas;
+Mentoria de seus colegas;
+Identificação de problemas e melhorias nos nossos códigos e sistemas;
+Identificação de problemas e melhorias nos nossos códigos e sistemas;
+Proatividade para implementar melhorias nos nossos sistemas;
+Proatividade para implementar melhorias nos nossos sistemas;
+Colaboração de conhecimento através de discussões síncronas ou assíncronas.
+Colaboração de conhecimento através de discussões síncronas ou assíncronas.
+
+
+
+
+Elixir e no framework Phoenix
+
+GraphQL
+
+backend e o frontend
+
+
+
+
+
+Outras tecnologias e sistemas que usamos aqui:
+
+
+MySQL e PostgreSQL;Elasticsearch;Redis;Datadog;Oban;SQS.
+MySQL e PostgreSQL;
+MySQL e PostgreSQL;
+Elasticsearch;
+Elasticsearch;
+Redis;
+Redis;
+Datadog;
+Datadog;
+Oban;
+Oban;
+SQS.
+SQS.
+
+
+
+Requisitos e qualificações
+
+
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);Boa experiência trabalhando com servidores web e APIs REST;Boa experiência com testes automatizados de código;Experiência com monitoramento e observabilidade de sistemas;Processamento assíncrono através de background jobs e/ou mensageria;Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);Conhecimento em linguagem funcional ou interesse em aprender.
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);
+Boa experiência trabalhando com servidores web e APIs REST;
+Boa experiência trabalhando com servidores web e APIs REST;
+Boa experiência com testes automatizados de código;
+Boa experiência com testes automatizados de código;
+Experiência com monitoramento e observabilidade de sistemas;
+Experiência com monitoramento e observabilidade de sistemas;
+Processamento assíncrono através de background jobs e/ou mensageria;
+Processamento assíncrono através de background jobs e/ou mensageria;
+Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);
+Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);
+Conhecimento em linguagem funcional ou interesse em aprender.
+Conhecimento em linguagem funcional ou interesse em aprender.
+
+
+
+Informações adicionais
+
+
+Seria legal que você tivesse também:
+
+
+
+Conhecimento avançado de monitoramento e observabilidade das soluções;Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.
+Conhecimento avançado de monitoramento e observabilidade das soluções;
+Conhecimento avançado de monitoramento e observabilidade das soluções;
+Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.
+Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.
+
+
+
+O que você vai encontrar aqui:
+
+
+Salário Compatível com Mercado;Flexibilidade de horário;Autonomia;Ambiente de trabalho descontraído e agradável;Cultura colaborativa;Auxílio creche;Vale alimentação ou refeição;Plano de saúde;Plano odontológico;Vale transporte para os momentos presenciais;Crédito Consignado;Auxílio Farmácia;Gympass;Desconto em universidades e cursos;Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Salário Compatível com Mercado;
+Salário Compatível com Mercado;
+Flexibilidade de horário;
+Flexibilidade de horário;
+Autonomia;
+Autonomia;
+Ambiente de trabalho descontraído e agradável;
+Ambiente de trabalho descontraído e agradável;
+Cultura colaborativa;
+Cultura colaborativa;
+Auxílio creche;
+Auxílio creche;
+Vale alimentação ou refeição;
+Vale alimentação ou refeição;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Vale transporte para os momentos presenciais;
+Vale transporte para os momentos presenciais;
+Crédito Consignado;
+Crédito Consignado;
+Auxílio Farmácia;
+Auxílio Farmácia;
+Gympass;
+Gympass;
+Desconto em universidades e cursos;
+Desconto em universidades e cursos;
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+
+
+
+Outras informações importantes para você:
+
+
+
+
+Por que trabalhar com a gente?
+
+

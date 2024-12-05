@@ -1,0 +1,55 @@
+link-https://www.linkedin.com/jobs/view/4054916216/?eBP=CwEAAAGS7kzADSsqvXQw_wGreZ-J2iyJ2pHu8aVdycvZ7wMwYuIqrWFISwIWfWk7BdFDIeFFJrtwJl4pCCtSAwOgEXfKFbhdVklyXyk-1lyQwQg92cXs5v2h-wohGtOTPUjAkKWcSdjHqYd-VCdliJMmjpFwCcakQhF9CFWPrMkOAjas-0aRgBBqHgsrfb32sGKoMj3xTNej74eomX7QQ-YEaF9c0MHtVgckn6stcM1GtjJOJVK6V-WS6LTzUcN4qlPJfbndDH2si_ULxaNPxJ-PmCw95e9eDWqwglIdMwO7lqniRl2YXGV0sTGkJtY34sp2zs3ngjUdGj5G_bfFrJA9qUn3dJ77wtxzARauPuJuVdreRfhuJVLbs42nV7SciKoeXVku8AIiRqNNXTFMomNEDS9fEyeTpHVF2dS59KHx7Y_6RiVnyPGEAGzK0ptlgGp2BuCjct3V431VRqQwBFnbjLHw3hYRH94mLNC6K7vtSsapPXWyKHYhqq9uE3S1eQ&refId=rCcHD5HAcEarncBicHguSw%3D%3D&trackingId=VSivhDD2cN4ok991z42CEg%3D%3D&trk=flagship3_search_srp_jobs
+
+AWS Cloud Engineer - Front End
+Sobre a vaga
+Desenvolvimento de solução web e móvel front-endAplicação rigorosa de código bem estruturado que seja fácil de manter e entender.Garanta que os aplicativos funcionem consistentemente em diferentes navegadores e dispositivos.Teste e depure o código para resolver quaisquer problemas de compatibilidade que possam surgir.Crie aplicativos que se adaptem e funcionem bem em diferentes dispositivos e tamanhos de tela.Aprimore a solução existente baseada em nuvemOtimize o código para desempenho, garantindo tempos de carregamento rápidos e experiências suaves para o usuário.Garanta que a solução seja responsiva.Crie uma experiência positiva para o usuário, garantindo interfaces intuitivas e amigáveis. Além disso, considere fatores como acessibilidade e interatividade para aprimorar a experiência do usuário.Manutenção e implantação dos aplicativos em nuvemForneça componentes pré-construídos e maneiras eficientes de gerenciar o estado de um aplicativo.Mestrado ou bacharelado em negócios, ciência da computação, engenharia, análise de sistemas ou área relacionadaMínimo de 3 anos de experiência em desenvolvimento de nuvem AWS, incluindo Lambda, DynamoDB, Contigo, CodeCommit, CodePipeline, CloudFormation, API App Gateway, CloudFront WAFExperiência em desenvolvimento com serviços AWS.Mínimo de 3 anos de experiência em React-UI, TypeScript, JavaScript, Python, SCSS, Jupyter Notebook, HTML, AWS CLIExperiência trabalhando com equipes de entrega ágil
+
+
+
+
+
+
+Teste e depure o código para resolver quaisquer problemas de compatibilidade que possam surgir.Crie aplicativos que se adaptem e funcionem bem em diferentes dispositivos e tamanhos de tela.Aprimore a solução existente baseada em nuvem
+Teste e depure o código para resolver quaisquer problemas de compatibilidade que possam surgir.
+Teste e depure o código para resolver quaisquer problemas de compatibilidade que possam surgir.
+
+Crie aplicativos que se adaptem e funcionem bem em diferentes dispositivos e tamanhos de tela.
+Crie aplicativos que se adaptem e funcionem bem em diferentes dispositivos e tamanhos de tela.
+
+Aprimore a solução existente baseada em nuvem
+Aprimore a solução existente baseada em nuvem
+
+
+
+
+
+
+
+
+
+Manutenção e implantação dos aplicativos em nuvem
+Manutenção e implantação dos aplicativos em nuvem
+Manutenção e implantação dos aplicativos em nuvem
+
+
+
+
+
+Mestrado ou bacharelado em negócios, ciência da computação, engenharia, análise de sistemas ou área relacionada
+Mestrado ou bacharelado em negócios, ciência da computação, engenharia, análise de sistemas ou área relacionada
+Mestrado ou bacharelado em negócios, ciência da computação, engenharia, análise de sistemas ou área relacionada
+
+
+
+
+
+Experiência em desenvolvimento com serviços AWS.Mínimo de 3 anos de experiência em React-UI, TypeScript, JavaScript, Python, SCSS, Jupyter Notebook, HTML, AWS CLIExperiência trabalhando com equipes de entrega ágil
+Experiência em desenvolvimento com serviços AWS.
+Experiência em desenvolvimento com serviços AWS.
+
+Mínimo de 3 anos de experiência em React-UI, TypeScript, JavaScript, Python, SCSS, Jupyter Notebook, HTML, AWS CLI
+Mínimo de 3 anos de experiência em React-UI, TypeScript, JavaScript, Python, SCSS, Jupyter Notebook, HTML, AWS CLI
+
+Experiência trabalhando com equipes de entrega ágil
+Experiência trabalhando com equipes de entrega ágil
+

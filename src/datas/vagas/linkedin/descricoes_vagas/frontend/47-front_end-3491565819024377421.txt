@@ -1,0 +1,105 @@
+link-https://www.linkedin.com/jobs/view/4059644411/?eBP=CwEAAAGS7k29TpvA8zkOFNFAZ60n8boscd6kOVoV8fThQDHMX1F2SM9MDyBm92x98s2SMxJJhKi_hWP8qnwy1ujQAm5c-TwR9IG4spe7ylh31Z17toaU-T_ROEp8bqqIttlYn8Hl4oewUne9gHox7iE8S6JT4NC-eZ7ELzIzHEAqR2S7ota3QMS8fzb59s8iLYi1OgdNooQVmDf7qdbipkTCldr1NneWGTXsBXSV67dudD5EoTPqFQYyNGzCrYZQx_mgSj1n9W-qQUa9GJra2m_8gmyozh4BeGQ4shLwlaIovgx32Wa81yIWNy8e8WoWQq6rJU2GcJj-P6ix2MpPOXaucFqOkizkdpYI7ETnuvnLF5Rz_NOUd6QmGnjOJKUZkJSSjxeSIqqQ84YckvDpoTKICxqliUFQjaAswbJrgxeQ8W_mW4B-Sw-5SlOUYFzXFjxWYAeFvmtyqePxog0XHilSPKIPHQiF_1u_VaFdO1t_ZtUgv1NncDpUPyPkV1XkgKrL&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=Hiirb%2Bly8NwZHQeg6csU1w%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Front-end Sr Produto e Desenvolvimento - SÃO PAULO / SP
+Sobre a vaga
+Quem SomosSomos uma empresa dedicada a simplificar a rotina e potencializar a produtividade de seus clientes e parceiros, eliminando obstáculos ao crescimento e proporcionando escalabilidade ilimitada para qualquer negócio. A nossa plataforma unificada engloba aspectos vitais, incluindo computação em nuvem, dados, cibersegurança e um marketplace repleto de possibilidades. A confiabilidade da nossa plataforma é respaldada por nove em cada dez clientes, sendo 80% deles líderes em seus segmentos.Vem ser um Skyowner!Descrição Das AtividadesCriação e manutenção de APIs REST com express.js e MongoDB;Manutenção de módulos para integração com diferentes protocolos de comunicação como MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;Utilização completa das funcionalidades da linguagem, com operações com números, moedas, datas, strings e tipos complexos.RequisitosSuperior completo em Tecnologia e correlatas;Expertise com React.js e TypeScript;Domínio com Redux e Next.js;Experiência com Jest;Conhecimento sobre Clean Architecture;Vivência com Jira, Git, Git Flow, Scrum, Kanban.Requisitos DesejáveisExperiência com RabbitMQ;Experiência com MongoDB;Experiência com as seguintes tecnologias: MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;Inglês fluente ou avançado.O Que OferecemosAssistência Médica (Bradesco)Assistência Odontológica (Bradesco)Vale Refeição FlexívelVale TransporteAuxílio CrecheAuxílio IdiomaParcerias educacionaisTotalPassSeguro de VidaConvênio SESI e SESCDay off de aniversário
+Quem Somos
+
+
+
+
+
+
+Descrição Das Atividades
+
+
+Criação e manutenção de APIs REST com express.js e MongoDB;Manutenção de módulos para integração com diferentes protocolos de comunicação como MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;Utilização completa das funcionalidades da linguagem, com operações com números, moedas, datas, strings e tipos complexos.
+Criação e manutenção de APIs REST com express.js e MongoDB;
+Criação e manutenção de APIs REST com express.js e MongoDB;
+
+Manutenção de módulos para integração com diferentes protocolos de comunicação como MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;
+Manutenção de módulos para integração com diferentes protocolos de comunicação como MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;
+
+Utilização completa das funcionalidades da linguagem, com operações com números, moedas, datas, strings e tipos complexos.
+Utilização completa das funcionalidades da linguagem, com operações com números, moedas, datas, strings e tipos complexos.
+
+
+
+Requisitos
+
+
+Superior completo em Tecnologia e correlatas;Expertise com React.js e TypeScript;Domínio com Redux e Next.js;Experiência com Jest;Conhecimento sobre Clean Architecture;Vivência com Jira, Git, Git Flow, Scrum, Kanban.
+Superior completo em Tecnologia e correlatas;
+Superior completo em Tecnologia e correlatas;
+
+Expertise com React.js e TypeScript;
+Expertise com React.js e TypeScript;
+
+Domínio com Redux e Next.js;
+Domínio com Redux e Next.js;
+
+Experiência com Jest;
+Experiência com Jest;
+
+Conhecimento sobre Clean Architecture;
+Conhecimento sobre Clean Architecture;
+
+Vivência com Jira, Git, Git Flow, Scrum, Kanban.
+Vivência com Jira, Git, Git Flow, Scrum, Kanban.
+
+
+
+Requisitos Desejáveis
+
+
+Experiência com RabbitMQ;Experiência com MongoDB;Experiência com as seguintes tecnologias: MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;Inglês fluente ou avançado.
+Experiência com RabbitMQ;
+Experiência com RabbitMQ;
+
+Experiência com MongoDB;
+Experiência com MongoDB;
+
+Experiência com as seguintes tecnologias: MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;
+Experiência com as seguintes tecnologias: MySQL, PostgreSQL, SQL Server, Oracle DB, APIs REST, FTP, SFTP e SOAP;
+
+Inglês fluente ou avançado.
+Inglês fluente ou avançado.
+
+
+
+O Que Oferecemos
+
+
+Assistência Médica (Bradesco)Assistência Odontológica (Bradesco)Vale Refeição FlexívelVale TransporteAuxílio CrecheAuxílio IdiomaParcerias educacionaisTotalPassSeguro de VidaConvênio SESI e SESCDay off de aniversário
+Assistência Médica (Bradesco)
+Assistência Médica (Bradesco)
+
+Assistência Odontológica (Bradesco)
+Assistência Odontológica (Bradesco)
+
+Vale Refeição Flexível
+Vale Refeição Flexível
+
+Vale Transporte
+Vale Transporte
+
+Auxílio Creche
+Auxílio Creche
+
+Auxílio Idioma
+Auxílio Idioma
+
+Parcerias educacionais
+Parcerias educacionais
+
+TotalPass
+TotalPass
+
+Seguro de Vida
+Seguro de Vida
+
+Convênio SESI e SESC
+Convênio SESI e SESC
+
+Day off de aniversário
+Day off de aniversário

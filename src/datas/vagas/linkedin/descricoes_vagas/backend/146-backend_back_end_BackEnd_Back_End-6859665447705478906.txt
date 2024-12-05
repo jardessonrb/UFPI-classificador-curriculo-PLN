@@ -1,0 +1,172 @@
+link-https://www.linkedin.com/jobs/view/4007047714/?eBP=CwEAAAGS7lCK8ddVUIHOIruTjlBaF1sup2c0BTaFgZfSUhWvyobVflJkquMPaLANXZoZb_6MusXaNpPoCemVhwkxSNChsmi_QipiZP3eq2n0JcswEmo0azkHOrjUrrHrypANBHPlArKtq5IiOqrb5nhe0tawIq0rF-qK3VB_2lUl7_2clE3TcZMIhwngjcsLZCJpXvJDXsXUrKYRxBzlQJZ6Sx_cF4F0Xd6oI40ZWAQh1QKL3LVyP_QMms-Y-jiDj8LcTAL2ZQQ9W44xhUIDtEX9yHpanQz0Vs_NZxRVns9LilEeUzcERLCgapo_dDH9VfPyEbXzhy29qYSIAvKrphsI_7WfuOc4IdqUGLooO7hEgHTIY9F0xdw25Xu3uhXnp857LL-fQUAEu0CiyJTjms97COiJJBqcAPNu0qMmiXhw4WlZi0jdPXWfWSSVXEaLl_Zmg5CVVIYZlpaYJAohVXEtNRfUo3OsvKTJIJLPZ6plD089o-6y-T0XRRvvuO2LmSPUZLrBRPc&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=THJCBOSZibdooPskpHcUVg%3D%3D&trk=flagship3_search_srp_jobs
+
+Especialista Backend Java
+Sobre a vaga
+Sobre o BradescoO Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtmResponsabilidades e atribuiçõesEquipe de desenvolvimento focada em soluções deInteligência Artificialpara apoiar o ciclo de vida de desenvolvimento;A missão da equipe é otimizar processos e aumentar a eficiência no ciclo de vida de desenvolvimento de software. Trabalhamos na solução chamada BIA Tech, que é uma plataforma de inovação que agrega valor a desafios tecnológicos usando GenAI e outras tecnologias;A estrutura consiste em um time completo de desenvolvimento, com aprox. 10 pessoas técnicas atuando em codificação e implantação das soluções internas, além de integração com soluções externas.Modelo de trabalho: Híbrido (2x por semana no escritório)Local: Matriz Osasco ou Alphaville – SP, Recife, Curitiba e Uberlândia - MGComo será seu dia a dia?SendoEspecialista Backend Java, atuará na gerência deDSe suas principais atividades serão:Elaborando desenho de soluções, detalhamento/refinamento técnico, participar da formação técnica dos demais integrantes do time;Atuação na equipe de desenvolvimento na criação de soluções inovadoras de IA Generativa, garantindo que as práticas de desenvolvimento estejam alinhadas com os objetivos estratégicos do banco;Liderar times de desenvolvimento na criação de soluções inovadoras utilizando inteligência artificial;Orientar e realizar formação técnica para times de desenvolvimento;Estar sempre atualizado com as últimas tendências e avanços tecnológicos em IA Generativa, conduzindo pesquisas e experimentações para aplicar novas ideias e melhorias nas soluções existentes;Atuar como desenvolvedor backend (java/python) quando necessário.Requisitos e QualificaçõesO que você precisa ter ou saber?Experiência com desenvolvimento de software na nuvem (Azure, GCP ou AWS);Conhecimento sobre agilidade: SCRUM e Kanban;Conhecimento em linguagem de programação Java e Python;Experiência em microsserviços;Conhecimentos em bancos de dados relacionais e não relacionais;Conhecimentos do uso de Inteligência Artificial no processo de desenvolvimento;Desenho de soluções, arquitetura hexagonal, C4, arquitetura orientada a eventos.Será um diferencial se você tiver:Certificações foundation;Inglês Avançado.O que nós oferecemosNo Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Sobre o Bradesco
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+
+Inteligência Artificial
+
+
+
+
+
+
+
+
+
+
+
+Como será seu dia a dia?
+
+
+
+
+
+Especialista Backend Java
+
+DS
+
+
+
+
+Elaborando desenho de soluções, detalhamento/refinamento técnico, participar da formação técnica dos demais integrantes do time;Atuação na equipe de desenvolvimento na criação de soluções inovadoras de IA Generativa, garantindo que as práticas de desenvolvimento estejam alinhadas com os objetivos estratégicos do banco;Liderar times de desenvolvimento na criação de soluções inovadoras utilizando inteligência artificial;Orientar e realizar formação técnica para times de desenvolvimento;Estar sempre atualizado com as últimas tendências e avanços tecnológicos em IA Generativa, conduzindo pesquisas e experimentações para aplicar novas ideias e melhorias nas soluções existentes;Atuar como desenvolvedor backend (java/python) quando necessário.
+Elaborando desenho de soluções, detalhamento/refinamento técnico, participar da formação técnica dos demais integrantes do time;
+Elaborando desenho de soluções, detalhamento/refinamento técnico, participar da formação técnica dos demais integrantes do time;
+
+Atuação na equipe de desenvolvimento na criação de soluções inovadoras de IA Generativa, garantindo que as práticas de desenvolvimento estejam alinhadas com os objetivos estratégicos do banco;
+Atuação na equipe de desenvolvimento na criação de soluções inovadoras de IA Generativa, garantindo que as práticas de desenvolvimento estejam alinhadas com os objetivos estratégicos do banco;
+
+Liderar times de desenvolvimento na criação de soluções inovadoras utilizando inteligência artificial;
+Liderar times de desenvolvimento na criação de soluções inovadoras utilizando inteligência artificial;
+
+Orientar e realizar formação técnica para times de desenvolvimento;
+Orientar e realizar formação técnica para times de desenvolvimento;
+
+Estar sempre atualizado com as últimas tendências e avanços tecnológicos em IA Generativa, conduzindo pesquisas e experimentações para aplicar novas ideias e melhorias nas soluções existentes;
+Estar sempre atualizado com as últimas tendências e avanços tecnológicos em IA Generativa, conduzindo pesquisas e experimentações para aplicar novas ideias e melhorias nas soluções existentes;
+
+Atuar como desenvolvedor backend (java/python) quando necessário.
+Atuar como desenvolvedor backend (java/python) quando necessário.
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+Experiência com desenvolvimento de software na nuvem (Azure, GCP ou AWS);Conhecimento sobre agilidade: SCRUM e Kanban;Conhecimento em linguagem de programação Java e Python;Experiência em microsserviços;Conhecimentos em bancos de dados relacionais e não relacionais;Conhecimentos do uso de Inteligência Artificial no processo de desenvolvimento;Desenho de soluções, arquitetura hexagonal, C4, arquitetura orientada a eventos.
+Experiência com desenvolvimento de software na nuvem (Azure, GCP ou AWS);
+Experiência com desenvolvimento de software na nuvem (Azure, GCP ou AWS);
+
+Conhecimento sobre agilidade: SCRUM e Kanban;
+Conhecimento sobre agilidade: SCRUM e Kanban;
+
+Conhecimento em linguagem de programação Java e Python;
+Conhecimento em linguagem de programação Java e Python;
+
+Experiência em microsserviços;
+Experiência em microsserviços;
+
+Conhecimentos em bancos de dados relacionais e não relacionais;
+Conhecimentos em bancos de dados relacionais e não relacionais;
+
+Conhecimentos do uso de Inteligência Artificial no processo de desenvolvimento;
+Conhecimentos do uso de Inteligência Artificial no processo de desenvolvimento;
+
+Desenho de soluções, arquitetura hexagonal, C4, arquitetura orientada a eventos.
+Desenho de soluções, arquitetura hexagonal, C4, arquitetura orientada a eventos.
+
+
+
+
+
+
+
+Certificações foundation;Inglês Avançado.
+Certificações foundation;
+Certificações foundation;
+
+Inglês Avançado.
+Inglês Avançado.
+
+
+
+
+O que nós oferecemos
+
+
+
+
+
+
+
+PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+
+Convênio Médico
+Convênio Médico
+
+Convênio Odontológico
+Convênio Odontológico
+
+Seguro de Vida
+Seguro de Vida
+
+Vale Alimentação
+Vale Alimentação
+
+Vale Refeição
+Vale Refeição
+
+13º Cesta Alimentação
+13º Cesta Alimentação
+
+Total Pass
+Total Pass
+
+Vale Transporte (adesão opcional)
+Vale Transporte (adesão opcional)
+
+Descontos em produtos e serviços em empresas parceiras
+Descontos em produtos e serviços em empresas parceiras
+
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+
+Unibrad: Universidade Corporativa Bradesco
+Unibrad: Universidade Corporativa Bradesco
+
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+
+Auxílio Creche ou Babá
+Auxílio Creche ou Babá
+
+Licença Paternidade estendida de 20 dias
+Licença Paternidade estendida de 20 dias
+
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+

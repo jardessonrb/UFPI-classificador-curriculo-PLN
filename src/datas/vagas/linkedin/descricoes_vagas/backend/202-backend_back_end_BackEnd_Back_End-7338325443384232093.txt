@@ -1,0 +1,152 @@
+link-https://www.linkedin.com/jobs/view/3944227102/?eBP=CwEAAAGS7lNW-O3UXxh9x4vePCq0YDT0N_5NnbcWcO5ei0a1ZigPQq0Xs71mAqmpcTmqaWyYGJVqdZNvz9iDR_Su92f-zWMPljcO_lvDO_WXIkLAdZdN5X21_dhQhncGjjRx6I4UqBVtxDr27uG2biuyKNtq31G0jdQUCyebk3OT_2xhU8FKK16rO8FN51kSgBCASWRABy_U1ybAbffi_FO6QIoBWt6wRcjoMUbJBMKxZ3b37Q-x_hWS4p4T2Ab_N3Rnz6UAcJ6dXx0O9HMKdwA-jKtkm64W6w2H0BWC2zG2ZyL6H2XJh32ydL7xSI3NTBx05t-xrv9A7myKBlaXnR2XCKi63Pkn1q4evoR3N8sfn7xBc1jiQ9tkPvvjJlhns6g2a-DwfU1jGRjxitOjqv9Un-9omlsyaVBuDwzmmRalUXY5On6N1hpxEXtdtnaYccZ35v9IGtgmKNQMKAU1xU_W6AD42eXKknfJBLtbZJpJrcujoxaHer76JwK3DT65yLW-KmNiVL9hliGz&refId=pcYUo6H8SLGigYcozUDaJg%3D%3D&trackingId=Nq8YRYbOWyeX2AL8F60mtg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor de Software Backend Sênior
+Sobre a vaga
+Resumo da Posição:O Desenvolvedor Sênior de Node.js com foco em backend desempenha um papel essencial no desenvolvimento e manutenção de sistemas e aplicativos de alta qualidade, com ênfase na utilização de tecnologias em nuvem para garantir escalabilidade, desempenho e confiabilidade. Este profissional será parte fundamental da equipe de desenvolvimento, contribuindo com sua experiência técnica para o sucesso dos projetos.Sobre a VagaDesenvolvimento Backend:Projetar, desenvolver e manter sistemas e APIs escaláveis e eficientes utilizando Node.js, com foco em soluções em nuvem, como AWS, Azure ou Google Cloud.Arquitetura em Nuvem:Colaborar na definição e implementação da arquitetura em nuvem, garantindo que as soluções sejam altamente disponíveis, seguras e de alto desempenho.Programação Orientada a Testes:Escrever código de alta qualidade, adotando práticas de programação orientada a testes (ex.: TDD) e garantindo que os testes de unidade e integração sejam parte integrante do desenvolvimento.Otimização de Desempenho:Identificar e resolver gargalos de desempenho, bem como otimizar a infraestrutura em nuvem para atender às necessidades de escalabilidade.Segurança e Conformidade:Garantir que os sistemas e aplicativos atendam aos padrões de segurança e conformidade, implementando práticas recomendadas de segurança em nuvem.Colaboração em Equipe:Trabalhar em estreita colaboração com equipes multidisciplinares, incluindo desenvolvedores front-end, designers e outros membros da equipe de desenvolvimento.Aprendizado Contínuo:Manter-se atualizado sobre as tendências e melhores práticas em Node.js, desenvolvimento backend e tecnologias em nuvem.Sobre Você:Experiência substancial como desenvolvedor de Node.js com ênfase em backend.Conhecimento sólido em tecnologias em nuvem, como AWS, Azure ou Google Cloud.Experiência em arquitetura em nuvem, incluindo a criação de soluções altamente escaláveis e resilientes.Familiaridade com bancos de dados relacionais e NoSQL.Fortes habilidades de resolução de problemas e depuração.Experiência em práticas de programação com cobertura por testes de unidadeExcelentes habilidades de comunicação e trabalho em equipe.Familiaridade com metodologias ágeis, como Scrum ou Kanban.Experiência em ferramentas de controle de versão, como Git.Experiência com sistemas e serviços de mensageria RabbitMQ, Kafka ou afins.Diferencial:Experiencia com GoLangExperiencia com AWS SNS/LambdaExperiencia com LinuxEducação:Um diploma de graduação em Ciência da Computação, Engenharia de Software ou uma área relacionada é desejável, mas a experiência prática e a experiência em tecnologias em nuvem são essenciais para esta função.What's in it For You?You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:Hybrid Work Model:We've adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connectedWellbeing:Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.Culture:Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.Learning & Development:LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.Social Impact:Eight employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.Purpose Driven Work:We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.Optional- compensation. Compensation may only be relevant for certain positions and is recommended for use primarily by Sales:CompensationBase salary and a variable compensation that is directly related to your success.Important note! Workday automatically adds the Thomson Reuters boiler and accessibility statement.You do not need to add those in.Questions?Click forJob Ad Best Practices, Gender Neutral Guidelines and Gender Decoder for Job Ads posted on the Global TA Atrium Page. For additional support, please contact the Employer Branding Team or review hiring and recruiting policies in Workday.For any specialty template (CPS, Reuters and the Thomson Reuters Foundation), please use the template found atthis link.Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.AccessibilityAs a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.Protect yourself from fraudulent job postingsclick hereto know more.More information about Thomson Reuters can be found onhttps://thomsonreuters.com.
+Resumo da Posição:
+
+
+Sobre a Vaga
+
+
+Desenvolvimento Backend:
+
+
+
+Arquitetura em Nuvem:
+
+
+
+Programação Orientada a Testes:
+
+
+Otimização de Desempenho:
+
+
+
+Segurança e Conformidade:
+
+
+
+Colaboração em Equipe:
+
+
+
+Aprendizado Contínuo:
+
+
+
+Sobre Você:
+
+
+Experiência substancial como desenvolvedor de Node.js com ênfase em backend.Conhecimento sólido em tecnologias em nuvem, como AWS, Azure ou Google Cloud.Experiência em arquitetura em nuvem, incluindo a criação de soluções altamente escaláveis e resilientes.Familiaridade com bancos de dados relacionais e NoSQL.Fortes habilidades de resolução de problemas e depuração.Experiência em práticas de programação com cobertura por testes de unidadeExcelentes habilidades de comunicação e trabalho em equipe.Familiaridade com metodologias ágeis, como Scrum ou Kanban.Experiência em ferramentas de controle de versão, como Git.Experiência com sistemas e serviços de mensageria RabbitMQ, Kafka ou afins.
+Experiência substancial como desenvolvedor de Node.js com ênfase em backend.
+Experiência substancial como desenvolvedor de Node.js com ênfase em backend.
+Conhecimento sólido em tecnologias em nuvem, como AWS, Azure ou Google Cloud.
+Conhecimento sólido em tecnologias em nuvem, como AWS, Azure ou Google Cloud.
+Experiência em arquitetura em nuvem, incluindo a criação de soluções altamente escaláveis e resilientes.
+Experiência em arquitetura em nuvem, incluindo a criação de soluções altamente escaláveis e resilientes.
+Familiaridade com bancos de dados relacionais e NoSQL.
+Familiaridade com bancos de dados relacionais e NoSQL.
+Fortes habilidades de resolução de problemas e depuração.
+Fortes habilidades de resolução de problemas e depuração.
+Experiência em práticas de programação com cobertura por testes de unidade
+Experiência em práticas de programação com cobertura por testes de unidade
+Excelentes habilidades de comunicação e trabalho em equipe.
+Excelentes habilidades de comunicação e trabalho em equipe.
+Familiaridade com metodologias ágeis, como Scrum ou Kanban.
+Familiaridade com metodologias ágeis, como Scrum ou Kanban.
+Experiência em ferramentas de controle de versão, como Git.
+Experiência em ferramentas de controle de versão, como Git.
+Experiência com sistemas e serviços de mensageria RabbitMQ, Kafka ou afins.
+Experiência com sistemas e serviços de mensageria RabbitMQ, Kafka ou afins.
+
+
+
+Diferencial:
+
+
+Experiencia com GoLangExperiencia com AWS SNS/LambdaExperiencia com Linux
+Experiencia com GoLang
+Experiencia com GoLang
+Experiencia com AWS SNS/Lambda
+Experiencia com AWS SNS/Lambda
+Experiencia com Linux
+Experiencia com Linux
+
+
+
+Educação:
+
+
+What's in it For You?
+
+
+
+
+Hybrid Work Model:
+
+
+
+Wellbeing:
+
+
+
+Culture:
+
+
+
+
+Learning & Development:
+
+
+
+Social Impact:
+
+
+
+Purpose Driven Work:
+
+
+
+Optional
+
+
+
+Compensation
+
+
+
+Important note! Workday automatically adds the Thomson Reuters boiler and accessibility statement.
+
+
+
+Questions?
+
+
+
+
+
+
+
+
+
+
+
+Accessibility
+
+
+
+
+
+
+
+Protect yourself from fraudulent job postingsclick hereto know more.
+Protect yourself from fraudulent job postingsclick hereto know more.
+
+
+
+
+
+
+

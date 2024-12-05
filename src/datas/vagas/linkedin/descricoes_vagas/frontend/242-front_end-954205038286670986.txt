@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4052037133/?eBP=CwEAAAGS7k2KcqHpHZXYDTHUMod4YwaFRUc6vm-G0tgaBOeXuBOgBfvgsx4vyq9rOiCxbb0gA09kBYDpJCUHHV6bb6QrNIx6deGWwkAGjyNhq4N3j7TUe_IzhO9crIaBiXOZQLtNn74R8aVex5yih80COiJ87AiLYaSZy7vUctK2BqLU5MeLMTCl58P8JQAPjpUcB975pBRXEPNlFQpDs201l6OGR7my12umqXG5mAqBH_lhMH8uaxp6voyIbRaK4oRY6eFlDFZSn9embLvZLGt4BHsg6xQAv-khAUtoUhPCqUDXZIK1mYj5dZ6GO-BYkbf383viuBuWFBfer2BXFtUoxagHS979MAZmeHbcPJlaFYclWHIyCXHcf--fBcEth-SwhD9P89o2sARKIYDcwMQlhRFDzAWTcgxgA4igBkhO4YAnEOQOeX6NM0nT7FLiLpYCSxgB5IAFN5XRwhJnccKWws932ZF3u6PeGRrldu5ZI6fFGVax-t8o2QVk&refId=D%2B9I1EF%2BNsQzOTYhwj35GA%3D%3D&trackingId=3KR7Uef0ySZwSO9TpBs4bQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Frontend Engineer
+Sobre a vaga
+Join Wordly's fast growing global team!As asenior frontend engineerat Wordly, you will use your expertise to implement user experiences that will delight our end-users while allowing them to easily find and effectively use Wordly’s real-time translation features. This may be in the form of modifying existing user experiences, creating new user experiences within existing applications, or creating new applications from scratch.In this role, you may sometimes work as an individual contributor. However, more often, you will lead a small frontend engineering team in delivering a solution that meets a given set of product requirements. In either case, you will be responsible for planning the technical work that needs to be done to accomplish your objectives and being hands-on in executing your plan.Finally, as a senior engineer, your experience is immensely valuable to Wordly. You will have a significant voice in guiding Wordly’s engineering processes to ensure that the company continues to produce high quality software for our users.Minimum Qualifications4+ years of hands-on experience in architecting, implementing, and delivering frontend solutions from a set of product requirements.2+ years of experience in leading software development work in some capacity.A deep understanding of the Angular framework.A deep understanding of the React library and common React development patterns.Experience working with React-based frameworks such as Next.js, Vue, etc.Expert knowledge of JavaScript and TypeScript.Experience using the Git version control system.Able and willing to mentor other frontend engineers.Comfortable working with a fully remote team.Self-motivated and able to work independently with minimal supervision.Desired QualificationsIn addition to the minimum qualifications, the ideal candidate meets some or all of the following desired qualifications.Familiarity with microservice architectures.Experience in designing APIs.Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.B.S. degree in Computer Science or equivalent from an accredited institution.ResponsibilitiesBe hands-on in architecting and implementing frontend solutions from a given set of requirements either as an individual contributor or as a technical lead.Create technical work plans and execute on those plans to accomplish frontend objectives.Assist in maintaining existing frontend applications.Mentor and guide other frontend engineers.Contribute to Wordly’s engineering processes and culture to maintain a cooperative and supportive environment for all.Located in Los Altos, California, Wordly is an exciting tech startup that is looking to grow its engineering and GTM teams! From virtual meetings to large, in-person conference venues, Wordly strives to provide high quality, real-time translation services in 50+ languages to anyone, anywhere.Wordly caters to numerous customers around the world which include local organizations and businesses; government entities; Fortune 500 companies; and much, much more. While this is a fully remote position, office space in Los Altos, California is available for San Francisco Bay Area residents that wish to utilize it.
+Join Wordly's fast growing global team!
+
+
+
+
+senior frontend engineer
+
+
+
+
+
+
+
+Minimum Qualifications
+
+
+4+ years of hands-on experience in architecting, implementing, and delivering frontend solutions from a set of product requirements.2+ years of experience in leading software development work in some capacity.A deep understanding of the Angular framework.A deep understanding of the React library and common React development patterns.Experience working with React-based frameworks such as Next.js, Vue, etc.Expert knowledge of JavaScript and TypeScript.Experience using the Git version control system.Able and willing to mentor other frontend engineers.Comfortable working with a fully remote team.Self-motivated and able to work independently with minimal supervision.
+4+ years of hands-on experience in architecting, implementing, and delivering frontend solutions from a set of product requirements.
+4+ years of hands-on experience in architecting, implementing, and delivering frontend solutions from a set of product requirements.
+
+2+ years of experience in leading software development work in some capacity.
+2+ years of experience in leading software development work in some capacity.
+
+A deep understanding of the Angular framework.
+A deep understanding of the Angular framework.
+
+A deep understanding of the React library and common React development patterns.
+A deep understanding of the React library and common React development patterns.
+
+Experience working with React-based frameworks such as Next.js, Vue, etc.
+Experience working with React-based frameworks such as Next.js, Vue, etc.
+
+Expert knowledge of JavaScript and TypeScript.
+Expert knowledge of JavaScript and TypeScript.
+
+Experience using the Git version control system.
+Experience using the Git version control system.
+
+Able and willing to mentor other frontend engineers.
+Able and willing to mentor other frontend engineers.
+
+Comfortable working with a fully remote team.
+Comfortable working with a fully remote team.
+
+Self-motivated and able to work independently with minimal supervision.
+Self-motivated and able to work independently with minimal supervision.
+
+
+
+Desired Qualifications
+
+
+
+
+Familiarity with microservice architectures.Experience in designing APIs.Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.B.S. degree in Computer Science or equivalent from an accredited institution.
+Familiarity with microservice architectures.
+Familiarity with microservice architectures.
+
+Experience in designing APIs.
+Experience in designing APIs.
+
+Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.
+Experience in setting up CI/CD pipelines in Jenkins, GitLab, TravisCI, etc.
+
+B.S. degree in Computer Science or equivalent from an accredited institution.
+B.S. degree in Computer Science or equivalent from an accredited institution.
+
+
+
+Responsibilities
+
+
+Be hands-on in architecting and implementing frontend solutions from a given set of requirements either as an individual contributor or as a technical lead.Create technical work plans and execute on those plans to accomplish frontend objectives.Assist in maintaining existing frontend applications.Mentor and guide other frontend engineers.Contribute to Wordly’s engineering processes and culture to maintain a cooperative and supportive environment for all.
+Be hands-on in architecting and implementing frontend solutions from a given set of requirements either as an individual contributor or as a technical lead.
+Be hands-on in architecting and implementing frontend solutions from a given set of requirements either as an individual contributor or as a technical lead.
+
+Create technical work plans and execute on those plans to accomplish frontend objectives.
+Create technical work plans and execute on those plans to accomplish frontend objectives.
+
+Assist in maintaining existing frontend applications.
+Assist in maintaining existing frontend applications.
+
+Mentor and guide other frontend engineers.
+Mentor and guide other frontend engineers.
+
+Contribute to Wordly’s engineering processes and culture to maintain a cooperative and supportive environment for all.
+Contribute to Wordly’s engineering processes and culture to maintain a cooperative and supportive environment for all.
+
+
+
+Located in Los Altos, California, Wordly is an exciting tech startup that is looking to grow its engineering and GTM teams! From virtual meetings to large, in-person conference venues, Wordly strives to provide high quality, real-time translation services in 50+ languages to anyone, anywhere.
+
+
+
+Wordly caters to numerous customers around the world which include local organizations and businesses; government entities; Fortune 500 companies; and much, much more. While this is a fully remote position, office space in Los Altos, California is available for San Francisco Bay Area residents that wish to utilize it.
+
+

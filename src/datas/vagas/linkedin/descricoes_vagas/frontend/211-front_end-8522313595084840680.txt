@@ -1,0 +1,82 @@
+link-https://www.linkedin.com/jobs/view/4065576068/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=oe%2FC0tbf322tUeR3iuci6Q%3D%3D&trackingId=AOre2N%2B%2B1wAosA7rkctOEA%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Frontend Developer
+Sobre a vaga
+Our client offers a digital signage platform designed for easy content management on display screens across various industries. Their software allows users to update, monitor, and manage content remotely with features like widgets, cloud storage, and analytics. Client provides customizable displays for customer engagement, with a simple setup and team support for content management. They also offer a Signage Stick device for seamless integration with screens.🤓 As a Frontend Developer, the company expects you to perform the following tasks:Build responsive, reusable components in React, ensuring high performance and adherence to best practices.Translate designs into pixel-perfect, user-friendly interfaces.Implement effective state management and data fetching solutions using libraries like Redux and React Query.Develop with a mobile-first approach to ensure compatibility across devices.Conduct code reviews to uphold quality standards and mentor junior developers.✨ You are the person they are looking for if you have…Frontend developer with 5 plus years of experience primarily in ReactStrong proficiency in JavaScript, HTML, and CSS.Very good knowledge of Vanilla JS (functional programming, async/await, Promises, arrow functions, closures, etc)Very good knowledge of TypescriptA good understanding of how react works (Context API, function components, react hooks, virtual dom)Experience with state management libraries (e.g., Redux, MobX) and data fetching libraries (e.g., React Query, RTK Query, SWR)Knowledge of react patterns like composition, avoiding prop drilling, component as children, component as props, component as functions.Solid understanding of responsive design and mobile-first development principles.Experience with version control systems (e.g., Git) and collaborative development workflows.Knowledge of UI/UX design principles and the ability to work closely with designers to implement pixel-perfect interfaces.Knowledge of Agile methodology (planning, retro, backlog grooming, story point estimation)Ability to work independently, self-organized and high communication skills.Participating in code review💜 They will be more enthusiastic about you if you also have.…Knowledge on NextJS and Vercel for hosting web applicationKnowledge of React Server Component, Server side renderingKnowledge of GitHub actionsKnowledge of Trunk-based methodologyWorked with some testing libraries, like jestKnowledge of a UI framework like AntDesign, TailwindCSS, MUI is preferredBenefits:100% remoteUSD Salary
+Our client offers a digital signage platform designed for easy content management on display screens across various industries. Their software allows users to update, monitor, and manage content remotely with features like widgets, cloud storage, and analytics. Client provides customizable displays for customer engagement, with a simple setup and team support for content management. They also offer a Signage Stick device for seamless integration with screens.
+Our client offers a digital signage platform designed for easy content management on display screens across various industries. Their software allows users to update, monitor, and manage content remotely with features like widgets, cloud storage, and analytics. Client provides customizable displays for customer engagement, with a simple setup and team support for content management. They also offer a Signage Stick device for seamless integration with screens.
+
+
+
+🤓 As a Frontend Developer, the company expects you to perform the following tasks:
+🤓 As a Frontend Developer, the company expects you to perform the following tasks:
+Build responsive, reusable components in React, ensuring high performance and adherence to best practices.
+Build responsive, reusable components in React, ensuring high performance and adherence to best practices.
+Translate designs into pixel-perfect, user-friendly interfaces.
+Translate designs into pixel-perfect, user-friendly interfaces.
+Implement effective state management and data fetching solutions using libraries like Redux and React Query.
+Implement effective state management and data fetching solutions using libraries like Redux and React Query.
+Develop with a mobile-first approach to ensure compatibility across devices.
+Develop with a mobile-first approach to ensure compatibility across devices.
+Conduct code reviews to uphold quality standards and mentor junior developers.
+Conduct code reviews to uphold quality standards and mentor junior developers.
+
+
+
+✨ You are the person they are looking for if you have…
+✨ You are the person they are looking for if you have…
+Frontend developer with 5 plus years of experience primarily in ReactStrong proficiency in JavaScript, HTML, and CSS.Very good knowledge of Vanilla JS (functional programming, async/await, Promises, arrow functions, closures, etc)Very good knowledge of TypescriptA good understanding of how react works (Context API, function components, react hooks, virtual dom)Experience with state management libraries (e.g., Redux, MobX) and data fetching libraries (e.g., React Query, RTK Query, SWR)Knowledge of react patterns like composition, avoiding prop drilling, component as children, component as props, component as functions.Solid understanding of responsive design and mobile-first development principles.Experience with version control systems (e.g., Git) and collaborative development workflows.Knowledge of UI/UX design principles and the ability to work closely with designers to implement pixel-perfect interfaces.Knowledge of Agile methodology (planning, retro, backlog grooming, story point estimation)Ability to work independently, self-organized and high communication skills.Participating in code review
+Frontend developer with 5 plus years of experience primarily in React
+Frontend developer with 5 plus years of experience primarily in React
+Strong proficiency in JavaScript, HTML, and CSS.
+Strong proficiency in JavaScript, HTML, and CSS.
+Very good knowledge of Vanilla JS (functional programming, async/await, Promises, arrow functions, closures, etc)
+Very good knowledge of Vanilla JS (functional programming, async/await, Promises, arrow functions, closures, etc)
+Very good knowledge of Typescript
+Very good knowledge of Typescript
+A good understanding of how react works (Context API, function components, react hooks, virtual dom)
+A good understanding of how react works (Context API, function components, react hooks, virtual dom)
+Experience with state management libraries (e.g., Redux, MobX) and data fetching libraries (e.g., React Query, RTK Query, SWR)
+Experience with state management libraries (e.g., Redux, MobX) and data fetching libraries (e.g., React Query, RTK Query, SWR)
+
+Knowledge of react patterns like composition, avoiding prop drilling, component as children, component as props, component as functions.
+Knowledge of react patterns like composition, avoiding prop drilling, component as children, component as props, component as functions.
+Solid understanding of responsive design and mobile-first development principles.
+Solid understanding of responsive design and mobile-first development principles.
+Experience with version control systems (e.g., Git) and collaborative development workflows.
+Experience with version control systems (e.g., Git) and collaborative development workflows.
+Knowledge of UI/UX design principles and the ability to work closely with designers to implement pixel-perfect interfaces.
+Knowledge of UI/UX design principles and the ability to work closely with designers to implement pixel-perfect interfaces.
+Knowledge of Agile methodology (planning, retro, backlog grooming, story point estimation)
+Knowledge of Agile methodology (planning, retro, backlog grooming, story point estimation)
+Ability to work independently, self-organized and high communication skills.
+Ability to work independently, self-organized and high communication skills.
+Participating in code review
+Participating in code review
+
+
+
+💜 They will be more enthusiastic about you if you also have.…
+💜 They will be more enthusiastic about you if you also have.…
+Knowledge on NextJS and Vercel for hosting web applicationKnowledge of React Server Component, Server side renderingKnowledge of GitHub actionsKnowledge of Trunk-based methodologyWorked with some testing libraries, like jestKnowledge of a UI framework like AntDesign, TailwindCSS, MUI is preferred
+Knowledge on NextJS and Vercel for hosting web application
+Knowledge on NextJS and Vercel for hosting web application
+Knowledge of React Server Component, Server side rendering
+Knowledge of React Server Component, Server side rendering
+Knowledge of GitHub actions
+Knowledge of GitHub actions
+Knowledge of Trunk-based methodology
+Knowledge of Trunk-based methodology
+Worked with some testing libraries, like jest
+Worked with some testing libraries, like jest
+Knowledge of a UI framework like AntDesign, TailwindCSS, MUI is preferred
+Knowledge of a UI framework like AntDesign, TailwindCSS, MUI is preferred
+
+
+
+Benefits:
+Benefits:
+100% remote
+100% remote
+USD Salary
+USD Salary

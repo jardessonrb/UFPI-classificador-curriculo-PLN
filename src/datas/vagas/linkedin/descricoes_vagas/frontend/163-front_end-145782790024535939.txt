@@ -1,0 +1,100 @@
+link-https://www.linkedin.com/jobs/view/4048838432/?eBP=CwEAAAGS7k1YXF2-JmcLubgResfQou-vEy_kpNoKWvMKS4Nc5YeNXW5znIYtNF8v-ppGOqv6fLaWHL5oWk8bBn8uSI0P5JMHm07tUBXKV3l4dbZ3ZWZp6QtSU3q1I0OcRi8OvZ2pqAOSwDF4QxlTe4a-iQ4rGXCp6vW3RkVacdaGoHiGV2bYidi5TnjeCCT0XOeLWc0nKhvt7FlBtvA13QLEkqGzFjtMw3CXbT70cntx-_GzdFzUTpulJi_Zi3HL46Kf2YDGEDEz-tG_p8g9eaJNFyp9fUM7dEcrBMfhwFO3V4JS3EYLJCF-OBQVrqKL9Dw3DxMUs4kSTCxh0U8eJ41QuKQ9U7dlS9f3kolrR9sGCa8t0dnXcj0tjg3RWPHtG6ZVYaSjVDhLKf-yH80jChSXl0BKXi2aw3oS-eT68wjigymr8urcl2upsGsey_AUxOzVtFtaF8md40NIbQHgQS4iN8vemsTtnSJPZMwkPf2V_FpLqnLRZFSuj7HRWj8yjYT6&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=FkPDRmms2MszhZUPgJcB0A%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Front-End PL  (Mobile e Web)
+Sobre a vaga
+Desenvolvedor Front-End PLEstamos em busca de um Desenvolvedor Front-End experiente para se juntar à nossa equipe. O candidato deve possuir um sólido conhecimento em React e TypeScript, além de demonstrar habilidades em diversas tecnologias e ferramentas relacionadas ao desenvolvimento de interfaces de usuário. Abaixo estão os requisitos técnicos e comportamentais necessários para a posição:Requisitos Técnicos Essenciais:Experiência comprovada no desenvolvimento de sistemas utilizando React e TypeScript.Conhecimento de Hooks, Context API e componentes funcionais;Experiência com ferramentas de testes unitários, como Jest, Testing Library, Vitesting ou Cypress.Vivência no desenvolvimento de aplicações em Next.JS.Conhecimento em metodologias de UX e experiência com softwares de prototipagem como Figma.Capacidade de consumir APIs RESTful.Experiência com Docker, Pipelines, CI/CD (AWS, Google Cloud).Vivência no desenvolvimento de aplicações/arquitetura de Micro Front-End (Module Webpack, Single SPA, etc).Conhecimento do Git e Controle de versão.Requisitos Comportamentais:Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento com React.Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.Ser proativo na identificação de problemas e na proposição de soluções.Experiência com metodologias ágeis (Scrum, Kanban).Capacidade de dar e receber feedback de forma construtiva.Habilidade em fazer alinhamento com o Product Owner e UX.Considerações Adicionais:Conhecimento em gerenciamento de estados globais com Redux e/ou Zustand.Capacidade de desenvolver aplicações com foco em performance e escalabilidade.Experiência com frameworks de gráficosO que oferecemos?Modelo híbrido (Florianópolis ou SP (Capital))GympassAcesso livre a plataforma AluraModelo de contratação PJValor do contrato: R$ 7.000,00
+Desenvolvedor Front-End PL
+
+
+
+
+Requisitos Técnicos Essenciais:
+
+
+Experiência comprovada no desenvolvimento de sistemas utilizando React e TypeScript.Conhecimento de Hooks, Context API e componentes funcionais;Experiência com ferramentas de testes unitários, como Jest, Testing Library, Vitesting ou Cypress.Vivência no desenvolvimento de aplicações em Next.JS.Conhecimento em metodologias de UX e experiência com softwares de prototipagem como Figma.Capacidade de consumir APIs RESTful.Experiência com Docker, Pipelines, CI/CD (AWS, Google Cloud).Vivência no desenvolvimento de aplicações/arquitetura de Micro Front-End (Module Webpack, Single SPA, etc).Conhecimento do Git e Controle de versão.
+Experiência comprovada no desenvolvimento de sistemas utilizando React e TypeScript.
+Experiência comprovada no desenvolvimento de sistemas utilizando React e TypeScript.
+
+Conhecimento de Hooks, Context API e componentes funcionais;
+Conhecimento de Hooks, Context API e componentes funcionais;
+
+Experiência com ferramentas de testes unitários, como Jest, Testing Library, Vitesting ou Cypress.
+Experiência com ferramentas de testes unitários, como Jest, Testing Library, Vitesting ou Cypress.
+
+Vivência no desenvolvimento de aplicações em Next.JS.
+Vivência no desenvolvimento de aplicações em Next.JS.
+
+Conhecimento em metodologias de UX e experiência com softwares de prototipagem como Figma.
+Conhecimento em metodologias de UX e experiência com softwares de prototipagem como Figma.
+
+Capacidade de consumir APIs RESTful.
+Capacidade de consumir APIs RESTful.
+
+Experiência com Docker, Pipelines, CI/CD (AWS, Google Cloud).
+Experiência com Docker, Pipelines, CI/CD (AWS, Google Cloud).
+
+Vivência no desenvolvimento de aplicações/arquitetura de Micro Front-End (Module Webpack, Single SPA, etc).
+Vivência no desenvolvimento de aplicações/arquitetura de Micro Front-End (Module Webpack, Single SPA, etc).
+
+Conhecimento do Git e Controle de versão.
+Conhecimento do Git e Controle de versão.
+
+
+
+Requisitos Comportamentais:
+
+
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento com React.Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.Ser proativo na identificação de problemas e na proposição de soluções.Experiência com metodologias ágeis (Scrum, Kanban).Capacidade de dar e receber feedback de forma construtiva.Habilidade em fazer alinhamento com o Product Owner e UX.
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento com React.
+Prática de boas práticas de programação (códigos limpos, legíveis e documentados) e conhecimento de boas práticas de desenvolvimento com React.
+
+Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.
+Demonstrar pró-atividade, foco e boa capacidade de trabalho em equipe.
+
+Ser proativo na identificação de problemas e na proposição de soluções.
+Ser proativo na identificação de problemas e na proposição de soluções.
+
+Experiência com metodologias ágeis (Scrum, Kanban).
+Experiência com metodologias ágeis (Scrum, Kanban).
+
+Capacidade de dar e receber feedback de forma construtiva.
+Capacidade de dar e receber feedback de forma construtiva.
+
+Habilidade em fazer alinhamento com o Product Owner e UX.
+Habilidade em fazer alinhamento com o Product Owner e UX.
+
+
+
+Considerações Adicionais:
+
+
+Conhecimento em gerenciamento de estados globais com Redux e/ou Zustand.Capacidade de desenvolver aplicações com foco em performance e escalabilidade.Experiência com frameworks de gráficos
+Conhecimento em gerenciamento de estados globais com Redux e/ou Zustand.
+Conhecimento em gerenciamento de estados globais com Redux e/ou Zustand.
+
+Capacidade de desenvolver aplicações com foco em performance e escalabilidade.
+Capacidade de desenvolver aplicações com foco em performance e escalabilidade.
+
+Experiência com frameworks de gráficos
+Experiência com frameworks de gráficos
+
+
+
+O que oferecemos?
+
+
+Modelo híbrido (Florianópolis ou SP (Capital))GympassAcesso livre a plataforma AluraModelo de contratação PJValor do contrato: R$ 7.000,00
+Modelo híbrido (Florianópolis ou SP (Capital))
+Modelo híbrido (Florianópolis ou SP (Capital))
+
+Gympass
+Gympass
+
+Acesso livre a plataforma Alura
+Acesso livre a plataforma Alura
+
+Modelo de contratação PJ
+Modelo de contratação PJ
+
+Valor do contrato: R$ 7.000,00
+Valor do contrato: R$ 7.000,00

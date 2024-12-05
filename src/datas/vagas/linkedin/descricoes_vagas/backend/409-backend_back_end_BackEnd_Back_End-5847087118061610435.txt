@@ -1,0 +1,74 @@
+link-https://www.linkedin.com/jobs/view/4012985041/?eBP=CwEAAAGS7lCK8XBIRl1JgpxVkKsjezqJNat16XOdZAzHbGLBKLOrQBeMccHbtHWfVEwyDbAdORf1IGjJWImGhXqPDg3SQv3WFPzjCVBlHnGWRtIPI8NKdYgYiGmHcGVU8xmRbZpX4RKcZCNG7OId7j7FD-sZlBNWigGhL73URcBKNqObGhS-uOkyybkHuQLvAIq3wDcDZIvQxhmgreIs9tYOf0ZlcjLYtvj1efEv3d0sRPbOcFH2D0Xh1hRMylJx6YS4MiEAlZT4Lh0lsE1q1KYzlcI0IJDzX5Kj7WV5hFl9qT5NDv_xH7EYZPYINONwps9P_BTAc6vcxJOy0NwbM1ggEEdBl0wr5se0fqCPk_UdzFVII4wLPd7Dvp2HM1I2VRon1UDeGGWRgOGmk4xou07YYvZY-4JskBoY2_fbIRZQcfLz_-n1b8M_kYr0OWysgHsRIx9-xyhZKPBdWS7vf_xfecyuJgLdbHZ15hlQDFC85FzcnTtiW_DFu_MKbl9-WSu87CUGJSo&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=nE73eMLtLDELFreAvNsOUA%3D%3D&trk=flagship3_search_srp_jobs
+
+Back End Java| AWS Developer (Com Inglês) - Remoto
+Sobre a vaga
+SOBRE A CAPCOA Capco é uma consultoria global de tecnologia e negócios, focada no setor de serviços financeiros e energia, somos apaixonados por ajudar nossos clientes, temos 33 escritórios nas Américas, Europa e Ásia-Pacífico! Se criatividade e inovação são sua paixão, a Capco é ideal para você. Vamos te apoiar e ajudar a acelerar sua carreira!Estamos à procura de um desenvolvedor altamente habilidoso e apaixonado por tecnologia para integrar nossa equipe de desenvolvimento. Comodesenvolvedor Back End, você trabalhará com tecnologias modernas, incluindo Java e AWS, arquitetura baseada em eventos e ferramentas de observabilidade para garantir que nosso sistema seja altamente observável e fácil de depurar.Principais ResponsabilidadesDesenvolver e manter serviços e APIs back-end que suportem os processos de ETL e integração de dados;Implementar soluções de armazenamento de dados NoSQL, como MongoDB, para armazenar e consultar dados de forma eficaz;Projetar e implementar sistemas de integração baseados em eventos para facilitar a comunicação entre os diferentes componentes do sistema;Trabalhar com protocolos FTP e lidar com arquivos posicionais para a troca de dados com parceiros externos;Garantir que o sistema de ETL seja altamente observável, permitindo a fácil depuração de problemas e a monitoração de desempenho;Colaborar com equipes multidisciplinares para entender requisitos e garantir que as soluções desenvolvidas atendam às necessidades de negócios;Realizar testes de unidade, integração e aceitação para garantir a qualidade do código;Manter a documentação técnica atualizada e participar na revisão de código;Ficar atualizado com as melhores práticas e tendências em desenvolvimento back-end.Requisitos TécnicosExperiência robusta comprovada em desenvolvimento back-end, preferencialmente em um ambiente de microserviços com Linguagem Java, Spring Boot e AWS;Conhecimento sólido em NoSQL, com experiência prática em MongoDB;Experiência em desenvolvimento de sistemas ETL;Experiência com Cloud;Familiaridade com arquitetura baseada em eventos e ferramentas relacionadas;Conhecimento em protocolos FTP e manipulação de arquivos posicionais;Habilidade de escrever código limpo, escalável e de fácil manutenção;Graduação em Ciência da Computação, Engenharia de Software ou área relacionada;Inglês avançado (atuará em time internacional).Por Que CapcoJuntar-se à Capco significa ingressar em uma organização comprometida com um ambiente de trabalho inclusivo onde você é incentivado a #BeYourselfAtWork (Ser Você Mesmo no Trabalho). Celebramos a individualidade e reconhecemos que a diversidade e a inclusão, em todas as formas, são fundamentais para o sucesso. Acreditamos que todos trazem algo diferente, por isso adoraríamos saber o que o torna diferente!Próximos PassosSe você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+SOBRE A CAPCO
+
+
+
+
+
+
+desenvolvedor Back End
+
+
+Principais Responsabilidades
+
+
+Desenvolver e manter serviços e APIs back-end que suportem os processos de ETL e integração de dados;Implementar soluções de armazenamento de dados NoSQL, como MongoDB, para armazenar e consultar dados de forma eficaz;Projetar e implementar sistemas de integração baseados em eventos para facilitar a comunicação entre os diferentes componentes do sistema;Trabalhar com protocolos FTP e lidar com arquivos posicionais para a troca de dados com parceiros externos;Garantir que o sistema de ETL seja altamente observável, permitindo a fácil depuração de problemas e a monitoração de desempenho;Colaborar com equipes multidisciplinares para entender requisitos e garantir que as soluções desenvolvidas atendam às necessidades de negócios;Realizar testes de unidade, integração e aceitação para garantir a qualidade do código;Manter a documentação técnica atualizada e participar na revisão de código;Ficar atualizado com as melhores práticas e tendências em desenvolvimento back-end.
+Desenvolver e manter serviços e APIs back-end que suportem os processos de ETL e integração de dados;
+Desenvolver e manter serviços e APIs back-end que suportem os processos de ETL e integração de dados;
+Implementar soluções de armazenamento de dados NoSQL, como MongoDB, para armazenar e consultar dados de forma eficaz;
+Implementar soluções de armazenamento de dados NoSQL, como MongoDB, para armazenar e consultar dados de forma eficaz;
+Projetar e implementar sistemas de integração baseados em eventos para facilitar a comunicação entre os diferentes componentes do sistema;
+Projetar e implementar sistemas de integração baseados em eventos para facilitar a comunicação entre os diferentes componentes do sistema;
+Trabalhar com protocolos FTP e lidar com arquivos posicionais para a troca de dados com parceiros externos;
+Trabalhar com protocolos FTP e lidar com arquivos posicionais para a troca de dados com parceiros externos;
+Garantir que o sistema de ETL seja altamente observável, permitindo a fácil depuração de problemas e a monitoração de desempenho;
+Garantir que o sistema de ETL seja altamente observável, permitindo a fácil depuração de problemas e a monitoração de desempenho;
+Colaborar com equipes multidisciplinares para entender requisitos e garantir que as soluções desenvolvidas atendam às necessidades de negócios;
+Colaborar com equipes multidisciplinares para entender requisitos e garantir que as soluções desenvolvidas atendam às necessidades de negócios;
+Realizar testes de unidade, integração e aceitação para garantir a qualidade do código;
+Realizar testes de unidade, integração e aceitação para garantir a qualidade do código;
+Manter a documentação técnica atualizada e participar na revisão de código;
+Manter a documentação técnica atualizada e participar na revisão de código;
+Ficar atualizado com as melhores práticas e tendências em desenvolvimento back-end.
+Ficar atualizado com as melhores práticas e tendências em desenvolvimento back-end.
+
+
+Requisitos Técnicos
+
+
+Experiência robusta comprovada em desenvolvimento back-end, preferencialmente em um ambiente de microserviços com Linguagem Java, Spring Boot e AWS;Conhecimento sólido em NoSQL, com experiência prática em MongoDB;Experiência em desenvolvimento de sistemas ETL;Experiência com Cloud;Familiaridade com arquitetura baseada em eventos e ferramentas relacionadas;Conhecimento em protocolos FTP e manipulação de arquivos posicionais;Habilidade de escrever código limpo, escalável e de fácil manutenção;Graduação em Ciência da Computação, Engenharia de Software ou área relacionada;Inglês avançado (atuará em time internacional).
+Experiência robusta comprovada em desenvolvimento back-end, preferencialmente em um ambiente de microserviços com Linguagem Java, Spring Boot e AWS;
+Experiência robusta comprovada em desenvolvimento back-end, preferencialmente em um ambiente de microserviços com Linguagem Java, Spring Boot e AWS;
+Conhecimento sólido em NoSQL, com experiência prática em MongoDB;
+Conhecimento sólido em NoSQL, com experiência prática em MongoDB;
+Experiência em desenvolvimento de sistemas ETL;
+Experiência em desenvolvimento de sistemas ETL;
+Experiência com Cloud;
+Experiência com Cloud;
+Familiaridade com arquitetura baseada em eventos e ferramentas relacionadas;
+Familiaridade com arquitetura baseada em eventos e ferramentas relacionadas;
+Conhecimento em protocolos FTP e manipulação de arquivos posicionais;
+Conhecimento em protocolos FTP e manipulação de arquivos posicionais;
+Habilidade de escrever código limpo, escalável e de fácil manutenção;
+Habilidade de escrever código limpo, escalável e de fácil manutenção;
+Graduação em Ciência da Computação, Engenharia de Software ou área relacionada;
+Graduação em Ciência da Computação, Engenharia de Software ou área relacionada;
+Inglês avançado (atuará em time internacional).
+Inglês avançado (atuará em time internacional).
+
+
+Por Que Capco
+
+
+
+
+Próximos Passos
+
+
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!
+Se você está ansioso(a) para progredir sua carreira conosco, candidate-se e aguarde o contato de um de nossos recrutadores!

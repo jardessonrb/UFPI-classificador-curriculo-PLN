@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4041344331/?eBP=CwEAAAGS7lJZ93naK4kwOP_U9WzcrXE5fxsHYh0hvEjbO-MBxtiV9QTlBkdQgA8w-0pqSgLLjioHIE1lYwhHDJNVbCEMctb6WxHkJBVH1d1X8RrjqJEDYneiM8eVCQXWRQRhvy9AK_2D-QpLh53ouQyEGrUTsxSWAbXUEs61YOidlWb3uZhM-m4pHG6irI4Zbw00qQxdwiXxJzK42V3wdiwvEvqCFiJfpf-60UlHFJuFyPwi2T8Zb3z6c0Q1agXejmtPCy7hdm-9-AFaHmcv05Ssv7tE3tKBwzvrbC3iDDufzF7VIWCNzm1589ny6zo9jVb_n4S8zKrmlPfEyr2eo14U2YEoM3KzuyVyQDuaKUV9ZMTSWVUJQpU15B-3xR7HSm1fsDZecTQlP1Y82d1G1MBaxEdfH05Mc7wCe4UNOGJBSWdKixB8DsFaMLX1_TpZTwmWPCZjclNrwngh6PeJWN3MauPXV1LCJV9TZNgcKiKnxHGdal-Jcj-tn62O&refId=4x41vHZcgLjEH3GZiClx%2Fg%3D%3D&trackingId=2FVhuCpbvxC84S2wR%2FS71w%3D%3D&trk=flagship3_search_srp_jobs
+
+7920697 - Desenvolvedor Backend Pl
+Sobre a vaga
+Com 25 anos de experiência no mercado de Tecnologia da Informação, aMTPé uma empresa multinacional com mais de 1.000 colaboradores espalhados em mais de 11 unidades em nível global, o que nos permite promover o crescimento e intercâmbio profissional. AMTPé líder no fornecimento de serviços e soluções de TI com foco emQuality Assurance. Possuímos mais de 10 certificações, incluindo oTMMI - level 5, o mais alto nível da categoria. Oferecendo um dos mais amplos portfólios, entregamos soluções inovadoras e flexíveis para ajudar empresas a resolver seus desafios mais complexos. Atuando em projetos em mais de14 países, tais como: Alemanha, Reino Unido, Japão, Suécia, Coréia do Sul, Moçambique, Guatemala, Argentina, Chile, Peru, entre outros.Responsabilidades e atribuiçõesDesenvolver e manter aplicações backend utilizando Java ou Kotlin;Integrar e gerenciar mensageria com SQS/SNS, RabbitMQ ou Kafka;Implementar e executar testes unitários, de integração e automatizados, incluindo BDD;Criar e gerenciar APIs RESTful para garantir a comunicação eficiente entre serviços;Trabalhar com bancos de dados relacionais e não relacionais;Aplicar padrões de projetos e princípios SOLID em seus desenvolvimentos;Implementar boas práticas como Clean Code e Domain-Driven Design (DDD);Participar de processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;Colaborar em equipes ágeis e contribuir com a metodologia ágil aplicada;Requisitos e qualificaçõesExperiência comprovada em desenvolvimento backend (mínimo de 3 anos);Sólidos conhecimentos em Java ou Kotlin;Familiaridade com mensageria (SQS/SNS, RabbitMQ, Kafka);Experiência com testes (unitários, integração, automatizados, BDD);Conhecimento em APIs REST, bancos de dados relacionais e não relacionais;Compreensão de padrões de projeto e princípios SOLID;Experiência com Cloud Computing, preferencialmente AWS;Familiaridade com CI/CD e containers (Docker, Kubernetes);Experiência em metodologias ágeis;Informações adicionaisAtuação: CLTHome OfficeBenefícios:Plano de saúde;Plano odontológico;Vale alimentação;Vale refeição;Vale mobilidade;Vale cultura;Vale saúde;Vale educação;Seguro de vida;Auxílio creche;Descontos em parceiros.
+
+MTP
+
+
+MTP
+
+
+Quality Assurance
+
+TMMI - level 5
+
+14 países
+
+
+Responsabilidades e atribuições
+
+
+Desenvolver e manter aplicações backend utilizando Java ou Kotlin;Integrar e gerenciar mensageria com SQS/SNS, RabbitMQ ou Kafka;Implementar e executar testes unitários, de integração e automatizados, incluindo BDD;Criar e gerenciar APIs RESTful para garantir a comunicação eficiente entre serviços;Trabalhar com bancos de dados relacionais e não relacionais;Aplicar padrões de projetos e princípios SOLID em seus desenvolvimentos;Implementar boas práticas como Clean Code e Domain-Driven Design (DDD);Participar de processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;Colaborar em equipes ágeis e contribuir com a metodologia ágil aplicada;
+Desenvolver e manter aplicações backend utilizando Java ou Kotlin;
+Desenvolver e manter aplicações backend utilizando Java ou Kotlin;
+Integrar e gerenciar mensageria com SQS/SNS, RabbitMQ ou Kafka;
+Integrar e gerenciar mensageria com SQS/SNS, RabbitMQ ou Kafka;
+Implementar e executar testes unitários, de integração e automatizados, incluindo BDD;
+Implementar e executar testes unitários, de integração e automatizados, incluindo BDD;
+Criar e gerenciar APIs RESTful para garantir a comunicação eficiente entre serviços;
+Criar e gerenciar APIs RESTful para garantir a comunicação eficiente entre serviços;
+Trabalhar com bancos de dados relacionais e não relacionais;
+Trabalhar com bancos de dados relacionais e não relacionais;
+Aplicar padrões de projetos e princípios SOLID em seus desenvolvimentos;
+Aplicar padrões de projetos e princípios SOLID em seus desenvolvimentos;
+Implementar boas práticas como Clean Code e Domain-Driven Design (DDD);
+Implementar boas práticas como Clean Code e Domain-Driven Design (DDD);
+Participar de processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;
+Participar de processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;
+Colaborar em equipes ágeis e contribuir com a metodologia ágil aplicada;
+Colaborar em equipes ágeis e contribuir com a metodologia ágil aplicada;
+
+
+
+Requisitos e qualificações
+
+
+Experiência comprovada em desenvolvimento backend (mínimo de 3 anos);Sólidos conhecimentos em Java ou Kotlin;Familiaridade com mensageria (SQS/SNS, RabbitMQ, Kafka);Experiência com testes (unitários, integração, automatizados, BDD);Conhecimento em APIs REST, bancos de dados relacionais e não relacionais;Compreensão de padrões de projeto e princípios SOLID;Experiência com Cloud Computing, preferencialmente AWS;Familiaridade com CI/CD e containers (Docker, Kubernetes);Experiência em metodologias ágeis;
+Experiência comprovada em desenvolvimento backend (mínimo de 3 anos);
+Experiência comprovada em desenvolvimento backend (mínimo de 3 anos);
+Sólidos conhecimentos em Java ou Kotlin;
+Sólidos conhecimentos em Java ou Kotlin;
+Familiaridade com mensageria (SQS/SNS, RabbitMQ, Kafka);
+Familiaridade com mensageria (SQS/SNS, RabbitMQ, Kafka);
+Experiência com testes (unitários, integração, automatizados, BDD);
+Experiência com testes (unitários, integração, automatizados, BDD);
+Conhecimento em APIs REST, bancos de dados relacionais e não relacionais;
+Conhecimento em APIs REST, bancos de dados relacionais e não relacionais;
+Compreensão de padrões de projeto e princípios SOLID;
+Compreensão de padrões de projeto e princípios SOLID;
+Experiência com Cloud Computing, preferencialmente AWS;
+Experiência com Cloud Computing, preferencialmente AWS;
+Familiaridade com CI/CD e containers (Docker, Kubernetes);
+Familiaridade com CI/CD e containers (Docker, Kubernetes);
+Experiência em metodologias ágeis;
+Experiência em metodologias ágeis;
+
+
+
+Informações adicionais
+
+
+Atuação: CLTHome Office
+Atuação: CLT
+Atuação: CLT
+Home Office
+Home Office
+
+
+
+Benefícios:
+
+
+Plano de saúde;Plano odontológico;Vale alimentação;Vale refeição;Vale mobilidade;Vale cultura;Vale saúde;Vale educação;Seguro de vida;Auxílio creche;Descontos em parceiros.
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Vale alimentação;
+Vale alimentação;
+Vale refeição;
+Vale refeição;
+Vale mobilidade;
+Vale mobilidade;
+Vale cultura;
+Vale cultura;
+Vale saúde;
+Vale saúde;
+Vale educação;
+Vale educação;
+Seguro de vida;
+Seguro de vida;
+Auxílio creche;
+Auxílio creche;
+Descontos em parceiros.
+Descontos em parceiros.

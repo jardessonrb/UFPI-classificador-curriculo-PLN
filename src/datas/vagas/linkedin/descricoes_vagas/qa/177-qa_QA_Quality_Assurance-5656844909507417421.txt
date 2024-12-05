@@ -1,0 +1,118 @@
+link-https://www.linkedin.com/jobs/view/4018831198/?eBP=CwEAAAGS7kZibVEHckP8my8baxRn079D1DcaFKlKvixmf_sAoicptL5M-ebuOyGDBwof3yS67xIZPmdNG23gCJzZZqlmAQvBOUFgSMJFRWtWa-UJETKNI0iH7jHLHfwg_A4pHuZwpXc1ELuGzdl426y_GlFALqE3VH8sGN7ixYyFADXGKsPSEvOsPeAyKjPgY8iogsJjF3xZPmAjKWXdHJ1TJp6KceoObV9O9XFgVFi-UKBbot8XjvzNdGNiYmkwudA8dTv6V8-LTWX7sjsfX5ljw8VrXvw_mTFwnJsOs-bXB8ZVO_dKhJiT0o7TLjQhyv4tiXLdsDnPRSe_tLbpWfkkcR0VUG9pni84Pz6VS5Stys84UXIi6h_RclRv7YFm-ZXWHNukJTxjfP7k5spT_gJa34QJEKjEj-exKV-rdkDDMY6hbKFWtqloyq0lGGxju1z-ZPcWiJsMTQYsqn-UK9HuPIQIYYE8U1F30IzIi_PwMb0lzritUxpeQdSlDM5QOiB7qdTgMLxFs0Fk&refId=mxIoa6bb1wtPLR0m6yHB%2BQ%3D%3D&trackingId=ax6hQ5E6TZIxOOOKUXwFFw%3D%3D&trk=flagship3_search_srp_jobs
+
+IT Support Engineer - QA Analyst
+Sobre a vaga
+About The RoleWe are looking for a IT Support Engineer - QA Analyst, with dedication, and an eye for detail to ensure quality software for our customers. You are an integral part of our team, supporting software quality testing that is pivotal for our growing suite of IT Operations software. Work on a diverse squad of software development engineers, to validate the functionality of new product features, designing and implementing test cases. Use your knowledge of the IT Operations industry and products, operating systems, as well as your expertise in QA testing deep into the systems level of the software stack. Work with top-tier engineers and leaders as you manage a stream of new and exciting software challenges.Our software development teams are growing, and we are adding QA Engineers to several different product teams. We love that your skills and experiences are unique to you and would like to match those skills to the teams and products where you can make the greatest impact here at NinjaOne.English Resumes RequiredLocation:We are flexible on remote working from home, and only if you are located inBrazil, Colombia, Ecuador, or Mexico.We hire the best talent, but experience in our stack can’t hurt: NinjaOneis built onJava,Kotlin,C++, andPostgres, supporting millions of user endpoints and running as a scalable cloud service inAWS. Knowing large-scale datastore bottlenecks, asynchronous application design and client-server architecture will help you.What You’ll Be DoingIT Operations Expertise: dive into our suite of software products and become an in-house expert on our IT software solutions. Help shape the future of MSPs and IT teams by understanding user requirements, scrutinizing product usability, and providing invaluable feedback.Quality Testing & Troubleshooting: responsible for comprehensive software testing, to guarantee impeccable feature releases. Develop and maintain accurate test plans and ensure compliance across all platforms.Documentation: create detailed reports on the quality and functionality of software applications after thorough testing. Ensure any defects or issues are documented clearly for the development teams to address.Continuous Improvement: recommend enhancements to current testing methodologies, tools, and processes to refine and iterate our QA practices.Collaboration: work alongside our developers, product managers, and leaders throughout the software development life cycle, ensuring that quality standards are always achieved.Other duties as needed. Outstanding communication skills.About You5+ years of experience in Manual Quality Assurance Testing.2+ years of experience scripting in at least one or preferably multiple scripting languages such as PowerShell, Bash, Batch, Python, etc.5+ years of recent experience in roles like Technical IT Support, Product Support, or Systems Engineering is essential.Bachelor's degree in technology is a distinct advantage, though not mandatoryPrevious experience with at least 2 of the 3 operating systems: Windows, Mac or Linux is required. Including an understanding of system settings, the Windows Registry, and other OS foundational aspects.Experience with computer networks and network equipment setup and management. Understanding of network hardware would make you stand out.Experience working with databases including PostgreSQL, SQL, and MySQL.Experience setting up and configuring Virtual Machines (VM). A focus on ESXi and Hyper-V will be advantageous.Experience with Mobile App Testing would make you a standout candidate for our MDM product team.Experience with TCP/IP protocols; especially SNMP, TCP, UDP, ICMP, and DNS will make you a good fit for our network monitoring team.Previous experience with Automation Testing makes you a more senior candidate for our teams.Experience with Jira and Jira X-Ray extension will make you standout as well.Engage and collaborate with diverse teams, ensuring feedback is articulated clearly and transformed into actionable insights.Attention to detail, ensuring that all bugs and inconsistencies are unnoticed.Ability to think on your feet, coupled with analytical prowess, for identifying, documenting, resolving or escalating issues as they arise.Outstanding communication skills, English required.About UsNinjaOne automates the hardest parts of IT to deliver visibility, security, and control over all endpoints for more than 20,000 customers. The NinjaOne automated endpoint management platform is proven to increase productivity, reduce security risk, and lower costs for IT teams and managed service providers. NinjaOne is obsessed with customer success and provides free and unlimited onboarding, training, and support. NinjaOne is #1 on G2 in endpoint management, patch management, remote monitoring and management, and mobile device management.What You’ll LoveOur flexible working hours with home office options enable you to successfully balance your personal life and your job.Grow personally and together with one of the fastest growing companies globally.Develop your skills through our renowned training platform.Receive competitive compensation.Collaborate with an amazing international workforce.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, veteran status, or any other status protected by applicable law. We are committed to providing an inclusive and diverse work environment.#BI-REMOTE#BI-HYBRID
+About The Role
+
+
+
+
+
+
+English Resumes Required
+
+
+Location:
+
+
+Brazil, Colombia, Ecuador, or Mexico
+
+
+We hire the best talent, but experience in our stack can’t hurt: NinjaOne
+
+Java
+
+
+Kotlin
+
+C++
+
+Postgres
+
+AWS
+
+
+What You’ll Be Doing
+
+
+IT Operations Expertise: dive into our suite of software products and become an in-house expert on our IT software solutions. Help shape the future of MSPs and IT teams by understanding user requirements, scrutinizing product usability, and providing invaluable feedback.Quality Testing & Troubleshooting: responsible for comprehensive software testing, to guarantee impeccable feature releases. Develop and maintain accurate test plans and ensure compliance across all platforms.Documentation: create detailed reports on the quality and functionality of software applications after thorough testing. Ensure any defects or issues are documented clearly for the development teams to address.Continuous Improvement: recommend enhancements to current testing methodologies, tools, and processes to refine and iterate our QA practices.Collaboration: work alongside our developers, product managers, and leaders throughout the software development life cycle, ensuring that quality standards are always achieved.Other duties as needed. Outstanding communication skills.
+IT Operations Expertise: dive into our suite of software products and become an in-house expert on our IT software solutions. Help shape the future of MSPs and IT teams by understanding user requirements, scrutinizing product usability, and providing invaluable feedback.
+IT Operations Expertise: dive into our suite of software products and become an in-house expert on our IT software solutions. Help shape the future of MSPs and IT teams by understanding user requirements, scrutinizing product usability, and providing invaluable feedback.
+Quality Testing & Troubleshooting: responsible for comprehensive software testing, to guarantee impeccable feature releases. Develop and maintain accurate test plans and ensure compliance across all platforms.
+Quality Testing & Troubleshooting: responsible for comprehensive software testing, to guarantee impeccable feature releases. Develop and maintain accurate test plans and ensure compliance across all platforms.
+Documentation: create detailed reports on the quality and functionality of software applications after thorough testing. Ensure any defects or issues are documented clearly for the development teams to address.
+Documentation: create detailed reports on the quality and functionality of software applications after thorough testing. Ensure any defects or issues are documented clearly for the development teams to address.
+Continuous Improvement: recommend enhancements to current testing methodologies, tools, and processes to refine and iterate our QA practices.
+Continuous Improvement: recommend enhancements to current testing methodologies, tools, and processes to refine and iterate our QA practices.
+Collaboration: work alongside our developers, product managers, and leaders throughout the software development life cycle, ensuring that quality standards are always achieved.
+Collaboration: work alongside our developers, product managers, and leaders throughout the software development life cycle, ensuring that quality standards are always achieved.
+Other duties as needed. Outstanding communication skills.
+Other duties as needed. Outstanding communication skills.
+
+
+About You
+
+
+5+ years of experience in Manual Quality Assurance Testing.2+ years of experience scripting in at least one or preferably multiple scripting languages such as PowerShell, Bash, Batch, Python, etc.5+ years of recent experience in roles like Technical IT Support, Product Support, or Systems Engineering is essential.Bachelor's degree in technology is a distinct advantage, though not mandatoryPrevious experience with at least 2 of the 3 operating systems: Windows, Mac or Linux is required. Including an understanding of system settings, the Windows Registry, and other OS foundational aspects.Experience with computer networks and network equipment setup and management. Understanding of network hardware would make you stand out.Experience working with databases including PostgreSQL, SQL, and MySQL.Experience setting up and configuring Virtual Machines (VM). A focus on ESXi and Hyper-V will be advantageous.Experience with Mobile App Testing would make you a standout candidate for our MDM product team.Experience with TCP/IP protocols; especially SNMP, TCP, UDP, ICMP, and DNS will make you a good fit for our network monitoring team.Previous experience with Automation Testing makes you a more senior candidate for our teams.Experience with Jira and Jira X-Ray extension will make you standout as well.Engage and collaborate with diverse teams, ensuring feedback is articulated clearly and transformed into actionable insights.Attention to detail, ensuring that all bugs and inconsistencies are unnoticed.Ability to think on your feet, coupled with analytical prowess, for identifying, documenting, resolving or escalating issues as they arise.Outstanding communication skills, English required.
+5+ years of experience in Manual Quality Assurance Testing.
+5+ years of experience in Manual Quality Assurance Testing.
+2+ years of experience scripting in at least one or preferably multiple scripting languages such as PowerShell, Bash, Batch, Python, etc.
+2+ years of experience scripting in at least one or preferably multiple scripting languages such as PowerShell, Bash, Batch, Python, etc.
+5+ years of recent experience in roles like Technical IT Support, Product Support, or Systems Engineering is essential.
+5+ years of recent experience in roles like Technical IT Support, Product Support, or Systems Engineering is essential.
+Bachelor's degree in technology is a distinct advantage, though not mandatory
+Bachelor's degree in technology is a distinct advantage, though not mandatory
+Previous experience with at least 2 of the 3 operating systems: Windows, Mac or Linux is required. Including an understanding of system settings, the Windows Registry, and other OS foundational aspects.
+Previous experience with at least 2 of the 3 operating systems: Windows, Mac or Linux is required. Including an understanding of system settings, the Windows Registry, and other OS foundational aspects.
+Experience with computer networks and network equipment setup and management. Understanding of network hardware would make you stand out.
+Experience with computer networks and network equipment setup and management. Understanding of network hardware would make you stand out.
+Experience working with databases including PostgreSQL, SQL, and MySQL.
+Experience working with databases including PostgreSQL, SQL, and MySQL.
+Experience setting up and configuring Virtual Machines (VM). A focus on ESXi and Hyper-V will be advantageous.
+Experience setting up and configuring Virtual Machines (VM). A focus on ESXi and Hyper-V will be advantageous.
+Experience with Mobile App Testing would make you a standout candidate for our MDM product team.
+Experience with Mobile App Testing would make you a standout candidate for our MDM product team.
+Experience with TCP/IP protocols; especially SNMP, TCP, UDP, ICMP, and DNS will make you a good fit for our network monitoring team.
+Experience with TCP/IP protocols; especially SNMP, TCP, UDP, ICMP, and DNS will make you a good fit for our network monitoring team.
+Previous experience with Automation Testing makes you a more senior candidate for our teams.
+Previous experience with Automation Testing makes you a more senior candidate for our teams.
+
+Experience with Jira and Jira X-Ray extension will make you standout as well.
+Experience with Jira and Jira X-Ray extension will make you standout as well.
+
+Engage and collaborate with diverse teams, ensuring feedback is articulated clearly and transformed into actionable insights.
+Engage and collaborate with diverse teams, ensuring feedback is articulated clearly and transformed into actionable insights.
+Attention to detail, ensuring that all bugs and inconsistencies are unnoticed.
+Attention to detail, ensuring that all bugs and inconsistencies are unnoticed.
+Ability to think on your feet, coupled with analytical prowess, for identifying, documenting, resolving or escalating issues as they arise.
+Ability to think on your feet, coupled with analytical prowess, for identifying, documenting, resolving or escalating issues as they arise.
+Outstanding communication skills, English required.
+Outstanding communication skills, English required.
+
+
+
+About Us
+
+
+
+
+What You’ll Love
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

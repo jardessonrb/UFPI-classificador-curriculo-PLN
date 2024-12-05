@@ -1,0 +1,109 @@
+link-https://www.linkedin.com/jobs/view/4045963474/?eBP=CwEAAAGS7k0khkXRxUg0rKKVXiPuwTITPycnhO2X1pYwcXt8Pk-oxQUSli_Xz_N9J0zop35QR-c3cOkN5z0jFeva2lrIQnfcsnA4yQMyZxL6piPMABy_-l8S1iEW74up-dJY6FKQ0FHOgJs0psgfyrP6mkdLSSFyv5goked2kJcIKJ-dp6H9SMOGQ7FbTFdRSw-vhWU_s7gOQgLb4iH51OGqMWnQRfY33o_2lTNTtZpwh7r7DHXFUafAmujhCBYuPO0J0vowgE1ECbdvqTvZLWtvkD_HC_X_xWJRPA_O4XA1W7-ezpaONQhmNpGwDXMWariTod4__6O6Ynh2QxY7McRP-Y6VZK2vuysg-R-HaC7AxYtPtZEvKwz0J6g8GrjQwbhi7YCQBoaQ2YZeb3hQT69iCwQbHDWd_HiPeN0GxKOj1qv0ki0jfQXQpBIp3F8yj1BaskiNH2Tke1x2tXZjL6L4H37yHnaynVdsUV2tEX6rw7LI4V4h2oEB15KZis1xxx7Y&refId=3Skfr98sEUX%2FjHdibph8TQ%3D%3D&trackingId=tosb5CpEfuI59IuYJHcn3w%3D%3D&trk=flagship3_search_srp_jobs
+
+e4bd: Desenvolvedor Frontend Pleno - React e Teams SDK
+Sobre a vaga
+Desenvolvimento de uma aplicação moderna com foco em integração profunda com Microsoft Teams e Office 365. Buscamos um desenvolvedor frontend experiente para criar uma experiência de usuário excepcional em múltiplas plataformas MS Teams, Web, Android e IOS.Responsabilidades PrincipaisDesenvolver e manter interfaces de usuário responsivas e intuitivas usando React e React NativeCriar e integrar aplicações personalizadas para Microsoft Teams usando Teams SDK/Fluent UIImplementar funcionalidades avançadas utilizando TypeScript e padrões modernos de JavaScriptDesenvolver e consumir APIs GraphQL e REST API, otimizando a comunicação cliente-servidorIntegrar a aplicação com ferramentas e serviços do Office 365, SSO, SCIM e GraphQL.Implementar PWAs (Progressive Web Apps) para oferecer experiência nativa em diferentes dispositivosColaborar com a equipe de backend para definir e consumir APIs eficientesParticipar ativamente em code reviews e na melhoria contínua das práticas de desenvolvimentoRequisitos3+ anos de experiência sólida em desenvolvimento frontendDomínio avançado de React e PWAsProficiência em TypeScript e padrões modernos de JavaScript (ES6+)Experiência comprovada com Microsoft Teams SDK e desenvolvimento de aplicações para TeamsExperiência com Fluent UI ou frameworks de design similaresConhecimento em GraphQL com Apollo Client/Hasura ou outroFamiliaridade com ferramentas e APIs do Office 365Experiência em desenvolvimento e consumo de APIs RESTfulConhecimentos em HTML5 e CSS3, incluindo Flexbox e CSS GridExperiência com controle de versão usando GitConhecimento básico de CI/CD, preferencialmente com Azure DevOps ou GitHub ActionsHabilidades PessoaisExcelente capacidade de comunicação e colaboração em equipeProatividade e habilidade para trabalhar de forma autônomaAtenção aos detalhes e comprometimento com a qualidade do códigoCapacidade de resolver problemas de forma criativa e eficienteDisposição para aprendizado contínuo e adaptação a novas tecnologiasOferecemosOportunidade de trabalhar em um projeto inovador com integração profunda ao ecossistema MicrosoftAmbiente colaborativo e focado em aprendizado contínuoPossibilidade de crescimento e desenvolvimento de habilidades especializadas
+
+
+Responsabilidades Principais
+
+
+Desenvolver e manter interfaces de usuário responsivas e intuitivas usando React e React NativeCriar e integrar aplicações personalizadas para Microsoft Teams usando Teams SDK/Fluent UIImplementar funcionalidades avançadas utilizando TypeScript e padrões modernos de JavaScriptDesenvolver e consumir APIs GraphQL e REST API, otimizando a comunicação cliente-servidorIntegrar a aplicação com ferramentas e serviços do Office 365, SSO, SCIM e GraphQL.Implementar PWAs (Progressive Web Apps) para oferecer experiência nativa em diferentes dispositivosColaborar com a equipe de backend para definir e consumir APIs eficientesParticipar ativamente em code reviews e na melhoria contínua das práticas de desenvolvimento
+Desenvolver e manter interfaces de usuário responsivas e intuitivas usando React e React Native
+Desenvolver e manter interfaces de usuário responsivas e intuitivas usando React e React Native
+
+Criar e integrar aplicações personalizadas para Microsoft Teams usando Teams SDK/Fluent UI
+Criar e integrar aplicações personalizadas para Microsoft Teams usando Teams SDK/Fluent UI
+
+Implementar funcionalidades avançadas utilizando TypeScript e padrões modernos de JavaScript
+Implementar funcionalidades avançadas utilizando TypeScript e padrões modernos de JavaScript
+
+Desenvolver e consumir APIs GraphQL e REST API, otimizando a comunicação cliente-servidor
+Desenvolver e consumir APIs GraphQL e REST API, otimizando a comunicação cliente-servidor
+
+Integrar a aplicação com ferramentas e serviços do Office 365, SSO, SCIM e GraphQL.
+Integrar a aplicação com ferramentas e serviços do Office 365, SSO, SCIM e GraphQL.
+
+Implementar PWAs (Progressive Web Apps) para oferecer experiência nativa em diferentes dispositivos
+Implementar PWAs (Progressive Web Apps) para oferecer experiência nativa em diferentes dispositivos
+
+Colaborar com a equipe de backend para definir e consumir APIs eficientes
+Colaborar com a equipe de backend para definir e consumir APIs eficientes
+
+Participar ativamente em code reviews e na melhoria contínua das práticas de desenvolvimento
+Participar ativamente em code reviews e na melhoria contínua das práticas de desenvolvimento
+
+
+
+Requisitos
+
+
+3+ anos de experiência sólida em desenvolvimento frontendDomínio avançado de React e PWAsProficiência em TypeScript e padrões modernos de JavaScript (ES6+)Experiência comprovada com Microsoft Teams SDK e desenvolvimento de aplicações para TeamsExperiência com Fluent UI ou frameworks de design similaresConhecimento em GraphQL com Apollo Client/Hasura ou outroFamiliaridade com ferramentas e APIs do Office 365Experiência em desenvolvimento e consumo de APIs RESTfulConhecimentos em HTML5 e CSS3, incluindo Flexbox e CSS GridExperiência com controle de versão usando GitConhecimento básico de CI/CD, preferencialmente com Azure DevOps ou GitHub Actions
+3+ anos de experiência sólida em desenvolvimento frontend
+3+ anos de experiência sólida em desenvolvimento frontend
+
+Domínio avançado de React e PWAs
+Domínio avançado de React e PWAs
+
+Proficiência em TypeScript e padrões modernos de JavaScript (ES6+)
+Proficiência em TypeScript e padrões modernos de JavaScript (ES6+)
+
+Experiência comprovada com Microsoft Teams SDK e desenvolvimento de aplicações para Teams
+Experiência comprovada com Microsoft Teams SDK e desenvolvimento de aplicações para Teams
+
+Experiência com Fluent UI ou frameworks de design similares
+Experiência com Fluent UI ou frameworks de design similares
+
+Conhecimento em GraphQL com Apollo Client/Hasura ou outro
+Conhecimento em GraphQL com Apollo Client/Hasura ou outro
+
+Familiaridade com ferramentas e APIs do Office 365
+Familiaridade com ferramentas e APIs do Office 365
+
+Experiência em desenvolvimento e consumo de APIs RESTful
+Experiência em desenvolvimento e consumo de APIs RESTful
+
+Conhecimentos em HTML5 e CSS3, incluindo Flexbox e CSS Grid
+Conhecimentos em HTML5 e CSS3, incluindo Flexbox e CSS Grid
+
+Experiência com controle de versão usando Git
+Experiência com controle de versão usando Git
+
+Conhecimento básico de CI/CD, preferencialmente com Azure DevOps ou GitHub Actions
+Conhecimento básico de CI/CD, preferencialmente com Azure DevOps ou GitHub Actions
+
+
+
+Habilidades Pessoais
+
+
+Excelente capacidade de comunicação e colaboração em equipeProatividade e habilidade para trabalhar de forma autônomaAtenção aos detalhes e comprometimento com a qualidade do códigoCapacidade de resolver problemas de forma criativa e eficienteDisposição para aprendizado contínuo e adaptação a novas tecnologias
+Excelente capacidade de comunicação e colaboração em equipe
+Excelente capacidade de comunicação e colaboração em equipe
+
+Proatividade e habilidade para trabalhar de forma autônoma
+Proatividade e habilidade para trabalhar de forma autônoma
+
+Atenção aos detalhes e comprometimento com a qualidade do código
+Atenção aos detalhes e comprometimento com a qualidade do código
+
+Capacidade de resolver problemas de forma criativa e eficiente
+Capacidade de resolver problemas de forma criativa e eficiente
+
+Disposição para aprendizado contínuo e adaptação a novas tecnologias
+Disposição para aprendizado contínuo e adaptação a novas tecnologias
+
+
+
+Oferecemos
+
+
+Oportunidade de trabalhar em um projeto inovador com integração profunda ao ecossistema MicrosoftAmbiente colaborativo e focado em aprendizado contínuo
+Oportunidade de trabalhar em um projeto inovador com integração profunda ao ecossistema Microsoft
+Oportunidade de trabalhar em um projeto inovador com integração profunda ao ecossistema Microsoft
+
+Ambiente colaborativo e focado em aprendizado contínuo
+Ambiente colaborativo e focado em aprendizado contínuo
+
+
+

@@ -1,0 +1,83 @@
+link-https://www.linkedin.com/jobs/view/4047012000/?eBP=CwEAAAGS7k29Tkhc-_21IU2mWGYeejwMdH9d1RmIXGjIlwPcTrK9mI9rhvLIfOyR98JsOaaPI2hbm5aouLkcZrSfj1uMvRA7Q3tFSgFlel-X8UcUOK0n6GiLxDNyB9K4BG90E1GwTzpcWKcV3OXZRA5JYRysSFUFLN_a9VlqgbGrVIFIEVqj-9F7yZ2Le48bnnHtLP3Cd7W-WArYgkVyyAWxeme1x84j4oCCBQ_lqYIVARI8r66dFJ7jIuJdbrF4kMWb5EmiVd3L6erLoLDjtIoXO3hCcn1rM1X9eY7SizLi0PrZQlaI1QOFAfYD7yjF1YWUmLFDeoZFziUc_DFiQXvxB2swooBx5DA5ALIOFoLstgKrWoGdsMyCgN-KGZQsUsl1xooZlyWhcS9jkR-aQGO8zah28Stf8K73-dHo6_QLUUM3F8OKKc6Mhb3H4BB9meY1oBv3a97KHgF06fToMddchl3ptSCocYOcJC3nnifSsDHa-tExh10JVbDSGQA3VUF5UGA&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=Wjp3NGq6u%2FpcB80jCkt3Pw%3D%3D&trk=flagship3_search_srp_jobs
+
+Front End Tech Lead
+Sobre a vaga
+Today’s world is crime-riddled. Criminals are everywhere, invisible, virtual and sophisticated. Traditional ways to prevent and investigate crime are no longer enough… Technology is changing incredibly fast. The criminals know it, and they are taking advantage. We know it too.For nearly 30 years, the incredible minds atCognytearound the world have worked closely together and put their expertise to work, to keep up with constantly evolving technological and criminal trends, and help make the world a safer place with leading investigative analytics software solutions.We are currently looking fora Front End Tech Lead for our office in Brazil.As a Front End Tech Lead at Cognyte, you will lead the development of innovative software solutions in telecommunications and security, working closely with cross-functional teams across the globe. You’ll be responsible for creating and optimizing high-performance systems, guiding your team through technical challenges, and ensuring the implementation of best development and architectural practices.As a Cognyter you will:Lead the development of innovative solutions in telecommunications and security.Collaborate with a global team on product and feature creation.Enhance user experience while maintaining visual standards.Research and develop new tools and products.Analyze and resolve system issues.Ensure software and applications are updated.Guide the technical team through challenges.Define project goals and ensure alignment.Implement best development and architecture practices.Optimize system performance and conduct code reviews.Promote automation and CI/CD practices in the development workflow.Foster cross-functional collaboration for seamless project integration.Requirements:For that mission you’ll need:Higher education in a technology-related field.Proficiency in programming languages, specifically JavaScript (experience with Java is a plus).Strong experience with frontend frameworks such as React or Vue.js.Knowledge of software architecture, including microservices and RESTful APIs.Experience with HTML, CSS, and JavaScript libraries (e.g., jQuery).Proficiency in development tools like Git and Jenkins.Familiarity with cloud environments (AWS or Azure) and containerization (Docker).Understanding of CI/CD practices and tools.Knowledge of testing practices, including TDD/BDD.Flexibility and eagerness to learn new technologies.Fluent EnglishExperience with mapsExperience in Telecom companies.Remember: When you're curious enough, you don't need to check every box to apply. Be in touch!
+
+
+
+Cognyte
+
+
+
+
+a Front End Tech Lead for our office in Brazil.
+
+
+
+
+As a Cognyter you will:
+
+
+Lead the development of innovative solutions in telecommunications and security.Collaborate with a global team on product and feature creation.Enhance user experience while maintaining visual standards.Research and develop new tools and products.Analyze and resolve system issues.Ensure software and applications are updated.Guide the technical team through challenges.Define project goals and ensure alignment.Implement best development and architecture practices.Optimize system performance and conduct code reviews.Promote automation and CI/CD practices in the development workflow.Foster cross-functional collaboration for seamless project integration.
+Lead the development of innovative solutions in telecommunications and security.
+Lead the development of innovative solutions in telecommunications and security.
+Collaborate with a global team on product and feature creation.
+Collaborate with a global team on product and feature creation.
+Enhance user experience while maintaining visual standards.
+Enhance user experience while maintaining visual standards.
+Research and develop new tools and products.
+Research and develop new tools and products.
+Analyze and resolve system issues.
+Analyze and resolve system issues.
+Ensure software and applications are updated.
+Ensure software and applications are updated.
+Guide the technical team through challenges.
+Guide the technical team through challenges.
+Define project goals and ensure alignment.
+Define project goals and ensure alignment.
+Implement best development and architecture practices.
+Implement best development and architecture practices.
+Optimize system performance and conduct code reviews.
+Optimize system performance and conduct code reviews.
+Promote automation and CI/CD practices in the development workflow.
+Promote automation and CI/CD practices in the development workflow.
+Foster cross-functional collaboration for seamless project integration.
+Foster cross-functional collaboration for seamless project integration.
+
+
+
+
+For that mission you’ll need:
+
+
+Higher education in a technology-related field.Proficiency in programming languages, specifically JavaScript (experience with Java is a plus).Strong experience with frontend frameworks such as React or Vue.js.Knowledge of software architecture, including microservices and RESTful APIs.Experience with HTML, CSS, and JavaScript libraries (e.g., jQuery).Proficiency in development tools like Git and Jenkins.Familiarity with cloud environments (AWS or Azure) and containerization (Docker).Understanding of CI/CD practices and tools.Knowledge of testing practices, including TDD/BDD.Flexibility and eagerness to learn new technologies.Fluent EnglishExperience with mapsExperience in Telecom companies.
+Higher education in a technology-related field.
+Higher education in a technology-related field.
+Proficiency in programming languages, specifically JavaScript (experience with Java is a plus).
+Proficiency in programming languages, specifically JavaScript (experience with Java is a plus).
+Strong experience with frontend frameworks such as React or Vue.js.
+Strong experience with frontend frameworks such as React or Vue.js.
+Knowledge of software architecture, including microservices and RESTful APIs.
+Knowledge of software architecture, including microservices and RESTful APIs.
+Experience with HTML, CSS, and JavaScript libraries (e.g., jQuery).
+Experience with HTML, CSS, and JavaScript libraries (e.g., jQuery).
+Proficiency in development tools like Git and Jenkins.
+Proficiency in development tools like Git and Jenkins.
+Familiarity with cloud environments (AWS or Azure) and containerization (Docker).
+Familiarity with cloud environments (AWS or Azure) and containerization (Docker).
+Understanding of CI/CD practices and tools.
+Understanding of CI/CD practices and tools.
+Knowledge of testing practices, including TDD/BDD.
+Knowledge of testing practices, including TDD/BDD.
+Flexibility and eagerness to learn new technologies.
+Flexibility and eagerness to learn new technologies.
+Fluent English
+Fluent English
+Experience with maps
+Experience with maps
+Experience in Telecom companies.
+Experience in Telecom companies.
+
+
+Remember: When you're curious enough, you don't need to check every box to apply. Be in touch!

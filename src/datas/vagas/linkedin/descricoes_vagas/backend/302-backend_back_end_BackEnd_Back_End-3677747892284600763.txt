@@ -1,0 +1,83 @@
+link-https://www.linkedin.com/jobs/view/3177226559/?eBP=CwEAAAGS7lCK8gy9poC44Tox-QPpixYdzNYM9WRU4DAUBen_9LFRZv3K9PHAJs6lNZHCQqXevrUHNwk8dd9TvMlxKyu0m5P8cbw7E-_0s0dBVqYL57TsWLI-qhcg0vEGHiH6qWWOfKtbt1DyST2Z9-Q6ZhyELX0S3l1W5HVwDhZKAb9Qr9klkmVLiwMlGniSnDJNtutooKTJ-tWCHYN-7OdgtCzrBMM_0K1HoU4DIT6-KaWaeR7DbMvl64bJSenxlhTy_VTYARB07UhcGQj7PJeUM9_tMpZvWVfRbgSptIF-RFMmpazxJSXr7EFSYgdPK3C4W3IV_2l0FzETr0CZgSf0sl7vfASO_1jtskjhd7LizaOUMulcu98Ia3d5ioZ6D14aE4ocjLEGrKva_kBjI_eBIeugaj2Zgwl8DKNgBdAWsBhR19qgjZJhLNz-z3sdqVZM7QuSnbKT6XMYYvsjqGI6ixfAnXzbsite5X5ZFuffDXPcy65hQBp_xoCg0cyrP_EzjGSwqpxhBg&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=jw5skOCdnqwi%2BkxO2aklog%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend
+Sobre a vaga
+Estamos em busca de um Desenvolvedor Backend apaixonado por desafios técnicos e disposto a trabalhar com grandes volumes de dados, integrando sistemas complexos para criar dashboards inteligentes. Se você gosta de resolver problemas de alta performance, é proativo e tem experiência com coleta de dados e integração de plataformas externas, essa vaga é para você!Principais Responsabilidades:Desenvolver e manter APIs eficientes e escaláveis utilizando a linguagem GO;Modelar e otimizar bancos de dados PostgreSQL para garantir alta performance, mesmo com grandes volumes de dados;Implementar soluções de coleta de dados, integrando com plataformas externas;Criar e manter dashboards inteligentes de dados e marketing, otimizando o fluxo de informações para os usuários;Participar ativamente no processo de revisão de código e contribuir para o desenvolvimento de melhores práticas;Colaborar com equipes multidisciplinares para garantir a integração perfeita entre os sistemas e plataformas.Requisitos:Experiência sólida em desenvolvimento backend utilizando GO;Conhecimento profundo em modelagem e otimização de bancos de dados, especialmente com o PostgreSQL;Familiaridade com coleta de dados e integração com APIs externas;Capacidade de lidar com grandes volumes de dados e desenvolver soluções escaláveis e performáticas;Conhecimentos sólidos em JavaScript e noções de desenvolvimento frontend;Proatividade na resolução de problemas e paixão por desafios técnicos;Experiência com desenvolvimento de dashboards e ferramentas de visualização de dados será um diferencial;Boa comunicação e capacidade de trabalhar em equipe.O que oferecemos:Vale alimentação (ticket flex);Plano de saúde Unimed;Plano odontológico Unimed;Seguro de vida;Auxílio Home Office;Wellhub (Gympass).Outras vantagens que tornam o nosso ambiente diferenciado:Ambiente de trabalho dinâmico, com desafios técnicos constantes;Oportunidade de trabalhar em projetos inovadores e com impacto direto no negócio;Convênios com instituições de ensino;Super desconto em passagem aérea e seguro viagem.
+Estamos em busca de um Desenvolvedor Backend apaixonado por desafios técnicos e disposto a trabalhar com grandes volumes de dados, integrando sistemas complexos para criar dashboards inteligentes. Se você gosta de resolver problemas de alta performance, é proativo e tem experiência com coleta de dados e integração de plataformas externas, essa vaga é para você!
+Estamos em busca de um Desenvolvedor Backend apaixonado por desafios técnicos e disposto a trabalhar com grandes volumes de dados, integrando sistemas complexos para criar dashboards inteligentes. Se você gosta de resolver problemas de alta performance, é proativo e tem experiência com coleta de dados e integração de plataformas externas, essa vaga é para você!
+
+
+
+Principais Responsabilidades:
+Principais Responsabilidades:
+Principais Responsabilidades:
+Desenvolver e manter APIs eficientes e escaláveis utilizando a linguagem GO;Modelar e otimizar bancos de dados PostgreSQL para garantir alta performance, mesmo com grandes volumes de dados;Implementar soluções de coleta de dados, integrando com plataformas externas;Criar e manter dashboards inteligentes de dados e marketing, otimizando o fluxo de informações para os usuários;Participar ativamente no processo de revisão de código e contribuir para o desenvolvimento de melhores práticas;Colaborar com equipes multidisciplinares para garantir a integração perfeita entre os sistemas e plataformas.
+Desenvolver e manter APIs eficientes e escaláveis utilizando a linguagem GO;
+Desenvolver e manter APIs eficientes e escaláveis utilizando a linguagem GO;
+Modelar e otimizar bancos de dados PostgreSQL para garantir alta performance, mesmo com grandes volumes de dados;
+Modelar e otimizar bancos de dados PostgreSQL para garantir alta performance, mesmo com grandes volumes de dados;
+Implementar soluções de coleta de dados, integrando com plataformas externas;
+Implementar soluções de coleta de dados, integrando com plataformas externas;
+Criar e manter dashboards inteligentes de dados e marketing, otimizando o fluxo de informações para os usuários;
+Criar e manter dashboards inteligentes de dados e marketing, otimizando o fluxo de informações para os usuários;
+Participar ativamente no processo de revisão de código e contribuir para o desenvolvimento de melhores práticas;
+Participar ativamente no processo de revisão de código e contribuir para o desenvolvimento de melhores práticas;
+Colaborar com equipes multidisciplinares para garantir a integração perfeita entre os sistemas e plataformas.
+Colaborar com equipes multidisciplinares para garantir a integração perfeita entre os sistemas e plataformas.
+
+
+
+Requisitos:
+Requisitos:
+Requisitos:
+Experiência sólida em desenvolvimento backend utilizando GO;Conhecimento profundo em modelagem e otimização de bancos de dados, especialmente com o PostgreSQL;Familiaridade com coleta de dados e integração com APIs externas;Capacidade de lidar com grandes volumes de dados e desenvolver soluções escaláveis e performáticas;Conhecimentos sólidos em JavaScript e noções de desenvolvimento frontend;Proatividade na resolução de problemas e paixão por desafios técnicos;Experiência com desenvolvimento de dashboards e ferramentas de visualização de dados será um diferencial;Boa comunicação e capacidade de trabalhar em equipe.
+Experiência sólida em desenvolvimento backend utilizando GO;
+Experiência sólida em desenvolvimento backend utilizando GO;
+Conhecimento profundo em modelagem e otimização de bancos de dados, especialmente com o PostgreSQL;
+Conhecimento profundo em modelagem e otimização de bancos de dados, especialmente com o PostgreSQL;
+Familiaridade com coleta de dados e integração com APIs externas;
+Familiaridade com coleta de dados e integração com APIs externas;
+Capacidade de lidar com grandes volumes de dados e desenvolver soluções escaláveis e performáticas;
+Capacidade de lidar com grandes volumes de dados e desenvolver soluções escaláveis e performáticas;
+Conhecimentos sólidos em JavaScript e noções de desenvolvimento frontend;
+Conhecimentos sólidos em JavaScript e noções de desenvolvimento frontend;
+Proatividade na resolução de problemas e paixão por desafios técnicos;
+Proatividade na resolução de problemas e paixão por desafios técnicos;
+Experiência com desenvolvimento de dashboards e ferramentas de visualização de dados será um diferencial;
+Experiência com desenvolvimento de dashboards e ferramentas de visualização de dados será um diferencial;
+Boa comunicação e capacidade de trabalhar em equipe.
+Boa comunicação e capacidade de trabalhar em equipe.
+
+
+
+O que oferecemos:
+O que oferecemos:
+O que oferecemos:
+Vale alimentação (ticket flex);Plano de saúde Unimed;Plano odontológico Unimed;Seguro de vida;Auxílio Home Office;Wellhub (Gympass).
+Vale alimentação (ticket flex);
+Vale alimentação (ticket flex);
+Plano de saúde Unimed;
+Plano de saúde Unimed;
+Plano odontológico Unimed;
+Plano odontológico Unimed;
+Seguro de vida;
+Seguro de vida;
+Auxílio Home Office;
+Auxílio Home Office;
+Wellhub (Gympass).
+Wellhub (Gympass).
+
+
+
+Outras vantagens que tornam o nosso ambiente diferenciado:
+Outras vantagens que tornam o nosso ambiente diferenciado:
+Outras vantagens que tornam o nosso ambiente diferenciado:
+Ambiente de trabalho dinâmico, com desafios técnicos constantes;Oportunidade de trabalhar em projetos inovadores e com impacto direto no negócio;Convênios com instituições de ensino;Super desconto em passagem aérea e seguro viagem.
+Ambiente de trabalho dinâmico, com desafios técnicos constantes;
+Ambiente de trabalho dinâmico, com desafios técnicos constantes;
+Oportunidade de trabalhar em projetos inovadores e com impacto direto no negócio;
+Oportunidade de trabalhar em projetos inovadores e com impacto direto no negócio;
+Convênios com instituições de ensino;
+Convênios com instituições de ensino;
+Super desconto em passagem aérea e seguro viagem.
+Super desconto em passagem aérea e seguro viagem.

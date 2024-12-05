@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4053641369/?eBP=CwEAAAGS7lHBTJmyzIiUu1qUJAHhHHZkoXzo09C7oLPT3lmKQ3Sl3NTAKpKXT6Kk5ZIEUA3P5dJhWHiCpoMidcYMgP0mU3-IOrEyvVgP4QdnpPnO_4kD6lG3PIf5sTWesnFJo5RuwxEy0KJ7iN13xigM_jhnnzHcLQAC-34i8pwgi1aOs-NswFOnNnFw4Q-AtLTOyt2IwvF16BVd6PY2lzDIR1VZ1BywugtpiTNy8MFxeR9GnD82EGs2HblFZ-rCVzXRV9r5ndVNQDLlK8N7FS5lOUrg0xwHyJZ2P5Ppe9b5ianIrwNovpJSp2TM7NQ5p2PnRW2sHlvWtZ2GG3hD7yRQOYUDboSaHNR5uIOxggv2Sc5p5XMuKCbW4sF82fxRK9O-rS6YWnfYbLtMa6HqWW-XtRbXS7OuLyf2hOvEQKjeGBjYhKs02ogcvnVopKVsq7SgE6HkEt510nBsow&refId=5gdV5KlKgrkviwqoRiIR9Q%3D%3D&trackingId=YATdePmY3gX394Csj3mWDQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Backend Pleno (Remoto)
+Sobre a vaga
+Job DescriptionO Grupo Youx não para de crescer e para isso precisamos dos melhores! Estamos em busca de profissionais que sejam apaixonados por Inovação e Tecnologia e que busquem entregar soluções inovadoras de forma ágil e prática para nossos clientes.Ahh e tem que curtir muito estar rodeado de pessoas maravilhosas em um ambiente dinâmico e descontraído, afinal de contas somos GPTW e apaixonados por pessoas!Quer se tornar um Youxer ? Se liga, essa vaga éPJe RemotoEstamos à procura de um(a) Desenvolvedor(a) Back-End Pleno para se juntar ao nosso time! Se você é apaixonado por desenvolvimento back-end, tem experiência sólida em Java, Spring Boot e bancos de dados relacionais, e gosta de criar soluções robustas que impactam diretamente o sucesso dos projetos, esta vaga é para você! Procuramos alguém que saiba traduzir requisitos complexos em soluções técnicas eficientes e que esteja disposto(a) a colaborar com equipes multidisciplinares.Seu dia a diaDesenvolver, testar e implementar melhorias e novas funcionalidades em sistemas de alta relevância;Traduzir requisitos complexos em soluções técnicas escaláveis, contribuindo diretamente para a eficiência dos projetos;Trabalhar com metodologias ágeis, como Scrum e Kanban, em um ambiente colaborativo;Garantir a integração com APIs e colaborar com outras áreas quando necessário;Participar da análise e implementação de melhorias contínuas nos sistemas existentes.Requisitos e HabilidadesDomínio de Java:API de data, API de manipulação de collections, Stream e ParallelStream;Spring Framework:Injeção de dependência, configurações web (CORS) e segurança com Spring Security;Bancos de Dados:Conhecimento em modelagem, queries SQL e otimização de banco de dados;Servidor Web: Experiência com Tomcat ou servidores similares;RESTful APIs: Design, implementação e versionamento de APIs REST;Controle de Versão (Git): Domínio no uso de Git para controle de código;Dedicação, responsabilidade e vontade de aprender e se adaptar rapidamente;Capacidade de colaborar efetivamente em equipe e trazer ideias criativas para o time;Disposição para atuar no front-end, quando necessário.Seria incrível se você também tivesse experiência em:DevOps: Ferramentas de CI/CD (Jenkins, Docker, Kubernetes);Microsserviços: Arquitetura e comunicação entre microsserviços (REST, gRPC);Cloud: Experiência com AWS, Azure ou GCP;Segurança de Aplicações: Conhecimento em práticas de segurança (OAuth, JWT);Mensageria e Filas: RabbitMQ, Kafka ou similares;Testes Automatizados: Experiência com JUnit, Mockito e testes de integração;Front-End: Experiência com Vue ou React.Por que se juntar a nós?Você fará parte de um time altamente colaborativo, onde terá a oportunidade de desenvolver soluções que fazem a diferença na vida das pessoas. Se está buscando um ambiente de crescimento e inovação, estamos animados para te conhecer!Informações AdicionaisFlash Multibenefícios Personalizados;Auxílio Saúde e Auxílio Odontológico;Telemedicina;Descanso Remunerado;Day off no dia do aniversário;Academia X - Programa de capacitação e treinamentos;Gympass;Profile e Mapeamento comportamental;Projeto Qualidade de Vida;Aulas de Inglês;Autonomia e Horário Flexível;
+Job Description
+
+
+
+
+
+
+
+PJ
+e Remoto
+
+
+
+
+
+Seu dia a dia
+
+
+
+
+
+
+
+
+
+
+
+
+Requisitos e Habilidades
+
+
+Domínio de Java:
+
+
+
+Spring Framework:
+
+
+
+Bancos de Dados:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seria incrível se você também tivesse experiência em:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Por que se juntar a nós?
+
+
+
+
+
+Informações Adicionais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,96 @@
+link-https://www.linkedin.com/jobs/view/4065564497/?eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=Fu9hvO9CgxqM8M%2FWpYIdCQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Typescript Frontend Engineer
+Sobre a vaga
+Job DescriptionThe RoleAs a Front End Typecript Engineer, you’ll report to and work closely with the Head of Engineering, who is responsible for creating and driving the technical strategy for the user experience. You will help champion the technology selection and best practices in our app and web development. You will help lead the way in bringing technical excellence and innovation to our codebase. You will spend the vast majority of your time building our product. You must love to code, and want to spend most of your time doing so.Duties and responsibilitiesWork cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build world-class products and features that our users will love.Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.Reviewing pull requests for code reviewsContribute to codeExecute on the product road mapAchieve and maintain world-class product velocity.Timely and consistent communication with company leadership, engendering trust and confidence in code quality and product velocity.RequirementsIdeally, the right candidate has demonstrated organizational-wide impacting experience building consumer applications with Angular.Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.You love to build new things. You care about innovation.Strong communication skills. You collaborate effectively with teams in a fully remote environment and can discuss complex topics with technical and non-technical colleagues and leadership.Highly proficient with Typescript and well versed in front end frameworks, patterning, and solutions.Strong problem-solving and troubleshooting skills.Self-motivated and a desire to work in a high velocity, async environment.Tech StackOur tech stack is mostly TypeScript, allowing engineers to implement end-to-end functionality. On the frontend we use Angular/Ionic and on the backend Firebase.Experience with Typescript and Angular is mandatory, while Ionic is a nice to have.LocationRemote
+Job Description
+Job Description
+Job Description
+
+
+
+The Role
+The Role
+The Role
+
+
+
+As a Front End Typecript Engineer, you’ll report to and work closely with the Head of Engineering, who is responsible for creating and driving the technical strategy for the user experience. You will help champion the technology selection and best practices in our app and web development. You will help lead the way in bringing technical excellence and innovation to our codebase. You will spend the vast majority of your time building our product. You must love to code, and want to spend most of your time doing so.
+As a Front End Typecript Engineer, you’ll report to and work closely with the Head of Engineering, who is responsible for creating and driving the technical strategy for the user experience. You will help champion the technology selection and best practices in our app and web development. You will help lead the way in bringing technical excellence and innovation to our codebase. You will spend the vast majority of your time building our product. You must love to code, and want to spend most of your time doing so.
+
+
+
+Duties and responsibilities
+Duties and responsibilities
+Duties and responsibilities
+
+
+
+Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build world-class products and features that our users will love.Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.Reviewing pull requests for code reviewsContribute to codeExecute on the product road mapAchieve and maintain world-class product velocity.Timely and consistent communication with company leadership, engendering trust and confidence in code quality and product velocity.
+Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build world-class products and features that our users will love.
+Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build world-class products and features that our users will love.
+Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.
+Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks.
+Reviewing pull requests for code reviews
+Reviewing pull requests for code reviews
+Contribute to code
+Contribute to code
+Execute on the product road map
+Execute on the product road map
+Achieve and maintain world-class product velocity.
+Achieve and maintain world-class product velocity.
+Timely and consistent communication with company leadership, engendering trust and confidence in code quality and product velocity.
+Timely and consistent communication with company leadership, engendering trust and confidence in code quality and product velocity.
+
+
+
+Requirements
+Requirements
+Requirements
+
+
+
+Ideally, the right candidate has demonstrated organizational-wide impacting experience building consumer applications with Angular.Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.You love to build new things. You care about innovation.Strong communication skills. You collaborate effectively with teams in a fully remote environment and can discuss complex topics with technical and non-technical colleagues and leadership.Highly proficient with Typescript and well versed in front end frameworks, patterning, and solutions.Strong problem-solving and troubleshooting skills.Self-motivated and a desire to work in a high velocity, async environment.
+Ideally, the right candidate has demonstrated organizational-wide impacting experience building consumer applications with Angular.
+Ideally, the right candidate has demonstrated organizational-wide impacting experience building consumer applications with Angular.
+Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.
+Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.
+Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.
+Entrepreneurial spirit. You are self-directed, driven, innovative, and biased towards action in fast-paced environments.
+You love to build new things. You care about innovation.
+You love to build new things. You care about innovation.
+Strong communication skills. You collaborate effectively with teams in a fully remote environment and can discuss complex topics with technical and non-technical colleagues and leadership.
+Strong communication skills. You collaborate effectively with teams in a fully remote environment and can discuss complex topics with technical and non-technical colleagues and leadership.
+Highly proficient with Typescript and well versed in front end frameworks, patterning, and solutions.
+Highly proficient with Typescript and well versed in front end frameworks, patterning, and solutions.
+Strong problem-solving and troubleshooting skills.
+Strong problem-solving and troubleshooting skills.
+Self-motivated and a desire to work in a high velocity, async environment.
+Self-motivated and a desire to work in a high velocity, async environment.
+
+
+
+Tech Stack
+Tech Stack
+Tech Stack
+
+
+
+Our tech stack is mostly TypeScript, allowing engineers to implement end-to-end functionality. On the frontend we use Angular/Ionic and on the backend Firebase.
+Our tech stack is mostly TypeScript, allowing engineers to implement end-to-end functionality. On the frontend we use Angular/Ionic and on the backend Firebase.
+
+
+
+Experience with Typescript and Angular is mandatory, while Ionic is a nice to have.
+Experience with Typescript and Angular is mandatory, while Ionic is a nice to have.
+
+
+
+Location
+Location
+Location
+
+
+
+Remote
+Remote

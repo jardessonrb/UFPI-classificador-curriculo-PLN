@@ -1,0 +1,124 @@
+link-https://www.linkedin.com/jobs/view/4033714202/?eBP=CwEAAAGS7lFacvv_59_rJM85DUxrf7GUXvCqXkn7DWqbfXvbFkPRw97JmP7a--uutuTQ55f1m4xBjcIidGUWor1zq87Cvqlcj42Swerltweu5Adg0AF3KjxFVsxLWLgypRylzZNHyg1VUZrphqc0rhRaGwQyxZum74Mkbw7ae9w116CghZBM727IFk4K4RcFUg_KAc16dtgSmkIBHgMhtmZ3V15W1A57Ih3xXHN4crVcAG-0w05qCiAisovhJHD6YATuDTzohpj7ix3xsbQrKGb0TfP268BckKjrp-7FHbf4FKqt2paM7A9R5zim0igLp1qo_iDUEyPh_Ck19dpsLn6QQZy88ZXwiYFIku8MsT7mCny00y3D_ORKp2tjDAjBh1ubDD9_YY6cekElzePyEmrHLlnb94gf9pnr3LpKHpyPM5ICeMtnB06VOI6mDmYECKKgWMhV5o62hbbSRdgbnTLmnxLB-5v4iT8P7RHKC7me4LNKLTKLO8JI0RbrGzEbaFE7YECgmjbdbH1d&refId=ocO7in370N5JAi0cnRi6Tg%3D%3D&trackingId=Gojyp7SNT6nhg66GkUHnTA%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor de Software Backend Sênior
+Sobre a vaga
+Company DescriptionSomos uma empresa global, líder em serviços de informação, conhecida no restante do mundo como Experian. Nos grandes momentos da vida, como a compra de um carro, a ida de um filho para a faculdade ou mesmo a abertura e expansão de um negócio, estamos presentes para empoderar consumidores e clientes a administrarem seus dados com confiança.Contamos com mais de 20.000 pessoas operando em mais de 44 países; e, ao investirmos nelas, em tecnologia e em inovação, podemos ajudar negócios a se transformar e comunidades a prosperar, permitindo que mais pessoas se sintam incluídas nas oportunidades disponíveis. É dessa forma que todos os dias entregamos o nosso propósito de criar um futuro melhor.Venha descobrir um mundo inesperado com a gente.Job DescriptionEstamos em busca de um Desenvolvedor Backend Sênior em Java qualificado para se juntar à nossa equipe.O candidato ideal terá experiência sólida em desenvolvimento de sistemas complexos utilizando Java e será responsável pelo desenvolvimento e manutenção de nossas aplicações backend.Além disso, é fundamental ter conhecimento em AWS para gerenciar e otimizar nossos recursos na nuvem.ResponsabilidadesDesenvolver e manter aplicações backend escaláveis e robustas utilizando Java.Projetar, implementar e otimizar APIs e serviços.Trabalhar com bancos de dados relacionais e não relacionais.Gerenciar e otimizar recursos na AWS, incluindo EC2, S3, RDS, entre outros.Colaborar com equipes multifuncionais para definir requisitos e garantir a entrega de soluções de alta qualidade.Realizar revisões de código e garantir as melhores práticas de desenvolvimento.Identificar e resolver problemas de desempenho e escalabilidade.Manter-se atualizado com as últimas tendências e tecnologias em desenvolvimento backend e AWS.QualificationsRequisitos:Experiência comprovada como desenvolvedor backend sênior com Java.Profundo conhecimento das últimas versões do Java.Experiência com AWS e serviços relacionados (EC2, S3, DocumentDB, SQS, SNS, etc.).Conhecimento em design e arquitetura de sistemas distribuídos e escaláveis.Experiência com bancos de dados relacionais (SQL) e não relacionais (NoSQL).Habilidade em escrever código limpo, eficiente e bem documentado.Experiência com práticas de DevOps e integração contínua (CI/CD).Boa comunicação e habilidades de trabalho em equipe.DiferenciaisExperiência com metodologias ágeis (Scrum, Kanban).Conhecimento em outras linguagens de programação e tecnologias.Additional InformationO que te oferecemos como diferencial!Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!Experian Careers - Creating a better tomorrow togetherFind out what its like to work for Experian by clicking here
+Company Description
+
+
+
+
+
+
+
+
+Job Description
+
+
+
+
+
+
+
+
+Responsabilidades
+
+
+Desenvolver e manter aplicações backend escaláveis e robustas utilizando Java.Projetar, implementar e otimizar APIs e serviços.Trabalhar com bancos de dados relacionais e não relacionais.Gerenciar e otimizar recursos na AWS, incluindo EC2, S3, RDS, entre outros.Colaborar com equipes multifuncionais para definir requisitos e garantir a entrega de soluções de alta qualidade.Realizar revisões de código e garantir as melhores práticas de desenvolvimento.Identificar e resolver problemas de desempenho e escalabilidade.Manter-se atualizado com as últimas tendências e tecnologias em desenvolvimento backend e AWS.
+Desenvolver e manter aplicações backend escaláveis e robustas utilizando Java.
+Desenvolver e manter aplicações backend escaláveis e robustas utilizando Java.
+
+Projetar, implementar e otimizar APIs e serviços.
+Projetar, implementar e otimizar APIs e serviços.
+
+Trabalhar com bancos de dados relacionais e não relacionais.
+Trabalhar com bancos de dados relacionais e não relacionais.
+
+Gerenciar e otimizar recursos na AWS, incluindo EC2, S3, RDS, entre outros.
+Gerenciar e otimizar recursos na AWS, incluindo EC2, S3, RDS, entre outros.
+
+Colaborar com equipes multifuncionais para definir requisitos e garantir a entrega de soluções de alta qualidade.
+Colaborar com equipes multifuncionais para definir requisitos e garantir a entrega de soluções de alta qualidade.
+
+Realizar revisões de código e garantir as melhores práticas de desenvolvimento.
+Realizar revisões de código e garantir as melhores práticas de desenvolvimento.
+
+Identificar e resolver problemas de desempenho e escalabilidade.
+Identificar e resolver problemas de desempenho e escalabilidade.
+
+Manter-se atualizado com as últimas tendências e tecnologias em desenvolvimento backend e AWS.
+Manter-se atualizado com as últimas tendências e tecnologias em desenvolvimento backend e AWS.
+
+
+
+Qualifications
+
+
+Requisitos:
+
+
+Experiência comprovada como desenvolvedor backend sênior com Java.Profundo conhecimento das últimas versões do Java.Experiência com AWS e serviços relacionados (EC2, S3, DocumentDB, SQS, SNS, etc.).Conhecimento em design e arquitetura de sistemas distribuídos e escaláveis.Experiência com bancos de dados relacionais (SQL) e não relacionais (NoSQL).Habilidade em escrever código limpo, eficiente e bem documentado.Experiência com práticas de DevOps e integração contínua (CI/CD).Boa comunicação e habilidades de trabalho em equipe.
+Experiência comprovada como desenvolvedor backend sênior com Java.
+Experiência comprovada como desenvolvedor backend sênior com Java.
+
+Profundo conhecimento das últimas versões do Java.
+Profundo conhecimento das últimas versões do Java.
+
+Experiência com AWS e serviços relacionados (EC2, S3, DocumentDB, SQS, SNS, etc.).
+Experiência com AWS e serviços relacionados (EC2, S3, DocumentDB, SQS, SNS, etc.).
+
+Conhecimento em design e arquitetura de sistemas distribuídos e escaláveis.
+Conhecimento em design e arquitetura de sistemas distribuídos e escaláveis.
+
+Experiência com bancos de dados relacionais (SQL) e não relacionais (NoSQL).
+Experiência com bancos de dados relacionais (SQL) e não relacionais (NoSQL).
+
+Habilidade em escrever código limpo, eficiente e bem documentado.
+Habilidade em escrever código limpo, eficiente e bem documentado.
+
+Experiência com práticas de DevOps e integração contínua (CI/CD).
+Experiência com práticas de DevOps e integração contínua (CI/CD).
+
+Boa comunicação e habilidades de trabalho em equipe.
+Boa comunicação e habilidades de trabalho em equipe.
+
+
+
+Diferenciais
+
+
+Experiência com metodologias ágeis (Scrum, Kanban).Conhecimento em outras linguagens de programação e tecnologias.
+Experiência com metodologias ágeis (Scrum, Kanban).
+Experiência com metodologias ágeis (Scrum, Kanban).
+
+Conhecimento em outras linguagens de programação e tecnologias.
+Conhecimento em outras linguagens de programação e tecnologias.
+
+
+
+Additional Information
+
+
+O que te oferecemos como diferencial!
+
+
+Ambiente em plena transformação;Atuação global.Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Ambiente em plena transformação;
+Ambiente em plena transformação;
+
+Atuação global.
+Atuação global.
+
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Ampla exposição a diferentes áreas da empresa, com desafios de negócios assim como de TI;
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+Temos muito cuidado com o bem-estar dos nossos colaboradores! Em nossos escritórios, mantemos uma estrutura que conta com diversos profissionais e serviços ligados à saúde como massagem, RPG, psicólogo, sala de relaxamento e muito mais! Além disso, temos alguns benefícios diferenciais como licença maternidade e paternidade estendida, horário de trabalho flexível, programa de participação nos lucros e resultados e o Share Saving - programa de ações para todos os funcionários da Experian!
+
+
+Não atendeu todas as competências descritas na vaga? Estudos mostram que mulheres, pessoas não brancas e PcD deixam de se candidatar em vagas que não atendam 100% dos requerimentos. Aqui na Serasa Experian nós somos dedicados a criar um ambiente diverso e inclusivo. Se você gostou dessa vaga mas sua experiência não se encaixa totalmente, não se preocupe, nós te encorajamos a se aplicar de qualquer forma para que seu perfil seja avaliado!
+
+
+
+
+
+

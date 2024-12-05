@@ -1,0 +1,102 @@
+link-https://www.linkedin.com/jobs/view/4062988682/?eBP=CwEAAAGS7kxbB51FnJJAJZzcNdkhTx-ODQadrEzCt5pmOplRzYPL_wSoJGM7omSS-ugiGnEVj4wabdz-CKEj1j1zibzRPce_iImQxpwNB1YxUvy0xqHCdAanQEH4hF7cZB5iix1GMnh-4Ae2Ffw7XfL9mYgDDTpb_ggBArtIFq7JUXSI2KFhpYwWZ4yCVJl8Qa_s-M3Hn2fEo35dRnAUg0LQsnmCtDDRZy4YgrPlbNxV74QBjJ9IveHj1Je_RQfUgKjQ4a6Rk-Scsbx-sZ5cQZNIIg4m-4fXFUhxZM-G63mRbvj7L9nxGGnDJ6A2BZgCUiicb8GsHtE2O4whpbunhIZqCgBu-cb6HL2tsWoj9cA-NvOVupj8uGebWEDB501SWAk6qrAFQqO7cPDgxTDs_qo9Y8JEtA4ZXnfXlA39ClL7kbygkRflKz8G7_Ex7x8qu0QlnRik457PHmfN24EcAS3OQrGKRFfAMvycpIjkWjsnYszFqw5FI9QWKcP6SmMkjwmM1XRlCsgFnVUyHuw&refId=8xjNfTTdcbqfoUH1mefKMQ%3D%3D&trackingId=iEzXTZxldsyYqthXZq4Ajw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor de front-end
+Sobre a vaga
+Principais responsabilidades:• Participar ativamente do desenvolvimento dos produtos web e mobile da empresa, contribuindo com soluções técnicas que atendam aos requisitos de negócio e escalabilidade.• Desenvolvimento focado emfront-end, com pouca atuação no back-end na fase inicial do projeto.• Participar dareconstrução do sistemanovo, garantindo a preservação das regras de negócio e a essência do sistema legado.• Trabalhar em conjunto com os líderes técnicos e product managers para alinhar as entregas aos objetivos estratégicos do produto.Requisitos:• Bons conhecimentos emJavaScript e TypeScripte experiência com desenvolvimento web.• Conhecimento emMongoDBpara manipulação de dados em ambientes de banco de dados NoSQL.• Experiência comReact.jspara desenvolvimento de interfaces eNode.jsno backend.• Experiência prática com integrações emAPIs RESTful.• Experiência comReact Nativepara desenvolvimento de aplicações mobile.• Domínio em técnicas paraaumento de performance e escalabilidadede aplicações front-end.• Boa capacidade analítica paraengenharia reversae aplicação das descobertas no novo sistema.• Inglês básico para leitura e escrita de documentações.Diferenciais:• Familiaridade comCloud AWSpara deployment e gestão de aplicações.• Ensino superior em cursos de tecnologia.Perfil comportamental:Dinâmico e antenado nas novas tecnologiasLiderança e resolução de conflitosHabilidade de influenciar decisões e engajar stakeholdersGerenciamento eficaz de projetos com prazos curtosCriação de soluções não complexas, inovadoras que irão impactar positivamente na agilidade das informações para os clientes.Escuta ativaEscolaridade mínima: Ensino Superior - Concluído
+Principais responsabilidades:
+Principais responsabilidades:
+Principais responsabilidades:
+• Participar ativamente do desenvolvimento dos produtos web e mobile da empresa, contribuindo com soluções técnicas que atendam aos requisitos de negócio e escalabilidade.
+• Participar ativamente do desenvolvimento dos produtos web e mobile da empresa, contribuindo com soluções técnicas que atendam aos requisitos de negócio e escalabilidade.
+• Desenvolvimento focado emfront-end, com pouca atuação no back-end na fase inicial do projeto.
+• Desenvolvimento focado emfront-end, com pouca atuação no back-end na fase inicial do projeto.
+
+front-end
+• Participar dareconstrução do sistemanovo, garantindo a preservação das regras de negócio e a essência do sistema legado.
+• Participar dareconstrução do sistemanovo, garantindo a preservação das regras de negócio e a essência do sistema legado.
+
+reconstrução do sistema
+
+• Trabalhar em conjunto com os líderes técnicos e product managers para alinhar as entregas aos objetivos estratégicos do produto.
+• Trabalhar em conjunto com os líderes técnicos e product managers para alinhar as entregas aos objetivos estratégicos do produto.
+
+
+
+Requisitos:
+Requisitos:
+Requisitos:
+• Bons conhecimentos emJavaScript e TypeScripte experiência com desenvolvimento web.
+• Bons conhecimentos emJavaScript e TypeScripte experiência com desenvolvimento web.
+
+JavaScript e TypeScript
+
+• Conhecimento emMongoDBpara manipulação de dados em ambientes de banco de dados NoSQL.
+• Conhecimento emMongoDBpara manipulação de dados em ambientes de banco de dados NoSQL.
+
+MongoDB
+
+• Experiência comReact.jspara desenvolvimento de interfaces eNode.jsno backend.
+• Experiência comReact.jspara desenvolvimento de interfaces eNode.jsno backend.
+
+React.js
+
+
+Node.js
+
+• Experiência prática com integrações emAPIs RESTful.
+• Experiência prática com integrações emAPIs RESTful.
+
+APIs RESTful
+• Experiência comReact Nativepara desenvolvimento de aplicações mobile.
+• Experiência comReact Nativepara desenvolvimento de aplicações mobile.
+
+React Native
+
+• Domínio em técnicas paraaumento de performance e escalabilidadede aplicações front-end.
+• Domínio em técnicas paraaumento de performance e escalabilidadede aplicações front-end.
+
+aumento de performance e escalabilidade
+
+• Boa capacidade analítica paraengenharia reversae aplicação das descobertas no novo sistema.
+• Boa capacidade analítica paraengenharia reversae aplicação das descobertas no novo sistema.
+
+engenharia reversa
+
+• Inglês básico para leitura e escrita de documentações.
+• Inglês básico para leitura e escrita de documentações.
+Diferenciais:
+Diferenciais:
+Diferenciais:
+• Familiaridade comCloud AWSpara deployment e gestão de aplicações.
+• Familiaridade comCloud AWSpara deployment e gestão de aplicações.
+
+Cloud AWS
+
+• Ensino superior em cursos de tecnologia.
+• Ensino superior em cursos de tecnologia.
+
+
+
+Perfil comportamental:
+Perfil comportamental:
+Perfil comportamental:
+Dinâmico e antenado nas novas tecnologias
+Dinâmico e antenado nas novas tecnologias
+Liderança e resolução de conflitos
+Liderança e resolução de conflitos
+Habilidade de influenciar decisões e engajar stakeholders
+Habilidade de influenciar decisões e engajar stakeholders
+Gerenciamento eficaz de projetos com prazos curtos
+Gerenciamento eficaz de projetos com prazos curtos
+Criação de soluções não complexas, inovadoras que irão impactar positivamente na agilidade das informações para os clientes.
+Criação de soluções não complexas, inovadoras que irão impactar positivamente na agilidade das informações para os clientes.
+Escuta ativa
+Escuta ativa
+
+
+
+
+
+
+Escolaridade mínima: Ensino Superior - Concluído
+Escolaridade mínima: Ensino Superior - Concluído

@@ -1,0 +1,6 @@
+link-https://www.linkedin.com/jobs/view/4052948334/?eBP=CwEAAAGS7k29TksqMSpIOcSLtYwE4Bg90cTWxc9W_vZxHXewqCJ_j9RsF8G7yUTNi_Dhn0BgTn-gLWlJx_YlSoK7gjALNwMpV4DQlVEnO5U3PY3ypU70sp5Ix37TZqWvy-xRhzK1zIuz3-AdNAY8aUT7t8J_ewq4zDBV-NLLuknWDOdibqmSTmHq09ia5lxqsvxl4BOcNx534EWVXaW7oI143dVMeaBieqFgbVjOk3sd4rM6KQJjDk7b29NC3rnRS-dV4kNEvC9ATiq-63HixelO_2rIXeMcEkudFiHgA7g-BW7ao5gnCDsZybKEgqUb6j39GtJ6vPoj1bhC7eermjuUnsdgwKURjMNBNv2HS9hjy4MKMi0MDiUx3CsQdgIRYpKgExBdCnuo3NI9hfGidOKXJey4bAMPvxCSVi-e8cR3zNBoDJBTQLt6PMguPvvFCZkvRdtowYznwf6N06GcBQh01-lnCEVhSX3aFxQgNM1TZl_nxp4Blp3_eypGCdkj9SbY&refId=5r2zO%2FM7iJ4CYXFajRSoBw%3D%3D&trackingId=VwMUe44BBpr9WlOdJsQLnw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Frontend
+Sobre a vaga
+Esta vaga foi obtida de um site de empregos.Saiba mais
+Buscamos um senior front-End engineer com experiência em ionic, angular e typescript para fazer parte do nosso ambiente e inovador. Nesta posição, você será responsável pelo desenvolvimento, manutenção e suporte do front-End das aplicações web, utilizando tecnologias como html, css, javascript, ionic, angular e typescript. Além disso, você trabalhará em conjunto com os desenvolvedores back-End para desenvolver e manter a integração com a aplicação.

@@ -1,0 +1,148 @@
+link-https://www.linkedin.com/jobs/view/4051811761/?eBP=CwEAAAGS7kyMs2XRU3hUdDSAZZNs4Rzd9azozn2p0urTTbfA2EU_dkDDq_U_wHGJs4iGOPFTMAtwWUh8XgLTJkrdZwNkQ2qIrxrUFgtDlAypzl1tRd3NOOlmPzhQ65AxlGbpyl2YvdsQIoVm4ixeti8AZvuQAhl4G1RC7yz4GQR3bXpoZE2ZOlXCU7D5TllTgnlu_BhwQ7SeuMt222QVk83HOKlatsXNmRqkeYKVUTKZwlPYc36P0wGxZCY_AgvxOljuHFs9hXutCCxZnXTfTSFRk1oITKCDlCa-C0TSsp5IyMuGWhS0HkSyDLc6g9C4JaAVav4lyrn2yTIR8jiQxJtUxwF4YKi1KmX93DktSS7fn4XclmFd4cZG5WIMS_gdHBIhTm7Mqlz34OmGv6DVHUcikINSDnOcUGSxkg66bAOqs3WqWG2jl6fKppxisF4BcCh-3Gggf8QLkNHvQsT9YZGbXdD1vPpXk-3jlA5nuhMxOIhwuMFn5KicdPs6awsD8A&refId=rurZIBIMBTASSFbiOg8ffQ%3D%3D&trackingId=Ujpzf45xzx910uTbeVhdCw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor(a) Front-end Pleno
+Sobre a vaga
+Neste papel, você será essencial na construção e aprimoramento das interfaces de usuário dos nossos produtos digitais, garantindo uma experiência fluida e agradável para os usuários finais.Responsabilidades e atribuiçõesParticipar em todas as fases do desenvolvimento de software, desde a concepção até a implementação;Colaborar com Designers e Pessoas Desenvolvedoras Back-end para criar uma experiência de usuário coesa e integrada;Escrever código limpo, eficiente e de alta qualidade;Implementar designs com fidelidade e qualidade, garantindo a responsividade, eficiência e acessibilidade das interfaces;Testar, depurar e refinar as interfaces para garantir a compatibilidade e desempenho em diferentes dispositivos e navegadores;Participar ativamente em revisões de código e na cultura de feedback construtivo da equipe;Manter-se atualizado com as melhores práticas de desenvolvimento Front-end e tecnologias emergentes.Requisitos e qualificaçõesRequisitosEssenciais:Graduação completa ou em andamento em Ciência da Computação, Engenharia de Software, área relacionada ou experiência equivalente em desenvolvimento Front-end;Conhecimentos sólidos em desenvolvimento Front-end com experiência comprovada em React;Experiência com pré-processadores de CSS (SASS, LESS) e build tools (Webpack, Gulp);Capacidade de implementar designs complexos e responsivos;Experiência com testes de Front-end e ferramentas de otimização de desempenho;Conhecimento em CI/CD.RequisitosDesejáveis:Será um diferencial se você tiver:Experiência em ambientes que implementam metodologias ágeis, como Scrum e Kanban;Experiência com outras bibliotecas e frameworks JavaScript, como Vue.js ou Angular;Familiaridade com princípios de design de interface e experiência do usuário;Conhecimento em SEO e melhores práticas de acessibilidade web;Experiência no consumo de APIs Back-end;Experiência com ferramentas de versionamento, como Git;Participação em projetos de larga escala e/ou de alta disponibilidade;Expertise em segurança de software e práticas de codificação segura;Experiência com desenvolvimento orientado a testes (TDD) e testes automatizados;Habilidade em otimizar sistemas para melhor desempenho e escalabilidade;Experiência com desenvolvimento Back-end em linguagens como PHP, Ruby ou Python;Contribuições para projetos de código aberto ou portfólio de projetos pessoais;Fluência em leitura e escrita em inglês.Habilidades e Atitudesesperadas:Proatividade: Capacidade de identificar oportunidades de otimização de desempenho e implementar melhorias;Aprendizado contínuo: Disposição para se manter atualizado com as tendências de análise de dados e tecnologias relacionadas;Colaboração: Habilidade em trabalhar em equipe e coordenar esforços com equipes interdisciplinares;Comunicação: Habilidade de se expressar de forma clara e eficaz ao apresentar insights e recomendações;Resiliência: Capacidade de lidar com desafios e fracassos, mantendo uma atitude positiva e buscando soluções.Informações adicionaisNOSSO PROCESSO SELETIVOGeralmente levamos cerca de 31 dias (desde sua candidatura até a finalização do processo seletivo)Nossas etapas serão:Inscrição/Triagem e Avaliação de fit cultural;Bate-papo com o time de People;Bate-papo Técnico;Bate-papo com a liderança da área;Bate-papo com os Fundadores;Proposta Final.INFORMAÇÕES SOBRE A VAGA E BENEFÍCIOS📑 Modelo de contratação: Pessoa Jurídica;💻 Modelo Remoto;⏰ Flexibilidade de horário;🍃 Ambiente leve e descontraído;📖 Parcerias com instituições de ensino;💪 Gympass corporativo.
+
+
+Responsabilidades e atribuições
+
+
+Participar em todas as fases do desenvolvimento de software, desde a concepção até a implementação;Colaborar com Designers e Pessoas Desenvolvedoras Back-end para criar uma experiência de usuário coesa e integrada;Escrever código limpo, eficiente e de alta qualidade;Implementar designs com fidelidade e qualidade, garantindo a responsividade, eficiência e acessibilidade das interfaces;Testar, depurar e refinar as interfaces para garantir a compatibilidade e desempenho em diferentes dispositivos e navegadores;Participar ativamente em revisões de código e na cultura de feedback construtivo da equipe;Manter-se atualizado com as melhores práticas de desenvolvimento Front-end e tecnologias emergentes.
+Participar em todas as fases do desenvolvimento de software, desde a concepção até a implementação;
+Participar em todas as fases do desenvolvimento de software, desde a concepção até a implementação;
+Colaborar com Designers e Pessoas Desenvolvedoras Back-end para criar uma experiência de usuário coesa e integrada;
+Colaborar com Designers e Pessoas Desenvolvedoras Back-end para criar uma experiência de usuário coesa e integrada;
+Escrever código limpo, eficiente e de alta qualidade;
+Escrever código limpo, eficiente e de alta qualidade;
+Implementar designs com fidelidade e qualidade, garantindo a responsividade, eficiência e acessibilidade das interfaces;
+Implementar designs com fidelidade e qualidade, garantindo a responsividade, eficiência e acessibilidade das interfaces;
+Testar, depurar e refinar as interfaces para garantir a compatibilidade e desempenho em diferentes dispositivos e navegadores;
+Testar, depurar e refinar as interfaces para garantir a compatibilidade e desempenho em diferentes dispositivos e navegadores;
+Participar ativamente em revisões de código e na cultura de feedback construtivo da equipe;
+Participar ativamente em revisões de código e na cultura de feedback construtivo da equipe;
+Manter-se atualizado com as melhores práticas de desenvolvimento Front-end e tecnologias emergentes.
+Manter-se atualizado com as melhores práticas de desenvolvimento Front-end e tecnologias emergentes.
+
+
+
+Requisitos e qualificações
+
+
+
+Essenciais
+
+
+Graduação completa ou em andamento em Ciência da Computação, Engenharia de Software, área relacionada ou experiência equivalente em desenvolvimento Front-end;Conhecimentos sólidos em desenvolvimento Front-end com experiência comprovada em React;Experiência com pré-processadores de CSS (SASS, LESS) e build tools (Webpack, Gulp);Capacidade de implementar designs complexos e responsivos;Experiência com testes de Front-end e ferramentas de otimização de desempenho;Conhecimento em CI/CD.
+Graduação completa ou em andamento em Ciência da Computação, Engenharia de Software, área relacionada ou experiência equivalente em desenvolvimento Front-end;
+Graduação completa ou em andamento em Ciência da Computação, Engenharia de Software, área relacionada ou experiência equivalente em desenvolvimento Front-end;
+Conhecimentos sólidos em desenvolvimento Front-end com experiência comprovada em React;
+Conhecimentos sólidos em desenvolvimento Front-end com experiência comprovada em React;
+Experiência com pré-processadores de CSS (SASS, LESS) e build tools (Webpack, Gulp);
+Experiência com pré-processadores de CSS (SASS, LESS) e build tools (Webpack, Gulp);
+Capacidade de implementar designs complexos e responsivos;
+Capacidade de implementar designs complexos e responsivos;
+Experiência com testes de Front-end e ferramentas de otimização de desempenho;
+Experiência com testes de Front-end e ferramentas de otimização de desempenho;
+Conhecimento em CI/CD.
+Conhecimento em CI/CD.
+
+
+
+
+Desejáveis
+
+
+Será um diferencial se você tiver:
+
+
+Experiência em ambientes que implementam metodologias ágeis, como Scrum e Kanban;Experiência com outras bibliotecas e frameworks JavaScript, como Vue.js ou Angular;Familiaridade com princípios de design de interface e experiência do usuário;Conhecimento em SEO e melhores práticas de acessibilidade web;Experiência no consumo de APIs Back-end;Experiência com ferramentas de versionamento, como Git;Participação em projetos de larga escala e/ou de alta disponibilidade;Expertise em segurança de software e práticas de codificação segura;Experiência com desenvolvimento orientado a testes (TDD) e testes automatizados;Habilidade em otimizar sistemas para melhor desempenho e escalabilidade;Experiência com desenvolvimento Back-end em linguagens como PHP, Ruby ou Python;Contribuições para projetos de código aberto ou portfólio de projetos pessoais;Fluência em leitura e escrita em inglês.
+Experiência em ambientes que implementam metodologias ágeis, como Scrum e Kanban;
+Experiência em ambientes que implementam metodologias ágeis, como Scrum e Kanban;
+Experiência com outras bibliotecas e frameworks JavaScript, como Vue.js ou Angular;
+Experiência com outras bibliotecas e frameworks JavaScript, como Vue.js ou Angular;
+Familiaridade com princípios de design de interface e experiência do usuário;
+Familiaridade com princípios de design de interface e experiência do usuário;
+Conhecimento em SEO e melhores práticas de acessibilidade web;
+Conhecimento em SEO e melhores práticas de acessibilidade web;
+Experiência no consumo de APIs Back-end;
+Experiência no consumo de APIs Back-end;
+Experiência com ferramentas de versionamento, como Git;
+Experiência com ferramentas de versionamento, como Git;
+Participação em projetos de larga escala e/ou de alta disponibilidade;
+Participação em projetos de larga escala e/ou de alta disponibilidade;
+Expertise em segurança de software e práticas de codificação segura;
+Expertise em segurança de software e práticas de codificação segura;
+Experiência com desenvolvimento orientado a testes (TDD) e testes automatizados;
+Experiência com desenvolvimento orientado a testes (TDD) e testes automatizados;
+Habilidade em otimizar sistemas para melhor desempenho e escalabilidade;
+Habilidade em otimizar sistemas para melhor desempenho e escalabilidade;
+Experiência com desenvolvimento Back-end em linguagens como PHP, Ruby ou Python;
+Experiência com desenvolvimento Back-end em linguagens como PHP, Ruby ou Python;
+Contribuições para projetos de código aberto ou portfólio de projetos pessoais;
+Contribuições para projetos de código aberto ou portfólio de projetos pessoais;
+Fluência em leitura e escrita em inglês.
+Fluência em leitura e escrita em inglês.
+
+
+
+Habilidades e Atitudes
+
+
+
+Proatividade: Capacidade de identificar oportunidades de otimização de desempenho e implementar melhorias;Aprendizado contínuo: Disposição para se manter atualizado com as tendências de análise de dados e tecnologias relacionadas;Colaboração: Habilidade em trabalhar em equipe e coordenar esforços com equipes interdisciplinares;Comunicação: Habilidade de se expressar de forma clara e eficaz ao apresentar insights e recomendações;Resiliência: Capacidade de lidar com desafios e fracassos, mantendo uma atitude positiva e buscando soluções.
+Proatividade: Capacidade de identificar oportunidades de otimização de desempenho e implementar melhorias;
+Proatividade: Capacidade de identificar oportunidades de otimização de desempenho e implementar melhorias;
+Aprendizado contínuo: Disposição para se manter atualizado com as tendências de análise de dados e tecnologias relacionadas;
+Aprendizado contínuo: Disposição para se manter atualizado com as tendências de análise de dados e tecnologias relacionadas;
+Colaboração: Habilidade em trabalhar em equipe e coordenar esforços com equipes interdisciplinares;
+Colaboração: Habilidade em trabalhar em equipe e coordenar esforços com equipes interdisciplinares;
+Comunicação: Habilidade de se expressar de forma clara e eficaz ao apresentar insights e recomendações;
+Comunicação: Habilidade de se expressar de forma clara e eficaz ao apresentar insights e recomendações;
+Resiliência: Capacidade de lidar com desafios e fracassos, mantendo uma atitude positiva e buscando soluções.
+Resiliência: Capacidade de lidar com desafios e fracassos, mantendo uma atitude positiva e buscando soluções.
+
+
+
+Informações adicionais
+
+
+NOSSO PROCESSO SELETIVO
+
+
+
+
+
+
+Inscrição/Triagem e Avaliação de fit cultural;Bate-papo com o time de People;Bate-papo Técnico;Bate-papo com a liderança da área;Bate-papo com os Fundadores;Proposta Final.
+Inscrição/Triagem e Avaliação de fit cultural;
+Inscrição/Triagem e Avaliação de fit cultural;
+Bate-papo com o time de People;
+Bate-papo com o time de People;
+Bate-papo Técnico;
+Bate-papo Técnico;
+Bate-papo com a liderança da área;
+Bate-papo com a liderança da área;
+Bate-papo com os Fundadores;
+Bate-papo com os Fundadores;
+Proposta Final.
+Proposta Final.
+
+
+
+INFORMAÇÕES SOBRE A VAGA E BENEFÍCIOS
+
+
+📑 Modelo de contratação: Pessoa Jurídica;💻 Modelo Remoto;⏰ Flexibilidade de horário;🍃 Ambiente leve e descontraído;📖 Parcerias com instituições de ensino;💪 Gympass corporativo.
+📑 Modelo de contratação: Pessoa Jurídica;
+📑 Modelo de contratação: Pessoa Jurídica;
+💻 Modelo Remoto;
+💻 Modelo Remoto;
+⏰ Flexibilidade de horário;
+⏰ Flexibilidade de horário;
+🍃 Ambiente leve e descontraído;
+🍃 Ambiente leve e descontraído;
+📖 Parcerias com instituições de ensino;
+📖 Parcerias com instituições de ensino;
+💪 Gympass corporativo.
+💪 Gympass corporativo.

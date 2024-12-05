@@ -1,0 +1,106 @@
+link-https://www.linkedin.com/jobs/view/4057799785/?eBP=CwEAAAGS7k1YXCn26KdT9_uOd8HzB-y9PwamIEx9akPKM_AKPsWlE0CzX6WvqgbDnQOPhe0HBGqMvGnLrYY7-ZS42dydwrjjxdGrAGsk98Vf8-ssSR3p60uKpCsK0R-IuYkKPfBEEQqO3o-bsaeVIGJVuWUkgqBhP-G7XqITLwcDOlMqzFW-dDVZYZJ_YK_hAnhr7dW_-KRPA47vTObxFl-yvDel0meEtBdupl0CUS45MTlKwzO47x2LkPdp83DXOQSyF6ZjKELyDlUs4Vq3DR_nMp9sT_Rv_KncsgMEm8YopNKdd6P7oEI5p5LPwLp9Z3-UKEON-DDeBgL06eTKW19H-j5Xiqi1HM5NAwwDavGnSmlHk4XdIMzPtwnvAg55IqKeaHkZIjT5xFBCQcdI0o9gGMxnye2rpv2LffY7U2eNqC0PcrCusYs1yweqbAmy7eV-XaXPSbH1BmV0rC_CPmvSRd23a-iRB4vtEHQp29DvKht1GCjSUeEHIP-i4KGskaIf&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=eTkSrE%2F9Gzg7PJERsMo41g%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor FrontEnd Sênior/Pleno - 10104169
+Sobre a vaga
+O que procuramos?Definir as melhores práticas de desenvolvimento;Programar, codificar e testar sistemas na linguagem, transitando entre projetos de desenvolvimento Front-End e Back-End;Executar o desenvolvimento das funcionalidades complexas;Propor evoluções tecnológicas nos sistemas.Monitorar a execução das boas práticas de desenvolvimento de sistemas.Validar o nível de testes existentes nos projetos;Validar as novas funcionalidades das aplicações;Monitorar o desempenho e desempenho dos sistemas das aplicações;Propor evoluções tecnológicas nos sistemas;Antecipar-se a oportunidades e problemas, ágil com rapidez e eficácia, desenvolvendo soluções de forma preventiva;Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto;Executar a manutenção dos sistemas, fazendo possíveis alterações, atendendo às necessidades dos usuários;Desenvolver trabalhos de montagem, depuração e testes de programas, executando serviços de manutenção nos programas já desenvolvidos.RequisitosLinguagens de Programação: Angular; HTML, CSS, Bootstrap, NodeJS, TypeScript;Compreensão proficiente de ferramentas de versionamento de código, como Git;Compreensão no desenvolvimento de micro frontend;Compreensão no desenvolvimento com webcomponents;Experiência em desenvolvimento de BFF (Backend for Frontend);Experiência em desenvolvimento e integrações com API RESTFull;Entendimento de metodologias ágeis;Experiência com código limpo;Experiência nos principais Design Patterns e Arquitetura de Software.DiferenciaisLocalidade da posição:2 vezes na semana- SPPor que construir sua carreira na Meta?Oferecemos autonomia, metas claras e um ambiente dinâmico e desafiador, onde os profissionais têm oportunidade de interagir com diferentes tecnologias, participar de todos os tipos de projetos, trazer novas ideias e trabalhar de qualquer lugar do Brasil e (por que não?) do mundo. Além disso, somos uma das melhores empresas para se trabalhar no Brasil segundo o Great Place to Work e uma das 10 empresas que mais crescem no país há 3 anos consecutivos, segundo o Anuário Informática Hoje.Quais são nossos valores?Somos pessoas servindo pessoasPensamos e agimos como donosTemos gana por performanceCrescemos e aprendemos juntosBuscamos excelência e a simplicidadeTemos inovação e criatividade no nosso DNATodas as pessoas são bem-vindas independentemente de sua condição, deficiência, etnia, crença religiosa, orientação sexual, aparência, idade ou afins. Queremos que você cresça conosco em um ambiente acolhedor e repleto de oportunidades.Se identificou? Então, #VemSerMeta!
+O que procuramos?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requisitos
+
+
+Linguagens de Programação: Angular; HTML, CSS, Bootstrap, NodeJS, TypeScript;Compreensão proficiente de ferramentas de versionamento de código, como Git;Compreensão no desenvolvimento de micro frontend;Compreensão no desenvolvimento com webcomponents;Experiência em desenvolvimento de BFF (Backend for Frontend);Experiência em desenvolvimento e integrações com API RESTFull;Entendimento de metodologias ágeis;Experiência com código limpo;Experiência nos principais Design Patterns e Arquitetura de Software.
+Linguagens de Programação: Angular; HTML, CSS, Bootstrap, NodeJS, TypeScript;
+Linguagens de Programação: Angular; HTML, CSS, Bootstrap, NodeJS, TypeScript;
+
+Compreensão proficiente de ferramentas de versionamento de código, como Git;
+Compreensão proficiente de ferramentas de versionamento de código, como Git;
+
+Compreensão no desenvolvimento de micro frontend;
+Compreensão no desenvolvimento de micro frontend;
+
+Compreensão no desenvolvimento com webcomponents;
+Compreensão no desenvolvimento com webcomponents;
+
+Experiência em desenvolvimento de BFF (Backend for Frontend);
+Experiência em desenvolvimento de BFF (Backend for Frontend);
+
+Experiência em desenvolvimento e integrações com API RESTFull;
+Experiência em desenvolvimento e integrações com API RESTFull;
+
+Entendimento de metodologias ágeis;
+Entendimento de metodologias ágeis;
+
+Experiência com código limpo;
+Experiência com código limpo;
+
+Experiência nos principais Design Patterns e Arquitetura de Software.
+Experiência nos principais Design Patterns e Arquitetura de Software.
+
+
+
+Diferenciais
+
+
+Localidade da posição:
+
+
+
+
+Por que construir sua carreira na Meta?
+
+
+
+
+Quais são nossos valores?
+
+
+Somos pessoas servindo pessoasPensamos e agimos como donosTemos gana por performanceCrescemos e aprendemos juntosBuscamos excelência e a simplicidadeTemos inovação e criatividade no nosso DNA
+Somos pessoas servindo pessoas
+Somos pessoas servindo pessoas
+
+Pensamos e agimos como donos
+Pensamos e agimos como donos
+
+Temos gana por performance
+Temos gana por performance
+
+Crescemos e aprendemos juntos
+Crescemos e aprendemos juntos
+
+Buscamos excelência e a simplicidade
+Buscamos excelência e a simplicidade
+
+Temos inovação e criatividade no nosso DNA
+Temos inovação e criatividade no nosso DNA
+
+
+
+
+

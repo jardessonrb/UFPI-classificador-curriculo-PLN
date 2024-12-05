@@ -1,0 +1,120 @@
+link-https://www.linkedin.com/jobs/view/3941586726/?eBP=CwEAAAGS7kcA99g9Y2uZqcGqQrKK0aEKhX7bTqeUB8w9WnIw_wdQLoEG_FD5fwdGjjJG4kc-Sxj9JJZebkN9esciEsLIYxAKgtvve_sNJCSXrejNyIlgxyMIBU4DCxx6le_n1b3YDn-yfCPC78lnFgLR3mlt0_tGr9-6-FQJR7IekSOrhP88mTgnnFfHpBAsTljv2Ge4ambx6JO1zbY7Pm0O4MKvr5WLDc6vjzQXAwclq6jfbYmSpOFGNN77Xz02pK97FIp9OlE7NO_DaLU5u1Wrae2oA2iyfGpY4g2cLPd7bDOf0mhQe6u8mmc2L7UzJ4qC9ULuWDjYRzSGvBUcAGsC8qX-8C3VJEX9_ip-IFye8q-CaCSx0RnXFRKRuWtAXlaT4Hqn4iVslmspnxijReMbw3uv0e9uSfbNwH5ZYtPiOZmMzZ5nS8iyjJnGKRql1oDnnHPkmZua7a-QcZ166JGWCCBxNy85tp74_yEqm5AGcbaxMkX7sA2xbw_U0MI_uRtkty7l6YmumXJa&refId=eQnApuPERD5zpy03fDxE3A%3D%3D&trackingId=%2B6bO%2BpP%2B71s63WM5wyXx7g%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance Manager
+Sobre a vaga
+TheQA Managerleads a team of Quality Engineers and SEiTs responsible for testing multiple Accruent products and is a champion of Quality. You know good when you see it and know how to motivate teams to achieve greatness. You work tirelessly to remove roadblocks to success, embrace a culture of continuous improvement and are always willing to teach others.How You'll Make a DifferenceBe a tireless champion of software quality. This requires proactively engaging stakeholders to identifying quality gaps, develop solutions, and deploy them across the teams.Partner with stakeholders to monitor project success so Accruent delivers software updates required timelines and according to organizational quality standards.Provide leadership for a team of Quality Engineers to grow and build them into an exceptional team that delivers exceptional value for Accruent.Manage to a set of KPIs used to measure the success of the teams. When teams deviate from them, utilize internal processes to identify root causes and develop corrective actions.Embrace an automation first mentality and identify and develop new ways to ensure this happens with optimal productivity and effectiveness.Cultivate a robust set of team processes and standards to promote smooth delivery of QA activities and an optimized test approach for features and stories.You'll stand out if you haveAdvanced interpersonal, verbal and written skills in English.Bachelor’s Degree in Computer Science, STEM-related or Business-Related degree.Have experience in the software development industry.Have experience in Quality Assurance and the Agile software development methodology.Experience leading a team of Quality Assurance engineers.Successful experience developing and deploying best practices in software quality assurance.Experience developing basic business cases to secure approval of team priorities.Proven experience with the use of risk-based testing for regression testing.Ability to use metrics and data to holistically assess the state of quality for a product.Experience designing and deploying UI automation test suites.Proven experience with performance testing techniques.Self-reliant and motivated self-starter.Project and task oriented with a focus on details.Desired Skills/ExperienceExperience utilizing Robot Framework and Python for UI automation.Prior experience as a software engineer.Experience with the Scaled Agile Framework.Prior experience as a Scrum Master.Experience using Jira to manage Agile software development.Working knowledge of SaaS and DevOps concepts.Knowledge of basic networking principles and concepts.BenefitsCompetitive salary packageAnnual BonusMeal Vouchers - Ticket RefeiçãoLife InsuranceHealth and Dental Plan - extended to your partner and children without any discount.Mentorship and Leadership ProgramData Protection PolicyThe data entered in the selection process form is confidential and stored in a secure environment. We take appropriate technical and administrative measures to protect your data.Fortive Corporation OverviewFortive’s essential technology makes the world stronger, safer, and smarter. We accelerate transformation across a broad range of applications including environmental, health and safety compliance, industrial condition monitoring, next-generation product design, and healthcare safety solutions.We are a global industrial technology innovator with a startup spirit. Our forward-looking companies lead the way in software-powered workflow solutions, data-driven intelligence, AI-powered automation, and other disruptive technologies. We’re a force for progress, working alongside our customers and partners to solve challenges on a global scale, from workplace safety in the most demanding conditions to groundbreaking sustainability solutions.We are a diverse team 18,000 strong, united by a dynamic, inclusive culture and energized by limitless learning and growth. We use the proven Fortive Business System (FBS) to accelerate our positive impact.At Fortive, we believe in you. We believe in your potential—your ability to learn, grow, and make a difference.At Fortive, we believe in us. We believe in the power of people working together to solve problems no one could solve alone.Fortive: For you, for us, for growth.Personal development and becoming the best you is all about growth and exploring new skills and opportunities – both in and out of the office. At Accruent, we call this Grow Without Limits, and we’re proud to offer each of our employees the resources, coaching and support necessary to achieve Growth Without Limits in their personal and professional lives. Explore where the path takes you. About Accruent At Accruent (a subsidiary or affiliate of Fortive Corporation), we strive to be on the cutting edge of the software world, providing purpose-built intelligent solutions that raise customer expectations, shift paradigms and transform the way businesses operate and achieve success.We aim to provide the same transformational growth for our 1,000+ employees which includes a vibrant office culture in major cities like Austin, London, and Amsterdam – and 10,000 customers in more than 150 countries – we know you’ll gain new experiences along the way. In our continued effort to help our teams Grow Without Limits, we provide all employees with the resources, coaching and support they need to reach new heights and experience true professional and personal development – and we do this because we believe it will help us grow as a global company in return.Every person can bring something incredible to the table, and we can always achieve more together. So, if you are courageous, adaptable, collaborative and interested in becoming the best you, we encourage you to join us for the ride – even if you don’t believe you have the exact experience to fill a particular role.Explore the path. Join Accruent. We Are an Equal Opportunity Employer. Fortive Corporation and all Fortive Companies are proud to be equal opportunity employers. We value and encourage diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Fortive and all Fortive Companies are also committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for any part of the employment application process, please contact us at applyassistance@fortive.com.This position is also eligible for bonus as part of the total compensation package.
+QA Manager
+
+
+
+
+How You'll Make a Difference
+
+
+Be a tireless champion of software quality. This requires proactively engaging stakeholders to identifying quality gaps, develop solutions, and deploy them across the teams.Partner with stakeholders to monitor project success so Accruent delivers software updates required timelines and according to organizational quality standards.Provide leadership for a team of Quality Engineers to grow and build them into an exceptional team that delivers exceptional value for Accruent.Manage to a set of KPIs used to measure the success of the teams. When teams deviate from them, utilize internal processes to identify root causes and develop corrective actions.Embrace an automation first mentality and identify and develop new ways to ensure this happens with optimal productivity and effectiveness.Cultivate a robust set of team processes and standards to promote smooth delivery of QA activities and an optimized test approach for features and stories.
+Be a tireless champion of software quality. This requires proactively engaging stakeholders to identifying quality gaps, develop solutions, and deploy them across the teams.
+Be a tireless champion of software quality. This requires proactively engaging stakeholders to identifying quality gaps, develop solutions, and deploy them across the teams.
+Partner with stakeholders to monitor project success so Accruent delivers software updates required timelines and according to organizational quality standards.
+Partner with stakeholders to monitor project success so Accruent delivers software updates required timelines and according to organizational quality standards.
+Provide leadership for a team of Quality Engineers to grow and build them into an exceptional team that delivers exceptional value for Accruent.
+Provide leadership for a team of Quality Engineers to grow and build them into an exceptional team that delivers exceptional value for Accruent.
+Manage to a set of KPIs used to measure the success of the teams. When teams deviate from them, utilize internal processes to identify root causes and develop corrective actions.
+Manage to a set of KPIs used to measure the success of the teams. When teams deviate from them, utilize internal processes to identify root causes and develop corrective actions.
+Embrace an automation first mentality and identify and develop new ways to ensure this happens with optimal productivity and effectiveness.
+Embrace an automation first mentality and identify and develop new ways to ensure this happens with optimal productivity and effectiveness.
+Cultivate a robust set of team processes and standards to promote smooth delivery of QA activities and an optimized test approach for features and stories.
+Cultivate a robust set of team processes and standards to promote smooth delivery of QA activities and an optimized test approach for features and stories.
+
+
+You'll stand out if you have
+
+
+Advanced interpersonal, verbal and written skills in English.Bachelor’s Degree in Computer Science, STEM-related or Business-Related degree.Have experience in the software development industry.Have experience in Quality Assurance and the Agile software development methodology.Experience leading a team of Quality Assurance engineers.Successful experience developing and deploying best practices in software quality assurance.Experience developing basic business cases to secure approval of team priorities.Proven experience with the use of risk-based testing for regression testing.Ability to use metrics and data to holistically assess the state of quality for a product.Experience designing and deploying UI automation test suites.Proven experience with performance testing techniques.Self-reliant and motivated self-starter.Project and task oriented with a focus on details.
+Advanced interpersonal, verbal and written skills in English.
+Advanced interpersonal, verbal and written skills in English.
+Bachelor’s Degree in Computer Science, STEM-related or Business-Related degree.
+Bachelor’s Degree in Computer Science, STEM-related or Business-Related degree.
+Have experience in the software development industry.
+Have experience in the software development industry.
+Have experience in Quality Assurance and the Agile software development methodology.
+Have experience in Quality Assurance and the Agile software development methodology.
+Experience leading a team of Quality Assurance engineers.
+Experience leading a team of Quality Assurance engineers.
+Successful experience developing and deploying best practices in software quality assurance.
+Successful experience developing and deploying best practices in software quality assurance.
+Experience developing basic business cases to secure approval of team priorities.
+Experience developing basic business cases to secure approval of team priorities.
+Proven experience with the use of risk-based testing for regression testing.
+Proven experience with the use of risk-based testing for regression testing.
+Ability to use metrics and data to holistically assess the state of quality for a product.
+Ability to use metrics and data to holistically assess the state of quality for a product.
+Experience designing and deploying UI automation test suites.
+Experience designing and deploying UI automation test suites.
+Proven experience with performance testing techniques.
+Proven experience with performance testing techniques.
+Self-reliant and motivated self-starter.
+Self-reliant and motivated self-starter.
+Project and task oriented with a focus on details.
+Project and task oriented with a focus on details.
+
+
+Desired Skills/Experience
+
+
+Experience utilizing Robot Framework and Python for UI automation.Prior experience as a software engineer.Experience with the Scaled Agile Framework.Prior experience as a Scrum Master.Experience using Jira to manage Agile software development.Working knowledge of SaaS and DevOps concepts.Knowledge of basic networking principles and concepts.
+Experience utilizing Robot Framework and Python for UI automation.
+Experience utilizing Robot Framework and Python for UI automation.
+Prior experience as a software engineer.
+Prior experience as a software engineer.
+Experience with the Scaled Agile Framework.
+Experience with the Scaled Agile Framework.
+Prior experience as a Scrum Master.
+Prior experience as a Scrum Master.
+Experience using Jira to manage Agile software development.
+Experience using Jira to manage Agile software development.
+Working knowledge of SaaS and DevOps concepts.
+Working knowledge of SaaS and DevOps concepts.
+Knowledge of basic networking principles and concepts.
+Knowledge of basic networking principles and concepts.
+
+
+Benefits
+
+
+Competitive salary packageAnnual BonusMeal Vouchers - Ticket RefeiçãoLife InsuranceHealth and Dental Plan - extended to your partner and children without any discount.Mentorship and Leadership Program
+Competitive salary package
+Competitive salary package
+Annual Bonus
+Annual Bonus
+Meal Vouchers - Ticket Refeição
+Meal Vouchers - Ticket Refeição
+Life Insurance
+Life Insurance
+Health and Dental Plan - extended to your partner and children without any discount.
+Health and Dental Plan - extended to your partner and children without any discount.
+Mentorship and Leadership Program
+Mentorship and Leadership Program
+
+
+Data Protection Policy
+
+
+
+
+Fortive Corporation Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

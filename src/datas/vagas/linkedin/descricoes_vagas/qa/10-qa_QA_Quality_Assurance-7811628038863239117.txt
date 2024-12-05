@@ -1,0 +1,205 @@
+link-https://www.linkedin.com/jobs/view/4048953529/?eBP=CwEAAAGS7kdnx5vshOUg07nD61qdBTCW0wLlmsL49pXdv5g_kNphuugFmjRoeaYw6pdjIkn14bWEODdaMhmnJL1ZFT8RoClFjF5ziuNUZMvh9YFTJtggyY-QzePO8xAnxHx2sKFEFizgPEGaa_BC5fHQ8S94emh1hiSHK76Bif92f84Ak1xocUrBYkjs1n1VQToOcbF_ct07AqeI_Xnsk0-QK82Xj3R9XKniw_Vp8NhcpxE14MjUEncXSsq5pfRCLc2L_dq4sFwwClU-QvHTZ9EHmOTb6ExEZwwN7jih-ZwsBcXRiWyz41nAn0qojrvzS9KbKAjUHuzwKzk5su5z2TeRkbOp5aH43KuFBLXKOKNFxMuOHx6kWhFKKnbjudeq_BiiGXugJhBtE7yc1xcP91ZS3UP6FlVJS_q72sOWkt84EsFUEEY7aHhxe8oJ2kKzbs60CPSrSxcMi8mu8iIkg_RqnUzMWd9EoKgR7ttv_drNMHKbDWovyFudHledh2MXP_VRHCI&refId=eCZ4TSmLf1xAg4vlx7lWtA%3D%3D&trackingId=aYTgno7XMbFa8pydOv%2BMcg%3D%3D&trk=flagship3_search_srp_jobs
+
+Junior QA Specialist
+Sobre a vaga
+Department:Quality AssuranceLocation:BrazilCompensation:$400 - $600 / monthDescriptionFor every person joining us for any entry-level position, there is a path and an opportunity to reach an executive role and become a company partnerAntons Sapriko, Company Founder__Video stories of colleagues who joined as Junior QA Specialists:Ilona Smatko, from a Junior QA to a QA Community Lead. Latvia.Eleonora Grigane, from a Junior QA to an expert QA. Latvia.Aleksandrss Panass, from an Intern to a QA expert. Latvia.How to become a Junior QA Specialist at scandiweb eCommerce expert team?We are a very inclusive company with colleagues across 30+ countries on all continents with the female developer ratio being among the highest in the industry. We welcome people from different paths of life, who can complete a technical test, which consists of a testing challenge.The test does not require you to have previous QA experience, instead, it focuses on aspects like checking your attention to detail and ability to use common sense and bringing structure to a complex environment. You have the opportunity to look holistically at a project and to perform various actions that are reflective of actual QA work in Scandiweb. We also test your capability to learn during the test as we will share educational materials for some of the tasks.Everybody who completes the Entry Level test and successfully passes the Practical Trial day task, is invited to an interview. We are confident that if you can complete the entry-level test and successfully pass the Practical Trial Day task, you have the necessary background to let us guide you further on the path to engineering expertise and enterprise-level delivery.Your previous experience and education do not matter; what matters is your ability to deliver results starting from the test task, and your enthusiasm and openness to embrace new knowledge and processes. You can even fail the test and redo it; we will provide you with feedback and will appreciate your ability to act on it to improve and pass. Continuous learning and acting on feedback are among our core organizational values.What are the responsibilities of a Junior QA Specialist?Once you start your career at scandiweb, your first responsibility is to complete onboarding in the company, setting you up in all the processes and systems. This process is set forth in our Learning System and you will be supported by an HR member of our team.Your next responsibility is to complete the Starter Training Course to ensure that you can join a commercial project with a minimum necessary knowledge of the workflow and quality requirements.Once you start your active work in the role of Junior QA Specialist, your responsibilities will include:Revising your active pipeline of the tasks, discussing them at Daily Standup making sure tasks are clear for you and nothing blocks you from delivering;Participating in Daily Standups with the team is crucial for understanding the project's direction, its current status, the completion of tasks, and ensuring there are no pending bugs as we enter the UAT period;Understanding the tasks, functional, and business scope not only ensures that the project is pixel-perfect and all required features are functioning correctly but also ensure that the tasks work together with the solution components;Creating test cases before starting work allows the developer assigned to the task to have a better chance of success by following your test cases. This ensures that the necessary functionality and integration for the feature are covered within the project;Identifying issues and errors on a project and reporting them following internal company quality guidelines;Performing manual quality assurance using tools, like, Browserstack, DevTools, TestLodge, Lightshot, Loom, and others;Performing various forms of manual testing: cross-browser, smoke tests, cross-device testing for different back-end and front-end scenarios, regression testing, and in some cases performance or stability testing;Applying company quality standards and practices to ensure optimum project quality and delivery;Providing daily status updates on your work and reflecting your delivery in commit messages, task comments, and time logs to facilitate transparency and teamwork;Cooperating with internal and external stakeholders in your tasks: developers, project managers, and clients;Upgrading existing competencies by taking part in relevant certification processes organized by the company.Further career growth for Junior QA SpecialistYou will get support in career counseling from our HR department as each career path is unique taking into account your personal strengths and ambitions.A successful Junior QA usually becomes an independent QA, further advancing to either a Senior manual QA or a Junior Project manager by mastering the technological, communication, and business context of their work.Further steps from an independent QA role will depend on your preferences for growth and impact on the company. Later on, you can become either a QA lead in and take ownership of the quality assurance processes in scandiweb or pursue the exciting role of Project Management.Project Manager roles ultimately culminate in Delivery Manager and Partner positions, where you take strategic ownership over the delivery of multiple projects in your portfolio by guiding responsible Project Managers and teams ensuring good project vitals, focusing on expanding cooperation and building relations with existing and new clients.What will help you to advance in your career starting as Junior QA Specialist?Deepening your knowledge of libraries, frameworks, and platforms that are necessary for a successful delivery for customers;Understanding your success KPIs that we will share with you and setting the goals to improve them;Ability to speak up and proactively ask questions about your work, seek clarification for your tasks, and support and guidance from your senior colleagues;Ability to integrate the use of various performance optimization tools in your learning and delivery;Following the Continuous Learning process passing suggested courses internally and obtaining valuable external credentials such as globally recognized certifications that the company will arrange for you;Participating in company-organized events to foster collaboration both online and offline.What is the compensation package of a Junior QA Specialist at scandiweb?Competitive starting salary relative to the market;Salary revisions and upgrades that happen twice a year;Growth path to become an Engineer, Senior Engineer, Team Lead, and PartnerSupport for hardware upgrades;Core health insurance coverage and sports bonuses;A diverse multinational team of experts to learn from;Best tools for collaboration, coding, quality assurance, and communication;Company-covered training and certification;Legendary online and onsite events to celebrate our success together.Next stepsApply and fill in the application formReceive the test task and complete it.Here is what people who joined as Junior QA Specialists want to share with you:"I joined scandiweb 3 years ago, and since then I have grown from a Junior QA to a QA Community Lead. When I started my journey with scandiweb, I was surprised that the company provides education before joining a real project. My first project was simple but my biggest challenge was when I was an API QA for a very complex project. With the little experience I had but with the massive support of the team, the project was a success."Ilona Smatko, QA Specialist from Latvia. Joined the company on 28/4/2021"The most significant lesson from my early days at scandiweb – which continues to inspire my approach – is the power of curiosity and adaptability. No challenge is too big and there is always a solution waiting to be discovered. This mindset has driven my career and is a constant in my day-to-day responsibilities.At scandiweb, we can count on experts from various fields, enthusiasts about technology, and sharing knowledge, they are true Magento magicians spread across the world. This culture of collaboration and international contact was essential for me to grow quickly, evolving from a beginner to a Quality Assurance Specialist. Looking back, the Stephani of the past would be surprised at how much I've grown – not just in my career, but also on a personal level."Stephani Soares, QA Specialist from Brazil. Joined the company on 6/4/2023"Joining scandiweb as a Junior QA was a major turning point in my career. From the beginning, the training prepared me to tackle any project.At scandiweb, the team focus is on lifting each other up, which has empowered me to confidently face every challenge. This isn't just my workplace—it's where I've grown."Ajla Hasic, QA Specialist from Bosnia and Herzegovina. Joined the company on 6/2/2023
+Department:Quality Assurance
+Department:Quality Assurance
+Department:
+
+Location:Brazil
+Location:Brazil
+Location:
+
+Compensation:$400 - $600 / month
+Compensation:$400 - $600 / month
+Compensation:
+
+
+
+Description
+
+
+For every person joining us for any entry-level position, there is a path and an opportunity to reach an executive role and become a company partner
+
+
+Antons Sapriko, Company Founder
+
+
+
+
+
+Ilona Smatko, from a Junior QA to a QA Community Lead. Latvia.
+
+
+
+Eleonora Grigane, from a Junior QA to an expert QA. Latvia.
+
+
+Aleksandrss Panass, from an Intern to a QA expert. Latvia.
+
+
+
+
+How to become a Junior QA Specialist at scandiweb eCommerce expert team?
+
+
+
+
+
+
+
+
+
+
+What are the responsibilities of a Junior QA Specialist?
+
+
+
+
+
+
+
+Revising your active pipeline of the tasks, discussing them at Daily Standup making sure tasks are clear for you and nothing blocks you from delivering;Participating in Daily Standups with the team is crucial for understanding the project's direction, its current status, the completion of tasks, and ensuring there are no pending bugs as we enter the UAT period;Understanding the tasks, functional, and business scope not only ensures that the project is pixel-perfect and all required features are functioning correctly but also ensure that the tasks work together with the solution components;Creating test cases before starting work allows the developer assigned to the task to have a better chance of success by following your test cases. This ensures that the necessary functionality and integration for the feature are covered within the project;Identifying issues and errors on a project and reporting them following internal company quality guidelines;Performing manual quality assurance using tools, like, Browserstack, DevTools, TestLodge, Lightshot, Loom, and others;Performing various forms of manual testing: cross-browser, smoke tests, cross-device testing for different back-end and front-end scenarios, regression testing, and in some cases performance or stability testing;Applying company quality standards and practices to ensure optimum project quality and delivery;Providing daily status updates on your work and reflecting your delivery in commit messages, task comments, and time logs to facilitate transparency and teamwork;Cooperating with internal and external stakeholders in your tasks: developers, project managers, and clients;Upgrading existing competencies by taking part in relevant certification processes organized by the company.
+
+Revising your active pipeline of the tasks, discussing them at Daily Standup making sure tasks are clear for you and nothing blocks you from delivering;
+Revising your active pipeline of the tasks, discussing them at Daily Standup making sure tasks are clear for you and nothing blocks you from delivering;
+
+Participating in Daily Standups with the team is crucial for understanding the project's direction, its current status, the completion of tasks, and ensuring there are no pending bugs as we enter the UAT period;
+Participating in Daily Standups with the team is crucial for understanding the project's direction, its current status, the completion of tasks, and ensuring there are no pending bugs as we enter the UAT period;
+
+Understanding the tasks, functional, and business scope not only ensures that the project is pixel-perfect and all required features are functioning correctly but also ensure that the tasks work together with the solution components;
+Understanding the tasks, functional, and business scope not only ensures that the project is pixel-perfect and all required features are functioning correctly but also ensure that the tasks work together with the solution components;
+
+Creating test cases before starting work allows the developer assigned to the task to have a better chance of success by following your test cases. This ensures that the necessary functionality and integration for the feature are covered within the project;
+Creating test cases before starting work allows the developer assigned to the task to have a better chance of success by following your test cases. This ensures that the necessary functionality and integration for the feature are covered within the project;
+
+Identifying issues and errors on a project and reporting them following internal company quality guidelines;
+Identifying issues and errors on a project and reporting them following internal company quality guidelines;
+
+Performing manual quality assurance using tools, like, Browserstack, DevTools, TestLodge, Lightshot, Loom, and others;
+Performing manual quality assurance using tools, like, Browserstack, DevTools, TestLodge, Lightshot, Loom, and others;
+
+Performing various forms of manual testing: cross-browser, smoke tests, cross-device testing for different back-end and front-end scenarios, regression testing, and in some cases performance or stability testing;
+Performing various forms of manual testing: cross-browser, smoke tests, cross-device testing for different back-end and front-end scenarios, regression testing, and in some cases performance or stability testing;
+
+Applying company quality standards and practices to ensure optimum project quality and delivery;
+Applying company quality standards and practices to ensure optimum project quality and delivery;
+
+Providing daily status updates on your work and reflecting your delivery in commit messages, task comments, and time logs to facilitate transparency and teamwork;
+Providing daily status updates on your work and reflecting your delivery in commit messages, task comments, and time logs to facilitate transparency and teamwork;
+
+Cooperating with internal and external stakeholders in your tasks: developers, project managers, and clients;
+Cooperating with internal and external stakeholders in your tasks: developers, project managers, and clients;
+
+Upgrading existing competencies by taking part in relevant certification processes organized by the company.
+Upgrading existing competencies by taking part in relevant certification processes organized by the company.
+
+
+Further career growth for Junior QA Specialist
+
+
+
+
+
+
+
+
+
+
+
+
+What will help you to advance in your career starting as Junior QA Specialist?
+
+Deepening your knowledge of libraries, frameworks, and platforms that are necessary for a successful delivery for customers;Understanding your success KPIs that we will share with you and setting the goals to improve them;Ability to speak up and proactively ask questions about your work, seek clarification for your tasks, and support and guidance from your senior colleagues;Ability to integrate the use of various performance optimization tools in your learning and delivery;Following the Continuous Learning process passing suggested courses internally and obtaining valuable external credentials such as globally recognized certifications that the company will arrange for you;Participating in company-organized events to foster collaboration both online and offline.
+
+Deepening your knowledge of libraries, frameworks, and platforms that are necessary for a successful delivery for customers;
+Deepening your knowledge of libraries, frameworks, and platforms that are necessary for a successful delivery for customers;
+
+Understanding your success KPIs that we will share with you and setting the goals to improve them;
+Understanding your success KPIs that we will share with you and setting the goals to improve them;
+
+Ability to speak up and proactively ask questions about your work, seek clarification for your tasks, and support and guidance from your senior colleagues;
+Ability to speak up and proactively ask questions about your work, seek clarification for your tasks, and support and guidance from your senior colleagues;
+
+Ability to integrate the use of various performance optimization tools in your learning and delivery;
+Ability to integrate the use of various performance optimization tools in your learning and delivery;
+
+Following the Continuous Learning process passing suggested courses internally and obtaining valuable external credentials such as globally recognized certifications that the company will arrange for you;
+Following the Continuous Learning process passing suggested courses internally and obtaining valuable external credentials such as globally recognized certifications that the company will arrange for you;
+
+Participating in company-organized events to foster collaboration both online and offline.
+Participating in company-organized events to foster collaboration both online and offline.
+
+
+
+What is the compensation package of a Junior QA Specialist at scandiweb?
+
+
+Competitive starting salary relative to the market;Salary revisions and upgrades that happen twice a year;Growth path to become an Engineer, Senior Engineer, Team Lead, and PartnerSupport for hardware upgrades;Core health insurance coverage and sports bonuses;A diverse multinational team of experts to learn from;Best tools for collaboration, coding, quality assurance, and communication;Company-covered training and certification;Legendary online and onsite events to celebrate our success together.
+
+Competitive starting salary relative to the market;
+Competitive starting salary relative to the market;
+
+Salary revisions and upgrades that happen twice a year;
+Salary revisions and upgrades that happen twice a year;
+
+Growth path to become an Engineer, Senior Engineer, Team Lead, and Partner
+Growth path to become an Engineer, Senior Engineer, Team Lead, and Partner
+
+Support for hardware upgrades;
+Support for hardware upgrades;
+
+Core health insurance coverage and sports bonuses;
+Core health insurance coverage and sports bonuses;
+
+A diverse multinational team of experts to learn from;
+A diverse multinational team of experts to learn from;
+
+Best tools for collaboration, coding, quality assurance, and communication;
+Best tools for collaboration, coding, quality assurance, and communication;
+
+Company-covered training and certification;
+Company-covered training and certification;
+
+Legendary online and onsite events to celebrate our success together.
+Legendary online and onsite events to celebrate our success together.
+
+
+
+Next steps
+
+Apply and fill in the application formReceive the test task and complete it.
+
+Apply and fill in the application form
+Apply and fill in the application form
+
+Receive the test task and complete it.
+Receive the test task and complete it.
+
+
+
+Here is what people who joined as Junior QA Specialists want to share with you:
+
+
+"I joined scandiweb 3 years ago, and since then I have grown from a Junior QA to a QA Community Lead. When I started my journey with scandiweb, I was surprised that the company provides education before joining a real project. My first project was simple but my biggest challenge was when I was an API QA for a very complex project. With the little experience I had but with the massive support of the team, the project was a success."
+
+Ilona Smatko, QA Specialist from Latvia. Joined the company on 28/4/2021
+
+
+"The most significant lesson from my early days at scandiweb – which continues to inspire my approach – is the power of curiosity and adaptability. No challenge is too big and there is always a solution waiting to be discovered. This mindset has driven my career and is a constant in my day-to-day responsibilities.
+
+
+
+At scandiweb, we can count on experts from various fields, enthusiasts about technology, and sharing knowledge, they are true Magento magicians spread across the world. This culture of collaboration and international contact was essential for me to grow quickly, evolving from a beginner to a Quality Assurance Specialist. Looking back, the Stephani of the past would be surprised at how much I've grown – not just in my career, but also on a personal level."
+
+Stephani Soares, QA Specialist from Brazil. Joined the company on 6/4/2023
+
+
+"Joining scandiweb as a Junior QA was a major turning point in my career. From the beginning, the training prepared me to tackle any project.
+
+
+
+At scandiweb, the team focus is on lifting each other up, which has empowered me to confidently face every challenge. This isn't just my workplace—it's where I've grown."
+
+Ajla Hasic, QA Specialist from Bosnia and Herzegovina. Joined the company on 6/2/2023

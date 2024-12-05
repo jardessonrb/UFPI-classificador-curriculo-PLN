@@ -1,0 +1,163 @@
+link-https://www.linkedin.com/jobs/view/4063824011/?eBP=CwEAAAGS7lDBsl8WovEzfMwRb5c_dSmAh4Rwxj5ilL_j5I4LJ3AgPm_tKLI-QHzhP-GUioKKqJfuTh1pZmAmLjwQ2wpUGJVEDcBN0CZjMURuXwshy7pf7bgoHhkOzKNyN4fkLdUQy0KVCF5o9s6c4epVjEAajYCdvYJ9q8eQmBbokH57PXjLGsx-DfIIeUS5VVsMD4ILWbKM-LxweuSqy9IMOths554bjiAamaop88j_jEXk8aHecQ7qIsCQStt2aAop0SSIIxt61MCggMbUn95UlTaZAjpOq4Jt03RpzNdqr_AhTonjEn1PSx3Zjne6cDdoVKbXjynYElcdNNPojXBTG5CLjoiz0ef-CztK8FZwM00SNykFOYzARWq_gFc__NFCRryeeG3azSEd7mN7pe1r_iQdiTD04JBV6i95wgNLBD1dimCJPNC_UZpjneQkfGJGbkPT7qvjSgOGly_FVRnA-nVwrTPae-B9svpYfJZsZW7vHb14taF7hO9Szt5uwSK16bjA&refId=C4CHndie%2BebrXgMGiFXALQ%3D%3D&trackingId=ufvMQdJOFku4CUyPeuqwJw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend Sênior IA
+Sobre a vaga
+Descrição da vagaA sua missão:Irá atuar na diretoria de tecnologia com foco em IA. Entregar soluções baseadas em software de alta performance e qualidade, construído de maneira colaborativa com outros desenvolvedores e colaboradores do seu time. Propor soluções técnicas que viabilizem objetivos estratégicos de maneira eficiente, monitorável escalável e segura. Atuar em conjunto com o time técnico e negocial na busca por oportunidades e soluções alinhadas com os objetivos da equipe, viabilizando e acompanhando as soluções para o atingimento dos resultados.Responsabilidades e atribuiçõesComo será o seu dia a dia:Desenhar a solução (arquitetura, modelagem, design de código), focada na integração de modelos e soluções de IA (generativa), desenvolvendo sistemas que entreguem valor e estejam alinhados com os objetivos estratégicos da companhia.Disseminar e compartilhar conhecimento com as comunidades interna e externa; mantendo-se atualizado sobre tendências de Inteligencia Artificial e melhores práticas, contribuindo para aumentar a relevância da companhia no mercado de IA.Ajudar no desenvolvimento técnico de profissionais com menos experiência, apoiando o desenvolvimento do time em nível adequado de qualificação e entregas.Identificar problemas na base de código existente e de arquitetura com foco na integração e eficiência dos modelos de IA generativa, aplicando melhorias que otimizem o desempenho, escalabilidade, custo e a interação com IA.Entregar e revisar código testável assegurando qualidade das entregas da equipe, resolvendo problemas e impedimentos que impactam no prazo acordado e realinhando expectativas acordadas.Implementar monitoramento e observabilidade de todas funcionalidades e rotinas de back-end, assegurando saúde das aplicações.Projetar, desenvolver e manter aplicações back-end, suportando atividades de integração com modelos de IA generativa e interfaces diversas, para otimizar o desempenho dos sistemas existentes e garantir que as soluções entreguem a melhor performance possível, alinhadas com as capacidades de IA.Comunicar de forma clara e objetiva conceitos técnicos de maneira acessível para diferentes públicos, incluindo não técnicos.Identificar e resolver problemas técnicos e de processo de forma proativa, usando dados como base decisória.Analisar problemas complexos e encontrar soluções criativas e eficientes de resolver problemas e entregar valor através de soluções de software.Trabalhar bem em equipe, lidando com diferentes personalidades e perspectivas.Ouvir e respeitar as opiniões dos outros, contribuindo para um ambiente de trabalho produtivo e propositivo.Gerenciar múltiplas tarefas e prazos, organizando o trabalho de maneira eficaz.Priorizar tarefas importantes e garantir comunicação eficiente e em tempo com seus pares e liderança quando frente à impedimentos.Negociar prazos, escopos e requisitos com o time e stakeholders.Trabalhar de forma autônoma e gerenciar suas próprias responsabilidades sem supervisão constante.Requisitos e qualificaçõesO que buscamos:Ensino superior completo (Análise de Sistemas, Engenharia da Computação e áreas correlatas);Domínio de Sistemas distribuidos (preferencialmente Monolitos e Micro Serviços);Domínio de abordagens de qualidade (preferencialmente Testes Unitários, TDD, BDD);Domínio de Cloud (preferencialmente GCP: Google Cloud Plataform);Domínio de Devops Git, PR, Release, Deploy, CI e CD);Experiência relevante em projetos críticos e de alto desempenho;Domínio de Paradigmas (preferencialmente Estruturada, Orientação Objeto e Funcional);Domínio de Bancos de dados (preferencialmente Pinecone, DataStore e PostgreSQL);Conhecimento de metodologias ágeis (preferencialmente Scrum, Kanban);Domínio de linguagens de programação (preferencialmente Python e Java).Pontos a mais que você possui:Conhecimento em tecnologias de IA (ML, LLM, outras ferramentas de Deep Learning).Informações adicionaisBenefícios:Plano de Saúde;Plano Dental;Psicoterapia Online;Gympass;Seguro de Vida;Vale Alimentação e Vale Refeição (VA/VR);Parcerias de Desconto (Universidade e Escolas de Idiomas);Despreocupe-se - Seguros Diversos;No dress code;Aqui você escolhe: remoto, híbrido ou presencial.#VEMPRACONTABILIZEI 💙Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+Descrição da vaga
+Descrição da vaga
+Descrição da vaga
+
+
+
+A sua missão:
+A sua missão:
+A sua missão:
+Irá atuar na diretoria de tecnologia com foco em IA. Entregar soluções baseadas em software de alta performance e qualidade, construído de maneira colaborativa com outros desenvolvedores e colaboradores do seu time. Propor soluções técnicas que viabilizem objetivos estratégicos de maneira eficiente, monitorável escalável e segura. Atuar em conjunto com o time técnico e negocial na busca por oportunidades e soluções alinhadas com os objetivos da equipe, viabilizando e acompanhando as soluções para o atingimento dos resultados.
+Irá atuar na diretoria de tecnologia com foco em IA. Entregar soluções baseadas em software de alta performance e qualidade, construído de maneira colaborativa com outros desenvolvedores e colaboradores do seu time. Propor soluções técnicas que viabilizem objetivos estratégicos de maneira eficiente, monitorável escalável e segura. Atuar em conjunto com o time técnico e negocial na busca por oportunidades e soluções alinhadas com os objetivos da equipe, viabilizando e acompanhando as soluções para o atingimento dos resultados.
+
+
+
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+
+
+
+Como será o seu dia a dia:
+Como será o seu dia a dia:
+Como será o seu dia a dia:
+Desenhar a solução (arquitetura, modelagem, design de código), focada na integração de modelos e soluções de IA (generativa), desenvolvendo sistemas que entreguem valor e estejam alinhados com os objetivos estratégicos da companhia.Disseminar e compartilhar conhecimento com as comunidades interna e externa; mantendo-se atualizado sobre tendências de Inteligencia Artificial e melhores práticas, contribuindo para aumentar a relevância da companhia no mercado de IA.Ajudar no desenvolvimento técnico de profissionais com menos experiência, apoiando o desenvolvimento do time em nível adequado de qualificação e entregas.Identificar problemas na base de código existente e de arquitetura com foco na integração e eficiência dos modelos de IA generativa, aplicando melhorias que otimizem o desempenho, escalabilidade, custo e a interação com IA.Entregar e revisar código testável assegurando qualidade das entregas da equipe, resolvendo problemas e impedimentos que impactam no prazo acordado e realinhando expectativas acordadas.Implementar monitoramento e observabilidade de todas funcionalidades e rotinas de back-end, assegurando saúde das aplicações.Projetar, desenvolver e manter aplicações back-end, suportando atividades de integração com modelos de IA generativa e interfaces diversas, para otimizar o desempenho dos sistemas existentes e garantir que as soluções entreguem a melhor performance possível, alinhadas com as capacidades de IA.Comunicar de forma clara e objetiva conceitos técnicos de maneira acessível para diferentes públicos, incluindo não técnicos.Identificar e resolver problemas técnicos e de processo de forma proativa, usando dados como base decisória.Analisar problemas complexos e encontrar soluções criativas e eficientes de resolver problemas e entregar valor através de soluções de software.Trabalhar bem em equipe, lidando com diferentes personalidades e perspectivas.Ouvir e respeitar as opiniões dos outros, contribuindo para um ambiente de trabalho produtivo e propositivo.Gerenciar múltiplas tarefas e prazos, organizando o trabalho de maneira eficaz.Priorizar tarefas importantes e garantir comunicação eficiente e em tempo com seus pares e liderança quando frente à impedimentos.Negociar prazos, escopos e requisitos com o time e stakeholders.Trabalhar de forma autônoma e gerenciar suas próprias responsabilidades sem supervisão constante.
+Desenhar a solução (arquitetura, modelagem, design de código), focada na integração de modelos e soluções de IA (generativa), desenvolvendo sistemas que entreguem valor e estejam alinhados com os objetivos estratégicos da companhia.
+Desenhar a solução (arquitetura, modelagem, design de código), focada na integração de modelos e soluções de IA (generativa), desenvolvendo sistemas que entreguem valor e estejam alinhados com os objetivos estratégicos da companhia.
+Disseminar e compartilhar conhecimento com as comunidades interna e externa; mantendo-se atualizado sobre tendências de Inteligencia Artificial e melhores práticas, contribuindo para aumentar a relevância da companhia no mercado de IA.
+Disseminar e compartilhar conhecimento com as comunidades interna e externa; mantendo-se atualizado sobre tendências de Inteligencia Artificial e melhores práticas, contribuindo para aumentar a relevância da companhia no mercado de IA.
+Ajudar no desenvolvimento técnico de profissionais com menos experiência, apoiando o desenvolvimento do time em nível adequado de qualificação e entregas.
+Ajudar no desenvolvimento técnico de profissionais com menos experiência, apoiando o desenvolvimento do time em nível adequado de qualificação e entregas.
+Identificar problemas na base de código existente e de arquitetura com foco na integração e eficiência dos modelos de IA generativa, aplicando melhorias que otimizem o desempenho, escalabilidade, custo e a interação com IA.
+Identificar problemas na base de código existente e de arquitetura com foco na integração e eficiência dos modelos de IA generativa, aplicando melhorias que otimizem o desempenho, escalabilidade, custo e a interação com IA.
+Entregar e revisar código testável assegurando qualidade das entregas da equipe, resolvendo problemas e impedimentos que impactam no prazo acordado e realinhando expectativas acordadas.
+Entregar e revisar código testável assegurando qualidade das entregas da equipe, resolvendo problemas e impedimentos que impactam no prazo acordado e realinhando expectativas acordadas.
+Implementar monitoramento e observabilidade de todas funcionalidades e rotinas de back-end, assegurando saúde das aplicações.
+Implementar monitoramento e observabilidade de todas funcionalidades e rotinas de back-end, assegurando saúde das aplicações.
+Projetar, desenvolver e manter aplicações back-end, suportando atividades de integração com modelos de IA generativa e interfaces diversas, para otimizar o desempenho dos sistemas existentes e garantir que as soluções entreguem a melhor performance possível, alinhadas com as capacidades de IA.
+Projetar, desenvolver e manter aplicações back-end, suportando atividades de integração com modelos de IA generativa e interfaces diversas, para otimizar o desempenho dos sistemas existentes e garantir que as soluções entreguem a melhor performance possível, alinhadas com as capacidades de IA.
+Comunicar de forma clara e objetiva conceitos técnicos de maneira acessível para diferentes públicos, incluindo não técnicos.
+Comunicar de forma clara e objetiva conceitos técnicos de maneira acessível para diferentes públicos, incluindo não técnicos.
+Identificar e resolver problemas técnicos e de processo de forma proativa, usando dados como base decisória.
+Identificar e resolver problemas técnicos e de processo de forma proativa, usando dados como base decisória.
+Analisar problemas complexos e encontrar soluções criativas e eficientes de resolver problemas e entregar valor através de soluções de software.
+Analisar problemas complexos e encontrar soluções criativas e eficientes de resolver problemas e entregar valor através de soluções de software.
+Trabalhar bem em equipe, lidando com diferentes personalidades e perspectivas.
+Trabalhar bem em equipe, lidando com diferentes personalidades e perspectivas.
+Ouvir e respeitar as opiniões dos outros, contribuindo para um ambiente de trabalho produtivo e propositivo.
+Ouvir e respeitar as opiniões dos outros, contribuindo para um ambiente de trabalho produtivo e propositivo.
+Gerenciar múltiplas tarefas e prazos, organizando o trabalho de maneira eficaz.
+Gerenciar múltiplas tarefas e prazos, organizando o trabalho de maneira eficaz.
+Priorizar tarefas importantes e garantir comunicação eficiente e em tempo com seus pares e liderança quando frente à impedimentos.
+Priorizar tarefas importantes e garantir comunicação eficiente e em tempo com seus pares e liderança quando frente à impedimentos.
+Negociar prazos, escopos e requisitos com o time e stakeholders.
+Negociar prazos, escopos e requisitos com o time e stakeholders.
+Trabalhar de forma autônoma e gerenciar suas próprias responsabilidades sem supervisão constante.
+Trabalhar de forma autônoma e gerenciar suas próprias responsabilidades sem supervisão constante.
+
+
+
+Requisitos e qualificações
+Requisitos e qualificações
+Requisitos e qualificações
+
+
+
+O que buscamos:
+O que buscamos:
+O que buscamos:
+Ensino superior completo (Análise de Sistemas, Engenharia da Computação e áreas correlatas);Domínio de Sistemas distribuidos (preferencialmente Monolitos e Micro Serviços);Domínio de abordagens de qualidade (preferencialmente Testes Unitários, TDD, BDD);Domínio de Cloud (preferencialmente GCP: Google Cloud Plataform);Domínio de Devops Git, PR, Release, Deploy, CI e CD);Experiência relevante em projetos críticos e de alto desempenho;Domínio de Paradigmas (preferencialmente Estruturada, Orientação Objeto e Funcional);Domínio de Bancos de dados (preferencialmente Pinecone, DataStore e PostgreSQL);Conhecimento de metodologias ágeis (preferencialmente Scrum, Kanban);Domínio de linguagens de programação (preferencialmente Python e Java).
+Ensino superior completo (Análise de Sistemas, Engenharia da Computação e áreas correlatas);
+Ensino superior completo (Análise de Sistemas, Engenharia da Computação e áreas correlatas);
+Domínio de Sistemas distribuidos (preferencialmente Monolitos e Micro Serviços);
+Domínio de Sistemas distribuidos (preferencialmente Monolitos e Micro Serviços);
+Domínio de abordagens de qualidade (preferencialmente Testes Unitários, TDD, BDD);
+Domínio de abordagens de qualidade (preferencialmente Testes Unitários, TDD, BDD);
+Domínio de Cloud (preferencialmente GCP: Google Cloud Plataform);
+Domínio de Cloud (preferencialmente GCP: Google Cloud Plataform);
+Domínio de Devops Git, PR, Release, Deploy, CI e CD);
+Domínio de Devops Git, PR, Release, Deploy, CI e CD);
+Experiência relevante em projetos críticos e de alto desempenho;
+Experiência relevante em projetos críticos e de alto desempenho;
+Domínio de Paradigmas (preferencialmente Estruturada, Orientação Objeto e Funcional);
+Domínio de Paradigmas (preferencialmente Estruturada, Orientação Objeto e Funcional);
+Domínio de Bancos de dados (preferencialmente Pinecone, DataStore e PostgreSQL);
+Domínio de Bancos de dados (preferencialmente Pinecone, DataStore e PostgreSQL);
+Conhecimento de metodologias ágeis (preferencialmente Scrum, Kanban);
+Conhecimento de metodologias ágeis (preferencialmente Scrum, Kanban);
+Domínio de linguagens de programação (preferencialmente Python e Java).
+Domínio de linguagens de programação (preferencialmente Python e Java).
+
+
+
+Pontos a mais que você possui:
+Pontos a mais que você possui:
+Pontos a mais que você possui:
+Conhecimento em tecnologias de IA (ML, LLM, outras ferramentas de Deep Learning).
+Conhecimento em tecnologias de IA (ML, LLM, outras ferramentas de Deep Learning).
+Conhecimento em tecnologias de IA (ML, LLM, outras ferramentas de Deep Learning).
+
+
+
+Informações adicionais
+Informações adicionais
+Informações adicionais
+
+
+
+Benefícios:
+Benefícios:
+Benefícios:
+Plano de Saúde;Plano Dental;Psicoterapia Online;Gympass;Seguro de Vida;Vale Alimentação e Vale Refeição (VA/VR);Parcerias de Desconto (Universidade e Escolas de Idiomas);Despreocupe-se - Seguros Diversos;No dress code;Aqui você escolhe: remoto, híbrido ou presencial.
+Plano de Saúde;
+Plano de Saúde;
+Plano Dental;
+Plano Dental;
+Psicoterapia Online;
+Psicoterapia Online;
+Gympass;
+Gympass;
+Seguro de Vida;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+Despreocupe-se - Seguros Diversos;
+No dress code;
+No dress code;
+Aqui você escolhe: remoto, híbrido ou presencial.
+Aqui você escolhe: remoto, híbrido ou presencial.
+
+
+
+#VEMPRACONTABILIZEI 💙
+#VEMPRACONTABILIZEI 💙
+#VEMPRACONTABILIZEI 💙
+
+
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+
+
+
+Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+
+
+
+É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.

@@ -1,0 +1,186 @@
+link-https://www.linkedin.com/jobs/view/4040064654/?eBP=CwEAAAGS7lPxilDPcCcgq39FAbVUKxef9B7Ir_Xj68ynOi4diSmMUbnoYDlmAXi-UI8hEka1Av_caBSE7F8VQTD4jz7aRqwcVtwGpZOVgJeTStnkuPOJkFE7uY9w6ZH70phd2jbR3O8uMWPuwXIG1mkcmDiaocYEEke23OgZ9-jagY_HJyJbebNDNurM99tl_6kBotZMJvQ92BQeuHNL6wQPAp1Ypb_T5z8Kbmjii_goMtLPONbk9sY5OJxy_BaZYGWA7qrnhH38qATRhM-qWZr_3_JqSmt7ibpXZHzquIIFvmjAB6Mqz_1AcP4PLWaNfu-5eWPovl2WoMZckUOachBk2d6Z9fl6sXDJZ5Wmk_8OSBsionudAwsnvD134vhgpzhihkTqXnQmb-lSBXk3MzGcJGp90giUfBiu-4iu9fyPaxTrjvAah9GuqOUy0bUzJ1dmnFSPod8YeGvs6ltV-Kn5yTgvu0wrM5x43uzuWX4NB6QHrEMW_SsMrruKbvlkMmByeUxh&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=lTTt8mQduiIs%2F4A3QIx7Pg%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend Java SR
+Sobre a vaga
+Sobre o BradescoO Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtmResponsabilidades e atribuiçõesO que é o nosso time deDS - Departamento de Sistemas?ODepartamentode DSviabiliza soluções de TI que proporcionem o funcionamento harmônico entre os sistemas de suporte ao negócio, mantendo a arquitetura de aplicativos estruturada e tecnologicamente atualizada, atendendo aos requisitos de negócio com alta disponibilidade e performance.Modelo de trabalho : Híbrido – 2x por semana.Unidade: Matriz – Osasco – SP, Alphaville – SP, Uberlância – MG e Recife – PE.Como será seu dia a dia?Sendo Pessoa Desenvolvedora Backend Java SR, atuará nagerênciadeDSe suas principais atividades serão:É o responsável por aplicar as práticas de DevSecOps (Build, Deploy, Gates de qualidade, Testes, Segurança etc.) em conjunto com os especialistas em Cloud DevOps;Implementa soluções adequadas, sempre alinhadas aos padrões de arquitetura e ao desenho de solução estabelecidos;Tem domínio e garante a aplicação das práticas e ferramentas de qualidade;Garante a avaliação da qualidade do código produzido pelo time, através de Code Reviews, dando feedbacks ao time de como melhorar o código;Conhece e executa o refinamento técnico e design com qualidade e ensina o processo;Identifica necessidade de criação e evolução de frameworks;Garante que a solução desenvolvida atende os requisitos funcionais e não funcionais identificados;Possui conhecimento em Serverless computing, Plataformas-as-a-service, Arquitetura on-premise, redes e cibersegurança;Garante a aplicação do framework de testes automatizados;Realiza o refinamento técnico das histórias de forma a remover os blocks de arquitetura e engenharia;Conduz e acompanha as implantações da sua squad;Acompanhar as métricas técnicas da sua squad.Requisitos e QualificaçõesO que você precisa ter ou saber?Habilidade de elaboração de desenho técnico no padrão da arquitetura;Liderar o desenvolvimento e a manutenção das necessidades em um processo ágil com forte capacidade de organização, consultoria, relacionamento interpessoal e comunicação;Apoiar time de desenvolvedores fazendo a ponte com demais áreas técnicas;Excelente raciocínio lógico e capacidade analítica;Atuar nas diversas etapas do ciclo de desenvolvimento da necessidade como “dono” da solução técnica: planejamento técnico, implementação de funcionalidades, revisão de código, implantação de entregas e monitoramento pós-implantação;Ser referência técnica para a equipe, garantindo a conformidade com a arquitetura Bradesco e direcionando o desenvolvimento com as melhores práticas;Reportar o progresso do desenvolvimento;Sólidos conhecimentos em Jira, Github, Bitbucket, Java, Spring, Azure;Ensino superior cursando ou completo.O que nós oferecemosNo Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias.PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Sobre o Bradesco
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+
+DS - Departamento de Sistemas?
+
+
+
+Departamento
+
+de DS
+
+
+
+
+
+
+
+Como será seu dia a dia?
+
+
+
+
+
+gerência
+
+DS
+
+
+
+
+
+É o responsável por aplicar as práticas de DevSecOps (Build, Deploy, Gates de qualidade, Testes, Segurança etc.) em conjunto com os especialistas em Cloud DevOps;Implementa soluções adequadas, sempre alinhadas aos padrões de arquitetura e ao desenho de solução estabelecidos;Tem domínio e garante a aplicação das práticas e ferramentas de qualidade;Garante a avaliação da qualidade do código produzido pelo time, através de Code Reviews, dando feedbacks ao time de como melhorar o código;Conhece e executa o refinamento técnico e design com qualidade e ensina o processo;Identifica necessidade de criação e evolução de frameworks;Garante que a solução desenvolvida atende os requisitos funcionais e não funcionais identificados;Possui conhecimento em Serverless computing, Plataformas-as-a-service, Arquitetura on-premise, redes e cibersegurança;Garante a aplicação do framework de testes automatizados;Realiza o refinamento técnico das histórias de forma a remover os blocks de arquitetura e engenharia;Conduz e acompanha as implantações da sua squad;Acompanhar as métricas técnicas da sua squad.
+É o responsável por aplicar as práticas de DevSecOps (Build, Deploy, Gates de qualidade, Testes, Segurança etc.) em conjunto com os especialistas em Cloud DevOps;
+É o responsável por aplicar as práticas de DevSecOps (Build, Deploy, Gates de qualidade, Testes, Segurança etc.) em conjunto com os especialistas em Cloud DevOps;
+
+Implementa soluções adequadas, sempre alinhadas aos padrões de arquitetura e ao desenho de solução estabelecidos;
+Implementa soluções adequadas, sempre alinhadas aos padrões de arquitetura e ao desenho de solução estabelecidos;
+
+Tem domínio e garante a aplicação das práticas e ferramentas de qualidade;
+Tem domínio e garante a aplicação das práticas e ferramentas de qualidade;
+
+Garante a avaliação da qualidade do código produzido pelo time, através de Code Reviews, dando feedbacks ao time de como melhorar o código;
+Garante a avaliação da qualidade do código produzido pelo time, através de Code Reviews, dando feedbacks ao time de como melhorar o código;
+
+Conhece e executa o refinamento técnico e design com qualidade e ensina o processo;
+Conhece e executa o refinamento técnico e design com qualidade e ensina o processo;
+
+Identifica necessidade de criação e evolução de frameworks;
+Identifica necessidade de criação e evolução de frameworks;
+
+Garante que a solução desenvolvida atende os requisitos funcionais e não funcionais identificados;
+Garante que a solução desenvolvida atende os requisitos funcionais e não funcionais identificados;
+
+Possui conhecimento em Serverless computing, Plataformas-as-a-service, Arquitetura on-premise, redes e cibersegurança;
+Possui conhecimento em Serverless computing, Plataformas-as-a-service, Arquitetura on-premise, redes e cibersegurança;
+
+Garante a aplicação do framework de testes automatizados;
+Garante a aplicação do framework de testes automatizados;
+
+Realiza o refinamento técnico das histórias de forma a remover os blocks de arquitetura e engenharia;
+Realiza o refinamento técnico das histórias de forma a remover os blocks de arquitetura e engenharia;
+
+Conduz e acompanha as implantações da sua squad;
+Conduz e acompanha as implantações da sua squad;
+
+Acompanhar as métricas técnicas da sua squad.
+Acompanhar as métricas técnicas da sua squad.
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+Habilidade de elaboração de desenho técnico no padrão da arquitetura;Liderar o desenvolvimento e a manutenção das necessidades em um processo ágil com forte capacidade de organização, consultoria, relacionamento interpessoal e comunicação;Apoiar time de desenvolvedores fazendo a ponte com demais áreas técnicas;Excelente raciocínio lógico e capacidade analítica;Atuar nas diversas etapas do ciclo de desenvolvimento da necessidade como “dono” da solução técnica: planejamento técnico, implementação de funcionalidades, revisão de código, implantação de entregas e monitoramento pós-implantação;Ser referência técnica para a equipe, garantindo a conformidade com a arquitetura Bradesco e direcionando o desenvolvimento com as melhores práticas;Reportar o progresso do desenvolvimento;Sólidos conhecimentos em Jira, Github, Bitbucket, Java, Spring, Azure;Ensino superior cursando ou completo.
+Habilidade de elaboração de desenho técnico no padrão da arquitetura;
+Habilidade de elaboração de desenho técnico no padrão da arquitetura;
+
+Liderar o desenvolvimento e a manutenção das necessidades em um processo ágil com forte capacidade de organização, consultoria, relacionamento interpessoal e comunicação;
+Liderar o desenvolvimento e a manutenção das necessidades em um processo ágil com forte capacidade de organização, consultoria, relacionamento interpessoal e comunicação;
+
+Apoiar time de desenvolvedores fazendo a ponte com demais áreas técnicas;
+Apoiar time de desenvolvedores fazendo a ponte com demais áreas técnicas;
+
+Excelente raciocínio lógico e capacidade analítica;
+Excelente raciocínio lógico e capacidade analítica;
+
+Atuar nas diversas etapas do ciclo de desenvolvimento da necessidade como “dono” da solução técnica: planejamento técnico, implementação de funcionalidades, revisão de código, implantação de entregas e monitoramento pós-implantação;
+Atuar nas diversas etapas do ciclo de desenvolvimento da necessidade como “dono” da solução técnica: planejamento técnico, implementação de funcionalidades, revisão de código, implantação de entregas e monitoramento pós-implantação;
+
+Ser referência técnica para a equipe, garantindo a conformidade com a arquitetura Bradesco e direcionando o desenvolvimento com as melhores práticas;
+Ser referência técnica para a equipe, garantindo a conformidade com a arquitetura Bradesco e direcionando o desenvolvimento com as melhores práticas;
+
+Reportar o progresso do desenvolvimento;
+Reportar o progresso do desenvolvimento;
+
+Sólidos conhecimentos em Jira, Github, Bitbucket, Java, Spring, Azure;
+Sólidos conhecimentos em Jira, Github, Bitbucket, Java, Spring, Azure;
+
+Ensino superior cursando ou completo.
+Ensino superior cursando ou completo.
+
+
+
+
+O que nós oferecemos
+
+
+
+
+
+
+
+PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+
+Convênio Médico
+Convênio Médico
+
+Convênio Odontológico
+Convênio Odontológico
+
+Seguro de Vida
+Seguro de Vida
+
+Vale Alimentação
+Vale Alimentação
+
+Vale Refeição
+Vale Refeição
+
+13º Cesta Alimentação
+13º Cesta Alimentação
+
+Total Pass
+Total Pass
+
+Vale Transporte (adesão opcional)
+Vale Transporte (adesão opcional)
+
+Descontos em produtos e serviços em empresas parceiras
+Descontos em produtos e serviços em empresas parceiras
+
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+
+Unibrad: Universidade Corporativa Bradesco
+Unibrad: Universidade Corporativa Bradesco
+
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+
+Auxílio Creche ou Babá
+Auxílio Creche ou Babá
+
+Licença Paternidade estendida de 20 dias
+Licença Paternidade estendida de 20 dias
+
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+

@@ -1,0 +1,191 @@
+link-https://www.linkedin.com/jobs/view/4055927838/?eBP=CwEAAAGS7lD1Ug0NnonmHxrOoO6KQKYLwIc_lcUGVedXlUfFbQHmzOKG7K__gzGT8iWzkw9fYdojfuxFUzEASzmCL46KqDaTkaDOOFBQU8LdRwKVdLA3NAUacgTRYona-u_SFORMPPOra2p14SLwktW0CVvHsvKDU5hE8wVwO3lFcNk1F24sC668Pa-UbC49n2sMSlDQsF-EZlpH4AzZ8umSvcu2x382yBQyGKjZuKqYxl-6tbPt8h8FI-WXVjSftUAmgrrhRreG--m2FjdHTqWGJ1VokWyGEC-vNWyMerA44hVIKuF_87vT49Y1DhrTAvHasVt9t6PaA3Apxr_VdJpKCZNwuEuQ6lA2sTPznVOYXwp_uCILSETMYz6ms139d3U6CdJQsxfj2IeQ8MkVnmxm_AZJJkhAVKe5vi9SIEOTnPqjVWQJEdd_IlbMwbfpwxYzKcSgjW8Bg4cZ8f5V7IyQrzZH5ynjILOndXVqYjNsz-UvlS7Y01NLrr-TcQsTRB5EMihq1NI&refId=iFoNm80mDkJh%2FNl7uvG14w%3D%3D&trackingId=e2jdNJzRdVkEBwmnoXCh2g%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedora Backend - Pleno | Vaga Exclusiva para Mulheres
+Sobre a vaga
+Com mais de 40 anos de história, somos pioneiros e especialistas no segmento de empréstimos consignados. E também, em investimentos de renda fixa e variável com o Paraná Banco Investimentos.Atualmente, temos 16 lojas próprias e mais de 120 correspondentes exclusivos, além quase 600 colaboradores. Os nossos PBs estão espalhados por todo o Brasil!Oferecemos empréstimos com segurança e transparência para quem deseja quitar dívidas maiores, investir em algo ou realizar um sonho. Com o propósito transformar soluções financeiras em sorrisos!E o que nos torna especiais?Somos apaixonados pelo sorriso:Buscamos as melhores experiências para os nossos clientes, valorizamos as pessoas e somos apaixonados pela empresa.Somos inovadores e buscamos simplicidade:Testamos, aprendemos e pensamos sempre em melhorias contínuas.Somos flexíveis e promovemos mudanças:Cultivamos a adaptabilidade como virtude, incentivando e promovendo constantes transformações para alcançar o melhor de cada jornada.Somos guiados por dados:Os nossos objetivos são claros, se não podemos medir, não podemos fazer. Somos direcionados pela eficiência e aproveitamos ao máximo os recursos disponíveis.Nossas vagas são destinadas à todas as pessoas! Sem distinção de gênero, raça, cor, idade, orientação sexual ou etnia.Como será o seu dia a dia?Como Desenvolvedora Backend você terá a missão de atuar na entrega de novas soluções e suporte as aplicações existentes, com isso:Desenhar e desenvolver a lógica do negócio e os sistemas de backend do produto;Desenvolver código eficiente, de alta qualidade e bem documentado;Atuará com criação de testes de unidade e de integração eficazes;Participar de discussões técnicas.O que eu preciso ter ou saber?Experiência em desenvolvimento com C e .NET 6 ou superior;Experiência com filas e mensageria;Experiência significativa escrevendo e utilizando serviços de API RESTful e apps de grande escala para melhoria de performance;Experiência em banco de dados SQL e NoSql;Experiência em criação de testes unitários utilizando o modelo de BDD.Vamos gostar de você tiver:Conhecimento de boas práticas de desenvolvimento (Clean Code, SOLID, etc);Conhecimento em algum framework Javascript;Conhecimento em OpenTelemetry;Por que escolher sorrir com o PB?🍞 Vale Alimentação e Vale Refeição (Sem descontos!)🚌 Vale-transporte (Se necessário)💊 Plano de Saúde e Odontológico📝 Parcerias com restaurantes, universidades, rede de turismo e escolas de idiomas💬 Atendimento Psicológico💉 Campanhas de vacinação🔒 Seguro de vida📋 Serviço social📚 Academia Corporativa Learning.Rocks🎁 Day Off no mês de Aniversário🏋️ Gympass💰 Participação de lucros (PLR)👶 Auxílio creche ou Auxílio Babá👨‍🍼 Licença maternidade de 6 meses e Paternidade de 30 dias.👚No dress code:você pode se vestir como preferir!🏬 Em nossa sede presencial você encontrará: Área de convivência, espaço para amamentação, fliperama, mesa de sinuca e de PingPong.🏆 Programa de indicação de talentosConfira mais detalhes dos nossos benefícios aqui:Guia de BenefíciosNosso modelo de trabalho é no formato hibrido (residentes em Curitiba e Região, exceto nos casos de Lojas Próprias e Call Center) e Remoto para outras regiões.Vagas afirmativasTodas as nossas vagas são abertas para a diversidade e a inclusão! São iniciativas do Paraná Banco e PB Tech, que buscam promover um ambiente mais acolhedor, diverso e inclusivo para todos. Faz parte da nossa cultura, respeitar e valorizar as diferenças que nos movem e contribuem para nossa evolução.São muitos os desafios que temos pela frente e acreditamos que a diversidade nos aproxima, a cada dia que se passa, do nosso grande sonho: sermos o melhor consignado do Brasil!LGPDO Paraná Banco e a PB Tech possuem uma política de segurança e transparência no tratamento de dados das pessoas envolvidas em nossos processos seletivos. Todas as informações dos candidatos são rigorosamente tratadas de acordo com a LGPD e a Política de Privacidade.Ficou com dúvidas?Acesse o nossoCódigo de Ética.Mais sobre o Paraná BancoFique por dentro de todas as nossas atividades e cultura pelo Instagram:@eusoupbPágina de carreiraLinkedInGlassdoorAcreditamos numa empresa inclusiva e diversa, por isso, todos são bem-vindos.Se identificou? Compartilhe o seu perfil e venha sorrir com a gente.
+Com mais de 40 anos de história, somos pioneiros e especialistas no segmento de empréstimos consignados. E também, em investimentos de renda fixa e variável com o Paraná Banco Investimentos.
+Com mais de 40 anos de história, somos pioneiros e especialistas no segmento de empréstimos consignados. E também, em investimentos de renda fixa e variável com o Paraná Banco Investimentos.
+Atualmente, temos 16 lojas próprias e mais de 120 correspondentes exclusivos, além quase 600 colaboradores. Os nossos PBs estão espalhados por todo o Brasil!
+Atualmente, temos 16 lojas próprias e mais de 120 correspondentes exclusivos, além quase 600 colaboradores. Os nossos PBs estão espalhados por todo o Brasil!
+Oferecemos empréstimos com segurança e transparência para quem deseja quitar dívidas maiores, investir em algo ou realizar um sonho. Com o propósito transformar soluções financeiras em sorrisos!
+Oferecemos empréstimos com segurança e transparência para quem deseja quitar dívidas maiores, investir em algo ou realizar um sonho. Com o propósito transformar soluções financeiras em sorrisos!
+
+
+
+E o que nos torna especiais?
+E o que nos torna especiais?
+E o que nos torna especiais?
+Somos apaixonados pelo sorriso:Buscamos as melhores experiências para os nossos clientes, valorizamos as pessoas e somos apaixonados pela empresa.Somos inovadores e buscamos simplicidade:Testamos, aprendemos e pensamos sempre em melhorias contínuas.Somos flexíveis e promovemos mudanças:Cultivamos a adaptabilidade como virtude, incentivando e promovendo constantes transformações para alcançar o melhor de cada jornada.Somos guiados por dados:Os nossos objetivos são claros, se não podemos medir, não podemos fazer. Somos direcionados pela eficiência e aproveitamos ao máximo os recursos disponíveis.
+Somos apaixonados pelo sorriso:Buscamos as melhores experiências para os nossos clientes, valorizamos as pessoas e somos apaixonados pela empresa.
+Somos apaixonados pelo sorriso:Buscamos as melhores experiências para os nossos clientes, valorizamos as pessoas e somos apaixonados pela empresa.
+Somos apaixonados pelo sorriso:
+
+Somos inovadores e buscamos simplicidade:Testamos, aprendemos e pensamos sempre em melhorias contínuas.
+Somos inovadores e buscamos simplicidade:Testamos, aprendemos e pensamos sempre em melhorias contínuas.
+Somos inovadores e buscamos simplicidade:
+
+Somos flexíveis e promovemos mudanças:Cultivamos a adaptabilidade como virtude, incentivando e promovendo constantes transformações para alcançar o melhor de cada jornada.
+Somos flexíveis e promovemos mudanças:Cultivamos a adaptabilidade como virtude, incentivando e promovendo constantes transformações para alcançar o melhor de cada jornada.
+Somos flexíveis e promovemos mudanças:
+
+Somos guiados por dados:Os nossos objetivos são claros, se não podemos medir, não podemos fazer. Somos direcionados pela eficiência e aproveitamos ao máximo os recursos disponíveis.
+Somos guiados por dados:Os nossos objetivos são claros, se não podemos medir, não podemos fazer. Somos direcionados pela eficiência e aproveitamos ao máximo os recursos disponíveis.
+Somos guiados por dados:
+
+
+
+
+Nossas vagas são destinadas à todas as pessoas! Sem distinção de gênero, raça, cor, idade, orientação sexual ou etnia.
+Nossas vagas são destinadas à todas as pessoas! Sem distinção de gênero, raça, cor, idade, orientação sexual ou etnia.
+
+
+
+Como será o seu dia a dia?
+Como será o seu dia a dia?
+Como será o seu dia a dia?
+Como Desenvolvedora Backend você terá a missão de atuar na entrega de novas soluções e suporte as aplicações existentes, com isso:
+Como Desenvolvedora Backend você terá a missão de atuar na entrega de novas soluções e suporte as aplicações existentes, com isso:
+Desenhar e desenvolver a lógica do negócio e os sistemas de backend do produto;Desenvolver código eficiente, de alta qualidade e bem documentado;Atuará com criação de testes de unidade e de integração eficazes;Participar de discussões técnicas.
+Desenhar e desenvolver a lógica do negócio e os sistemas de backend do produto;
+Desenhar e desenvolver a lógica do negócio e os sistemas de backend do produto;
+Desenvolver código eficiente, de alta qualidade e bem documentado;
+Desenvolver código eficiente, de alta qualidade e bem documentado;
+Atuará com criação de testes de unidade e de integração eficazes;
+Atuará com criação de testes de unidade e de integração eficazes;
+Participar de discussões técnicas.
+Participar de discussões técnicas.
+
+
+
+O que eu preciso ter ou saber?
+O que eu preciso ter ou saber?
+O que eu preciso ter ou saber?
+Experiência em desenvolvimento com C e .NET 6 ou superior;Experiência com filas e mensageria;Experiência significativa escrevendo e utilizando serviços de API RESTful e apps de grande escala para melhoria de performance;Experiência em banco de dados SQL e NoSql;Experiência em criação de testes unitários utilizando o modelo de BDD.
+Experiência em desenvolvimento com C e .NET 6 ou superior;
+Experiência em desenvolvimento com C e .NET 6 ou superior;
+Experiência com filas e mensageria;
+Experiência com filas e mensageria;
+Experiência significativa escrevendo e utilizando serviços de API RESTful e apps de grande escala para melhoria de performance;
+Experiência significativa escrevendo e utilizando serviços de API RESTful e apps de grande escala para melhoria de performance;
+Experiência em banco de dados SQL e NoSql;
+Experiência em banco de dados SQL e NoSql;
+Experiência em criação de testes unitários utilizando o modelo de BDD.
+Experiência em criação de testes unitários utilizando o modelo de BDD.
+Vamos gostar de você tiver:
+Vamos gostar de você tiver:
+Vamos gostar de você tiver:
+Conhecimento de boas práticas de desenvolvimento (Clean Code, SOLID, etc);Conhecimento em algum framework Javascript;Conhecimento em OpenTelemetry;
+Conhecimento de boas práticas de desenvolvimento (Clean Code, SOLID, etc);
+Conhecimento de boas práticas de desenvolvimento (Clean Code, SOLID, etc);
+Conhecimento em algum framework Javascript;
+Conhecimento em algum framework Javascript;
+Conhecimento em OpenTelemetry;
+Conhecimento em OpenTelemetry;
+
+
+
+Por que escolher sorrir com o PB?
+Por que escolher sorrir com o PB?
+Por que escolher sorrir com o PB?
+🍞 Vale Alimentação e Vale Refeição (Sem descontos!)
+🍞 Vale Alimentação e Vale Refeição (Sem descontos!)
+🚌 Vale-transporte (Se necessário)
+🚌 Vale-transporte (Se necessário)
+💊 Plano de Saúde e Odontológico
+💊 Plano de Saúde e Odontológico
+📝 Parcerias com restaurantes, universidades, rede de turismo e escolas de idiomas
+📝 Parcerias com restaurantes, universidades, rede de turismo e escolas de idiomas
+💬 Atendimento Psicológico
+💬 Atendimento Psicológico
+💉 Campanhas de vacinação
+💉 Campanhas de vacinação
+🔒 Seguro de vida
+🔒 Seguro de vida
+📋 Serviço social
+📋 Serviço social
+📚 Academia Corporativa Learning.Rocks
+📚 Academia Corporativa Learning.Rocks
+🎁 Day Off no mês de Aniversário
+🎁 Day Off no mês de Aniversário
+🏋️ Gympass
+🏋️ Gympass
+💰 Participação de lucros (PLR)
+💰 Participação de lucros (PLR)
+👶 Auxílio creche ou Auxílio Babá
+👶 Auxílio creche ou Auxílio Babá
+👨‍🍼 Licença maternidade de 6 meses e Paternidade de 30 dias.
+👨‍🍼 Licença maternidade de 6 meses e Paternidade de 30 dias.
+👚No dress code:você pode se vestir como preferir!
+👚No dress code:você pode se vestir como preferir!
+
+No dress code:
+
+🏬 Em nossa sede presencial você encontrará: Área de convivência, espaço para amamentação, fliperama, mesa de sinuca e de PingPong.
+🏬 Em nossa sede presencial você encontrará: Área de convivência, espaço para amamentação, fliperama, mesa de sinuca e de PingPong.
+🏆 Programa de indicação de talentos
+🏆 Programa de indicação de talentos
+
+
+
+Confira mais detalhes dos nossos benefícios aqui:Guia de Benefícios
+Confira mais detalhes dos nossos benefícios aqui:Guia de Benefícios
+Confira mais detalhes dos nossos benefícios aqui:Guia de Benefícios
+
+
+
+
+Nosso modelo de trabalho é no formato hibrido (residentes em Curitiba e Região, exceto nos casos de Lojas Próprias e Call Center) e Remoto para outras regiões.
+Nosso modelo de trabalho é no formato hibrido (residentes em Curitiba e Região, exceto nos casos de Lojas Próprias e Call Center) e Remoto para outras regiões.
+
+
+
+Vagas afirmativas
+Vagas afirmativas
+Vagas afirmativas
+Todas as nossas vagas são abertas para a diversidade e a inclusão! São iniciativas do Paraná Banco e PB Tech, que buscam promover um ambiente mais acolhedor, diverso e inclusivo para todos. Faz parte da nossa cultura, respeitar e valorizar as diferenças que nos movem e contribuem para nossa evolução.
+Todas as nossas vagas são abertas para a diversidade e a inclusão! São iniciativas do Paraná Banco e PB Tech, que buscam promover um ambiente mais acolhedor, diverso e inclusivo para todos. Faz parte da nossa cultura, respeitar e valorizar as diferenças que nos movem e contribuem para nossa evolução.
+São muitos os desafios que temos pela frente e acreditamos que a diversidade nos aproxima, a cada dia que se passa, do nosso grande sonho: sermos o melhor consignado do Brasil!
+São muitos os desafios que temos pela frente e acreditamos que a diversidade nos aproxima, a cada dia que se passa, do nosso grande sonho: sermos o melhor consignado do Brasil!
+
+
+
+LGPD
+LGPD
+LGPD
+O Paraná Banco e a PB Tech possuem uma política de segurança e transparência no tratamento de dados das pessoas envolvidas em nossos processos seletivos. Todas as informações dos candidatos são rigorosamente tratadas de acordo com a LGPD e a Política de Privacidade.
+O Paraná Banco e a PB Tech possuem uma política de segurança e transparência no tratamento de dados das pessoas envolvidas em nossos processos seletivos. Todas as informações dos candidatos são rigorosamente tratadas de acordo com a LGPD e a Política de Privacidade.
+
+
+
+Ficou com dúvidas?Acesse o nossoCódigo de Ética.
+Ficou com dúvidas?Acesse o nossoCódigo de Ética.
+Ficou com dúvidas?
+
+
+
+
+
+Mais sobre o Paraná Banco
+Mais sobre o Paraná Banco
+Mais sobre o Paraná Banco
+
+
+
+Fique por dentro de todas as nossas atividades e cultura pelo Instagram:@eusoupbPágina de carreiraLinkedInGlassdoor
+Fique por dentro de todas as nossas atividades e cultura pelo Instagram:@eusoupb
+Fique por dentro de todas as nossas atividades e cultura pelo Instagram:@eusoupb
+
+Página de carreira
+Página de carreira
+LinkedIn
+LinkedIn
+Glassdoor
+Glassdoor
+
+
+
+Acreditamos numa empresa inclusiva e diversa, por isso, todos são bem-vindos.
+Acreditamos numa empresa inclusiva e diversa, por isso, todos são bem-vindos.
+Se identificou? Compartilhe o seu perfil e venha sorrir com a gente.
+Se identificou? Compartilhe o seu perfil e venha sorrir com a gente.
+Se identificou? Compartilhe o seu perfil e venha sorrir com a gente.

@@ -1,0 +1,81 @@
+link-https://www.linkedin.com/jobs/view/4024721157/?eBP=CwEAAAGS7lGQwWIHS36H2ioRlrmbinAdsoUHt17Zzq_Ic0SWkFUU21m3ytSTkSyYQ8XmphmVX5gpb3b-WB3nym7qhbCOuqKi4bdMyuxLubG6h5Nq3yz1n8HrFsI8B6T1pt3CPU4DOfbaoHocVzLFT5f3xm0K6YZHZu0DwGJIegR87xWSxid48QfVnQwvZGbVLECg2zGpstqdBq8kOa9naxbhIAxnmVVVbJwDn13lvkda00iVMtS1Ki0HMVVxMCURdShw-jDoGFa-67wEM13DUdfIpOp4OtUMDjM0dLLPZYi_ZMTQyBS2rFTX2gS_GdqEz90gBqG-3VfCyZKfZ7yN8dDTMD4UvcVkBToNizJimHtClSK9rSfA3QRnLdcPlRxGc0uLpKMMyVISv1FaQO0gID5L01g1T-mloXGU4yRtW0x98Sk7qh03hJ8g7iDsEF543oMjt2smAocEt1TzOZQrwNAlBATmVazCGp4ghWKUmw0Gj4WtH_nga6oKV-RYP1szW5xEY0sLfHrE6g&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=D1aPgw1YmG7XkIyVzzUaOg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Back-end Engineer - Java
+Sobre a vaga
+We are looking for a skilledSenior Back-end Engineerspecializing in Javato enhance our team.In this capacity, you will focus on developing dependable distributed systems that connect smoothly with our broader data and services architecture. You will be responsible for the entire software development lifecycle, including design, implementation, deployment, and continuous production support, in a team-oriented Agile setting.ResponsibilitiesWork collaboratively with onsite team members, customers, and stakeholders to construct distributed systemsAssume complete responsibility for the SDLC, spanning from initial design to deployment and sustained production supportManage solutions from start to finish in an Agile frameworkCommit to ongoing enhancement of code quality and engineering processesProactively identify and solve potential challengesAssist in sizing stories and estimating work effortValidate user stories to guarantee high-quality user experiences and comprehensive test coverageEngage in design and code evaluations to maintain quality and testabilityExecute build, deployment, and test automation for streamlined deliveryAdjust promptly to alterations in priorities and objectivesRequirementsBackground in developing distributed systemsStrong skills in Java and JUnitProficient with TDD and BDD testing frameworks like Cucumber-JVMExperienced in using Spring and Spring BootKnowledgeable about document databases such as MongoDB or DynamoDBSkilled in crafting REST APIsBackground in Kafka and event-driven servicesUnderstanding of GraphQLAcquainted with JWT and OAuthFamiliar with cloud technologiesFluent English communication skills at a B2+ levelNice to haveAdditional knowledge of other cloud platformsProficiency in more event-driven service frameworks
+
+Senior Back-end Engineer
+
+specializing in Java
+
+
+
+
+
+Responsibilities
+
+
+
+Work collaboratively with onsite team members, customers, and stakeholders to construct distributed systemsAssume complete responsibility for the SDLC, spanning from initial design to deployment and sustained production supportManage solutions from start to finish in an Agile frameworkCommit to ongoing enhancement of code quality and engineering processesProactively identify and solve potential challengesAssist in sizing stories and estimating work effortValidate user stories to guarantee high-quality user experiences and comprehensive test coverageEngage in design and code evaluations to maintain quality and testabilityExecute build, deployment, and test automation for streamlined deliveryAdjust promptly to alterations in priorities and objectives
+Work collaboratively with onsite team members, customers, and stakeholders to construct distributed systems
+Work collaboratively with onsite team members, customers, and stakeholders to construct distributed systems
+Assume complete responsibility for the SDLC, spanning from initial design to deployment and sustained production support
+Assume complete responsibility for the SDLC, spanning from initial design to deployment and sustained production support
+Manage solutions from start to finish in an Agile framework
+Manage solutions from start to finish in an Agile framework
+Commit to ongoing enhancement of code quality and engineering processes
+Commit to ongoing enhancement of code quality and engineering processes
+Proactively identify and solve potential challenges
+Proactively identify and solve potential challenges
+Assist in sizing stories and estimating work effort
+Assist in sizing stories and estimating work effort
+Validate user stories to guarantee high-quality user experiences and comprehensive test coverage
+Validate user stories to guarantee high-quality user experiences and comprehensive test coverage
+Engage in design and code evaluations to maintain quality and testability
+Engage in design and code evaluations to maintain quality and testability
+Execute build, deployment, and test automation for streamlined delivery
+Execute build, deployment, and test automation for streamlined delivery
+Adjust promptly to alterations in priorities and objectives
+Adjust promptly to alterations in priorities and objectives
+
+
+
+Requirements
+
+
+
+Background in developing distributed systemsStrong skills in Java and JUnitProficient with TDD and BDD testing frameworks like Cucumber-JVMExperienced in using Spring and Spring BootKnowledgeable about document databases such as MongoDB or DynamoDBSkilled in crafting REST APIsBackground in Kafka and event-driven servicesUnderstanding of GraphQLAcquainted with JWT and OAuthFamiliar with cloud technologiesFluent English communication skills at a B2+ level
+Background in developing distributed systems
+Background in developing distributed systems
+Strong skills in Java and JUnit
+Strong skills in Java and JUnit
+Proficient with TDD and BDD testing frameworks like Cucumber-JVM
+Proficient with TDD and BDD testing frameworks like Cucumber-JVM
+Experienced in using Spring and Spring Boot
+Experienced in using Spring and Spring Boot
+Knowledgeable about document databases such as MongoDB or DynamoDB
+Knowledgeable about document databases such as MongoDB or DynamoDB
+Skilled in crafting REST APIs
+Skilled in crafting REST APIs
+Background in Kafka and event-driven services
+Background in Kafka and event-driven services
+Understanding of GraphQL
+Understanding of GraphQL
+Acquainted with JWT and OAuth
+Acquainted with JWT and OAuth
+Familiar with cloud technologies
+Familiar with cloud technologies
+Fluent English communication skills at a B2+ level
+Fluent English communication skills at a B2+ level
+
+
+
+Nice to have
+
+
+
+Additional knowledge of other cloud platformsProficiency in more event-driven service frameworks
+Additional knowledge of other cloud platforms
+Additional knowledge of other cloud platforms
+Proficiency in more event-driven service frameworks
+Proficiency in more event-driven service frameworks

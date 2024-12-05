@@ -1,0 +1,119 @@
+link-https://www.linkedin.com/jobs/view/4056850579/?eBP=CwEAAAGS7lCK8mbFsOk2Y_uHaK1DQ5KsrNMfECDTr3--vl2d1swSEP7ubn2zWSI6h8kvOTg29-dIbiBhGQYWAEDd6oFGUw-RRjppygIIczZdUdJiPPs2hzbSvfkAcyvVMObYmXc9V6mgG3SCk070wdk0LFHXbItKPwIQZCTxR5lbdHZWJ937KPWQjD3xtbZdQzNAFv5JcYBIfDdBiBlxYLdnLDya2SVU2unFsi_9SKnLuZTD_aYeiSly46pxd5HFFjk-vFJPK3fmN1w3m0XbbWIKaDL_f_J4IO-BHU3ADjCY60layb5B-Y9OFLJ88gd6AkA634PXaGnTTOFFvIXg6xLs9phNTyBchvBAHS4lBTG7kbhFo7q9qKodljAzL2TLfoMQUvcTdzuimZUoQ0daERdz6p6lycFgG2VDu_OQ2s3DOwmF_20QRSyCDdGmTrDiTgACd37AZEGQC_XpbWSibglGU5vb27LR34cQNVA4ut2tZ5oMfcKPETwNMFie0G9zcHJR0km4_hDczQ&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=qeLzOdMJ%2B6rDWdFbb3yElg%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Backend SR ( Noje.js)
+Sobre a vaga
+O que esperamos das pessoas que se candidatam?Estamos interessados em pessoas que sejam indivíduos atenciosos, responsáveis e apaixonados, que apreciem desafios e tenha um forte conhecimento em desenvolvimento de software. Procuramos alguém que valorize boas práticas de programação, entenda a importância de uma entrega que agregue valor, tenha entusiasmo por aprender e esteja preparado para enfrentar novos desafios, e especialmente em projetos que envolvem a reprodução de conteúdo de streaming multimidia.O candidato participará de um projeto de streaming de grande porte e abrangência nacional. Terá a oportunidade de contribuir e/ou ter contato com o desenvolvimento de aplicações de vídeo On-Demand e Ao-Vivo, trabalhando em soluções que exigem alta performance e escalabilidade.RESPONSABILIDADES E ATRIBUIÇÕESO que uma pessoa desenvolvedora Sr ( Node.Js ) faz na Agile Content?Experiência com arquitetura em nuvem (preferencialmente AWS)Liderar e motivar times técnicos, garantindo um ambiente colaborativo e de alta performanceParticipar das decisões sobre as melhores práticas e abordagens técnicas para o desenvolvimento de soluções.Envolver-se em todas as etapas do ciclo de desenvolvimento, desde a concepção de novas funcionalidades até a entrega e manutenção dos serviços.Colaborar com a equipe para criar soluções inovadoras, garantindo a qualidade e a escalabilidade das aplicações.Aplicar conhecimentos de computação em nuvem e arquiteturas de alta demanda e disponibilidade.Tomar decisões arquiteturais críticas e resolver problemas complexos de forma proativa.Interagir com gerentes de produto para alinhar expectativas e priorizar entregas.REQUISITOS E QUALIFICAÇÕESFamiliaridade com arquiteturas baseadas em microserviços e boas práticas de APIs RESTful.Forte conhecimento em JavaScript/TypeScript/Node.js, com experiência em deploy, entrega contínua e manutenção de aplicações web.Experiência com Orientação a Objetos (OOP) e padrões de design de softwareFamiliaridade em Next.js.Experiência com arquitetura em nuvem (preferencialmente AWS)Compreensão dos componentes de uma requisição HTTP (métodos, cabeçalhos, status codes) e boas práticas de implementação.DiferenciaisExperiência com AWS Elastic Beanstalk e AWS Elastic Container Service.Conhecimento em Docker e práticas de containerização.Experiência com CDNs, conceitos e uso eficiente de cache de aplicação.Habilidade em monitorar o estado e performance das aplicações, garantindo alta disponibilidade e eficiência dos serviços.INFORMAÇÕES ADICIONAISBenefíciosContratação CLT fullDay off no dia do aniversárioSeguro de saúde, odontológico e de vida de primeira linha sem coparticipação e sem descontoVale Refeição sem descontoAulas de InglêsAulas de EspanholPlano de participação nos lucrosAuxílio CrecheAuxílio para realização de cursos e certificaçõesAt Agile Content, we are committed to fostering a diverse, equitable, and inclusive workplace. We celebrate diversity and are dedicated to creating an environment where everyone can thrive. We encourage all individuals from of all backgrounds and identities to apply.
+O que esperamos das pessoas que se candidatam?
+O que esperamos das pessoas que se candidatam?
+O que esperamos das pessoas que se candidatam?
+
+
+
+Estamos interessados em pessoas que sejam indivíduos atenciosos, responsáveis e apaixonados, que apreciem desafios e tenha um forte conhecimento em desenvolvimento de software. Procuramos alguém que valorize boas práticas de programação, entenda a importância de uma entrega que agregue valor, tenha entusiasmo por aprender e esteja preparado para enfrentar novos desafios, e especialmente em projetos que envolvem a reprodução de conteúdo de streaming multimidia.
+Estamos interessados em pessoas que sejam indivíduos atenciosos, responsáveis e apaixonados, que apreciem desafios e tenha um forte conhecimento em desenvolvimento de software. Procuramos alguém que valorize boas práticas de programação, entenda a importância de uma entrega que agregue valor, tenha entusiasmo por aprender e esteja preparado para enfrentar novos desafios, e especialmente em projetos que envolvem a reprodução de conteúdo de streaming multimidia.
+O candidato participará de um projeto de streaming de grande porte e abrangência nacional. Terá a oportunidade de contribuir e/ou ter contato com o desenvolvimento de aplicações de vídeo On-Demand e Ao-Vivo, trabalhando em soluções que exigem alta performance e escalabilidade.
+O candidato participará de um projeto de streaming de grande porte e abrangência nacional. Terá a oportunidade de contribuir e/ou ter contato com o desenvolvimento de aplicações de vídeo On-Demand e Ao-Vivo, trabalhando em soluções que exigem alta performance e escalabilidade.
+
+
+
+
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES E ATRIBUIÇÕES
+
+
+
+O que uma pessoa desenvolvedora Sr ( Node.Js ) faz na Agile Content?
+O que uma pessoa desenvolvedora Sr ( Node.Js ) faz na Agile Content?
+O que uma pessoa desenvolvedora Sr ( Node.Js ) faz na Agile Content?
+Experiência com arquitetura em nuvem (preferencialmente AWS)Liderar e motivar times técnicos, garantindo um ambiente colaborativo e de alta performanceParticipar das decisões sobre as melhores práticas e abordagens técnicas para o desenvolvimento de soluções.Envolver-se em todas as etapas do ciclo de desenvolvimento, desde a concepção de novas funcionalidades até a entrega e manutenção dos serviços.Colaborar com a equipe para criar soluções inovadoras, garantindo a qualidade e a escalabilidade das aplicações.Aplicar conhecimentos de computação em nuvem e arquiteturas de alta demanda e disponibilidade.Tomar decisões arquiteturais críticas e resolver problemas complexos de forma proativa.Interagir com gerentes de produto para alinhar expectativas e priorizar entregas.
+Experiência com arquitetura em nuvem (preferencialmente AWS)Liderar e motivar times técnicos, garantindo um ambiente colaborativo e de alta performance
+Experiência com arquitetura em nuvem (preferencialmente AWS)Liderar e motivar times técnicos, garantindo um ambiente colaborativo e de alta performance
+Participar das decisões sobre as melhores práticas e abordagens técnicas para o desenvolvimento de soluções.
+Participar das decisões sobre as melhores práticas e abordagens técnicas para o desenvolvimento de soluções.
+Envolver-se em todas as etapas do ciclo de desenvolvimento, desde a concepção de novas funcionalidades até a entrega e manutenção dos serviços.
+Envolver-se em todas as etapas do ciclo de desenvolvimento, desde a concepção de novas funcionalidades até a entrega e manutenção dos serviços.
+Colaborar com a equipe para criar soluções inovadoras, garantindo a qualidade e a escalabilidade das aplicações.
+Colaborar com a equipe para criar soluções inovadoras, garantindo a qualidade e a escalabilidade das aplicações.
+Aplicar conhecimentos de computação em nuvem e arquiteturas de alta demanda e disponibilidade.
+Aplicar conhecimentos de computação em nuvem e arquiteturas de alta demanda e disponibilidade.
+Tomar decisões arquiteturais críticas e resolver problemas complexos de forma proativa.
+Tomar decisões arquiteturais críticas e resolver problemas complexos de forma proativa.
+Interagir com gerentes de produto para alinhar expectativas e priorizar entregas.
+Interagir com gerentes de produto para alinhar expectativas e priorizar entregas.
+
+
+
+REQUISITOS E QUALIFICAÇÕESFamiliaridade com arquiteturas baseadas em microserviços e boas práticas de APIs RESTful.Forte conhecimento em JavaScript/TypeScript/Node.js, com experiência em deploy, entrega contínua e manutenção de aplicações web.Experiência com Orientação a Objetos (OOP) e padrões de design de softwareFamiliaridade em Next.js.Experiência com arquitetura em nuvem (preferencialmente AWS)Compreensão dos componentes de uma requisição HTTP (métodos, cabeçalhos, status codes) e boas práticas de implementação.
+REQUISITOS E QUALIFICAÇÕES
+REQUISITOS E QUALIFICAÇÕES
+REQUISITOS E QUALIFICAÇÕES
+Familiaridade com arquiteturas baseadas em microserviços e boas práticas de APIs RESTful.
+Familiaridade com arquiteturas baseadas em microserviços e boas práticas de APIs RESTful.
+Forte conhecimento em JavaScript/TypeScript/Node.js, com experiência em deploy, entrega contínua e manutenção de aplicações web.
+Forte conhecimento em JavaScript/TypeScript/Node.js, com experiência em deploy, entrega contínua e manutenção de aplicações web.
+Experiência com Orientação a Objetos (OOP) e padrões de design de software
+Experiência com Orientação a Objetos (OOP) e padrões de design de software
+Familiaridade em Next.js.
+Familiaridade em Next.js.
+Experiência com arquitetura em nuvem (preferencialmente AWS)
+Experiência com arquitetura em nuvem (preferencialmente AWS)
+Compreensão dos componentes de uma requisição HTTP (métodos, cabeçalhos, status codes) e boas práticas de implementação.
+Compreensão dos componentes de uma requisição HTTP (métodos, cabeçalhos, status codes) e boas práticas de implementação.
+
+
+
+Diferenciais
+Diferenciais
+Diferenciais
+Experiência com AWS Elastic Beanstalk e AWS Elastic Container Service.Conhecimento em Docker e práticas de containerização.Experiência com CDNs, conceitos e uso eficiente de cache de aplicação.Habilidade em monitorar o estado e performance das aplicações, garantindo alta disponibilidade e eficiência dos serviços.
+Experiência com AWS Elastic Beanstalk e AWS Elastic Container Service.
+Experiência com AWS Elastic Beanstalk e AWS Elastic Container Service.
+Conhecimento em Docker e práticas de containerização.
+Conhecimento em Docker e práticas de containerização.
+Experiência com CDNs, conceitos e uso eficiente de cache de aplicação.
+Experiência com CDNs, conceitos e uso eficiente de cache de aplicação.
+Habilidade em monitorar o estado e performance das aplicações, garantindo alta disponibilidade e eficiência dos serviços.
+Habilidade em monitorar o estado e performance das aplicações, garantindo alta disponibilidade e eficiência dos serviços.
+
+
+
+INFORMAÇÕES ADICIONAIS
+INFORMAÇÕES ADICIONAIS
+INFORMAÇÕES ADICIONAIS
+
+
+
+Benefícios
+Benefícios
+Benefícios
+Contratação CLT full
+Contratação CLT full
+Day off no dia do aniversárioSeguro de saúde, odontológico e de vida de primeira linha sem coparticipação e sem descontoVale Refeição sem descontoAulas de InglêsAulas de EspanholPlano de participação nos lucrosAuxílio CrecheAuxílio para realização de cursos e certificações
+Day off no dia do aniversário
+Day off no dia do aniversário
+Seguro de saúde, odontológico e de vida de primeira linha sem coparticipação e sem desconto
+Seguro de saúde, odontológico e de vida de primeira linha sem coparticipação e sem desconto
+Vale Refeição sem desconto
+Vale Refeição sem desconto
+Aulas de Inglês
+Aulas de Inglês
+Aulas de Espanhol
+Aulas de Espanhol
+Plano de participação nos lucros
+Plano de participação nos lucros
+Auxílio Creche
+Auxílio Creche
+Auxílio para realização de cursos e certificações
+Auxílio para realização de cursos e certificações
+
+
+
+
+
+
+At Agile Content, we are committed to fostering a diverse, equitable, and inclusive workplace. We celebrate diversity and are dedicated to creating an environment where everyone can thrive. We encourage all individuals from of all backgrounds and identities to apply.
+At Agile Content, we are committed to fostering a diverse, equitable, and inclusive workplace. We celebrate diversity and are dedicated to creating an environment where everyone can thrive. We encourage all individuals from of all backgrounds and identities to apply.
+At Agile Content, we are committed to fostering a diverse, equitable, and inclusive workplace. We celebrate diversity and are dedicated to creating an environment where everyone can thrive. We encourage all individuals from of all backgrounds and identities to apply.

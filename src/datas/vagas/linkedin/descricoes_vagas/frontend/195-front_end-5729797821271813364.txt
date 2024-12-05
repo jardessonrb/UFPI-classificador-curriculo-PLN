@@ -1,0 +1,64 @@
+link-https://www.linkedin.com/jobs/view/4058233788/?eBP=CwEAAAGS7kwmQsOLJ0iZ_jKVmqPL2e7VwqgPqxtIzgBla15n7OSF67jvUCq-7ZYShkew-eTnU67wSpVL7CYx-_4dx5zRW80l6ifQ2LE21_egFX8eIlvPfkhZAJ9AAYMqA2xSmcES9jCtnU558FnV3LrQg4-lPoX-BxNpSR0XY0JXECvfbZbr6tm5Nh3pFcHI5JjTJiD7QhgzIgnc-5PeYs-8CbJ-yWtjOE-IVbLahaQoK_xQvsK-U_7GeaqUPiYTlfdvBifdWsDrQCsbdpEAXZNTy2Vl3EMfBfL4P8WJsE-nDe9twwgbFCDaZk_sKzIpcjdZXQPyD2HXTeHXIbZndoY8nDcBUkXwzlmwFjxr5vkmUpxVG68jVGqR6nuGVTuQSxr2tvzxwtubCoJpJ3hZ0SY2ypPjV53BRDRRUlBznGfXEPrMvh1u1EUMfdujGzmguJdx3id-88HEleNpqtJdKiT95Bu3dJcbXiBVnni1RhTDaSpGzPEdCAPzr9vveFFD8ebaftNB9ss&refId=hO00h6DowsyUjLPjVUV30Q%3D%3D&trackingId=3IxlLpSOcT6JueGJXZb%2Bvg%3D%3D&trk=flagship3_search_srp_jobs
+
+Principal Engineer (Frontend)
+Sobre a vaga
+As aFrontend Principal Software Engineeryou will develop modern applications for our product by using state-of-the-art technologies. Your focus will be the execution of the technical roadmap, so code modularity, reusability & testability as well as performance tuning and monitoring will be a part of your day-to-day. Equally important, you will also provide technical guidance to the development teams, enforcing best practices and patterns for our features. More specifically, you will participate in technical analysis, and in collaboration with UI/UX designers, you will have the opportunity to offer the best experience to our customers.Tech Stack:💥 On our frontends, use Vue.js 3, Typescript, VueX, Pinia, Tailwind, Webpack, Vite, Storybook, Jest, Vitest, Openshift, Private npm packages for building our internal shared libraries, Micro frontends architectureAs a Principal Frontend Engineer you will:💥 Write code as we expect our technical leadership to be in the trenches alongside engineers, understand root causes, and lead by example.💥 You understand key frontend performance metrics and have some experience in debugging frameworks such as Lighthouse and ChromeUX.💥 Exert technical influence over multiple teams, actively mentor individuals on advanced technical issues, and help technology managers guide the technical growth of their team members.💥 Support Product and Delivery in building highly scalable solutions aligned with non-functional requirements in terms of performance, security & regulatory.💥 Provide clear hands-on solutions with POCs or actual implementations depending on the particular case and scenario.💥Participate in technical discussions as part of the team. You should be ready to challenge our architecture, propose changes, and ultimately implement them.💥 Become the first point of contact between the Architecture Engineering Team and Development Teams. 💥 Safeguard our engineering processes and the way we deliver software to browsers and mobile devices.What you’ll bring:💥Knowledge of how modern frontend libraries connect data and state to the underlying rendering engine be it a browser DOM or a native mobile API.💥 Good knowledge of frontend integration schemes either on the client side or server side (iframes, micro-frontends, edge includes)💥 Excellent understanding of all the possible ways JavaScript can be shipped to an end client over a network.💥 Experience with server-side rendering in any of the major front-end frameworks is nice to have.💥 Solid experience with bundling tools such as Webpack and Vite.💥 Solid experience with a global store / action-based state management pattern (Redux, VueX, Pinia)💥 Excellent understanding of how SPA frontends can communicate with a BFF and best practices in terms of API design.💥 Excellent knowledge of all newest browser APIs such as service-workers, MutationObserver, ResizeObserver💥 Experience with mobile development either native or through a hybrid model (react-native, ionic, etc) will be considered a plus.If you have interest in this position, feel free to directly apply here or share your CV to eleonora.gottifredi@pentasia.com
+As aFrontend Principal Software Engineeryou will develop modern applications for our product by using state-of-the-art technologies. Your focus will be the execution of the technical roadmap, so code modularity, reusability & testability as well as performance tuning and monitoring will be a part of your day-to-day. Equally important, you will also provide technical guidance to the development teams, enforcing best practices and patterns for our features. More specifically, you will participate in technical analysis, and in collaboration with UI/UX designers, you will have the opportunity to offer the best experience to our customers.
+As aFrontend Principal Software Engineeryou will develop modern applications for our product by using state-of-the-art technologies. Your focus will be the execution of the technical roadmap, so code modularity, reusability & testability as well as performance tuning and monitoring will be a part of your day-to-day. Equally important, you will also provide technical guidance to the development teams, enforcing best practices and patterns for our features. More specifically, you will participate in technical analysis, and in collaboration with UI/UX designers, you will have the opportunity to offer the best experience to our customers.
+Frontend Principal Software Engineer
+
+
+
+
+
+Tech Stack:
+Tech Stack:
+💥 On our frontends, use Vue.js 3, Typescript, VueX, Pinia, Tailwind, Webpack, Vite, Storybook, Jest, Vitest, Openshift, Private npm packages for building our internal shared libraries, Micro frontends architecture
+💥 On our frontends, use Vue.js 3, Typescript, VueX, Pinia, Tailwind, Webpack, Vite, Storybook, Jest, Vitest, Openshift, Private npm packages for building our internal shared libraries, Micro frontends architecture
+
+
+
+As a Principal Frontend Engineer you will:
+As a Principal Frontend Engineer you will:
+💥 Write code as we expect our technical leadership to be in the trenches alongside engineers, understand root causes, and lead by example.
+💥 Write code as we expect our technical leadership to be in the trenches alongside engineers, understand root causes, and lead by example.
+💥 You understand key frontend performance metrics and have some experience in debugging frameworks such as Lighthouse and ChromeUX.
+💥 You understand key frontend performance metrics and have some experience in debugging frameworks such as Lighthouse and ChromeUX.
+💥 Exert technical influence over multiple teams, actively mentor individuals on advanced technical issues, and help technology managers guide the technical growth of their team members.
+💥 Exert technical influence over multiple teams, actively mentor individuals on advanced technical issues, and help technology managers guide the technical growth of their team members.
+💥 Support Product and Delivery in building highly scalable solutions aligned with non-functional requirements in terms of performance, security & regulatory.
+💥 Support Product and Delivery in building highly scalable solutions aligned with non-functional requirements in terms of performance, security & regulatory.
+💥 Provide clear hands-on solutions with POCs or actual implementations depending on the particular case and scenario.
+💥 Provide clear hands-on solutions with POCs or actual implementations depending on the particular case and scenario.
+💥Participate in technical discussions as part of the team. You should be ready to challenge our architecture, propose changes, and ultimately implement them.
+💥Participate in technical discussions as part of the team. You should be ready to challenge our architecture, propose changes, and ultimately implement them.
+💥 Become the first point of contact between the Architecture Engineering Team and Development Teams. 💥 Safeguard our engineering processes and the way we deliver software to browsers and mobile devices.
+💥 Become the first point of contact between the Architecture Engineering Team and Development Teams. 💥 Safeguard our engineering processes and the way we deliver software to browsers and mobile devices.
+
+
+
+What you’ll bring:
+What you’ll bring:
+💥Knowledge of how modern frontend libraries connect data and state to the underlying rendering engine be it a browser DOM or a native mobile API.
+💥Knowledge of how modern frontend libraries connect data and state to the underlying rendering engine be it a browser DOM or a native mobile API.
+💥 Good knowledge of frontend integration schemes either on the client side or server side (iframes, micro-frontends, edge includes)
+💥 Good knowledge of frontend integration schemes either on the client side or server side (iframes, micro-frontends, edge includes)
+💥 Excellent understanding of all the possible ways JavaScript can be shipped to an end client over a network.
+💥 Excellent understanding of all the possible ways JavaScript can be shipped to an end client over a network.
+💥 Experience with server-side rendering in any of the major front-end frameworks is nice to have.
+💥 Experience with server-side rendering in any of the major front-end frameworks is nice to have.
+💥 Solid experience with bundling tools such as Webpack and Vite.
+💥 Solid experience with bundling tools such as Webpack and Vite.
+💥 Solid experience with a global store / action-based state management pattern (Redux, VueX, Pinia)
+💥 Solid experience with a global store / action-based state management pattern (Redux, VueX, Pinia)
+💥 Excellent understanding of how SPA frontends can communicate with a BFF and best practices in terms of API design.
+💥 Excellent understanding of how SPA frontends can communicate with a BFF and best practices in terms of API design.
+💥 Excellent knowledge of all newest browser APIs such as service-workers, MutationObserver, ResizeObserver
+💥 Excellent knowledge of all newest browser APIs such as service-workers, MutationObserver, ResizeObserver
+💥 Experience with mobile development either native or through a hybrid model (react-native, ionic, etc) will be considered a plus.
+💥 Experience with mobile development either native or through a hybrid model (react-native, ionic, etc) will be considered a plus.
+
+
+
+If you have interest in this position, feel free to directly apply here or share your CV to eleonora.gottifredi@pentasia.com
+If you have interest in this position, feel free to directly apply here or share your CV to eleonora.gottifredi@pentasia.com

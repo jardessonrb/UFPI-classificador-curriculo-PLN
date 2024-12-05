@@ -1,0 +1,95 @@
+link-https://www.linkedin.com/jobs/view/4045062661/?eBP=CwEAAAGS7kaWvAzPLV3zHCZ7BR8G0djdtL8HN7qCabz-gw-MhNojEtUhtrLm92UkcHpmT7A9pjnTWdPjxXZGoiyWjWnQEYp6A0lv7Ey3W6-cQPbOPnkAMuE1xyOV7yZt9FNNWpzn0iqYsIlKqyKLaxObo3H8l3yB-2c9IAMzNoA4d-ne0O83YvSC69g5BkQ13Y_hJ7XDf0g94vY9yI6vHLAf0jKhKrvYZiPgGKoec0wFlKfZoTiPuaMW0otcdobzzv-cLz7YTxgYHvFrPZ4JDxiEoBnJx_ldBydL0I-oeHgt27vqJ-qCM33hk6uYdKeZQeK3-tFspM8PQWaxhCKZZWcl4146dsxarCROxHneVOhwsxUW6AkbXsh6kOSBWZS5KXLNNaf457sOqA7-OxblF_xaRiOZzI4h6lMpI4FnqZWGIDU2Zn5rWZ7ISDbcKaTf2jaFKv4-5K8SGKePPB_N7DzSsVBXZbIN7-WUExa_U2_7K7Hz33cq559M7U1s9hrh9SaT5YcqVMMpW6Z7nLE&refId=y3v09vom4ZilCo%2B5m9ToEQ%3D%3D&trackingId=VUFaoPm%2BGvzvOwICtuNdmA%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr. Quality Assurance (Delivery team)
+Sobre a vaga
+What The Candidate Will Need / Bonus Points---- What the Candidate Will Do ----Lead end-to-end test design, execution, and maintenance of new features within the UberEats space, collaborating with US-based product/engineering teams and offshore/onshore testing vendors.Act as a senior point of contact and strategic advisor between cross-functional teams and offshore testers, driving quality and accountability.Implement flexible and scalable processes to ensure efficient workflow across teams, aligning with larger organizational goals.Establish and manage comprehensive regression testing strategies to guarantee the integrity of existing features.Proactively identify quality gaps and recommend technical, process, and tooling improvements to strengthen the quality ecosystem.Communicate testing issues, propose data-driven solutions, and drive resolutions.Oversee offshore bug management teams, ensuring thorough bug triage and prompt resolutions.Collaborate closely with Release Management to ensure timely and high-quality releases of apps and features.Translate complex Product/Engineering requirements into detailed test flows and test cases for effective coverage.Mentor and coach team members, fostering subject matter expertise in testing practices and the product domain.Manage project risks, stakeholder expectations, and ensure alignment across engineering, operations, and external testing contractors.---- Basic Qualifications ----Senior experience in manual and/or automated testing of consumer-facing mobile and web applications.Strong project management skills, with a track record of managing complex, large-scale testing projects.Proficiency in risk management, stakeholder management, conflict resolution, and project communication.Expertise with iOS, Android devices, web browsers, and macOS environments.Fluency in written and spoken English.Deep understanding of SDLC, PRD, ERD, bug lifecycle, and quality processes.Strong working knowledge of Jira, bug trackers, and Test Case Management tools.Experience working with global teams across multiple time zones (especially US/India).---- Preferred Qualifications (what will be a plus!) ----Having had a Program Manager or Leadership previous experience.Experience in quality assurance of global consumer applications in continuous integration/continuous delivery environments.Expertise in testing scalable, end-to-end mobile and web solutions, including API testing with tools like Postman and Charles Proxy.Familiarity with network debugging and monitoring tools for mobile and web applications.Demonstrated ability to process and analyze large data sets to drive improvements and inform decision-making.Experience with rideshare or delivery industry applications, including customer support or related roles.
+What The Candidate Will Need / Bonus Points
+
+
+
+
+Lead end-to-end test design, execution, and maintenance of new features within the UberEats space, collaborating with US-based product/engineering teams and offshore/onshore testing vendors.Act as a senior point of contact and strategic advisor between cross-functional teams and offshore testers, driving quality and accountability.Implement flexible and scalable processes to ensure efficient workflow across teams, aligning with larger organizational goals.Establish and manage comprehensive regression testing strategies to guarantee the integrity of existing features.Proactively identify quality gaps and recommend technical, process, and tooling improvements to strengthen the quality ecosystem.Communicate testing issues, propose data-driven solutions, and drive resolutions.Oversee offshore bug management teams, ensuring thorough bug triage and prompt resolutions.Collaborate closely with Release Management to ensure timely and high-quality releases of apps and features.Translate complex Product/Engineering requirements into detailed test flows and test cases for effective coverage.Mentor and coach team members, fostering subject matter expertise in testing practices and the product domain.Manage project risks, stakeholder expectations, and ensure alignment across engineering, operations, and external testing contractors.
+Lead end-to-end test design, execution, and maintenance of new features within the UberEats space, collaborating with US-based product/engineering teams and offshore/onshore testing vendors.
+Lead end-to-end test design, execution, and maintenance of new features within the UberEats space, collaborating with US-based product/engineering teams and offshore/onshore testing vendors.
+
+Act as a senior point of contact and strategic advisor between cross-functional teams and offshore testers, driving quality and accountability.
+Act as a senior point of contact and strategic advisor between cross-functional teams and offshore testers, driving quality and accountability.
+
+Implement flexible and scalable processes to ensure efficient workflow across teams, aligning with larger organizational goals.
+Implement flexible and scalable processes to ensure efficient workflow across teams, aligning with larger organizational goals.
+
+Establish and manage comprehensive regression testing strategies to guarantee the integrity of existing features.
+Establish and manage comprehensive regression testing strategies to guarantee the integrity of existing features.
+
+Proactively identify quality gaps and recommend technical, process, and tooling improvements to strengthen the quality ecosystem.
+Proactively identify quality gaps and recommend technical, process, and tooling improvements to strengthen the quality ecosystem.
+
+Communicate testing issues, propose data-driven solutions, and drive resolutions.
+Communicate testing issues, propose data-driven solutions, and drive resolutions.
+
+Oversee offshore bug management teams, ensuring thorough bug triage and prompt resolutions.
+Oversee offshore bug management teams, ensuring thorough bug triage and prompt resolutions.
+
+Collaborate closely with Release Management to ensure timely and high-quality releases of apps and features.
+Collaborate closely with Release Management to ensure timely and high-quality releases of apps and features.
+
+Translate complex Product/Engineering requirements into detailed test flows and test cases for effective coverage.
+Translate complex Product/Engineering requirements into detailed test flows and test cases for effective coverage.
+
+Mentor and coach team members, fostering subject matter expertise in testing practices and the product domain.
+Mentor and coach team members, fostering subject matter expertise in testing practices and the product domain.
+
+Manage project risks, stakeholder expectations, and ensure alignment across engineering, operations, and external testing contractors.
+Manage project risks, stakeholder expectations, and ensure alignment across engineering, operations, and external testing contractors.
+
+
+
+
+
+Senior experience in manual and/or automated testing of consumer-facing mobile and web applications.Strong project management skills, with a track record of managing complex, large-scale testing projects.Proficiency in risk management, stakeholder management, conflict resolution, and project communication.Expertise with iOS, Android devices, web browsers, and macOS environments.Fluency in written and spoken English.Deep understanding of SDLC, PRD, ERD, bug lifecycle, and quality processes.Strong working knowledge of Jira, bug trackers, and Test Case Management tools.Experience working with global teams across multiple time zones (especially US/India).
+Senior experience in manual and/or automated testing of consumer-facing mobile and web applications.
+Senior experience in manual and/or automated testing of consumer-facing mobile and web applications.
+
+Strong project management skills, with a track record of managing complex, large-scale testing projects.
+Strong project management skills, with a track record of managing complex, large-scale testing projects.
+
+Proficiency in risk management, stakeholder management, conflict resolution, and project communication.
+Proficiency in risk management, stakeholder management, conflict resolution, and project communication.
+
+Expertise with iOS, Android devices, web browsers, and macOS environments.
+Expertise with iOS, Android devices, web browsers, and macOS environments.
+
+Fluency in written and spoken English.
+Fluency in written and spoken English.
+
+Deep understanding of SDLC, PRD, ERD, bug lifecycle, and quality processes.
+Deep understanding of SDLC, PRD, ERD, bug lifecycle, and quality processes.
+
+Strong working knowledge of Jira, bug trackers, and Test Case Management tools.
+Strong working knowledge of Jira, bug trackers, and Test Case Management tools.
+
+Experience working with global teams across multiple time zones (especially US/India).
+Experience working with global teams across multiple time zones (especially US/India).
+
+
+
+
+
+Having had a Program Manager or Leadership previous experience.Experience in quality assurance of global consumer applications in continuous integration/continuous delivery environments.Expertise in testing scalable, end-to-end mobile and web solutions, including API testing with tools like Postman and Charles Proxy.Familiarity with network debugging and monitoring tools for mobile and web applications.Demonstrated ability to process and analyze large data sets to drive improvements and inform decision-making.Experience with rideshare or delivery industry applications, including customer support or related roles.
+Having had a Program Manager or Leadership previous experience.
+Having had a Program Manager or Leadership previous experience.
+
+Experience in quality assurance of global consumer applications in continuous integration/continuous delivery environments.
+Experience in quality assurance of global consumer applications in continuous integration/continuous delivery environments.
+
+Expertise in testing scalable, end-to-end mobile and web solutions, including API testing with tools like Postman and Charles Proxy.
+Expertise in testing scalable, end-to-end mobile and web solutions, including API testing with tools like Postman and Charles Proxy.
+
+Familiarity with network debugging and monitoring tools for mobile and web applications.
+Familiarity with network debugging and monitoring tools for mobile and web applications.
+
+Demonstrated ability to process and analyze large data sets to drive improvements and inform decision-making.
+Demonstrated ability to process and analyze large data sets to drive improvements and inform decision-making.
+
+Experience with rideshare or delivery industry applications, including customer support or related roles.
+Experience with rideshare or delivery industry applications, including customer support or related roles.

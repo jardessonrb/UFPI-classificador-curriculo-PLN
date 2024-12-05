@@ -1,0 +1,108 @@
+link-https://www.linkedin.com/jobs/view/4049492716/?eBP=CwEAAAGS7k1YXKCyIiBtUdoydg4iCNCN7U38DDNlg_UF_JBorpSRFnLpT7pTITsnINcEIpQ4xSZZtMg51P0YP0zosBOLBxiCCP6njWnG82pmQsH93CHJdbt_BC7Upwbc4SaU_br3qj_rAdfRzoNeY-GTTNsT2TZGBwiA_YspF92YUvWSg_1SfhUwjxz4SAT0Z79DrSuLnTBGG5HzEszAVmirS81JxsNLRg353CUpzKHqXe2jMgo2H231ZIa0ebqHd63DUBDHg0qekjVnfamDKSNLJUJzQAxtxtQNRvy2gW2XSJWAgzvt7ob_-n2rL4qu_RzkCVraTKyCgVf_mTo0oOt6UlBlcL12x9rleF343TfDudwhFTqa6usB8RxeZdDa8P9M6Umhgem25j69zCHGIz9I7eewHKiDZlPFO65x9dgKaawBpEp9TqE9abFZTmk_W4ffGvENMVzLMqudmvl8qmY6dWFFujigBnHy8EQd5cMojSYE&refId=Jqh2BgaLRlw4xkF48ydSWA%3D%3D&trackingId=qMAnVN%2BNc5VFerSA2QNOlQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Engenheiro(a) de Software Frontend Sênior | IT BTG Empresas
+Sobre a vaga
+Sobre a ÁreaNosso time é responsável pelos portais da plataforma de varejo digital do BTG Pactual Empresas. Desenvolvemos soluções inovadoras que oferecem um diferencial competitivo para nossos clientes e para o mercado. Trabalhamos em estreita colaboração com o time de negócios, promovendo agilidade e eficiência nas decisões. Somos uma equipe dinâmica e versátil, comprometida com entregas de alta qualidade e escalabilidade. Valorizamos o aprendizado contínuo, o esforço e o trabalho em equipe.No Seu Dia a DiaLevantar requisitos funcionais e não funcionais, alinhando visão técnica com a de negócios;Discutir soluções e se relacionar com a área de negócios e outros times de IT;Participar das dinâmicas de desenvolvimento ágil, buscando organização e produtividade;Desenvolver funcionalidades e novos sistemas para suprir demandas de negócios e/ou clientes;Trabalhar com tecnologias e linguagens como TypeScript, React, Vite, Cypress, Git e Datadog;Melhorar padrões de projetos, ferramentas e processos;Utilizar frameworks CSS modernos como Tailwind CSS ou styled-components;Garantir a responsividade, acessibilidade e performance das aplicações;Propor e implementar soluções criativas escaláveis e sustentáveis;Construir frontends escaláveis, resilientes e observáveis, seguindo as melhores práticas de UX;Implementar e manter testes automatizados para assegurar a qualidade do código.Esperamos De VocêGraduação superior completa em Ciência da Computação, Engenharia da Computação ou áreas relacionadasDisponibilidade para trabalho híbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo;Experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React);Familiaridade com ferramentas de construção modernas como Vite e Webpack;Experiência com design responsivo e otimização de performance;Conhecimento em práticas de acessibilidade;Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio;Compromisso com a melhoria contínua da experiência do usuário;Apreciação pela importância de uma boa documentação e testes automatizados;Conhecimento profundo das "Rules of React" e melhores práticas de desenvolvimento com React;Experiência com práticas modernas de CI/CD e DevOps;Experiência com backend, especialmente em Elixir ou C#, será considerada um diferencial;Habilidade de se destacar em um ambiente colaborativo e dinâmico.BenefíciosParticipação nos Lucros e Resultados (PLR);Auxílio Alimentação e Refeição;Plano Médico;Plano Odontológico;Auxílio Creche/Babá;Vale Transporte;WellHub;TotalPass;Programa de Apoio Pessoal (EAP);Planos por adesão como Previdência Privada e Seguro de Vida;Desconto em Farmácia;Programa de Nutrição;Programa de Gestantes;Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+Sobre a Área
+
+
+
+
+No Seu Dia a Dia
+
+
+Levantar requisitos funcionais e não funcionais, alinhando visão técnica com a de negócios;Discutir soluções e se relacionar com a área de negócios e outros times de IT;Participar das dinâmicas de desenvolvimento ágil, buscando organização e produtividade;Desenvolver funcionalidades e novos sistemas para suprir demandas de negócios e/ou clientes;Trabalhar com tecnologias e linguagens como TypeScript, React, Vite, Cypress, Git e Datadog;Melhorar padrões de projetos, ferramentas e processos;Utilizar frameworks CSS modernos como Tailwind CSS ou styled-components;Garantir a responsividade, acessibilidade e performance das aplicações;Propor e implementar soluções criativas escaláveis e sustentáveis;Construir frontends escaláveis, resilientes e observáveis, seguindo as melhores práticas de UX;Implementar e manter testes automatizados para assegurar a qualidade do código.
+Levantar requisitos funcionais e não funcionais, alinhando visão técnica com a de negócios;
+Levantar requisitos funcionais e não funcionais, alinhando visão técnica com a de negócios;
+Discutir soluções e se relacionar com a área de negócios e outros times de IT;
+Discutir soluções e se relacionar com a área de negócios e outros times de IT;
+Participar das dinâmicas de desenvolvimento ágil, buscando organização e produtividade;
+Participar das dinâmicas de desenvolvimento ágil, buscando organização e produtividade;
+Desenvolver funcionalidades e novos sistemas para suprir demandas de negócios e/ou clientes;
+Desenvolver funcionalidades e novos sistemas para suprir demandas de negócios e/ou clientes;
+
+Trabalhar com tecnologias e linguagens como TypeScript, React, Vite, Cypress, Git e Datadog;
+Trabalhar com tecnologias e linguagens como TypeScript, React, Vite, Cypress, Git e Datadog;
+Melhorar padrões de projetos, ferramentas e processos;
+Melhorar padrões de projetos, ferramentas e processos;
+Utilizar frameworks CSS modernos como Tailwind CSS ou styled-components;
+Utilizar frameworks CSS modernos como Tailwind CSS ou styled-components;
+
+Garantir a responsividade, acessibilidade e performance das aplicações;
+Garantir a responsividade, acessibilidade e performance das aplicações;
+Propor e implementar soluções criativas escaláveis e sustentáveis;
+Propor e implementar soluções criativas escaláveis e sustentáveis;
+Construir frontends escaláveis, resilientes e observáveis, seguindo as melhores práticas de UX;
+Construir frontends escaláveis, resilientes e observáveis, seguindo as melhores práticas de UX;
+Implementar e manter testes automatizados para assegurar a qualidade do código.
+Implementar e manter testes automatizados para assegurar a qualidade do código.
+
+
+
+Esperamos De Você
+
+
+Graduação superior completa em Ciência da Computação, Engenharia da Computação ou áreas relacionadasDisponibilidade para trabalho híbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo;Experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React);Familiaridade com ferramentas de construção modernas como Vite e Webpack;Experiência com design responsivo e otimização de performance;Conhecimento em práticas de acessibilidade;Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio;Compromisso com a melhoria contínua da experiência do usuário;Apreciação pela importância de uma boa documentação e testes automatizados;Conhecimento profundo das "Rules of React" e melhores práticas de desenvolvimento com React;Experiência com práticas modernas de CI/CD e DevOps;Experiência com backend, especialmente em Elixir ou C#, será considerada um diferencial;Habilidade de se destacar em um ambiente colaborativo e dinâmico.
+Graduação superior completa em Ciência da Computação, Engenharia da Computação ou áreas relacionadas
+Graduação superior completa em Ciência da Computação, Engenharia da Computação ou áreas relacionadas
+Disponibilidade para trabalho híbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo;
+Disponibilidade para trabalho híbrido em nosso escritório da Avenida Brigadeiro Faria Lima, São Paulo;
+
+Experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React);
+Experiência em desenvolvimento de software com foco em frontend (HTML5, CSS3, TypeScript e React);
+Familiaridade com ferramentas de construção modernas como Vite e Webpack;
+Familiaridade com ferramentas de construção modernas como Vite e Webpack;
+Experiência com design responsivo e otimização de performance;
+Experiência com design responsivo e otimização de performance;
+
+Conhecimento em práticas de acessibilidade;
+Conhecimento em práticas de acessibilidade;
+Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio;
+Forte habilidade de comunicação escrita e verbal, capaz de se comunicar eficazmente com lideranças, clientes e áreas de negócio;
+Compromisso com a melhoria contínua da experiência do usuário;
+Compromisso com a melhoria contínua da experiência do usuário;
+Apreciação pela importância de uma boa documentação e testes automatizados;
+Apreciação pela importância de uma boa documentação e testes automatizados;
+Conhecimento profundo das "Rules of React" e melhores práticas de desenvolvimento com React;
+Conhecimento profundo das "Rules of React" e melhores práticas de desenvolvimento com React;
+Experiência com práticas modernas de CI/CD e DevOps;
+Experiência com práticas modernas de CI/CD e DevOps;
+Experiência com backend, especialmente em Elixir ou C#, será considerada um diferencial;
+Experiência com backend, especialmente em Elixir ou C#, será considerada um diferencial;
+
+Habilidade de se destacar em um ambiente colaborativo e dinâmico.
+Habilidade de se destacar em um ambiente colaborativo e dinâmico.
+
+
+Benefícios
+
+
+Participação nos Lucros e Resultados (PLR);Auxílio Alimentação e Refeição;Plano Médico;Plano Odontológico;Auxílio Creche/Babá;Vale Transporte;WellHub;TotalPass;Programa de Apoio Pessoal (EAP);Planos por adesão como Previdência Privada e Seguro de Vida;Desconto em Farmácia;Programa de Nutrição;Programa de Gestantes;Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+Participação nos Lucros e Resultados (PLR);
+Participação nos Lucros e Resultados (PLR);
+Auxílio Alimentação e Refeição;
+Auxílio Alimentação e Refeição;
+Plano Médico;
+Plano Médico;
+Plano Odontológico;
+Plano Odontológico;
+Auxílio Creche/Babá;
+Auxílio Creche/Babá;
+Vale Transporte;
+Vale Transporte;
+WellHub;
+WellHub;
+TotalPass;
+TotalPass;
+Programa de Apoio Pessoal (EAP);
+Programa de Apoio Pessoal (EAP);
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Planos por adesão como Previdência Privada e Seguro de Vida;
+Desconto em Farmácia;
+Desconto em Farmácia;
+Programa de Nutrição;
+Programa de Nutrição;
+Programa de Gestantes;
+Programa de Gestantes;
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+Licença Maternidade e Paternidade Estendida – empresa Cidadã.

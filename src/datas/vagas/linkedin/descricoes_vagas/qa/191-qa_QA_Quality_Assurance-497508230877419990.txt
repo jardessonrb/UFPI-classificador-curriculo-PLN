@@ -1,0 +1,87 @@
+link-https://www.linkedin.com/jobs/view/4017267315/?eBP=CwEAAAGS7kZcznGn93UApJk1eUe39wi6i8IKTqiEVsa2oAkr3jSdI89ryo7WvjkN71e2orEkm3lIRBOTTiF3yj7daSoQ5s3HlfK9ip5CYnCmtgcHTILV40xGcDhjdq66n6D3ZH2iOBu-4KQJaKtJmx_NfyMNmuu30f3YEKBCtC9hSKtJtAAAjaMj6o3LsjsKG0T6nyVQGNYOHLwVLvSTwrzHIRKWjHAx2dzbXaoKgSlRzgqOgNAdSAtqRR-v2Rgl9PZ333A4Y9cIjjVdWyojFBkO064Mb4brCx2-p1minhzMC29ZXA0YD5lMLw0amBO_VNZpDP9cFRIrULYMA0XcntWJfO_gjUHykSZP89cyFXlOc9qQJUDky2FZ8vyDNZC6d8fAAbsCsJQC4IW1iio-L0bnAtN6Zz5ImGPFD0YdsOY7-KF1xGdRi-oEtqx-EQHNaeq_OWxOlRWcFQpmcyp8uWoCqvwNq12XVFbucbpKGwbu6EAS6r_R_gk8KPbNo7lbXb-6dgIfjT0&refId=hDFoZRnZMysewv9JP8NQaA%3D%3D&trackingId=Oaevgr9PFrlGgUIvyw9eqA%3D%3D&trk=flagship3_search_srp_jobs
+
+Quality Assurance Engineer, eero QA
+Sobre a vaga
+Descriptioneero is looking for a highly focused QA Engineer to work on critical mobile application testing projects that keep our platform running smoothly. You will help the QA team validate software releases and ensure a great customer experience.You'll work closely across multi-functional development teams to help discover, recreate, and debug issues. You will have the opportunity to contribute to and grow our mobile automation for both iOS and Android.At eero we believe in encouraging career growth through on-the-job learning and skills development.Key job responsibilitiesParticipate in the software development life cycle from beginning to endCreate and execute test plans for existing products and featuresWork with development teams to define testing protocol for new features as they are designed and developedProvide additional cross functional test support for other team membersDevelop test scenarios from requirements and ensure maximum requirement traceability.Providing detailed bug reports to the Engineering Team using JIRACreate detailed documentation to share your product and feature knowledge across the QA team and eero organizationBasic QualificationsBachelor's degree in computer science, engineering, mathematics or equivalent3+ years in a Quality assurance role out of which at least 2+ years are in testing mobile applicationsCombination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation toolsPassion for all things mobile - especially applications on phones and tabletsExperience working on different applications and operating systems: iOS and various flavors of AndroidExperience manually building apps onto the simulator or devices with Xcode and Android StudioAbility to work independently and within a testing teamPreferred QualificationsExperience with consumer networking hardware such as routers, switches, wireless access pointsSome level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experienceExperience testing cloud APIsCompany- Amazon Servicos de Varejo do Brasil Ltda. - C41Job ID: A2756795
+Description
+
+
+
+
+
+
+
+
+
+
+Participate in the software development life cycle from beginning to endCreate and execute test plans for existing products and featuresWork with development teams to define testing protocol for new features as they are designed and developedProvide additional cross functional test support for other team membersDevelop test scenarios from requirements and ensure maximum requirement traceability.Providing detailed bug reports to the Engineering Team using JIRACreate detailed documentation to share your product and feature knowledge across the QA team and eero organization
+Participate in the software development life cycle from beginning to end
+Participate in the software development life cycle from beginning to end
+
+Create and execute test plans for existing products and features
+Create and execute test plans for existing products and features
+
+Work with development teams to define testing protocol for new features as they are designed and developed
+Work with development teams to define testing protocol for new features as they are designed and developed
+
+Provide additional cross functional test support for other team members
+Provide additional cross functional test support for other team members
+
+Develop test scenarios from requirements and ensure maximum requirement traceability.
+Develop test scenarios from requirements and ensure maximum requirement traceability.
+
+Providing detailed bug reports to the Engineering Team using JIRA
+Providing detailed bug reports to the Engineering Team using JIRA
+
+Create detailed documentation to share your product and feature knowledge across the QA team and eero organization
+Create detailed documentation to share your product and feature knowledge across the QA team and eero organization
+
+
+
+Basic Qualifications
+
+
+Bachelor's degree in computer science, engineering, mathematics or equivalent3+ years in a Quality assurance role out of which at least 2+ years are in testing mobile applicationsCombination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation toolsPassion for all things mobile - especially applications on phones and tabletsExperience working on different applications and operating systems: iOS and various flavors of AndroidExperience manually building apps onto the simulator or devices with Xcode and Android StudioAbility to work independently and within a testing team
+Bachelor's degree in computer science, engineering, mathematics or equivalent
+Bachelor's degree in computer science, engineering, mathematics or equivalent
+
+3+ years in a Quality assurance role out of which at least 2+ years are in testing mobile applications
+3+ years in a Quality assurance role out of which at least 2+ years are in testing mobile applications
+
+Combination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools
+Combination of solid in-depth knowledge of quality assurance, solid understanding of web/mobile technologies, as well as knowledge of automation tools
+
+Passion for all things mobile - especially applications on phones and tablets
+Passion for all things mobile - especially applications on phones and tablets
+
+Experience working on different applications and operating systems: iOS and various flavors of Android
+Experience working on different applications and operating systems: iOS and various flavors of Android
+
+Experience manually building apps onto the simulator or devices with Xcode and Android Studio
+Experience manually building apps onto the simulator or devices with Xcode and Android Studio
+
+Ability to work independently and within a testing team
+Ability to work independently and within a testing team
+
+
+
+Preferred Qualifications
+
+
+Experience with consumer networking hardware such as routers, switches, wireless access pointsSome level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experienceExperience testing cloud APIs
+Experience with consumer networking hardware such as routers, switches, wireless access points
+Experience with consumer networking hardware such as routers, switches, wireless access points
+
+Some level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience
+Some level of mobile or web automation (using Selenium, Appium, Robotium, UIAutomator etc) experience
+
+Experience testing cloud APIs
+Experience testing cloud APIs
+
+
+
+
+Company
+
+
+

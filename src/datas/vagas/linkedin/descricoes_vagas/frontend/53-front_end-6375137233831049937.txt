@@ -1,0 +1,122 @@
+link-https://www.linkedin.com/jobs/view/4046434435/?eBP=CwEAAAGS7kv1YBXPIDovgZQXwHZDMwQGXe7XrMqQAfQ21x0PMuskiKBnWBx4sdJJ4gP9mpk3pveBglgjX1qzHYhxBOwFcqUsZd893bxpSipIx6JF02FVmGEnB-11sRbUne3Aji3vU9dhXjc-ncUv-n_1VdqsG0VHOvP3HGUItmok_xTtUTVJ2avNMsA-nTgCN2jOIu-_vW0y09GAJ6sFdArArMap7IC2I5TiD1zTRUwo4EvDDukXPnGT8nPcRe_S6wIfJ9fupqnaOpIgLr-0lgVVEEHVMzEf99Dc6qOjlCv43LSrc62GMGqekrMyfj59g02HMjrzIB85xE3J2N0FtvA0QWMGVbOWz4xUj2n4ELEEwS2K50fTa6Q4a9wINy4cWWSbVZECC2HO0Ga4uj5Rb0WBuvFFPvkJp7Bqjk2GvmsrrcyRauRUzPquAJABpU_Y50W3Kg1FsuI6ba1lUYMyjV0UAOqjiauD_m8s2tyAX9wgwIH_qxx4QMVKlwnpajLiptxlhVB9&refId=YgUVrAkRv2DiwuaWY1zF5Q%3D%3D&trackingId=c%2FZYKiLymBzQHa9YGfsJCw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor de front-end Angular Sênior
+Sobre a vaga
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 9k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.Você atuará em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da MinsaitVocê será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.Venha ser um Minsaiter!Requisitos TécnicosAngular 16 (com experiência em versões anteriores e adaptabilidade a novas versões).Javascript, TypeScript, Node.jsRecursos dentro do Angular, sabe utilizar bem RgxJs, Css, Sass.Experiencia com HTTP Interceptor e demais formas de consumos de serviços.HTML, CSS (Pré-processadores - Sass, Less, Stylus)Experiencia no desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System.Java (Spring Boot) com experiência comprovada em desenvolvimento Backend.Integrações com APIs.Desenvolvimento e arquitetura de aplicações utilizando micro frontend Angular.Preferência por candidatos com experiência no segmento bancário, seguros ou similares.Experiência em construção de sistemas (preferencialmente com Angular)Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário.Conhecimentos em segurança de aplicações web (OAuth, JWT etc.)Familiaridade com metodologias ágeis (Scrum, Kanban).Se você possui a experiência e as habilidades necessárias para se destacar como Pessoa Desenvolvedora front-end / Angular, candidate-se! ✨ Aguardamos ansiosamente para conhecer você e discutir como sua expertise pode contribuir para o sucesso de nossa equipe!INFORMAÇÕES ADICIONAISTRABALHE NA MINSAITModelo de contratação CLT.Plano de Saúde subsidiado pela empresa para o titular.Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.Assistência Odontológica (opcional).Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.Vale Refeição ou Vale Alimentação.Vale Transporte (opcional).Gympass (Acesso a mais de 700 academias em todo o Brasil, descontado em“ Nosso compromisso com a diversidade é um elemento-chave da nossa cultura: Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.Todas as vagas são abertas também para PCDs.”
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 9k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 9k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.
+
+
+
+
+
+
+Você atuará em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.
+Você atuará em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.
+Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait
+Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait
+Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.
+Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.
+
+
+
+Venha ser um Minsaiter!
+Venha ser um Minsaiter!
+
+
+
+
+
+
+Requisitos Técnicos
+Requisitos Técnicos
+Requisitos Técnicos
+
+
+
+Angular 16 (com experiência em versões anteriores e adaptabilidade a novas versões).Javascript, TypeScript, Node.jsRecursos dentro do Angular, sabe utilizar bem RgxJs, Css, Sass.Experiencia com HTTP Interceptor e demais formas de consumos de serviços.HTML, CSS (Pré-processadores - Sass, Less, Stylus)Experiencia no desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System.Java (Spring Boot) com experiência comprovada em desenvolvimento Backend.Integrações com APIs.Desenvolvimento e arquitetura de aplicações utilizando micro frontend Angular.Preferência por candidatos com experiência no segmento bancário, seguros ou similares.Experiência em construção de sistemas (preferencialmente com Angular)Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário.Conhecimentos em segurança de aplicações web (OAuth, JWT etc.)Familiaridade com metodologias ágeis (Scrum, Kanban).
+Angular 16 (com experiência em versões anteriores e adaptabilidade a novas versões).
+Angular 16 (com experiência em versões anteriores e adaptabilidade a novas versões).
+Javascript, TypeScript, Node.js
+Javascript, TypeScript, Node.js
+Recursos dentro do Angular, sabe utilizar bem RgxJs, Css, Sass.
+Recursos dentro do Angular, sabe utilizar bem RgxJs, Css, Sass.
+Experiencia com HTTP Interceptor e demais formas de consumos de serviços.
+Experiencia com HTTP Interceptor e demais formas de consumos de serviços.
+HTML, CSS (Pré-processadores - Sass, Less, Stylus)
+HTML, CSS (Pré-processadores - Sass, Less, Stylus)
+Experiencia no desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System.
+Experiencia no desenvolvimento de telas e prototipação utilizando ferramentas de UI/UX de mercado como Figma, e outros Design System.
+Java (Spring Boot) com experiência comprovada em desenvolvimento Backend.
+Java (Spring Boot) com experiência comprovada em desenvolvimento Backend.
+Integrações com APIs.
+Integrações com APIs.
+Desenvolvimento e arquitetura de aplicações utilizando micro frontend Angular.
+Desenvolvimento e arquitetura de aplicações utilizando micro frontend Angular.
+Preferência por candidatos com experiência no segmento bancário, seguros ou similares.
+Preferência por candidatos com experiência no segmento bancário, seguros ou similares.
+Experiência em construção de sistemas (preferencialmente com Angular)
+Experiência em construção de sistemas (preferencialmente com Angular)
+Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário.
+Conhecimentos em princípios de UX/UI para desenvolvimento de interfaces amigáveis ao usuário.
+Conhecimentos em segurança de aplicações web (OAuth, JWT etc.)
+Conhecimentos em segurança de aplicações web (OAuth, JWT etc.)
+Familiaridade com metodologias ágeis (Scrum, Kanban).
+Familiaridade com metodologias ágeis (Scrum, Kanban).
+
+
+
+
+
+
+
+
+
+Se você possui a experiência e as habilidades necessárias para se destacar como Pessoa Desenvolvedora front-end / Angular, candidate-se! ✨ Aguardamos ansiosamente para conhecer você e discutir como sua expertise pode contribuir para o sucesso de nossa equipe!
+Se você possui a experiência e as habilidades necessárias para se destacar como Pessoa Desenvolvedora front-end / Angular, candidate-se! ✨ Aguardamos ansiosamente para conhecer você e discutir como sua expertise pode contribuir para o sucesso de nossa equipe!
+Se você possui a experiência e as habilidades necessárias para se destacar como Pessoa Desenvolvedora front-end / Angular
+
+
+
+
+
+
+INFORMAÇÕES ADICIONAIS
+INFORMAÇÕES ADICIONAIS
+INFORMAÇÕES ADICIONAIS
+TRABALHE NA MINSAIT
+TRABALHE NA MINSAIT
+
+
+
+Modelo de contratação CLT.Plano de Saúde subsidiado pela empresa para o titular.Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.Assistência Odontológica (opcional).Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.Vale Refeição ou Vale Alimentação.Vale Transporte (opcional).Gympass (Acesso a mais de 700 academias em todo o Brasil, descontado em
+Modelo de contratação CLT.
+Modelo de contratação CLT.
+Plano de Saúde subsidiado pela empresa para o titular.
+Plano de Saúde subsidiado pela empresa para o titular.
+Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.
+Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.
+Assistência Odontológica (opcional).
+Assistência Odontológica (opcional).
+Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.
+Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.
+Vale Refeição ou Vale Alimentação.
+Vale Refeição ou Vale Alimentação.
+Vale Transporte (opcional).
+Vale Transporte (opcional).
+Gympass (Acesso a mais de 700 academias em todo o Brasil, descontado em
+Gympass (Acesso a mais de 700 academias em todo o Brasil, descontado em
+
+
+
+
+
+
+“ Nosso compromisso com a diversidade é um elemento-chave da nossa cultura: Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.
+“ Nosso compromisso com a diversidade é um elemento-chave da nossa cultura: Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.
+
+
+
+Todas as vagas são abertas também para PCDs.”
+Todas as vagas são abertas também para PCDs.”
+Todas as vagas são abertas também para PCDs.”

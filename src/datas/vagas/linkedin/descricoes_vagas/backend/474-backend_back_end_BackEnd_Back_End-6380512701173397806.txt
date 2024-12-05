@@ -1,0 +1,56 @@
+link-https://www.linkedin.com/jobs/view/4064309952/?eBP=CwEAAAGS7lCK8ayec2e2oUjKtqooiel8h8h4O7-3y2j43Td-Y7BPLGGzVWxDm5VkJLBcHXvvbfAoTrqtO-hoe_oUulei3frHjsZpubf80NQuXZ1wzm3y_x9VvXNWGgaSUZ6ugEuvhyrgAZeX1WLkLcVvfwf1Jd59yxBGaly6-vxWEWyDbhZeTlhodiSfc9TthsMZU79v-GblxCVNLo2-mT50C7224uy_8P_WCLegS3ZIaIDbvF9JFi28V079NnWDZvfpB9lSbqn5XOxKsGNKrDQLPEs-Go-vLcs1hRp-lNy7NFayo_c_vwzZ2W6LFiiyqPtQXXOZ2u73N94YpdNgE81tFcploFLWt0tkkpf1XTOCYwYMHjBE_XqI4HrbzutZh3awAOf1ml4iJvXqZDYH6wv88roJ4zNBp6yAzry27oo88WLZCacbzQimqJTRn4uUlcmN9cp96i_tYjQzRszk4M560MnxJet5sWr2BJEaBz7DTnfRDCEIy9p0a8yLZkQjnAE9nRrtF6ABxQ&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=xXB%2B8CZYIYzMeNvQwtYiDw%3D%3D&trk=flagship3_search_srp_jobs
+
+Mid Backend Developer - Java
+Sobre a vaga
+Descrição da vagaAproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem estratégias, negócios e produtos digitais.Inovou também a maneira como pessoas apaixonadas por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.Para a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O seu potencial.O tamanho do seu talento_Responsabilidades e atribuiçõesO profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.Esperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.Algo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).Também é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!Requisitos e qualificaçõesExperiência em desenvolvimento com Java 8 (mínimo);Experiência em desenvolvimento com Spring (Boot, Data, Cache, etc);Experiência em Filas (Rabbit);Experiência em Kafka;Experiência em AWS (SNS, SQS, S3);Experiência em Git e Git-Flow;Experiência com bancos de dados SQL e NoSQL;Desenvolvimento com foco em qualidade: testes unitários e Sonar (métricas);Experiência em micro serviços e sistemas concorrentes;Contínuos delivery (Jenkins);
+Descrição da vaga
+Descrição da vaga
+Descrição da vaga
+Aproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem estratégias, negócios e produtos digitais.
+Aproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem estratégias, negócios e produtos digitais.
+Inovou também a maneira como pessoas apaixonadas por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.
+Inovou também a maneira como pessoas apaixonadas por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.
+Para a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O seu potencial.
+Para a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O seu potencial.
+O tamanho do seu talento_
+O tamanho do seu talento_
+
+
+
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+Responsabilidades e atribuições
+O profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.
+O profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.
+Esperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.
+Esperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.
+Algo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).
+Algo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).
+Também é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!
+Também é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!
+
+
+
+Requisitos e qualificações
+Requisitos e qualificações
+Requisitos e qualificações
+Experiência em desenvolvimento com Java 8 (mínimo);
+Experiência em desenvolvimento com Java 8 (mínimo);
+Experiência em desenvolvimento com Spring (Boot, Data, Cache, etc);
+Experiência em desenvolvimento com Spring (Boot, Data, Cache, etc);
+Experiência em Filas (Rabbit);
+Experiência em Filas (Rabbit);
+Experiência em Kafka;
+Experiência em Kafka;
+Experiência em AWS (SNS, SQS, S3);
+Experiência em AWS (SNS, SQS, S3);
+Experiência em Git e Git-Flow;
+Experiência em Git e Git-Flow;
+Experiência com bancos de dados SQL e NoSQL;
+Experiência com bancos de dados SQL e NoSQL;
+Desenvolvimento com foco em qualidade: testes unitários e Sonar (métricas);
+Desenvolvimento com foco em qualidade: testes unitários e Sonar (métricas);
+Experiência em micro serviços e sistemas concorrentes;
+Experiência em micro serviços e sistemas concorrentes;
+Contínuos delivery (Jenkins);
+Contínuos delivery (Jenkins);

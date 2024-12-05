@@ -1,0 +1,165 @@
+link-https://www.linkedin.com/jobs/view/4048844049/?eBP=CwEAAAGS7kZczhoAWW9WfTmURjs0EWXcOAqvts1ce8SQo5AImlAEFrZuWjbuty8q8tx1e1dG3Deo47J9KDAzeyYiGHVr8TkXchg9koAnZ8jnFW-eo52npNRtLz9xpCv_fNtho4u0mrj7Q-DLYEVVyy1uqh1sNTpfwYMRexKe1ssCP8OIUYMjSWSJ1cp9RXeBA2NBlFmY21-TiX_SjV9oOcTX2dWj4H1_tDGoJw1E3DxMIQ_yJcRJN3VLOJMymCpSzAhCR14KJG0udiw_C80gdFiBlKPf_afNNsV6IVxE6_a1C2qCHaLQOzAYB_jMMLqNdOISDalIKa7XoeP3kNE9-7OcQiUX3yQXt9wN23RjcWyM-Gg0g3Fp05jmJDqsAIwUAMNU5qr_B5Eh0j0chWYmrKKEy3oTn7eGUjTcvo89GWPFRyH47KDU91h_gjT2lWtiqhyTF8F3T3QkCLq5y5Xv8p2qkl9uGl-ISeKSLrr-WsRD3Yc6pB_qzZMu8ObC0Cfx5J11JiCvuW8&refId=hDFoZRnZMysewv9JP8NQaA%3D%3D&trackingId=%2Fw8909f9BmSWlt8H8kGjlw%3D%3D&trk=flagship3_search_srp_jobs
+
+QA Software Engineer I (Backend - Risk)
+Sobre a vaga
+Job DescriptionQuem é a Dock?Há mais de 20 anos, cumprimos a missão de democratizar o acesso a serviços financeiros, tornando experiências financeiras mais simples e acessíveis.Somos um time de pessoas obstinadas, que acreditam na tecnologia e nos serviços como os principais facilitadores para a evolução de nossos clientes e a transformação do papel das finanças.Atuando em 11 localidades pela América Latina, trabalhamos sob o propósito de desmaterializar o universo financeiro para impulsionar a sociedade.Como é o nosso time de Risks?É um time responsável por construção de APIs que fornecem soluções antifraude para nossos produtos.Somos engajados, com muita autonomia e desenvolvemos uma plataforma de alta performance.Acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.Responsibilities and assignmentsE o dia a dia, como será?Buscamos por talentos inigualáveis para nos ajudar a espalhar o poder financeiro!Nesta função, você irá:Escrever e executar testes funcionais, reportando falhas e acompanhando-as até a sua resolução;Participar da análise de incidentes/falhas reportadas pelos clientes acompanhando-as até a sua resolução;Participar do planejamento e estimativa das demandas de execução de testes;Documentar anormalidades encontradas nos produtos;Compartilhando conhecimentos e melhores práticas para garantir a excelência contínua;Requirements And QualificationsO que esperamos de você?Conduzir testes de regressão e integração;Desenvolvimento de automação de testes;Familiaridade com processos de integração contínua e deploy contínuo;Conhecimento de ferramentas de testes de API;Aplicar técnicas e boas práticas de qualidade durante todo ciclo de entrega;Conhecimento em AWS Cloud (API Gateway, Lambda, SNS/SQS, DynamoDB, Cloud Watch);Conhecimento em uma das linguagens de programação: ruby, python ou node;É desejável que você tenha:Possuir um senso de urgência e criticidade;Conhecimento em metodologias ágeis de desenvolvimento de software;Analisar cenários e antecipar "situações de risco" dos projetos;Buscar melhorias na atuação da(s) equipe(s) de Testes da empresa.Conhecimento em DatadogAdditional informationE quais são os benefícios?Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área;Auxílio alimentação (mercado & restaurante);Plano de saúde e odontológico;Hospital digital;Suporte psicológico para psicoterapia online;Orientação ergonômica;Wellhub e TotalPass;Auxílio mensal para despesas remote first;Previdência privada após 6 meses de trabalho;Licença parental estendida;Auxílio creche;Auxílio para pais de filhos especiais;Plataforma de idiomas;Disponibilidade de coworking no Brasil inteiro;Elegível ao PLRA Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida.Process stagesStep 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista People3Entrevista PeopleStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Etapa Case ou Teste5Etapa Case ou TesteStep 6: Entrevista Final6Entrevista FinalStep 7: Hiring7HiringVá mais longe com a genteA Dock respeita a pluralidade de identidades e trabalha para promover uma cultura inclusiva. Não fazemos distinção de raça, cor, religião, identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade em nenhuma etapa do processo seletivo, reforçando nosso compromisso com a diversidade.Somos Dockers. Juntos construímos um futuro melhor. Inimaginável. Inesperado. Sem amarras.Todos os dias, tornamos o universo financeiro mais simples, fácil e amplamente disponível. Fazemos isso questionando verdades estabelecidas, mudando conceitos e projetando o novo.Nós realmente acreditamos na tecnologia para a evolução dos nossos clientes e para transformar o papel das finanças em todo o mundo, impulsionando a sociedade.Se você também acredita nesse futuro, vem construir ele com a gente!
+Job Description
+
+
+Quem é a Dock?
+
+
+
+
+
+
+
+
+Como é o nosso time de Risks?
+
+
+
+É um time responsável por construção de APIs que fornecem soluções antifraude para nossos produtos.Somos engajados, com muita autonomia e desenvolvemos uma plataforma de alta performance.Acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+É um time responsável por construção de APIs que fornecem soluções antifraude para nossos produtos.
+É um time responsável por construção de APIs que fornecem soluções antifraude para nossos produtos.
+Somos engajados, com muita autonomia e desenvolvemos uma plataforma de alta performance.
+Somos engajados, com muita autonomia e desenvolvemos uma plataforma de alta performance.
+Acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+Acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+
+
+
+
+E o dia a dia, como será?
+
+
+
+
+
+
+
+Escrever e executar testes funcionais, reportando falhas e acompanhando-as até a sua resolução;Participar da análise de incidentes/falhas reportadas pelos clientes acompanhando-as até a sua resolução;Participar do planejamento e estimativa das demandas de execução de testes;Documentar anormalidades encontradas nos produtos;Compartilhando conhecimentos e melhores práticas para garantir a excelência contínua;
+Escrever e executar testes funcionais, reportando falhas e acompanhando-as até a sua resolução;
+Escrever e executar testes funcionais, reportando falhas e acompanhando-as até a sua resolução;
+Participar da análise de incidentes/falhas reportadas pelos clientes acompanhando-as até a sua resolução;
+Participar da análise de incidentes/falhas reportadas pelos clientes acompanhando-as até a sua resolução;
+Participar do planejamento e estimativa das demandas de execução de testes;
+Participar do planejamento e estimativa das demandas de execução de testes;
+Documentar anormalidades encontradas nos produtos;
+Documentar anormalidades encontradas nos produtos;
+Compartilhando conhecimentos e melhores práticas para garantir a excelência contínua;
+Compartilhando conhecimentos e melhores práticas para garantir a excelência contínua;
+
+
+Requirements And Qualifications
+
+
+O que esperamos de você?
+
+
+
+Conduzir testes de regressão e integração;Desenvolvimento de automação de testes;Familiaridade com processos de integração contínua e deploy contínuo;Conhecimento de ferramentas de testes de API;Aplicar técnicas e boas práticas de qualidade durante todo ciclo de entrega;Conhecimento em AWS Cloud (API Gateway, Lambda, SNS/SQS, DynamoDB, Cloud Watch);Conhecimento em uma das linguagens de programação: ruby, python ou node;
+Conduzir testes de regressão e integração;
+Conduzir testes de regressão e integração;
+Desenvolvimento de automação de testes;
+Desenvolvimento de automação de testes;
+Familiaridade com processos de integração contínua e deploy contínuo;
+Familiaridade com processos de integração contínua e deploy contínuo;
+Conhecimento de ferramentas de testes de API;
+Conhecimento de ferramentas de testes de API;
+Aplicar técnicas e boas práticas de qualidade durante todo ciclo de entrega;
+Aplicar técnicas e boas práticas de qualidade durante todo ciclo de entrega;
+Conhecimento em AWS Cloud (API Gateway, Lambda, SNS/SQS, DynamoDB, Cloud Watch);
+Conhecimento em AWS Cloud (API Gateway, Lambda, SNS/SQS, DynamoDB, Cloud Watch);
+Conhecimento em uma das linguagens de programação: ruby, python ou node;
+Conhecimento em uma das linguagens de programação: ruby, python ou node;
+
+
+É desejável que você tenha:
+
+
+Possuir um senso de urgência e criticidade;Conhecimento em metodologias ágeis de desenvolvimento de software;Analisar cenários e antecipar "situações de risco" dos projetos;Buscar melhorias na atuação da(s) equipe(s) de Testes da empresa.Conhecimento em Datadog
+Possuir um senso de urgência e criticidade;
+Possuir um senso de urgência e criticidade;
+Conhecimento em metodologias ágeis de desenvolvimento de software;
+Conhecimento em metodologias ágeis de desenvolvimento de software;
+Analisar cenários e antecipar "situações de risco" dos projetos;
+Analisar cenários e antecipar "situações de risco" dos projetos;
+Buscar melhorias na atuação da(s) equipe(s) de Testes da empresa.
+Buscar melhorias na atuação da(s) equipe(s) de Testes da empresa.
+Conhecimento em Datadog
+Conhecimento em Datadog
+
+
+
+
+E quais são os benefícios?
+
+
+
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área;Auxílio alimentação (mercado & restaurante);Plano de saúde e odontológico;Hospital digital;Suporte psicológico para psicoterapia online;Orientação ergonômica;Wellhub e TotalPass;Auxílio mensal para despesas remote first;Previdência privada após 6 meses de trabalho;Licença parental estendida;Auxílio creche;Auxílio para pais de filhos especiais;Plataforma de idiomas;Disponibilidade de coworking no Brasil inteiro;Elegível ao PLRA Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida.
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área;
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área;
+
+Auxílio alimentação (mercado & restaurante);
+Auxílio alimentação (mercado & restaurante);
+Plano de saúde e odontológico;
+Plano de saúde e odontológico;
+Hospital digital;
+Hospital digital;
+Suporte psicológico para psicoterapia online;
+Suporte psicológico para psicoterapia online;
+Orientação ergonômica;
+Orientação ergonômica;
+Wellhub e TotalPass;
+Wellhub e TotalPass;
+Auxílio mensal para despesas remote first;
+Auxílio mensal para despesas remote first;
+Previdência privada após 6 meses de trabalho;
+Previdência privada após 6 meses de trabalho;
+Licença parental estendida;
+Licença parental estendida;
+Auxílio creche;
+Auxílio creche;
+Auxílio para pais de filhos especiais;
+Auxílio para pais de filhos especiais;
+Plataforma de idiomas;
+Plataforma de idiomas;
+Disponibilidade de coworking no Brasil inteiro;
+Disponibilidade de coworking no Brasil inteiro;
+Elegível ao PLR
+Elegível ao PLR
+A Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida.
+A Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida.
+
+
+
+
+
+Step 1: Registration1RegistrationStep 2: Triagem2TriagemStep 3: Entrevista People3Entrevista PeopleStep 4: Entrevista Técnica4Entrevista TécnicaStep 5: Etapa Case ou Teste5Etapa Case ou TesteStep 6: Entrevista Final6Entrevista FinalStep 7: Hiring7Hiring
+Step 1: Registration1Registration
+Step 1: Registration1Registration
+Step 2: Triagem2Triagem
+Step 2: Triagem2Triagem
+Step 3: Entrevista People3Entrevista People
+Step 3: Entrevista People3Entrevista People
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 4: Entrevista Técnica4Entrevista Técnica
+Step 5: Etapa Case ou Teste5Etapa Case ou Teste
+Step 5: Etapa Case ou Teste5Etapa Case ou Teste
+Step 6: Entrevista Final6Entrevista Final
+Step 6: Entrevista Final6Entrevista Final
+Step 7: Hiring7Hiring
+Step 7: Hiring7Hiring
+
+
+
+
+
+
+
+
+
+
+
+

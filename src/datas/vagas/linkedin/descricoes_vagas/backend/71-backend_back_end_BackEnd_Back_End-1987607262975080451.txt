@@ -1,0 +1,153 @@
+link-https://www.linkedin.com/jobs/view/4006319340/?eBP=CwEAAAGS7lCK8RuSXY0yCt-clqM6ujMJ4uarbJ2L-UvhC1kHtY_wAEYP7kPA9TEDqWiGvrS4vlM4NmKOAmqgNtXUjFp4uhFu3bhVJdE6PEGQvFKs4vf-Hh4xdogrpm9lDK-b5z-g5GdOD1NmFoBgwyDM47k0Tf6oyQpAhZ2tyUCkKUoGNIv1f0fgueeCN5eyUALtZEmMMBDcRt6FUVQ89cumBvsagBgMFZEk9VA4gNmy-pcKEl1G4StsbA0Z83JNL6JdMvXNWhhCCh6RpCmXotZZ1qeLgOuEnNB2mGVjv3WMmrQBy-KG7ohmg8tMlSg0oRvv7dJmmB7iz3kYmYMPBrdYRX_Ors2sjW2ctsVgJWYbvGbUiwaR7Y87rtGHQlW_eksUR_uoT5zETqph0yPb7pQkTwaA9N24RIa_XVpVpD5EpG1EPCwBofP9JpHDahuqOnsqODQDcilzPDxNTPtc400DrR4hNV0hE2QOeE6aRFgkD8OIGTBt3vfRJDFnjx_nBAkqvDv87c0&refId=jxpmM00cck6gdrQcfz%2BZ8Q%3D%3D&trackingId=PPqO5JemacHBfDwXNnPfIA%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Desenvolvedora Backend Java SR
+Sobre a vaga
+Sobre o BradescoO Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas!Saiba mais em https://banco.bradesco/html/classic/sobre/index.shtmResponsabilidades e atribuiçõesO que é o nosso time de DS – Departamento de Desenvolvimento de Sistemas?O Departamento de DS Viabiliza soluções de TI que proporcionem o funcionamento harmônico entre os sistemas de suporte ao negócio, mantendo a arquitetura de aplicativos estruturada e tecnologicamente atualizada, atendendo aos requisitos de negócio com alta disponibilidade e performance.Modelo de trabalho: Híbrido - 2x presencialLocal: Matriz Osasco ou Alphaville – SP, Recife, Curitiba e Uberlândia - MG.Como será seu dia a dia?Sendo uma Pessoa Desenvolvedora Backend Java, atuará na gerência de DS e suas principais atividades serão:Desenvolver sistemas e aplicações, testar e implementar programas e sistemas;Produzir códigos eficientes e inteligíveis respeitando as especificações;Utilizar as metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento designadas e homologadas pela empresa;Projetar, implantar e realizar manutenção de sistemas e aplicações;Determinar a montagem e a estrutura de banco de dados;Requisitos e QualificaçõesO que você precisa ter ou saber?Experiência em desenvolvimento com microsserviços para backend em Java;Experiência com provedores de nuvem pública (p.ex. AWS, Azure, GCP ou IBM);Experiência com softwares para API Management, arquitetura API-first, API mashups, modelos de monetização, segurança de APIs (p.ex.JWT/JWS/JWE/JWA/JWK, OAuth2, OpenID Connect, FAPI, CIBA, etc.);Experiência com conteinerização de serviços, Dockers, Kubernetes (p.ex. puro, AKS, EKS, GKE, OpenShift, etc.)Será um diferencial se você tiver:Certificações: AZ900, DP900, AZ204, AZ104Experiência com ferramentas de APMConhecimento ou experiência com cache (dados como Redis, ElastiCache, etc., HTTP como Varnish, CDN, etc.)O que nós oferecemosNo Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias:PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Sobre o Bradesco
+
+
+
+
+
+
+
+Responsabilidades e atribuições
+
+
+
+
+
+
+
+
+
+
+
+
+Como será seu dia a dia?
+
+
+
+
+
+
+
+Desenvolver sistemas e aplicações, testar e implementar programas e sistemas;Produzir códigos eficientes e inteligíveis respeitando as especificações;Utilizar as metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento designadas e homologadas pela empresa;Projetar, implantar e realizar manutenção de sistemas e aplicações;Determinar a montagem e a estrutura de banco de dados;
+Desenvolver sistemas e aplicações, testar e implementar programas e sistemas;
+Desenvolver sistemas e aplicações, testar e implementar programas e sistemas;
+
+Produzir códigos eficientes e inteligíveis respeitando as especificações;
+Produzir códigos eficientes e inteligíveis respeitando as especificações;
+
+Utilizar as metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento designadas e homologadas pela empresa;
+Utilizar as metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento designadas e homologadas pela empresa;
+
+Projetar, implantar e realizar manutenção de sistemas e aplicações;
+Projetar, implantar e realizar manutenção de sistemas e aplicações;
+
+Determinar a montagem e a estrutura de banco de dados;
+Determinar a montagem e a estrutura de banco de dados;
+
+
+
+
+Requisitos e Qualificações
+
+
+
+
+
+
+
+Experiência em desenvolvimento com microsserviços para backend em Java;Experiência com provedores de nuvem pública (p.ex. AWS, Azure, GCP ou IBM);Experiência com softwares para API Management, arquitetura API-first, API mashups, modelos de monetização, segurança de APIs (p.ex.JWT/JWS/JWE/JWA/JWK, OAuth2, OpenID Connect, FAPI, CIBA, etc.);Experiência com conteinerização de serviços, Dockers, Kubernetes (p.ex. puro, AKS, EKS, GKE, OpenShift, etc.)
+Experiência em desenvolvimento com microsserviços para backend em Java;
+Experiência em desenvolvimento com microsserviços para backend em Java;
+
+Experiência com provedores de nuvem pública (p.ex. AWS, Azure, GCP ou IBM);
+Experiência com provedores de nuvem pública (p.ex. AWS, Azure, GCP ou IBM);
+
+Experiência com softwares para API Management, arquitetura API-first, API mashups, modelos de monetização, segurança de APIs (p.ex.JWT/JWS/JWE/JWA/JWK, OAuth2, OpenID Connect, FAPI, CIBA, etc.);
+Experiência com softwares para API Management, arquitetura API-first, API mashups, modelos de monetização, segurança de APIs (p.ex.JWT/JWS/JWE/JWA/JWK, OAuth2, OpenID Connect, FAPI, CIBA, etc.);
+
+Experiência com conteinerização de serviços, Dockers, Kubernetes (p.ex. puro, AKS, EKS, GKE, OpenShift, etc.)
+Experiência com conteinerização de serviços, Dockers, Kubernetes (p.ex. puro, AKS, EKS, GKE, OpenShift, etc.)
+
+
+
+
+
+
+
+Certificações: AZ900, DP900, AZ204, AZ104Experiência com ferramentas de APMConhecimento ou experiência com cache (dados como Redis, ElastiCache, etc., HTTP como Varnish, CDN, etc.)
+Certificações: AZ900, DP900, AZ204, AZ104
+Certificações: AZ900, DP900, AZ204, AZ104
+
+Experiência com ferramentas de APM
+Experiência com ferramentas de APM
+
+Conhecimento ou experiência com cache (dados como Redis, ElastiCache, etc., HTTP como Varnish, CDN, etc.)
+Conhecimento ou experiência com cache (dados como Redis, ElastiCache, etc., HTTP como Varnish, CDN, etc.)
+
+
+
+
+O que nós oferecemos
+
+
+
+
+
+
+
+PLR ou Bônus: Conforme a elegibilidade de cargo*Convênio MédicoConvênio OdontológicoSeguro de VidaVale AlimentaçãoVale Refeição13º Cesta AlimentaçãoTotal PassVale Transporte (adesão opcional)Descontos em produtos e serviços em empresas parceirasPrevidência Privada (adesão opcional, com participação financeira da Organização Bradesco)Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vidaUnibrad: Universidade Corporativa BradescoIsenção de Tarifas: condições especiais em diversos produtos e serviçosAuxílio Creche ou BabáLicença Paternidade estendida de 20 diasLicença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+PLR ou Bônus: Conforme a elegibilidade de cargo*
+
+Convênio Médico
+Convênio Médico
+
+Convênio Odontológico
+Convênio Odontológico
+
+Seguro de Vida
+Seguro de Vida
+
+Vale Alimentação
+Vale Alimentação
+
+Vale Refeição
+Vale Refeição
+
+13º Cesta Alimentação
+13º Cesta Alimentação
+
+Total Pass
+Total Pass
+
+Vale Transporte (adesão opcional)
+Vale Transporte (adesão opcional)
+
+Descontos em produtos e serviços em empresas parceiras
+Descontos em produtos e serviços em empresas parceiras
+
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco)
+
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida
+
+Unibrad: Universidade Corporativa Bradesco
+Unibrad: Universidade Corporativa Bradesco
+
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+Isenção de Tarifas: condições especiais em diversos produtos e serviços
+
+Auxílio Creche ou Babá
+Auxílio Creche ou Babá
+
+Licença Paternidade estendida de 20 dias
+Licença Paternidade estendida de 20 dias
+
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto
+

@@ -1,0 +1,125 @@
+link-https://www.linkedin.com/jobs/view/4056951802/?eBP=CwEAAAGS7lOKazpV5AqM1SDjqFLrT8eALtAT_gplvb2mJaVMtbmFwO5oPt26gl-KLO2fKwz6UNHUlJj2zNBAJlWHM1rNxgIOjim63L5mPGf6ifOIaFb-AZc71rf1EyV4c263kZkQx36WMzHf_n9VKsrvqMVW6UiYgw2N3dyD4GumcKE-NTPMtbDdE8HGYsQTmgQcoRqStZLME9eweVQ0qJVWsXsycHMhnO5qblVGt4fjOehIXI0flbRv7DgbtJG7OBof6Fy37n2iBMF-K1DMUV5v0kqfyUpoyOn_igMEMynZYoTFPqSBHBvHv1holEVt3VdJwpn3pMi6XatAqxOpyPlJl3AtW3ZgC9wp6iP8AmRc_w7jVjW0nSj4qTPBvYZpLzc5gIbS1JV9LpyRtSzLBTcGYy17pNNc34i2G64ZptEpvzzAZc-NZGh0OiOiGf6eO8iulqBTnkOt1LHsm0VPbMpE4H5LgaMh0DXVlG06PyrD7CPHGSO2wKlrEjWnMhuTm4oquVU&refId=vxzRdgWLAlHAeIKnYcrvfg%3D%3D&trackingId=6vm2wcTh7ZFhiyG1lem1Og%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Back-End Sênior (Integração de Dados e APIs)
+Sobre a vaga
+Nível:SêniorEscolaridade:Ensino médio - CompletoTipo de contrato:CLTJornada de trabalho:Segunda à sexta -feira - horário comercialDisponibilidade para home-officeBenefícios:Assistência médica, Vale refeição de R$ 800,00Responsabilidades Da PosiçãoAtuar na sustentação e manutenção dos sistemas back-end em produção, resolvendo incidentes e garantindo a continuidade dos serviços.Monitorar a performance e disponibilidade dos sistemas, antecipando problemas e implementando soluções proativas.Identificar, diagnosticar e corrigir bugs e falhas nos sistemas e APIs.Implementar melhorias e otimizações de código visando performance, escalabilidade e segurança.Analisar logs e métricas de erro para identificar a causa raiz de problemas.Participar de revisões de código e garantir a qualidade e a integridade das entregas.Colaborar com outras equipes para garantir a rápida resolução de problemas críticos.Realizar integrações e sustentação de APIs e fontes de dados diversas.Trabalhar de forma integrada com a equipe, contribuindo positivamente para o ambiente de trabalho e para o sucesso dos projetos.Organizar, priorizar tarefas e gerenciar as expectativas de entrega dentro do time de desenvolvimento.Analisar processos e identificar oportunidades de melhoria, propondo soluções que otimizem o desenvolvimento e a implementação de novas funcionalidades.Demonstrar flexibilidade para se adaptar a novas ferramentas, tecnologias e mudanças nos requisitos, especialmente em um ambiente dinâmico.Requisitos Obrigatórios Para a PosiçãoSólida experiência com desenvolvimento Back-end PHP/Laravel e Java Script/Node.js/Vue.js.Conhecimentos em integrações entre APIs RESTful e SOAP.Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB).Experiência com ferramentas de monitoramento de performance e logs (como Grafana, Kibana).Conhecimento em ambientes de cloud computing (AWS, Azure ou GCP), especialmente em serviços como Lambda, SQS.Conhecimento profundo em bibliotecas de chamadas assíncronas, como Guzzle ou ReactPHP, para otimizar a comunicação entre serviços.Experiência em boas práticas de versionamento de código e revisão (Git).Habilidade em trabalhar com documentações técnicas no modelo OpenAPI.Capacidade de resolver problemas complexos com agilidade e atenção aos detalhes.Experiência prévia em ambientes de alta criticidade e volume de dados.Familiaridade com métodos ágeis (Scrum/Kanban).Conhecimento em automação de processos com CI/CD.O candidato deverá dispor de tempo integral de trabalho em horário comercial, nohorário de São Paulo, e pode residir em qualquer região do país, pois o trabalho deve serexecutado remotamente, sem a necessidade de presença física na empresa. As reuniõessíncronas de equipe são feitas diariamente pelo GMeet da empresa.O candidato deve possuir seu próprio equipamento e conexão Internet, e deverá acessaros recursos da empresa através de uma VM (máquina virtual) Linux (Ubuntu),padronizada para toda a empresa.
+Nível:
+
+
+
+Escolaridade:
+
+
+
+Tipo de contrato:
+
+
+
+Jornada de trabalho:
+
+
+
+Disponibilidade para home-office
+
+
+Benefícios:
+
+
+
+Responsabilidades Da Posição
+
+
+Atuar na sustentação e manutenção dos sistemas back-end em produção, resolvendo incidentes e garantindo a continuidade dos serviços.Monitorar a performance e disponibilidade dos sistemas, antecipando problemas e implementando soluções proativas.Identificar, diagnosticar e corrigir bugs e falhas nos sistemas e APIs.Implementar melhorias e otimizações de código visando performance, escalabilidade e segurança.Analisar logs e métricas de erro para identificar a causa raiz de problemas.Participar de revisões de código e garantir a qualidade e a integridade das entregas.Colaborar com outras equipes para garantir a rápida resolução de problemas críticos.Realizar integrações e sustentação de APIs e fontes de dados diversas.Trabalhar de forma integrada com a equipe, contribuindo positivamente para o ambiente de trabalho e para o sucesso dos projetos.Organizar, priorizar tarefas e gerenciar as expectativas de entrega dentro do time de desenvolvimento.Analisar processos e identificar oportunidades de melhoria, propondo soluções que otimizem o desenvolvimento e a implementação de novas funcionalidades.Demonstrar flexibilidade para se adaptar a novas ferramentas, tecnologias e mudanças nos requisitos, especialmente em um ambiente dinâmico.
+Atuar na sustentação e manutenção dos sistemas back-end em produção, resolvendo incidentes e garantindo a continuidade dos serviços.
+Atuar na sustentação e manutenção dos sistemas back-end em produção, resolvendo incidentes e garantindo a continuidade dos serviços.
+
+Monitorar a performance e disponibilidade dos sistemas, antecipando problemas e implementando soluções proativas.
+Monitorar a performance e disponibilidade dos sistemas, antecipando problemas e implementando soluções proativas.
+
+Identificar, diagnosticar e corrigir bugs e falhas nos sistemas e APIs.
+Identificar, diagnosticar e corrigir bugs e falhas nos sistemas e APIs.
+
+Implementar melhorias e otimizações de código visando performance, escalabilidade e segurança.
+Implementar melhorias e otimizações de código visando performance, escalabilidade e segurança.
+
+Analisar logs e métricas de erro para identificar a causa raiz de problemas.
+Analisar logs e métricas de erro para identificar a causa raiz de problemas.
+
+Participar de revisões de código e garantir a qualidade e a integridade das entregas.
+Participar de revisões de código e garantir a qualidade e a integridade das entregas.
+
+Colaborar com outras equipes para garantir a rápida resolução de problemas críticos.
+Colaborar com outras equipes para garantir a rápida resolução de problemas críticos.
+
+Realizar integrações e sustentação de APIs e fontes de dados diversas.
+Realizar integrações e sustentação de APIs e fontes de dados diversas.
+
+Trabalhar de forma integrada com a equipe, contribuindo positivamente para o ambiente de trabalho e para o sucesso dos projetos.
+Trabalhar de forma integrada com a equipe, contribuindo positivamente para o ambiente de trabalho e para o sucesso dos projetos.
+
+Organizar, priorizar tarefas e gerenciar as expectativas de entrega dentro do time de desenvolvimento.
+Organizar, priorizar tarefas e gerenciar as expectativas de entrega dentro do time de desenvolvimento.
+
+Analisar processos e identificar oportunidades de melhoria, propondo soluções que otimizem o desenvolvimento e a implementação de novas funcionalidades.
+Analisar processos e identificar oportunidades de melhoria, propondo soluções que otimizem o desenvolvimento e a implementação de novas funcionalidades.
+
+Demonstrar flexibilidade para se adaptar a novas ferramentas, tecnologias e mudanças nos requisitos, especialmente em um ambiente dinâmico.
+Demonstrar flexibilidade para se adaptar a novas ferramentas, tecnologias e mudanças nos requisitos, especialmente em um ambiente dinâmico.
+
+
+
+Requisitos Obrigatórios Para a Posição
+
+
+Sólida experiência com desenvolvimento Back-end PHP/Laravel e Java Script/Node.js/Vue.js.Conhecimentos em integrações entre APIs RESTful e SOAP.Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB).Experiência com ferramentas de monitoramento de performance e logs (como Grafana, Kibana).Conhecimento em ambientes de cloud computing (AWS, Azure ou GCP), especialmente em serviços como Lambda, SQS.Conhecimento profundo em bibliotecas de chamadas assíncronas, como Guzzle ou ReactPHP, para otimizar a comunicação entre serviços.Experiência em boas práticas de versionamento de código e revisão (Git).Habilidade em trabalhar com documentações técnicas no modelo OpenAPI.Capacidade de resolver problemas complexos com agilidade e atenção aos detalhes.Experiência prévia em ambientes de alta criticidade e volume de dados.Familiaridade com métodos ágeis (Scrum/Kanban).Conhecimento em automação de processos com CI/CD.
+Sólida experiência com desenvolvimento Back-end PHP/Laravel e Java Script/Node.js/Vue.js.
+Sólida experiência com desenvolvimento Back-end PHP/Laravel e Java Script/Node.js/Vue.js.
+
+Conhecimentos em integrações entre APIs RESTful e SOAP.
+Conhecimentos em integrações entre APIs RESTful e SOAP.
+
+Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB).
+Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, DynamoDB).
+
+Experiência com ferramentas de monitoramento de performance e logs (como Grafana, Kibana).
+Experiência com ferramentas de monitoramento de performance e logs (como Grafana, Kibana).
+
+Conhecimento em ambientes de cloud computing (AWS, Azure ou GCP), especialmente em serviços como Lambda, SQS.
+Conhecimento em ambientes de cloud computing (AWS, Azure ou GCP), especialmente em serviços como Lambda, SQS.
+
+Conhecimento profundo em bibliotecas de chamadas assíncronas, como Guzzle ou ReactPHP, para otimizar a comunicação entre serviços.
+Conhecimento profundo em bibliotecas de chamadas assíncronas, como Guzzle ou ReactPHP, para otimizar a comunicação entre serviços.
+
+Experiência em boas práticas de versionamento de código e revisão (Git).
+Experiência em boas práticas de versionamento de código e revisão (Git).
+
+Habilidade em trabalhar com documentações técnicas no modelo OpenAPI.
+Habilidade em trabalhar com documentações técnicas no modelo OpenAPI.
+
+Capacidade de resolver problemas complexos com agilidade e atenção aos detalhes.
+Capacidade de resolver problemas complexos com agilidade e atenção aos detalhes.
+
+Experiência prévia em ambientes de alta criticidade e volume de dados.
+Experiência prévia em ambientes de alta criticidade e volume de dados.
+
+Familiaridade com métodos ágeis (Scrum/Kanban).
+Familiaridade com métodos ágeis (Scrum/Kanban).
+
+Conhecimento em automação de processos com CI/CD.
+Conhecimento em automação de processos com CI/CD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

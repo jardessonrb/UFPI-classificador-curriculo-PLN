@@ -1,0 +1,112 @@
+link-https://www.linkedin.com/jobs/view/4064919633/?eBP=CwEAAAGS7lHBTS5ZH7glEisLDV_f3bZrkoykyacr89rD_TsL_oUVBevUwW9Fpk2JyoGdhfbuZ_lkPW7lQTB__YYVUsqPdwjQ-fXAygR4n6Q2R9lN_PF_fLVU-mRH4J3GLtTJZiMvP9PfKP87mnC83xfh0-jCcvV8aliOki2OnTyAocsQcFHp1z1Js96InLnmnZdNnIaLLiStDAvB1sA5GDRN8a7PPqOfUKjsCQmX-g6gKYO9y-iwdt0J8iOAJJ_kpakBYbk7OwKZGHxW4RJ7PpkT0-UPfv8awYp0QJM5vfK9fKXUmPSRe3dF-tS6YHCH5EpuhYLnNDOI_ALRAC0ndJUsrV03gNVa-l8hVazY3F0uJySgj7GQZrd3ErbUCODupt6smKEEwqex2i2HPPOL4MP2qQEvUN81Z_4-SA4h5_Pmex0pUyosMjaAa3dX9z-VNlra5u1S7OhFDG0aMuAGE4qre1qSnuXb2mjrOv4ImKOqrg5VOC3dVLIdYp6C-Moc-mMbn5Rr1YQdHw&refId=5gdV5KlKgrkviwqoRiIR9Q%3D%3D&trackingId=j0ql49eIB%2Bj40W0TBrltgg%3D%3D&trk=flagship3_search_srp_jobs
+
+Backend Web Developer
+Sobre a vaga
+Why join usTRACTIAN is transforming the industrial world by empowering frontline maintenance workers to achieve more. We’ve fused cutting-edge hardware with innovative software into one powerful platform, disrupting legacy systems and delivering smarter, faster solutions for our clients.At TRACTIAN, you'll break boundaries, question convention, and collaborate with top talent to drive real change. As a part of our growth-stage startup, you’ll work alongside the founders, shaping the vision, products, and experiences that will define the future of industrial tech.Web Development at TRACTIANAs a Web Developer Backend, you will focus on building, maintaining, and optimizing the backend architecture of our educational and sales platforms. You’ll work alongside designers, front-end developers, product marketers and customer experience teams to implement robust and scalable solutions that enhance user experience, support data tracking, and integrate with marketing technology. Your role will be crucial in creating a reliable, high-performance digital foundation that enables the all the teams to execute impactful campaigns and data-driven strategies.What You'll DoAs a Backend Developer, you will be responsible for building and strengthening the backend infrastructure of our informational and educational platforms, ensuring security, scalability, and a seamless user experience. Your main role will involve restructuring our training system, implementing robust permission management, and creating dashboards that allow clients to track key metrics such as user progress, certifications issued, and course completion rates. Simultaneously, you will enhance our guest management platform for in-person events, improving the system for managing contacts and participant data for the Sales team.In the medium and long term, you will lead a complete backend restructuring of these platforms, optimizing performance and scalability, and develop a community forum to centralize user interaction. Working closely with the product, sales, and data teams, your contributions will bring robustness and stability to the platforms, ensuring that each phase of the project is delivered with precision and high performance.ResponsabilitiesArchitect and implement robust features and services that support the functionality of our web applications.Design, build, and maintain advanced features for our applications, ensuring they meet our high standards of quality and innovation.Proactively identify opportunities for enhancements and lead initiatives to improve overall application usability and performance.Keep abreast of emerging technologies, frameworks, and best practices to maintain a cutting-edge development environment.Ensure the security, stability, and scalability of services, adhering to best practices.You will mainly work with: Typescript, Node/NestJS, Strapi, PostgreSQL, DynamoDB and Prisma ORM.And eventually with: React/NextJS and Tailwind CSS.RequirementsBachelor’s degree in Computer Science, Engineering, or a related field.3+ years of web development experience, with a deep proficiency in Typescript, Node and SQL/NoSQL databases.Understanding of front-end technologies and platforms, such as React/NextJS and Tailwind CSS.Solid understanding of how web applications work including security, session management, and best development practices.Strong understanding of web performance optimization, responsive design, and cross-platform compatibility.Experience with user authentication and authorization between multiple systems.Bonus PointsFamiliarity with test-driven development (TDD).Previous exposure to database migrations.Fluent in English.Compensation:Competitive salary and stock optionsOptional fully funded English / Spanish courses30 days of paid annual leaveEducation and courses stipendEarn a trip anywhere in the world every 4 yearsDay off during the week of your birthdayUp to R$1.000/mo for meals and remote work allowanceHealth plan with national coverage and without coparticipationDental Insurance: we help you with dental treatment for a better quality of life.Gympass and Sports Incentive: R$300/mo extra if you practice activities
+Why join us
+
+
+
+
+
+
+Web Development at TRACTIAN
+
+
+
+
+What You'll Do
+
+
+
+
+
+
+Responsabilities
+
+
+Architect and implement robust features and services that support the functionality of our web applications.Design, build, and maintain advanced features for our applications, ensuring they meet our high standards of quality and innovation.Proactively identify opportunities for enhancements and lead initiatives to improve overall application usability and performance.Keep abreast of emerging technologies, frameworks, and best practices to maintain a cutting-edge development environment.Ensure the security, stability, and scalability of services, adhering to best practices.You will mainly work with: Typescript, Node/NestJS, Strapi, PostgreSQL, DynamoDB and Prisma ORM.And eventually with: React/NextJS and Tailwind CSS.
+Architect and implement robust features and services that support the functionality of our web applications.
+Architect and implement robust features and services that support the functionality of our web applications.
+Design, build, and maintain advanced features for our applications, ensuring they meet our high standards of quality and innovation.
+Design, build, and maintain advanced features for our applications, ensuring they meet our high standards of quality and innovation.
+Proactively identify opportunities for enhancements and lead initiatives to improve overall application usability and performance.
+Proactively identify opportunities for enhancements and lead initiatives to improve overall application usability and performance.
+Keep abreast of emerging technologies, frameworks, and best practices to maintain a cutting-edge development environment.
+Keep abreast of emerging technologies, frameworks, and best practices to maintain a cutting-edge development environment.
+Ensure the security, stability, and scalability of services, adhering to best practices.
+Ensure the security, stability, and scalability of services, adhering to best practices.
+You will mainly work with: Typescript, Node/NestJS, Strapi, PostgreSQL, DynamoDB and Prisma ORM.
+You will mainly work with: Typescript, Node/NestJS, Strapi, PostgreSQL, DynamoDB and Prisma ORM.
+And eventually with: React/NextJS and Tailwind CSS.
+And eventually with: React/NextJS and Tailwind CSS.
+
+
+
+Requirements
+
+
+Bachelor’s degree in Computer Science, Engineering, or a related field.3+ years of web development experience, with a deep proficiency in Typescript, Node and SQL/NoSQL databases.Understanding of front-end technologies and platforms, such as React/NextJS and Tailwind CSS.Solid understanding of how web applications work including security, session management, and best development practices.Strong understanding of web performance optimization, responsive design, and cross-platform compatibility.Experience with user authentication and authorization between multiple systems.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+3+ years of web development experience, with a deep proficiency in Typescript, Node and SQL/NoSQL databases.
+3+ years of web development experience, with a deep proficiency in Typescript, Node and SQL/NoSQL databases.
+Understanding of front-end technologies and platforms, such as React/NextJS and Tailwind CSS.
+Understanding of front-end technologies and platforms, such as React/NextJS and Tailwind CSS.
+Solid understanding of how web applications work including security, session management, and best development practices.
+Solid understanding of how web applications work including security, session management, and best development practices.
+Strong understanding of web performance optimization, responsive design, and cross-platform compatibility.
+Strong understanding of web performance optimization, responsive design, and cross-platform compatibility.
+Experience with user authentication and authorization between multiple systems.
+Experience with user authentication and authorization between multiple systems.
+
+
+
+Bonus Points
+
+
+Familiarity with test-driven development (TDD).Previous exposure to database migrations.Fluent in English.
+Familiarity with test-driven development (TDD).
+Familiarity with test-driven development (TDD).
+Previous exposure to database migrations.
+Previous exposure to database migrations.
+Fluent in English.
+Fluent in English.
+
+
+
+Compensation:
+
+
+Competitive salary and stock optionsOptional fully funded English / Spanish courses30 days of paid annual leaveEducation and courses stipendEarn a trip anywhere in the world every 4 yearsDay off during the week of your birthdayUp to R$1.000/mo for meals and remote work allowanceHealth plan with national coverage and without coparticipationDental Insurance: we help you with dental treatment for a better quality of life.Gympass and Sports Incentive: R$300/mo extra if you practice activities
+Competitive salary and stock options
+Competitive salary and stock options
+
+Optional fully funded English / Spanish courses
+Optional fully funded English / Spanish courses
+
+30 days of paid annual leave
+30 days of paid annual leave
+
+Education and courses stipend
+Education and courses stipend
+
+Earn a trip anywhere in the world every 4 years
+Earn a trip anywhere in the world every 4 years
+
+Day off during the week of your birthday
+Day off during the week of your birthday
+
+Up to R$1.000/mo for meals and remote work allowance
+Up to R$1.000/mo for meals and remote work allowance
+
+Health plan with national coverage and without coparticipation
+Health plan with national coverage and without coparticipation
+
+Dental Insurance: we help you with dental treatment for a better quality of life.
+Dental Insurance: we help you with dental treatment for a better quality of life.
+
+Gympass and Sports Incentive: R$300/mo extra if you practice activities
+Gympass and Sports Incentive: R$300/mo extra if you practice activities
+
+

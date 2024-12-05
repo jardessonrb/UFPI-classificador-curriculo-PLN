@@ -1,0 +1,76 @@
+link-https://www.linkedin.com/jobs/view/4042289002/?eBP=CwEAAAGS7lHBTXDfjSiMpCGzJhQcjI3Rza-cyscoh8qARYj-BgcJR5EG4w2_hxI4JaugOfAXb2q3Op42-twsqqe4_pVwuP3ojonBC3XsixWNOYEYxHyc7I6sOHz-hXhy7t5LI0VzsqY34Y1w_yaKNR66EhiQ-AgkXRYUeQ8_riIZu851DLgXy0I0JJwURVZyyHf_XBHeWtjGpFa1UHqFaAFOwxcxuqlA6LftK0JSyaT6iLDKGaeGJHEFLcS27GgXn0_jJkyrRPWxdgP-HoRGnzrXMSeHJe_h1ecW7KbhXtOEee3eczfJOxCzV93LkhST9PpGCMWOj3VPz56sXl0etMCjj9jgcsi1f3yLoDVQE-50Cj4EtgA0cIKJY12cIMGw61OpBi4tfSY3k1AVg2RYFstmHXJ8wr_yttoQYcQfsZWDTZunr-q58q1HLIkmwjcwRPy7lDJ4ZuRiBeoPmSh9ZDG5yfi3O1o7-6omdFr8zqQFY8QTNE2IwoU0LkIQtt-0iQOWvrFMX0Y&refId=5gdV5KlKgrkviwqoRiIR9Q%3D%3D&trackingId=emowc8RYncx%2FD0T4veQ4zw%3D%3D&trk=flagship3_search_srp_jobs
+
+Pessoa Engenheira de Software Backend - Sênior
+Sobre a vaga
+O que você precisa para essa posição no jogo:Conhecimento avançado em desenvolvimento emGolang;Conhecimento sobre desenvolvimento de consumidores e produtores de eventos paraEvent Streaming (Kafka);Conhecimento emDocker & Kubernetes;Conhecimento com ferramentas demonitoramento e observabilidade;Conhecimento sobre testes unitários e de integração;Preocupação com a qualidade e desempenho das soluções propostas;Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma;Conhecimento sobredesenvolvimento e implementação de APIs;Conhecimento sobredesenvolvimento de microsserviços distribuídos;Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);Familiaridade com metodologias ágeis.Seria legal se você conhecesse:Google Cloud Continuous Integration;Continuous Delivery.O seu papel como Software Engineering Backend:Desenvolver programação do início ao fim, incluindo definições de arquitetura, testes e rollout em produção;Desenvolvimento de projetos com arquitetura de microserviços, consumo e geração de eventos em Streaming, API's;Garantir a funcionalidade, manutenibilidade e velocidade, além de práticas de teste e qualidade;Garantir que todas as soluções técnicas estejam alinhadas a estratégia do negócio e entender iniciativas relacionadas ao produto;Ajudar o time no desenho de soluções com arquitetura evolutiva, além de investigar constantemente novas tecnologias e formas de trabalho;Colaborar com a evolução das habilidades técnicas do time e esforços de melhoria contínua que impactam vários times;Trabalhar em um ambiente colaborativo, em que práticas de pareamento, feedbacks e motivação para se desenvolver são comuns a todos os squads.
+O que você precisa para essa posição no jogo:
+O que você precisa para essa posição no jogo:
+O que você precisa para essa posição no jogo:
+Conhecimento avançado em desenvolvimento emGolang;Conhecimento sobre desenvolvimento de consumidores e produtores de eventos paraEvent Streaming (Kafka);Conhecimento emDocker & Kubernetes;Conhecimento com ferramentas demonitoramento e observabilidade;Conhecimento sobre testes unitários e de integração;Preocupação com a qualidade e desempenho das soluções propostas;Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma;Conhecimento sobredesenvolvimento e implementação de APIs;Conhecimento sobredesenvolvimento de microsserviços distribuídos;Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);Familiaridade com metodologias ágeis.
+Conhecimento avançado em desenvolvimento emGolang;
+Conhecimento avançado em desenvolvimento emGolang;
+
+Golang
+Conhecimento sobre desenvolvimento de consumidores e produtores de eventos paraEvent Streaming (Kafka);
+Conhecimento sobre desenvolvimento de consumidores e produtores de eventos paraEvent Streaming (Kafka);
+
+Event Streaming (Kafka)
+Conhecimento emDocker & Kubernetes;
+Conhecimento emDocker & Kubernetes;
+
+Docker & Kubernetes
+Conhecimento com ferramentas demonitoramento e observabilidade;
+Conhecimento com ferramentas demonitoramento e observabilidade;
+
+monitoramento e observabilidade
+Conhecimento sobre testes unitários e de integração;
+Conhecimento sobre testes unitários e de integração;
+Preocupação com a qualidade e desempenho das soluções propostas;
+Preocupação com a qualidade e desempenho das soluções propostas;
+Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma;
+Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma;
+Conhecimento sobredesenvolvimento e implementação de APIs;
+Conhecimento sobredesenvolvimento e implementação de APIs;
+
+desenvolvimento e implementação de APIs
+Conhecimento sobredesenvolvimento de microsserviços distribuídos;
+Conhecimento sobredesenvolvimento de microsserviços distribuídos;
+
+desenvolvimento de microsserviços distribuídos
+Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);
+Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);
+Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);
+Familiaridade com metodologias ágeis.
+Familiaridade com metodologias ágeis.
+
+
+
+Seria legal se você conhecesse:
+Seria legal se você conhecesse:
+Seria legal se você conhecesse:
+Google Cloud Continuous Integration;Continuous Delivery.
+Google Cloud Continuous Integration;
+Google Cloud Continuous Integration;
+Continuous Delivery.
+Continuous Delivery.
+
+
+
+O seu papel como Software Engineering Backend:
+O seu papel como Software Engineering Backend:
+O seu papel como Software Engineering Backend:
+Desenvolver programação do início ao fim, incluindo definições de arquitetura, testes e rollout em produção;Desenvolvimento de projetos com arquitetura de microserviços, consumo e geração de eventos em Streaming, API's;Garantir a funcionalidade, manutenibilidade e velocidade, além de práticas de teste e qualidade;Garantir que todas as soluções técnicas estejam alinhadas a estratégia do negócio e entender iniciativas relacionadas ao produto;Ajudar o time no desenho de soluções com arquitetura evolutiva, além de investigar constantemente novas tecnologias e formas de trabalho;Colaborar com a evolução das habilidades técnicas do time e esforços de melhoria contínua que impactam vários times;Trabalhar em um ambiente colaborativo, em que práticas de pareamento, feedbacks e motivação para se desenvolver são comuns a todos os squads.
+Desenvolver programação do início ao fim, incluindo definições de arquitetura, testes e rollout em produção;
+Desenvolver programação do início ao fim, incluindo definições de arquitetura, testes e rollout em produção;
+Desenvolvimento de projetos com arquitetura de microserviços, consumo e geração de eventos em Streaming, API's;
+Desenvolvimento de projetos com arquitetura de microserviços, consumo e geração de eventos em Streaming, API's;
+Garantir a funcionalidade, manutenibilidade e velocidade, além de práticas de teste e qualidade;
+Garantir a funcionalidade, manutenibilidade e velocidade, além de práticas de teste e qualidade;
+Garantir que todas as soluções técnicas estejam alinhadas a estratégia do negócio e entender iniciativas relacionadas ao produto;
+Garantir que todas as soluções técnicas estejam alinhadas a estratégia do negócio e entender iniciativas relacionadas ao produto;
+Ajudar o time no desenho de soluções com arquitetura evolutiva, além de investigar constantemente novas tecnologias e formas de trabalho;
+Ajudar o time no desenho de soluções com arquitetura evolutiva, além de investigar constantemente novas tecnologias e formas de trabalho;
+Colaborar com a evolução das habilidades técnicas do time e esforços de melhoria contínua que impactam vários times;
+Colaborar com a evolução das habilidades técnicas do time e esforços de melhoria contínua que impactam vários times;
+Trabalhar em um ambiente colaborativo, em que práticas de pareamento, feedbacks e motivação para se desenvolver são comuns a todos os squads.
+Trabalhar em um ambiente colaborativo, em que práticas de pareamento, feedbacks e motivação para se desenvolver são comuns a todos os squads.

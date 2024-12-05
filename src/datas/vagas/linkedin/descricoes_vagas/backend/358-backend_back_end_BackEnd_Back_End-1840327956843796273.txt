@@ -1,0 +1,143 @@
+link-https://www.linkedin.com/jobs/view/4053171833/?eBP=CwEAAAGS7lGQwSv_ANtEnpPU-FFoyA2pMSJBNYMoKphrXA8TneOqd5qRVaC3lAA0h8XtXewda0JckbtRAqg-bKZhb4MDWxLVI5aDui4tFhZEUGtENcO5X7hpfLQZRT65qIt51BevvL2hOileB4mhXXgFjhy_dYD689Q_JuVl1nQ0ipBqqIJTt0hhv3Jwxhu3RIZSg9oCvsg12TOR82hSps2CHWKvyunfWAsPbj4X2s4ci8CXD0l5aU_NXUg4crbfQLJRpRdQJ9_X0DKRgeTWp9CjjrvxXopgM5Ld-AhXR1LL5PVFwHdS9Ltyw-jLAtkUB1-x_tbtKULuZcbVUGOdIRoGH0T9bqZN0s831XItMh4tGt43VR6YGtFWPqudtlH5lHzNoVwuBZ0WguyzWlgOUROB1GdikVgfTghB6f9rAGatgRMhVRXSg7WAvEilbZP0DcaZlAwhv_0dWGTak_dm5L5KVGvCOsWiGOgF0nlHp1vuIPXAkOg7aEODBm_Abito1htipNRXlqofsD4X&refId=Xo1WeglLbJwdPfi%2FLh2YmA%3D%3D&trackingId=YvRdLsenYWI47poU4FHgHw%3D%3D&trk=flagship3_search_srp_jobs
+
+Back-End Developer PL
+Sobre a vaga
+Estamosprocurando umDesenvolvedor Back-End PL,baseado em nosso escritórioem São Paulo .POR QUE VOCÊ DEVE CONSIDERAR ESTA OPORTUNIDADEA PagoNxt é uma provedora líder mundial de soluções de pagamento para comerciantes, empresas internacionais e PMEs. Parte do Grupo Santander, com mais de 160 anos de experiência bancária e 155 milhões de clientes em todo o mundo, a PagoNxt é uma empresa autônoma, a FinTech do Grupo que fornece soluções rápidas para o mercado de pagamentos.Esta posição é para a equipedo Payments Hub. Atualmente, estamos estendendo nossa plataforma de processamento de pagamentos nativa da nuvem para os bancos Santander e outras instituições financeiras, com o objetivo de fornecer um único acesso à maioria dos métodos de pagamento nacionais e internacionais em escala global.Se você gostaria de se juntar a uma comunidade global de especialistas em pagamento de classe mundial, este é o lugar para você! Esta é uma oportunidade única de trabalhar para uma empresa que combina o melhor dos dois mundos: tecnologia inovadora de uma FinTech com o alcance e a experiência de uma instituição financeira global líder.Os membros da nossa equipe vêm de tipos muito diferentes de empresas, incluindo bancos, empresas de tecnologia, empresas comerciais, startups e empresas de consultoria.Acreditamos no poder da diversidade, equidade e inclusão em origens, etnia, gênero, orientação sexual e muito mais.SEU IMPACTOAtividades e desafios: desenvolvimento e manutenção de sistemas, utilizando linguagem de programação de baixa plataforma, além de atuar como Tech Lead e Engineer direcionando a equipe nas melhores práticas de construção de software do mercado.QUEM VOCÊ ÉBom raciocínio lógico, facilidade de aprendizagem e proatividade;Monitoramento, supervisão técnica, implementações e suporte ao cliente;Engenharia de sistemas, incluindo a criação de microsserviços, testes automatizados, aplicativos de middleware e orquestradores;Desempenho, observabilidade e resiliência de aplicaçõesMultiplicador de liderança técnicaEXPERIÊNCIA, HABILIDADES E CONHECIMENTODisponibilidade para trabalhar em formato híbrido em Santo Amaro/SPJava, criação de micro serviços, frameworks (spring, spring boot, quarkus), servless;Arquitetura e Orquestração de micro serviços;Nuvem;Integração com serviços SOAP, REST;Comunicação via mensagens (Rabbit MQ, Kafka);Conhecimento de bancos de dados relacionais ou NoSQL;Experiência em desenvolvimento de sistemas utilizando metodologias ágeis;DESEJÁVELGrandes volumes de dados;Ferramentas colaborativas (Jira e Confluence);Possuir certificações (JAVA, Cloud, Banco de Dados);Capacidade de comunicar em outras línguas (espanhol e/ou inglês);Norma ISO 20022;DevSecOps (integração contínua com Mave, Jenkis, GitLab, Sonar, Fortfy, ArtFactory);EDUCAÇÃOEngenharia de Sistemas ou Computação, Matemática, Física, Economia, Administração de Empresas ou similar.
+Estamosprocurando umDesenvolvedor Back-End PL,baseado em nosso escritórioem São Paulo .
+Estamosprocurando umDesenvolvedor Back-End PL,baseado em nosso escritórioem São Paulo .
+Estamos
+
+
+
+Desenvolvedor Back-End PL,
+
+
+em São Paulo .
+
+
+
+
+POR QUE VOCÊ DEVE CONSIDERAR ESTA OPORTUNIDADE
+POR QUE VOCÊ DEVE CONSIDERAR ESTA OPORTUNIDADE
+POR QUE VOCÊ DEVE CONSIDERAR ESTA OPORTUNIDADE
+
+
+
+A PagoNxt é uma provedora líder mundial de soluções de pagamento para comerciantes, empresas internacionais e PMEs. Parte do Grupo Santander, com mais de 160 anos de experiência bancária e 155 milhões de clientes em todo o mundo, a PagoNxt é uma empresa autônoma, a FinTech do Grupo que fornece soluções rápidas para o mercado de pagamentos.
+A PagoNxt é uma provedora líder mundial de soluções de pagamento para comerciantes, empresas internacionais e PMEs. Parte do Grupo Santander, com mais de 160 anos de experiência bancária e 155 milhões de clientes em todo o mundo, a PagoNxt é uma empresa autônoma, a FinTech do Grupo que fornece soluções rápidas para o mercado de pagamentos.
+
+
+
+Esta posição é para a equipedo Payments Hub. Atualmente, estamos estendendo nossa plataforma de processamento de pagamentos nativa da nuvem para os bancos Santander e outras instituições financeiras, com o objetivo de fornecer um único acesso à maioria dos métodos de pagamento nacionais e internacionais em escala global.
+Esta posição é para a equipedo Payments Hub. Atualmente, estamos estendendo nossa plataforma de processamento de pagamentos nativa da nuvem para os bancos Santander e outras instituições financeiras, com o objetivo de fornecer um único acesso à maioria dos métodos de pagamento nacionais e internacionais em escala global.
+
+do Payments Hub
+
+
+
+
+Se você gostaria de se juntar a uma comunidade global de especialistas em pagamento de classe mundial, este é o lugar para você! Esta é uma oportunidade única de trabalhar para uma empresa que combina o melhor dos dois mundos: tecnologia inovadora de uma FinTech com o alcance e a experiência de uma instituição financeira global líder.
+Se você gostaria de se juntar a uma comunidade global de especialistas em pagamento de classe mundial, este é o lugar para você! Esta é uma oportunidade única de trabalhar para uma empresa que combina o melhor dos dois mundos: tecnologia inovadora de uma FinTech com o alcance e a experiência de uma instituição financeira global líder.
+
+
+
+Os membros da nossa equipe vêm de tipos muito diferentes de empresas, incluindo bancos, empresas de tecnologia, empresas comerciais, startups e empresas de consultoria.
+Os membros da nossa equipe vêm de tipos muito diferentes de empresas, incluindo bancos, empresas de tecnologia, empresas comerciais, startups e empresas de consultoria.
+Acreditamos no poder da diversidade, equidade e inclusão em origens, etnia, gênero, orientação sexual e muito mais.
+Acreditamos no poder da diversidade, equidade e inclusão em origens, etnia, gênero, orientação sexual e muito mais.
+Acreditamos no poder da diversidade, equidade e inclusão em origens, etnia, gênero, orientação sexual e muito mais.
+
+
+
+SEU IMPACTO
+SEU IMPACTO
+SEU IMPACTO
+SEU IMPACTO
+SEU IMPACTO
+
+
+
+
+
+
+Atividades e desafios: desenvolvimento e manutenção de sistemas, utilizando linguagem de programação de baixa plataforma, além de atuar como Tech Lead e Engineer direcionando a equipe nas melhores práticas de construção de software do mercado.
+Atividades e desafios: desenvolvimento e manutenção de sistemas, utilizando linguagem de programação de baixa plataforma, além de atuar como Tech Lead e Engineer direcionando a equipe nas melhores práticas de construção de software do mercado.
+
+
+
+QUEM VOCÊ É
+QUEM VOCÊ É
+QUEM VOCÊ É
+QUEM VOCÊ É
+QUEM VOCÊ É
+Bom raciocínio lógico, facilidade de aprendizagem e proatividade;Monitoramento, supervisão técnica, implementações e suporte ao cliente;Engenharia de sistemas, incluindo a criação de microsserviços, testes automatizados, aplicativos de middleware e orquestradores;Desempenho, observabilidade e resiliência de aplicaçõesMultiplicador de liderança técnica
+Bom raciocínio lógico, facilidade de aprendizagem e proatividade;
+Bom raciocínio lógico, facilidade de aprendizagem e proatividade;
+Monitoramento, supervisão técnica, implementações e suporte ao cliente;
+Monitoramento, supervisão técnica, implementações e suporte ao cliente;
+Engenharia de sistemas, incluindo a criação de microsserviços, testes automatizados, aplicativos de middleware e orquestradores;
+Engenharia de sistemas, incluindo a criação de microsserviços, testes automatizados, aplicativos de middleware e orquestradores;
+Desempenho, observabilidade e resiliência de aplicações
+Desempenho, observabilidade e resiliência de aplicações
+Multiplicador de liderança técnica
+Multiplicador de liderança técnica
+
+
+
+EXPERIÊNCIA, HABILIDADES E CONHECIMENTO
+EXPERIÊNCIA, HABILIDADES E CONHECIMENTO
+EXPERIÊNCIA, HABILIDADES E CONHECIMENTO
+EXPERIÊNCIA, HABILIDADES E CONHECIMENTO
+EXPERIÊNCIA, HABILIDADES E CONHECIMENTO
+Disponibilidade para trabalhar em formato híbrido em Santo Amaro/SPJava, criação de micro serviços, frameworks (spring, spring boot, quarkus), servless;Arquitetura e Orquestração de micro serviços;Nuvem;Integração com serviços SOAP, REST;Comunicação via mensagens (Rabbit MQ, Kafka);Conhecimento de bancos de dados relacionais ou NoSQL;Experiência em desenvolvimento de sistemas utilizando metodologias ágeis;
+Disponibilidade para trabalhar em formato híbrido em Santo Amaro/SP
+Disponibilidade para trabalhar em formato híbrido em Santo Amaro/SP
+Java, criação de micro serviços, frameworks (spring, spring boot, quarkus), servless;
+Java, criação de micro serviços, frameworks (spring, spring boot, quarkus), servless;
+Arquitetura e Orquestração de micro serviços;
+Arquitetura e Orquestração de micro serviços;
+Nuvem;
+Nuvem;
+Integração com serviços SOAP, REST;
+Integração com serviços SOAP, REST;
+Comunicação via mensagens (Rabbit MQ, Kafka);
+Comunicação via mensagens (Rabbit MQ, Kafka);
+Conhecimento de bancos de dados relacionais ou NoSQL;
+Conhecimento de bancos de dados relacionais ou NoSQL;
+Experiência em desenvolvimento de sistemas utilizando metodologias ágeis;
+Experiência em desenvolvimento de sistemas utilizando metodologias ágeis;
+
+
+
+DESEJÁVEL
+DESEJÁVEL
+DESEJÁVEL
+DESEJÁVEL
+DESEJÁVEL
+Grandes volumes de dados;Ferramentas colaborativas (Jira e Confluence);Possuir certificações (JAVA, Cloud, Banco de Dados);Capacidade de comunicar em outras línguas (espanhol e/ou inglês);Norma ISO 20022;DevSecOps (integração contínua com Mave, Jenkis, GitLab, Sonar, Fortfy, ArtFactory);
+Grandes volumes de dados;
+Grandes volumes de dados;
+Ferramentas colaborativas (Jira e Confluence);
+Ferramentas colaborativas (Jira e Confluence);
+Possuir certificações (JAVA, Cloud, Banco de Dados);
+Possuir certificações (JAVA, Cloud, Banco de Dados);
+Capacidade de comunicar em outras línguas (espanhol e/ou inglês);
+Capacidade de comunicar em outras línguas (espanhol e/ou inglês);
+Norma ISO 20022;
+Norma ISO 20022;
+DevSecOps (integração contínua com Mave, Jenkis, GitLab, Sonar, Fortfy, ArtFactory);
+DevSecOps (integração contínua com Mave, Jenkis, GitLab, Sonar, Fortfy, ArtFactory);
+
+
+
+EDUCAÇÃO
+EDUCAÇÃO
+EDUCAÇÃO
+EDUCAÇÃO
+EDUCAÇÃO
+Engenharia de Sistemas ou Computação, Matemática, Física, Economia, Administração de Empresas ou similar.
+Engenharia de Sistemas ou Computação, Matemática, Física, Economia, Administração de Empresas ou similar.
+Engenharia de Sistemas ou Computação, Matemática, Física, Economia, Administração de Empresas ou similar.
+
+
+

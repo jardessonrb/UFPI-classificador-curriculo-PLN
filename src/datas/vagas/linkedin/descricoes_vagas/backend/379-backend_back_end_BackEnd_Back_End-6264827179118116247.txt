@@ -1,0 +1,117 @@
+link-https://www.linkedin.com/jobs/view/4057332082/?eBP=CwEAAAGS7lPxitpseHE9RLEknZ-QmIj70-bNm_AOcFIVfMzvtS8ef4jejalAHCxUdvRc-OsjR1Bf5fwAAJbNM0SB-3mMxGQDx1XaQvZnhYtLdhK4aC2fSnhWI_rfdaJVQ6zNQeqmElZGTZv7W40NTbsbIWOSfNOtALZAZI9jtNnOY4FDx_LhU37ktx5mrONaXjtwcEOCmAzQjayCbItdNTCpWnCc6GlrTKlConvG5x38aerMVGN7IwJkPsMGkwaaCI1LxJ1yE2S74saB-ucotMOwTNvJtnQHpafHF2BMfQfVHZgG_yAwkzbo5HvRQPat--_uNjnjrYMPC7sQVgtfV7W9fHaJVk7sb50ES4S6Hki19zjP5LkiKJeAGL_DF4uaffOolTVsmtalQ_KYbRylw5VtDIY1OXzwVmIFWk46zSnhSXLlJ8IcO-dGXVTy5KckJCpDm7STL2tjrQyayVwLR0e8ZGgL2bLTAspZ3vuHBtLnlqU15QNlBSxgU2pj3zk&refId=C9BxeXd6NGUMclfogwEdfQ%3D%3D&trackingId=8Hdc4vfytM1wtnDywThbBw%3D%3D&trk=flagship3_search_srp_jobs
+
+c842: Desenvolvedor BackEnd Sênior
+Sobre a vaga
+ResponsabilidadesProjetar, desenvolver e manter APIs e microserviços escaláveis e de alta performance.Implementar e gerenciar soluções de banco de dados utilizando Postgres e CitusData.Trabalhar com Hasura para a criação de GraphQL APIs e otimização de consultas.Utilizar Nest para construir aplicações robustas e bem estruturadas.Integrar sistemas de mensageria usando NATS ou BullMQ para gerenciamento de filas eprocessamento assíncrono.Colaborar com equipes de frontend e design para garantir uma experiência de usuáriofluida e coesa.Realizar testes automatizados e revisões de código para garantir a qualidade do software.Mentorar e apoiar desenvolvedores mais juniores, promovendo um ambiente deaprendizado.Experiência no segmento de desenvolvimento de aplicações na área de ERPs.RequisitosFormação em Ciência da Computação, Engenharia de Software ou área relacionada.Mínimo de 5 anos de experiência em desenvolvimento backend, com foco em Node.js eTypeScript.Sólidos conhecimentos em bancos de dados relacionais, especialmente Postgres eCitusData.Experiência com Hasura e Nest para construção de APIs e aplicações.Conhecimento em sistemas de mensageria como NATS ou BullMQ.Familiaridade com práticas ágeis e metodologias de desenvolvimento de software.Habilidade para trabalhar em equipe e se comunicar efetivamente.DesejávelExperiência em arquiteturas de microserviços.Conhecimento em containerização (Docker, Kubernetes).Familiaridade com ferramentas de CI/CD.Habilidades ComportamentaisComunicaçãoResiliênciaAdaptabilidadeFlexibilidadeTrabalho em equipeCriatividadeDinamismoOrganizaçãoInglês Basico
+
+
+Projetar, desenvolver e manter APIs e microserviços escaláveis e de alta performance.Implementar e gerenciar soluções de banco de dados utilizando Postgres e CitusData.Trabalhar com Hasura para a criação de GraphQL APIs e otimização de consultas.Utilizar Nest para construir aplicações robustas e bem estruturadas.Integrar sistemas de mensageria usando NATS ou BullMQ para gerenciamento de filas e
+Projetar, desenvolver e manter APIs e microserviços escaláveis e de alta performance.
+Projetar, desenvolver e manter APIs e microserviços escaláveis e de alta performance.
+
+Implementar e gerenciar soluções de banco de dados utilizando Postgres e CitusData.
+Implementar e gerenciar soluções de banco de dados utilizando Postgres e CitusData.
+
+Trabalhar com Hasura para a criação de GraphQL APIs e otimização de consultas.
+Trabalhar com Hasura para a criação de GraphQL APIs e otimização de consultas.
+
+Utilizar Nest para construir aplicações robustas e bem estruturadas.
+Utilizar Nest para construir aplicações robustas e bem estruturadas.
+
+Integrar sistemas de mensageria usando NATS ou BullMQ para gerenciamento de filas e
+Integrar sistemas de mensageria usando NATS ou BullMQ para gerenciamento de filas e
+
+
+
+
+
+Colaborar com equipes de frontend e design para garantir uma experiência de usuário
+Colaborar com equipes de frontend e design para garantir uma experiência de usuário
+Colaborar com equipes de frontend e design para garantir uma experiência de usuário
+
+
+
+
+
+Realizar testes automatizados e revisões de código para garantir a qualidade do software.Mentorar e apoiar desenvolvedores mais juniores, promovendo um ambiente de
+Realizar testes automatizados e revisões de código para garantir a qualidade do software.
+Realizar testes automatizados e revisões de código para garantir a qualidade do software.
+
+Mentorar e apoiar desenvolvedores mais juniores, promovendo um ambiente de
+Mentorar e apoiar desenvolvedores mais juniores, promovendo um ambiente de
+
+
+
+
+
+
+
+
+
+Formação em Ciência da Computação, Engenharia de Software ou área relacionada.Mínimo de 5 anos de experiência em desenvolvimento backend, com foco em Node.js e
+Formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+Formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+
+Mínimo de 5 anos de experiência em desenvolvimento backend, com foco em Node.js e
+Mínimo de 5 anos de experiência em desenvolvimento backend, com foco em Node.js e
+
+
+
+
+
+Sólidos conhecimentos em bancos de dados relacionais, especialmente Postgres e
+Sólidos conhecimentos em bancos de dados relacionais, especialmente Postgres e
+Sólidos conhecimentos em bancos de dados relacionais, especialmente Postgres e
+
+
+
+
+
+Experiência com Hasura e Nest para construção de APIs e aplicações.Conhecimento em sistemas de mensageria como NATS ou BullMQ.Familiaridade com práticas ágeis e metodologias de desenvolvimento de software.Habilidade para trabalhar em equipe e se comunicar efetivamente.
+Experiência com Hasura e Nest para construção de APIs e aplicações.
+Experiência com Hasura e Nest para construção de APIs e aplicações.
+
+Conhecimento em sistemas de mensageria como NATS ou BullMQ.
+Conhecimento em sistemas de mensageria como NATS ou BullMQ.
+
+Familiaridade com práticas ágeis e metodologias de desenvolvimento de software.
+Familiaridade com práticas ágeis e metodologias de desenvolvimento de software.
+
+Habilidade para trabalhar em equipe e se comunicar efetivamente.
+Habilidade para trabalhar em equipe e se comunicar efetivamente.
+
+
+
+
+
+Experiência em arquiteturas de microserviços.Conhecimento em containerização (Docker, Kubernetes).Familiaridade com ferramentas de CI/CD.
+Experiência em arquiteturas de microserviços.
+Experiência em arquiteturas de microserviços.
+
+Conhecimento em containerização (Docker, Kubernetes).
+Conhecimento em containerização (Docker, Kubernetes).
+
+Familiaridade com ferramentas de CI/CD.
+Familiaridade com ferramentas de CI/CD.
+
+
+
+Habilidades Comportamentais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

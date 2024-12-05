@@ -1,0 +1,107 @@
+link-https://www.linkedin.com/jobs/view/4051974053/?eBP=CwEAAAGS7kxbBy65eI77lXMsAwM3evtqTjAUXQXwp740-GF6KqTeMPqfKvpNVQdRuq78HYdHrRxgcK_NHSUybYeR8upquG67uuCpIWwNBzfmA4_L9xWUTgG4KRxcapOkiStslnP1DJVd5uQBY9TtmMqMA9Hs4em3sKa0TfhuGogaEp84LQi832sOo6PxF-vItmWezWVBgxSV19exQT0UH0nHDYsaS8bsnD9wbZnaF-gR-7WuAK2rmGXrbgI3DWqvEhW_xof9eYhkR_-iXZxrOQ4ooXaoEAIAWXdcjwMsxXzN-tf_-y_DJWZnCMCe5zs7EbceyFcjYhoW84yFmrZoO28Opi9tB18M8V3CEq3colTpPujL0Ws_zPocoFJcPhf4xipqSu3CLz5CMPk2n9eLYE9gvAYitloBk7p3cqTCkCte0mMHGVqJvl4gfbuMaMPijoCyapEJLJhsslh6AfglMZj3muO2pncaVE7JSrDJFs1yZwI8dcW8TOYU3EDUdYjCGg&refId=8xjNfTTdcbqfoUH1mefKMQ%3D%3D&trackingId=QhUg8NTL%2FxLhuLVmc2NdJw%3D%3D&trk=flagship3_search_srp_jobs
+
+Desenvolvedor Front-end (Pleno)
+Sobre a vaga
+Nível:PlenoCursos de:ANÁLISE E DESENVOLVIMENTO DE SISTEMAS,CIÊNCIA DA COMPUTAÇÃOEscolaridade:Graduação - CompletoTipo de contrato:PJJornada de trabalho:Horário comercial (8 horas diárias)Disponibilidade para home-officeResponsabilidades Da PosiçãoDesenvolver e manter aplicações web utilizando Angular 2+;Colaborar com designers e desenvolvedores backend para criar interfaces de usuário eficientes e intuitivas. Escrever códigos limpos e funcionais no frontend;Garantir a performance, qualidade e responsividade das aplicações. Testar e corrigir erros ou outros problemas de codificação;Identificar e corrigir bugs;Realizar a manutenção dos sistemas já existentes. Ajudar a equipe a atingir as metas de tecnologia e relacionadas ao negócio;Ajudar a manter uma cultura de desenvolvimento de software de alta qualidade;Participar de revisões de código e contribuir para a melhoria contínua do processo de desenvolvimento;Estudar e compreender os produtos e entender sobre o negócio e a proposta de valor da empresa;Participar das rotinas de scrum;Adaptabilidade, senso de urgência, saber lidar com incertezas.Requisitos Obrigatórios Para a PosiçãoDomínio das linguagens Typescript e Javascript;Conhecimentos profundos de Angular 2+;Conhecimentos de Frontend: HTML, CSS, Flexbox, Grid e Angular Material;Conhecimento da arquitetura de software, clean code e princípios SOLID;Experiência com Git e Git Flow;Experiência com APIs RESTful;Conhecimento em desenvolvimento de aplicações PWA Conhecimentos em protocolos de rede (TCP/IP, SSH, HTTP);Conhecimentos de Linux, Apache e Nginx.Experiência no desenvolvimento de aplicações utilizando os serviços e infraestrutura de nuvem (Cloud Native);Experiência com OAuth2, JTW, OpenID e SSO.Sobre a EmpresaComo um parceiro alocado, você se relaciona com ambas as empresas, mas estará ainda mais próximo do cliente.Na Empresa Contratante Você Também Terá Acesso àAcompanhamento do gestor;TreinamentosEquipamento para trabalho;Acesso à conta corporativa UDEMY.
+Nível:
+
+
+
+Cursos de:
+
+
+
+
+Escolaridade:
+
+
+
+Tipo de contrato:
+
+
+
+Jornada de trabalho:
+
+
+
+Disponibilidade para home-office
+
+
+Responsabilidades Da Posição
+
+
+Desenvolver e manter aplicações web utilizando Angular 2+;Colaborar com designers e desenvolvedores backend para criar interfaces de usuário eficientes e intuitivas. Escrever códigos limpos e funcionais no frontend;Garantir a performance, qualidade e responsividade das aplicações. Testar e corrigir erros ou outros problemas de codificação;Identificar e corrigir bugs;Realizar a manutenção dos sistemas já existentes. Ajudar a equipe a atingir as metas de tecnologia e relacionadas ao negócio;Ajudar a manter uma cultura de desenvolvimento de software de alta qualidade;Participar de revisões de código e contribuir para a melhoria contínua do processo de desenvolvimento;Estudar e compreender os produtos e entender sobre o negócio e a proposta de valor da empresa;Participar das rotinas de scrum;Adaptabilidade, senso de urgência, saber lidar com incertezas.
+Desenvolver e manter aplicações web utilizando Angular 2+;
+Desenvolver e manter aplicações web utilizando Angular 2+;
+Colaborar com designers e desenvolvedores backend para criar interfaces de usuário eficientes e intuitivas. Escrever códigos limpos e funcionais no frontend;
+Colaborar com designers e desenvolvedores backend para criar interfaces de usuário eficientes e intuitivas. Escrever códigos limpos e funcionais no frontend;
+Garantir a performance, qualidade e responsividade das aplicações. Testar e corrigir erros ou outros problemas de codificação;
+Garantir a performance, qualidade e responsividade das aplicações. Testar e corrigir erros ou outros problemas de codificação;
+
+
+Identificar e corrigir bugs;
+Identificar e corrigir bugs;
+
+Realizar a manutenção dos sistemas já existentes. Ajudar a equipe a atingir as metas de tecnologia e relacionadas ao negócio;
+Realizar a manutenção dos sistemas já existentes. Ajudar a equipe a atingir as metas de tecnologia e relacionadas ao negócio;
+Ajudar a manter uma cultura de desenvolvimento de software de alta qualidade;
+Ajudar a manter uma cultura de desenvolvimento de software de alta qualidade;
+
+Participar de revisões de código e contribuir para a melhoria contínua do processo de desenvolvimento;
+Participar de revisões de código e contribuir para a melhoria contínua do processo de desenvolvimento;
+Estudar e compreender os produtos e entender sobre o negócio e a proposta de valor da empresa;
+Estudar e compreender os produtos e entender sobre o negócio e a proposta de valor da empresa;
+Participar das rotinas de scrum;
+Participar das rotinas de scrum;
+Adaptabilidade, senso de urgência, saber lidar com incertezas.
+Adaptabilidade, senso de urgência, saber lidar com incertezas.
+
+
+Requisitos Obrigatórios Para a Posição
+
+
+Domínio das linguagens Typescript e Javascript;Conhecimentos profundos de Angular 2+;Conhecimentos de Frontend: HTML, CSS, Flexbox, Grid e Angular Material;Conhecimento da arquitetura de software, clean code e princípios SOLID;Experiência com Git e Git Flow;Experiência com APIs RESTful;Conhecimento em desenvolvimento de aplicações PWA Conhecimentos em protocolos de rede (TCP/IP, SSH, HTTP);Conhecimentos de Linux, Apache e Nginx.Experiência no desenvolvimento de aplicações utilizando os serviços e infraestrutura de nuvem (Cloud Native);Experiência com OAuth2, JTW, OpenID e SSO.
+Domínio das linguagens Typescript e Javascript;
+Domínio das linguagens Typescript e Javascript;
+
+Conhecimentos profundos de Angular 2+;
+Conhecimentos profundos de Angular 2+;
+Conhecimentos de Frontend: HTML, CSS, Flexbox, Grid e Angular Material;
+Conhecimentos de Frontend: HTML, CSS, Flexbox, Grid e Angular Material;
+Conhecimento da arquitetura de software, clean code e princípios SOLID;
+Conhecimento da arquitetura de software, clean code e princípios SOLID;
+Experiência com Git e Git Flow;
+Experiência com Git e Git Flow;
+
+Experiência com APIs RESTful;
+Experiência com APIs RESTful;
+Conhecimento em desenvolvimento de aplicações PWA Conhecimentos em protocolos de rede (TCP/IP, SSH, HTTP);
+Conhecimento em desenvolvimento de aplicações PWA Conhecimentos em protocolos de rede (TCP/IP, SSH, HTTP);
+
+Conhecimentos de Linux, Apache e Nginx.
+Conhecimentos de Linux, Apache e Nginx.
+Experiência no desenvolvimento de aplicações utilizando os serviços e infraestrutura de nuvem (Cloud Native);
+Experiência no desenvolvimento de aplicações utilizando os serviços e infraestrutura de nuvem (Cloud Native);
+Experiência com OAuth2, JTW, OpenID e SSO.
+Experiência com OAuth2, JTW, OpenID e SSO.
+
+
+Sobre a Empresa
+
+
+
+
+Na Empresa Contratante Você Também Terá Acesso à
+
+
+Acompanhamento do gestor;TreinamentosEquipamento para trabalho;Acesso à conta corporativa UDEMY.
+Acompanhamento do gestor;
+Acompanhamento do gestor;
+Treinamentos
+Treinamentos
+Equipamento para trabalho;
+Equipamento para trabalho;
+Acesso à conta corporativa UDEMY.
+Acesso à conta corporativa UDEMY.
+Experiência e competências desejadas
+ANGULAR, JAVASCRIPT, TYPESCRIPT

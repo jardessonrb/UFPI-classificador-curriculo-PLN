@@ -1,0 +1,67 @@
+link-https://www.linkedin.com/jobs/view/4056155810/?eBP=CwEAAAGS7kzxeik_HtKQqhIwMjiak75KiT5T7aiNAM6vyzQW801Ptd_wNwoZZr_GA_VMHHXSmOLZaQK7XFYdfwmUf7FgD9Ob3l1vVMb2LGLABqHKPAqEF7oMkSBi_AZJKu9-vewhBgDtkzw9t_U7jBliZoEJIjUEEXfQRW1aGgqiV20gQknOX3N_-RmOGB6R1t_RBOsGYjWAThKZmUrArMJ_Rc8BKj72MTPaA4sPaWuDmi1K9w-qb-GyOwczlziC8LrlJEag9Cxo0xzdf14bnyUuYFN5b3C8g48-JDE5frIeehDeo_SLMEQCtIoExF0Fshx52BQrKKsOPEmxRzCyI61VDKtt6mQ6pIHsxxK7M9sBJNGkbNIgjofHBeBbsYQJWYB9m0oXJA8TYSgAC1dYtNRr9-liHTzTI3nTgyNVQhva2G48VaNHYsuRvm2xlDUbVPLuG5brOR7tfxpCbRH1bWIzoz3uznmxQ9lavGNSrD1ZkrVKSJYDp9_7-RqN&refId=94gnrwbwd5H%2FUFz3Hr4KsQ%3D%3D&trackingId=%2FK5wOXsCXA7kPXNI4CUaKQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Dev Frontend Pleno Remoto React
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Desenvolver e manter interfaces de usuário utilizando React, Vue/Vite e Typescript.Implementar componentes de UI responsivos, de fácil utilização e reutilizáveis.Integrar e utilizar GraphQL para a comunicação entre o front-end e o back-end.Contribuir para a implementação de soluções inovadoras utilizando inteligência artificial.Construir códigos reutilizáveis e de fácil manutenção Participar no processo de revisão de código, fornecendo e recebendo feedback construtivo.Sugerir melhorias ou implementações de designs que irão gerar a melhor usabilidade e experiência do usuárioParticipar dos rituais diários (dailies) para alinhamento das dificuldades enfrentadas no dia anterior e resolução de problemasComunicar-se com clareza e não ter medo de perguntar e pedir ajudaBoa noção de UX e UICapacidade de implementar interfaces responsivas e de fácil utilizaçãoEstar por dentro das tendências de funcionalidades e designs dos softwares que utilizam inteligência artificial para resolver problemasDomínio em ReactExperiência com Vue/ViteExperiência com GraphQLProficiência em TypescriptAderência às boas práticas de desenvolvimento de código - código limpoDomínio de gerenciamento de estado com Legend State será considerado um diferencialHabilidades ObrigatóriasReactTypeScriptHabilidades DesejáveisVue.jsTailwind CSSGraphQLA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+Desenvolver e manter interfaces de usuário utilizando React, Vue/Vite e Typescript.Implementar componentes de UI responsivos, de fácil utilização e reutilizáveis.Integrar e utilizar GraphQL para a comunicação entre o front-end e o back-end.Contribuir para a implementação de soluções inovadoras utilizando inteligência artificial.Construir códigos reutilizáveis e de fácil manutenção Participar no processo de revisão de código, fornecendo e recebendo feedback construtivo.Sugerir melhorias ou implementações de designs que irão gerar a melhor usabilidade e experiência do usuárioParticipar dos rituais diários (dailies) para alinhamento das dificuldades enfrentadas no dia anterior e resolução de problemas
+Desenvolver e manter interfaces de usuário utilizando React, Vue/Vite e Typescript.
+Desenvolver e manter interfaces de usuário utilizando React, Vue/Vite e Typescript.
+Implementar componentes de UI responsivos, de fácil utilização e reutilizáveis.
+Implementar componentes de UI responsivos, de fácil utilização e reutilizáveis.
+Integrar e utilizar GraphQL para a comunicação entre o front-end e o back-end.
+Integrar e utilizar GraphQL para a comunicação entre o front-end e o back-end.
+Contribuir para a implementação de soluções inovadoras utilizando inteligência artificial.
+Contribuir para a implementação de soluções inovadoras utilizando inteligência artificial.
+Construir códigos reutilizáveis e de fácil manutenção Participar no processo de revisão de código, fornecendo e recebendo feedback construtivo.
+Construir códigos reutilizáveis e de fácil manutenção Participar no processo de revisão de código, fornecendo e recebendo feedback construtivo.
+Sugerir melhorias ou implementações de designs que irão gerar a melhor usabilidade e experiência do usuário
+Sugerir melhorias ou implementações de designs que irão gerar a melhor usabilidade e experiência do usuário
+Participar dos rituais diários (dailies) para alinhamento das dificuldades enfrentadas no dia anterior e resolução de problemas
+Participar dos rituais diários (dailies) para alinhamento das dificuldades enfrentadas no dia anterior e resolução de problemas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReactTypeScript
+React
+React
+TypeScript
+TypeScript
+
+
+
+
+Vue.jsTailwind CSSGraphQL
+Vue.js
+Vue.js
+Tailwind CSS
+Tailwind CSS
+GraphQL
+GraphQL
+
+
+
+

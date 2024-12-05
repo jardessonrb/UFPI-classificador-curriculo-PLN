@@ -1,0 +1,269 @@
+link-https://www.linkedin.com/jobs/view/4066541148/?eBP=CwEAAAGS7lOKa_VEzgTNbUYD0OJsLG7oDRJWor85pjxMkH2lGMdZbY4ksHhtskIkPPjZejXbuQJWger8RB0oJsFOcmd2MycyLohpy9TTl5XvTtX9QOSAw6jhv-jNSkoQbgbEG7K89RF1s9OmwOAT8bjUq-egcxXyD9bcVdam_Sxb7mLX96mzw7USilKibAOKzaCi81i8zumA-vm8-ob6PE8rN3HacuT8pmWTeSZrHzCDW4IFD3bBLiVmat5QbltbZM21O1kjeKSVXKwh-Wi2jh4cbn-52LboBqxo2hRYADQiFxFH1QXX7IXTwsM5GENY08n9J-odxXCWy8zmgCFKmvFUPe3TgWmW1Yymnv9fSULC87klvK9NYufS31ZQDQx_te3Yob4wG5Fx691ApDJoEFvW7Auix3qRXocQqqd0mnJcW2YNAUssRfrtjvBqISJEH868gayeiJvJOqw52Bv6ar8Pd-uny7Rs1pULOvLE4nsyBG58CmC1kYMy2-9o7pa50SLTnu8fuibvXuteApMIkbd1&refId=vxzRdgWLAlHAeIKnYcrvfg%3D%3D&trackingId=i3mSXCnwqN%2FdMXK3uCLajg%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Python Developer (Backend), Brazil
+Sobre a vaga
+Nós somos especialistas emtech transformation, nós somos aCI&T.Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.MissãoAtuar na modernização da arquitetura de dados (Datalake), integrando com ferramentas de MDM, Data Quality e o produto de gerenciamento de ingestão de dados (aplicação customizada do cliente).Você será responsável por- Implementar novos recursos em um produto customizado de um de nossos clientes.- Garantir a a qualidade das entregas via testes unitários.- Apoiar o arquiteto nos levantamentos de requisitos não funcionais, e também apoie outros desenvolvedores dentro do tempo, auxiliando na formação dos demais assim como a implantação das melhores soluções de engenharia de software para manter um código bem estruturado, reutilizável e de alto desempenho. Participando dos ritos você terá participação nos planejamentos e definições da solução.Responsabilidades- Participe ativamente na arquitetura e design de novas funcionalidades.- Revisar e melhorar o código escrito por outros desenvolvedores.- Colaborar com equipes multidisciplinares para definir e implementar soluções.- Garantir a qualidade do código e as melhores práticas de desenvolvimento.- Capacidade de escrever código limpo e escalável.Requisitos para esse desafio- Domínio de Python para desenvolvimento backend.- Conhecimento/Experiência com plataformas de IA: Azure Open AI- Experiência em ferramentas de versionamento de código, especialmente Git.- Habilidades em testes automatizados e TDD/BDD.- Conhecimento/Experiência com testes unitários;- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S- Conhecimento de padrões de design e boas práticas;- Conhecimento/Experiência de ambientes de CI/CD;- Experiência com frameworks Python;- Experiência em desenvolvimento de APIs.Diferenciais- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services- Familiaridade com metodologias ágeis (Scrum, Kanban).- Experiência em DevOps: CI/CD, Docker, Kubernetes.- Experiência com liderança.Nossos benefícios:- Plano de saúde e odontológico;- Vale alimentação e refeição;- Auxílio-creche;- Licença paternagem estendida;- Gympass/Wellhub- PLR;- Seguro de Vida;- Parceria com plataforma online de saúde mental;- CI&T University;- Clube de descontos;- Programa de Apoio: orientação psicológica; nutricionista e mais;- Curso gestante e paternagem responsável;- Parceria com plataformas de cursos online;- Plataforma para aprendizagem de idiomas;- E muitos outros.Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreirasPor aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+Nós somos especialistas emtech transformation, nós somos aCI&T.
+
+tech transformation
+
+CI&T
+
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+Combinamos a força disruptiva da Inteligência Artificial com a expertise humana para apoiar grandes companhias a navegar as mudanças na tecnologia e nos negócios. Temos 30 anos de experiência,6.000pessoas, escritórios em 10 países e talentos distribuídos em 5 continentes. Atuamos nas frentes de design, estratégia e engenharia para marcas globais, apoiando clientes a alcançarem o máximo potencial da tecnologia como uma força para o bem. Impacto é o que entregamos.
+
+
+
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:Nossas posições para a Região Metropolitana de Campinas* requerem a presença nos escritórios da cidade, com quantidade e quais dias combinados com o seu projeto. Converse com o nosso time de recrutamento para saber mais informações sobre política de frequência vigente.
+Importante:
+
+
+
+
+Missão
+Missão
+Missão
+Atuar na modernização da arquitetura de dados (Datalake), integrando com ferramentas de MDM, Data Quality e o produto de gerenciamento de ingestão de dados (aplicação customizada do cliente).
+Atuar na modernização da arquitetura de dados (Datalake), integrando com ferramentas de MDM, Data Quality e o produto de gerenciamento de ingestão de dados (aplicação customizada do cliente).
+Atuar na modernização da arquitetura de dados (Datalake), integrando com ferramentas de MDM, Data Quality e o produto de gerenciamento de ingestão de dados (aplicação customizada do cliente).
+Você será responsável por
+Você será responsável por
+Você será responsável por
+Você será responsável por
+- Implementar novos recursos em um produto customizado de um de nossos clientes.
+- Implementar novos recursos em um produto customizado de um de nossos clientes.
+- Implementar novos recursos em um produto customizado de um de nossos clientes.
+- Implementar novos recursos em um produto customizado de um de nossos clientes.
+
+- Garantir a a qualidade das entregas via testes unitários.
+- Garantir a a qualidade das entregas via testes unitários.
+- Garantir a a qualidade das entregas via testes unitários.
+- Garantir a a qualidade das entregas via testes unitários.
+
+- Apoiar o arquiteto nos levantamentos de requisitos não funcionais, e também apoie outros desenvolvedores dentro do tempo, auxiliando na formação dos demais assim como a implantação das melhores soluções de engenharia de software para manter um código bem estruturado, reutilizável e de alto desempenho. Participando dos ritos você terá participação nos planejamentos e definições da solução.
+- Apoiar o arquiteto nos levantamentos de requisitos não funcionais, e também apoie outros desenvolvedores dentro do tempo, auxiliando na formação dos demais assim como a implantação das melhores soluções de engenharia de software para manter um código bem estruturado, reutilizável e de alto desempenho. Participando dos ritos você terá participação nos planejamentos e definições da solução.
+- Apoiar o arquiteto nos levantamentos de requisitos não funcionais, e também apoie outros desenvolvedores dentro do tempo, auxiliando na formação dos demais assim como a implantação das melhores soluções de engenharia de software para manter um código bem estruturado, reutilizável e de alto desempenho. Participando dos ritos você terá participação nos planejamentos e definições da solução.
+- Apoiar o arquiteto nos levantamentos de requisitos não funcionais, e também apoie outros desenvolvedores dentro do tempo, auxiliando na formação dos demais assim como a implantação das melhores soluções de engenharia de software para manter um código bem estruturado, reutilizável e de alto desempenho. Participando dos ritos você terá participação nos planejamentos e definições da solução.
+Responsabilidades
+Responsabilidades
+Responsabilidades
+Responsabilidades
+Responsabilidades
+- Participe ativamente na arquitetura e design de novas funcionalidades.
+- Participe ativamente na arquitetura e design de novas funcionalidades.
+- Participe ativamente na arquitetura e design de novas funcionalidades.
+- Participe ativamente na arquitetura e design de novas funcionalidades.
+- Participe ativamente na arquitetura e design de novas funcionalidades.
+- Revisar e melhorar o código escrito por outros desenvolvedores.
+- Revisar e melhorar o código escrito por outros desenvolvedores.
+- Revisar e melhorar o código escrito por outros desenvolvedores.
+- Revisar e melhorar o código escrito por outros desenvolvedores.
+- Revisar e melhorar o código escrito por outros desenvolvedores.
+- Colaborar com equipes multidisciplinares para definir e implementar soluções.
+- Colaborar com equipes multidisciplinares para definir e implementar soluções.
+- Colaborar com equipes multidisciplinares para definir e implementar soluções.
+- Colaborar com equipes multidisciplinares para definir e implementar soluções.
+- Colaborar com equipes multidisciplinares para definir e implementar soluções.
+- Garantir a qualidade do código e as melhores práticas de desenvolvimento.
+- Garantir a qualidade do código e as melhores práticas de desenvolvimento.
+- Garantir a qualidade do código e as melhores práticas de desenvolvimento.
+- Garantir a qualidade do código e as melhores práticas de desenvolvimento.
+- Garantir a qualidade do código e as melhores práticas de desenvolvimento.
+- Capacidade de escrever código limpo e escalável.
+- Capacidade de escrever código limpo e escalável.
+- Capacidade de escrever código limpo e escalável.
+- Capacidade de escrever código limpo e escalável.
+- Capacidade de escrever código limpo e escalável.
+Requisitos para esse desafio
+Requisitos para esse desafio
+Requisitos para esse desafio
+Requisitos para esse desafio
+Requisitos para esse desafio
+Requisitos para esse desafio
+
+- Domínio de Python para desenvolvimento backend.
+- Domínio de Python para desenvolvimento backend.
+- Domínio de Python para desenvolvimento backend.
+- Domínio de Python para desenvolvimento backend.
+- Domínio de Python para desenvolvimento backend.
+- Conhecimento/Experiência com plataformas de IA: Azure Open AI
+- Conhecimento/Experiência com plataformas de IA: Azure Open AI
+- Conhecimento/Experiência com plataformas de IA: Azure Open AI
+- Conhecimento/Experiência com plataformas de IA: Azure Open AI
+- Conhecimento/Experiência com plataformas de IA: Azure Open AI
+
+- Experiência em ferramentas de versionamento de código, especialmente Git.
+- Experiência em ferramentas de versionamento de código, especialmente Git.
+- Experiência em ferramentas de versionamento de código, especialmente Git.
+- Experiência em ferramentas de versionamento de código, especialmente Git.
+- Experiência em ferramentas de versionamento de código, especialmente Git.
+- Habilidades em testes automatizados e TDD/BDD.
+- Habilidades em testes automatizados e TDD/BDD.
+- Habilidades em testes automatizados e TDD/BDD.
+- Habilidades em testes automatizados e TDD/BDD.
+- Habilidades em testes automatizados e TDD/BDD.
+- Conhecimento/Experiência com testes unitários;
+- Conhecimento/Experiência com testes unitários;
+- Conhecimento/Experiência com testes unitários;
+- Conhecimento/Experiência com testes unitários;
+- Conhecimento/Experiência com testes unitários;
+- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S
+- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S
+- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S
+- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S
+- Conhecimento/Experiência com Kubernetes, Container, Docker, GCP e K8S
+- Conhecimento de padrões de design e boas práticas;
+- Conhecimento de padrões de design e boas práticas;
+- Conhecimento de padrões de design e boas práticas;
+- Conhecimento de padrões de design e boas práticas;
+- Conhecimento de padrões de design e boas práticas;
+- Conhecimento/Experiência de ambientes de CI/CD;
+- Conhecimento/Experiência de ambientes de CI/CD;
+- Conhecimento/Experiência de ambientes de CI/CD;
+- Conhecimento/Experiência de ambientes de CI/CD;
+- Conhecimento/Experiência de ambientes de CI/CD;
+- Experiência com frameworks Python;
+- Experiência com frameworks Python;
+- Experiência com frameworks Python;
+- Experiência com frameworks Python;
+- Experiência com frameworks Python;
+- Experiência em desenvolvimento de APIs.
+- Experiência em desenvolvimento de APIs.
+- Experiência em desenvolvimento de APIs.
+- Experiência em desenvolvimento de APIs.
+- Experiência em desenvolvimento de APIs.
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+Diferenciais
+- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services
+- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services
+- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services
+- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services
+- Experiência com produtos de dados como Databricks, Data Factory, Analysis - Services
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Familiaridade com metodologias ágeis (Scrum, Kanban).
+- Experiência em DevOps: CI/CD, Docker, Kubernetes.
+- Experiência em DevOps: CI/CD, Docker, Kubernetes.
+- Experiência em DevOps: CI/CD, Docker, Kubernetes.
+- Experiência em DevOps: CI/CD, Docker, Kubernetes.
+- Experiência em DevOps: CI/CD, Docker, Kubernetes.
+- Experiência com liderança.
+- Experiência com liderança.
+- Experiência com liderança.
+- Experiência com liderança.
+- Experiência com liderança.
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+Nossos benefícios:
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Plano de saúde e odontológico;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Vale alimentação e refeição;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Auxílio-creche;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Licença paternagem estendida;
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- Gympass/Wellhub
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- PLR;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Seguro de Vida;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- Parceria com plataforma online de saúde mental;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- CI&T University;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Clube de descontos;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Programa de Apoio: orientação psicológica; nutricionista e mais;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Curso gestante e paternagem responsável;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Parceria com plataformas de cursos online;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- Plataforma para aprendizagem de idiomas;
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+- E muitos outros.
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+Mais detalhes sobre nossos benefícios aqui:https://ciandt.com/br/pt-br/carreiras
+
+
+
+
+
+
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+Por aqui, celebramos e valorizamos a diversidade de identidades e experiências de vida. Reconhecemos que inovação e transformação só acontecem em ambientes de trabalho diversificados, inclusivos e seguros. Por isso, incentivamos fortemente pessoas de comunidades diversas e sub-representadas a se candidatarem às nossas vagas.
+
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+Antes de candidatar às nossas oportunidades confira aPolítica de Conflito de Interesseem nosso site.
+
+
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo
+Cidades que compõe a Região Metropolitana de Campinas: Americana, Artur Nogueira, Campinas, Cosmópolis, Engenheiro Coelho, Holambra, Hortolândia, Indaiatuba, Itatiba, Jaguariúna. Monte Mor, Morungaba, Nova Odessa, Paulínia, Pedreira, Santa Bárbara d'Oeste, Santo, Antônio de Posse, Sumaré, Valinhos, Vinhedo

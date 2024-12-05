@@ -1,0 +1,135 @@
+link-https://www.linkedin.com/jobs/view/4057218592/?eBP=CwEAAAGS7lLybInG2T9403oOrFI8Q3Nf64SE0595JV1occpO5pKHzd_ohv9C3rMN21buu2RFAw13CY4u3LstsRe28YcDrHl1TnBEk5bbhgpfEWFU_bM720cCMz43WWwXqrqH8P42jdLzbVJhzVhMYQasZZZ4b3OBOoJzHkl-uuj5E32NQC0EDqYVttCMMJ7f0mKZDEo6W06Mlg610j5sv8_gT4DGuXpoBt6xJvM5FiYSUhzKS8037Zz74UaxkubbYec6xgDv5jAuqbGXE6U7EAEN_FsB_2oh2EqV8UaErWFnE5m854IIx3zMcelqcq95xGFioCVxxLG0UW2Rq_Y1kX22HpkZh_Ri8s47ceuaI_fWx8abXC-zOAzSnw9Akd_iWDkwEvixynQr016QlwFFxAe7JJe5AmrrnhLvzxqxtxJptgSh2utum-6R9IdaXiohj7fUVpyKP0L6-Cof7xWk5iE6N5rulDUadr_zWjXin8rI64ewyfYeF2OSRbDeRPELXdLK&refId=0NTAJ6vgIdV8BH4wkr6gIg%3D%3D&trackingId=Nu2TjLCadfONJvURPgMaJA%3D%3D&trk=flagship3_search_srp_jobs
+
+Sr. Software Developer (Back-End)
+Sobre a vaga
+Somos a MedwayUma empresa que promove a melhoria da qualidade de assistência em saúde no Brasil. Nossa missão é ser o principal parceiro em toda a jornada profissional dos médicos.Nascemos no ambiente digital, em 2017, oferecendo cursos que preparam os profissionais para os muitos desafios que enfrentam na carreira. Somos um time movido pela certeza de que profissionais qualificados para cuidarem de seus pacientes dependem de uma educação de excelência.Trabalhamos num ambiente colaborativo, repleto de desafios e oportunidades de crescimento pessoal e profissional.Prezamos pela qualidade dos nossos produtos e buscamos sempre a melhoria contínua. Queremos profissionais focados e engajados em entregar os melhores resultados. Aqui somos desafiados a melhorar todos os dias!Sobre a vagaO time de produto na Medway é reconhecido internamente pela capacidade de trazer diferenciais que mudam o ponteiro do negócio. Hoje, boa parte da estratégia da empresa se baseia em evoluções de produto.Sendo parte essencial dessa estratégia, a equipe de produto desempenha um papel fundamental na concepção e execução de iniciativas que impulsionam o crescimento e a inovação.O time de retenção busca mentes criativas que possamentender as necessidades dos nossos alunos além de criar estratégias inovadoras de encantamento.Trabalhamos de forma essencial e colaborativa com todas as outras áreas da empresa.E aí, topa fazer parte deste desafio?Você terá as principais responsabilidadesLiderar o desenvolvimento de projetos de software, incluindo atribuição de tarefas e orientação aos membros da equipe;Desenvolver soluções garantindo qualidade técnica e boas práticas de desenvolvimento;Colaborar com a evolução das skills técnicas para as pessoas desenvolvedoras juniores;Conduzir code reviews fornecendo feedbacks construtivos para uma melhora contínua;Desenvolver e implementar pipelines de integração contínua e entrega contínua (CI/CD);Participar do design e arquitetura de sistemas de software para garantir soluções robustas e escaláveis.Buscamos Em VocêEnsino Superior completo em Engenharia, Análise e Desenvolvimento de Sistemas, Ciências da Computação ou áreas correlatas;Experiência em produtos B2c, com milhares de usuários;Experiência elaborando, implementando e colocando soluções de software em produção;Conhecimento em boas práticas de desenvolvimento como código limpo e Clean Architecture;Experiência com desenvolvimento utilizando a stack Django (Python) e Django Rest Framework - DRF;Conhecimento de microsserviços com APIs RESTful;Familiaridade com práticas de CI/CD;Capacidade analitica, visão crítica para resolver problemas e comunicação eficiente;Familiaridade com metodologias ágeis;Esses Diferenciais Te Tornam Uma Pessoa Candidata IdealConhecimento em banco de dados relacionais e não relacionais;Conhecimento sobre Cloud Computing e Devops;Conhecimento em Elastic/OpenSearch;Experiência em Startups, Edtechs ou Health Techs.POR QUE SE JUNTAR AO TIME?Na Medway, você fará parte de uma equipe apaixonada pela excelência. Oferecemos um ambiente que valoriza o aprendizado contínuo e a busca por soluções inovadoras. Se você deseja contribuir com sua experiência e fazer parte de uma jornada emocionante, estamos ansiosos para te conhecer!Junte-se a nós e ajude a moldar o futuro da assistência em saúde na Medway.Check-up dos nossos beneficíosAssistência Médica e Odontológica;Seguro de vida;Cartão Flash (Alimentação, Refeição, Flexível e Vale Mobilidade);Snacks e Bebibas;Gympass;Massagem uma vez por semana.Outras informações:Contrato PJ;Nossos ValoresObsessão pelo Cliente: Somos incansáveis na busca por encantar nosso cliente.Papo reto: Temos coragem para dizer e ouvir o que deve ser dito.Clareza: Somos sempre claros e assertivos na nossa comunicação.Autorresponsabilidade: Temos senso de dono: trabalhamos com comprometimento, paixão e energia.Melhoria Contínua: Nos desafiamos constantemente a sair da zona de conforto.Senso de time: Valorizamos times de alta performance.Quer embarcar nessa missão de transformar a assistência em saúde no Brasil através da educação?Então, vem com a gente!
+
+
+
+
+
+
+
+
+
+
+Sobre a vaga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liderar o desenvolvimento de projetos de software, incluindo atribuição de tarefas e orientação aos membros da equipe;Desenvolver soluções garantindo qualidade técnica e boas práticas de desenvolvimento;Colaborar com a evolução das skills técnicas para as pessoas desenvolvedoras juniores;Conduzir code reviews fornecendo feedbacks construtivos para uma melhora contínua;Desenvolver e implementar pipelines de integração contínua e entrega contínua (CI/CD);Participar do design e arquitetura de sistemas de software para garantir soluções robustas e escaláveis.
+Liderar o desenvolvimento de projetos de software, incluindo atribuição de tarefas e orientação aos membros da equipe;
+Liderar o desenvolvimento de projetos de software, incluindo atribuição de tarefas e orientação aos membros da equipe;
+Desenvolver soluções garantindo qualidade técnica e boas práticas de desenvolvimento;
+Desenvolver soluções garantindo qualidade técnica e boas práticas de desenvolvimento;
+Colaborar com a evolução das skills técnicas para as pessoas desenvolvedoras juniores;
+Colaborar com a evolução das skills técnicas para as pessoas desenvolvedoras juniores;
+Conduzir code reviews fornecendo feedbacks construtivos para uma melhora contínua;
+Conduzir code reviews fornecendo feedbacks construtivos para uma melhora contínua;
+
+Desenvolver e implementar pipelines de integração contínua e entrega contínua (CI/CD);
+Desenvolver e implementar pipelines de integração contínua e entrega contínua (CI/CD);
+Participar do design e arquitetura de sistemas de software para garantir soluções robustas e escaláveis.
+Participar do design e arquitetura de sistemas de software para garantir soluções robustas e escaláveis.
+
+
+Buscamos Em Você
+
+
+Ensino Superior completo em Engenharia, Análise e Desenvolvimento de Sistemas, Ciências da Computação ou áreas correlatas;Experiência em produtos B2c, com milhares de usuários;Experiência elaborando, implementando e colocando soluções de software em produção;Conhecimento em boas práticas de desenvolvimento como código limpo e Clean Architecture;Experiência com desenvolvimento utilizando a stack Django (Python) e Django Rest Framework - DRF;Conhecimento de microsserviços com APIs RESTful;Familiaridade com práticas de CI/CD;Capacidade analitica, visão crítica para resolver problemas e comunicação eficiente;Familiaridade com metodologias ágeis;
+Ensino Superior completo em Engenharia, Análise e Desenvolvimento de Sistemas, Ciências da Computação ou áreas correlatas;
+Ensino Superior completo em Engenharia, Análise e Desenvolvimento de Sistemas, Ciências da Computação ou áreas correlatas;
+Experiência em produtos B2c, com milhares de usuários;
+Experiência em produtos B2c, com milhares de usuários;
+
+Experiência elaborando, implementando e colocando soluções de software em produção;
+Experiência elaborando, implementando e colocando soluções de software em produção;
+Conhecimento em boas práticas de desenvolvimento como código limpo e Clean Architecture;
+Conhecimento em boas práticas de desenvolvimento como código limpo e Clean Architecture;
+Experiência com desenvolvimento utilizando a stack Django (Python) e Django Rest Framework - DRF;
+Experiência com desenvolvimento utilizando a stack Django (Python) e Django Rest Framework - DRF;
+Conhecimento de microsserviços com APIs RESTful;
+Conhecimento de microsserviços com APIs RESTful;
+Familiaridade com práticas de CI/CD;
+Familiaridade com práticas de CI/CD;
+Capacidade analitica, visão crítica para resolver problemas e comunicação eficiente;
+Capacidade analitica, visão crítica para resolver problemas e comunicação eficiente;
+Familiaridade com metodologias ágeis;
+Familiaridade com metodologias ágeis;
+
+
+Esses Diferenciais Te Tornam Uma Pessoa Candidata Ideal
+
+
+Conhecimento em banco de dados relacionais e não relacionais;Conhecimento sobre Cloud Computing e Devops;Conhecimento em Elastic/OpenSearch;Experiência em Startups, Edtechs ou Health Techs.
+Conhecimento em banco de dados relacionais e não relacionais;
+Conhecimento em banco de dados relacionais e não relacionais;
+Conhecimento sobre Cloud Computing e Devops;
+Conhecimento sobre Cloud Computing e Devops;
+Conhecimento em Elastic/OpenSearch;
+Conhecimento em Elastic/OpenSearch;
+Experiência em Startups, Edtechs ou Health Techs.
+Experiência em Startups, Edtechs ou Health Techs.
+
+
+
+
+
+
+
+
+
+
+Assistência Médica e Odontológica;Seguro de vida;Cartão Flash (Alimentação, Refeição, Flexível e Vale Mobilidade);Snacks e Bebibas;Gympass;Massagem uma vez por semana.
+Assistência Médica e Odontológica;
+Assistência Médica e Odontológica;
+Seguro de vida;
+Seguro de vida;
+Cartão Flash (Alimentação, Refeição, Flexível e Vale Mobilidade);
+Cartão Flash (Alimentação, Refeição, Flexível e Vale Mobilidade);
+Snacks e Bebibas;
+Snacks e Bebibas;
+Gympass;
+Gympass;
+Massagem uma vez por semana.
+Massagem uma vez por semana.
+
+
+Outras informações:
+
+
+Contrato PJ;
+Contrato PJ;
+Contrato PJ;
+
+
+
+
+Obsessão pelo Cliente: Somos incansáveis na busca por encantar nosso cliente.Papo reto: Temos coragem para dizer e ouvir o que deve ser dito.Clareza: Somos sempre claros e assertivos na nossa comunicação.Autorresponsabilidade: Temos senso de dono: trabalhamos com comprometimento, paixão e energia.Melhoria Contínua: Nos desafiamos constantemente a sair da zona de conforto.Senso de time: Valorizamos times de alta performance.
+Obsessão pelo Cliente: Somos incansáveis na busca por encantar nosso cliente.
+Obsessão pelo Cliente: Somos incansáveis na busca por encantar nosso cliente.
+Papo reto: Temos coragem para dizer e ouvir o que deve ser dito.
+Papo reto: Temos coragem para dizer e ouvir o que deve ser dito.
+Clareza: Somos sempre claros e assertivos na nossa comunicação.
+Clareza: Somos sempre claros e assertivos na nossa comunicação.
+Autorresponsabilidade: Temos senso de dono: trabalhamos com comprometimento, paixão e energia.
+Autorresponsabilidade: Temos senso de dono: trabalhamos com comprometimento, paixão e energia.
+Melhoria Contínua: Nos desafiamos constantemente a sair da zona de conforto.
+Melhoria Contínua: Nos desafiamos constantemente a sair da zona de conforto.
+Senso de time: Valorizamos times de alta performance.
+Senso de time: Valorizamos times de alta performance.
+
+
+
+

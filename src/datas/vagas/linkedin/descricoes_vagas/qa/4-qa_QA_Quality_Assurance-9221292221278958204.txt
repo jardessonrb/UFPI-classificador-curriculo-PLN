@@ -1,0 +1,99 @@
+link-https://www.linkedin.com/jobs/view/4060171659/?eBP=CwEAAAGS7kfP1CpBjvT2srMA2xNAciO40Qp-XnsqDTF35AI4GW7C2sUZRcevRbtjlTjS64DyylyH0tRFrUAKbOR2sMgN7GpZhx0hJsPmkuUx8xCkqcV-e-zxqbDmxNS8QjvPzSkDbTHMyJLNX6bmTigFGHiCwT3NlIwVTNyy3D3SMtkZsf5P_bhynVKrvVJItE0v8U0OY0siT-65dFxkx2lL3GZOld0uUQUUW3lBisMMeusV0TenDJfrnWaEaaewyErfo_uo4xGeQPkLxNA5wonEm7Ft0wAhLSbJDlQNpAFt3nKRq7UFMq8B7QHQMWqnSq2EtiH0DlwOuaUZYiK3wTvS9KvPcSpnKpVxqT-mzWrcgFTalbtbiSJf_DGUOeZPAd753tlWOQmGkErhaeKmaMNeXuP8_DzMBVVCezzOP0mX0fMTbISXYoxfrBl7AA_04CVWhT4cN9jaqrWiHDJ_Nud0T5D4EUi44G4vyTYBMw293rbOhamiNEf99jbSM314Ofdo&refId=tyxQQXOBSAJsa4OGZvAY7A%3D%3D&trackingId=z7ZlJuRo%2B8ZcEkmvkyJTrg%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista de Qualidade QA Sênior
+Sobre a vaga
+Somos a maior empresa de tecnologia para o setor financeiro do Brasil e estamos em busca de um(a)Analista de Qualidade QA Sêniorpara compor nosso time na área de Serviços e nos ajudar a fazer o mercado financeiro pulsar!📍 O que a área de Serviços faz na Sinqia:Organizamos squads apoiando nossos clientes com a visão de negócio, desenvolvimento e sustentação de seus produtos. Somos especialistas em People Tech. Fornecemos desde um profissional até uma equipe multidisciplinar completa para gestão técnica e de negócios. Nossas soluções unem capacidade de priorização, identificação de oportunidades e a melhor experiência com tecnologia, para uma entrega personalizada de valor aos resultados dos nossos clientes.Desde novembro de 2023, somos uma empresa do Grupo Evertec.Saiba mais em:Fusão Evertec-Sinqia.ResponsabilidadesPlanejar os cenários de teste com base nos requisitos do sistema e nas especificações do projeto.Participar de revisões de design, de código e de documentação para garantir a qualidade em todas as fases do ciclo de vida do desenvolvimento de software.Desenvolver e implementar scripts de automação de testes.Executar testes funcionais, de integração, de regressão e exploratórios para identificar possíveis falhas no software.Verificar se os requisitos do sistema estão sendo atendidos por meio dos testes realizados.Identificar, analisar e documentar as falhas encontradas durante os testes utilizando ferramentas de gestão de falhas.Colaborar com a equipe de desenvolvimento para resolver problemas e garantir a qualidade do produto.Preparar o status report de teste e comunicar os resultados e métricas de qualidade para as partes interessadas.Contribuir para a melhoria contínua dos processos de teste.RequisitosExperiência em planejamento e execução manual e automatizada de testes em projetos e sistemasExperiência com ferramentas de gerenciamento de testes (por exemplo: Octane, Jira ou Squash)Sólidos conhecimentos em frameworks de automação de testesExperiência com automação de APIsConhecimento no workflow de DevOps (CI/CD), Git e continuous testing (Diferencial)Certificação em testes (Diferencial)Modalidade de Trabalho: Híbrido (3x presencial no escritório: Av. Brigadeiro Faria Lima, Itaim Bibi)📍 O Que Você Encontrará AquiClube de parceriasAssistência médicaVale refeiçãoAuxílio crecheSeguro de vidaVale transporteBenefícios Flexíveis (aqui você escolhe os benefícios de acordo com a sua necessidade).♿🌈🙋🏾👴🏻 Na Sinqia valorizamos a diversidade e entendemos que o que acrescenta é justamente ideias e pontos de vistas variados. Por isso raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade, não serão impeditivos de você fazer parte do nosso time.🏅 Se identificou com esta vaga? Ela pode ser sua! Mande seu currículo para nós.
+
+Analista de Qualidade QA Sênior
+
+
+
+
+
+
+
+
+
+Fusão Evertec-Sinqia
+
+
+
+Responsabilidades
+
+
+Planejar os cenários de teste com base nos requisitos do sistema e nas especificações do projeto.Participar de revisões de design, de código e de documentação para garantir a qualidade em todas as fases do ciclo de vida do desenvolvimento de software.Desenvolver e implementar scripts de automação de testes.Executar testes funcionais, de integração, de regressão e exploratórios para identificar possíveis falhas no software.Verificar se os requisitos do sistema estão sendo atendidos por meio dos testes realizados.Identificar, analisar e documentar as falhas encontradas durante os testes utilizando ferramentas de gestão de falhas.Colaborar com a equipe de desenvolvimento para resolver problemas e garantir a qualidade do produto.Preparar o status report de teste e comunicar os resultados e métricas de qualidade para as partes interessadas.Contribuir para a melhoria contínua dos processos de teste.
+Planejar os cenários de teste com base nos requisitos do sistema e nas especificações do projeto.
+Planejar os cenários de teste com base nos requisitos do sistema e nas especificações do projeto.
+
+Participar de revisões de design, de código e de documentação para garantir a qualidade em todas as fases do ciclo de vida do desenvolvimento de software.
+Participar de revisões de design, de código e de documentação para garantir a qualidade em todas as fases do ciclo de vida do desenvolvimento de software.
+
+Desenvolver e implementar scripts de automação de testes.
+Desenvolver e implementar scripts de automação de testes.
+
+Executar testes funcionais, de integração, de regressão e exploratórios para identificar possíveis falhas no software.
+Executar testes funcionais, de integração, de regressão e exploratórios para identificar possíveis falhas no software.
+
+Verificar se os requisitos do sistema estão sendo atendidos por meio dos testes realizados.
+Verificar se os requisitos do sistema estão sendo atendidos por meio dos testes realizados.
+
+Identificar, analisar e documentar as falhas encontradas durante os testes utilizando ferramentas de gestão de falhas.
+Identificar, analisar e documentar as falhas encontradas durante os testes utilizando ferramentas de gestão de falhas.
+
+Colaborar com a equipe de desenvolvimento para resolver problemas e garantir a qualidade do produto.
+Colaborar com a equipe de desenvolvimento para resolver problemas e garantir a qualidade do produto.
+
+Preparar o status report de teste e comunicar os resultados e métricas de qualidade para as partes interessadas.
+Preparar o status report de teste e comunicar os resultados e métricas de qualidade para as partes interessadas.
+
+Contribuir para a melhoria contínua dos processos de teste.
+Contribuir para a melhoria contínua dos processos de teste.
+
+
+
+Requisitos
+
+
+Experiência em planejamento e execução manual e automatizada de testes em projetos e sistemasExperiência com ferramentas de gerenciamento de testes (por exemplo: Octane, Jira ou Squash)Sólidos conhecimentos em frameworks de automação de testesExperiência com automação de APIsConhecimento no workflow de DevOps (CI/CD), Git e continuous testing (Diferencial)Certificação em testes (Diferencial)
+Experiência em planejamento e execução manual e automatizada de testes em projetos e sistemas
+Experiência em planejamento e execução manual e automatizada de testes em projetos e sistemas
+
+Experiência com ferramentas de gerenciamento de testes (por exemplo: Octane, Jira ou Squash)
+Experiência com ferramentas de gerenciamento de testes (por exemplo: Octane, Jira ou Squash)
+
+Sólidos conhecimentos em frameworks de automação de testes
+Sólidos conhecimentos em frameworks de automação de testes
+
+Experiência com automação de APIs
+Experiência com automação de APIs
+
+Conhecimento no workflow de DevOps (CI/CD), Git e continuous testing (Diferencial)
+Conhecimento no workflow de DevOps (CI/CD), Git e continuous testing (Diferencial)
+
+Certificação em testes (Diferencial)
+Certificação em testes (Diferencial)
+
+
+
+Modalidade de Trabalho: Híbrido (3x presencial no escritório: Av. Brigadeiro Faria Lima, Itaim Bibi)
+
+
+📍 O Que Você Encontrará Aqui
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

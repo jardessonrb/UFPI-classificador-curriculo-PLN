@@ -1,0 +1,84 @@
+link-https://www.linkedin.com/jobs/view/4057762237/?eBP=CwEAAAGS7k3ujS6BurXI2hYPVuQMKUAmfu6BiR0_ieKZHCiHaRFH1unpF8BDaZ8bM3k7KQU5iCZKgx9VvLaQs5PBloRGqzN5yuzZ7rBUI5TQAORDSDkaJf_KDW-XNwGk671JV15ozDtFygZbf00sLvNO_A7U5SxumYA8IM2NN6afYf7RTCsZ83G-mwm7CKuT6Wtm3wfGXvDSmiDCgh4Yza66Op7JYo7wDzx2lETLOkdeRFR7EbhoVMg3pqRNM6KcvZIn76-5UmviJWheK3Ksxilj5_OKY26849hMzp5Hvx4fQpWssFPodTyuC1TAbouqpuPJczQCtBuMzN8BYqnbKINlO7ayuxk02ejiX4LMJpaWN1WzZdJ9bXDnteInRlz3XMYRTDPLFap9gn_3TERn3mSbvYGdublYKpnq4wCxWaZPbqUGSqH2MI0HSWu9Nk83D88FLKI4NNndkWXwHP3OaSupgQsOjl8uyveMwf4q66PSBy-ETpW3J7C6FxfBFFwHuDbdLnyMCE2PGQM&refId=oe%2FC0tbf322tUeR3iuci6Q%3D%3D&trackingId=8vDaMn9A2usVgVrjk%2BNKeQ%3D%3D&trk=flagship3_search_srp_jobs
+
+Senior Frontend Engineer - Remote
+Sobre a vaga
+At Zyte, we eat data for breakfast and you can eat your breakfast anywhere and work for Zyte. Founded in 2010, we are a globally distributed team of over 240 Zytans working from over 28 countries who are on a mission to enable our customers to extract the data they need to continue to innovate and grow their businesses. We believe that all businesses deserve a smooth pathway to dataFor more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. And today, the data we extract helps thousands of organisations make smarter business decisions, secure competitive advantage, and drive sustainable growth. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.We have established products that already have a product-market fit where you'll help to grow the business and stay up to date with market demands. At the same time, you'll be working to iterate quickly on testing new opportunities to help determine which are worth continued investment. We're a data-driven team that defines success by business results rather than the completion of a task. Finally, you'll excel in this role as an independent thinker that can always find a way to move projects forward, even if you might be the only team member online at that timeRequirementsAbout the team:The Platform team consists of several frontend and backend developers that work together designing, building and maintaining our customer facing application and tools to make the world a better place for web crawler developers. We're a team that values collaboration and helping each other. We meet consistently to discuss problems and brainstorm solutions. We maintain quality through collaborative development and code-review, and everybody's ideas about development and architecture are welcome. We are trusted as developers and we take responsibility and ownership for the work we do. We have the flexibility to organize our work and the freedom to choose the tools we like most.Job Responsibilities:In your role as a Senior Frontend Developer on the platform team you will join us in designing and developing our customer facing application. In your daily activities you will be expected to:Take ownership of projects, and independently drive them from prototype to completionBuild composable, reusable components for our complex SPARelentlessly strive to build easy to maintain systems via refactoringMentoring less experienced colleagues and helping them growBe proactive in bringing forth new ideas and solutions to problemsBe a strong team player and share knowledge freely and easily with your co-workersStrong knowledge of Typescript, Javascript, HTML and CSSIn depth experience with the Angular framework (version 16 at least)Familiarity with Redux style state management, preferably NgRxExperience with reactive programming and composing Observables using RxJSLove continuous learningExcellent communication skills, both written and verbal, in EnglishNice to have:Experience designing interfaces and user experiences with Figma (or similar tools)Experience with another modern client-side framework such as React, Ember, or VueLayout using modern CSS features like flexbox and gridFamiliarity with CSS pre-processors (SCSS preferred)Knowledge about browser performance optimization and developing web applications with browser performance in mindExperience developing large and complex SPAExperience working with the Python language and Python backend development, especially with DjangoBenefitsAs a new Zytan, you will:Become part of a self-motivated, progressive, multi-cultural team.Have the freedom and flexibility to work from where you do your best work.Work with cutting-edge open-source technologies and tools.
+
+
+
+
+
+
+Requirements
+
+
+About the team:
+
+
+
+
+Job Responsibilities:
+
+
+
+
+Take ownership of projects, and independently drive them from prototype to completionBuild composable, reusable components for our complex SPARelentlessly strive to build easy to maintain systems via refactoringMentoring less experienced colleagues and helping them growBe proactive in bringing forth new ideas and solutions to problemsBe a strong team player and share knowledge freely and easily with your co-workersStrong knowledge of Typescript, Javascript, HTML and CSSIn depth experience with the Angular framework (version 16 at least)Familiarity with Redux style state management, preferably NgRxExperience with reactive programming and composing Observables using RxJSLove continuous learningExcellent communication skills, both written and verbal, in English
+Take ownership of projects, and independently drive them from prototype to completion
+Take ownership of projects, and independently drive them from prototype to completion
+Build composable, reusable components for our complex SPA
+Build composable, reusable components for our complex SPA
+Relentlessly strive to build easy to maintain systems via refactoring
+Relentlessly strive to build easy to maintain systems via refactoring
+Mentoring less experienced colleagues and helping them grow
+Mentoring less experienced colleagues and helping them grow
+Be proactive in bringing forth new ideas and solutions to problems
+Be proactive in bringing forth new ideas and solutions to problems
+Be a strong team player and share knowledge freely and easily with your co-workers
+Be a strong team player and share knowledge freely and easily with your co-workers
+Strong knowledge of Typescript, Javascript, HTML and CSS
+Strong knowledge of Typescript, Javascript, HTML and CSS
+In depth experience with the Angular framework (version 16 at least)
+In depth experience with the Angular framework (version 16 at least)
+Familiarity with Redux style state management, preferably NgRx
+Familiarity with Redux style state management, preferably NgRx
+Experience with reactive programming and composing Observables using RxJS
+Experience with reactive programming and composing Observables using RxJS
+Love continuous learning
+Love continuous learning
+Excellent communication skills, both written and verbal, in English
+Excellent communication skills, both written and verbal, in English
+
+
+
+Nice to have:
+
+
+
+Experience designing interfaces and user experiences with Figma (or similar tools)Experience with another modern client-side framework such as React, Ember, or VueLayout using modern CSS features like flexbox and gridFamiliarity with CSS pre-processors (SCSS preferred)Knowledge about browser performance optimization and developing web applications with browser performance in mindExperience developing large and complex SPAExperience working with the Python language and Python backend development, especially with Django
+Experience designing interfaces and user experiences with Figma (or similar tools)
+Experience designing interfaces and user experiences with Figma (or similar tools)
+Experience with another modern client-side framework such as React, Ember, or Vue
+Experience with another modern client-side framework such as React, Ember, or Vue
+Layout using modern CSS features like flexbox and grid
+Layout using modern CSS features like flexbox and grid
+Familiarity with CSS pre-processors (SCSS preferred)
+Familiarity with CSS pre-processors (SCSS preferred)
+Knowledge about browser performance optimization and developing web applications with browser performance in mind
+Knowledge about browser performance optimization and developing web applications with browser performance in mind
+Experience developing large and complex SPA
+Experience developing large and complex SPA
+Experience working with the Python language and Python backend development, especially with Django
+Experience working with the Python language and Python backend development, especially with Django
+
+
+
+Benefits
+
+
+As a new Zytan, you will:
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+link-https://www.linkedin.com/jobs/view/4047040962/?eBP=CwEAAAGS7lKMz8LGH-5KYCNOOGi3QeIHh7muU7A7bznHvhVri3Sg4sXlp3XCj8-AIUgsEdPyiLH_yiErjBbCdOq5Colb1zVwXf8N0k3pXYZH8C-P2tvdEh-ZuFhn5RFTzIm-P_DDWihbz8YONvwL8LNJV-FmIZ85lGsQBvyqPujw17Zv46srkiKEX5lx2Au4jF99SvLA3JmOpcP9Zw7nuaMevpNigKXrCjkW9pjg4BIoI6yJSU_8Q__26k9EKLKO9m4K-HteIYHN8bBsWabH8bjzifXgdXl9v5bXdmotj17UHpFsks0NIQqmXzYZ9cRuV8-Jh83yhFTrjxgs4yb7xVEO2FzfZ5ZalseQz9ULqH6v3Isv46PEciBYeZLBuw2zRMIouoQ4-IvrScn2Mrs-Wd7sGbRHUAtadi4y74s-yhDCpOz97y7ZxZlWhJ0X68ZCSgueuMKUo-yKlNJw2FHFK_51FkMObUIuBV-ne2eOYnW9CTCdU0jAZS2vSABx&refId=VU0feOuZ4SqPVhp5UYqV%2Fw%3D%3D&trackingId=nAfu%2FE1GLA4iN%2FK1yvuKuw%3D%3D&trk=flagship3_search_srp_jobs
+
+Analista Programador Back-end AWS
+Sobre a vaga
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.Atividades a Serem DesempenhadasDesenvolver e manter aplicações em AWS utilizando serviços como Lambda, EC2, S3, RDS, DynamoDB e API Gateway.Implementar arquiteturas de microsserviços e serverless com foco em escalabilidade e segurança.Utilizar Python e frameworks como Flask, Django ou FastAPI para desenvolvimento de aplicações e scripts de automação.Configurar e gerenciar pipelines de CI/CD com GitLab Premium, garantindo a entrega contínua e integrada.Garantir a segurança das aplicações e conformidade com PCI, implementando boas práticas de desenvolvimento seguro e gestão de credenciais.Otimizar a entrega de conteúdo e performance de aplicações.Projetar e implementar soluções de alta disponibilidade e auto scaling para lidar com variações de carga de trabalho.Diagnosticar e resolver problemas em ambientes de produção, oferecendo suporte a incidentes conforme necessário.Colaborar com outras equipes de desenvolvimento, operações e segurança para garantir a qualidade e eficiência dos projetos.Se você tem um perfil dinâmico e gosta de trabalhar em equipe, inscreva-se agora para fazer parte de nossa equipe inovadora!Principais Requisitos Da VagaExperiência sólida com serviços AWS e desenvolvimento em Python. Conhecimento profundo de GitLab Premium, CloudFront e conformidade PCI.Experiência com frameworks de desenvolvimento web (Flask, Django, FastAPI) e bibliotecas AWS (Boto3).Experiência em arquiteturas de alta disponibilidade e sistemas de escalabilidade.Excelentes habilidades de resolução de problemas e suporte técnico.Boa comunicação e capacidade de trabalho em equipe.Disponibilidade para trabalhar em um ambiente dinâmico e colaborativo.DiferenciaisCertificações AWS.Experiência com ferramentas de CI/CD e DevOps.Conhecimento de outras linguagens de programação ou plataformas de nuvem.Experiência em desenvolvimento seguro.Se você se identifica com este perfil e está pronto para enfrentar novos desafios, inscreva-se agora e venha fazer parte de nossa equipe inovadora!Habilidades ObrigatóriasPythonAWSHabilidades DesejáveisGitCultura ÁgilCloud SecurityAWS CloudFrontAWS CloudWatchA vaga aceita trabalho remoto?Sim
+Esta é uma vaga de um cliente da GeekHunter, candidate-se para ter acesso às informações completas sobre a empresa.
+
+
+Atividades a Serem Desempenhadas
+
+
+Desenvolver e manter aplicações em AWS utilizando serviços como Lambda, EC2, S3, RDS, DynamoDB e API Gateway.Implementar arquiteturas de microsserviços e serverless com foco em escalabilidade e segurança.Utilizar Python e frameworks como Flask, Django ou FastAPI para desenvolvimento de aplicações e scripts de automação.Configurar e gerenciar pipelines de CI/CD com GitLab Premium, garantindo a entrega contínua e integrada.Garantir a segurança das aplicações e conformidade com PCI, implementando boas práticas de desenvolvimento seguro e gestão de credenciais.Otimizar a entrega de conteúdo e performance de aplicações.Projetar e implementar soluções de alta disponibilidade e auto scaling para lidar com variações de carga de trabalho.Diagnosticar e resolver problemas em ambientes de produção, oferecendo suporte a incidentes conforme necessário.Colaborar com outras equipes de desenvolvimento, operações e segurança para garantir a qualidade e eficiência dos projetos.
+Desenvolver e manter aplicações em AWS utilizando serviços como Lambda, EC2, S3, RDS, DynamoDB e API Gateway.
+Desenvolver e manter aplicações em AWS utilizando serviços como Lambda, EC2, S3, RDS, DynamoDB e API Gateway.
+Implementar arquiteturas de microsserviços e serverless com foco em escalabilidade e segurança.
+Implementar arquiteturas de microsserviços e serverless com foco em escalabilidade e segurança.
+Utilizar Python e frameworks como Flask, Django ou FastAPI para desenvolvimento de aplicações e scripts de automação.
+Utilizar Python e frameworks como Flask, Django ou FastAPI para desenvolvimento de aplicações e scripts de automação.
+Configurar e gerenciar pipelines de CI/CD com GitLab Premium, garantindo a entrega contínua e integrada.
+Configurar e gerenciar pipelines de CI/CD com GitLab Premium, garantindo a entrega contínua e integrada.
+Garantir a segurança das aplicações e conformidade com PCI, implementando boas práticas de desenvolvimento seguro e gestão de credenciais.
+Garantir a segurança das aplicações e conformidade com PCI, implementando boas práticas de desenvolvimento seguro e gestão de credenciais.
+Otimizar a entrega de conteúdo e performance de aplicações.
+Otimizar a entrega de conteúdo e performance de aplicações.
+Projetar e implementar soluções de alta disponibilidade e auto scaling para lidar com variações de carga de trabalho.
+Projetar e implementar soluções de alta disponibilidade e auto scaling para lidar com variações de carga de trabalho.
+Diagnosticar e resolver problemas em ambientes de produção, oferecendo suporte a incidentes conforme necessário.
+Diagnosticar e resolver problemas em ambientes de produção, oferecendo suporte a incidentes conforme necessário.
+Colaborar com outras equipes de desenvolvimento, operações e segurança para garantir a qualidade e eficiência dos projetos.
+Colaborar com outras equipes de desenvolvimento, operações e segurança para garantir a qualidade e eficiência dos projetos.
+
+
+
+
+Principais Requisitos Da Vaga
+
+
+Experiência sólida com serviços AWS e desenvolvimento em Python. Conhecimento profundo de GitLab Premium, CloudFront e conformidade PCI.Experiência com frameworks de desenvolvimento web (Flask, Django, FastAPI) e bibliotecas AWS (Boto3).Experiência em arquiteturas de alta disponibilidade e sistemas de escalabilidade.Excelentes habilidades de resolução de problemas e suporte técnico.Boa comunicação e capacidade de trabalho em equipe.Disponibilidade para trabalhar em um ambiente dinâmico e colaborativo.
+Experiência sólida com serviços AWS e desenvolvimento em Python. Conhecimento profundo de GitLab Premium, CloudFront e conformidade PCI.
+Experiência sólida com serviços AWS e desenvolvimento em Python. Conhecimento profundo de GitLab Premium, CloudFront e conformidade PCI.
+Experiência com frameworks de desenvolvimento web (Flask, Django, FastAPI) e bibliotecas AWS (Boto3).
+Experiência com frameworks de desenvolvimento web (Flask, Django, FastAPI) e bibliotecas AWS (Boto3).
+Experiência em arquiteturas de alta disponibilidade e sistemas de escalabilidade.
+Experiência em arquiteturas de alta disponibilidade e sistemas de escalabilidade.
+Excelentes habilidades de resolução de problemas e suporte técnico.
+Excelentes habilidades de resolução de problemas e suporte técnico.
+Boa comunicação e capacidade de trabalho em equipe.
+Boa comunicação e capacidade de trabalho em equipe.
+Disponibilidade para trabalhar em um ambiente dinâmico e colaborativo.
+Disponibilidade para trabalhar em um ambiente dinâmico e colaborativo.
+
+
+Diferenciais
+
+
+Certificações AWS.Experiência com ferramentas de CI/CD e DevOps.Conhecimento de outras linguagens de programação ou plataformas de nuvem.Experiência em desenvolvimento seguro.
+Certificações AWS.
+Certificações AWS.
+Experiência com ferramentas de CI/CD e DevOps.
+Experiência com ferramentas de CI/CD e DevOps.
+Conhecimento de outras linguagens de programação ou plataformas de nuvem.
+Conhecimento de outras linguagens de programação ou plataformas de nuvem.
+Experiência em desenvolvimento seguro.
+Experiência em desenvolvimento seguro.
+
+
+
+
+
+
+PythonAWS
+Python
+Python
+AWS
+AWS
+
+
+
+
+GitCultura ÁgilCloud SecurityAWS CloudFrontAWS CloudWatch
+Git
+Git
+Cultura Ágil
+Cultura Ágil
+Cloud Security
+Cloud Security
+AWS CloudFront
+AWS CloudFront
+AWS CloudWatch
+AWS CloudWatch
+
+
+
+

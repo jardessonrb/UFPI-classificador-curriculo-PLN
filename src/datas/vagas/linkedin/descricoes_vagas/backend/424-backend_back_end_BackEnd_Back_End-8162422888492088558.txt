@@ -1,0 +1,171 @@
+link-https://www.linkedin.com/jobs/view/4053358797/?eBP=CwEAAAGS7lNW-IxO8tARm9emOScCjfW5wQcEAXRW5MJ1PHU3Xfya6pJqk4pTnimqD1ZbHj2NFrYf2395JwVgu_ZyII50EQ7n3Mf01k_ubuS-5KzWwE35N1NSB1qUpLmXnU38HR0mRnhA8kQVeDZ2X3ehO8QCqT1Cm8TF3m2DbQinX9wOo4S9AXLRobAgtrkaJ6BqK4RR7TJQzL9J8_feVvFzl5nYtgMFkWUeG_e9QIW_7W6y6JlKqdzyQFKnE_a3-bwko06980I5m2Kv5wuhHc77bBUZwJSnytUk7eMYmxKVq9cZRS-adEjQfSfgSi7c9rHDybYpo7rLf-1r8IMC9jPPBK1hETVi4cuJNskiZU5mFuIUP7Ho47JdUp0TGdxrEkZJoXZxN_lLlBIVfzv-ZK2d85tPILCkQ0WhSV3Du2-sG9M6VjxQnWiSa-naW_Nq5XyWmUWmAq4iY4OX1ZjFeJuuL81wVd_GE4Dx38EkXyXuvF7Cgiavs8xBmiOxxXA&refId=pcYUo6H8SLGigYcozUDaJg%3D%3D&trackingId=VZKGG4NKnenK4gIlTyVKEA%3D%3D&trk=flagship3_search_srp_jobs
+
+Especialista Software Back End Java
+Sobre a vaga
+Somos oPANÁgeis, flexíveis e criativos, exploramos possibilidades com disposição e desejo de fazer acontecer. Sempre prontos para encarar novos desafios, nutrimos líderes que, além de ter garra, são abertos e empáticos, veem na proximidade das relações, o elo entre cada um.Nossa missão, se faz cumprida quando transformamos a vida dos outros através dos nossos conhecimentos. Nossos pilares de cultura, reforçam nossa postura idealizadora e com desejo de fazer acontecer:T rabalho em equipe, O usadia empreendedora e P rotagonismo com profundidade.Dominamos nossos processos e trazemos melhorias para quem deseja ter umavida financeira mais inteligente.Principais desafios:Nesse papel será responsável por definir soluções técnicas para novas funcionalidades de aplicações já existentes e criação de novas aplicações que são de responsabilidade do time, sempre focado em padrões e qualidade do código;Também estará constantemente em contato com colaboradores de outras áreas do banco, para viabilizar a criação de recursos de infra e implantações;Sua atuação será junto ao time de negócios para entendimento das demandas e posterior criação de desenho de solução, validando sua aderência aos padrões de arquitetura;Será responsável por condução de refinamentos técnicos junto ao time de desenvolvimento, além de ser um suporte aos desenvolvedores no quesito a dúvidas e impedimentos técnicos;Sua atuação também será de investigação e troubleshooting de problemas de Produção, dando suporte à equipe de “run” quando necessário, avaliando dashboards de monitoria da aplicação e logs.Quais as principais competências para a posição?Ensino superior completo ou incompleto em áreas de tecnologia;Experiência sólida como desenvolvedor (+5 anos - principalmente na linguagem Java e Framework Springboot);Experiencia como tech lead.Sólidos conhecimentos em padrões de projeto (Design Patterns e SOLID);Experiência em desenvolvimento de aplicações resilientes;Experiência em integração de sistemas;Conhecimento em desenvolvimento voltado a teste (testes de unidade);Inglês Intermediário;Java;Springboot;Mensageria - RabbitMQ;Apache Kafka;NoSQL (MongoDB);Banco relacional (MySQL, SQL Server);SQL;Web services RESTful;Microservices;Clean Code;SOLID;Design Patterns;Padrões arquiteturais de software;Teste de Unidade;Conhecimento prático de metodologias ágeis;Cloud (AWS);Sistemas de controle de versão (GIT);Docker;Capacidade de Troubleshooting.Modelo de atuação: Híbrido (2 dias presencial no escritório e 3 dia de home office)Benefícios do PAN:Bônus / PLR 🤑Vale Refeição 🍔Vale Alimentação 🍝13º de Vale Alimentação 🤌Convênio Médico (internação em apartamento para titular e dependentes) 🏥Convênio Odonto/Ortodôntico 😁Ambulatório Médico no escritório 🚑Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺Seguro de Vida ❤Descontos em mais de 10 mil farmácias 💊4 Sessões de psicoterapia por mês 🤝Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱Auxílio Creche / Babá 🎒AcomPANha (programa de acompanhamento para gestantes) 🫃🤰Gympass/Totalpass 💪Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽Day Off Aniversário 🎉Day Off Tempo de Casa 🕛Programa de reconhecimento por tempo de casa 🏆Programas de desenvolvimento 📚Massagem e Auriculoterapia 💆‍♀️💆‍♂️Salão de beleza no escritório 💇‍♂️💅PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓Portal de descontos em diversos segmentos (Allya) 🤑Campanha de vacinação (colaborador e dependente) 💉Facilitação no financiamento de veículos (Mediante análise) 🚗Cartão de crédito PAN com limite diferenciado (Mediante análise) 💳Vale Transporte (desconto de apenas 4%) 🚆Assistência Funeral 🤍Assim como todas as nossas vagas, essa também é destinada à diversidade e inclusão. Independentemente de qualquer fator, perfil ou característica,Expanda sua carreira no PAN!Para conhecer mais sobre nossos benefícios e cultura, acesse o Trabalhe Conosco:https://www.bancopan.com.br/trabalhe-conosco/Acesse também nossa página na Glassdoor e veja nossas avaliações:https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-Banco-PAN-EI_IE1184444.13,22.ht
+
+PAN
+
+
+
+
+
+T rabalho em equipe, O usadia empreendedora e P rotagonismo com profundidade.
+
+
+
+
+vida financeira mais inteligente
+
+
+Principais desafios:
+
+
+
+
+
+
+
+
+
+
+
+
+Quais as principais competências para a posição?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modelo de atuação
+
+
+Benefícios do PAN:
+
+
+Bônus / PLR 🤑Vale Refeição 🍔Vale Alimentação 🍝13º de Vale Alimentação 🤌Convênio Médico (internação em apartamento para titular e dependentes) 🏥Convênio Odonto/Ortodôntico 😁Ambulatório Médico no escritório 🚑Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺Seguro de Vida ❤Descontos em mais de 10 mil farmácias 💊4 Sessões de psicoterapia por mês 🤝Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱Auxílio Creche / Babá 🎒AcomPANha (programa de acompanhamento para gestantes) 🫃🤰Gympass/Totalpass 💪Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽Day Off Aniversário 🎉Day Off Tempo de Casa 🕛Programa de reconhecimento por tempo de casa 🏆Programas de desenvolvimento 📚Massagem e Auriculoterapia 💆‍♀️💆‍♂️Salão de beleza no escritório 💇‍♂️💅PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓Portal de descontos em diversos segmentos (Allya) 🤑Campanha de vacinação (colaborador e dependente) 💉Facilitação no financiamento de veículos (Mediante análise) 🚗Cartão de crédito PAN com limite diferenciado (Mediante análise) 💳Vale Transporte (desconto de apenas 4%) 🚆Assistência Funeral 🤍
+Bônus / PLR 🤑
+Bônus / PLR 🤑
+Vale Refeição 🍔
+Vale Refeição 🍔
+Vale Alimentação 🍝
+Vale Alimentação 🍝
+13º de Vale Alimentação 🤌
+13º de Vale Alimentação 🤌
+Convênio Médico (internação em apartamento para titular e dependentes) 🏥
+Convênio Médico (internação em apartamento para titular e dependentes) 🏥
+Convênio Odonto/Ortodôntico 😁
+Convênio Odonto/Ortodôntico 😁
+Ambulatório Médico no escritório 🚑
+Ambulatório Médico no escritório 🚑
+Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺
+Telemedicina Dr. Alper (Einstein Conecta) ilimitado. 🩺
+Seguro de Vida ❤
+Seguro de Vida ❤
+
+
+Descontos em mais de 10 mil farmácias 💊
+Descontos em mais de 10 mil farmácias 💊
+4 Sessões de psicoterapia por mês 🤝
+4 Sessões de psicoterapia por mês 🤝
+Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱
+Licença familiar estendida (Responsável 6 meses e corresponsável 30 dias) 👨‍🍼🤱
+Auxílio Creche / Babá 🎒
+Auxílio Creche / Babá 🎒
+AcomPANha (programa de acompanhamento para gestantes) 🫃🤰
+AcomPANha (programa de acompanhamento para gestantes) 🫃🤰
+Gympass/Totalpass 💪
+Gympass/Totalpass 💪
+Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽
+Auxílio tecnologia assistivas (reembolso de 85% para colaboradores com deficiência) 🦻🦽
+Day Off Aniversário 🎉
+Day Off Aniversário 🎉
+Day Off Tempo de Casa 🕛
+Day Off Tempo de Casa 🕛
+Programa de reconhecimento por tempo de casa 🏆
+Programa de reconhecimento por tempo de casa 🏆
+Programas de desenvolvimento 📚
+Programas de desenvolvimento 📚
+Massagem e Auriculoterapia 💆‍♀️💆‍♂️
+Massagem e Auriculoterapia 💆‍♀️💆‍♂️
+Salão de beleza no escritório 💇‍♂️💅
+Salão de beleza no escritório 💇‍♂️💅
+PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓
+PAE (Orientação Jurídica, Financeira, Psicológica e Social) 🧑‍🎓
+Portal de descontos em diversos segmentos (Allya) 🤑
+Portal de descontos em diversos segmentos (Allya) 🤑
+Campanha de vacinação (colaborador e dependente) 💉
+Campanha de vacinação (colaborador e dependente) 💉
+Facilitação no financiamento de veículos (Mediante análise) 🚗
+Facilitação no financiamento de veículos (Mediante análise) 🚗
+Cartão de crédito PAN com limite diferenciado (Mediante análise) 💳
+Cartão de crédito PAN com limite diferenciado (Mediante análise) 💳
+Vale Transporte (desconto de apenas 4%) 🚆
+Vale Transporte (desconto de apenas 4%) 🚆
+Assistência Funeral 🤍
+Assistência Funeral 🤍
+
+
+Assim como todas as nossas vagas, essa também é destinada à diversidade e inclusão. Independentemente de qualquer fator, perfil ou característica,Expanda sua carreira no PAN!
+
+Expanda sua carreira no PAN
+
+
+
+
+
+
+
+
+
