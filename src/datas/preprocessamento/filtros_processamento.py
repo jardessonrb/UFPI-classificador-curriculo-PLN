@@ -5,7 +5,7 @@ def limpar_linhas_em_branco(arquivo: list[str]) -> list[str]:
     return [linha.strip() for linha in arquivo if linha.strip() != "" and len(linha) > 1] 
 
 def split_linha(linha: str, caracter: str) -> list[str]:
-    return [f'{linha}{caracter}' for linha in linha.split(caracter)]
+    return [linha for linha in linha.split(caracter)]
 
 def remover_linhas_duplicadas(arquivo: list[str]) -> list[str]:
     linhas = []
@@ -15,11 +15,11 @@ def remover_linhas_duplicadas(arquivo: list[str]) -> list[str]:
     return linhas
 
 def expandir_textos_separando_por_pontuacao(arquivo: list[str]) -> list[str]:
-    separadores = [';', '.', ':', '!']
+    separadores = [';', '.', ':', '!', '/']
     linhas = arquivo
     for caracter in separadores:
         linhas = expandir_texto(arquivo = linhas, caracter = caracter)
-    return linhas
+    return [linha for linha in linhas]
 
 def expandir_texto(arquivo: list[str], caracter: str) -> list[str]:
     linhas_expandidas = []
@@ -44,10 +44,20 @@ def separar_palavras_cases_diferentes(arquivo: list[str]) -> list[str]:
         cont += 1
     return linhas
 
+def remover_links(arquivo: list[str]) -> list[str]:
+    link = "https://"
+    linhas = []
+    for linha in arquivo:
+        if link in linha:
+            partes = linha.split()
+            linhas.append(" ".join([palavra for palavra in partes if link not in palavra]))
+        else:
+            linhas.append(linha)
+    return linhas
+
 def remover_palavras_com_hashtag(frase: str) -> str:
-    # Filtra palavras que não começam com '#'
     palavras = [palavra for palavra in frase.split() if not palavra.startswith('#')]
-    # Junta as palavras novamente em uma frase
+
     return ' '.join(palavras)
 
 def contem_palavras_com_hashtag(frase: str) -> bool:
@@ -62,7 +72,6 @@ def separar_camel_case(texto: str):
     # Expressão regular que captura a transição de camelCase, incluindo caracteres Unicode
     partes = re.split(r'(?<=[a-zá-úà-ùâ-ûã-õä-üç])(?=[A-ZÁ-ÚÀ-ÙÂ-ÛÃ-ÕÄ-ÜÇ])', texto)
     return partes
-
 
 def print_l(arquivo: list[str]) -> None:
     for l in arquivo:

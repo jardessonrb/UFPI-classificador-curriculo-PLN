@@ -49,7 +49,12 @@ def extruturar_json(arquivo: list[str] = None, topicos: dict = None, origem: str
     return vaga_json
 
 def salvar_dicionario_como_json(pasta, origem, dicionario):
-    caminho_arquivo = os.path.join(caminho_script, "..", pasta, f"corpus_vagas.json")
+    caminho_arquivo = os.path.join(caminho_script, "..", pasta, f"corpus_{origem}.json")
+    with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
+        json.dump(dicionario, arquivo, ensure_ascii=False, indent=4)
+
+def salvar_dicionario_como_json_teste(pasta, origem, dicionario):
+    caminho_arquivo = os.path.join(caminho_script, pasta, f"{origem}.json")
     with open(caminho_arquivo, 'w', encoding='utf-8') as arquivo:
         json.dump(dicionario, arquivo, ensure_ascii=False, indent=4)
 
@@ -88,7 +93,9 @@ def agrupar_vagas_em_json() -> None:
     
         try:
             with open(caminho, 'r', encoding='utf-8') as arquivo:
-                linhas = arquivo.readlines()
+                # linhas = arquivo.readlines()
+                linhas = buscar_arquivo("teste", nome_arquivo="exemplo_entrada.txt")
+                print("linhas - ", len(linhas))
                 if len(linhas) < 3:
                     continue
 
@@ -104,38 +111,37 @@ def agrupar_vagas_em_json() -> None:
 
         except Exception as e :
             print(pasta, area, caminho)
-    salvar_dicionario_como_json("corpus", "", dicionario_vagas_json)
+        
+        break
+
+    salvar_dicionario_como_json("corpus", "v3", dicionario_vagas_json)
     print("Arquivo final salvo")
-            
-
-
-
-
 
 
 if __name__ == "__main__":
-    # agrupar_vagas_em_json()
-    pasta = "teste"
-    linhas = buscar_arquivo(pasta, nome_arquivo="exemplo_entrada.txt")
+    agrupar_vagas_em_json()
 
-    esteira = EsteiraPreProcessamento()
-    esteira.add_filtro(expandir_textos_separando_por_pontuacao)
-    esteira.add_filtro(separar_palavras_cases_diferentes)
-    esteira.add_filtro(remover_emojis)
-    esteira.add_filtro(limpar_linhas_em_branco)
-    esteira.add_filtro(eliminar_linhas_sem_palavras)
-    esteira.add_filtro(eliminar_palavras_com_hashtag)
-    esteira.add_filtro(remover_linhas_duplicadas)
-    esteira.add_filtro(eliminar_linhas_semelhantes)
+    # pasta = "teste"
+    # linhas = buscar_arquivo(pasta, nome_arquivo="exemplo_entrada.txt")
 
-    linhas = esteira.run(linhas)
-    escrever_texto(pasta, linhas)
+    # esteira = EsteiraPreProcessamento()
+    # esteira.add_filtro(expandir_textos_separando_por_pontuacao)
+    # esteira.add_filtro(separar_palavras_cases_diferentes)
+    # esteira.add_filtro(remover_emojis)
+    # esteira.add_filtro(limpar_linhas_em_branco)
+    # esteira.add_filtro(eliminar_linhas_sem_palavras)
+    # esteira.add_filtro(eliminar_palavras_com_hashtag)
+    # esteira.add_filtro(remover_linhas_duplicadas)
+    # esteira.add_filtro(eliminar_linhas_semelhantes)
 
-    classificador = ClassificadorTopico()
-    for index, linha in enumerate(linhas):
-        classificador.classificar_linha(linha, index)
+    # linhas = esteira.run(linhas)
+    # escrever_texto(pasta, linhas)
 
-    topicos: dict = dict(sorted(classificador.get_dict_topicos().items(), key=lambda item: item[1]["n_linha"]))
+    # classificador = ClassificadorTopico()
+    # for index, linha in enumerate(linhas):
+    #     classificador.classificar_linha(linha, index)
+
+    # topicos: dict = dict(sorted(classificador.get_dict_topicos().items(), key=lambda item: item[1]["n_linha"]))
     # print(topicos)
-    vaga_json = extruturar_json(linhas, topicos)
-    salvar_dicionario_como_json("vaga_json", "vaga_ux_ui_linkedin_99_designer", vaga_json)
+    # vaga_json = extruturar_json(linhas, topicos)
+    # salvar_dicionario_como_json_teste("vaga_json", "gupy_analista_133", vaga_json)

@@ -1,72 +1,81 @@
-link-https://www.linkedin.com/jobs/view/4064710911/?eBP=BUDGET_EXHAUSTED_JOB&refId=Llwmb2nk19NKn9%2BQWPfBYA%3D%3D&trackingId=JKJ6OKv%2FNePxlWWg414Iqw%3D%3D&trk=flagship3_search_srp_jobs
-Estagiário de Design UX/UI
-Sobre a vaga
-Vaga 100% remota.
-Estamos em busca de um
-Estagiário de Design UX/UI,venha e nos ajude a mover o Brasil!
-A Gaudium ajuda empreendedores a levarem mobilidade urbana e entrega em todo o país, transformando a vida de passageiros, motoristas e entregadores em mais de 1.!
-200 cidades brasileiras.
-Somos responsáveis por mais de 300 milhões de corridas e entregas, movimentando mais de 1,5 bilhões de reais anualmente em todo o país por meio de nossos clientes.
-Veja mais sobre a Gaudium e a Machine em:
-https:
-//gaudium.:
-global/Atividades:
-Testar a usabilidade de dashboards no Power BI, identificando e propondo melhorias de design para a usabilidade dos usuários.:
-Criar protótipos de design/redesign de dashboards considerando metodologias de UX/UI;.
-Identificar bugs e inconsistências nos dados, relatando para a equipe de analistas;
-Organizar e documentar processos de design;
-Criar material de apoio para os usuários das dashboards;
-Colaborar com a equipe para implementar melhorias contínuas baseadas em feedback e novas tendências de UX/UI.
-Requisitos:
-Estar cursando a partir do 4º semestre de Design, Design de produto ou áreas correlatas;.:
-Habilidades analíticas para avaliar a usabilidade dos dashboards e propor melhorias;
-Conhecimento básicos de UX/UI;
-Organização para documentar processos e criar guias e materiais de suporte;
-Boa comunicação e colaboração com a equipe para implementar melhorias contínuas;
-Portfólio (mesmo que acadêmico ou projetos pessoais/autorais).
-Benefícios:
-Trabalho 100% remoto;.:
-Bolsa de estágio entre R$ 1.
-538,81 e R$ 2.
-Bônus anual;
-Stock option (possibilidade de se tornar sócio);
-Seguro de vida;
-Vale Alimentação diário de R$ 40,00 (cartão flash benefícios);
-Auxilio trabalho remoto R$ 120,00;
-Wellhub;
-Day off:
-Um dia de folga no mês do seu aniversário;:
-No carnaval e quarta-feira de cinzas;
-Nos dias 24 e 31/12.
-Ambiente com vários desafios que farão você crescer e se desenvolver rapidamente.
-Valores da empresa:
-Trabalho em equipe (Estimulamos a cooperação);.:
-Honestidade e transparência (Falamos a verdade e somos transparentes);
-Excelência (Todos os dias tentamos ser melhor do que fomos ontem);
-Agilidade e Resultado (Trabalhamos por meritocracia e sonhamos grande);
-Desafio (Premiamos quem gosta de se desafiar e sair de zona de conforto).
-Fases do processo seletivo:
-Formulário de confirmação da vaga;.:
-Teste rápido de lógica;
-Avaliação técnica;
-Entrevista com a área de Gente e Gestão;
-Entrevista Final.
-Para se candidatar às nossas vagas, é necessário realizar o seguinte passo a passo:
-Clicar no botão "Candidatar-se" no Linked
-In;.:
-Escolher a vaga para qual você deseja se candidatar na plataforma Gupy;
-Clicar no botão "Candidatar-se" e realizar o preenchimento do currículo através da plataforma.
-Atenção:
-Não respondemos a mensagens via Linked
-In ou recebemos currículos por outros canais de comunicação, centralizamos todas as comunicações na Gupy para garantir um contato mais eficiente e um melhor gerenciamento.:
-Estagiário de Design UX/UI,
-A Gaudium ajuda empreendedores a levarem mobilidade urbana e entrega em todo o país, transformando a vida de passageiros, motoristas e entregadores em mais de 1.
-global/.
-Atividades:
-Testar a usabilidade de dashboards no Power BI, identificando e propondo melhorias de design para a usabilidade dos usuários.
-Criar protótipos de design/redesign de dashboards considerando metodologias de UX/UI;
-Estar cursando a partir do 4º semestre de Design, Design de produto ou áreas correlatas;
-Trabalho 100% remoto;
-Trabalho em equipe (Estimulamos a cooperação);
-Formulário de confirmação da vaga;
-In;
+link_vaga-https://wine.gupy.io/job/eyJqb2JJZCI6Nzg0MzY2MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+E-COMMERCE
+PESSOA ANALISTA DE PERFORMANCE - DADOS
+Tipo de vaga
+Efetivo
+Modelo de trabalho
+Remoto
+Vaga também para Pc
+DESCRIÇÃO DA VAGA
+Ei, tudo bem?
+Se você é uma pessoa analítica, focada em trazer soluções criativas para o negócio e busca se desenvolver em um ambiente dinâmico e desafiador, então, essa oportunidade é para você
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você irá trabalhar com
+Apoiar no desdobramento e acompanhamento das metas e definição de OKR
+Análise do impacto das campanhas na margem bruta de cada canal
+Conduzir a construção de dashboards em Power BI e looker studio para melhor acompanhamento de resultados da companhia
+Tomada de decisões baseada em dados
+Relacionamento com áreas internas
+Acompanhamento e análise do Negócio
+Trabalhar em colaboração com as equipes de engenharia, dados e comercial
+Acompanhar semanalmente os OKR's e report para as reuniões gerenciais
+Analisar a performance por canal de aquisição através de ferramentas de atribuição
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?
+Habilidade com gestão de indicadores de performance e desenvolvimento de relatórios
+Criação, Automatização e Manutenção de relatórios
+Habilidade com ferramentas de gestão de dados e indicadores
+Domínio de SQL, Ferramentas de Data
+Viz (Looker studio
+Power
+BI) e Excel
+Google
+Sheets
+Vai ser muito legal se, além disso, você tiver
+Desejável conhecimento em Phyton
+INFORMAÇÕES ADICIONAIS
+Em nosso processo seletivo, queremos que você fique à vontade e seja você mesmo
+Sem regras, padrões ou rótulos, a gente acolhe e respeita todos os jeitos e formas
+Sinta-se à vontade e pergunte o que quiser
+Queremos conhecer você, trocar figurinhas e aproveitar ao máximo essa experiência
+E você também deve conhecer a gente, e o nosso relacionamento é o que mais importa
+Leia a descrição das vagas atentamente e procure identificar as que têm maior aderência com o seu perfil
+Queremos que se candidate a uma vaga que tem tudo a ver com você
+Ah, fique ligado(a)
+É essencial manter seus dados corretos para podermos entrar em contato com você, então, lembre-se de manter seu perfil atualizado na Gupy e no Linked
+In (atualize e-mail e celular)
+ETAPAS DO PROCESSO
+Etapa 1
+Cadastro
+Etapa 2
+Entrevista com Gestão da área
+Etapa 3
+Teste Prático
+Etapa 4
+Entrevista com Rh e Avaliação Psicológica
+Etapa 5
+Contratação
+SOMOS WINE
+Aqui nós, juntos, vamos além
+Ampliamos, expandimos e crescemos em habilidades e criatividade
+Somos diversão, sonhos, ambição e energia
+Não seguimos padrões e temos um ritmo desafiador que transforma movimentos e nos faz correr atrás de nossos objetivos de forma inspiradora
+SOMOS CONFIANÇA
+Com pluralidade transformamos, mudamos e construímos sem perder a credibilidade
+Um ambiente seguro para a divergência produtiva
+SOMOS VERDADE
+Com transparência, trazemos o verdadeiro senso de responsabilidade para a mesa
+Seja feia ou bonita, valorizamos a verdade, sempre
+SOMOS APRECIAÇÃO
+Criamos um ciclo produtivo de um ambiente de trabalho apreciativo, com respeito e admiração por cada Wineano e Wineana e como, individualmente, gera valor
+SOMOS PROTAGONISMO
+Oportunizamos um ambiente de infinitas possibilidades
+Incentivamos que cada um(a) abandone o que limita a si mesmo(a), que busque novos desafios e que se reinvente
+Que seja protagonista da sua carreira
+CONHEÇA MAIS SOBRE NÓS
+Website
+Linked
+In
+Facebook
+Instagram
+Glassdoor
