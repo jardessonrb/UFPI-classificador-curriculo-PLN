@@ -1,0 +1,56 @@
+{
+    "EXPERIENCIAS": [
+        "InfoG2 LTDA",
+        "Desenvolvedor de Software Front End (Estágio) (Outubro de 2022 - Abril de 2023)",
+        "Software House onde eu realizava manutenção e criação de novos sistemas",
+        "utilizando Vue.js, BootStrap, JQuery e Django. Realizava otimizações de tela e",
+        "SEO. Aplicação de conceitos de UX/UI;",
+        "Deploy utilizando os serviços da AWS.",
+        "Inkless Inova Simples",
+        "Desenvolvedor de Software Front End (Estágio) (Outubro de 2023 - Maio de 2024)",
+        "A empresa é uma startup na área da saúde, realizava manutenção nos sistemas",
+        "web utilizando Vue.js, com foco em melhorar o tempo de carregamento de rotas",
+        "implementadas previamente. Desenvolvimento de novos sistemas utilizando",
+        "React.js, desenvolvimento e manutenção de apps utilizando React Native,",
+        "otimizadas e com animações;",
+        "Deploy utilizando os serviços da Digital Ocean e criação de containers Docker;",
+        "Participei no levantamento de requisitos, modelagem e na elaboração de",
+        "estratégias para o desenvolvimento de novos serviços implementados",
+        "internamente.",
+        "Freelancer",
+        "Desenvolvedor de Software Front End (Autônomo) (Maio de 2024 - Atualmente)",
+        "Desenvolvimento de aplicações mobile com foco em UX/ UI utilizando React",
+        "Native, realizando integrações com APIs Rest.",
+        "Foco em aplicações interativas, amigáveis e otimizadas.",
+        "Criação de mockups no Figma.",
+        "Manutenção de sistemas Web."
+    ],
+    "COMPETENCIAS_HABILIDADES": [
+        "Linguagens de programação - Golang, JavaScript, SQL, Python e JavaScript.",
+        "Frameworks - React.js, Vue.js, React Native, Fiber(Golang), FastAPI, Django, BootStrap.",
+        "Outros - Docker, Git, Github, Scrum, REST, OO - Orientação a Objetos, Banco de Dados,",
+        "Figma, Métodos Ágeis, HTML, JQuery, CSS e AWS."
+    ],
+    "IDIOMAS": [
+        "Português",
+        "Nativo",
+        "Inglês",
+        "Básico"
+    ],
+    "EXTRACURRICULARES": [
+        "BootCamp Santander 2023 - Ciência de dados com python;",
+        "Curso de Desenvolvimento Web Full Stack com Node.js;",
+        "CURSO DE EXTENÇÃO \"JAVA AVANÇADO PARA TIMES REMOTOS USANDO JHEAT E",
+        "HIBERNATE\"",
+        "Certificação AWS Academy Cloud Fundations.",
+        "Desenvolvimento e publicação sob orientação de uma aplicação web utilizando",
+        "Java com Spring Boot no back end, TypeScript com ReactJS no front end",
+        "PROJETOS",
+        "OrganizerFine",
+        "App mobile de gestão financeira para controle de gastos e receitas. Desenvolvido com React Native e Golang para o",
+        "aprendizado das ferramentas de desenvolvimento mobile.",
+        "HandManga",
+        "App mobile desenvolvido com React Native para leitura de mangás, consumindo API gratuita. Funcionalidades de",
+        "mudança de linguagem, leitura vertical e horizontal. pesquisa dinâmica com paginação."
+    ]
+}

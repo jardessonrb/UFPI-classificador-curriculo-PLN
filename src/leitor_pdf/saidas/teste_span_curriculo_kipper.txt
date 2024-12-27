@@ -1,0 +1,160 @@
+
+
+Contato
+www.linkedin.com/in/fernanda-
+kipper
+(LinkedIn)
+www.fernandakipper.com/
+(Portfolio)
+Principais competências
+React Js
+Spring Boot
+Angular (Framework)
+Languages
+Inglês
+(Full Professional)
+Espanhol
+(Elementary)
+Português
+(Native or Bilingual)
+Certifications
+Inglês Avançado
+Bootcamp Ignite -  Web
+Development with React JS
+HTML, CSS e JavaScript -
+Desenvolvimento Web FullStack
+AWS Certified Cloud Practitioner
+Honors-Awards
+PRAD -  Programa de Remuneração
+de Alto Desempenho
+Microsoft Most Valuable Professional
+(MVP)
+Fernanda Kipper
+Engenheira de Software @ MercadoLivre | Microsoft MVP |
+Desenvolvedor | Java | Spring | JavaScript | Angular | React Js |
+AWS Certified
+Pelotas, Rio Grande do Sul, Brasil
+Resumo
+Desenvolvedora de Software desde 2020, tenho ampla experiência
+em projetos web de grande escala que impactam milhões de
+usuários com tecnologias como Java, Javascript e Typescript.
+Durante a universidade, tive a oportunidade de participar de projetos
+de pesquisa, envolvendo desenvolvimento de aplicações para o
+setor acadêmico, apresentado em conferências internacionais,
+contribuindo para democratização do conhecimento.
+Atualmente trabalho como Engenheira de Software no Mercado
+Livre, onde faço parte da equipe responsável pelo setor de
+Fármácias do maior E-commerce da América Latina.
+Nas horas vagas, compartilho meu amor pela área através de
+conteúdos sobre programação e tecnologias nas redes Youtube
+(https://www.youtube.com/@kipperdev) e Instagram (https://
+www.instagram.com/kipper.dev/) totalizando uma comunidade de
+mais de 150 mil pessoas.
+Se você tiver alguma dúvida em que eu possa ajudar, sinta-se à
+vontade para entrar em contato aqui no LinkedIn ou pelo meu e-mail
+(contato@fernandakipper.com).
+Experiência
+Mercado Livre
+Engenheiro de software
+setembro de 2024 - Present (4 meses)
+Florianópolis, Santa Catarina, Brasil
+Itaú Unibanco
+2 anos 2 meses
+Engenheiro de Software Pleno
+
+Page 1 of 4
+
+
+setembro de 2023 - agosto de 2024 (1 ano)
+São Paulo, Brasil
+No Itaú, maior banco da américa latina, atuo na comunidade de abertura de
+contas, onde sou responsável pela manutenção e desenvolvimento do fluxo
+digital de abertura de conta impactando milhões de usuários mensalmente. Já
+participei de diversos projetos e inciativas dentro banco, e como Engenheira
+de Software Plena, minhas principais entregas até agora foram:
+- Desenvolvimento da API chamada de "cérebro" do fluxo modernizado de
+abertura de contas, atuei na etapa de agregação de informações e variáveis
+de vários serviços internos, realizando a busca de todas informações de forma
+paralela e usando-as para ofertar diferentes produtos para o cliente, usando
+Java, Spring Boot, AWS, Multi-threading, JUnit e outros. Esta iniciativa foi
+crucial para habilitar tomadas de decisão inteligentes e automatizadas durante
+o processo de abertura de contas.
+- Liderei a modernização de uma plataforma essencial para as agências do
+banco durante fluxo de abertura de contas, realizei a migração do legado para
+a tecnologias atualizadas, desenvolvendo um Micro Frontend usando Angular,
+Typescript e AWS. Além da integração com serviços internos do banco
+para consumo de dados. Essa modernização melhorou significativamente a
+perfomance da aplicação, diminuindo o tempo de resposta para menos de 1s
+e a experiência do usuário ao navegar a plataforma.
+Engenheiro de Software júnior
+julho de 2022 - setembro de 2023 (1 ano 3 meses)
+- Desenvolvimento e teste de novas funcionalidades utilizando Typescript,
+Angular, Jest e AWS
+- Migrações de arquitetura de aplicações legadas a fim de reduzir custos e
+melhorar a manutenabilidade usando conhecimentos de micro frontends e
+microserviços
+- Realização de code review
+- Acompanhamento e deploy da aplicação garantindo que ocorram com
+segurança e sem interrupções no sistema utilizando AWS, Angular, Java e
+Splunk
+Stone
+Desenvolvedor de software júnior
+março de 2022 - junho de 2022 (4 meses)
+Brazil
+
+Page 2 of 4
+
+
+Na Stone, terceira maior adquirente de meios de pagamento do Brasil, atuei
+como Frontend Developer no time de Marketing & Growth.
+- Liderei o desenvolvimento do novo Blog Stone, usando minhas habilidades
+de desenvolvimento front-end em Javascript, Jquery, CSS e HTML, garantindo
+que o site seguisse o design da marca e melhorasse a experiência do usuário
+e elevando a quantidade de acessos ao site
+- Implementação de testes A/B com Google Optimize e Google Analytics
+aftersale
+1 ano 1 mês
+Desenvolvedor de software júnior
+novembro de 2021 - março de 2022 (5 meses)
+A Aftersale é uma startup que oferece soluções inteligentes e automatizadas
+de pós venda para e-commerces, que auxiliam na fidelização e retenção dos
+consumidores.
+- Dirigi refatorações importantes, contribuindo para a manutenção do sistema
+e migração de código legado usando React Js, Next Js, GraphQL e Typescript
+- Participei ativamente na construção do microsserviço de mensageria usando
+Node jS
+- Aumentei a cobertura de testes em 20% em uma das aplicações frontend
+Frontend Tech Trainee
+março de 2021 - outubro de 2021 (8 meses)
+Remoto
+- Reduzimos o número de bugs frontend no backlog para zero
+- Desenvolvimento de novas features usando React JS, Next Js,Typescript,
+Javascript e Styled Components
+- Construção de endpoints no BFF usando GraphQL
+- Realização de Code Reviews
+Universidade Federal de Pelotas
+Bolsista de Desenvolvimento Tecnológico
+agosto de 2020 - agosto de 2021 (1 ano 1 mês)
+Como bolsista da Fundação de Amparo à Pesquisa do Estado do Rio
+Grande do Sul na Universidade Federal de Pelotas (UFPEL), contribui desde
+a etapa da concepção da ideia até o desenvolvimento de um indexador
+digital para Recursos Educacionais Abertos, o qual trará para a comunidade
+acadêmica um grande impacto positivo nas questões de reaproveitamento e
+
+Page 3 of 4
+
+
+universalização desses materiais. O estudo foi publicado em conferências de
+pesquisa e educação como a Conferência Latino-americana de Tecnologias
+de Aprendizagem e em duas edições da Semana Integrada de Inovação
+da UFPEL. A ferramenta está em desenvolvimento e fase de testes com
+docentes locais, e foi construída utilizando conhecimentos de JavaScript,
+NodeJS e React JS.
+Formação acadêmica
+Universidade Federal de Pelotas
+Bacharelado, Ciência da Computação · (fevereiro de 2020 - julho de 2024)
+Rocketseat
+Bootcamp Ignite React JS, Computer Programming · (março de 2021 - julho
+de 2021)
+
+Page 4 of 4

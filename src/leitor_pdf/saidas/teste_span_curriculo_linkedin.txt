@@ -1,0 +1,69 @@
+
+
+Contato
+jardessonrs1117@gmail.com
+www.linkedin.com/in/jardessonrb
+(LinkedIn)
+github.com/jardessonrb
+(Portfolio)
+Principais competências
+Sistemas distribuídos
+Engenharia de sistemas
+Modelagem de sistemas
+Járdesson Ribeiro
+Bacharelando em Ciência da Computação - UFPI | Técnico em
+Informática - IFPI | Desenvolvedor de Software | Solucionador
+de Problemas | Entusiasta de Tecnologia | Java | C++ | Spring |
+Postgres | Developer
+Teresina, Piauí, Brasil
+Resumo
+Sou estudante de Ciências da Computação na UFPI, com
+formação técnica em desenvolvimento de sistemas pelo IFPI.
+Tenho habilidades em Java, JavaScript e C++, com destaque em
+orientação a objetos, princípios SOLID e algoritmos. Proficiente
+em SQL (Postgres, MySQL) e NoSQL (MongoDB), meu foco inclui
+desenvolvimento moderno com Spring Boot, NestJS e Express, e
+integração de serviços usando Kafka e gRPC. Além disso, tenho
+facilidade em resolver problemas, sou entusiasta de aprendizado
+contínuo e sempre busco contribuir para o aprendizado coletivo. Sou
+uma pessoa comunicativa e colaborativa.
+Experiência
+Universidade Federal do Piauí
+Estudante de Graduação
+março de 2020 - Present (4 anos 10 meses)
+Teresina, Piauí, Brasil
+Durante meu período na universidade, mergulhei no desenvolvimento de
+aplicações com um foco acadêmico sólido. Apliquei ativamente os conceitos
+aprendidos em sala de aula através de projetos práticos, explorando
+diversas áreas da computação. Participar dessas iniciativas não apenas
+consolidou meu entendimento teórico, mas também me proporcionou uma
+valiosa experiência na aplicação prática de soluções computacionais. Essa
+abordagem prática, combinada com o ambiente acadêmico, enriqueceu
+significativamente minha jornada universitária.
+Maida.health
+Desenvolvedor Backend
+maio de 2022 - outubro de 2023 (1 ano 6 meses)
+Teresina, Piauí, Brasil
+
+Page 1 of 2
+
+
+Atuei ativamente no levantamento de requisitos para novos serviços,
+estabelecendo uma sólida base para o desenvolvimento de APIs. Em um
+ambiente de microsserviços, realizei integração entre serviços utilizando
+diferentes formas de comunicação, como Http Requests, Kafka e gRPC, para
+atender às demandas específicas de desempenho. Atuei na sustentação em
+produção com a resolução de bugs, aplicando uma abordagem analítica para
+identificação e correção de problemas eventuais. Além disso, desempenhei
+trabalhos de melhoria de desempenho, especialmente com processamento de
+dados e arquivos. Nessa experiência, trabalhei com uma stack de tecnologia
+robusta, incluindo Java, Spring Framework e Postgres. Nesse desafio, tive a
+oportunidade de utilizar práticas ágeis, como o Scrum, no gerenciamento da
+esteira de desenvolvimento.
+Formação acadêmica
+Universidade Federal do Piauí
+2025, Ciência da Computação · (março de 2020 - março de 2025)
+IFPI - Instituto Federal do Piauí
+Ensino Técnico, Engenharia de Software · (outubro de 2017 - julho de 2019)
+
+Page 2 of 2

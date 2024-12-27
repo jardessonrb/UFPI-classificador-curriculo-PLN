@@ -1,0 +1,55 @@
+{
+    "FORMACOES": [
+        "Bacharelando em Ciência da Computação pela Universidade Federal do Piauí",
+        "Março de 2020 -  Janeiro de 2025",
+        "Técnico em Informática  pelo Instituto Federal de Educação, Ciência e Tecnologia do Piauí",
+        "Outubro de 2017 -  Julho de 2019"
+    ],
+    "EXPERIENCIAS": [
+        "Flona Palmares",
+        "Professor Voluntário  de Informática (Agosto de 2024)",
+        "Ministro aulas de informática básica para crianças e adolescentes do projeto, focando desde a história e",
+        "funcionamento dos computadores até a criação de documentos, apresentações e planilhas, usando o pacote o\u0001ce",
+        "(Word, Excel, PowerPoint), utilizando de mecanismos para deixar as aulas mais dinâmicas e interativas,",
+        "promovendo o engajamento dos alunos.",
+        "Maida Health",
+        "Desenvolvedor de Software Backend (Maio de 2022  - Setembro de 2023)",
+        "Participei do desenvolvimento de projetos em um ambiente de microsserviços, seguindo a metodologia ágil Scrum.",
+        "Além disso, utilizei a ferramenta Jira para gerenciar o processo de desenvolvimento, incluindo quadros Kanban para",
+        "priorização de atividades, entre outros recursos. Contribui para a criação de novas funcionalidades, implementação",
+        "de testes automatizados com JUnit e Mockito, integração entre serviços com Kafka para comunicações assíncronas,",
+        "além de gRPC e requisições HTTP em APIs para comunicações síncronas.",
+        "Também atuei na equipe de sustentação, resolvendo bugs, identiﬁcando inconsistências e criando lambdas na AWS",
+        "para melhoria de performance conforme necessário. Além disso, participei da documentação de API´s para garantir",
+        "a clareza e a compreensão entre os times de desenvolvimento.",
+        "Elliptic Technology",
+        "Desenvolvedor de Software  (Fevereiro de 2022  -  Maio de 2022)",
+        "Atuei como desenvolvedor de software, enfrentando o desaﬁo constante de entregar produtos de alta qualidade.",
+        "Durante esse período, concentrei-me no desenvolvimento backend, principalmente utilizando JavaScript/Node.js.",
+        "Utilizei os frameworks NestJS e Express para criar API´s, contribuindo diretamente para a implementação de",
+        "soluções tecnológicas inovadoras."
+    ],
+    "COMPETENCIAS_HABILIDADES": [
+        "Linguagens de programação - Java, Python,  C++,  JavaScript/TypeScript/Node,  SQL, HTML, CSS.",
+        "Frameworks - Spring Framework, React, NestJS, NextJS, Express, JUnit, Mockito.",
+        "Outros - Docker, Git, Github, GitLab, Scrum, REST, OO - Orientação a Objetos, Banco de Dados, Postgresql,",
+        "MongoDB e MySQL, Design APIś REST, Kafka, Métodos Ágeis, SOLID"
+    ],
+    "EXTRACURRICULARES": [
+        "Aluno de iniciação tecnológica na área de Engenharia de Software.",
+        "2021, 2022, 2023 Estudante de preparação para maratona de programação universitária",
+        "Destaque no programa Imersão 42 para universitários focado em desenvolvimento de software.",
+        "Destaque no curso de extensão Java Avançado oferecido pela universidade em parceria com empresa privada."
+    ],
+    "CONQUISTAS_CERTIFICACOES": [
+        "2022",
+        "2° lugar",
+        "Maratona de Programação SBC (Sociedade Brasileira de Computação) fase regional",
+        "Conquistamos medalha de prata em equipe de 3 pessoas, ﬁcando em 2º lugar entre universidades públicas e",
+        "privadas do estado do Piauí, na maratona de programação na fase regional.",
+        "2021",
+        "Finalista",
+        "Olimpíada Brasileira de Informática OBI da SBC (Nível Universitário)",
+        "Fiquei entre os tops 8,5% melhores entre todos os estudantes do país na categoria sênior/universitário."
+    ]
+}
